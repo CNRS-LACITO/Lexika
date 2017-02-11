@@ -1,0 +1,27 @@
+chemin source: exemples/test.lex
+chemin cible: test.xml
+type source: test
+sens: direct
+type: normal
+hiérarchie: normale
+catégorie: normale
+dictionnaire:
+  nom: Essai d'un dictionnaire simple
+  auteur: Benjamin Galliot
+  commentaire: Ça déchire grave !
+langues:
+- identifiant: fra
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: français
+  glossonyme: français
+  statuts: [cible]
+- identifiant: eng
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: English
+  glossonyme: anglais
+  statuts: [cible]
+créateur: nébuleuse obscure
+tâches:
+- joindre lignes coupées

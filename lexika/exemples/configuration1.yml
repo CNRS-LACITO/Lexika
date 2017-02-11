@@ -1,0 +1,31 @@
+chemin source: exemples/tamaŋ.txt
+chemin cible: tamaŋ.xml
+type source: Lex
+sens: direct
+type: normal
+hiérarchie: normale
+identifiant: tamaŋ - test
+nom: Essai d'un dictionnaire tamaŋ
+catégorie: normale
+langues:
+- code: tam
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: tamaŋ
+  glossonyme: tamaŋ
+  statuts: [source, vernaculaire]
+- code: fra
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: français
+  glossonyme: français
+  statuts: [cible]
+- code: eng
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: English
+  glossonyme: anglais
+  statuts: [cible]
+créateur: Martine
+tâches:
+- remplacer_caractères

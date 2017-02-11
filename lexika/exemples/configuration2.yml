@@ -1,0 +1,31 @@
+chemin source: exemples/Mwotlap.lex
+chemin cible: mwotlap.xml
+type source: MDF
+sens: direct
+type: normal
+hiérarchie: normale
+identifiant: mwotlap - test
+nom: Essai d'un dictionnaire mwotlap
+catégorie: normale
+langues:
+- code: mlv
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: mwotlap
+  glossonyme: mwotlap
+  statuts: [source, vernaculaire]
+- code: fra
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: français
+  glossonyme: français
+  statuts: [cible]
+- code: eng
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: English
+  glossonyme: anglais
+  statuts: [cible]
+créateur: Alex
+tâches:
+- remplacer_caractères
