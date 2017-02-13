@@ -23,6 +23,7 @@ class Configuration:
         if self.type_source in lexika.configuration.types_source:
             self.__dict__.update({clef.replace(" ", "_"): valeur for clef, valeur in lexika.configuration.types_source[self.type_source].items()})
             self.créateur = lexika.configuration.créateurs[self.créateur]
+            # self.créateur_inverse = lexika.configuration.créateurs[self.créateur_inverse]
         else:
             raise Exception("Format '{}' non pris en charge.".format(self.type_source))
 

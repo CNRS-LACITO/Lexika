@@ -21,7 +21,7 @@ class GénérateurXML:
 
     def créer_éléments(self, objet, branche):
         if isinstance(objet, lexika.linguistique.EntitéLinguistique):
-            sous_branche = xml.etree.cElementTree.SubElement(branche, objet.nom_entité_linguistique)
+            sous_branche = xml.etree.cElementTree.SubElement(branche, objet.__class__.__name__)
             for nom, élément in objet.__dict__.items():
                 if élément:
                     if nom in ["identifiant"]:

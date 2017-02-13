@@ -23,5 +23,6 @@ langues:
   glossonyme: anglais
   statuts: [cible]
 créateur: nébuleuse obscure
+créateur inverse: nébuleuse diffuse
 tâches:
 - joindre lignes coupées

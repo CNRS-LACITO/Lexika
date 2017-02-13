@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-02-12 15:25+0100\n"
+"PO-Revision-Date: 2017-02-12 15:30+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: Benjamin Galliot\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+
+#: déesse.py:57
+msgid "Tâche de niveau « {} » en cours d'exécution : « {} »"
+msgstr "'{}' level task under processing: '{}'"
+
+#: déesse.py:61
+msgid "Tâche « {} » échouée : {}"
+msgstr "'{}' task failed:{}"
+
+#: déesse.py:63
+msgid "analyse de données"
+msgstr "data analysis"
+
+#: déesse.py:109
+msgid "La balise de type « {} » (ligne {}) ne contient aucune valeur."
+msgstr "'{}' type marker (line {}) does not contain any value."
+
+#: nébuleuse.py:36
+msgid "Entité « {nom} » en cours, avec pour attribut « {attribut} » et pour valeur « {information} » (avec les paramètres suivant : « {paramètres} »)."
+msgstr "'{nom}' entity under processing, with '{attribut}' attribute and '{information}' information (with the following parameters: '{paramètres}')."
+
+#: nébuleuse.py:40
+msgid "Attention, l'entité linguistique « {} » n'est pas reconnue."
+msgstr "Warning: '{}' linguistic entity is not recognized."
+
+#: nébuleuse.py:61
+msgid "Entité « {nom} » en cours, avec les attributs suivants : « {attributs} » (avec les paramètres suivant : « {paramètres} »)."
+msgstr "'{nom}' entity under processing, with the following attributes: '{attributs}' (with the following parameters: '{paramètres}')."
+
+#: nébuleuse.py:63
+msgid "Son parent est « {nom} » et l'entité se place dans l'attribut « {attribut} »."
+msgstr "Its parent is '{nom}' and the entity will be under the '{attribut}' attribute."
+
+#: nébuleuse.py:65
+msgid "Elle est indépendante."
+msgstr "It is independant."
+
+#: nébuleuse.py:125
+msgid "Langue « {} » non présente dans les paramètres de configuration."
+msgstr "'{}' language not in configuration parameters."

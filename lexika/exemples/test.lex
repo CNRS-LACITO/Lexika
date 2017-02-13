@@ -4,19 +4,23 @@
 \gro A
 \sns 1
 \def Jeter loin de soi en imprimant une impulsion à.
+\glo Throw
 \exf Lancer une balle, des pierres. 
 \exf Lancer une fusée.
 \sns 2
 \def Faire mouvoir rapidement ; envoyer impétueusement.
+\glo Send
 \exf Lancer un cheval au galop.
 \exf Lancer un voilier.
 \gro B
 \sns 3
 \def Jeter loin de soi en imprimant une impulsion à.
+\glo Throw
 \exf Lancer une balle, des pierres. 
 \exf Lancer une fusée.
 \sns 4
 \def Faire mouvoir rapidement ; envoyer impétueusement.
+\glo Send
 \exf Lancer un cheval au galop.
 \exf Lancer un voilier.
 
@@ -25,11 +29,14 @@
 \cla nom
 \sns 1
 \def Action de lancer.
+\glo Launch
 \sns 2
 \def Épreuve d’athlétisme où l’athlète doit lancer le plus loin possible un objet particulier. 
+\glo Throw
 \exf Lancer du disque, du javelot, du poids et du marteau.
 \sns 3
 \def Manière de pêcher à la ligne qui consiste à lancer au loin un leurre ou un appât et à le ramener à l’aide d’un moulinet. 
+\glo Toss
 \exf Pêche au lancer.
 \exf Lancer léger, lancer lourd.
 
