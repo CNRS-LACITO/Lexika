@@ -187,3 +187,44 @@ class NébuleuseLexMartine(NébuleuseDiffuse):
         #     #     print("Attention, la sous-entrée '{}' est ignorée".format(information_linguistique))
         # # else:
         # #     print("Attention, l'entrée '{}' n'a pas été validée par l'expression régulière.".format(information_linguistique)) 
+
+
+
+
+
+    # def gérer_intra_balises(self, élément):
+    #     modèle = regex.compile(r"(?P<bloc>⊣(?P<balise>[\w]+) (?P<attribut>[\w]+)='(?P<valeur>[\p{property='Enclosed Alphanumerics'}\w\s~-]+)'⊢(?P<texte>[\w\s~-]+)⊣\/(?P=balise)⊢)")
+    #     bilan = modèle.search(élément.attrib["valeur"])
+    #     if bilan:
+    #         bilans = modèle.finditer(élément.attrib["valeur"])
+    #         élément.text = ''
+    #         reste_texte = élément.attrib["valeur"]
+    #         for index, bilan in enumerate(bilans):
+    #             print(index, bilan.groupdict())
+    #             sous_modèle = regex.compile("(?P<avant>.*?){}(?P<après>.*)".format(bilan.group("bloc")))
+    #             sous_bilan = sous_modèle.match(reste_texte)
+    #             print("***", sous_bilan.groupdict())
+    #             élément.text += sous_bilan.group("avant")
+    #             sous_élément = lxml.etree.Element(bilan.group("balise"), attrib={bilan.group("attribut"): bilan.group("valeur")})
+    #             élément.append(sous_élément)
+    #             sous_élément.text = bilan.group("texte")
+    #             reste_texte = sous_bilan.group("après")
+    #             print("++", élément.text)
+    #         élément.text += reste_texte
+    #             # # élément.attrib["valeur"] = ''
+    #             # print(lxml.etree.tostring(élément, encoding="unicode"))
+
+
+    # def gérer_intra_balises(self, élément):
+    #     modèle = regex.compile(r"(?P<avant>.*?)(?P<bloc>⊣(?P<balise>[\w]+) (?P<attribut>[\w]+)='(?P<valeur>[\p{property='Enclosed Alphanumerics'}\w\s~-]+)'⊢(?P<texte>[\w\s~-]+)⊣\/(?P=balise)⊢)(?P<après>.*)")
+    #     bilan = modèle.search(élément.attrib["valeur"])
+    #     if bilan:
+    #         bilans = modèle.finditer(élément.attrib["valeur"])
+    #         for index, bilan in enumerate(bilans):
+    #             print(index, bilan.groupdict())
+    #             élément.text = bilan.group("avant")
+    #             sous_élément = lxml.etree.SubElement(élément, bilan.group("balise"), attrib={bilan.group("attribut"): bilan.group("valeur")})
+    #             sous_élément.text = bilan.group("texte")
+    #             sous_élément.tail = bilan.group("après")
+    #             # élément.attrib["valeur"] = ''
+    #             print(lxml.etree.tostring(élément, encoding="unicode"))

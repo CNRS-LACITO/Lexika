@@ -9,6 +9,10 @@ dictionnaire:
   nom: Essai d'un dictionnaire simple
   auteur: Benjamin Galliot
   commentaire: Ça déchire grave !
+XML:
+  format: LMF
+
+  XSL: style.xsl
 langues:
 - identifiant: fra
   type caractères: latin

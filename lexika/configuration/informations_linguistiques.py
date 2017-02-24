@@ -2,99 +2,293 @@
 # -*- coding: utf-8 -*-
 
 import lexika
-import os
+import collections
 
 # Cet objet est fait pour être modifié, mais avec quelques précautions...
-types_source = {
-    # Attention, la nébuleuse obscure est très puissante et la puissance nécessite des responsabilités...
-    "test": {
-        "modèle ligne": r"^\\(?P<balise>\w*)(?:\s*<(?P<métadonnées>.*)>\s*)?\s*(?P<données>.*)",
+
+# "modèle ligne": r"^\\(?P<balise>\w*)(?:\s*<(?P<métadonnées>.*)>\s*)?\s*(?P<données>.*)",
+
+
+format_entrée = {
+    "MDF": {
+        "modèle de ligne": r"^\\(?P<balise>\w*)\s*(?P<données>.*)",
         "balises": {
-            "lex": {"entité": {"nom": "entrée", "attributs": ["vedette"], "paramètres": {},
-                               "structure": {"identifiant": {"nom": "vedette", "type": "primaire"}}},
-                    "parents": [{"nom": "dictionnaire", "attribut": "entrées"}]},
-            "hom": {"entité": {"nom": "entrée", "attributs": ["homonyme"], "paramètres": {},
-                               "structure": {"identifiant": {"nom": "homonyme", "type": "secondaire"}}},
-                    "parents": None},
-            "cla": {
-                "entité": {"nom": "entrée", "attributs": ["classe_grammaticale"], "paramètres": {}, "structure": {}},
-                "parents": None},
-            "sns": {"entité": {"nom": "sens", "attributs": ["acception"], "paramètres": {},
-                               "structure": {"identifiant": {"nom": "acception", "type": "primaire"}}},
-                    "parents": [{"nom": "entrée", "attribut": "sens"}]},
-            "def": {"entité": {"nom": "définition", "attributs": ["définition"], "paramètres": {"langue": "fra"},
-                               "structure": {"identifiant": {"nom": None, "type": "primaire"}}},
-                    "parents": [{"nom": "sens", "attribut": "définitions"}]},
-            "glo": {
-                "entité": {"nom": "glose", "attributs": ["glose"], "paramètres": {"langue": "eng"}, "structure": {}},
-                "parents": [{"nom": "définition", "attribut": "gloses"}]},
-            "exf": {"entité": {"nom": "exemple", "attributs": ["exemple"], "paramètres": {"langue": "fra"},
-                               "structure": {"identifiant": {"nom": None, "type": "primaire"}}},
-                    "parents": [{"nom": "sens", "attribut": "exemples"}]},
+            "lx": {"entité": "vedette", "paramètres": {}, "tête": True},
+            "hm": {"entité": "homonyme", "paramètres": {}},
+            "va": {"entité": "variante", "paramètres": {}},
+            "ps": {"entité": "classe grammaticale", "paramètres": {}},
+            "ph": {"entité": "phonétique", "paramètres": {}},
+            "sn": {"entité": "acception", "paramètres": {}},
+            "de": {"entité": "définition", "paramètres": {"langue": "fra"}},
+            "xe": {"entité": "exemple", "paramètres": {"langue": "fra"}},
+            "xv": {"entité": "exemple", "paramètres": {"langue": "ben"}},
+            "re": {"entité": "équivalent", "paramètres": {"langue": "eng"}},
+            "ue": {"entité": "note", "paramètres": {"langue": "eng", "type": "usage"}},
+            "nq": {"entité": "note", "paramètres": {"langue": "eng", "type": "interrogation"}},
+            "nt": {"entité": "note", "paramètres": {"langue": "eng", "type": "général"}},
+            "ng": {"entité": "note", "paramètres": {"langue": "eng", "type": "grammaire"}},
+            "cf": {"entité": "relation sémantique", "paramètres": {"type": "confer"}},
+            "bw": {"entité": "relation sémantique", "paramètres": {"type": "emprunt"}},
+            "ce": {"entité": "traduction de relation sémantique", "paramètres": {"langue": "eng"}},
+            "sd": {"entité": "domaine sémantique", "paramètres": {}},
+            "lt": {"entité": "sens littéral", "paramètres": {}},
+            "mr": {"entité": "morphologie", "paramètres": {}},
+            "sc": {"entité": "nom scientifique", "paramètres": {}},
+            "dt": {"entité": "date", "paramètres": {}},
+            "so": {"entité": "source", "paramètres": {}},
+            # "pl": {"entité": "source", "paramètres": {}},
+
+
+        }
+    },
+    "MDF Alex": {
+        "modèle de ligne": r"^\\(?P<balise>\w*)\s*(?P<données>.*)",
+        "balises": {
+            "lx": {"entité": "vedette", "paramètres": {}},
+            "hm": {"entité": "homonyme", "paramètres": {}},
+            "ps": {"entité": "classe grammaticale", "paramètres": {}},
+            "ph": {"entité": "phonétique", "paramètres": {}},
+            "la": {"entité": "forme de citation", "paramètres": {}},
+            "wr": {"entité": "groupe", "paramètres": {}},
+            "sn": {"entité": "acception", "paramètres": {}},
+            "se": {"entité": "sous-entrée", "paramètres": {}},
+            "de": {"entité": "définition", "paramètres": {"langue": "fra"}},
+            "dn": {"entité": "définition", "paramètres": {"langue": "eng"}},
+            "xe": {"entité": "exemple", "paramètres": {"langue": "fra"}},
+            "xn": {"entité": "exemple", "paramètres": {"langue": "eng"}},
+            "xv": {"entité": "exemple", "paramètres": {"langue": "mlv"}},
+            "oe": {"entité": "commentaire", "paramètres": {"langue": "fra"}},
+            "lf": {"entité": "type de relation sémantique", "paramètres": {}},
+            "lv": {"entité": "relation sémantique", "paramètres": {}},
+            "tab": {"entité": "tableau", "paramètres": {}},
+            "con": {"entité": "contenu", "paramètres": {"langue": "fra"}},
+            "tif": {"entité": "titre", "paramètres": {"langue": "fra"}},
+            "tiv": {"entité": "titre", "paramètres": {"langue": "mlv"}},
+        }
+    }
+}
+
+format_sortie = {
+    # Attention, la nébuleuse obscure est très puissante et la puissance nécessite des responsabilités...
+    # "test": {
+    #     "modèle ligne": r"^\\(?P<balise>\w*)(?:\s*<(?P<métadonnées>.*)>\s*)?\s*(?P<données>.*)",
+    #     "balises": {
+    #         "lex": {"entités": [{"nom": "entrée", "attributs": {"vedette": None}],
+    #                            "structure": {"identifiant": {"nom": "vedette", "type": "primaire"}}},
+    #                 "parents": [{"nom": "dictionnaire", "attribut": "entrées"}]},
+    #         "hom": {"entités": [{"nom": "entrée", "attributs": {"homonyme": None}],
+    #                            "structure": {"identifiant": {"nom": "homonyme", "type": "secondaire"}}},
+    #                 "parents": None},
+    #         "cla": {
+    #             "entités": [{"nom": "entrée", "attributs": {"classe_grammaticale": None}, "structure": {}}],
+    #             "parents": None},
+    #         "sns": {"entités": [{"nom": "sens", "attributs": {"acception": None}],
+    #                            "structure": {"identifiant": {"nom": "acception", "type": "primaire"}}},
+    #                 "parents": [{"nom": "entrée", "attribut": "sens"}]},
+    #         "def": {"entités": [{"nom": "définition", "attributs": {"définition": None}],
+    #                            "structure": {"identifiant": {"nom": None, "type": "primaire"}}},
+    #                 "parents": [{"nom": "sens", "attribut": "définitions"}]},
+    #         "glo": {
+    #             "entités": [{"nom": "glose", "attributs": {"glose": None}, "structure": {}}],
+    #             "parents": [{"nom": "définition", "attribut": "gloses"}]},
+    #         "exf": {"entités": [{"nom": "exemple", "attributs": {"exemple": None}],
+    #                            "structure": {"identifiant": {"nom": None, "type": "primaire"}}},
+    #                 "parents": [{"nom": "sens", "attribut": "exemples"}]},
+    #     }
+    # },
+    "LMF": {
+        "expression de renvoi": r"^(?P<entrée_lexicale>[\w\s~\[\]-]+?)(?P<numéro_homonyme>[\d]*)$",
+        "constantes": {"entrée lexicale": "Ⓔ", "numéro d'homonyme": "Ⓗ", "sens": "Ⓢ"},
+        "entités": {
+            "entrée": {"entités": [{"nom": "entrée lexicale", "attributs": {},
+                                    "structure": {"tête": True, "identifiant": {"nom": "identifiant", "type": "primaire"}}}],
+                       "parents": [{"nom": "dictionnaire", "attribut": "entrées lexicales"}]},
+            "vedette": {"entités": [{"nom": "lemme", "attributs": {"lexeme": None}, "structure": {}}],
+                        "parents": [{"nom": "entrée lexicale", "attribut": "lemmes"},
+                                    {"entité": "entrée", "attributs": {}, "informations": {"identifiant": "lexeme"}}]},
+            "homonyme": {"entités": [{"nom": "entrée lexicale", "attributs": {"numéro d'homonyme": None},
+                                      "structure": {"identifiant": {"nom": "numéro d'homonyme", "type": "secondaire"}}}],
+                         "parents": None},
+            "classe grammaticale": {"entités": [{"nom": "entrée lexicale", "attributs": {"partie du discours": None}, "structure": {}}],
+                                    "parents": None},
+            "variante": {"entités": [{"nom": "représentation de forme", "attributs": {"phonétique": None}, "structure": {}}],
+                           "parents": [{"nom": "lemme", "attribut": "représentations"}]},
+            "phonétique": {"entités": [{"nom": "représentation de forme", "attributs": {"phonétique": None}, "structure": {}}],
+                           "parents": [{"nom": "lemme", "attribut": "représentations"}]},
+            "acception": {"entités": [{"nom": "sens", "attributs": {"numéro de sens": None},
+                                       "structure": {"identifiant": {"nom": "numéro de sens", "type": "primaire"}}}],
+                          "parents": [{"nom": "entrée lexicale", "attribut": "sens"}]},
+            "définition": {"entités": [{"nom": "définition", "attributs": {"définition": None}, "structure": {}}],
+                           "parents": [{"nom": "sens", "attribut": "définitions"},
+                                       {"entité": "acception", "attributs": {"numéro de sens": "0"}, "informations": {}}]},
+            "nom scientifique": {"entités": [{"nom": "déclaration", "attributs": {"nom scientifique": None}, "structure": {}}],
+                           "parents": [{"nom": "définition", "attribut": "déclarations"},
+                                       {"entité": "définition", "attributs": {}}]},
+            "sens littéral": {"entités": [{"nom": "définition", "attributs": {"sens littéral": None}, "structure": {}}],
+                              "parents": None},
+            "morphologie": {"entités": [{"nom": "paradigme", "attributs": {"morphologie": None}, "structure": {}}],
+                           "parents": [{"nom": "sens", "attribut": "définitions"},
+                                       {"entité": "acception", "attributs": {"numéro de sens": "0"},
+                                        "informations": {}}]},
+            "exemple": {
+                "entités": [{"nom": "représentation de texte", "attributs": {"forme écrite": None}, "structure": {}}],
+                "parents": [{"nom": "contexte", "attribut": "représentations de texte"},
+                            {"entité": "contexte", "attributs": {"type": "exemple"}, "informations": {}}]},
+            "contexte": {"entités": [{"nom": "contexte", "attributs": {"type": None}, "structure": {}}],
+                         "parents": [{"nom": "sens", "attribut": "contextes"},
+                                     {"entité": "acception", "attributs": {"numéro de sens": "0"}, "informations": {}}]},
+            "équivalent": {"entités": [{"nom": "équivalent", "attributs": {"traduction": None}, "structure": {}}],
+                           "parents": [{"nom": "sens", "attribut": "équivalents"},
+                                       {"entité": "acception", "attributs": {"numéro de sens": "0"}, "informations": {}}]},
+            "note": {"entités": [{"nom": "déclaration", "attributs": {"traduction": None}, "structure": {}}],
+                     "parents": [{"nom": "définition", "attribut": "déclarations"},
+                                 {"entité": "définition", "attributs": {}}]},
+            "relation sémantique": {"entités": [{"nom": "relation sémantique", "attributs": {"cible": None}, "structure": {}}],
+                                    "parents": [{"nom": "sens", "attribut": "équivalents"},
+                                                {"entité": "acception", "attributs": {"numéro de sens": "0"}, "informations": {}}]},
+            "traduction de relation sémantique": {
+                "entités": [{"nom": "traduction de relation sémantique", "attributs": {"traduction": None}, "structure": {}}],
+                "parents": [{"nom": "relation sémantique", "attribut": "traductions"}]},
+            "domaine sémantique": {"entités": [{"nom": "champ disciplinaire", "attributs": {"domaine sémantique": None}, "structure": {}}],
+                                   "parents": [{"nom": "sens", "attribut": "définitions"},
+                                               {"entité": "acception", "attributs": {"numéro de sens": "0"},
+                                                "informations": {}}]},
+            "date": {"entités": [{"nom": "entrée lexicale", "attributs": {"date": None},
+                                  "structure": {}}],
+                     "parents": None},
+            "source": {"entités": [{"nom": "entrée lexicale", "attributs": {"source": None},
+                                  "structure": {}}],
+                     "parents": None},
         }
     },
     "Alex": {
-        "modèle ligne": r"^\\(?P<balise>\w*)(?:\s*<(?P<métadonnées>.*)>\s*)?\s*(?P<données>.*)",
-        "balises": {
-            "lx": {"entité": {"nom": "entrée", "attributs": ["vedette"], "paramètres": {},
-                              "structure": {"identifiant": {"nom": "vedette", "type": "primaire"}}},
-                   "parents": [{"nom": "dictionnaire", "attribut": "entrées"}]},
-            "hm": {"entité": {"nom": "entrée", "attributs": ["homonyme"], "paramètres": {},
-                              "structure": {"identifiant": {"nom": "homonyme", "type": "secondaire"}}},
-                   "parents": None},
-            "ps": {"entité": {"nom": "entrée", "attributs": ["classe_grammaticale"], "paramètres": {}, "structure": {}},
-                   "parents": None},
-            "sn": {"entité": {"nom": "sens", "attributs": ["acception"], "paramètres": {},
-                              "structure": {"identifiant": {"nom": "acception", "type": "primaire"}}},
-                   "parents": [{"nom": "entrée", "attribut": "sens"}]},
-            "de": {"entité": {"nom": "définition", "attributs": ["définition"], "paramètres": {"langue": "fra"},
-                              "structure": {"identifiant": {"nom": None, "type": "primaire"}}},
-                   "parents": [{"nom": "sens", "attribut": "définitions"},
-                               {"nom": "entrée", "attribut": "définitions"}]},
-            "dn": {"entité": {"nom": "définition", "attributs": ["définition"], "paramètres": {"langue": "eng"},
-                              "structure": {"identifiant": {"nom": None, "type": "primaire"}}},
-                   "parents": [{"nom": "sens", "attribut": "définitions"},
-                               {"nom": "entrée", "attribut": "définitions"}]},
-            "xe": {"entité": {"nom": "exemple", "attributs": ["exemple"], "paramètres": {"langue": "fra"},
-                              "structure": {"identifiant": {"nom": None, "type": "primaire"}}},
-                   "parents": [{"nom": "sens", "attribut": "exemples"}, {"nom": "entrée", "attribut": "définitions"}]},
-            "xn": {"entité": {"nom": "exemple", "attributs": ["exemple"], "paramètres": {"langue": "eng"},
-                              "structure": {"identifiant": {"nom": None, "type": "primaire"}}},
-                   "parents": [{"nom": "sens", "attribut": "exemples"}, {"nom": "entrée", "attribut": "définitions"}]},
+        "expression de renvoi": r"^(?P<entrée>[\w\s~\[\]-]+?)(?P<homonyme>[\d]*)(?P<groupe>[A-Z]*)$",
+        "entités": {
+            "vedette": {"entités": [{"nom": "entrée", "attributs": {"vedette": None},
+                                     "structure": {"tête": True, "identifiant": {"nom": "vedette", "type": "primaire"}}}],
+                        "parents": [{"nom": "dictionnaire", "attribut": "entrées"}]},
+            "homonyme": {"entités": [{"nom": "entrée", "attributs": {"homonyme": None},
+                                      "structure": {"identifiant": {"nom": "homonyme", "type": "secondaire"}}}],
+                         "parents": None},
+            "classe grammaticale": {
+                "entités": [{"nom": "sous-entrée", "attributs": {"classe grammaticale": None}, "structure": {}},
+                            {"nom": "groupe", "attributs": {"classe grammaticale": None}, "structure": {}},
+                            {"nom": "entrée", "attributs": {"classe grammaticale": None}, "structure": {}}],
+                "parents": None},
+            "phonétique": {"entités": [{"nom": "entrée", "attributs": {"phonétique": None}, "structure": {}}],
+                           "parents": None},
+            "forme de citation": {
+                "entités": [{"nom": "entrée", "attributs": {"forme de citation": None}, "structure": {}}],
+                "parents": None},
+            "groupe": {"entités": [{"nom": "groupe", "attributs": {"nom": None},
+                                    "structure": {"identifiant": {"nom": "nom", "type": "primaire"}}}],
+                       "parents": [{"nom": "entrée", "attribut": "groupes"}]},
+            "acception": {"entités": [{"nom": "sens", "attributs": {"acception": None},
+                                       "structure": {"identifiant": {"nom": "acception", "type": "primaire"}}}],
+                          "parents": [{"nom": "groupe", "attribut": "groupes"}, {"nom": "entrée", "attribut": "sens"}]},
+            "sous-entrée": {"entités": [{"nom": "sous-entrée", "attributs": {"vedette": None},
+                                         "structure": {"identifiant": {"nom": "vedette", "type": "primaire"}}}],
+                            "parents": [{"nom": "sens", "attribut": "sous-entrées"},
+                                        {"nom": "entrée", "attribut": "sous-entrées"}]},
+            "définition": {"entités": [{"nom": "définition", "attributs": {"définition": None},
+                                        "structure": {"identifiant": {"nom": None, "type": "primaire"}}}],
+                           "parents": [{"nom": "sous-entrée", "attribut": "définitions"},
+                                       {"nom": "sens", "attribut": "définitions"},
+                                       {"nom": "groupe", "attribut": "groupes"},
+                                       {"nom": "entrée", "attribut": "définitions"}]},
+            "exemple": {"entités": [{"nom": "exemple", "attributs": {"exemple": None},
+                                     "structure": {"identifiant": {"nom": None, "type": "primaire"}}}],
+                        "parents": [{"nom": "sous-entrée", "attribut": "exemples"},
+                                    {"nom": "sens", "attribut": "exemples"},
+                                    {"nom": "entrée", "attribut": "exemples"}]},
+            "commentaire": {"entités": [{"nom": "note", "attributs": {"commentaire": None}, "structure": {}}],
+                            "parents": [{"nom": "exemple", "attribut": "notes"}]},
+            "type de relation sémantique": {
+                "entités": [{"nom": "RelationSémantique", "attributs": {"type": None}, "structure": {}}],
+                "parents": [{"nom": "entrée", "attribut": "relations_sémantiques"},
+                            {"nom": "sous-entrée", "attribut": "relations_sémantiques"},
+                            {"nom": "sens", "attribut": "relations_sémantiques"}]},
+            "relation sémantique": {"entités": [{"nom": "RelationSémantique", "attributs": {"cible": None},
+                                                 "structure": {"lien": {
+                                                     "cibles": [{"entité": ["sens"], "attributs": ["acception"]},
+                                                                {"entité": ["entrée"], "attributs": ["vedette"]}]}}}],
+                                    "parents": None},
+            "tableau": {"entités": [{"nom": "tableau", "attributs": {"identifiant": None},
+                                     "structure": {"identifiant": {"nom": None, "type": "primaire"}}}],
+                        "parents": [{"nom": "sous-entrée", "attribut": "tableaux"},
+                                    {"nom": "sens", "attribut": "tableaux"},
+                                    {"nom": "entrée", "attribut": "tableaux"}]},
+            "contenu": {"entités": [{"nom": "tableau", "attributs": {"contenu": None}, "structure": {}}],
+                        "parents": None},
+            "titre": {"entités": [{"nom": "titre", "attributs": {"titre": None}, "structure": {}}],
+                      "parents": [{"nom": "tableau", "attribut": "titres"}]},
         }
     },
-    "Martine": {
-        "modèle ligne": r"^(?P<métabalise>[\d]*)(?P<balise>[\w.]*)\s+(?P<données>.*)(?:\s*<(?P<métadonnées>.*)>\s*)?$",
-        "balises": {
-            ".hw": {"expression": r"^(?P<vedette>.*?)(\$(?P<homonyme>.*))?$", "composants": {"vedette": {
-                "entité": {"nom": "entrée", "attributs": ["vedette"], "paramètres": {},
-                           "structure": {"identifiant": {"nom": "vedette", "type": "primaire"}}},
-                "parents": [{"nom": "dictionnaire", "attribut": "entrées"}]}, "homonyme": {
-                "entité": {"nom": "entrée", "attributs": ["homonyme"], "paramètres": {},
-                           "structure": {"identifiant": {"nom": "homonyme", "type": "secondaire"}}}, "parents": None}}},
-            "ps": {"entité": {"nom": "entrée", "attributs": ["classe_grammaticale"], "paramètres": {}, "structure": {"métabalise": "sens"}},
-                   "parents": None},
-            "dff": {"entité": {"nom": "définition", "attributs": ["définition"], "paramètres": {"langue": "fra"},
-                               "structure": {"identifiant": {"nom": None, "type": "primaire"}, "métabalise": "sens"}},
-                    "parents": [{"nom": "sens", "attribut": "définitions"},
-                                {"nom": "entrée", "attribut": "définitions"}]},
-            "dfe": {"entité": {"nom": "définition", "attributs": ["définition"], "paramètres": {"langue": "eng"},
-                               "structure": {"identifiant": {"nom": None, "type": "primaire"}, "métabalise": "sens"}},
-                    "parents": [{"nom": "sens", "attribut": "définitions"},
-                                {"nom": "entrée", "attribut": "définitions"}]},
-            "dfn": {"entité": {"nom": "définition", "attributs": ["définition"], "paramètres": {"langue": "nep"},
-                               "structure": {"identifiant": {"nom": None, "type": "primaire"}, "métabalise": "sens"}},
-                    "parents": [{"nom": "sens", "attribut": "définitions"},
-                                {"nom": "entrée", "attribut": "définitions"}]},
-            "nag": {"entité": {"nom": "définition", "attributs": ["définition"], "paramètres": {"langue": "tam"},
-                               "structure": {"identifiant": {"nom": None, "type": "primaire"}, "métabalise": "sens"}},
-                    "parents": [{"nom": "sens", "attribut": "définitions"},
-                                {"nom": "entrée", "attribut": "définitions"}]},
-            "sens": {"entité": {"nom": "sens", "attributs": ["acception"], "paramètres": {},
-                              "structure": {"identifiant": {"nom": "acception", "type": "primaire"}}},
-                   "parents": [{"nom": "entrée", "attribut": "sens"}]},
-        }
-    },
+    # "Bena": {
+    #     "modèle ligne": r"^\\(?P<balise>\w*)(?:\s*<(?P<métadonnées>.*)>\s*)?\s*(?P<données>.*)",
+    #     "balises": {
+    #         "lx": {"entités": [{"nom": "entrée", "attributs": {"vedette": None}],
+    #                           "structure": {"identifiant": {"nom": "vedette", "type": "primaire"}}},
+    #                "parents": [{"nom": "dictionnaire", "attribut": "entrées"}]},
+    #         "hm": {"entités": [{"nom": "entrée", "attributs": {"homonyme": None}],
+    #                           "structure": {"identifiant": {"nom": "homonyme", "type": "secondaire"}}},
+    #                "parents": None},
+    #         "ps": {"entités": [{"nom": "entrée", "attributs": {"classe_grammaticale": None}],
+    #                           "structure": {}},
+    #                "parents": None},
+    #         "sn": {"entités": [{"nom": "sens", "attributs": {"acception": None}],
+    #                           "structure": {"identifiant": {"nom": "acception", "type": "primaire"}}},
+    #                "parents": [{"nom": "groupe", "attribut": "groupes"}, {"nom": "entrée", "attribut": "sens"}]},
+    #         "de": {"entités": [{"nom": "définition", "attributs": {"définition": None}],
+    #                           "structure": {"identifiant": {"nom": None, "type": "primaire"}}},
+    #                "parents": [{"nom": "sens", "attribut": "définitions"},
+    #                            {"nom": "entrée", "attribut": "définitions"}]},
+    #         "cf": {"entités": [{"nom": "relation_sémantique", "attributs": {"cible": None}],
+    #                           "structure": {}},
+    #                "parents": [{"nom": "sens", "attribut": "relations_sémantiques"}, {"nom": "entrée", "attribut": "relations_sémantiques"}]},
+    #         "ce": {"entités": [{"nom": "traduction_relation_sémantique", "attributs": {"traduction": None}],
+    #                           "structure": {}},
+    #                "parents": [{"nom": "relation_sémantique", "attribut": "traductions"}]},
+    #         "xe": {"entités": [{"nom": "exemple", "attributs": {"exemple": None}],
+    #                           "structure": {"identifiant": {"nom": None, "type": "primaire"}}},
+    #                "parents": [{"nom": "sens", "attribut": "exemples"}, {"nom": "entrée", "attribut": "définitions"}]},
+    #         "xv": {"entités": [{"nom": "exemple", "attributs": {"exemple": None}],
+    #                           "structure": {"identifiant": {"nom": None, "type": "primaire"}}},
+    #                "parents": [{"nom": "sens", "attribut": "exemples"}, {"nom": "entrée", "attribut": "définitions"}]},
+    #     }
+    # },
+    # "Martine": {
+    #     "modèle ligne": r"^(?P<métabalise>[\d]*)(?P<balise>[\w.]*)\s+(?P<données>.*)(?:\s*<(?P<métadonnées>.*)>\s*)?$",
+    #     "balises": {
+    #         ".hw": {"expression": r"^(?P<vedette>.*?)(\$(?P<homonyme>.*))?$", "composants": {"vedette": {
+    #             "entités": [{"nom": "entrée", "attributs": {"vedette": None}],
+    #                        "structure": {"identifiant": {"nom": "vedette", "type": "primaire"}}},
+    #             "parents": [{"nom": "dictionnaire", "attribut": "entrées"}]}, "homonyme": {
+    #             "entités": [{"nom": "entrée", "attributs": {"homonyme": None}],
+    #                        "structure": {"identifiant": {"nom": "homonyme", "type": "secondaire"}}}, "parents": None}}},
+    #         "ps": {"entités": [{"nom": "entrée", "attributs": {"classe_grammaticale": None}, "structure": {"métabalise": "sens"}}],
+    #                "parents": None},
+    #         "dff": {"entités": [{"nom": "définition", "attributs": {"définition": None}],
+    #                            "structure": {"identifiant": {"nom": None, "type": "primaire"}, "métabalise": "sens"}},
+    #                 "parents": [{"nom": "sens", "attribut": "définitions"},
+    #                             {"nom": "entrée", "attribut": "définitions"}]},
+    #         "dfe": {"entités": [{"nom": "définition", "attributs": {"définition": None}],
+    #                            "structure": {"identifiant": {"nom": None, "type": "primaire"}, "métabalise": "sens"}},
+    #                 "parents": [{"nom": "sens", "attribut": "définitions"},
+    #                             {"nom": "entrée", "attribut": "définitions"}]},
+    #         "dfn": {"entités": [{"nom": "définition", "attributs": {"définition": None}],
+    #                            "structure": {"identifiant": {"nom": None, "type": "primaire"}, "métabalise": "sens"}},
+    #                 "parents": [{"nom": "sens", "attribut": "définitions"},
+    #                             {"nom": "entrée", "attribut": "définitions"}]},
+    #         "nag": {"entités": [{"nom": "définition", "attributs": {"définition": None}],
+    #                            "structure": {"identifiant": {"nom": None, "type": "primaire"}, "métabalise": "sens"}},
+    #                 "parents": [{"nom": "sens", "attribut": "définitions"},
+    #                             {"nom": "entrée", "attribut": "définitions"}]},
+    #         "sens": {"entités": [{"nom": "sens", "attributs": {"acception": None}],
+    #                           "structure": {"identifiant": {"nom": "acception", "type": "primaire"}}},
+    #                "parents": [{"nom": "entrée", "attribut": "sens"}]},
+    #     }
+    # },
 }
 
 créateurs = {
@@ -103,29 +297,3 @@ créateurs = {
     "Alex": lambda configuration: lexika.NébuleuseDiffuse(configuration),
     "Martine": lambda configuration: lexika.NébuleuseLexMartine(configuration)
 }
-
-tâches = {
-    "remplacer_caractères":  lambda fichier_entrée, fichier_sortie: remplacer_caractères(fichier_entrée, fichier_sortie),
-    "joindre lignes coupées": lambda fichier_entrée, fichier_sortie: joindre_lignes_coupées(fichier_entrée, fichier_sortie),
-}
-
-def remplacer_caractères(fichier_entrée, fichier_sortie):
-    pass
-
-def joindre_lignes_coupées(fichier_entrée, fichier_sortie):
-    with open(fichier_entrée, 'r') as entrée:
-        résultat = []
-        for ligne in entrée.readlines():
-            if ligne.strip() and not ligne.startswith("\\"):
-                résultat[-1] = "{} {}".format(résultat[-1].rstrip(), ligne)
-            else:
-                résultat.append(ligne)
-    with open(fichier_sortie, 'w') as sortie:
-        sortie.write("".join(résultat))
-
-
-
-
-
-
-

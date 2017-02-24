@@ -1,14 +1,19 @@
-chemin source: exemples/tamaŋ petit.txt
+chemin source: exemples/tamaŋ.txt
 chemin cible: tamaŋ.xml
-type source: Martine
+format entrée: Martine
+format sortie: structure totale
 sens: direct
 type: normal
 hiérarchie: normale
-catégorie: normale
+identifiant: tamaŋ - test
 dictionnaire:
   nom: Essai d'un dictionnaire tamaŋ
-  auteur: Benjamin GalliotMartine Mazaudon
-  commentaire: Ça déchire grave !
+  auteur: Martine Mazaudon
+  commentaire: Test avec la nouvelle bibiliothèque
+XML:
+  XSL: style.xsl
+ordre lexicographique:
+tri: inverse
 langues:
 - identifiant: tam
   type caractères: nagari
@@ -36,4 +41,8 @@ langues:
   statuts: [source, vernaculaire]
 créateur: nébuleuse obscure
 tâches:
-- remplacer_caractères
+  initial:
+  prémédian:
+  postmédian:
+  final:
+  - créer liens automatiques

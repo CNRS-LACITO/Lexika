@@ -7,7 +7,7 @@ from setuptools import setup, find_packages
 __author__ = 'Benjamin Galliot'
 __copyright__ = "Copyleft"
 __license__ = "Spéciale"
-__version__ = "0.1"
+__version__ = "0.2"
 __email__ = "b.g01lyon@gmail.com"
 __status__ = "Development Status :: 2 - Pre-Alpha"
 

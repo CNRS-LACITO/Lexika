@@ -1,0 +1,42 @@
+chemin source: exemples/bena.lex
+chemin cible: bena.xml
+format entrée: MDF
+format sortie: LMF
+sens: direct
+type: normal
+hiérarchie: normale
+identifiant: dictionnaire bena
+dictionnaire:
+  nom: Essai d'un dictionnaire bena
+  auteurs: Mark Van de Velde & Dmitry Idiatov
+  commentaire: Test LMF traduit pour R. Bonnet
+XML:
+  format: structure sans listes
+  langue: eng
+  XSL: style.xsl
+ordre lexicographique:
+tri: normal
+langues:
+- identifiant: fra
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: français
+  glossonyme: français
+  statuts: [cible]
+- identifiant: eng
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: English
+  glossonyme: anglais
+  statuts: [cible]
+- identifiant: ben
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: Bena
+  glossonyme: bena
+  statuts: [source]
+créateur: nébuleuse obscure
+créateur inverse: nébuleuse diffuse
+tâches:
+  initial:
+  - joindre lignes coupées

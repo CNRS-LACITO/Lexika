@@ -1,6 +1,7 @@
-chemin source: exemples/Mwotlap_BIG.lex
+chemin source: exemples/Mwotlap.lex
 chemin cible: mwotlap.xml
-type source: Alex
+format entrée: MDF Alex
+format sortie: Alex
 sens: direct
 type: normal
 hiérarchie: normale
@@ -9,6 +10,12 @@ dictionnaire:
   nom: Essai d'un dictionnaire mwotlap
   auteur: Alexandre François
   commentaire: "dictionnaire très élaboré : cas très difficile (groupes, sous-entrées, sous-sens, etc.)"
+XML:
+  format: structure totale
+  langue: fra
+  XSL: style.xsl
+ordre lexicographique: abcdeēghiklmm̄nn̄oōpqrstuvwy
+tri: normal
 langues:
 - identifiant: mlv
   type caractères: latin
@@ -30,4 +37,10 @@ langues:
   statuts: [cible]
 créateur: nébuleuse obscure
 tâches:
-- joindre lignes coupées
+  initial:
+  - remplacer caractères
+  - joindre lignes coupées
+  prémédian:
+  postmédian:
+  final:
+  - créer liens automatiques

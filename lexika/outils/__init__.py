@@ -5,3 +5,4 @@ from .cœur import *
 from .divers import *
 from .générateurs import *
 from .entrées_sorties import *
+from .tâches import *
