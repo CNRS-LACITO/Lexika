@@ -43,7 +43,7 @@ def créer_liens_automatiques(dictionnaire, liste_identifiants):
 def créer_liens(objet, modèle, liste_identifiants, liste_formes_citation):
     if isinstance(objet, lexika.linguistique.EntitéLinguistique):
         for nom, élément in objet.__dict__.items():
-            if nom not in ["nom_entité_linguistique", "_parent"]:
+            if nom not in ["nom_entité_linguistique", "_parent", "_attribut_parent"]:
                 if isinstance(élément, list):
                     for sous_élément in élément:
                         créer_liens(sous_élément, modèle, liste_identifiants, liste_formes_citation)

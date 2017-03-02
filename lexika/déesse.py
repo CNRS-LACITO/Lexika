@@ -54,6 +54,7 @@ class Déesse:
         self.écriveur = None
         self.créateur.initialiser()
 
+    @lexika.outils.Chronométrer(_("exécution d'une tâche"))
     def exécuter_tâches(self, niveau, **mots_clefs):
         """
         Exécute des tâches spécifiques choisies par l'utilisateur à différent niveau de la création du dictionnaire.
@@ -84,6 +85,7 @@ class Déesse:
         self.écriveur = lexika.outils.Écriveur(self.configuration.chemin_cible)
         self.exécuter_tâches("final", dictionnaire=self.créateur.dictionnaire, liste_identifiants=self.créateur.identifiants)
 
+    @lexika.outils.Chronométrer(_("génération du fichier XML"))
     def générer_XML(self):
         """
         Génère le fichier XML à partir du dictionnaire nouvellement créé.
@@ -95,9 +97,9 @@ class Déesse:
 
 def main():
     # Création des éléments techniques divers.
-    lexika.outils.créer_journalisation("test.txt")
+    lexika.outils.créer_journalisation("journal.log")
 
-    source_configuration = "./exemples/configuration bena.yml"
+    source_configuration = "./exemples/configuration mwotlap.yml"
     déesse = Déesse(source_configuration)
     déesse.initialiser()
     déesse.créer_dictionnaire()

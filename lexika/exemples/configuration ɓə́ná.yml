@@ -1,0 +1,42 @@
+chemin source: exemples/ɓə́ná.lex
+chemin cible: ɓə́ná.xml
+format entrée: MDF
+format sortie: LMF
+sens: direct
+type: normal
+hiérarchie: normale
+identifiant: dictionnaire bena
+dictionnaire:
+  nom: Essai d'un dictionnaire bena
+  auteurs: Mark Van de Velde & Dmitry Idiatov
+  commentaire: Test LMF traduit pour R. Bonnet
+XML:
+  format: structure sans listes
+  langue: eng
+  XSL: style.xsl
+ordre lexicographique: [a, b, ɓ, d, ɗ, e, ə, f, g, gb, h, i, k, kp, l, m, n, ɲ, ŋ, p, r, s, ʃ, t, ʧ, u, v, ⱱ, w, y, z, ̄, ́, ̀,]
+tri: normal
+langues:
+- identifiant: fra
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: français
+  glossonyme: français
+  statut: cible
+- identifiant: eng
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: English
+  glossonyme: anglais
+  statut: cible
+- identifiant: yun
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: ɓə́ná
+  glossonyme: ɓə́ná
+  statut: source
+créateur: nébuleuse obscure
+créateur inverse: nébuleuse diffuse
+tâches:
+  initial:
+  - joindre lignes coupées

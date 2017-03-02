@@ -16,15 +16,14 @@ class GénérateurXML:
         self.dictionnaire = dictionnaire
         self.informations_globales = informations_globales
         self.ordre_lexicographique = {caractère: index for index, caractère in enumerate(self.configuration.ordre_lexicographique)} if hasattr(self.configuration, "ordre_lexicographique") and self.configuration.ordre_lexicographique else None
-        self.tri = self.configuration.tri if hasattr(self.configuration, "tri") else None
+        self.tri = self.configuration.tri if hasattr(self.configuration, "tri") else "normal"
+        self.entités_à_trier = self.configuration.format_sortie["entités à trier"] if "entités à trier" in self.configuration.format_sortie else {}
+        self.expression_rationnelle_tri_entités = regex.compile(r"{}".format("|".join(sorted(self.ordre_lexicographique, key=lambda mot: len(mot), reverse=True))), flags=regex.IGNORECASE) if self.ordre_lexicographique else None
         self.traduire = None
 
     def obtenir_xml(self, format, langue=None):
         modèle_balise = regex.compile(r"⊣(?P<balise>[\w]+) (?P<attribut>[\w]+)=\"(?P<valeur>[\p{property='Enclosed Alphanumerics'}\w\s\[\]~-]+)\"⊢(?P<texte>[\w\s\[\]~-]+)⊣\/(?P=balise)⊢")
-        if langue == "eng":
-            self.traduire = lexika.outils.Traducteur().traduire
-        else:
-            self.traduire = lambda expression: expression
+        self.traduire = lexika.outils.Traducteur().traduire if langue == "eng" else lambda expression: expression
         arborescence = lxml.etree.Element(self.traduire("RessourcesLexicales"))
         if format == "structure totale":
             self.créer_éléments(self.informations_globales, arborescence, modèle_balise)
@@ -42,7 +41,7 @@ class GénérateurXML:
 
     def créer_éléments(self, objet, branche_parente, modèle_balise, garder_listes=True):
         if isinstance(objet, lexika.linguistique.EntitéLinguistique):
-            branche_actuelle = lxml.etree.SubElement(branche_parente, self.traduire(objet.__class__.__name__).replace(" ", "_"))
+            branche_actuelle = lxml.etree.SubElement(branche_parente, self.traduire(objet.__class__.__name__).replace(" ", "_").replace("'", ""))
             for nom, élément in objet.__dict__.items():
                 if élément:
                     if nom in ["identifiant"]:
@@ -50,15 +49,15 @@ class GénérateurXML:
                     elif nom in ["lien", "non_lien"]:
                         sous_élément = lxml.etree.SubElement(branche_actuelle, self.traduire(nom), attrib={self.traduire("cible"): élément})
                         sous_élément.text = objet.cible
-                    elif nom not in ["nom_entité_linguistique", "_parent"]:
+                    elif nom not in ["nom_entité_linguistique", "_parent", "_attribut_parent"]:
                         if isinstance(élément, (list, dict)):
                             if garder_listes:
                                 sous_branche = lxml.etree.SubElement(branche_actuelle, nom.replace(" ", "_"))
                             else:
                                 sous_branche = branche_actuelle
                             if isinstance(élément, list):
-                                if nom in ["entrées"] and (self.ordre_lexicographique or self.tri):
-                                    for sous_élément in sorted(élément, key= lambda entrée: self.trier_éléments(entrée.vedette)):
+                                if nom in self.entités_à_trier and (self.ordre_lexicographique or self.tri):
+                                    for sous_élément in sorted(élément, key=lambda entrée: self.trier_entités(self.trier_éléments(getattr(entrée, self.entités_à_trier[nom])))):
                                         self.créer_éléments(sous_élément, sous_branche, modèle_balise, garder_listes)
                                 else:
                                     for sous_élément in élément:
@@ -67,7 +66,7 @@ class GénérateurXML:
                                 for clef_sous_élément, valeur_sous_élément in élément.items():
                                     self.créer_éléments(valeur_sous_élément, sous_branche, modèle_balise, garder_listes)
                         else:
-                            sous_élément = lxml.etree.SubElement(branche_actuelle, self.traduire("caractéristique"), attrib={self.traduire("attribut"): self.traduire(nom), self.traduire("valeur"): self.traduire(élément) if nom in ["type"] else élément})
+                            sous_élément = lxml.etree.SubElement(branche_actuelle, self.traduire("caractéristique"), attrib={self.traduire("attribut"): self.traduire(nom), self.traduire("valeur"): self.traduire(élément) if nom in ["type", "nombre grammatical"] else élément})
                             self.gérer_balises_xml(sous_élément)
                             self.gérer_intrabalises(sous_élément, modèle_balise)
 
@@ -85,16 +84,17 @@ class GénérateurXML:
             texte_enrichi = modèle_balise.sub("<\g<balise> \g<attribut>=\"\g<valeur>\">\g<texte></lien>", texte_épuré)
             élément.append(lxml.etree.fromstring("<contenu>{}</contenu>".format(texte_enrichi)))
 
-    def trier_entités(self, entité):
-        pass
+    def trier_entités(self, expression):
+        # résultat = [self.ordre_lexicographique[syllabe.lower()] for syllabe in self.expression_rationnelle_tri_entités.findall(expression) if syllabe.lower() in self.ordre_lexicographique]
+        résultat = [(syllabe, self.ordre_lexicographique[syllabe.lower()]) for syllabe in self.expression_rationnelle_tri_entités.findall(expression) if syllabe.lower() in self.ordre_lexicographique]
+        logging.info("Le tri des entités a pris en compte l'expression « {} » avec l'ordre des syllabes suivant : « {} ».".format(expression, ", ".join(["{} : {}".format(*valeurs) for valeurs in résultat])))
+        return [valeurs[1] for valeurs in résultat]
 
-    def trier_éléments(self, mot):
+    def trier_éléments(self, expression):
         if self.configuration.tri == "inverse":
-            résultat = [caractère.lower().replace("-", '') for caractère in reversed(mot)]
+            résultat = [caractère.lower().replace("-", '') for caractère in reversed(expression)]
         else:
-            résultat = mot
-        if self.ordre_lexicographique:
-            résultat = [self.ordre_lexicographique[caractère.lower()] for caractère in résultat if caractère.lower() in self.ordre_lexicographique]
+            résultat = expression
         return résultat
 
 

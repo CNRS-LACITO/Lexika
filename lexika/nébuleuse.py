@@ -45,15 +45,15 @@ class NébuleuseObscure(Nébuleuse):
         Initialise la configuration générale et les objets nécessaires à la création du dictionnaire.
         :return:
         """
-        informations_globales = {"nom": "informations globales", "attributs": self.configuration.dictionnaire, "paramètres": {}, "structure": {}}
-        self.informations_globales = self.créer_entité_linguistique(informations_globales, None)
-        informations_dictionnaire = {"nom": "dictionnaire", "attributs": {}, "paramètres": {}, "structure": {}}
-        self.dictionnaire = self.créer_entité_linguistique(informations_dictionnaire, None)
+        informations_globales = {"nom": "informations globales", "attributs": self.configuration.dictionnaire, "structure": {}}
+        self.informations_globales = self.créer_entité_linguistique(informations_entité=informations_globales, informations_parent=None)
+        informations_dictionnaire = {"nom": "dictionnaire", "attributs": {}, "structure": {}}
+        self.dictionnaire = self.créer_entité_linguistique(informations_entité=informations_dictionnaire, informations_parent=None)
         for langue, informations_langue in self.configuration.langues.items():
             self.langues.append(langue)
-            informations_langue = {"nom": "langue", "attributs": informations_langue, "paramètres": {}, "structure": {}}
+            informations_langue = {"nom": "langue", "attributs": informations_langue, "structure": {}}
             informations_parent = {"nom": "informations globales", "attribut": "langues"}
-            self.créer_entité_linguistique(informations_langue, informations_parent)
+            self.créer_entité_linguistique(informations_entité=informations_langue, informations_parent=informations_parent)
 
     def analyser_données(self, ligne_données):
         """
@@ -70,9 +70,8 @@ class NébuleuseObscure(Nébuleuse):
             if balise in self.balises:
                 informations_balise = self.balises[balise]
                 if données:
-                    informations_générales = copy.deepcopy(self.entités[informations_balise["entité"]])
-                    for entité in informations_générales["entités"]:
-                        entité["attributs"].update(informations_balise["paramètres"])
+                    proentité = lexika.linguistique.ProentitéLinguistique(self.entités[informations_balise["entité"]])
+                    proentité.ajouter_informations({"attributs": informations_balise["paramètres"]})
                     # if métabalise:
                     #     profondeur = métabalise.count(".")
                     #     ordinal = métabalise.replace(".", '')
@@ -97,18 +96,18 @@ class NébuleuseObscure(Nébuleuse):
                     #                 logging.warning(_("La sous-entité de type « {} » ne contient aucune valeur.").format(entité))
                     #     else:
                     #         logging.warning(_("La ligne « {} » (de valeur « {} ») ne correspond pas à l'expression régulière.".format(ligne_données["ligne"], données)))
-                    else:
-                        est_nouveau_bloc = "tête" in informations_balise and informations_balise["tête"]
-                        self.transférer_données_entités(informations_générales["entités"], données=données, métadonnées=métadonnées)
-                        self.préparer_entités_linguistiques(informations_générales, est_nouveau_bloc)
+                    # else:
+                    est_nouveau_bloc = "tête" in informations_balise and informations_balise["tête"]
+                    proentité.ajouter_informations({"données": données, "métadonnées": métadonnées})
+                    self.aiguiller_entités_linguistiques(proentité, est_nouveau_bloc)
                 else:
                     logging.info(_("La balise de type « {} » (ligne {}) ne contient aucune valeur.").format(balise, ligne_données["index"]))
             else:
                     logging.info(_("Balise « {} » inconnue à la ligne {}, donc ignorée.").format(balise, ligne_données["index"]))
         else:
-            logging.warning(_("Attention, la ligne '{ligne}' ({index}) n'a pas été validée par l'expression régulière.").format(**ligne_données))
+            logging.warning(_("Attention, la ligne « {ligne} »  ({index}) n'a pas été validée par l'expression régulière.").format(**ligne_données))
 
-    def préparer_entités_linguistiques(self, informations_générales, est_nouveau_bloc=False):
+    def aiguiller_entités_linguistiques(self, proentité, est_nouveau_bloc=False):
         """
         Prépare les différentes entités linguistiques avec les informations, avec la recherche des entités parentes et des entités d'appartenance. À ce niveau, les termes d'entités et d'informations (données traitées) sont utilisés.
         :param informations_générales:
@@ -118,42 +117,33 @@ class NébuleuseObscure(Nébuleuse):
             self.historique = []
             self.hiérarchie = {"dictionnaire": self.hiérarchie["dictionnaire"]}
 
-        informations_entité = self.rechercher_entité_adéquate(informations_générales["entités"])
-        informations_parent = self.rechercher_entité_adéquate(informations_générales["parents"] if "parents" in informations_générales else None)
+        proentité.rechercher_entités_adéquates(self.historique, self.hiérarchie)
+
         # Appels récursifs pour créer les entités parentes manquantes s'il y a normalement une entité parente, à l'aide du dernier parent par défaut.
-        if not informations_parent and informations_parent is not None:
-            dernier_parent = informations_générales["parents"][-1]
-            if "entité" in dernier_parent:
-                logging.warning(_("Parent manquant, bordel !"))
-                entité = dernier_parent["entité"]
-                informations_générales_secondaires = copy.deepcopy(self.entités[entité])
-                attributs = dernier_parent["attributs"]
-                if "informations" in dernier_parent:
-                    attributs.update({clef: informations_générales["entités"][0]["attributs"][valeur] for clef, valeur in dernier_parent["informations"].items()})
-                self.transférer_données_entités(informations_générales_secondaires["entités"], attributs=attributs)
-                self.préparer_entités_linguistiques(informations_générales_secondaires)
-                informations_parent = self.rechercher_entité_adéquate(informations_générales["parents"])
+        if not proentité.entité_parente and proentité.entité_parente is not None:
+            parent_par_défaut = [parent for parent in proentité.informations_entités_parentes_potentielles if "entité" in parent][0]
+            if "entité" in proentité.informations_entités_parentes_potentielles[0]:
+                del proentité.informations_entités_parentes_potentielles[0]
+            logging.warning(_("Le parent adéquat n'a pas été trouvé et un parent par défaut « {} » sera créé.".format(parent_par_défaut["entité"])))
+            proentité_auxiliaire = lexika.linguistique.ProentitéLinguistique(self.entités[parent_par_défaut["entité"]])
+            attributs = parent_par_défaut["attributs"]
+            if "informations" in parent_par_défaut:
+                attributs.update({clef: proentité.entité_propre["attributs"][valeur] for clef, valeur in parent_par_défaut["informations"].items()})
+            proentité_auxiliaire.ajouter_informations({"attributs": attributs})
+            self.aiguiller_entités_linguistiques(proentité_auxiliaire)
+            proentité.rechercher_entité_parente(self.historique, self.hiérarchie)
+        self.créer_entité_linguistique(proentité=proentité)
 
-        # Garde-fous pour éviter des mélanges d'informations de différentes entrées, ce qui peut arriver si certaines entités ont été oubliées dans le fichier source.
-        # print("*****", informations_entité)
-        # if "tête" in informations_entité["structure"] and informations_entité["structure"]["tête"]:
-        #     logging.info(_("Nouveau bloc"))
-        #     self.historique = []
-        #     self.hiérarchie = {"dictionnaire": self.hiérarchie["dictionnaire"]}
-
-        # if any([valeur for valeur in informations_entité["attributs"].values() if valeur]):
-        #     self.créer_entité_linguistique(informations_entité, informations_parent)
-        # else:
-        #     logging.warning(_("Information manquante pour l'entité « {} », elle ne sera pas traitée.").format(informations_entité["nom"]))
-        self.créer_entité_linguistique(informations_entité, informations_parent)
-
-    def créer_entité_linguistique(self, informations_entité, informations_parent=None):
+    def créer_entité_linguistique(self, informations_entité=None, informations_parent=None, proentité=None):
         """
         Création d'une entité linguistique. À ce niveau, les termes d'entités et d'informations (données traitées) sont utilisés.
         :param informations_entité:
         :param informations_parent:
         :return:
         """
+        if proentité:
+            informations_entité = proentité.entité_propre
+            informations_parent = proentité.entité_parente
         nom_entité_linguistique = informations_entité["nom"]
         # Informations de type entité, donc création de cette dernière.
         if informations_parent or nom_entité_linguistique.lower() in ["dictionnaire", "informations globales"]:
@@ -161,15 +151,16 @@ class NébuleuseObscure(Nébuleuse):
             # Liaison de l'entité avec la bonne entité parente, création si besoin est.
             if informations_parent:
                 nom_parent = informations_parent["nom"]
-                attribut_parent = informations_parent["attribut"]
+                nom_attribut_parent = informations_parent["attribut"]
                 if nom_parent not in self.hiérarchie:
                     logging.error(_("L'entité parente « {} » de l'entité « {} » n'a pas été trouvée.").format(nom_parent, entité.nom_entité_linguistique))
                 parent = self.hiérarchie[nom_parent][-1]
-                if not hasattr(parent, attribut_parent):
-                    setattr(parent, attribut_parent, [])
-                attribut_parent = getattr(parent, attribut_parent)
+                if not hasattr(parent, nom_attribut_parent):
+                    setattr(parent, nom_attribut_parent, [])
+                attribut_parent = getattr(parent, nom_attribut_parent)
                 attribut_parent.append(entité)
                 setattr(entité, "_parent", parent)
+                setattr(entité, "_attribut_parent", nom_attribut_parent)
             else:
                 setattr(entité, "_parent", None)
             self.mettre_à_jour_hiérarchie(entité)
@@ -180,11 +171,11 @@ class NébuleuseObscure(Nébuleuse):
             else:
                 logging.error(_("L'entité « {} » à mettre à jour n'existe pas.".format(nom_entité_linguistique)))
                 return
-        self.mettre_à_jour_entité_linguistique(entité, informations_entité, informations_parent)
-        self.mettre_à_jour_identifiant(entité, informations_entité, informations_parent)
+        self.mettre_à_jour_entité_linguistique(entité, informations_entité, informations_parent, proentité)
+        self.mettre_à_jour_identifiant(entité, informations_entité, informations_parent, proentité)
         return entité
 
-    def mettre_à_jour_entité_linguistique(self, entité, informations_entité, informations_parent):
+    def mettre_à_jour_entité_linguistique(self, entité, informations_entité, informations_parent, proentité=None):
         """
         Mise à jour des attributs (principaux et secondaires, appelés paramètres) d'une entité linguistique. À ce niveau, les termes d'entités et d'informations (données traitées) sont utilisés.
         :param entité:
@@ -196,7 +187,11 @@ class NébuleuseObscure(Nébuleuse):
             if "langue" in informations_entité["attributs"] and informations_entité["attributs"]["langue"] not in self.langues:
                 logging.warning(_("Langue « {} » non présente dans les paramètres de configuration.").format(informations_entité["attributs"]["langue"]))
             if hasattr(entité, attribut):
-                logging.error(_("L'attribut « {} » a déjà la valeur « {} » qui ne sera pas remplacée par « {} ».").format(attribut, getattr(entité, attribut), valeur))
+                if "factorisable" in proentité.entité_propre["structure"] and proentité.entité_propre["structure"]["factorisable"]:
+                    logging.info(_("L'attribut « {} » a déjà la valeur « {} », une nouvelle entité « {} » sera créée pour la valeur « {} ».").format(attribut, getattr(entité, attribut), entité.nom_entité_linguistique,valeur))
+                    self.reprendre_entité_linguistique(entité, attribut, valeur)
+                else:
+                    logging.error(_("L'attribut « {} » a déjà la valeur « {} » qui ne sera pas remplacée par « {} ».").format(attribut, getattr(entité, attribut), valeur))
             else:
                 if valeur:
                     setattr(entité, attribut, str(valeur))
@@ -204,31 +199,12 @@ class NébuleuseObscure(Nébuleuse):
                     logging.warning(_("L'attribut « {} » n'a pas de valeur.").format(attribut))
         return entité
 
-    def rechercher_entité_adéquate(self, informations_entités_potentielles):
-        """
-        Recherche de l'entité adéquate en cas d'ambiguïté potentielle.
-        :param informations_entités_potentielles:
-        :return:
-        """
-        if informations_entités_potentielles:
-            if len(informations_entités_potentielles) == 1:
-                entité_adéquate = informations_entités_potentielles[0]
-            else:
-                noms_entités_potentielles = [entité["nom"] for entité in informations_entités_potentielles if "nom" in entité]
-                if len([entité for entité in noms_entités_potentielles if entité in self.historique]) > 1:
-                    résultat = {}
-                    for nom_entité_potentielle in noms_entités_potentielles:
-                        if nom_entité_potentielle in self.historique:
-                            résultat[nom_entité_potentielle] = self.historique.index(nom_entité_potentielle)
-                    entités_adéquates = sorted([(antériorité, entité) for entité, antériorité in résultat.items()])[0]
-                    entité_adéquate = [informations for informations in informations_entités_potentielles if informations["nom"] == entités_adéquates[1]][0]
-                else:
-                    entité_adéquate = [informations for informations in informations_entités_potentielles if "nom" in informations and informations["nom"] in self.historique]
-                    if entité_adéquate:
-                        entité_adéquate = entité_adéquate[0]
-        else:
-            entité_adéquate = None
-        return entité_adéquate
+    def reprendre_entité_linguistique(self, entité, attribut, valeur):
+        attributs = {clef: valeur for clef, valeur in entité.__dict__.items() if clef not in ["_parent", "_attribut_parent", "nom_entité_linguistique", attribut]}
+        attributs.update({attribut: valeur})
+        informations_entité = {"nom": entité.nom_entité_linguistique, "attributs": attributs, "structure": {}}
+        informations_parent = {"nom": entité._parent.nom_entité_linguistique, "attribut": entité._attribut_parent}
+        self.créer_entité_linguistique(informations_entité=informations_entité, informations_parent=informations_parent)
 
     def mettre_à_jour_hiérarchie(self, entité):
         """
@@ -241,7 +217,7 @@ class NébuleuseObscure(Nébuleuse):
         self.hiérarchie[entité.nom_entité_linguistique].append(entité)
         self.historique.insert(0, entité.nom_entité_linguistique)
 
-    def mettre_à_jour_identifiant(self, entité, informations_entité, informations_parent):
+    def mettre_à_jour_identifiant(self, entité, informations_entité, informations_parent, proentité=None):
         """
         Mise à jour de l'identifiant de l'entité.
         :param entité:
@@ -271,20 +247,6 @@ class NébuleuseObscure(Nébuleuse):
         entité.nom_entité_linguistique = nom_entité_linguistique
         return entité
 
-    def transférer_données_entités(self, entités, données=None, attributs=None, métadonnées=None):
-        for entité in entités:
-            attributs_cibles = [clef for clef, valeur in entité["attributs"].items() if valeur is None]
-            if len(attributs_cibles) <= 1:
-                if données:
-                    entité["attributs"][attributs_cibles[0]] = données
-                if métadonnées:
-                    entité.update({"métainformations": métadonnées})
-                if attributs:
-                    entité.update({"attributs": attributs})
-            else:
-                logging.error(_("Attention, il y a plusieurs attributs cibles pour une seule entité (« {} »), il ne devrait y en avoir qu'un seul au maximum.".format(attributs_cibles)))
-                raise Exception
-
     def connecter_renvois(self):
         if self.expression_renvoi:
             modèle = regex.compile(self.configuration.expression_renvoi)
@@ -297,7 +259,7 @@ class NébuleuseObscure(Nébuleuse):
                 setattr(objet, "lien", None)
                 setattr(objet, "non_lien", None)
             for nom, élément in objet.__dict__.items():
-                if nom not in ["nom_entité_linguistique", "_parent"]:
+                if nom not in ["nom_entité_linguistique", "_parent", "_attribut_parent"]:
                     if isinstance(élément, list):
                         for sous_élément in élément:
                             self.connecter_renvois_récursivement(sous_élément, modèle, formes_citation)
@@ -331,37 +293,3 @@ class NébuleuseObscure(Nébuleuse):
                                         setattr(objet, "lien", formes_citation[élément])
                                     else:
                                         setattr(objet, "non_lien", élément)
-
-
-# def aiguiller_entité_linguistique(self, informations_entité, informations_parent):
-#     """
-#     Aiguille les informations d'une entité vers le créateur après un nettoyage. À ce niveau, les termes d'entités et d'informations (données traitées) sont utilisés.
-#     :param informations_générales:
-#     """
-    # if "préentités" in informations:
-    #     for préentité in informations["préentités"]:
-    #         attributs_entité = {"attributs": {attribut: valeur for attribut, valeur in zip(entité["attributs"], entité["valeurs"]) if valeur}}
-    #         entité.pop("attributs")
-    #         entité.pop("valeurs")
-    #         entité.update(attributs_entité)
-    #         if self.balises[préentité["nom"]]["parents"] and len(self.balises[préentité["nom"]]["parents"]) > 1:
-    #             parent = self.rechercher_parent_adéquat(self.balises[préentité["nom"]]["parents"])
-    #         else:
-    #             parent = self.balises[préentité["nom"]]["parents"][0] if self.balises[préentité["nom"]]["parents"] else None
-    #         self.créer_entité_linguistique(self.balises[préentité["nom"]]["entité"], parent)
-
-    # entité = informations["entité"]
-    # if "expression" in informations:  # à revoir
-    #     modèle_informations = regex.compile(informations["expression"])
-    #     bilan = modèle_informations.match(entité["valeurs"][0])
-    #     valeurs = []
-    #     if bilan:
-    #         for attribut in informations["entité"]["attributs"]:
-    #             valeurs.append(bilan.group(attribut))
-    #     attributs_entité = {"attributs": {attribut: valeur for attribut, valeur in zip(entité["attributs"], valeurs) if valeur}}
-    #     logging.warning(_("Entité « {nom} » en cours, avec les attributs suivants : « {attributs} » (avec les paramètres suivant : « {paramètres} »).").format(**entité))
-    # if parent:
-    #     logging.warning(_("Son parent est « {nom} » et l'entité se place dans l'attribut « {attribut} ».").format(**parent))
-    # else:
-    #     logging.warning(_("Elle est indépendante."))
-    # self.créer_entité_linguistique(informations_entité, informations_parent)

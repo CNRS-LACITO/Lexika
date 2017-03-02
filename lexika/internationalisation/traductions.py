@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 entités = {
-    "RessourceLexicale": "LexicalResource",
+    "RessourcesLexicales": "LexicalResources",
     "informations globales": "global informations",
     "nom": "name",
     "auteurs": "authors",
@@ -38,15 +38,16 @@ entités = {
     "champ disciplinaire": "subject field",
     "domaine sémantique": "semantic domain",
     "nom scientifique": "scientific name",
-    "emprunt": "borrowed word",
+    "forme de mot": "word form",
+    "nombre grammatical": "grammatical number",
+    "pluriel": "plural",
+    "variante": "variant form",
+    "duel": "dual",
 
-    # "interrogation": "question",
-    # "interrogation": "question",
 }
 
 entités_classe = {"".join([segment[0].upper() + segment[1:] for segment in clef.split()]): "".join([segment[0].upper() + segment[1:] for segment in valeur.split()]) for clef, valeur in entités.items()}
 entités_mixtes = {clef: "".join([segment if index == 0 else segment[0].upper() + segment[1:] for index, segment in enumerate(valeur.split())]) for clef, valeur in entités.items()}
-print(entités_mixtes)
 
 mots_clefs = {
     "caractéristique": "feat",
