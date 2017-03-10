@@ -1,0 +1,51 @@
+chemin source: exemples/japhug2.lex
+format entrée: MDF
+format sortie: LMF
+sens: direct
+type: normal
+hiérarchie: normale
+identifiant: dictionnaire japhug
+dictionnaire:
+  nom: Essai d'un dictionnaire japhug
+  auteur: Guillaume Jacques
+  commentaire: Test LMF Lexika
+XML:
+  format: structure sans listes
+  langue: eng
+  XSL: style.xsl
+  chemin cible: exemples/résultats/japhug.xml
+Latex:
+  format: standard
+  langue: fra
+  chemin cible: exemples/résultats/japhug.tex
+tri: normal
+ordre lexicographique: [a, ɤ, b, β, c, ɕ, d, f, g, ɣ, h, ɦ, i, j, ɟ, k, l, ɬ, m, n, ɲ, ŋ, ɴ, o, p, q, r, ʁ, s, ʂ, t, ɯ, w, x, χ, z, ʑ, [¹, ², ³, ⁴]]
+langues:
+- identifiant: fra
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: français
+  glossonyme: français
+  statut: cible
+- identifiant: jya
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: ja phug
+  glossonyme: japhug
+  statut: source
+- identifiant: cmn
+  type caractères: hanzi
+  sens lecture: gauche à droite
+  autoglossonyme: 普通话
+  glossonyme: chinois
+  statut: cible
+- identifiant: nep
+  type caractères: devanagari
+  sens lecture: gauche à droite
+  autoglossonyme: नेपाली
+  glossonyme: népali
+  statut: cible
+tâches:
+  initial:
+  - joindre lignes coupées
+  final:

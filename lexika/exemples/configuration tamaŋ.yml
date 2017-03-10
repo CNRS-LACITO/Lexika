@@ -1,48 +1,55 @@
-chemin source: exemples/tamaŋ.txt
-chemin cible: tamaŋ.xml
-format entrée: Martine
-format sortie: structure totale
+chemin source: exemples/tamaŋ.lex
+format entrée: Lexware
+format sortie: LMF
 sens: direct
 type: normal
 hiérarchie: normale
-identifiant: tamaŋ - test
+identifiant: dictionnaire tamaŋ
 dictionnaire:
   nom: Essai d'un dictionnaire tamaŋ
   auteur: Martine Mazaudon
-  commentaire: Test avec la nouvelle bibiliothèque
+  commentaire: Test LMF Lexika
 XML:
+  format: structure sans listes
+  langue: eng
   XSL: style.xsl
-ordre lexicographique:
-tri: inverse
+  chemin cible: exemples/résultats/tamaŋ.xml
+Latex:
+  format: standard
+  langue: fra
+  chemin cible: exemples/résultats/tamaŋ.tex
+tri: normal
 langues:
 - identifiant: tam
-  type caractères: nagari
+  type caractères: latin
   sens lecture: gauche à droite
   autoglossonyme: tamaŋ
   glossonyme: tamaŋ
-  statuts: [source, vernaculaire]
+  statut: source
 - identifiant: fra
   type caractères: latin
   sens lecture: gauche à droite
   autoglossonyme: français
   glossonyme: français
-  statuts: [cible]
+  statut: cible
 - identifiant: eng
   type caractères: latin
   sens lecture: gauche à droite
   autoglossonyme: English
   glossonyme: anglais
-  statuts: [cible]
+  statut: cible
 - identifiant: nep
+  type caractères: nagari
+  sens lecture: gauche à droite
+  autoglossonyme: nepali
+  glossonyme: népali
+  statut: cible
+- identifiant: nep_tr
   type caractères: latin
   sens lecture: gauche à droite
   autoglossonyme: nepali
   glossonyme: népali
-  statuts: [source, vernaculaire]
-créateur: nébuleuse obscure
+  statut: cible
 tâches:
   initial:
-  prémédian:
-  postmédian:
   final:
-  - créer liens automatiques

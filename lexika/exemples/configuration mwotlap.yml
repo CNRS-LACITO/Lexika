@@ -1,5 +1,5 @@
 chemin source: exemples/mwotlap.lex
-chemin cible: mwotlap.xml
+chemin cible: exemples/résultats/mwotlap.xml
 format entrée: MDF Alex
 format sortie: Alex
 sens: direct
@@ -14,6 +14,11 @@ XML:
   format: structure totale
   langue: fra
   XSL: style.xsl
+  chemin cible: exemples/résultats/mwotlap.xml
+Latex:
+  format: standard
+  langue: fra
+  chemin cible: exemples/résultats/mwotlap.xml
 ordre lexicographique: [a, b, c, d, e, ē, g, h, i, k, l, m, m, n, ̄n, o, ō, p, q, r, s, t, u, v, w, y]
 tri: normal
 langues:
@@ -35,7 +40,6 @@ langues:
   autoglossonyme: English
   glossonyme: anglais
   statut: cible
-créateur: nébuleuse obscure
 tâches:
   initial:
   - remplacer caractères
@@ -43,4 +47,3 @@ tâches:
   prémédian:
   postmédian:
   final:
-  - créer liens automatiques

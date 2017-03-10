@@ -1,24 +1,19 @@
-chemin source: exemples/ɓə́ná.lex
+chemin source: exemples/inuktitut.lex
+chemin cible: exemples/résultats/inuktitut.xml
 format entrée: MDF
 format sortie: LMF
 sens: direct
 type: normal
 hiérarchie: normale
-identifiant: dictionnaire bena
+identifiant: dictionnaire inuktitut
 dictionnaire:
-  nom: Essai d'un dictionnaire bena
-  auteurs: Mark Van de Velde & Dmitry Idiatov
-  commentaire: Test LMF traduit pour R. Bonnet
+  nom: Essai d'un dictionnaire japhug
+  auteur: Marc-Antoine Mahieu
+  commentaire: D'après le roman de Markoosie Patsauq intutilé « Uumajursiuti unaatuinnamut ».
 XML:
   format: structure sans listes
-  langue: eng
+  langue:
   XSL: style.xsl
-  chemin cible: exemples/résultats/ɓə́ná.xml
-Latex:
-  format: standard
-  langue: eng
-  chemin cible: exemples/résultats/ɓə́ná.xml
-ordre lexicographique: [a, b, ɓ, d, ɗ, e, ə, f, g, gb, h, i, k, kp, l, m, n, ɲ, ŋ, p, r, s, ʃ, t, ʧ, u, v, ⱱ, w, y, z, ̄, ́, ̀,]
 tri: normal
 langues:
 - identifiant: fra
@@ -33,11 +28,12 @@ langues:
   autoglossonyme: English
   glossonyme: anglais
   statut: cible
-- identifiant: yun
+- identifiant: iku
   type caractères: latin
   sens lecture: gauche à droite
-  autoglossonyme: ɓə́ná
-  glossonyme: ɓə́ná
+  autoglossonyme: inuktitut
+  glossonyme: inuktitut
+  commentaire: Dialecte du Nunavik
   statut: source
 tâches:
   initial:

@@ -47,15 +47,19 @@ class ProentitéLinguistique:
         self.informations.update(informations)
 
     def rechercher_attribut_cible(self):
-        attributs_cibles = [clef for clef, valeur in self.entité_propre["attributs"].items() if valeur is None]
-        if len(attributs_cibles) == 1:
-            self.attribut_cible = attributs_cibles[0]
-        elif len(attributs_cibles) > 1:
-            logging.error(_("Attention, il y a plusieurs attributs cibles pour une seule entité (« {} »), il ne devrait y en avoir qu'un seul au maximum.".format(attributs_cibles)))
+        if self.entité_propre:
+            attributs_cibles = [clef for clef, valeur in self.entité_propre["attributs"].items() if valeur is None]
+            if len(attributs_cibles) == 1:
+                self.attribut_cible = attributs_cibles[0]
+            elif len(attributs_cibles) > 1:
+                logging.error(_("Attention, il y a plusieurs attributs cibles pour une seule entité (« {} »), il ne devrait y en avoir qu'un seul au maximum.".format(attributs_cibles)))
+                raise Exception
+            return self.attribut_cible
+        else:
+            logging.error(_("Attention, aucune entité propre trouvée, il devrait y en avoir une."))
             raise Exception
-        return self.attribut_cible
 
-    def rechercher_entités_adéquates(self, historique, hiérarchie):
+    def rechercher_entités_adéquates(self, historique=None, hiérarchie=None):
         self.rechercher_entité_propre(historique, hiérarchie)
         self.rechercher_entité_parente(historique, hiérarchie)
 
@@ -68,7 +72,7 @@ class ProentitéLinguistique:
         self.entité_parente = self.rechercher_entité_adéquate(self.informations_entités_parentes_potentielles, historique, hiérarchie)
         return self.entité_parente
 
-    def rechercher_entité_adéquate(self, informations_entités, historique, hiérarchie):
+    def rechercher_entité_adéquate(self, informations_entités, historique, hiérarchie):  # À faire : améliorer avec prise en compte de l'ordre des noms et entités.
         """
         Recherche de l'entité adéquate en cas d'ambiguïté potentielle.
         :param informations_entités_potentielles:
@@ -81,17 +85,24 @@ class ProentitéLinguistique:
                 if len([entité for entité in informations_entités if "nom" in entité and entité["nom"] in historique]) > 1:
                     noms_entités_adéquates = {}
                     for entité_potentielle in informations_entités:
-                        if entité_potentielle["nom"] in historique:
+                        if "nom" in entité_potentielle and entité_potentielle["nom"] in historique:
                             noms_entités_adéquates[entité_potentielle["nom"]] = historique.index(entité_potentielle["nom"])
                     noms_entités_adéquates = sorted([(antériorité, nom_entité) for nom_entité, antériorité in noms_entités_adéquates.items()])[0]
-                    entité = [entité_potentielle for entité_potentielle in informations_entités if entité_potentielle["nom"] == noms_entités_adéquates[1]][0]
+                    entité = [entité_potentielle for entité_potentielle in informations_entités if "nom" in entité_potentielle and entité_potentielle["nom"] == noms_entités_adéquates[1]][0]
                 else:
                     entité = [entité_potentielle for entité_potentielle in informations_entités if "nom" in entité_potentielle and entité_potentielle["nom"] in historique]
                     if entité:
                         entité = entité[0]
+                        # if "priorité des parents" in entité:
+                        #     parent_adéquat = sorted([(parent, historique.index(parent)) for parent in entité["priorité des parents"] if parent in historique], key=lambda valeur: valeur[1])[0][0]
+                        #     objet_entité = hiérarchie[entité["nom"]][-1]
+                        #     print('**', objet_entité, parent_adéquat)
+                        #     if parent_adéquat != objet_entité._parent.nom_entité_linguistique:
+                        #         return []
+                    else:
+                        entité = {}
                 if "entité" in informations_entités[0]:
-                    return []
-                # if entité and hasattr(hiérarchie[entité["nom"]][-1], self.rechercher_attribut_cible()):
+                    return {}
         else:
             entité = None
         return entité

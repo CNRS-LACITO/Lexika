@@ -25,7 +25,7 @@ langue_préférée = gettext.translation("messages", localedir="internationalisa
 langue_préférée.install()
 
 
-class Déesse:
+class NébuleuseDeLʼHélice:
     """
     Classe qui transforme toutes les poussières de données pour éventuellement donner vie à un dictionnaire selon les différentes interférences paramétriques.
     """
@@ -82,7 +82,8 @@ class Déesse:
         for donnée in self.lecteur.données:
             self.créateur.analyser_données(donnée)
         self.créateur.connecter_renvois()
-        self.écriveur = lexika.outils.Écriveur(self.configuration.chemin_cible)
+        self.créateur.extraire_sous_entrées()
+        self.écriveur = lexika.outils.Écriveur(self.configuration.XML["chemin cible"])
         self.exécuter_tâches("final", dictionnaire=self.créateur.dictionnaire, liste_identifiants=self.créateur.identifiants)
 
     @lexika.outils.Chronométrer(_("génération du fichier XML"))
@@ -93,17 +94,29 @@ class Déesse:
         """
         générateur_XML = lexika.outils.GénérateurXML(self.configuration, self.créateur.dictionnaire, self.créateur.informations_globales)
         générateur_XML.obtenir_xml(self.configuration.XML["format"], self.configuration.XML["langue"])
+        générateur_XML.obtenir_xml(self.configuration.XML["format"], self.configuration.XML["langue"])
 
+
+    @lexika.outils.Chronométrer(_("génération du fichier Latex"))
+    def générer_Latex(self):
+        """
+        Génère le fichier Latex à partir du fichier XML nouvellement créé.
+        :return:
+        """
+        générateur_Latex = lexika.outils.GénérateurLatex(self.configuration, self.créateur.dictionnaire, self.créateur.informations_globales)
+        générateur_Latex.obtenir_latex(self.configuration.Latex["format"], self.configuration.Latex["langue"])
+        générateur_Latex.obtenir_latex(self.configuration.Latex["format"], self.configuration.Latex["langue"])
 
 def main():
     # Création des éléments techniques divers.
     lexika.outils.créer_journalisation("journal.log")
 
-    source_configuration = "./exemples/configuration mwotlap.yml"
-    déesse = Déesse(source_configuration)
+    source_configuration = "./exemples/configuration japhug.yml"
+    déesse = NébuleuseDeLʼHélice(source_configuration)
     déesse.initialiser()
     déesse.créer_dictionnaire()
     déesse.générer_XML()
+    déesse.générer_Latex()
 
 if __name__ == "__main__":
     main()
