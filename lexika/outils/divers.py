@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+import lexika.outils
 import cchardet
 import contextlib
 import datetime
@@ -17,15 +18,24 @@ class OuvrirFichier:
         self.kwargs = kwargs
         self.chemin_accès = args[0] if args[0] else kwargs['file']
         self.fichier = None
+        self.encodage_préféré = "UTF-8"
 
     def __enter__(self):
-        with open(self.chemin_accès, 'rb') as entrée:
-            buffer = entrée.read()
-            encodage = cchardet.detect(buffer)
-            print("Ouverture du fichier « {} » avec l'encodage « {} » (confiance de {:.2f})".format(self.chemin_accès.split(os.sep)[-1], encodage["encoding"], encodage["confidence"]))
-        if 'encoding' in self.kwargs:
-            self.kwargs.pop('encoding')
-        self.fichier = open(encoding=encodage['encoding'], *self.args, **self.kwargs)
+        if "r" in self.args[1]:
+            if "type" in self.kwargs and self.kwargs["type"] == "interne":
+                self.fichier = open(encoding=self.encodage_préféré, *self.args)
+            else:
+                with open(self.chemin_accès, 'rb') as entrée:
+                    buffer = entrée.read()
+                    encodage = cchardet.detect(buffer)
+                    if not encodage["encoding"]:
+                        encodage = {"encoding": self.encodage_préféré, "confidence": 1}
+                    print("Ouverture du fichier « {} » avec l'encodage « {} » (confiance de {:.2f})".format(self.chemin_accès.split(os.sep)[-1], encodage["encoding"], encodage["confidence"]))
+                if 'encoding' in self.kwargs:
+                    self.kwargs.pop('encoding')
+                self.fichier = open(encoding=encodage['encoding'], *self.args, **self.kwargs)
+        else:
+            self.fichier = open(encoding=self.encodage_préféré, *self.args, **self.kwargs)
         return self.fichier
 
     def __exit__(self, type, value, traceback):
@@ -50,7 +60,7 @@ class Chronométrer(contextlib.ContextDecorator):
 
 
 def créer_journalisation(nom_fichier):
-    with open(nom_fichier, 'w'):
+    with lexika.outils.OuvrirFichier(nom_fichier, 'w'):
         pass
     logging.basicConfig(filename=nom_fichier, level=logging.ERROR)
     formateur = logging.Formatter("%(asctime)s [%(levelname)s]  %(message)s")

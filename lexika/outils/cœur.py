@@ -18,7 +18,7 @@ class Configuration:
         self.fichier_source = fichier_source
 
         self.statuts_langues = {}
-        with open(fichier_source, 'r') as entrée:
+        with lexika.outils.OuvrirFichier(fichier_source, 'r') as entrée:
             # Mise à jour des attributs de l'objet en ajoutant des _ pour la compatibilité Python.
             self.__dict__.update({clef.replace(" ", "_"): valeur if clef != "langues" else {
                 sous_valeur["identifiant"]: {sous_sous_clef.replace(" ", "_"): sous_sous_valeur for

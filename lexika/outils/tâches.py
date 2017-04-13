@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import lexika.linguistique
+import lexika.outils
 import regex
 
 tâches = {
@@ -12,25 +13,25 @@ tâches = {
 
 def remplacer_caractères(fichier_entrée, fichier_sortie):
     résultat = []
-    with open(fichier_entrée, 'r') as entrée:
+    with lexika.outils.OuvrirFichier(fichier_entrée, 'r') as entrée:
         for ligne in entrée.readlines():
             résultat.append(ligne.replace("^", ''))
-    with open(fichier_sortie, 'w') as sortie:
+    with lexika.outils.OuvrirFichier(fichier_sortie, 'w') as sortie:
         sortie.write("".join(résultat))
 
 def joindre_lignes_coupées(fichier_entrée, fichier_sortie):
-    with open(fichier_entrée, 'r') as entrée:
+    with lexika.outils.OuvrirFichier(fichier_entrée, 'r') as entrée:
         résultat = []
         for ligne in entrée.readlines():
             if ligne.strip() and not ligne.startswith("\\"):
                 résultat[-1] = "{} {}".format(résultat[-1].rstrip(), ligne)
             else:
                 résultat.append(ligne)
-    with open(fichier_sortie, 'w') as sortie:
+    with lexika.outils.OuvrirFichier(fichier_sortie, 'w') as sortie:
         sortie.write("".join(résultat))
 
 def inverser_balises(fichier_entrée, fichier_sortie):
-    with open(fichier_entrée, 'r') as entrée:
+    with lexika.outils.OuvrirFichier(fichier_entrée, 'r') as entrée:
         contenu = entrée.read()
         # contenu = regex.compile(r"(\\el .*)\n(\\et .*)", flags=regex.MULTILINE).sub(r"\2\n\1", contenu)
         # contenu = regex.compile(r"(\\ps .*)\n(\\wr .*)", flags=regex.MULTILINE).sub(r"\2\n\1", contenu)
@@ -41,5 +42,5 @@ def inverser_balises(fichier_entrée, fichier_sortie):
         # contenu = regex.compile(r"(\\oe .*)\n(\\xe .*)", flags=regex.MULTILINE).sub(r"\2\n\1", contenu)
         # contenu = regex.compile(r"(\\on .*)\n(\\xn .*)", flags=regex.MULTILINE).sub(r"\2\n\1", contenu)
         # contenu = regex.compile(r"(\\on .*)\n(\\xn .*)", flags=regex.MULTILINE).sub(r"\2\n\1", contenu)
-    with open(fichier_sortie, 'w') as sortie:
+    with lexika.outils.OuvrirFichier(fichier_sortie, 'w') as sortie:
         sortie.write(contenu)

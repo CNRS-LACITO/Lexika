@@ -32,10 +32,10 @@ class GénérateurXML:
         self.créer_éléments(self.dictionnaire, arborescence, format == "structure totale")
         texte_structuré = lxml.etree.tostring(arborescence, encoding="unicode", method="xml", pretty_print=True)
         informations = {"style": self.configuration.XML["XSL"], "arborescence": texte_structuré}
-        with open("gabarits/XML/dictionnaire.xml", 'r') as gabarit:
+        with lexika.outils.OuvrirFichier("gabarits/XML/dictionnaire.xml", 'r', type="interne") as gabarit:
             source = lexika.outils.Gabarit(gabarit.read())
-        with open(self.configuration.XML["chemin cible"], 'w') as sortie:
-            sortie.write(source.substitute(informations))
+        with lexika.outils.OuvrirFichier(self.configuration.XML["chemin cible"], 'w') as sortie:
+            sortie.write(source.substitute(informations))             
         logging.info(_("Génération du fichier XML terminée"))
 
     def créer_éléments(self, objet, branche_parente, garder_listes=True):
@@ -139,12 +139,12 @@ class GénérateurLatex:
             for variable, fichier in self.configuration.Latex["fichiers annexes"].items():
                 if fichier:
                     if os.path.isfile(fichier):
-                        with open(fichier, 'r') as entrée:
+                        with lexika.outils.OuvrirFichier(fichier, 'r') as entrée:
                             contenu = entrée.read()
                     else:
                         contenu = fichier
                     informations.update({variable: contenu})
         source = lexika.outils.Gabarit(texte)
-        with open(self.configuration.Latex["chemin cible"], 'w') as sortie:
+        with lexika.outils.OuvrirFichier(self.configuration.Latex["chemin cible"], 'w') as sortie:
             sortie.write(source.safe_substitute(informations))
         logging.info(_("Génération du fichier Latex terminée."))

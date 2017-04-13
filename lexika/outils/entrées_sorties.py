@@ -22,5 +22,5 @@ class Écriveur:
         self.chemin_cible = chemin_cible
 
     def écrire_résultat(self, données):
-        with open(self.chemin_cible, 'w') as sortie:
+        with lexika.outils.OuvrirFichier(self.chemin_cible, 'w') as sortie:
             sortie.write(données)
