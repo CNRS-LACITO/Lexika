@@ -1,0 +1,260 @@
+body {
+	width: 80%;
+	margin: 15px auto;
+	font-family: "Calibri", Arial, "Lucida Grande", sans;
+	font-size: 11;
+}
+
+#lettrines{
+	float: right;
+	width: 80%;
+}
+
+#lettrines ul {
+	list-style-type:none;
+	width: 100%;
+	margin: 0 auto;
+	padding-left: 200;
+}
+
+#lettrines li {
+	float: left;
+	padding: 10px;
+}
+
+#entrées {
+	float: left;
+	width: 11%;
+	font-family: "Lucida Grande", "Arial Rounded MT Bold", Arial, "Calibri", sans;
+	color: #660000;
+	background-color: #ffe0b3;
+	padding: 12px;
+	padding-top: 120px;
+}
+
+#corps {
+	float: right;
+	width: 80%;
+/* font-family: "DejaVu Serif Condensed", "Cambria", "Charis SIL Compact", "Lucida Grande", serif; */
+}
+
+a {
+	font-weight: bold;
+	text-decoration: none;
+	color: inherit;
+}
+
+.figure {
+/*	float: right;
+    position: absolute; */
+	align: right;
+	max-width: 340px;
+	border-color:#330;
+	border: 3;
+}
+
+.langn {
+	color: #993366;
+	font-weight: bold;
+	font-size: 105%;
+}
+
+.lang1 {
+	color: #000000;
+}
+
+.lang2 {
+	color: #000099;
+}
+
+.entrée, .groupe, .sens, .définition, .exemple {
+/*	margin-right: 5px; */
+	text-align: justify;
+	}
+
+.entrée {
+	position: relative;
+	left: -20px;
+}
+.sous-entrée {
+	margin-left: 20px;
+}
+.entrée_1 {
+	background-color: #ffd633;
+	padding-left: 10px;
+	padding-top: 10px;
+/*	padding-right: -10px; */
+	padding-bottom: 2px;
+	position: relative;
+	left: -30px;
+	width: 106%;
+}
+.sous-entrée_1 {
+	position: relative;
+	left: -20px;
+	background-color: #FFF8C6;
+	padding: 10px;
+}
+.entrée .vedette {
+	font-size: 130%;
+	color: #993300;
+	font-weight: bold;
+	font-family: Arial, "Calibri", "Lucida Grande", sans;
+}
+
+.sous-entrée .vedette {
+	font-size: 110%;
+	color: #993300;
+	font-family: Arial, "Calibri", "Lucida Grande", sans;
+	line-height: 50%;
+}
+.homonyme {
+	color: red;
+	font-size: 75%;
+	position:relative;
+	bottom: -0.3em;
+}
+
+.classe_grammaticale {
+	color: darkgreen;
+	font-family: "Calibri", Arial, "Lucida Grande", sans;
+}
+
+.variante {
+	color: #993300;
+	font-weight: bold;
+}
+
+.phonétique {
+
+}
+
+.forme_citation {
+	color: #990066;
+}
+
+.nom_groupe {
+	color: darkred;
+	font-weight: bold;
+	position: relative;
+	left: -30px;
+}
+
+.numéro_sens {
+	color: black;
+	position: relative;
+	font-weight: bold;
+	left: -15px;
+	line-height: 110%;
+}
+
+.domaine_sémantique {
+	color: #666600;
+	font-size: 85%;
+}
+
+.définition, .glose {
+	margin-right: 4px;
+	font-size: 105%;
+}
+.étiquette_sémantique {
+	color: #33331a;
+	font-family: Calibri, sans;
+	font-style: italic;
+	font-size: 90%;
+}
+.nom_scientifique {
+	color: darkred;
+	font-family: Tahoma, Verdana;
+	text-align: left;
+	margin-left: 20px;
+}
+.exemple {
+	margin-left: 20px;
+/*	font-style: italic; */
+	font-size: 90%;
+}
+
+.relation_sémantique {
+	margin-left: 80px;
+	font-style: italic;
+}
+
+.informations_encyclopédiques {
+	margin-left: 30px;
+	font-size: 95%;
+}
+
+.note {
+	color: blue;
+	font-size: 75%;
+	margin-left: 40px;
+	font-style: italic;
+}
+
+.étymologie {
+	text-align: right;
+	font-size: 85%;
+}
+
+.étymon {
+	color: #666600;
+}
+
+.langue {
+	color: grey;
+	font-variant: small-caps;
+}
+
+.type {
+	color: indigo;
+}
+
+.encadré {
+	display: inline-block;
+	border-style: solid;
+	margin: 20px;
+	padding: 20px;
+	font-size: 90%;
+	text-align: justify;
+	width: 75%;
+}
+
+.encadré h4, .encadré h5, .tableau h4, .tableau h5 {
+	text-align: center;
+	line-height: 90%;
+	font-size: 110%;
+}
+
+.tableau {
+	display: inline-block;
+	border-style: solid;
+	margin: 10px;
+	padding: 10px;
+	border-spacing: 25px 0;
+	font-size: 90%;
+	justify;
+}
+
+tr:nth-child(even){
+	background-color: #f2f2f2;
+}
+
+.lien_ok {
+	color: #cc0000;
+}
+.lien_brisé {
+	color: #333300;
+}
+
+.fl, .ax {
+	color: #33331a;
+	font-family: Calibri, sans;
+	font-style: italic;
+	font-size: 90%;
+} 
+.fv, .vl {
+	color: #660000;
+} 
+.fr, .fs, .hm {
+} 

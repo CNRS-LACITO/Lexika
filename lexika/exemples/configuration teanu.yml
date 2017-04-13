@@ -1,0 +1,53 @@
+chemin source: exemples/teanu.lex
+format entrée: MDF Alex
+format sortie: personnalisé Alex
+sens: direct
+type: normal
+hiérarchie: normale
+identifiant: teanu - test
+dictionnaire:
+  nom: Essai d'un dictionnaire mwotlap
+  auteur: Alexandre François
+  commentaire: "dictionnaire très élaboré : cas très difficile (groupes, sous-entrées, sous-sens, etc.)"
+XML:
+  format: structure totale
+  langue: fra
+  XSL: style.xsl
+  chemin cible: exemples/résultats/teanu.xml
+Latex:
+  format: standard
+  langue: fra
+  chemin cible: exemples/résultats/teanu.tex
+ordre lexicographique: [a, b, c, d, e, ē, f, g, h, i, j, k, l, m, m̄, n, [̄n, n̄], o, ō, p, q, r, s, t, u, v, w, y, z]
+tri: normal
+langues:
+- identifiant: tkw
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: teanu
+  glossonyme: teanu
+  statut: source
+- identifiant: fra
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: français
+  glossonyme: français
+  statut: cible
+- identifiant: eng
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: English
+  glossonyme: anglais
+  statut: cible
+- identifiant: bis
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: Bislama
+  glossonyme: bichelamar
+  statut: cible
+tâches:
+  initial:
+#  - remplacer caractères
+#  - inverser balises
+  - joindre lignes coupées
+  final:

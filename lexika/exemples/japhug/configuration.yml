@@ -1,0 +1,58 @@
+chemin source: exemples/japhug/japhug.lex
+format entrée: MDF Guillaume
+format sortie: LMF - Relation sémantique avec classe grammaticale
+sens: direct
+type: normal
+hiérarchie: normale
+identifiant: dictionnaire japhug
+dictionnaire:
+  nom: Essai d'un dictionnaire japhug
+  auteur: Guillaume Jacques
+  commentaire: Test LMF Lexika
+XML:
+  format: structure sans listes
+  langue: eng
+  XSL: style.xsl
+  chemin cible: exemples/japhug/résultats/japhug.xml
+Latex:
+  format: standard
+  gabarit: exemples/japhug/latex.xsl
+  langue: fra
+  chemin cible: exemples/japhug/résultats/japhug.tex
+  fichiers annexes:
+    introduction: exemples/japhug/introduction.tex
+    tableaux: Oui
+Audio:
+  chemin audio: exemples/japhug/résultats/AudioJaphug
+  format audio: wav
+ordre lexicographique: [a, ɤ, b, β, c, ɕ, d, e, f, g, ɣ, h, ɦ, i, j, ɟ, k, l, ɬ, m, n, ɲ, ŋ, ɴ, o, p, q, r, ʁ, s, ʂ, t, ɯ, w, x, χ, z, ʑ, [¹, ², ³, ⁴]]
+tri: normal
+langues:
+- identifiant: fra
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: français
+  glossonyme: français
+  statut: cible
+- identifiant: jya
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: ja phug
+  glossonyme: japhug
+  statut: source
+- identifiant: cmn
+  type caractères: hanzi
+  sens lecture: gauche à droite
+  autoglossonyme: 普通话
+  glossonyme: chinois
+  statut: cible
+- identifiant: nep
+  type caractères: devanagari
+  sens lecture: gauche à droite
+  autoglossonyme: नेपाली
+  glossonyme: népali
+  statut: cible
+tâches:
+  initial:
+  - joindre lignes coupées
+  final:

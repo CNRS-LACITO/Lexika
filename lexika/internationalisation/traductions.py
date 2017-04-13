@@ -6,16 +6,18 @@ entités = {
     "informations globales": "global informations",
     "nom": "name",
     "auteurs": "authors",
-    "commentaire": "comments",
+    "commentaire": "comment",
     "dictionnaire": "lexicon",
     "entrée lexicale": "lexical entry",
     "sous-entrée lexicale": "lexical subentry",
     "lemme": "lemma",
+    "sens général": "sense",
     "sens": "sense",
     "numéro de sens": "sense number",
     "numéro d'homonyme": "homonyme number",
     "lexème": "lexeme",
     "phonétique": "phonetic form",
+    "ton": "tone",
     "définition": "definition",
     "glose": "gloss",
     "paradigme": "paradigm",
@@ -40,14 +42,18 @@ entités = {
     "champ disciplinaire": "subject field",
     "domaine sémantique": "semantic domain",
     "nom scientifique": "scientific name",
+    "information encyclopédique": "encyclopedic information",
     "forme de mot": "word form",
     "nombre grammatical": "grammatical number",
-    "pluriel": "plural",
+    "personne grammaticale": "person",
     "variante": "variant form",
-    "duel": "dual",
     "forme apparentée": "related form",
     "entrée principale": "main entry",
     "sous-entrée": "subentry",
+    "étymologie": "etymology",
+    "média": "media",
+    "phonétique de surface": "surface phonetic form",
+    "commentaire de paradigme": "paradigm comment",
 }
 
 entités_classe = {"".join([segment[0].upper() + segment[1:] for segment in clef.split()]): "".join([segment[0].upper() + segment[1:] for segment in valeur.split()]) for clef, valeur in entités.items()}
@@ -59,8 +65,22 @@ mots_clefs = {
     "valeur": "val",
     "lien": "link",
     "cible": "target",
-    "contenu": "content",
-    "emprunt": "loanword"
+    "contenu": "content"
 }
 
-dictionnaires = [entités, entités_classe, mots_clefs, entités_mixtes]
+mots_clefs_conditionnels = {
+    "nombre grammatical": {"singulier": "singular",
+                            "duel": "dual",
+                            "pluriel": "plural"},
+    "personne grammaticale": {"première": "first person",
+                            "deuxième": "second person",
+                            "troisième": "third person"},
+    "type": {"emprunt": "loanword",
+             "renvoi": "confer"},
+    "qualité": {"élevée": "high",
+                "moyenne": "medium",
+                "faible": "low"}
+}
+
+dictionnaires_généraux = [entités, entités_classe, mots_clefs, entités_mixtes]
+dictionnaires_conditionnels = [mots_clefs_conditionnels]

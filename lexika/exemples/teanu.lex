@@ -581,7 +581,7 @@
 \un
 \en Sometimes longer form |vl{nganae}*, from |vl{ngaten' ae}.
 \lf
-\se ngaten' ae
+\se ngaten’ ae
 \ps int
 \gr
 \ll what thing
@@ -606,7 +606,7 @@
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 24/Jul/2016
+\dt 30/Jan/2017
 
 \lx ~ae
 \hm 2
@@ -669,6 +669,11 @@
 \nq vidiko or vidiviko??
 \lf
 \ta §TIT§ |{tab}|fb{Parts of the leg}  [|vl{aele}*] |{tab}|fv{aele}   |{tab}|{tab}|fs{lower limb, leg} |{tab}|fv{waluko aele}   |{tab}|{tab}|fs{thigh} |{tab}|fv{visibaele}   |{tab}|{tab}|fs{knee} |{tab}|fv{waburo ne aele}   |{tab}|{tab}|fs{kneecap} |{tab}|fv{belemele ne aele}    |{tab}|fs{ankle} |{tab}|fv{bava aele}   |{tab}|fs{foot} |{tab}|fv{uta aele}   |{tab}|{tab}|fs{heel} |{tab}|fv{vidiko ne aele}   |{tab}|{tab}|fs{toe}
+\tab leg
+\tin Parts of the leg
+\tiv aele
+\con <groupe><phraseme>aele</phraseme> <trada>lower limb, leg</trada></groupe> <groupe><phraseme>waluko aele</phraseme> <trada>thigh</trada></groupe> <groupe><phraseme>visibaele</phraseme> <trada>knee</trada></groupe> <groupe><phraseme>waburo ne aele</phraseme> <trada>kneecap</trada></groupe> <groupe><phraseme>belemele ne aele} </phraseme> <trada>ankle</trada></groupe> <groupe><phraseme>bava aele</phraseme> <trada>foot</trada></groupe> <groupe><phraseme>uta aele</phraseme> <trada>heel</trada></groupe> <groupe><phraseme>vidiko ne aele</phraseme> <trada>toe</trada></groupe>
+
 \se ~la aele
 \ps voi
 \ll take legs
@@ -680,7 +685,7 @@
 \et *qaqe (?)
 \nt
 \dc 12/May/2012
-\dt 12/May/2012
+\dt 26/Mar/2017
 
 \lx aero
 \hm 1
@@ -1095,7 +1100,7 @@
 \ln blow gently
 \sn 2
 \uv vl:awa ‘neck, mind’
-\dn be angry (at s.o., |fv{ñe})
+\dn be angry (at s.o., |fv {ñe})
 \rf DP1-17b + 21a
 \xv Awa ene i-aka (ñe eo).
 \xn [ax:lit. my neck/mind is blowing hard (at you)] I am angry at you.
@@ -1108,7 +1113,7 @@
 \nt
 \nq
 \dc 18/Nov/2009
-\dt 24/Jul/2016
+\dt 14/Feb/2017
 
 \lx ~aka
 \hm 2
@@ -3433,11 +3438,17 @@
 \rf DG2++
 \lf
 \tn |{tab}|fb{The stingray sander} £ |{tab}[|vl{bele voro}*] |vl{Li-la voro pe bele ini jiejie, li-kai bele utedie ini, awoiu li-la li-teli ne aeve me kokoro. Awoiu li-dai ñe vilo li-asai botongo. Awoiu ka i-wene peini u-totoñe via kome, via wele, tekumete, nga pon.} |fs{‘If you catch one of those stingrays whose skin is rough and rugged, you tear the skin off its back, and put it to dry in the sun. Then, you wrap it around a stick, and tie it with a stitch. It can be used for sanding axe handles, paddles, wooden dishes, and so on.’}
+\enc sander
+\tin The stingray sander
+\tiv bele voro
+\conv Li-la voro pe bele ini jiejie, li-kai bele utedie ini, awoiu li-la li-teli ne aeve me kokoro. Awoiu li-dai ñe vilo li-asai botongo. Awoiu ka i-wene peini u-totoñe via kome, via wele, tekumete, nga pon.
+\cona ‘If you catch one of those stingrays whose skin is rough and rugged, you tear the skin off its back, and put it to dry in the sun. Then, you wrap it around a stick, and tie it with a stitch. It can be used for sanding axe handles, paddles, wooden dishes, and so on.’
+\rft
 \el
 \nt
 \nq
 \dc 24/Nov/2009
-\dt 25/Jun/2016
+\dt 26/Mar/2017
 
 \lx belebale
 \ph ᵐbeleᵐbale
@@ -5164,11 +5175,15 @@
 \xn They collected shoots, and began to plant them around the island.
 \rf DP2-18a
 \ta §TIT§ |{tab}|fb{Words for planting}   [|vl{~do}*] |{tab}fv:~do1   |{tab}|{tab}|fs{plant tree, flower} |{tab}|fv{~teli}   |{tab}|{tab}|fs{plant fruit, taro} |{tab}fv:~vo3   |{tab}|{tab}|fs{plant a banana} |{tab}|fv{~woi}   |{tab}|{tab}|fs{plant maniok} |{tab}fv:~wowo3     |{tab}|fs{plant yam, tuber} |{tab}|fv{vese}   |{tab}|{tab}|fs{seed} |{tab}fv:mata2   |{tab}|{tab}|fs{sprout} |{tab}fv:jie2   |{tab}|{tab}|fs{taro shoot, sucker} |{tab}|fv{ekuo}   |{tab}|{tab}|fs{digging stick}
+\tab planting
+\tin Words for planting
+\tiv ~do
+\con <groupe><phraseme>~do1</phraseme> <trada>plant tree, flower</trada></groupe> <groupe><phraseme>~teli</phraseme> <trada>plant fruit, taro</trada></groupe> <groupe><phraseme>~vo3</phraseme> <trada>plant a banana</trada></groupe> <groupe><phraseme>~woi</phraseme> <trada>plant maniok</trada></groupe> <groupe><phraseme>~wowo3</phraseme> <trada>plant yam, tuber</trada></groupe> <groupe><phraseme>vese</phraseme> <trada>seed</trada></groupe> <groupe><phraseme>mata2</phraseme> <trada>sprout</trada></groupe> <groupe><phraseme>jie2</phraseme> <trada>taro shoot, sucker</trada></groupe> <groupe><phraseme>ekuo</phraseme> <trada>digging stick</trada></groupe>
 \el  
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 24/Jul/2016
+\dt 26/Mar/2017
 
 \lx ~do
 \hm 2
@@ -5418,13 +5433,17 @@
 \rf DG2-11a/b
 \en
 \lf
-\tn |{tab}|fb{Erythrinas and calendars} [|vl{ebieve}*] |vl{Noma, ebieve nga calendar adapa. Pe ka mana dapa ka li-ovei li-ko ka li-ka ne to ebieve.} – ’|fe{In the olden days, Erythrina flowers would serve as a kind of a calendar. When people would see its flowers had come out, they knew they were in the middle of the year.}’ The annual flowering of this tree was traditionally a marker of the yam-planting season. This correlation accounts for the homophony between the two words, vl:ebieve1 ‘Erythrina flower’ and vl:ebieve2 ‘season, year’.
 \bb Ross (2008:159, 257)
-\el
+\tn |{tab}|fb{Erythrinas and calendars} [|vl{ebieve}*] |vl{Noma, ebieve nga calendar adapa. Pe ka mana dapa ka li-ovei li-ko ka li-ka ne to ebieve.} – ’|fe{In the olden days, Erythrina flowers would serve as a kind of a calendar. When people would see its flowers had come out, they knew they were in the middle of the year.}’ The annual flowering of this tree was traditionally a marker of the yam-planting season. This correlation accounts for the homophony between the two words, vl:ebieve1 ‘Erythrina flower’ and vl:ebieve2 ‘season, year’.
+\enc calendars
+\tin Erythrinas and calendars
+\tiv ebieve
+\conv Noma, ebieve nga calendar adapa. Pe ka mana dapa ka li-ovei li-ko ka li-ka ne to ebieve.
+\cona ’In the olden days, Erythrina flowers would serve as a kind of a calendar. When people would see its flowers had come out, they knew they were in the middle of the year.’
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 31/Jul/2016
+\dt 26/Mar/2017
 
 \lx ebieve
 \hm 2
@@ -7520,13 +7539,16 @@
 \xn We drink tea, we chew areca nuts, and we play cards.
 \un
 \tn |{tab}|fb{Chewing areca nuts} (|vl{~kanu}) Vanikoro is, with Tikopia, the world's easternmost place where the chewing of areca nuts is a traditional practice. People go in the forest to pick (|vl{~ali}) areca nuts (vl:buioe), and pinch (|vl{~kidi}) betel leaves (|vl{puluko}). The two elements are then mixed with lime (vl:awo), and chewed together (|vl{~kanu}) until feeling dizzy (fl:see |vl{~avo}).
-\lf
+\enc areca
+\tin Chewing areca nuts
+\tiv ~kanu
+\cona Vanikoro is, with Tikopia, the world's easternmost place where the chewing of areca nuts is a traditional practice. People go in the forest to pick (|vl{~ali}) areca nuts (vl:buioe), and pinch (|vl{~kidi}) betel leaves (|vl{puluko}). The two elements are then mixed with lime (vl:awo), and chewed together (|vl{~kanu}) until feeling dizzy (fl:see |vl{~avo}).
 \el Tik.
 \et kamu
 \nt
 \nq
 \dc 21/Nov/2009
-\dt 17/Jul/2016
+\dt 26/Mar/2017
 
 \lx kangele
 \ph kaŋele
@@ -7979,12 +8001,16 @@
 \en The consumption of kava is claimed to be customary on Vanikoro. However, the fact that this is a Polynesian loanword suggests this practise was introduced in relatively times. Still today it is only drunk on rare occasions; the traditional daily drug of Vanikoro is really the areca nut (vl:buioe).
 \lf
 \ta §TIT§ |fb{Words of kava}   [|vl{kava}*] |{tab}|fv{kava}|{tab}|{tab}|{tab}kava |{tab}|fv{teipu}|{tab}|{tab}|{tab}coconut shell |{tab}|fv{tano}|{tab}|{tab}|{tab}kava bowl
+\tab kava
+\tin Words of kava
+\tiv kava
+\con <groupe><phraseme>kava</phraseme> <trada>kava</trada></groupe> <groupe><phraseme>teipu</phraseme> <trada>coconut shell</trada></groupe> <groupe><phraseme>tano</phraseme> <trada>kava bowl</trada></groupe>
 \el Polynesian
 \et kava
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 18/Nov/2016
+\dt 26/Mar/2017
 
 \lx kavale
 \ph kavale
@@ -10606,11 +10632,15 @@
 \rf
 \lf
 \tn |{tab}|fb{Folding away the deadman's mats} £ |{tab}[|vl{~lu bete}*] |vl{Idi le-bei bete awoiu, kape le-lu bete. Bete ka mwoe pon, ie mwaliko pe i-bu. Li-aneve lema mwoe, ka maro. Awoiu, le-loko ajekele le-iui ne revo.} |fs{‘At the end of the funeral vigil (|vl{~bei bete}*), comes the time when we fold the mats away. These are the mats, and the house, of the person who died. So we clean the house, both inside and outside. We collect the garbage (including the mats) and we go throw them in the sea.’}
-\el
+\enc mats
+\tin Folding away the deadman's mats
+\tiv ~lu bete
+\conv Idi le-bei bete awoiu, kape le-lu bete. Bete ka mwoe pon, ie mwaliko pe i-bu. Li-aneve lema mwoe, ka maro. Awoiu, le-loko ajekele le-iui ne revo.
+\cona ‘At the end of the funeral vigil (|vl{~bei bete}*), comes the time when we fold the mats away. These are the mats, and the house, of the person who died. So we clean the house, both inside and outside. We collect the garbage (including the mats) and we go throw them in the sea.’
 \nt
 \nq
 \dc 24/May/2012
-\dt 24/Jul/2016
+\dt 26/Mar/2017
 
 \lx ~lubi
 \ph (i·)luᵐbi
@@ -10669,6 +10699,11 @@
 \xv li-lui nuduro
 \xn carry the scareline, go fishing with the scareline (ax:see vl:nuduro)
 \ta §TIT§ |{tab}|{tab}|fb{Words for carrying} [|vl{~lui}*] |{tab}|fv{~lui} |{tab}|{tab}|fs{take away} |{tab}|fv{~kamai} |{tab}|{tab}|fs{bring} |{tab}|fv{~koioi} |{tab}|{tab}|fs{take in} |{tab}|fv{~kevei} |{tab}|{tab}|fs{take out} |{tab}|fv{~vesu} |{tab}|{tab}|fs{take up, erect} |{tab}|fv{~abui} |{tab}|{tab}|fs{take down} |{tab}|fv{~tabe} |{tab}|{tab}|fs{hold in o.'s arms} |{tab}|fv{~papa} |{tab}|{tab}|fs{carry on o.'s back} |{tab}|fv{~valangia}   |{tab}|fs{carry on stick} |{tab}fv:~wo2 |{tab}|{tab}|fs{carry on forehead strap}
+\tab carry
+\tin Words for carrying
+\tiv ~lui
+\con <groupe><phraseme>~lui</phraseme> <trada>take away</trada></groupe> <groupe><phraseme>~kamai</phraseme> <trada>bring</trada></groupe> <groupe><phraseme>~koioi</phraseme> <trada>take in</trada></groupe> <groupe><phraseme>~kevei</phraseme> <trada>take out</trada></groupe> <groupe><phraseme>~vesu</phraseme> <trada>take up, erect</trada></groupe> <groupe><phraseme>~abui</phraseme> <trada>take down</trada></groupe> <groupe><phraseme>~tabe</phraseme> <trada>hold in o.'s arms</trada></groupe> <groupe><phraseme>~papa</phraseme> <trada>carry on o.'s back</trada></groupe> <groupe><phraseme>~valangia</phraseme> <trada>carry on stick</trada></groupe> <groupe><phraseme>~wo2</phraseme> <trada>carry on forehead strap</trada></groupe>
+\rft
 \sn 2
 \dn take ‹s.o.› somewhere fl:or away
 \rf
@@ -10688,7 +10723,7 @@
 \nt
 \nq
 \dc 24/Nov/2009
-\dt 24/Jul/2016
+\dt 26/Mar/2017
 
 \lx lukilo
 \ph lukilo
@@ -12005,7 +12040,7 @@
 \ge
 \gn butterfly
 \dn butterfly
-\sc Lepidoptera |ax{spp}
+\sc Lepido^ptera |ax{spp}
 \sd Ins
 \rf
 \xv
@@ -14714,6 +14749,11 @@
 \xv Mobo kape le-lui nuduro me l-abu namuko.
 \xn Tomorrow we'll carry the scareline to get some fish.
 \tn |{tab}|fb{Scareline fishing} £ |{tab}[|vl{~lui nuduro}*] |vl{Basavono pe li-ejau nuduro, li-le li-toe woworo, awoiu li-ngago. Li-ngago awoiu ka li-kila li-ko nuduro. Dapa kula li-katei noma nuduro tilu ponu, li-koioi tetakoie, i-le i-vene ne moko taniboro; dapa kula li-vio ne revo li-dai adie nuduro li-abu revo, me le-labu namuko.} |fs{‘When we prepare the scareline, we go cut rattan stems and tie them together. Once they're tied together it becomes a ‘scareline’ (vl:nuduro). Some people pull the two ends of the line towards the shore, to a dry zone; others stand in the water, on the other side of the scareline, and hit the water to (scare and) catch the fish.’}
+\enc scareline
+\tin Scareline fishing
+\tiv ~lui nuduro
+\conv Basavono pe li-ejau nuduro, li-le li-toe woworo, awoiu li-ngago. Li-ngago awoiu ka li-kila li-ko nuduro. Dapa kula li-katei noma nuduro tilu ponu, li-koioi tetakoie, i-le i-vene ne moko taniboro; dapa kula li-vio ne revo li-dai adie nuduro li-abu revo, me le-labu namuko.
+\cona ‘When we prepare the scareline, we go cut rattan stems and tie them together. Once they're tied together it becomes a ‘scareline’ (vl:nuduro). Some people pull the two ends of the line towards the shore, to a dry zone; others stand in the water, on the other side of the scareline, and hit the water to (scare and) catch the fish.’
 \sn 2
 \dn palm of coconut or palmtree, displayed in some specific location to mark it as private or taboo; fl:hence taboo, ban, prohibition to enter a place
 \rf
@@ -14752,7 +14792,7 @@
 \nt
 \nq
 \dc 22/Nov/2009
-\dt 24/Jul/2016
+\dt 26/Mar/2017
 
 \lx n’ adie
 \ph naⁿdie
@@ -16869,6 +16909,10 @@
 \xv Kape le-loko ajekele le-iui ne revo.
 \xn They're going to gather rubbish and throw it in the sea.
 \ta §TIT§ |{tab}|fb{Words of the sea}   [|vl{revo}*] |{tab}|fv{revo}   |{tab}|{tab}|fs{sea; sea water} |{tab}|fv{revo i-kopine}   |{tab}|{tab}|fs{high tide} |{tab}|fv{revo i-ma}   |{tab}|{tab}|fs{low tide} |{tab}|fv{ole}     |{tab}|{tab}|fs{beach, sand} |{tab}|fv{touro}   |{tab}|{tab}|fs{reef} |{tab}|fv{toloto}   |{tab}|{tab}|fs{lagoon} |{tab}|fv{waiero}   |{tab}|{tab}|fs{surf, wave} |{tab}|fv{waiero peini vono}   |{tab}|fs{tidal wave} |{tab}|fv{pwa motono}   |{tab}|{tab}|fs{underwater} |{tab}|fv{ngamuli}   |{tab}|{tab}|fs{ocean, open sea} |{tab}|fv{vilisa revo}   |{tab}|fs{sea spray} |{tab}|fv{kidisa revo}   |{tab}|fs{salt} |{tab}|fv{vioe peini revo}   |{tab}|fs{sea foam}
+\tab carry
+\tin Words for the sea
+\tiv revo
+\con <groupe><phraseme>revo</phraseme> <trada>sea; sea water</trada></groupe> <groupe><phraseme>revo i-kopine</phraseme> <trada>high tide</trada></groupe> <groupe><phraseme>revo i-ma</phraseme> <trada>low tide</trada></groupe> <groupe><phraseme>ole</phraseme> <trada>beach, sand</trada></groupe> <groupe><phraseme>touro</phraseme> <trada>reef</trada></groupe> <groupe><phraseme>toloto</phraseme> <trada>lagoon</trada></groupe> <groupe><phraseme>waiero</phraseme> <trada>surf, wave</trada></groupe> <groupe><phraseme>waiero peini vono</phraseme> <trada>tidal wave</trada></groupe> <groupe><phraseme>pwa motono</phraseme> <trada>underwater</trada></groupe> <groupe><phraseme>ngamuli</phraseme> <trada>ocean, open sea</trada></groupe> <groupe><phraseme>vilisa revo</phraseme> <trada>sea spray</trada></groupe> <groupe><phraseme>kidisa revo</phraseme> <trada>salt</trada></groupe> <groupe><phraseme>vioe peini revo</phraseme> <trada>sea foam</trada></groupe>
 \se ~le ne revo
 \ps vi
 \gr
@@ -16909,7 +16953,7 @@
 \el
 \nt
 \dc 12/May/2012
-\dt 14/Apr/2016
+\dt 26/Mar/2017
 
 \lx ro
 \ph ro
@@ -18544,7 +18588,7 @@
 \ge
 \gn
 \dn goatfish
-\sc Mulloidichthys flavolineatus
+\sc Mulloid^ich^thys flavo^line^atus
 \sd Fish
 \rf AF-Q-42b
 \lf
@@ -19550,6 +19594,11 @@
 \xn They were hitting the boards, stomping on the boards: such was their dance.
 \lf
 \tn |{tab}|fb{The stomping boards} £ |{tab}[|vl{tepapa}*] |vl{Tepapa, li-toe kara nebe li-bo nga kulaña metele. Awoiu li-ae tanoe li-la tepapa li-botongo ñi. Awoiu idi li-mako ne pongo li-viane me aña ini.} |fs{‘To make a stomping board, you cut a root of rosewood tree, and carve it in the shape of a semi-circle. Then you dig up the ground, and cover the hole with the board. Later, people will dance upon them, stomping for the noise it makes.’}
+\enc stomping
+\tin The stomping boards
+\tiv tepapa
+\conv Tepapa, li-toe kara nebe li-bo nga kulaña metele. Awoiu li-ae tanoe li-la tepapa li-botongo ñi. Awoiu idi li-mako ne pongo li-viane me aña ini.
+\cona ‘To make a stomping board, you cut a root of rosewood tree, and carve it in the shape of a semi-circle. Then you dig up the ground, and cover the hole with the board. Later, people will dance upon them, stomping for the noise it makes.’
 \se kie tepapa
 \ps n
 \gr
@@ -19562,7 +19611,7 @@
 \eg plank
 \nt
 \dc 18/Jul/2016
-\dt 22/Jul/2016
+\dt 26/Mar/2017
 
 \lx tepuke
 \ph tepuke
@@ -22063,6 +22112,10 @@
 \xv Ka ni-mui pe ni-vete temotu aplaka.
 \xn I forgot to mention the small islet.
 \ta §TIT§ |{tab}|fb{Some speech verbs}  [|vl{~vete}*] |{tab}|fv{~vete}   |{tab}|{tab}|fs{say, mention} |{tab}|fv{~vete piene}   |{tab}|fs{talk, speak} |{tab}|fv{~mo}    |{tab}|{tab}|fs{talk, speak} |{tab}|fv{~atevo}   |{tab}|{tab}|fs{tell s.th.} |{tab}|fv{~viñi}   |{tab}|{tab}|fs{tell s.o.} |{tab}|fv{~wasi}   |{tab}|{tab}|fs{show s.o.} |{tab}|fv{~waivo}   |{tab}|{tab}|fs{teach s.o.} |{tab}|fv{~kilase}   |{tab}|{tab}|fs{address s.o.} |{tab}fv:~ko2   |{tab}|{tab}|fs{say, think} |{tab}|fv{~vodo}   |{tab}|{tab}|fs{think}
+\tab speech
+\tin Some speech verbs
+\tiv ~vete
+\con <groupe><phraseme>~vete</phraseme> <trada>say, mention</trada></groupe> <groupe><phraseme>~vete piene</phraseme> <trada>talk, speak</trada></groupe> <groupe><phraseme>~mo</phraseme> <trada>talk, speak</trada></groupe> <groupe><phraseme>~atevo</phraseme> <trada>tell s.th.</trada></groupe> <groupe><phraseme>~viñi</phraseme> <trada>tell s.o.</trada></groupe> <groupe><phraseme>~wasi</phraseme> <trada>show s.o.</trada></groupe> <groupe><phraseme>~waivo</phraseme> <trada>teach s.o.</trada></groupe> <groupe><phraseme>~kilase</phraseme> <trada>address s.o.</trada></groupe> <groupe><phraseme>~ko2</phraseme> <trada>say, think</trada></groupe> <groupe><phraseme>~vodo</phraseme> <trada>think.</trada></groupe>
 \sn 3
 \uv word+
 \dn mean ‹s.th.›
@@ -22086,7 +22139,7 @@
 \nt
 \nq
 \dc 23/Nov/2009
-\dt 17/Jul/2016
+\dt 26/Mar/2017
 
 \lx ~vete piene
 \ph (i·)vete piene
@@ -24304,7 +24357,7 @@
 \nt
 \nq
 \dc 22/Mar/2008
-\dt 24/Jul/2016
+\dt 24/Nov/2016
 
 \lx ~woi
 \ph (i·)woi

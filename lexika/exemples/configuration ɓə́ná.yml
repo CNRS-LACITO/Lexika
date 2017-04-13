@@ -7,7 +7,7 @@ hiérarchie: normale
 identifiant: dictionnaire bena
 dictionnaire:
   nom: Essai d'un dictionnaire bena
-  auteurs: Mark Van de Velde & Dmitry Idiatov
+  auteur: Mark Van de Velde & Dmitry Idiatov
   commentaire: Test LMF traduit pour R. Bonnet
 XML:
   format: structure sans listes
@@ -17,7 +17,7 @@ XML:
 Latex:
   format: standard
   langue: eng
-  chemin cible: exemples/résultats/ɓə́ná.xml
+  chemin cible: exemples/résultats/ɓə́ná.tex
 ordre lexicographique: [a, b, ɓ, d, ɗ, e, ə, f, g, gb, h, i, k, kp, l, m, n, ɲ, ŋ, p, r, s, ʃ, t, ʧ, u, v, ⱱ, w, y, z, ̄, ́, ̀,]
 tri: normal
 langues:

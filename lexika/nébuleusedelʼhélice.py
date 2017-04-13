@@ -4,21 +4,12 @@
 import logging
 import os
 import sys
-
-sys.path.append(os.path.join(os.getcwd(), "lexika"))
-sys.path.append(os.path.join(os.getcwd()))
-sys.path.append('..')
-
 import lexika
 import lexika.configuration
 import lexika.outils
 import lexika.linguistique
 import locale
 import gettext
-import regex
-import pdb
-import time
-from pprint import pprint
 
 langue_système = locale.getlocale()[0].split("_")[0]
 langue_préférée = gettext.translation("messages", localedir="internationalisation", languages=[langue_système], fallback=True)
@@ -92,10 +83,10 @@ class NébuleuseDeLʼHélice:
         Génère le fichier XML à partir du dictionnaire nouvellement créé.
         :return:
         """
+        # self.exécuter_tâches("pré-XML")
         générateur_XML = lexika.outils.GénérateurXML(self.configuration, self.créateur.dictionnaire, self.créateur.informations_globales)
         générateur_XML.obtenir_xml(self.configuration.XML["format"], self.configuration.XML["langue"])
-        générateur_XML.obtenir_xml(self.configuration.XML["format"], self.configuration.XML["langue"])
-
+        # self.exécuter_tâches("post-XML")
 
     @lexika.outils.Chronométrer(_("génération du fichier Latex"))
     def générer_Latex(self):
@@ -103,21 +94,8 @@ class NébuleuseDeLʼHélice:
         Génère le fichier Latex à partir du fichier XML nouvellement créé.
         :return:
         """
+        # self.exécuter_tâches("pré-Latex")
         générateur_Latex = lexika.outils.GénérateurLatex(self.configuration, self.créateur.dictionnaire, self.créateur.informations_globales)
         générateur_Latex.obtenir_latex(self.configuration.Latex["format"], self.configuration.Latex["langue"])
-        générateur_Latex.obtenir_latex(self.configuration.Latex["format"], self.configuration.Latex["langue"])
-
-def main():
-    # Création des éléments techniques divers.
-    lexika.outils.créer_journalisation("journal.log")
-
-    source_configuration = "./exemples/configuration japhug.yml"
-    déesse = NébuleuseDeLʼHélice(source_configuration)
-    déesse.initialiser()
-    déesse.créer_dictionnaire()
-    déesse.générer_XML()
-    déesse.générer_Latex()
-
-if __name__ == "__main__":
-    main()
+        # self.exécuter_tâches("post-Latex")
 

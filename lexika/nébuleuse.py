@@ -4,6 +4,7 @@
 import lexika.linguistique
 import copy
 import logging
+import os
 import regex
 
 from pprint import pprint
@@ -16,6 +17,7 @@ class Nébuleuse:
     def __init__(self, configuration):
         self.configuration = configuration
         self.constantes = self.configuration.constantes if self.configuration.constantes else {"doublon": "‽", "groupe": "Ⓖ", "entrée": "Ⓔ", "sous-entrée": "ⓔ", "homonyme": "Ⓗ", "sens": "Ⓢ", "définition": "Ⓓ", "exemple": "⒠", "tableau": "Ⓣ"}
+        self.modèle_métadonnées = regex.compile(r"([\w]+)=[\"\']?([\w\s]+)[\"\']?")
         self.langues = []
         self.statuts_langues = {}
         self.informations_globales = None
@@ -74,32 +76,35 @@ class NébuleuseDʼOrion(Nébuleuse):
             if balise in self.balises:
                 informations_balise = self.balises[balise]
                 if données:
-                    if informations_balise["entité"] in self.entités:
-                        proentité = lexika.linguistique.ProentitéLinguistique(self.entités[informations_balise["entité"]])
-                        proentité.ajouter_informations({"attributs": informations_balise["paramètres"]})
-                        # if "expression" in informations_générales: # à revoir
-                        #     modèle_informations = regex.compile(informations_générales["expression"])
-                        #     sous_bilan = modèle_informations.match(données)
-                        #     if sous_bilan:
-                        #         composants = informations_générales["composants"]
-                        #         for entité, informations in composants.items():
-                        #             if sous_bilan.group(entité):
-                        #                 informations["entité"].update({"valeurs": [sous_bilan.group(entité)], "métainformations": métadonnées})
-                        #                 self.préparer_entités_linguistiques(informations)
-                        #             else:
-                        #                 logging.warning(_("La sous-entité de type « {} » ne contient aucune valeur.").format(entité))
-                        #     else:
-                        #         logging.warning(_("La ligne « {} » (de valeur « {} ») ne correspond pas à l'expression régulière.".format(ligne_données["ligne"], données)))
-                        # else:
-                        est_nouveau_bloc = informations_balise["tête"] if "tête" in informations_balise else None
-                        proentité.ajouter_informations({"données": données, "métadonnées": métadonnées})
-                        self.aiguiller_entités_linguistiques(proentité, est_nouveau_bloc)
+                    if informations_balise:
+                        if informations_balise["entité"] in self.entités:
+                            proentité = lexika.linguistique.ProentitéLinguistique(self.entités[informations_balise["entité"]])
+                            # if "expression" in informations_générales: # à revoir
+                            #     modèle_informations = regex.compile(informations_générales["expression"])
+                            #     sous_bilan = modèle_informations.match(données)
+                            #     if sous_bilan:
+                            #         composants = informations_générales["composants"]
+                            #         for entité, informations in composants.items():
+                            #             if sous_bilan.group(entité):
+                            #                 informations["entité"].update({"valeurs": [sous_bilan.group(entité)], "métainformations": métadonnées})
+                            #                 self.préparer_entités_linguistiques(informations)
+                            #             else:
+                            #                 logging.warning(_("La sous-entité de type « {} » ne contient aucune valeur.").format(entité))
+                            #     else:
+                            #         logging.warning(_("La ligne « {} » (de valeur « {} ») ne correspond pas à l'expression régulière.".format(ligne_données["ligne"], données)))
+                            # else:
+                            est_nouveau_bloc = informations_balise["tête"] if "tête" in informations_balise else None
+                            métadonnées = {valeur[0]: valeur[1] for valeur in self.modèle_métadonnées.findall(métadonnées)} if métadonnées else {}
+                            proentité.ajouter_informations({"attributs": dict(informations_balise["paramètres"], **métadonnées), "données": données})
+                            self.aiguiller_entités_linguistiques(proentité, est_nouveau_bloc)
+                        else:
+                            logging.warning(_("L'entité de type « {} » n'est pas configurée.").format(informations_balise["entité"]))
                     else:
-                        logging.error(_("L'entité de type « {} » n'est pas configurée.").format(informations_balise["entité"]))
+                        logging.warning(_("La balise de type « {} » n'est pas utilisée.").format(balise))
                 else:
-                    logging.info(_("La balise de type « {} » (ligne {}) ne contient aucune valeur.").format(balise, ligne_données["index"]))
+                    logging.warning(_("La balise de type « {} » (ligne {}) ne contient aucune valeur.").format(balise, ligne_données["index"]))
             else:
-                    logging.info(_("Balise « {} » inconnue à la ligne {}, donc ignorée.").format(balise, ligne_données["index"]))
+                    logging.warning(_("Balise « {} » inconnue à la ligne {}, donc ignorée.").format(balise, ligne_données["index"]))
         else:
             logging.warning(_("Attention, la ligne « {ligne} »  ({index}) n'a pas été validée par l'expression régulière.").format(**ligne_données))
 
@@ -125,8 +130,12 @@ class NébuleuseDʼOrion(Nébuleuse):
             logging.warning(_("Le parent adéquat n'a pas été trouvé et un parent par défaut « {} » sera créé.".format(parent_par_défaut["entité"])))
             proentité_auxiliaire = lexika.linguistique.ProentitéLinguistique(self.entités[parent_par_défaut["entité"]])
             attributs = parent_par_défaut["attributs"]
-            if "informations" in parent_par_défaut:
-                attributs.update({clef: proentité.entité_propre["attributs"][valeur] for clef, valeur in parent_par_défaut["informations"].items()})
+            if "informations à copier" in parent_par_défaut:
+                attributs.update({clef: proentité.entité_propre["attributs"][valeur] for clef, valeur in parent_par_défaut["informations à copier"].items()})
+            if "informations à transférer" in parent_par_défaut:
+                attributs.update({clef: proentité.entité_propre["attributs"][valeur] for clef, valeur in parent_par_défaut["informations à transférer"].items()})
+                for clef in list(parent_par_défaut["informations à transférer"].keys()):
+                    del proentité.entité_propre["attributs"][clef]
             proentité_auxiliaire.ajouter_informations({"attributs": attributs})
             self.aiguiller_entités_linguistiques(proentité_auxiliaire)
             proentité.rechercher_entité_parente(self.historique, self.hiérarchie)
@@ -160,7 +169,6 @@ class NébuleuseDʼOrion(Nébuleuse):
                     setattr(entité, "_attribut_parent", nom_attribut_parent)
                 else:
                     logging.error(_("L'entité parente « {} » de l'entité « {} » (informations : « {} ») n'a pas été trouvée.").format(nom_parent, entité.nom_entité_linguistique, informations_entité["attributs"]))
-                    raise Exception
             else:
                 setattr(entité, "_parent", None)
             self.mettre_à_jour_hiérarchie(entité)
@@ -200,7 +208,7 @@ class NébuleuseDʼOrion(Nébuleuse):
         return entité
 
     def reprendre_entité_linguistique(self, entité, attribut, valeur):
-        attributs = {clef: valeur for clef, valeur in entité.__dict__.items() if clef not in ["_parent", "_attribut_parent", "nom_entité_linguistique", attribut]}
+        attributs = {clef: valeur for clef, valeur in entité.__dict__.items() if isinstance(valeur, str) and clef not in ["_parent", "_attribut_parent", "nom_entité_linguistique", attribut]}
         attributs.update({attribut: valeur})
         informations_entité = {"nom": entité.nom_entité_linguistique, "attributs": attributs, "structure": {}}
         informations_parent = {"nom": entité._parent.nom_entité_linguistique, "attribut": entité._attribut_parent}
@@ -244,7 +252,7 @@ class NébuleuseDʼOrion(Nébuleuse):
         return entité
 
     def créer_objet(self, nom_entité_linguistique):
-        nom_classe = "".join([segment[0].upper() + segment[1:] for segment in nom_entité_linguistique.split()])
+        nom_classe = "".join([segment[0].upper() + segment[1:] for segment in regex.compile(r"\s+").split(nom_entité_linguistique)])
         Entité = type(nom_classe, (lexika.linguistique.EntitéLinguistique,), {})
         entité = Entité()
         entité.nom_entité_linguistique = nom_entité_linguistique
@@ -276,27 +284,33 @@ class NébuleuseDʼOrion(Nébuleuse):
                             self.créer_entité_linguistique(informations_entité=informations_entité, informations_parent=informations_parent)
                         setattr(objet, nom, [])
 
+    def chercher_cibles_auxiliaires(self):
+        modèle_simplification = regex.compile(r"[\[\]}{]+")
+        cibles_auxiliaires = {getattr(entité, "forme de citation"): entité.identifiant for entité in self.identifiants.values() if hasattr(entité, "forme de citation")}
+        cibles_auxiliaires.update({modèle_simplification.sub(r'', getattr(entité, 'vedette')): entité.identifiant for entité in self.identifiants.values() if hasattr(entité, "vedette") and modèle_simplification.sub(r'', getattr(entité, 'vedette')) != getattr(entité, 'vedette')})
+        # cibles_auxiliaires.update({getattr(entité, "variante"): entité.identifiant for entité in self.identifiants.values() if hasattr(entité, "variante")})
+        return cibles_auxiliaires
+
     def connecter_renvois(self):
         if self.modèle_renvoi:
             modèle = regex.compile(self.configuration.modèle_renvoi)
-            modèle_automatique = regex.compile(self.configuration.modèle_renvoi_automatique)
-            formes_citation = {entité.forme_citation: entité.identifiant for entité in self.identifiants.values() if hasattr(entité, "forme_citation")}
-            self.connecter_renvois_récursivement(self.dictionnaire, modèle, modèle_automatique,formes_citation)
+            modèle_automatique = regex.compile(self.configuration.modèle_renvoi_automatique) if self.configuration.modèle_renvoi_automatique else None
+            cibles_auxiliaires = self.chercher_cibles_auxiliaires()
+            self.connecter_renvois_récursivement(self.dictionnaire, modèle=modèle, modèle_automatique=modèle_automatique, cibles_auxiliaires=cibles_auxiliaires)
 
-    def connecter_renvois_récursivement(self, objet, modèle, modèle_automatique, formes_citation):
+    def connecter_renvois_récursivement(self, objet, **paramètres):
         if isinstance(objet, lexika.linguistique.EntitéLinguistique):
             for nom, élément in list(objet.__dict__.items()):
                 if nom not in ["nom_entité_linguistique", "_parent", "_attribut_parent"]:
                     if isinstance(élément, list):
                         for sous_élément in élément:
-                            self.connecter_renvois_récursivement(sous_élément, modèle, modèle_automatique, formes_citation)
+                            self.connecter_renvois_récursivement(sous_élément, **paramètres)
                     elif isinstance(élément, dict):
                         for clef_sous_élément, valeur_sous_élément in élément.items():
-                            self.connecter_renvois_récursivement(valeur_sous_élément, modèle, modèle_automatique, formes_citation)
+                            self.connecter_renvois_récursivement(valeur_sous_élément, **paramètres)
                     else:
                         if nom == "cible":
-                            print("*", élément)
-                            bilan = modèle.match(élément)
+                            bilan = paramètres["modèle"].match(élément)
                             if bilan:
                                 identifiants = []
                                 particules = bilan.groupdict()
@@ -304,38 +318,48 @@ class NébuleuseDʼOrion(Nébuleuse):
                                     identifiant = ''
                                     for particule in particules:
                                         if bilan.group(particule):
-                                            identifiant += "{}{}".format(self.constantes[particule.replace("_", " ")], bilan.group(particule))
+                                            identifiant += "{}{}".format(self.constantes[particule.replace("_", " ").replace("ʼ", "'")], bilan.group(particule))
                                     identifiants.insert(0, identifiant)
                                 identifiants.append("Ⓔ{}Ⓗ1".format(élément))
-                                print(identifiants, nom, élément)
                                 for identifiant in identifiants:
                                     if identifiant in self.identifiants:
                                         setattr(objet, "lien", identifiant)
                                         break
                                 else:
-                                    if élément in formes_citation:
-                                        setattr(objet, "lien", formes_citation[élément])
+                                    if élément in paramètres["cibles_auxiliaires"]:
+                                        setattr(objet, "lien", paramètres["cibles_auxiliaires"][élément])
                                     else:
                                         setattr(objet, "non_lien", élément)
-                        elif nom not in ["lien", "non_lien"]:
-                            bilan = modèle_automatique.search(élément)
+                        elif nom == "chemin":
+                            if hasattr(self.configuration, "Audio"):
+                                if not os.path.isfile(os.path.join(self.configuration.Audio["chemin audio"], "{}.{}".format(élément, self.configuration.Audio["format audio"]))):
+                                    delattr(objet, nom)
+                        elif nom not in ["lien", "non_lien"] and paramètres["modèle_automatique"]:
+                            bilan = paramètres["modèle_automatique"].search(élément)
                             if bilan:
-                                bilans = modèle_automatique.finditer(élément)
+                                bilans = paramètres["modèle_automatique"].finditer(élément)
                                 for bilan in bilans:
                                     ensemble = bilan.group("ensemble")
                                     cible = bilan.group("cible").replace("_", " ")
                                     identifiants = ["Ⓔ{}".format(cible), "Ⓔ{}Ⓗ1".format(cible)]
                                     for identifiant in identifiants:
                                         if identifiant in self.identifiants:
-                                            print('*', identifiant, self.identifiants[identifiant].__dict__, self.entités_à_lier)
                                             for attribut, entité in [(clef, valeur) for entité_à_lier in self.entités_à_lier for clef, valeur in entité_à_lier.items()]:
-                                                if hasattr(getattr(self.identifiants[identifiant], attribut)[0], entité):
+                                                if hasattr(self.identifiants[identifiant], entité):
+                                                    affichage_cible = getattr(self.identifiants[identifiant], entité)
+                                                    élément = élément.replace(ensemble, "⊣lien cible=\"{}\"⊢{}⊣/lien⊢".format(identifiant, affichage_cible))
+                                                    break
+                                                elif hasattr(getattr(self.identifiants[identifiant], attribut)[0], entité):
                                                     affichage_cible = getattr(getattr(self.identifiants[identifiant], attribut)[0], entité)
                                                     élément = élément.replace(ensemble, "⊣lien cible=\"{}\"⊢{}⊣/lien⊢".format(identifiant, affichage_cible))
                                                     break
                                             break
                                     else:
-                                        élément = élément.replace(ensemble, cible)
+                                        if cible in paramètres["cibles_auxiliaires"]:
+                                            identifiant = paramètres["cibles_auxiliaires"][cible]
+                                            élément = élément.replace(ensemble, "⊣lien cible=\"{}\"⊢{}⊣/lien⊢".format(identifiant, cible))
+                                        else:
+                                            élément = élément.replace(ensemble, cible)
                                 setattr(objet, nom, élément)
 
 
@@ -374,7 +398,7 @@ class NébuleuseDʼOméga(NébuleuseDʼOrion):
                                     self.aiguiller_entités_linguistiques(proentité_auxiliaire)
                         self.aiguiller_entités_linguistiques(proentité, est_nouveau_bloc)
                     else:
-                        logging.error(_("L'entité de type « {} » n'est pas configurée.").format(informations_balise["entité"]))
+                        logging.warning(_("L'entité de type « {} » n'est pas configurée.").format(informations_balise["entité"]))
                 else:
                     logging.info(_("La balise de type « {} » (ligne {}) ne contient aucune valeur.").format(balise, ligne_données["index"]))
             else:

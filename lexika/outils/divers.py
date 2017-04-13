@@ -52,7 +52,7 @@ class Chronométrer(contextlib.ContextDecorator):
 def créer_journalisation(nom_fichier):
     with open(nom_fichier, 'w'):
         pass
-    logging.basicConfig(filename=nom_fichier, level=logging.INFO)
+    logging.basicConfig(filename=nom_fichier, level=logging.ERROR)
     formateur = logging.Formatter("%(asctime)s [%(levelname)s]  %(message)s")
     journalisateur = logging.getLogger()
     gestionnaire_fichier = logging.FileHandler(nom_fichier)

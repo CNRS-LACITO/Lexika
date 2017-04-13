@@ -1,0 +1,56 @@
+chemin source: exemples/na/na.lex
+format entrée: MDF Alexis
+format sortie: LMF
+sens: direct
+type: normal
+hiérarchie: normale
+identifiant: dictionnaire japhug
+dictionnaire:
+  nom: Essai d'un dictionnaire na
+  auteur: Alexis Michaud
+  commentaire: Test LMF Lexika
+XML:
+  format: structure sans listes
+  langue: eng
+  XSL: style.xsl
+  chemin cible: exemples/na/résultats/na.xml
+Latex:
+  format: standard
+  gabarit: exemples/na/latex.xsl
+  langue: fra
+  chemin cible: exemples/na/résultats/na.tex
+  fichiers annexes:
+    introduction: exemples/na/résultats/introduction française.tex
+ordre lexicographique: [ɑ, ɑ̃, æ, æ̃, b, ɕ, d, dz, dʑ, ɖ, ɖʐ, e, ɤ, ɤ̃, ə, f, g, ɣ, h, i, ĩ, j, jæ, jɤ, je, jo, ʝ, k, kʰ, l, ɭ, ɬ, m, n, ɳ, ɲ, ŋ, o, õ, p, pʰ, q, qʰ, ɻ, ɻ̍, ɻ ̍̃, ʁ, s, ʂ, t, tʰ, tɕ, ɕʰ, ts, tsʰ, ʈ, ʈʰ, ʈʂ, ʈʂʰ, u, ɯ, v̩, [ṽ̩, ṽ̩], w, wɑ, wæ, wɤ, wo, wɤ̃, w̃, w̃æ, z, ʐ, ʑ, x, [˥, ˥₁, ˥₂, ˥₃, ˧, ˧₁, ˧₂, ˧₃, ˩, ˩₁, ˩₂, ˩₃, ˧˥, ˧˥₁, ˧˥₂, ˧˥₃, ˩˥, ˩˥₁, ˩˥₂, ˩˥₃, ˩˧, ˩˧₁, ˩˧₂, ˩˧₃]]
+tri: normal
+langues:
+- identifiant: fra
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: français
+  glossonyme: français
+  statut: cible
+- identifiant: eng
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: English
+  glossonyme: anglais
+  statut: cible
+- identifiant: nru
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: na
+  glossonyme: na
+  statut: source
+- identifiant: cmn
+  type caractères: hanzi
+  sens lecture: gauche à droite
+  autoglossonyme: 普通话
+  glossonyme: chinois
+  statut: cible
+tâches:
+  initial:
+  - joindre lignes coupées
+  final:
+  post-Latex:
+  - remplacer_indices
