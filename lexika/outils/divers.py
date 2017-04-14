@@ -65,7 +65,7 @@ def créer_journalisation(nom_fichier):
     logging.basicConfig(filename=nom_fichier, level=logging.ERROR)
     formateur = logging.Formatter("%(asctime)s [%(levelname)s]  %(message)s")
     journalisateur = logging.getLogger()
-    gestionnaire_fichier = logging.FileHandler(nom_fichier)
+    gestionnaire_fichier = logging.FileHandler(nom_fichier, encoding="UTF-8")
     gestionnaire_fichier.setFormatter(formateur)
     journalisateur.addHandler(gestionnaire_fichier)
     gestionnaire_console = logging.StreamHandler()

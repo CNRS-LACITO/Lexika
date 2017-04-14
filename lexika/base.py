@@ -22,18 +22,18 @@ def main():
     # Création des éléments techniques divers.
     lexika.outils.créer_journalisation("journal.log")
 
-    source_configuration = "./exemples/na/configuration.yml"
+    source_configuration = "./exemples/mwotlap/configuration.yml"
 
     if len(sys.argv) < 2:
         logging.warning(_("Aucun fichier de configuration n'a été donné en argument, le fichier par défaut « {} » sera utilisé.".format(source_configuration)))
     else:
         source_configuration = " ".join(sys.argv[1:])
 
-    créateur = lexika.NébuleuseDeLʼHélice(source_configuration)
-    créateur.initialiser()
-    créateur.créer_dictionnaire()
-    créateur.générer_XML()
-    créateur.générer_Latex()
+    nébuleuse = lexika.NébuleuseDeLʼHélice(source_configuration)
+    nébuleuse.initialiser()
+    nébuleuse.créer_dictionnaire()
+    nébuleuse.générer_XML()
+    # nébuleuse.générer_Latex()
 
 if __name__ == "__main__":
     main()

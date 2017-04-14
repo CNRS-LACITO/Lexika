@@ -14,10 +14,6 @@ XML:
   langue: fra
   XSL: style.xsl
   chemin cible: exemples/mwotlap/résultats/mwotlap.xml
-Latex:
-  format: standard
-  langue: fra
-  chemin cible: exemples/mwotlap/résultats/mwotlap.tex
 ordre lexicographique: [a, b, c, d, e, ē, f, g, h, i, j, k, l, m, m̄, n, [̄n, n̄], o, ō, p, q, r, s, t, u, v, w, y, z]
 tri: normal
 langues:

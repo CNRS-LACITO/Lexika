@@ -44,6 +44,7 @@ class NébuleuseDʼOrion(Nébuleuse):
         self.identifiants = {}
         self.hiérarchie = {}
         self.historique = []
+        self.dépôt = []
 
     def initialiser(self):
         """
@@ -117,8 +118,10 @@ class NébuleuseDʼOrion(Nébuleuse):
         if nouveau_bloc == "primaire":
             self.historique = []
             self.hiérarchie = {"dictionnaire": self.hiérarchie["dictionnaire"]}
+            self.dépôt = []
         elif nouveau_bloc == "secondaire":
             self.historique = []
+            self.dépôt = []
 
         proentité.rechercher_entités_adéquates(self.historique, self.hiérarchie)
 
@@ -140,6 +143,7 @@ class NébuleuseDʼOrion(Nébuleuse):
             self.aiguiller_entités_linguistiques(proentité_auxiliaire)
             proentité.rechercher_entité_parente(self.historique, self.hiérarchie)
         self.créer_entité_linguistique(proentité=proentité)
+        self.vérifier_dépôt()
 
     def créer_entité_linguistique(self, informations_entité=None, informations_parent=None, proentité=None):
         """
@@ -161,14 +165,32 @@ class NébuleuseDʼOrion(Nébuleuse):
                 nom_attribut_parent = informations_parent["attribut"]
                 if nom_parent in self.hiérarchie:
                     parent = self.hiérarchie[nom_parent][-1]
-                    if not hasattr(parent, nom_attribut_parent):
-                        setattr(parent, nom_attribut_parent, [])
-                    attribut_parent = getattr(parent, nom_attribut_parent)
-                    attribut_parent.append(entité)
-                    setattr(entité, "_parent", parent)
-                    setattr(entité, "_attribut_parent", nom_attribut_parent)
+                    if parent._parent and parent._parent.nom_entité_linguistique in self.hiérarchie and self.hiérarchie[parent._parent.nom_entité_linguistique][-1] != parent._parent: # À améliorer !
+                        if proentité not in self.dépôt:
+                            self.dépôt.append(proentité)
+                        logging.warning(_("L'entité parente « {} » de l'entité « {} » ne semble pas être la bonne (informations de l'entité : « {} ») : mauvais bloc).").format(nom_parent, entité.nom_entité_linguistique, informations_entité["attributs"]))
+                        return None
+                    if "conditions" in informations_parent:
+                        résultat = all([bool((getattr(parent, nom_attribut) == informations_entité["attributs"][nom_attribut]) * (condition == "identique")) for nom_attribut, condition in informations_parent["conditions"].items()])
+                        if not résultat:
+                            logging.warning(_("L'entité parente « {} » de l'entité « {} » ne semble pas être la bonne (informations de l'entité : « {} »), conditions du parent : « {} »).").format(nom_parent, entité.nom_entité_linguistique, informations_entité["attributs"], informations_parent["conditions"]))
+                            if proentité not in self.dépôt:
+                                self.dépôt.append(proentité)
+                            return None
+                    else:
+                        résultat = True
+                    if résultat:
+                        if not hasattr(parent, nom_attribut_parent):
+                            setattr(parent, nom_attribut_parent, [])
+                        attribut_parent = getattr(parent, nom_attribut_parent)
+                        attribut_parent.append(entité)
+                        setattr(entité, "_parent", parent)
+                        setattr(entité, "_attribut_parent", nom_attribut_parent)
                 else:
-                    logging.error(_("L'entité parente « {} » de l'entité « {} » (informations : « {} ») n'a pas été trouvée.").format(nom_parent, entité.nom_entité_linguistique, informations_entité["attributs"]))
+                    logging.warning(_("L'entité parente « {} » de l'entité « {} » (informations : « {} ») n'a pas encore été trouvée et sera placée dans le dépôt.").format(nom_parent, entité.nom_entité_linguistique, informations_entité["attributs"]))
+                    if proentité not in self.dépôt:
+                        self.dépôt.append(proentité)
+                    return None
             else:
                 setattr(entité, "_parent", None)
             self.mettre_à_jour_hiérarchie(entité)
@@ -182,6 +204,12 @@ class NébuleuseDʼOrion(Nébuleuse):
         self.mettre_à_jour_entité_linguistique(entité, informations_entité, informations_parent, proentité)
         self.mettre_à_jour_identifiant(entité, informations_entité, informations_parent, proentité)
         return entité
+
+    def vérifier_dépôt(self):
+        for proentité in list(self.dépôt):
+            entité = self.créer_entité_linguistique(proentité=proentité)
+            if entité:
+                self.dépôt.remove(proentité)
 
     def mettre_à_jour_entité_linguistique(self, entité, informations_entité, informations_parent, proentité=None):
         """

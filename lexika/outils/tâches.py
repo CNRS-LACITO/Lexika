@@ -9,6 +9,7 @@ tâches = {
     "remplacer caractères":  lambda fichier_entrée, fichier_sortie: remplacer_caractères(fichier_entrée, fichier_sortie),
     "joindre lignes coupées": lambda fichier_entrée, fichier_sortie: joindre_lignes_coupées(fichier_entrée, fichier_sortie),
     "inverser balises": lambda fichier_entrée, fichier_sortie: inverser_balises(fichier_entrée, fichier_sortie),
+    "réordonner balises": lambda fichier_entrée, fichier_sortie: réordonner_balises(fichier_entrée, fichier_sortie),
 }
 
 def remplacer_caractères(fichier_entrée, fichier_sortie):
@@ -44,3 +45,8 @@ def inverser_balises(fichier_entrée, fichier_sortie):
         # contenu = regex.compile(r"(\\on .*)\n(\\xn .*)", flags=regex.MULTILINE).sub(r"\2\n\1", contenu)
     with lexika.outils.OuvrirFichier(fichier_sortie, 'w') as sortie:
         sortie.write(contenu)
+
+def réordonner_balises(fichier_entrée, fichier_sortie):
+
+    with lexika.outils.OuvrirFichier(fichier_entrée, 'r') as entrée:
+        contenu = entrée.read()

@@ -3,6 +3,7 @@
 
 import logging
 import copy
+from pprint import pprint
 
 class EntitéLinguistique:
     def __init__(self):

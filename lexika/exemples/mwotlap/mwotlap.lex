@@ -4116,8 +4116,8 @@
 \ee Ce loisir, importé au XIXème s., est aujourd'hui partie intégrante de la culture de Mwotlap.
 \lf Syn.
 \lv bele
-\se na-mlekat
 \wr B
+\se na-mlekat
 \ps n
 \ge
 \de jeu de cartes, le fait de jouer aux cartes
@@ -61816,8 +61816,8 @@
 \rf AP7-48
 \xe Ils mangent sans discernement (mangent n'importe quoi).
 \rf
-\se na-plig
 \wr C
+\se na-plig
 \ps n
 \dr
 \ge
@@ -64584,8 +64584,8 @@
 \rf
 \xv Kēy mo-won ne-vet; qe so ne-geay ne qo.
 \xe Avec des pierres ils avaient construit un enclos, semblable à un enclos de cochon.
-\se no-won
 \wr B
+\se no-won
 \ps n
 \gr
 \ge podium
