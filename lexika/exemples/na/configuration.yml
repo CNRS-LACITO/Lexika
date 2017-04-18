@@ -4,7 +4,7 @@ format sortie: LMF
 sens: direct
 type: normal
 hiérarchie: normale
-identifiant: dictionnaire japhug
+identifiant: dictionnaire na
 dictionnaire:
   nom: Essai d'un dictionnaire na
   auteur: Alexis Michaud
@@ -53,4 +53,5 @@ tâches:
   - joindre lignes coupées
   final:
   post-Latex:
-  - remplacer_indices
+  - remplacer indices latex
+  - remplacer numéros homonyme liens

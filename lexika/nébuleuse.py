@@ -315,7 +315,7 @@ class NébuleuseDʼOrion(Nébuleuse):
     def chercher_cibles_auxiliaires(self):
         modèle_simplification = regex.compile(r"[\[\]}{]+")
         cibles_auxiliaires = {getattr(entité, "forme de citation"): entité.identifiant for entité in self.identifiants.values() if hasattr(entité, "forme de citation")}
-        cibles_auxiliaires.update({modèle_simplification.sub(r'', getattr(entité, 'vedette')): entité.identifiant for entité in self.identifiants.values() if hasattr(entité, "vedette") and modèle_simplification.sub(r'', getattr(entité, 'vedette')) != getattr(entité, 'vedette')})
+        cibles_auxiliaires.update({modèle_simplification.sub(r"", getattr(entité, 'vedette')): entité.identifiant for entité in self.identifiants.values() if hasattr(entité, "vedette") and modèle_simplification.sub(r"", getattr(entité, 'vedette')) != getattr(entité, 'vedette')})
         # cibles_auxiliaires.update({getattr(entité, "variante"): entité.identifiant for entité in self.identifiants.values() if hasattr(entité, "variante")})
         return cibles_auxiliaires
 

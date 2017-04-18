@@ -74,7 +74,7 @@
         \newenvironment{forme-mot}{}{}
         \newcommand{\synonyme}[1]{\pcmn{ ~【同义词】~#1}}
         \newcommand{\antonyme}[1]{\pcmn{ ~【反义词】~#1}}
-        \newcommand{\confer}[1]{\pcmn{ ~【参考】~#1}}
+        \newcommand{\confer}[1]{\pcmn{ ~【参考】~\pnru{#1}}}
         \newcommand{\loanword}[1]{\pcmn{ ~【借词】~#1}}
         \newcommand{\étymologie}[1]{\pcmn{ ~【词源】~#1}}
         \newcommand{\use}[1]{\pcmn{ ~【用法】#1 }}
@@ -122,10 +122,10 @@
         <xsl:text>\vedette{\hypertarget{</xsl:text>
         <xsl:value-of select="ancestor::LexicalEntry/@id"/>
         <xsl:text>}{\pnru{</xsl:text>
-        <xsl:value-of select="translate(translate(translate(feat[@att='lexeme']/@val, '₁', 'a'), '₂', 'b'), '₃', 'c')"/>
+        <xsl:value-of select="feat[@att='lexeme']/@val"/>
         <xsl:text>}}}</xsl:text>
         <xsl:text>\markboth{</xsl:text>
-        <xsl:value-of select="translate(translate(translate(feat[@att='lexeme']/@val, '₁', 'a'), '₂', 'b'), '₃', 'c')"/>
+        <xsl:value-of select="feat[@att='lexeme']/@val"/>
         <xsl:text>}{}</xsl:text>
         <xsl:if test="ancestor::LexicalEntry/feat[@att='homonymeNumber']">
             <xsl:text>\homonyme{</xsl:text>
@@ -153,7 +153,7 @@
         </xsl:if>
         <xsl:if test="FormRepresentation[feat[@att='tone']]">
             <xsl:text>\ton{</xsl:text>
-            <xsl:value-of select="translate(translate(translate(FormRepresentation/feat[@att='tone']/@val, '₁', 'a'), '₂', 'b'), '₃', 'c')"/>
+            <xsl:value-of select="FormRepresentation/feat[@att='tone']/@val"/>
             <xsl:text>}</xsl:text>
         </xsl:if>
     </xsl:template>
@@ -238,7 +238,7 @@
         </xsl:for-each>
         <xsl:if test="Statement[feat[@att='comment'] and feat[@att='type' and @val='tone']]">
             <xsl:text>\pcmn{（}\ton{</xsl:text>
-            <xsl:value-of select="translate(translate(translate(Statement/feat[@att='comment']/@val, '₁', 'a'), '₂', 'b'), '₃', 'c')"/>
+            <xsl:value-of select="Statement/feat[@att='comment']/@val"/>
             <xsl:text>}\pcmn{）}</xsl:text>
         </xsl:if>
         <xsl:text>\end{exemple}</xsl:text>

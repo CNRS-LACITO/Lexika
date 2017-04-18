@@ -10652,7 +10652,8 @@
 \lx dʑɤ˩kʰwɤ˧
 \ph jjakua
 \ps n
-\lc xxxx ton non trouvé, à faire manuellement…
+\ton LM
+\lc dʑɤ˩kʰwɤ˥
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
 \ton LM
@@ -23117,7 +23118,7 @@
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
 \ton LM+H$
-\lc xxxx ton non trouvé, à faire manuellement…
+\lc jɤ˩pæ˧sɯ˥
 \so <print="n"> F4
 \de Yang Chieftain: a family name from Yongning, containing a name borrowed from Chinese (Yang fn:杨) plus a term referring to the lowest degree in the hierarchy of feudal leaders: the hamlet chieftain, fn:把事. Only one family in Yongning carries this name.
 \ge Yang_Chieftain
@@ -24659,8 +24660,8 @@
 \sd <langue="eng"> object
 \nt <type="hist" print="n"> avant juillet 2012: noté kʰɤ˧mi#˥
 \nt <type="sem"> aussi: emprunt chinois: /lo˩kʰwɑ˧/ (luo2kuang1 箩筐)
-\ton $H
-\lc xxxx ton non trouvé, à faire manuellement…
+\ton H$
+\lc kʰɤ˧mi˥
 \so <print="n"> F4
 \va <speaker="M18"> ID.
 \pdl classifier
@@ -25120,8 +25121,8 @@
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \nt <type="hist" print="n"> avant juillet 2012: noté kʰɤ˧zo#˥
-\ton $H
-\lc xxxx ton non trouvé, à faire manuellement…
+\ton H$
+\lc kʰɤ˧zo˥
 \so <print="n"> F4
 \va <speaker="M18"> ID.
 \pdl classifier
@@ -38651,15 +38652,15 @@
 \gf prunelle
 \dt 09/Sep/2015
 
-\lx njo˩kæ˧tɕi˩˥
+\lx njo˩kæ˧-tɕi˩˥
 \ph nyogaejie
 \bw <langue="cmn"> 牛肝菌
 \ps n
 \cf jɤ˧qʰɑ˧-pɤ˥jɤ˩-mo˩
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
-\ton LM+LH
-\lc xxxx ton non trouvé, à faire manuellement…
+\ton LM-LH
+\lc njo˩kæ˧-tɕi˩˥
 \so <print="n"> F4
 \de Cep, |fi{Boletus edulis}.
 \ge 牛肝菌::cep
@@ -39186,13 +39187,13 @@
 \xc PHONO
 \dt 09/Sep/2015
 
-\lx no˩xx
+\lx no˩
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\nt <type="hist" print="n"> vérifier le ton: La? Lb?
-\ton Lxx
-\lc xxxx ton non trouvé, à faire manuellement…
+\nt <type="hist" print="n"> xxxx vérifier le ton: La? Lb?
+\ton L
+\lc no˩˥
 \so <print="n"> F4
 \de To add, to blend in, to mix.
 \ge to_mix
@@ -43959,7 +43960,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \ton HL
-\lc xxxx ton non trouvé, à faire manuellement…
+\lc pʰv̩˧ʈʂʰe˩
 \so <print="n"> F4
 \de To distinguish.
 \ge to_distinguish
@@ -53584,7 +53585,7 @@
 \nt <type="hist" print="n"> cf mv̩˧tsɯ˧, ton d2a “barbe"; sens vérifié: est employé pour les “vraies" racines, qui plongent dans la terre
 \nt <type="sem"> littéralement “barbe de l'arbre"
 \ton #L-L
-\lc xxxx ton non trouvé, à faire manuellement…
+\lc si˧dzi˩-mv̩˩tsɯ˩
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \de Radicel, rootlet, small root.
@@ -53784,8 +53785,8 @@
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
-\ton #L
-\lc xxxx ton non trouvé, à faire manuellement…
+\ton L#
+\lc si˧kwɤ˩
 \so <print="n"> F4
 \pdl classifier
 \pdv kwɤ˩
@@ -56107,7 +56108,7 @@
 \nt <type="hist" print="n"> (noté en 2006: ˧˧˥˧); vérification en 2007: F4 n'accepte pas la formule de F5: sɯ˩tʰi˩ʁu˩kɑ˥, ʈʂʰɯ˥ sɯ˩tʰi˩ʁu˩kɑ˥ ɲi˩
 \nt <type="hist" print="n"> (noté en 2006: sɯ˧tʰi˧ʁu˧kɑ˥)
 \ton L+#H-
-\lc xxxx ton non trouvé, à faire manuellement…
+\lc sɯ˩tʰi˩-kʰɯ˥ʑi˩
 \so <print="n"> F4
 \va <speaker="F5"> sɯ˩tʰi˩ʁu˩qɑ˧
 \va <speaker="M18"> sɯ˧tʰi˧kʰɯ˥dʑi˧
@@ -57815,7 +57816,7 @@
 \sd <langue="eng"> language
 \nt <type="hist" print="n"> avant 09, noté: lə˧njɤ˥mv̩˩+ze˩; corrigé à tort par ts en: le˧njɤ˧ mv̩˥ ze˩; en fait: formule mal faite, F4 indique qu'elle ne convient pas.
 \ton HL
-\lc xxxx ton non trouvé, à faire manuellement…
+\lc tɑ˧mo˩
 \so <print="n"> F4
 \va <speaker="F5"> tɑ˩mv̩˩˧
 \va <speaker="M18"> tɑ˩mv̩˩˧
@@ -57827,7 +57828,7 @@
 \gn 萎蔫
 \df Faner.
 \gf faner
-\xv lə˧-tɑ˥mo˩-ze˩!
+\xv le˧-tɑ˥mo˩-ze˩!
 \xe It has wilted!
 \xn 萎蔫了！
 \xf Ca a fané! (Exemple: une fleur coupée, une fleur abîmée par le vent ou par un soleil trop ardent.)
@@ -59600,7 +59601,7 @@
 \sd <langue="eng"> home
 \np (emprunt)
 \ton MLM
-\lc xxxx ton non trouvé, à faire manuellement…
+\lc tɕɤ˧ho˩pæ˧
 \so <print="n"> F4
 \de Plywood, veneer board.
 \ge 胶合板::veneer_board
@@ -62644,7 +62645,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> avant 2015: noté au ton L
 \ton L+MH#
-\lc xxxx ton non trouvé, à faire manuellement…
+\lc to˩qo˧˥
 \so <print="n"> F4
 \de To turn upside down.
 \ge to_turn_upside_down
@@ -73083,7 +73084,7 @@
 \nt <type="hist" print="n"> (problématique en forme de citation; le ton est donc un peu incertain; ton m4b: déduit de la périphrase /kʰv̩˧mæ˧ʑi˩/ “maison des voleurs"="prison")
 \nt <type="hist" print="n"> xxxx tons à vérifier : éliciter avec tous les numéraux. Jusqu'en 2016, était classé comme nom; et indiqué un ton MH. Est en fait un classificateur. Est soit L2, soit L3 (test: trois familles: so˧-ʑi˧).
 \ton L2
-\lc xxxx ton non trouvé, à faire manuellement…
+\lc ɖɯ˧-ʑi˩
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ʑi˧˥, ton m4b
@@ -75297,7 +75298,7 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton #H
-\lc xxxx non-correspondance entre le nombre de morphèmes et le nombre de tons de morphèmes
+\lc ʐv̩˧bæ˧-pʰv̩˧
 \so <print="n"> F4
 \pdl classifier
 \pdv mi˩
@@ -75315,7 +75316,7 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \ton #H
-\lc xxxx non-correspondance entre le nombre de morphèmes et le nombre de tons de morphèmes
+\lc ʐv̩˧bæ˧-zo˧
 \so <print="n"> F4
 \pdl classifier
 \pdv ɭɯ˧
@@ -75432,7 +75433,7 @@
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
 \ton L
-\lc xxxx non-correspondance entre le nombre de morphèmes et le nombre de tons de morphèmes
+\lc ʐv̩˩-ɬi˩mi˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -75551,7 +75552,7 @@
 \sd <langue="eng"> time
 \nt <type="hist" print="n"> (+ɲi˩) (de: /ʁu˧tʰo˩/) (confirmé)
 \ton H#
-\lc xxxx non-correspondance entre le nombre de morphèmes et le nombre de tons de morphèmes
+\lc ʐv̩˧-ɲi˧-ʁo˧tʰo˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ʁu˩so˩so˧ɖɯ˧ɲi˥ “le quatrième jour"
@@ -75604,7 +75605,7 @@
 \sd <langue="eng"> number
 \nt <type="hist" print="n"> (avant 09: noté: /ʐv̩˥ tsʰɯ˧/; 2006: noté ˧˩)
 \ton L#
-\lc xxxx non-correspondance entre le nombre de morphèmes et le nombre de tons de morphèmes
+\lc ʐv̩˧-tsʰi˩
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ʐv̩˥ tsʰɯ˧lɯ˧
@@ -75676,7 +75677,7 @@
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \ton #H
-\lc xxxx non-correspondance entre le nombre de morphèmes et le nombre de tons de morphèmes
+\lc ʐv̩˧-zo˧
 \so <print="n"> F4
 \pdl classifier
 \pdv nɑ˧
@@ -75906,7 +75907,7 @@
 \sd <langue="eng"> food
 \nt <type="sem"> “nourriture pour le cheval"
 \ton #H
-\lc xxxx non-correspondance entre le nombre de morphèmes et le nombre de tons de morphèmes
+\lc ʐwæ˧-hɑ˧
 \so <print="n"> F4
 \de Horse feed.
 \ge horse_feed
@@ -75947,7 +75948,7 @@
 \sd <langue="eng"> food
 \nt <type="sem"> “céréales pour le cheval"
 \ton #H
-\lc xxxx non-correspondance entre le nombre de morphèmes et le nombre de tons de morphèmes
+\lc ʐwæ˧-ɭɯ˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -76022,7 +76023,7 @@
 \sd <langue="eng"> agriculture
 \nt <type="hist" print="n"> +ɲi˥ (schéma tonal régulier)
 \ton #H
-\lc xxxx non-correspondance entre le nombre de morphèmes et le nombre de tons de morphèmes
+\lc ʐwæ˧-qʰæ˧
 \so <print="n"> F4
 \pdl classifier
 \pdv ʁwɤ˧
@@ -76128,7 +76129,7 @@
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
 \ton #H
-\lc xxxx non-correspondance entre le nombre de morphèmes et le nombre de tons de morphèmes
+\lc ʐwæ˧-zɯ˧
 \so <print="n"> F4
 \de Hay for horses, horse hay.
 \ge horse_hay
