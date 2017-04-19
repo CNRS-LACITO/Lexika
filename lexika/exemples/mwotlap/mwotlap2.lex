@@ -1,13 +1,11 @@
-
-\lx sey
-\hm 1
-\ph sɛj
+\lx dam
+\ph ⁿdam
 \wr A
-\sn 1
-\de bien convenir (à une situation); seoir, être conforme fl:ou parfait
-\dn suit (a situation); become, be in keeping with fl:or be perfect
+\ps vi
 \sn 2
-\he spéc
-\ur parole
-\de être convenable; sonner bien dans la langue, être idiomatique
-\dn be correct; sound well in the language, be idiomatic
+\de longue, tombante, qui descend le long du dos (comme les chevelures des Européennes ou des Polynésiennes)
+\dn long, falling, hanging down the back (like European and Polynesian women's hair)
+\ue Rem
+\sn 3
+\de s'accrocher, se suspendre à un support en hauteur (fl:ex. liane, corde+) pour se mouvoir; |fl{d'où} grimper (vers le haut) fl:ou se laisser glisser (vers le bas) le long de qqch
+\dn hang on, cling on to something high up (fl:e.g. liana, rope +) to help oneself to move; |fl{hence} climb (up) fl:or slide down something 

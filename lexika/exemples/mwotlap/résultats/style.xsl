@@ -211,7 +211,7 @@
         </div>
     </xsl:template>
 
-    <xsl:template match="SousEntrée">
+    <xsl:template match="Sous-entrée">
         <div class="sous-entrée">
             <xsl:attribute name="id">
                 <xsl:value-of select="./@id"/>
@@ -523,7 +523,7 @@
         </p>
     </xsl:template>
 
-    <xsl:template match="Note">
+    <xsl:template match="Note[caractéristique[@attribut='type' and @valeur='usage']]">
         <span class="note">
             <xsl:value-of select="caractéristique[@attribut='note']/@valeur"/>
         </span>
@@ -544,7 +544,7 @@
                 </span>
                 <xsl:if test="gloses_dʼétymologie">
                     <span class="glose">
-                    ‘<xsl:value-of select="gloses_dʼétymologie/GloseDÉtymologie/caractéristique[@attribut='glose']/@valeur"/>’
+                    ‘<xsl:value-of select="gloses_dʼétymologie/GloseDétymologie/caractéristique[@attribut='glose']/@valeur"/>’
                 </span>
                 </xsl:if>
                 <xsl:if test="not(position() = last())">, </xsl:if>

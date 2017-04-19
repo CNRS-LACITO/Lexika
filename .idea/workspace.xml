@@ -2,18 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1401ac90-f6e1-46b2-b193-251364548d8a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lexika/exemples/na/résultats/na.pdf" afterPath="$PROJECT_DIR$/lexika/exemples/na/résultats/na.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lexika/exemples/na/résultats/na.tex" afterPath="$PROJECT_DIR$/lexika/exemples/na/résultats/na.tex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lexika/base.py" afterPath="$PROJECT_DIR$/lexika/base.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lexika/exemples/na/configuration.yml" afterPath="$PROJECT_DIR$/lexika/exemples/na/configuration.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lexika/exemples/na/latex.xsl" afterPath="$PROJECT_DIR$/lexika/exemples/na/latex.xsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lexika/exemples/na/na.lex" afterPath="$PROJECT_DIR$/lexika/exemples/na/na.lex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lexika/exemples/na/résultats/na.log" afterPath="$PROJECT_DIR$/lexika/exemples/na/résultats/na.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lexika/exemples/na/résultats/na.xml" afterPath="$PROJECT_DIR$/lexika/exemples/na/résultats/na.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lexika/exemples/mwotlap/configuration.yml" afterPath="$PROJECT_DIR$/lexika/exemples/mwotlap/configuration.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lexika/exemples/mwotlap/mwotlap2.lex" afterPath="$PROJECT_DIR$/lexika/exemples/mwotlap/mwotlap2.lex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lexika/exemples/mwotlap/résultats/mwotlap.xml" afterPath="$PROJECT_DIR$/lexika/exemples/mwotlap/résultats/mwotlap.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lexika/exemples/mwotlap/résultats/style.xsl" afterPath="$PROJECT_DIR$/lexika/exemples/mwotlap/résultats/style.xsl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lexika/journal.log" afterPath="$PROJECT_DIR$/lexika/journal.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lexika/nébuleuse.py" afterPath="$PROJECT_DIR$/lexika/nébuleuse.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lexika/outils/tâches.py" afterPath="$PROJECT_DIR$/lexika/outils/tâches.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lexika/outils/cœur.py" afterPath="$PROJECT_DIR$/lexika/outils/cœur.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lexika/outils/divers.py" afterPath="$PROJECT_DIR$/lexika/outils/divers.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,8 +35,8 @@
       <file leaf-file-name="générateurs.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lexika/outils/générateurs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="76" column="99" selection-start-line="76" selection-start-column="94" selection-end-line="76" selection-end-column="99" />
+            <state relative-caret-position="600">
+              <caret line="47" column="46" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -48,8 +45,8 @@
       <file leaf-file-name="base.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lexika/base.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+            <state relative-caret-position="525">
+              <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
               <folding>
                 <element signature="e#48#62#0" expanded="true" />
               </folding>
@@ -57,21 +54,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="latex.xsl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lexika/exemples/na/latex.xsl">
+      <file leaf-file-name="informations_linguistiques.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lexika/personnalisation/informations_linguistiques.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2190">
-              <caret line="182" column="24" selection-start-line="182" selection-start-column="13" selection-end-line="182" selection-end-column="24" />
+            <state relative-caret-position="252">
+              <caret line="187" column="84" selection-start-line="187" selection-start-column="84" selection-end-line="187" selection-end-column="121" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="configuration.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lexika/exemples/na/configuration.yml">
+      <file leaf-file-name="divers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lexika/outils/divers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="56" column="36" selection-start-line="56" selection-start-column="36" selection-end-line="56" selection-end-column="36" />
+            <state relative-caret-position="636">
+              <caret line="71" column="48" selection-start-line="71" selection-start-column="48" selection-end-line="71" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -87,21 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nébuleuse.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="nébuleuse.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lexika/nébuleuse.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="317" column="217" selection-start-line="317" selection-start-column="217" selection-end-line="317" selection-end-column="217" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="divers.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lexika/outils/divers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+            <state relative-caret-position="282">
+              <caret line="173" column="128" selection-start-line="173" selection-start-column="128" selection-end-line="173" selection-end-column="128" />
               <folding />
             </state>
           </provider>
@@ -110,7 +97,7 @@
       <file leaf-file-name="nébuleusedelʼhélice.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lexika/nébuleusedelʼhélice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="908">
+            <state relative-caret-position="1380">
               <caret line="100" column="0" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
               <folding />
             </state>
@@ -132,8 +119,18 @@
       <file leaf-file-name="informations_linguistiques.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lexika/configuration/informations_linguistiques.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="95" column="55" selection-start-line="95" selection-start-column="38" selection-end-line="95" selection-end-column="55" />
+            <state relative-caret-position="506">
+              <caret line="74" column="24" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="configuration.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lexika/exemples/mwotlap/configuration.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -201,31 +198,31 @@
         <option value="$PROJECT_DIR$/lexika/internationalisation/traductions.py" />
         <option value="$PROJECT_DIR$/lexika/exemples/na/na.lex" />
         <option value="$PROJECT_DIR$/lexika/exemples/japhug/configuration.yml" />
-        <option value="$PROJECT_DIR$/lexika/outils/cœur.py" />
         <option value="$PROJECT_DIR$/lexika/outils/entrées_sorties.py" />
         <option value="$PROJECT_DIR$/lexika/gabarits/XML/dictionnaire.xml" />
         <option value="$PROJECT_DIR$/lexika/outils/générateurs.py" />
         <option value="$PROJECT_DIR$/lexika/nébuleusedelʼhélice.py" />
         <option value="$PROJECT_DIR$/lexika/configuration/informations_linguistiques.py" />
-        <option value="$PROJECT_DIR$/lexika/personnalisation/informations_linguistiques.py" />
         <option value="$PROJECT_DIR$/lexika/exemples/mwotlap/résultats/style.xsl" />
         <option value="$PROJECT_DIR$/lexika/exemples/mwotlap/résultats/style.css" />
         <option value="$PROJECT_DIR$/lexika/linguistique/entités_linguistiques.py" />
-        <option value="$PROJECT_DIR$/lexika/outils/divers.py" />
-        <option value="$PROJECT_DIR$/lexika/exemples/mwotlap/configuration.yml" />
-        <option value="$PROJECT_DIR$/lexika/base.py" />
         <option value="$PROJECT_DIR$/lexika/exemples/na/latex.xsl" />
-        <option value="$PROJECT_DIR$/lexika/nébuleuse.py" />
         <option value="$PROJECT_DIR$/lexika/outils/tâches.py" />
         <option value="$PROJECT_DIR$/lexika/exemples/na/configuration.yml" />
+        <option value="$PROJECT_DIR$/lexika/outils/cœur.py" />
+        <option value="$PROJECT_DIR$/lexika/base.py" />
+        <option value="$PROJECT_DIR$/lexika/exemples/mwotlap/configuration.yml" />
+        <option value="$PROJECT_DIR$/lexika/outils/divers.py" />
+        <option value="$PROJECT_DIR$/lexika/personnalisation/informations_linguistiques.py" />
+        <option value="$PROJECT_DIR$/lexika/nébuleuse.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1913" />
+    <option name="x" value="-7" />
     <option name="y" value="-10" />
     <option name="width" value="1934" />
-    <option name="height" value="1217" />
+    <option name="height" value="1172" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -315,7 +312,119 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="personnalisation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lexika" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lexika" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lexika" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="outils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lexika" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lexika" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lexika" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linguistique" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lexika" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lexika" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lexika" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="internationalisation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lexika" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lexika" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lexika" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exemples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lexika" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lexika" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lexika" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exemples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mwotlap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lexika" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lexika" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lexika" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="configuration" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -638,11 +747,18 @@
       <option name="project" value="LOCAL" />
       <updated>1492189222764</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Amélioration du rendu Latex (indices).">
+      <created>1492521258117</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1492521258117</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1913" y="-10" width="1934" height="1217" extended-state="6" />
+    <frame x="-7" y="-10" width="1934" height="1172" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11913548" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -650,7 +766,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33548984" sideWeight="0.48234054" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2569316" sideWeight="0.5176595" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25650916" sideWeight="0.5176595" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.07854507" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -661,7 +777,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32647058" sideWeight="0.49583334" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32594022" sideWeight="0.49583334" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -674,9 +790,9 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2569316" sideWeight="0.5176595" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2569316" sideWeight="0.5176595" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11913548" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11913548" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32647058" sideWeight="0.49583334" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.07854507" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -704,7 +820,8 @@
     <MESSAGE value="Amélioration de l'architecture globale, prise en compte dynamique des langues, extraction de sous-entités, génération Latex et tri multiconditionnel." />
     <MESSAGE value="Amélioration de la gestion des langues, meilleure structuration des exemples, ajout de la personnalisation des formats (surdéfinition), meilleure gestion des balises XML (styles, etc.), améliorations globales diverses (architecture, Latex, etc.)." />
     <MESSAGE value="Amélioration de l'architecture (dépôt d'entités et parent conditionnel)." />
-    <option name="LAST_COMMIT_MESSAGE" value="Amélioration de l'architecture (dépôt d'entités et parent conditionnel)." />
+    <MESSAGE value="Amélioration du rendu Latex (indices)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Amélioration du rendu Latex (indices)." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -909,16 +1026,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lexika/outils/cœur.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
-          <folding>
-            <element signature="e#48#75#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lexika/outils/entrées_sorties.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -952,34 +1059,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lexika/personnalisation/informations_linguistiques.py">
+    <entry file="file://$PROJECT_DIR$/lexika/exemples/na/configuration.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3375">
-          <caret line="228" column="21" selection-start-line="228" selection-start-column="20" selection-end-line="228" selection-end-column="21" />
+        <state relative-caret-position="855">
+          <caret line="56" column="36" selection-start-line="56" selection-start-column="36" selection-end-line="56" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexika/exemples/na/latex.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2730">
+          <caret line="182" column="24" selection-start-line="182" selection-start-column="13" selection-end-line="182" selection-end-column="24" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexika/outils/cœur.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="66" column="59" selection-start-line="66" selection-start-column="59" selection-end-line="66" selection-end-column="59" />
+          <folding>
+            <element signature="e#48#75#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexika/outils/générateurs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="47" column="46" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexika/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+          <folding>
+            <element signature="e#48#62#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lexika/exemples/mwotlap/configuration.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="39" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
+        <state relative-caret-position="420">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lexika/configuration/informations_linguistiques.py">
+    <entry file="file://$PROJECT_DIR$/lexika/outils/divers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="95" column="55" selection-start-line="95" selection-start-column="38" selection-end-line="95" selection-end-column="55" />
+        <state relative-caret-position="636">
+          <caret line="71" column="48" selection-start-line="71" selection-start-column="48" selection-end-line="71" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lexika/nébuleusedelʼhélice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="908">
+        <state relative-caret-position="1380">
           <caret line="100" column="0" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexika/configuration/informations_linguistiques.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="74" column="24" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -994,24 +1144,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lexika/nébuleuse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="317" column="217" selection-start-line="317" selection-start-column="217" selection-end-line="317" selection-end-column="217" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lexika/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-          <folding>
-            <element signature="e#48#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lexika/outils/tâches.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1020,34 +1152,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lexika/exemples/na/configuration.yml">
+    <entry file="file://$PROJECT_DIR$/lexika/personnalisation/informations_linguistiques.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="56" column="36" selection-start-line="56" selection-start-column="36" selection-end-line="56" selection-end-column="36" />
+        <state relative-caret-position="252">
+          <caret line="187" column="84" selection-start-line="187" selection-start-column="84" selection-end-line="187" selection-end-column="121" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lexika/exemples/na/latex.xsl">
+    <entry file="file://$PROJECT_DIR$/lexika/nébuleuse.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2190">
-          <caret line="182" column="24" selection-start-line="182" selection-start-column="13" selection-end-line="182" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lexika/outils/générateurs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="76" column="99" selection-start-line="76" selection-start-column="94" selection-end-line="76" selection-end-column="99" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lexika/outils/divers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+        <state relative-caret-position="282">
+          <caret line="173" column="128" selection-start-line="173" selection-start-column="128" selection-end-line="173" selection-end-column="128" />
           <folding />
         </state>
       </provider>

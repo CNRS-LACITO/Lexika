@@ -10,6 +10,7 @@ import string
 import yaml
 from pprint import pprint
 
+
 class Configuration:
     """
     Classe intimement liée au fichier 'fichier_source' (au format YML) qui lui offre ses différents paramètres comme attributs.
@@ -54,7 +55,6 @@ class Configuration:
 
     def récupérer_contenu_objet(self):
         return {clef.lstrip("_"): valeur for clef, valeur in self.__dict__.items()}
-
 
 
 class Traducteur:

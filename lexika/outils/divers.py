@@ -62,7 +62,7 @@ class Chronométrer(contextlib.ContextDecorator):
 def créer_journalisation(nom_fichier):
     with lexika.outils.OuvrirFichier(nom_fichier, 'w'):
         pass
-    logging.basicConfig(filename=nom_fichier, level=logging.ERROR)
+    logging.basicConfig(filename=nom_fichier, level=logging.INFO)
     formateur = logging.Formatter("%(asctime)s [%(levelname)s]  %(message)s")
     journalisateur = logging.getLogger()
     gestionnaire_fichier = logging.FileHandler(nom_fichier, encoding="UTF-8")
