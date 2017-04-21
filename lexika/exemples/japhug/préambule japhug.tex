@@ -1,0 +1,80 @@
+\documentclass[twoside,11pt]{book}
+\title{Dictionnaire Japhug-chinois-français\\\zh{嘉绒-汉-法词典\\ Version 1.12}}
+\author{Guillaume Jacques\\\zh{向柏霖}}
+
+\usepackage{pifont}
+\usepackage{fontspec}
+\usepackage{natbib}
+\usepackage{booktabs}
+\usepackage{xltxtra} 
+\usepackage{polyglossia}
+\setdefaultlanguage{french}
+\usepackage[table]{xcolor}
+\usepackage{multicol}
+\setlength{\columnseprule}{1pt}
+\setlength{\columnsep}{1.5cm}
+\usepackage{float}
+\usepackage{textcomp}
+\usepackage[bookmarks=true,colorlinks,linkcolor=blue]{hyperref}
+\hypersetup{bookmarks=false,bookmarksnumbered,bookmarksopenlevel=5,bookmarksdepth=5,xetex,colorlinks=true,linkcolor=blue,citecolor=blue}
+\usepackage[all]{hypcap}
+\usepackage{memhfixc}
+\usepackage{amssymb}
+
+%\setmainfont[Mapping=tex-text,Numbers=OldStyle,Ligatures=Common]{Charis SIL} 
+\newfontfamily\phon[Mapping=tex-text,Ligatures=Common,Scale=MatchLowercase]{Charis SIL} 
+\newcommand{\ipa}[1]{{\phon #1}}  
+\newfontfamily\cn[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{SimSun} % (ou SimSun) pour le chinois
+\newcommand{\zh}[1]{{\cn #1}}
+\newfontfamily\mx[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{ArialUnicodeMS} % pour les questions
+\newcommand{\nq}[1]{{\mx #1}}
+\newcommand{\grise}[1]{\cellcolor{lightgray}\textbf{#1}}
+\newcommand{\bleute}[1]{\cellcolor{green}\textbf{#1}}
+\newcommand{\rouge}[1]{\cellcolor{red}\textbf{#1}}
+\newcommand{\topic}{\textsc{dem}}
+\newcommand{\tete}{\textsuperscript{\textsc{head}}}
+\newcommand{\rc}{\textsubscript{\textsc{rc}}}
+\newcommand{\ital}[1]{{\normalfont\textit{#1}}}
+\newcommand{\caps}[1]{{\normalfont\textsc{#1}}}
+\XeTeXlinebreaklocale 'zh' % 使用中文换行
+\XeTeXlinebreakskip = 0pt plus 1pt % CIRCG
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyheadoffset{3.4em}
+\fancyhead[LE,LO]{\rightmark}
+\fancyhead[RE,RO]{\leftmark}
+\usepackage[dvipdfmx,xetex,bigfiles,final,activate=onclick,deactivate=onclick,transparent,passcontext]{media9}
+\usepackage{graphicx}
+\usepackage{vmargin}
+% {marge gauche}{marge en haut}{marge droite}{marge en bas}{hauteur de l'entête}{distance entre l'entête et le texte}{hauteur du pied de page}{distance entre le texte et le pied de page}
+\setmarginsrb{3cm}{2cm}{2cm}{2cm}{1cm}{2cm}{1cm}{2cm}
+
+% \usepackage[x11names]{xcolor}
+% \colorlet{headcolor}{blue}% couleur des têtes d'entrée
+\usepackage{hanging}
+\newcommand{\lx}[1]{{\Large\bfseries#1}}
+%%%%% Environnememt pour chaque entrée %%%%%
+\usepackage{totcount}
+\newcounter{entrycounter}\setcounter{entrycounter}{0}\regtotcounter{entrycounter}%Compteur du nombre d'entrées
+\newenvironment{entry}[1]{% l'environnement à 1 argument, la tête d'entrée
+\stepcounter{entrycounter}% on incrémente le compteur
+\hangpara{1em}{1}% après la ligne 1, chaque ligne est indentée d'1em, ce que fait que la première ligne apparaît avec un retrait
+\markboth{#1}{#1}% on marque les entrées pour pouvoir les insérer dans les en-têtes de page
+\addcontentsline{toc}{subsection}{#1}% chaque entrée est ajoutée aux signets pdf comme étant une sous-section
+\lx{#1}\hspace{.5em}% on imprime la tête d'entrée avec la mise en forme lx et on ajoute de l'espace à sa gauche
+}{\par\smallskip}% on change de paragraphe et on laisse un peu d'espace avant l'entrée suivante
+
+\newenvironment{subentry}[1]{% l'environnement à 1 argument, la tête d'entrée
+%\stepcounter{entrycounter}% on incrémente le compteur
+\hangpara{1em}{1}% après la ligne 1, chaque ligne est indentée d'1em, ce que fait que la première ligne apparaît avec un retrait
+%\markboth{#1}{#1}% on marque les entrées pour pouvoir les insérer dans les en-têtes de page
+\addcontentsline{toc}{subsubsection}{#1}% chaque entrée est ajoutée aux signets pdf comme étant une sous-section
+\hspace{.5em}$\blacksquare$#1\hspace{.5em}% on imprime la tête d'entrée avec la mise en forme lx et on ajoute de l'espace à sa gauche
+}{\par\smallskip}% on change de paragraphe et on laisse un peu d'espace avant l'entrée suivante
+\newcommand{\refentry}{\zh{【参考】}}
+\newcommand{\etymology}{\zh{【借词】}} 
+\newcommand{\antonym}{\zh{【反义词】}} 
+\newcommand{\synonym}{\zh{【同义词】}} 
+\newcommand{\usage}{\zh{【用法】}} 
+\newenvironment{bottompar}{\par\vspace*{\fill}}{\clearpage}
+ 

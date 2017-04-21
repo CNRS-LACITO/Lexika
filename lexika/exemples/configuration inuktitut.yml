@@ -1,0 +1,40 @@
+chemin source: exemples/inuktitut.lex
+chemin cible: exemples/résultats/inuktitut.xml
+format entrée: MDF
+format sortie: LMF
+sens: direct
+type: normal
+hiérarchie: normale
+identifiant: dictionnaire inuktitut
+dictionnaire:
+  nom: Essai d'un dictionnaire japhug
+  auteur: Marc-Antoine Mahieu
+  commentaire: D'après le roman de Markoosie Patsauq intutilé « Uumajursiuti unaatuinnamut ».
+XML:
+  format: structure sans listes
+  langue:
+  XSL: style.xsl
+tri: normal
+langues:
+- identifiant: fra
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: français
+  glossonyme: français
+  statut: cible
+- identifiant: eng
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: English
+  glossonyme: anglais
+  statut: cible
+- identifiant: iku
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: inuktitut
+  glossonyme: inuktitut
+  commentaire: Dialecte du Nunavik
+  statut: source
+tâches:
+  initial:
+  - joindre lignes coupées

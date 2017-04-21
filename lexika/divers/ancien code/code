@@ -1,0 +1,230 @@
+
+# class NébuleuseDiffuse(Nébuleuse):
+#     def __init__(self, configuration):
+#         super(NébuleuseDiffuse, self).__init__(configuration)
+#
+#     # Fonctions générales.
+#     def créer_entité_linguistique(self, parent, attribut_parent, classe_entité, attribut):
+#         if len(getattr(parent, attribut_parent)) and not getattr(getattr(parent, attribut_parent)[-1], attribut):
+#             entité = parent.exemples[-1]
+#         else:
+#             entité = classe_entité()
+#             getattr(parent, attribut_parent).append(entité)
+#         return entité
+#
+#     def mettre_à_jour_entité_linguistique(self, entité, attribut, information, paramètres):
+#         attributs = {attribut: information}
+#         if paramètres:
+#             attributs.update({paramètre: valeur for paramètre, valeur in paramètres.items()})
+#         for attribut, valeur in attributs.items():
+#             setattr(entité, attribut, str(valeur))
+#         return entité
+#
+#     # Fonctions spéciales.
+#     def manipuler_entrée(self, attribut, information, paramètres, métainformations=None):
+#         if len(self.dictionnaire.entrées) and not getattr(self.dictionnaire.entrées[-1], attribut):
+#             entrée = self.dictionnaire.entrées[-1]
+#         else:
+#             entrée = lexica.linguistique.Entrée()
+#             self.dictionnaire.entrées.append(entrée)
+#         self.mettre_à_jour_entité_linguistique(entrée, attribut, information, paramètres)
+#         entrée.identifiant = self.créer_identifiant(
+#             [(self.constantes["entrée"], entrée.vedette), (self.constantes["homonyme"], entrée.homonyme)])
+#
+#     def manipuler_sens(self, attribut, information, paramètres, métainformations=None):
+#         entrée = self.dictionnaire.entrées[-1]
+#         if len(entrée.sens) and not getattr(entrée.sens[-1], attribut):
+#             sens = entrée.sens[-1]
+#         else:
+#             sens = lexica.linguistique.Sens()
+#             entrée.sens.append(sens)
+#         self.mettre_à_jour_entité_linguistique(sens, attribut, information, paramètres)
+#         sens.identifiant = entrée.identifiant + self.créer_identifiant([(self.constantes["sens"], sens.acception)])
+#
+#     def manipuler_définition(self, attribut, information, paramètres, métainformations=None):
+#         if not self.dictionnaire.entrées[-1].sens:
+#             self.manipuler_sens("acception", paramètres, "1", métainformations)
+#         sens = self.dictionnaire.entrées[-1].sens[-1]
+#         définition = self.créer_entité_linguistique(sens, "définitions", lexica.linguistique.Définition, attribut)
+#         self.mettre_à_jour_entité_linguistique(définition, attribut, information, paramètres)
+#         définition.identifiant = sens.identifiant + self.créer_identifiant(
+#             [(self.constantes["définition"], len(sens.définitions))])
+#
+#     def manipuler_exemple(self, attribut, information, paramètres, métainformations=None):
+#         if not self.dictionnaire.entrées[-1].sens:
+#             self.manipuler_sens("acception", paramètres, "1", métainformations)
+#         sens = self.dictionnaire.entrées[-1].sens[-1]
+#         exemple = self.créer_entité_linguistique(sens, "exemples", lexica.linguistique.Exemple, attribut)
+#         self.mettre_à_jour_entité_linguistique(exemple, attribut, information, paramètres)
+#         exemple.identifiant = sens.identifiant + self.créer_identifiant(
+#             [(self.constantes["exemple"], len(sens.exemples))])
+#
+#     # Fonctions linguistiques supplémentaires ou surdéfinies.
+#     def manipuler_groupe(self, attribut, information, paramètres, métainformations=None):
+#         entrée = self.dictionnaire.entrées[-1]
+#         if len(entrée.groupes) and not getattr(entrée.groupes[-1], attribut):
+#             groupe = entrée.groupe[-1]
+#         else:
+#             groupe = lexica.linguistique.Groupe()
+#             entrée.groupes.append(groupe)
+#         self.mettre_à_jour_entité_linguistique(groupe, attribut, information, paramètres)
+#         groupe.identifiant = entrée.identifiant + self.créer_identifiant([(self.constantes["groupe"], groupe.nom)])
+#
+#     def manipuler_sens(self, attribut, information, paramètres, métainformations=None):
+#         entrée = self.dictionnaire.entrées[-1]
+#         parent = entrée.groupes[-1] if entrée.groupes else entrée
+#         if len(parent.sens) and not getattr(parent.sens[-1], attribut):
+#             sens = entrée.sens[-1]
+#         else:
+#             sens = lexica.linguistique.Sens()
+#             parent.sens.append(sens)
+#         self.mettre_à_jour_entité_linguistique(sens, attribut, information, paramètres)
+#         sens.identifiant = parent.identifiant + self.créer_identifiant([(self.constantes["sens"], sens.acception)])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #
+    # def manipuler_entrée(self, attribut, paramètres, information, métainformations=None):
+    #     if len(self.dictionnaire.entrées) and not getattr(self.dictionnaire.entrées[-1], attribut):
+    #         entrée = self.dictionnaire.entrées[-1]
+    #         setattr(entrée, attribut, information)
+    #     else:
+    #         entrée = lexica.linguistique.Entrée(**{attribut: information})
+    #         self.dictionnaire.entrées.append(entrée)
+    #         self.liste_entrées.append(entrée)
+    #
+    #     entrée.identifiant = "{}{}".format(self.constantes["entrée"], entrée.vedette)
+    #     if entrée.homonyme:
+    #         entrée.identifiant += "{}{}".format(self.constantes["homonyme"], entrée.homonyme)
+    #
+    # def manipuler_définition(self, attribut, paramètres, information, métainformations=None):
+    #     if not self.liste_entrées[-1].sens:
+    #         self.manipuler_sens(attribut, paramètres, information, métainformations)
+    #     sens = self.liste_sens[-1]
+    #     sens.définition = information
+    #     if paramètres["langue"] not in self.configuration.langues:
+    #         raise Exception("Langue '{}' non indiquée dans la configuration.".format(paramètres["langue"]))
+    #     sens.langue = paramètres["langue"]
+    #
+    # def manipuler_sens(self, attribut, paramètres, information, métainformations=None):
+    #     entrée = self.liste_entrées[-1]
+    #     acception = str(len(entrée.sens) + 1)
+    #     identifiant = "{}{}{}".format(entrée.identifiant, self.constantes["sens"], acception)
+    #     sens = lexica.linguistique.Sens(identifiant, acception)
+    #     self.liste_sens.append(sens)
+    #     if entrée.groupes:
+    #         entrée.groupes.append(sens)
+    #     else:
+    #        entrée.sens.append(sens)
+
+
+
+class NébuleuseLexMartine(NébuleuseDiffuse):
+    def __init__(self, configuration):
+        super(NébuleuseLexMartine, self).__init__(configuration)
+
+
+
+
+        # identifiant = vedette = homonyme = classe_grammaticale = entrée_parente = None
+        # print("**", attribut, information)
+        # if attribut == "vedette":
+        #     identifiant = vedette = information
+        #     if identifiant in self.dictionnaire.entrées:
+        #         identifiant += self.constantes["doublon"]
+        # elif attribut ==  "homonyme":
+        #     if len(self.dictionnaire.entrées):
+        #         entrée = self.dictionnaire.entrées[-1]
+        #         identifiant = vedette = entrée.identifiant
+        #         print('homo', entrée.__dict__)
+        # elif attribut == "classe_grammaticale":
+        #
+        # if len(self.dictionnaire.entrées):
+        #     entrée = self.dictionnaire.entrées[-1]
+        #     if not getattr(entrée, attribut):  # Si l'entité linguistique n'a pas déjà tel attribut, alors on la met à jour, sinon nous en créons une nouvelle.
+        #         setattr(entrée, attribut, information)
+        #     else:
+        #         entrée = lexica.linguistique.Entrée(identifiant, vedette, homonyme, entrée_parente)
+        #         self.dictionnaire.entrées.append(entrée)
+        #         self.liste_entrées.append(entrée)
+        # else:
+        #     entrée = lexica.linguistique.Entrée(identifiant, vedette, homonyme, entrée_parente)
+        #     self.dictionnaire.entrées.append(entrée)
+        #     self.liste_entrées.append(entrée)
+
+        #     entrée = lexica.linguistique.Entrée(identifiant, vedette, homonyme, None)
+        # bilan = self.modèle_entrée.match(informations)
+        # if bilan:
+        #     vedette = identifiant = informations
+        #     homonyme = bilan.group("homonyme") if "homonyme" in bilan.groupdict() else None
+        #     # profondeur_hiérarchique = métainformations["métabalise"].count(".") if métainformations["métabalise"] else "xxx"
+        #     if identifiant in self.dictionnaire.entrées:
+        #         identifiant += self.constantes["doublon"]
+        #     entrée = lexica.linguistique.Entrée(identifiant, vedette, homonyme, None)
+        #     self.liste_entrées.append(entrée)
+        #     # if profondeur_hiérarchique == "xxx":
+        #     #     self.dictionnaire.entrées.append(entrée)
+        #     self.dictionnaire.entrées.append(entrée)
+        #     # else:
+        #     #     print("Attention, la sous-entrée '{}' est ignorée".format(information_linguistique))
+        # # else:
+        # #     print("Attention, l'entrée '{}' n'a pas été validée par l'expression régulière.".format(information_linguistique)) 
+
+
+
+
+
+    # def gérer_intra_balises(self, élément):
+    #     modèle = regex.compile(r"(?P<bloc>⊣(?P<balise>[\w]+) (?P<attribut>[\w]+)='(?P<valeur>[\p{property='Enclosed Alphanumerics'}\w\s~-]+)'⊢(?P<texte>[\w\s~-]+)⊣\/(?P=balise)⊢)")
+    #     bilan = modèle.search(élément.attrib["valeur"])
+    #     if bilan:
+    #         bilans = modèle.finditer(élément.attrib["valeur"])
+    #         élément.text = ''
+    #         reste_texte = élément.attrib["valeur"]
+    #         for index, bilan in enumerate(bilans):
+    #             print(index, bilan.groupdict())
+    #             sous_modèle = regex.compile("(?P<avant>.*?){}(?P<après>.*)".format(bilan.group("bloc")))
+    #             sous_bilan = sous_modèle.match(reste_texte)
+    #             print("***", sous_bilan.groupdict())
+    #             élément.text += sous_bilan.group("avant")
+    #             sous_élément = lxml.etree.Element(bilan.group("balise"), attrib={bilan.group("attribut"): bilan.group("valeur")})
+    #             élément.append(sous_élément)
+    #             sous_élément.text = bilan.group("texte")
+    #             reste_texte = sous_bilan.group("après")
+    #             print("++", élément.text)
+    #         élément.text += reste_texte
+    #             # # élément.attrib["valeur"] = ''
+    #             # print(lxml.etree.tostring(élément, encoding="unicode"))
+
+
+    # def gérer_intra_balises(self, élément):
+    #     modèle = regex.compile(r"(?P<avant>.*?)(?P<bloc>⊣(?P<balise>[\w]+) (?P<attribut>[\w]+)='(?P<valeur>[\p{property='Enclosed Alphanumerics'}\w\s~-]+)'⊢(?P<texte>[\w\s~-]+)⊣\/(?P=balise)⊢)(?P<après>.*)")
+    #     bilan = modèle.search(élément.attrib["valeur"])
+    #     if bilan:
+    #         bilans = modèle.finditer(élément.attrib["valeur"])
+    #         for index, bilan in enumerate(bilans):
+    #             print(index, bilan.groupdict())
+    #             élément.text = bilan.group("avant")
+    #             sous_élément = lxml.etree.SubElement(élément, bilan.group("balise"), attrib={bilan.group("attribut"): bilan.group("valeur")})
+    #             sous_élément.text = bilan.group("texte")
+    #             sous_élément.tail = bilan.group("après")
+    #             # élément.attrib["valeur"] = ''
+    #             print(lxml.etree.tostring(élément, encoding="unicode"))

@@ -1,0 +1,51 @@
+chemin source: exemples/tamaŋ/tamaŋ.lex
+format entrée: Lexware
+format sortie: LMF
+sens: direct
+type: normal
+hiérarchie: normale
+identifiant: dictionnaire tamaŋ
+dictionnaire:
+  nom: Essai d'un dictionnaire tamaŋ
+  auteur: Martine Mazaudon
+  commentaire: Test LMF Lexika
+XML:
+  format: structure sans listes
+  langue: eng
+  XSL: style.xsl
+  chemin cible: exemples/tamaŋ/résultats/tamaŋ.xml
+tri: normal
+langues:
+- identifiant: tam
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: tamaŋ
+  glossonyme: tamaŋ
+  statut: source
+- identifiant: fra
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: français
+  glossonyme: français
+  statut: cible
+- identifiant: eng
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: English
+  glossonyme: anglais
+  statut: cible
+- identifiant: nep
+  type caractères: nagari
+  sens lecture: gauche à droite
+  autoglossonyme: nepali
+  glossonyme: népali
+  statut: cible
+- identifiant: nep_tr
+  type caractères: latin
+  sens lecture: gauche à droite
+  autoglossonyme: nepali
+  glossonyme: népali
+  statut: cible
+tâches:
+  initial:
+  final:

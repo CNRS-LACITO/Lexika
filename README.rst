@@ -1,0 +1,3 @@
+Bibliothèqe logicielle Lexika. Créé comme projet personnel comme défi de faire une alternative à pylmflib en Python 3 avec un code pythonique et très flexible...
+
+Licence non compatible logiciel libre : c'est libre mais il est interdit de changer la langue (le français).
