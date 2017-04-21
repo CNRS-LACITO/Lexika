@@ -35859,7 +35859,7 @@
 \lx achɯcha
 \ps vs
 \pdl dir
-\ev tɤ-
+\pdv tɤ-
 \ge qui a du talent
 \gn 有才能
 \xv to-k-ɤchɯcha-ci
@@ -57197,7 +57197,7 @@
 \lx nɤqadrɤt
 \ps vt
 \pdl dir
-\ev thɯ-
+\pdv thɯ-
 \ng incorp
 \ge griffer partout
 \gn 到处乱抓（鸟）
@@ -60835,7 +60835,6 @@
 
 \lx nɯchɤmda
 \ps vt
-\pdl dir 
 \ng denom
 \ge boire de l'alcool à la paille
 \gn 喝干干酒
@@ -66966,8 +66965,8 @@
 \ps vi
 \ng refl
 \ng caus
+\pdl dir
 \pdv kɤ-
-\pdl dir 
 \ge se coller sur
 \gn 把（自己的）身体贴在
 \xv kɤ-anbaʁ-a tɕe znde ɯ-taʁ kɤ-ʑɣɤsɤɲɟoʁ-a
@@ -77552,8 +77551,8 @@
 \wav vt-sloR
 \ps vt
 \sn 1
+\pdl dir
 \pdv nɯ-
-\pdl dir 
 \ge fouir (cochon) 
 \gn 用鼻子拱（猪） 
 \xv phaʁrgot kɯ sɤtɕha ɲɤ-sloʁ

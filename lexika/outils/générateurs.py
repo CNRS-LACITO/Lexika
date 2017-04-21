@@ -130,7 +130,7 @@ class GénérateurLatex:
         # texte = str(nouveau_modèle_document).replace("  ", "").replace("\n\n", "").replace("^", "\\textasciicircum ").replace("$", "\$").replace("_", "\_").replace("#", "\#")
         texte = []
         for line in str(nouveau_modèle_document).replace("  ", "").replace("\n\n", "").splitlines():
-            if not(line.startswith("\\newenvironment{") or line.startswith("\\newcommand{")):
+            if not(line.startswith("\\newenvironment{") or line.startswith("\\newcommand{") or line.startswith("\\écouter{")):
                 line = line.replace("$", "\$").replace("_", "\_").replace("#", "\#").replace("^", "\^").replace("~", "∼")
             texte.append(line)
         texte = "\n".join(texte)

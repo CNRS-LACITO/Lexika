@@ -49,7 +49,7 @@ def inverser_balises(fichier_entrée, fichier_sortie):
 
 def remplacer_indices_latex(fichier_entrée, fichier_sortie):
     résultat = []
-    correspondances = {"₀": "0", "₁": "a", "₂": "b", "₃": "c", "₄": "d", "₅": "e", "₆": "f", "₇": "g", "₈": "h", "₉":"i"}
+    correspondances = {"α": "a", "β": "b", "γ": "c"}
     with lexika.outils.OuvrirFichier(fichier_entrée, 'r') as entrée:
         for ligne in entrée.readlines():
             for clef, valeur in correspondances.items():

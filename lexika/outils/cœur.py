@@ -84,6 +84,7 @@ class Trieur:
         self.données = données
         self.ordre_lexicographique = None
         self.sous_ordre_lexicographique = None
+        self.ordre_numérique = {str(chiffre): chiffre for chiffre in range(10)}
         self.expression_rationnelle_tri_entités = None
         self.expression_rationnelle_sous_tri_entités = None
         self.initialiser()
@@ -103,16 +104,18 @@ class Trieur:
         regex.compile(r"{}".format("|".join(sorted(self.ordre_lexicographique, key=lambda mot: len(mot), reverse=True))), flags=regex.IGNORECASE) if self.ordre_lexicographique else None
         self.expression_rationnelle_tri_entités = regex.compile(r"{}".format("|".join(sorted(self.ordre_lexicographique, key=lambda mot: len(mot), reverse=True))), flags=regex.IGNORECASE)
         self.expression_rationnelle_sous_tri_entités = regex.compile(r"{}".format("|".join(sorted(self.sous_ordre_lexicographique, key=lambda mot: len(mot), reverse=True))), flags=regex.IGNORECASE)
+        self.expression_rationnelle_tri_numérique = regex.compile(r"\d")
 
     def trier_entités(self, expression):
         if self.expression_rationnelle_tri_entités:
             résultat_primaire = [valeurs[1] for valeurs in [(syllabe, self.ordre_lexicographique[syllabe.lower()]) for syllabe in self.expression_rationnelle_tri_entités.findall(expression) if syllabe.lower() in self.ordre_lexicographique]]
             résultat_secondaire = [valeurs[1] for valeurs in [(syllabe, self.sous_ordre_lexicographique[syllabe.lower()]) for syllabe in self.expression_rationnelle_sous_tri_entités.findall(expression) if syllabe.lower() in self.ordre_lexicographique]]
             résultat_tertiaire = [0 if syllabe.islower() else 1 for syllabe in self.expression_rationnelle_tri_entités.findall(expression) if syllabe.lower() in self.ordre_lexicographique]
+            résultat_quaternaire = [valeurs[1] for valeurs in [(chiffre, self.ordre_numérique[chiffre]) for chiffre in self.expression_rationnelle_tri_numérique.findall(expression)]]
         else:
             résultat_primaire = expression
-            résultat_secondaire = résultat_tertiaire = None
-        return résultat_primaire, résultat_secondaire, résultat_tertiaire
+            résultat_secondaire = résultat_tertiaire = résultat_quaternaire = None
+        return résultat_primaire, résultat_secondaire, résultat_tertiaire, résultat_quaternaire
 
 
 class Gabarit(string.Template):

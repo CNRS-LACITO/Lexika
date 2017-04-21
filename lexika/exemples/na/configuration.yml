@@ -50,7 +50,7 @@ langues:
   statut: cible
 tâches:
   initial:
-  - joindre lignes coupées
+  # - joindre lignes coupées
   final:
   post-Latex:
   - remplacer indices latex

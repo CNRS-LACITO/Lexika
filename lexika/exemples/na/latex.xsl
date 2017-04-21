@@ -2,6 +2,9 @@
     <xsl:output method="text" encoding="UTF-8"/>
     <xsl:variable name="langue" select="'cmn'"/>
 
+    <xsl:variable name="nombres" select="'0123456789'"/>
+    <xsl:variable name="indices" select="'₀₁₂₃₄₅₆₇₈₉'"/>
+
     <xsl:variable name="fra">OliveGreen</xsl:variable>
     <xsl:variable name="eng">Sepia</xsl:variable>
     <xsl:variable name="cmn">black</xsl:variable>
@@ -26,58 +29,61 @@
         \setlength{\columnseprule}{1pt}
         \setlength{\columnsep}{1.5cm}
         \usepackage{changepage}
-        \setlength\parindent{0pt}
         \usepackage[dvipsnames,table]{xcolor}
         \usepackage{fancyhdr}
         \pagestyle{fancy}
         \fancyheadoffset{3.4em}
         \fancyhead[LE,LO]{\rightmark}
         \fancyhead[RE,RO]{\leftmark}
-        \usepackage[bookmarks=true,colorlinks,linkcolor=blue]{hyperref}
-        \hypersetup{bookmarks=false,bookmarksnumbered,bookmarksopenlevel=5,bookmarksdepth=5,xetex,colorlinks=true,linkcolor=blue,citecolor=blue}
+        \usepackage{hyperref}
+        \hypersetup{pdftex,bookmarks=true,bookmarksnumbered,bookmarksopenlevel=5,bookmarksdepth=5,xetex,colorlinks=true,linkcolor=blue,citecolor=blue}
         \usepackage[all]{hypcap}
         \usepackage{fontspec}
         \usepackage{natbib}
         \usepackage{booktabs}
         \usepackage{polyglossia}
         \setdefaultlanguage{french}
-        \setmainfont{Liberation Serif}
+        \setotherlanguages{french,english}
+        \setmainfont{Charis SIL}
         \usepackage{media9}
-        \usepackage[autostyle=false]{csquotes}
+        \usepackage{totcount}
+        \newcounter{compteur}
+        \setcounter{compteur}{0}
+        \regtotcounter{compteur}
         \newfontfamily{\prin}[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{Liberation Serif}
         \newfontfamily{\nru}[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{Charis SIL}
         \newfontfamily{\fra}[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{EB Garamond}
-        \newfontfamily{\cmn}[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{SimSun}
+        \newfontfamily{\cmn}[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{WenQuanYi Micro Hei}
         \newfontfamily{\eng}[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{EB Garamond}
         \newfontfamily{\bod}[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{Liberation Serif}
-        \newcommand{\pnru}[1]{{\nru \textcolor{<xsl:value-of select="$nru"/>}{#1}}}
-        \newcommand{\pfra}[1]{{\fra \textcolor{<xsl:value-of select="$fra"/>}{#1}}}
-        \newcommand{\pcmn}[1]{{\cmn \textcolor{<xsl:value-of select="$cmn"/>}{#1}}}
-        \newcommand{\peng}[1]{{\eng \textcolor{<xsl:value-of select="$eng"/>}{#1}}}
-        \newcommand{\pbod}[1]{{\bod \textcolor{<xsl:value-of select="$bod"/>}{#1}}}
+        \newcommand{\pprin}[1]{\begin{<xsl:value-of select="$langue"/>}{\prin #1}\end{<xsl:value-of select="$langue"/>}}
+        \newcommand{\pnru}[1]{{\nru\textcolor{<xsl:value-of select="$nru"/>}{#1}}}
+        \newcommand{\pfra}[1]{\begin{french}{\fra\textcolor{<xsl:value-of select="$fra"/>}{#1}}\end{french}}
+        \newcommand{\pcmn}[1]{{\cmn\textcolor{<xsl:value-of select="$cmn"/>}{#1}}}
+        \newcommand{\peng}[1]{\begin{english}{\eng\textcolor{<xsl:value-of select="$eng"/>}{#1}}\end{english}}
+        \newcommand{\pbod}[1]{{\bod\textcolor{<xsl:value-of select="$bod"/>}{#1}}}
         \newcommand{\cerclé}[1]{\raisebox{0pt}{\textcircled{\raisebox{-0.5pt} {\footnotesize{\pnru{#1}}}}}}
-        \newcommand{\caractère}[1]{\begin{center}\textbf{\Large #1}\end{center}}
-        \newenvironment{entrée}{\hspace*{-0.5cm}}{\newline}
-        \newenvironment{sous-entrée}{\begin{adjustwidth}{0.3cm}{}\prin ■ \nru}{\end{adjustwidth}}
-        \newcommand{\vedette}[1]{\textbf{\Large \pnru{#1}}}
-        \newcommand{\homonyme}[1]{~\textsubscript{#1}}
+        \newcommand{\caractère}[1]{\phantomsection\addcontentsline{toc}{section}{#1}{\begin{center}\textbf{\Large\pnru{#1}}\end{center}}}
+        \newenvironment{entrée}[3]{\hypertarget{#3}{}\phantomsection\addcontentsline{toc}{subsection}{#1\homonyme{#2}}\hspace*{-0.5cm}\textbf{\Large\pnru{#1 \homonyme{#2}}}}{\stepcounter{compteur}}
+        \newenvironment{sous-entrée}[3]{\par\hypertarget{#3}{}\phantomsection\addcontentsline{toc}{subsubsection}{#1 \homonyme{#2}}\begin{adjustwidth}{0.3cm}{}\pprin{■} \textbf{\Large\pnru{#1\homonyme{#2}}}}{\end{adjustwidth}}
+        \newcommand{\homonyme}[1]{#1}
         \newcommand{\formesurface}[1]{\hspace{0.5cm}[ \pnru{#1} ]\hspace{0.5cm}}
         \newcommand{\orthographe}[1]{\pnru{\textit{#1}}}
-        \newcommand{\ton}[1]{\cmn{声调类：}\prin{#1} }
+        \newcommand{\ton}[1]{\cmn{声调类：}\prin{#1}\hspace{0.5cm}}
         \newcommand{\classe}[1]{ \pcmn{\textcolor{PineGreen}{#1} }}
         \newcommand{\paradigme}[1]{#1 }
         \newcommand{\acception}[1]{ \cerclé{#1} }
         \newenvironment{définition}{}{\hspace{5pt}}
         \newenvironment{déclaration}{}{}
-        \newenvironment{exemple}{¶ }{\hspace{5pt}}
+        \newenvironment{exemple}{\pprin{¶} }{\hspace{5pt}}
         \newenvironment{relation-sémantique}{}{}
         \newenvironment{forme-mot}{}{}
-        \newcommand{\synonyme}[1]{\pcmn{ ~【同义词】~#1}}
-        \newcommand{\antonyme}[1]{\pcmn{ ~【反义词】~#1}}
-        \newcommand{\confer}[1]{\pcmn{ ~【参考】~\pnru{#1}}}
-        \newcommand{\loanword}[1]{\pcmn{ ~【借词】~#1}}
-        \newcommand{\étymologie}[1]{\pcmn{ ~【词源】~#1}}
-        \newcommand{\use}[1]{\pcmn{ ~【用法】#1 }}
+        \newcommand{\synonyme}[1]{\pcmn{~【同义词】~\pnru{#1}}}
+        \newcommand{\antonyme}[1]{\pcmn{~【反义词】~\pnru{#1}}}
+        \newcommand{\confer}[1]{\pcmn{~【参考】~\pnru{#1}}}
+        \newcommand{\loanword}[1]{\pcmn{~【借词】~#1}}
+        \newcommand{\étymologie}[1]{\pcmn{~【词源】~#1}}
+        \newcommand{\use}[1]{\pcmn{~【用法】#1}}
         \newcommand{\grammar}[1]{\textsc{#1}}
         \newcommand{\stylefv}[1]{\pnru{#1}}
         \newcommand{\stylefn}[1]{\pcmn{#1}}
@@ -88,6 +94,7 @@
         <xsl:text>&#xd;</xsl:text>
         \begin{document}
         �introduction
+        \setlength{\parindent}{0pt}
         \begin{multicols}{2}
         \lhead{\firstmark}
         \rhead{\botmark}
@@ -98,8 +105,8 @@
 
     <xsl:template match="Lexicon">
         <xsl:for-each select="LexicalEntry">
-            <xsl:variable name="caractère" select="substring(translate(Lemma/feat[@att='lexeme']/@val, '_^-‐‑', ''), 1, 1)"/>
-            <xsl:if test="$caractère != substring(translate(preceding-sibling::LexicalEntry[1]/Lemma/feat[@att='lexeme']/@val, '_^-‐‑', ''), 1, 1)">
+            <xsl:variable name="caractère" select="substring(translate(Lemma/feat[@att='lexeme']/@val, '_^-‐‑*=', ''), 1, 1)"/>
+            <xsl:if test="$caractère != substring(translate(preceding-sibling::LexicalEntry[1]/Lemma/feat[@att='lexeme']/@val, '_^-‐‑*=', ''), 1, 1)">
                 <xsl:text>\newpage</xsl:text>
                 <xsl:text>\caractère{</xsl:text>
                 <xsl:value-of select="$caractère"/>
@@ -119,19 +126,15 @@
     </xsl:template>
 
     <xsl:template match="Lemma">
-        <xsl:text>\vedette{\hypertarget{</xsl:text>
-        <xsl:value-of select="ancestor::LexicalEntry/@id"/>
-        <xsl:text>}{\pnru{</xsl:text>
+        <xsl:text>{</xsl:text>
         <xsl:value-of select="feat[@att='lexeme']/@val"/>
-        <xsl:text>}}}</xsl:text>
-        <xsl:text>\markboth{</xsl:text>
-        <xsl:value-of select="feat[@att='lexeme']/@val"/>
-        <xsl:text>}{}</xsl:text>
-        <xsl:if test="ancestor::LexicalEntry/feat[@att='homonymeNumber']">
-            <xsl:text>\homonyme{</xsl:text>
-            <xsl:value-of select="ancestor::LexicalEntry/feat[@att='homonymeNumber']/@val"/>
-            <xsl:text>}</xsl:text>
+        <xsl:text>}{</xsl:text>
+        <xsl:if test="../feat[@att='homonymeNumber']">
+            <xsl:value-of select="translate(../feat[@att='homonymeNumber']/@val, $nombres, $indices)"/>
         </xsl:if>
+        <xsl:text>}{</xsl:text>
+        <xsl:value-of select="../@id"/>
+        <xsl:text>}</xsl:text>
         <xsl:if test="FormRepresentation[feat[@att='surfacePhoneticForm']]">
             <xsl:text>\formesurface{</xsl:text>
             <xsl:value-of select="FormRepresentation/feat[@att='surfacePhoneticForm']/@val"/>
@@ -175,11 +178,11 @@
 
     <xsl:template match="Sense">
         <xsl:text>&#10;</xsl:text>
-            <xsl:if test="feat[@att='senseNumber' and @val!='0']">
-                <xsl:text>\acception{</xsl:text>
-                <xsl:value-of select="feat[@att='senseNumber' and @val!='0']/@val"/>
-                <xsl:text>}</xsl:text>
-            </xsl:if>
+        <xsl:if test="feat[@att='senseNumber' and @val!='0']">
+            <xsl:text>\acception{</xsl:text>
+            <xsl:value-of select="feat[@att='senseNumber' and @val!='0']/@val"/>
+            <xsl:text>}</xsl:text>
+        </xsl:if>
         <xsl:apply-templates select="Definition"/>
         <xsl:apply-templates select="Context"/>
         <xsl:apply-templates select="SenseRelation"/>
@@ -314,7 +317,7 @@
                 <xsl:text>p</xsl:text>
             </xsl:otherwise>
         </xsl:choose>
-        <xsl:text> : </xsl:text>
+        <xsl:text>\pcmn{ : }</xsl:text>
         <xsl:text>\pnru{</xsl:text>
         <xsl:value-of select="FormRepresentation/feat[@att='writtenForm']/@val"/>
         <xsl:text>}</xsl:text>
@@ -328,7 +331,7 @@
         <xsl:call-template name="traduction">
             <xsl:with-param name="expression" select="feat[@att='name']/@val"/>
         </xsl:call-template>
-        <xsl:text> ：} \p</xsl:text>
+        <xsl:text>：} \p</xsl:text>
         <xsl:value-of select="feat[@att='language']/@val"/>
         <xsl:text>{</xsl:text>
         <xsl:value-of select="feat[@att='paradigm']/@val"/>
@@ -338,12 +341,12 @@
 
     <xsl:template match="ParadigmComment">
         <xsl:if test="$langue=feat[@att='language']/@val">
-            <xsl:text> (\p</xsl:text>
+            <xsl:text>(\p</xsl:text>
             <xsl:value-of select="feat[@att='language']/@val"/>
             <xsl:text>{</xsl:text>
             <xsl:value-of select="feat[@att='comment']/@val"/>
             <xsl:text>}</xsl:text>
-            <xsl:text>) </xsl:text>
+            <xsl:text>)</xsl:text>
         </xsl:if>
     </xsl:template>
 
@@ -427,10 +430,10 @@
             <xsl:when test="$expression='classifier'">
                 <xsl:text>量词</xsl:text>
             </xsl:when>
-           <xsl:when test="$expression='PHONO'">
+            <xsl:when test="$expression='PHONO'">
                 <xsl:text>音系资料</xsl:text>
             </xsl:when>
-           <xsl:when test="$expression='PROVERBE'">
+            <xsl:when test="$expression='PROVERBE'">
                 <xsl:text>谚语</xsl:text>
             </xsl:when>
             <xsl:when test="$expression='archaic'">

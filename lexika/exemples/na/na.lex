@@ -138,13 +138,13 @@
 \xc PHONO
 \dt 25/Aug/2015
 
-\lx æ̃˩₁
+\lx æ̃˩α
 \ph aen
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> nasalité vérifiée en 2014
-\ton L₁
+\ton Lα
 \lc æ̃˩˥
 \so <print="n"> F4
 \de Classifier for fires.
@@ -159,7 +159,7 @@
 \xf ce feu (ton: H# / H$)
 \dt 26/Aug/2015
 
-\lx æ̃˩₁
+\lx æ̃˩α
 \hm 1
 \ph aenq
 \ps v
@@ -167,7 +167,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> nasalité: vérifié en août 2014
 \nt <type="sem"> Ce morphème apparaît dans ‘miroir': une toiture ou cloison bien étanche ‘renvoie l'eau' de même que le miroir renvoie la lumière.
-\ton L₁
+\ton Lα
 \lc æ̃˩˥
 \so <print="n"> F4
 \de To reflect (a mirror reflects light).
@@ -178,7 +178,7 @@
 \gf renvoyer
 \dt 03/Sep/2015
 
-\lx æ̃˩₁
+\lx æ̃˩α
 \hm 2
 \ph aenq
 \ps v
@@ -187,7 +187,7 @@
 \nt <type="hist" print="n"> est bien différent de /w̃æ/ ‘gonfler'
 \nt <type="hist" print="n"> nasalité: vérifié en août 2014
 \np La syllabe est la même que “réfléchir/refléter": phonétiquement nasalisée. Je l'avais d'abord notée [æ̃], puis corrigée en [æ], jugeant cette notation économique, en l'absence d'oppositions phonémiques entre [æ̃] et [æ]. En août 2014, rétablis une notation phonétique: [æ̃].
-\ton L₁
+\ton Lα
 \lc æ̃˩˥
 \so <print="n"> F4
 \de To get stuck.
@@ -365,7 +365,7 @@
 \sd <langue="fra"> interjection
 \sd <langue="eng"> interjection
 \nt <type="hist" print="n"> nasalité: vérifié en août 2014
-\ton °L
+\ton --L
 \so <print="n"> F4
 \de Cry of defiance or provocation. It can also express triumph and exultation.
 \ge |fg{intj_défiance}
@@ -1633,7 +1633,7 @@
 \gf |fg{affirm}
 \dt 25/Aug/2015
 
-\lx bæ˩₁
+\lx bæ˩α
 \sf <nb="B"> 1476
 \sf <nb="2011"> 1573
 \hm 1
@@ -1642,7 +1642,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> ton 3a
-\ton L₁
+\ton Lα
 \lc bæ˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -1684,7 +1684,7 @@
 \xc PHONO
 \dt 26/Aug/2015
 
-\lx bæ˩₁
+\lx bæ˩α
 \sf <nb="B"> 1254
 \sf <nb="2011"> 1798
 \hm 2
@@ -1693,7 +1693,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (d'abord noté bæ˧bæ˩ bæ˥ ze˧)
-\ton L₁
+\ton Lα
 \lc bæ˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -1710,7 +1710,7 @@
 \xf La fleur a fleuri.
 \dt 26/Aug/2015
 
-\lx bæ˩₁
+\lx bæ˩α
 \sf <nb="B"> 1363
 \sf <nb="2011"> 1245
 \hm 3
@@ -1719,7 +1719,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="sem"> CL des fleurs
-\ton L₁
+\ton Lα
 \lc bæ˩˥
 \so <print="n"> F4
 \de Self-classifier for flowers.
@@ -1734,12 +1734,12 @@
 \xf |fg{dem} _ (ton: H# / H$)
 \dt 26/Aug/2015
 
-\lx bæ˧₁
+\lx bæ˧α
 \ph bbae
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton M₁
+\ton Mα
 \lc bæ˧
 \so <print="n"> F4
 \de Classifier for sorts of things; used in statements of identity: “it is the same".
@@ -2386,7 +2386,7 @@
 \xf ne pas oser faire
 \dt 26/Aug/2015
 
-\lx ‑bi˧₁
+\lx ‑bi˧α
 \sf <nb="2011"> 3368
 \ph bbi
 \ps suff
@@ -2520,13 +2520,13 @@
 \xf On dirait qu'il y a une coulée de boue / un glissement de terrain sur la montagne!
 \dt 26/Aug/2015
 
-\lx bi˩₃
+\lx bi˩γ
 \ph bbi
 \ps clf
 \lc bi˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton L₃
+\ton Lγ
 \so <print="n"> F4
 \de Self-classifier for animal hooves; also used for footprints.
 \ge |fg{clf.hooves}
@@ -2536,7 +2536,7 @@
 \gf |fg{clf.sabots}
 \dt 27/Aug/2015
 
-\lx bi˧₃
+\lx bi˧γ
 \sf <nb="B"> 1756
 \sf <nb="2011"> 2582
 \hm 1
@@ -2547,7 +2547,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (noté le˥bi˩ze˩ avant 09; confirmé à nouveau en mai 2008 et en 2009)
 \np irrégulier: comme un ton 3 dans le cadre “accompli" (premier cadre): le˧-bi˩-ze˩, comme un ton 1 dans tous les autres cadres
-\ton M₃
+\ton Mγ
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -3107,7 +3107,7 @@
 \xf apprendre la langue prinmi
 \dt 26/Aug/2015
 
-\lx bo˩₁
+\lx bo˩α
 \sf <nb="B"> 1678
 \sf <nb="2011"> 2579
 \ph bboq
@@ -3115,7 +3115,7 @@
 \lc bo˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \de To kiss.
@@ -3134,14 +3134,14 @@
 \xf |fg{délimitatif} _ |fg{red} |fg{inchoatif}
 \dt 26/Aug/2015
 
-\lx bɤ˩₁
+\lx bɤ˩α
 \hm 1
 \ph bbe
 \ps clf
 \lc bɤ˩˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \de Classifier for corncobs.
 \ge |fg{clf.corncobs}
@@ -3159,14 +3159,14 @@
 \xf |fg{dem} _ (ton: H# / H$)
 \dt 26/Aug/2015
 
-\lx bɤ˩₁
+\lx bɤ˩α
 \hm 2
 \ph bbe
 \ps clf
 \lc bɤ˩˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \de Classifier for halves.
 \ge |fg{clf.half}
@@ -3196,13 +3196,13 @@
 \xf Houlàà! (Que c'est loin!) Il reste encore la moitié du chemin (à parcourir)!
 \dt 26/Aug/2015
 
-\lx bɤ˧˥₁
+\lx bɤ˧˥α
 \ph bbe
 \ps clf
 \lc bɤ˩˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton MH₁
+\ton MHα
 \so <print="n"> F4
 \de Classifier for scarves.
 \ge |fg{clf.scarves}
@@ -3212,13 +3212,13 @@
 \gf |fg{clf.fichus}
 \dt 26/Aug/2015
 
-\lx bo˩₂
+\lx bo˩β
 \ph bbo
 \ps clf
 \lc bo˧˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton L₂
+\ton Lβ
 \np <langue="eng"> Among classifiers belonging to the tone category Lb, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
 \np <langue="fra"> Parmi les classificateurs de catégorie tonale Lb, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
 \so <print="n"> F4
@@ -3230,7 +3230,7 @@
 \gf |fg{clf.coiffes}
 \dt 26/Aug/2015
 
-\lx bo˧₂
+\lx bo˧β
 \ph bbo
 \ps v
 \lc bo˩˥
@@ -3238,7 +3238,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="sem"> cf récit “travaux" zzzzts préciser le sens
-\ton M₂
+\ton Mβ
 \so <print="n"> F4
 \de To spin.
 \ge to_spin
@@ -4014,7 +4014,7 @@
 \sd <langue="eng"> animal
 \ton LM+#H
 \so <print="n"> F4
-\de “Piggy-Sow": a term used as a temporary name for little girls, during the first months of their life, before they are given a real name. This ugly term is intended to disgust evil spirits, which will therefore turn their attention away from the infant. (In the early 21st century, the registry office requires a name to be given at birth; but this name only begins to be used by the family after the first months of life have elapsed.).
+\de “Piggy-Sow": a term used as a temporary name for little girls, during the first months of their life, before they are given a real name. This ugly term is intended to disgust evil spirits, which will therefore turn their attention away from the infant. (In the early 21st century, the registry office requires a name to be given at birth; but this name only begins to be used by the family after the first months of life have elapsed.)
 \ge Piggy_Sow
 \dn 猪崽子（给刚出生的女孩起的名字，让鬼对她不感兴趣，不会来害小孩）
 \gn 猪崽子
@@ -4318,7 +4318,7 @@
 \gf |fg{poss}
 \dt 06/Oct/2015
 
-\lx bv̩˩₁
+\lx bv̩˩α
 \sf <nb="B"> 1270
 \sf <nb="2011"> 1830
 \hm 1
@@ -4328,7 +4328,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (tv)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -4344,7 +4344,7 @@
 \xf La poule couve.
 \dt 27/Aug/2015
 
-\lx bv̩˩₁
+\lx bv̩˩α
 \sf <nb="B"> 1506
 \sf <nb="2011"> 2217
 \hm 2
@@ -4354,7 +4354,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (avant 09: noté: le˥bv̩˩ze˩) (hɑ˧bv̩˥bv̩˩: en 2006, noté ˧˥˧, par erreur)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -4379,14 +4379,14 @@
 \xf cuire du riz à la vapeur
 \dt 27/Aug/2015
 
-\lx bv̩˩₁
+\lx bv̩˩α
 \hm 3
 \ph bbuq
 \ps v
 \lc bv̩˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \de To live (one's life).
 \ge to_live
@@ -4416,7 +4416,7 @@
 \xf Les journées passent bien vite! / Comme le temps passe!
 \dt 27/Aug/2015
 
-\lx bv̩˩₁
+\lx bv̩˩α
 \sf <nb="B"> 1449
 \sf <nb="2011"> 2108
 \hm 4
@@ -4429,7 +4429,7 @@
 \nt <type="hist" print="n"> (vérifié: n'est pas /pv/)
 \nt <type="hist" print="n"> attention: vérifié: est bv et non pv.(a) dʑi˩bv̩˩˥ (et non dʑi˧pv̩˩˥) (répandre de l'eau) (d'abord noté bv̩˩˥) (b) les vêtements ont été mouillés/aspergés: dzɯ˩˥ tʰi˩˥ bv̩˩˥ (ex. bɑ˧lɑ˥ dzɯ˩˥ tʰi˩˥ bv̩˩˥)
 \np (phonétiquement: læ˧-bv̩˩-ze˩)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
@@ -4461,7 +4461,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (vérifié: n'est pas /pv/)
 \nt <type="hist" print="n"> attention: vérifié: est bv et non pv.(a) dʑi˩bv̩˩˥ (et non dʑi˧pv̩˩˥) (répandre de l'eau) (d'abord noté bv̩˩˥) (b) les vêtements ont été mouillés/aspergés: dzɯ˩˥ tʰi˩˥ bv̩˩˥ (ex. bɑ˧lɑ˥ dzɯ˩˥ tʰi˩˥ bv̩˩˥)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
@@ -4485,7 +4485,7 @@
 \xf Sème!
 \dt 27/Aug/2015
 
-\lx bv̩˩₁
+\lx bv̩˩α
 \sf <nb="B"> 942
 \sf <nb="B"> 371
 \sf <nb="2011"> 1368
@@ -4496,7 +4496,7 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n"> donne: /ʁu˧bv̩˧zo˧/ “un homme chauve" (ts pense que cette expression n'est pas bonne) (confirmé: la première syllabe est la même que dans “tête") (historique: faux “ton d9": cet exemple avait amené à poser, par erreur, une catégorie tonale, d9, car sa première syllabe est au ton ˧ en forme de citation et non au ton ˩; en fait ce n'est pas un nom mais un composé contenant un sujet et un prédicat; d'abord analysé comme: bv̩˧˥, avec comme sens: qui est à nu, 光; mais selon M23 bv̩˩˧ signifie: qui n'est pas bien dense, qui est dispersé/fin; cf “disperser", /bv/, ton 3
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> o˧pv̩˩
@@ -5315,7 +5315,7 @@
 \gf riz
 \dt 27/Aug/2015
 
-\lx ɕi˥₁
+\lx ɕi˥α
 \sf <nb="B"> 838
 \sf <nb="2011"> 1235
 \ph xie (XXNB)
@@ -5324,7 +5324,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> (initiale confirmée, n'est pas /hi/) corrigé en août 2011: auparavant noté ɖɯ˧-ɕi˧
-\ton H₁
+\ton Hα
 \so <print="n"> F4
 \va <speaker="F5"> ɖɯ˧hi˧
 \va <speaker="M18"> ɖɯ˧ hi˧
@@ -5354,14 +5354,14 @@
 \xf cent ans (formulation abrégée)
 \dt 27/Aug/2015
 
-\lx ɕi˥₂
+\lx ɕi˥β
 \sf <nb="2011"> 1289
 \ph xie
 \ps clf
 \lc ɕi˧
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton H₂
+\ton Hβ
 \so <print="n"> F4
 \de One hundredth of a yuan, one penny.
 \ge |fg{clf.pennies}
@@ -5870,11 +5870,11 @@
 \xf Vous m'avez maltraité!
 \dt 27/Aug/2015
 
-\lx ɕɯ˩₁
+\lx ɕɯ˩α
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \lc ɕɯ˩˥
 \so <print="n"> F4
 \de To raise.
@@ -6090,7 +6090,7 @@
 \gf court
 \dt 27/Aug/2015
 
-\lx ɖæ˩₁
+\lx ɖæ˩α
 \sf <nb="B"> 1235
 \sf <nb="B"> 1609
 \sf <nb="2011"> 1772
@@ -6100,7 +6100,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (confirmé en 2012: est un ton L)
 \np dʑi˧ ɖɯ˧-kʰɯ˩ ɖæ˩: en variation libre avec …ɖæ˩˥
-\ton L₁
+\ton Lα
 \lc ɖæ˩˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
@@ -6120,7 +6120,7 @@
 \xf idem
 \dt 27/Aug/2015
 
-\lx ɖæ˩₁
+\lx ɖæ˩α
 \sf <nb="B"> 852
 \sf <nb="B"> 855
 \sf <nb="2011"> 1278
@@ -6129,7 +6129,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> (d'abord noté ˩˧˧˩; en fait: conforme à la forme de citation: ʐɤ˩mi˩˧) (d'abord noté ɖɤ˩, par erreur) (confirmé en mai 2008: est /ʐɤ/ et non /ʐe/) (confirmé en mai 2008: n'est pas: ʈæ˩, qui était la première notation)
-\ton L₁
+\ton Lα
 \lc ɖæ˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -6157,7 +6157,7 @@
 \xf |fg{dem} _ (ton: H# / H$)
 \dt 27/Aug/2015
 
-\lx dɑ˩₂
+\lx dɑ˩β
 \sf <nb="B"> 1631
 \sf <nb="2011"> 2443
 \ph ddaq
@@ -6165,7 +6165,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (avant 09: noté: “ɯ˥dɑ˧; tons confirmés, n'est pas ˧˩")
-\ton L₂
+\ton Lβ
 \lc dɑ˩˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
@@ -6195,13 +6195,13 @@
 \xc PHONO
 \dt 27/Aug/2015
 
-\lx dɑ˧˥₂
+\lx dɑ˧˥β
 \ph dda
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="sem"> auto-classificateur du verbe dɑ˧˥ “abattre"
-\ton MH₂
+\ton MHβ
 \lc dɑ˧˥
 \so <print="n"> F4
 \de Self-classifier for blows.
@@ -6699,7 +6699,7 @@
 \xf avoir la diarrhée
 \dt 27/Aug/2015
 
-\lx di˩₁
+\lx di˩α
 \sf <nb="B"> 1776c
 \sf <nb="2011"> 3386
 \ph ddiq
@@ -6707,7 +6707,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \lc di˩˥
 \so <print="n"> F4
 \de Existential verb: to have (a home); to have dirt on one's clothes; to have a different in length (two objects have a difference in length).
@@ -6731,12 +6731,12 @@
 \xc PHONO
 \dt 27/Aug/2015
 
-\lx di˩₃
+\lx di˩γ
 \ph ddi
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton L₃
+\ton Lγ
 \lc di˩˥
 \so <print="n"> F4
 \de Self-classifier for plains, and places.
@@ -7029,7 +7029,7 @@
 \xc <type="hist" print="n" langue="fra">Avant août 2014: interprété par erreur comme signifiant littéralement “le verrat va voir la truie"; en fait, c'est un verbe distinct.
 \dt 27/Aug/2015
 
-\lx ɖo˧₁
+\lx ɖo˧α
 \sf <nb="B"> 1436
 \sf <nb="2011"> 2092
 \ph ddeo
@@ -7097,12 +7097,12 @@
 \xf Elle sait ramper! (Au sujet d'un bébé qui se déplace en rampant.)
 \dt 27/Aug/2015
 
-\lx do˥₁
+\lx do˥α
 \ph ddo
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton H₁
+\ton Hα
 \lc do˧
 \so <print="n"> F4
 \de Classifier for partitions/walls.
@@ -7118,14 +7118,14 @@
 \xc <langue="fra"> ton: #H
 \dt 27/Aug/2015
 
-\lx ɖɤ˩₁
+\lx ɖɤ˩α
 \sf <nb="B"> 1022
 \sf <nb="2011"> 1449
 \ph ddeq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\ton L₁
+\ton Lα
 \lc ɖɤ˩˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
@@ -7146,14 +7146,14 @@
 \xc PHONO
 \dt 27/Aug/2015
 
-\lx do˩₂
+\lx do˩β
 \sf <nb="B"> 1382
 \sf <nb="2011"> 1963
 \ph ddoq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₂
+\ton Lβ
 \lc do˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -7442,7 +7442,7 @@
 \gf un
 \dt 27/Aug/2015
 
-\lx ɖɯ˩₁
+\lx ɖɯ˩α
 \sf <nb="B"> 1783
 \sf <nb="B"> 1243
 \sf <nb="2011"> 2623
@@ -7450,7 +7450,7 @@
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\ton L₁
+\ton Lα
 \lc ɖɯ˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.; dit: ə˧pɑ˥ɖɯ˩-gv̩˩
@@ -7482,7 +7482,7 @@
 \xf très grand
 \dt 27/Aug/2015
 
-\lx ɖɯ˧₂
+\lx ɖɯ˧β
 \sf <nb="B"> 1707
 \sf <nb="2011"> 2554
 \ph ddee
@@ -7490,7 +7490,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (négation: mɤ˧-ɖɯ˧)
-\ton M₂
+\ton Mβ
 \lc ɖɯ˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -7779,7 +7779,7 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="hist" print="n"> (cf récit 1 F4)
-\ton L₁
+\ton Lα
 \lc xxxx non-correspondance entre le nombre de morphèmes et le nombre de tons de morphèmes
 \so <print="n"> F4
 \de Some, a few. Made up of ‘one' and ‘three'.
@@ -8000,7 +8000,7 @@
 \gf ailes(monosyll.)
 \dt 27/Aug/2015
 
-\lx dv̩˩₁
+\lx dv̩˩α
 \sf <nb="2011"> 2258
 \sf <nb="B"> 1098
 \sf <nb="B"> 1667
@@ -8011,7 +8011,7 @@
 \cf dv̩˩˧2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \lc dv̩˩˥
 \so <print="n"> F4
 \va <speaker="M23"> tv̩˩˧, ton 3
@@ -8033,7 +8033,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M23"> ID.
@@ -8056,14 +8056,14 @@
 \xf détester à mort
 \dt 27/Aug/2015
 
-\lx dv̩˩₂
+\lx dv̩˩β
 \sf <nb="2011"> 1364
 \ph ddu
 \ps clf
 \lc dv̩˩˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton L₂
+\ton Lβ
 \np <langue="eng"> Among classifiers belonging to the tone category Lb, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
 \np <langue="fra"> Parmi les classificateurs de catégorie tonale Lb, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
 \so <print="n"> F4
@@ -8321,7 +8321,7 @@
 \gf réserve_d_eau
 \dt 27/Aug/2015
 
-\lx ɖwæ˩₁
+\lx ɖwæ˩α
 \sf <nb="B"> 1299
 \sf <nb="B"> 1078
 \sf <nb="2011"> 1853
@@ -8331,7 +8331,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (lə˧ɖwæ˩ze˩; phonétiquement: læ˧…)(confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -8351,13 +8351,13 @@
 \xf J'ai très peur de lui!
 \dt 27/Aug/2015
 
-\lx ɖwæ˥₁
+\lx ɖwæ˥α
 \ph dduae
 \ps clf
 \lc ɖwæ˩˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton H₁
+\ton Hα
 \so <print="n"> F4
 \de Classifier for steps (of stairs).
 \ge |fg{clf.steps_of_stairs}
@@ -8466,7 +8466,7 @@
 \xf C'est vraiment la honte/on paraît vraiment à la rue! (Au sujet de situations stigmatisées socialement, comme de ne pas posséder les nourritures ou vêtement nécessaires aux principaux rituels.)
 \dt 27/Aug/2015
 
-\lx ɖʐæ˩₁
+\lx ɖʐæ˩α
 \sf <nb="B"> 1470
 \sf <nb="2011"> 2157
 \ph zzhaeq
@@ -8475,7 +8475,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (læ˧ɖʐæ˩ze˩)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -8495,7 +8495,7 @@
 \xf La glace a fondu.
 \dt 27/Aug/2015
 
-\lx ɖʐæ˧₂
+\lx ɖʐæ˧β
 \sf <nb="B"> 1458
 \sf <nb="2011"> 2119
 \ph zzhae
@@ -8503,7 +8503,7 @@
 \lc ɖʐæ˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton M₂
+\ton Mβ
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -8712,7 +8712,7 @@
 \gf argent
 \dt 27/Aug/2015
 
-\lx dze˩₁
+\lx dze˩α
 \sf <nb="B"> 851
 \sf <nb="2011"> 1274
 \ph zzei
@@ -8721,7 +8721,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="sem"> Ce concept est important pour les Na, car les objets usuels doivent être achetés par paires, faute de quoi ils risquent de casser. On n'achète (et n'offre) pas un bol, ou une casserole, ou un couteau, mais des paires: 2, 4, 6, 8, 10… Tous les nombres impairs porteraient malheur.
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \de Classifier for pairs of separable objects: a pair of pots, a pair of bottles….
@@ -8740,7 +8740,7 @@
 \xf |fg{dem} _ (ton: H# / H$)
 \dt 27/Aug/2015
 
-\lx dze˩₁
+\lx dze˩α
 \sf <nb="B"> 1262
 \sf <nb="2011"> 1819
 \hm 1
@@ -8750,7 +8750,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> lə˧dze˩hɯ˩ze˩ “…est parti à tire-d'aile" (confirmé: tons et voisement); mv̩˧ʁu˧dze˧˥ “voler ds le ciel" (confirmé en 09)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> li˧dzi˩ zi˩
@@ -8771,7 +8771,7 @@
 \xf voler dans le ciel
 \dt 27/Aug/2015
 
-\lx dze˩₁
+\lx dze˩α
 \sf <nb="B"> 1527
 \sf <nb="2011"> 1929
 \hm 2
@@ -8781,7 +8781,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> v̩˩tsʰɤ˧dze˧dze˥: schéma tonal confirmé; avais d'abord noté ˩˩˥˧˥; nv̩˩dʑi˧dze˩dze˩: historique de la notation: en 2006; ˧˥˩˩, confirmé; début 2007: veux aligner sur le schéma général dégagé, que je pense être ˧˥˧˩; fin 2007: comprends que le schéma général est ˧˥˩˩, et que cet item aussi a bien le schéma ˧ ˥ ˩ ˩.(confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> cf plus haut
@@ -9339,7 +9339,7 @@
 \lc dzi˩˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton L₃
+\ton Lγ
 \so <print="n"> F4
 \de Classifier for entire dresses.
 \ge |fg{clf.costumes}
@@ -9499,7 +9499,7 @@
 \xf le vêtement des Chinois (Han)
 \dt 27/Aug/2015
 
-\lx dzi˩₁
+\lx dzi˩α
 \sf <nb="B"> 1647
 \sf <nb="2011"> 2458
 \hm 1
@@ -9510,7 +9510,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> avant 09: noté /dzɯ/, par erreur; et noté: /hĩ˧ bæ˧ ʈʰɯ˧ ko˥ dzɯ˧/; premières notes: hĩ˥ bæ˥) (en 2006, noté un contraste tonal entre : « tʰe˧dzɯ˩ : être assis ; tʰi˥ dzɯ˩ ! asseyez-vous ! » ; mais ce sont les mêmes syllabes et les mêmes tons, modulo l’intonation)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -9539,7 +9539,7 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -9564,14 +9564,14 @@
 \xf Je ne me fais pas à ici! / Je ne suis pas bien ici! (Paraphrase proposée par M23: «Je ne veux pas rester ici!»)
 \dt 27/Aug/2015
 
-\lx dzi˩₁
+\lx dzi˩α
 \hm 2
 \ph zzeeq
 \ps v
 \lc dzi˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \de To gather, to assemble (people gather together).
 \ge to_gather
@@ -9589,7 +9589,7 @@
 \xf Quelqu'un est mort! Venez participer à la réunion/au rassemblement!
 \dt 27/Aug/2015
 
-\lx dzi˩₁
+\lx dzi˩α
 \sf <nb="B"> 1571
 \sf <nb="2011"> 2538
 \hm 3
@@ -9599,7 +9599,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (confirmé; vérifié en 09: n'est pas /dzɯ/)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -9615,7 +9615,7 @@
 \xf |fg{directionnel} _ ; même sens: sombrer, couler
 \dt 27/Aug/2015
 
-\lx dzi˩₂
+\lx dzi˩β
 \sf <nb="B"> 846a
 \sf <nb="B"> 846c
 \sf <nb="B"> 2184
@@ -9627,7 +9627,7 @@
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> (comportement tonal: identique au type /kʰɯ˩/: cl des cordes) (rime de /dzɯ/: vérifié en 09: est homophone de “s'asseoir", et est différent de “manger")
 \nt <type="sem"> CL des arbres
-\ton L₂
+\ton Lβ
 \np <langue="eng"> Among classifiers belonging to the tone category Lb, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
 \np <langue="fra"> Parmi les classificateurs de catégorie tonale Lb, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
 \so <print="n"> F4
@@ -9649,7 +9649,7 @@
 \xf cet arbre
 \dt 27/Aug/2015
 
-\lx dzi˧₂
+\lx dzi˧β
 \sf <nb="B"> 2192
 \sf <nb="2011"> 1275
 \ph zzee
@@ -9658,7 +9658,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> (corrigé en 09; auparavant, noté /dzɯ˧/, par erreur)
-\ton M₂
+\ton Mβ
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -10209,7 +10209,7 @@
 \xf |fg{red}
 \dt 27/Aug/2015
 
-\lx dzɤ˩₁
+\lx dzɤ˩α
 \sf <nb="B"> 1684
 \sf <nb="B"> 1702
 \sf <nb="2011"> 2503
@@ -10218,7 +10218,7 @@
 \lc dzɤ˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -10239,13 +10239,13 @@
 \xf |fg{accomp} _ |fg{pfv}
 \dt 27/Aug/2015
 
-\lx ɖʐo˥₁
+\lx ɖʐo˥α
 \ph zzho
 \ps clf
 \lc ɖʐo˩˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton H₁
+\ton Hα
 \so <print="n"> F4
 \de Classifier for beams (in carpentry).
 \ge |fg{clf.beams}
@@ -10255,13 +10255,13 @@
 \gf |fg{clf.poutres}
 \dt 27/Aug/2015
 
-\lx dzɤ˥₂
+\lx dzɤ˥β
 \ph zze
 \ps clf
 \lc dzɤ˧
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton H₂
+\ton Hβ
 \so <print="n"> F4
 \de Classifier for sides.
 \ge |fg{clf.sides}
@@ -10279,7 +10279,7 @@
 \xf un côté
 \dt 27/Aug/2015
 
-\lx dʑo˩₂
+\lx dʑo˩β
 \sf <nb="B"> 1776b
 \sf <nb="2011"> 3388
 \ph jjo
@@ -10288,7 +10288,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="sem"> confirmé en 2011: l'existentiel est distinct du verbe de possession. Existentiel pour hommes ou animaux: quelqu'un est présent (ex.: aux toilettes: “il y a quelqu'un!"); “il y a combien de personnes dans ta famille?"
-\ton L₂
+\ton Lβ
 \so <print="n"> F4
 \de Existential: there is someone in the toilets/at home; there are n people in the family.
 \ge |fg{exist.animated_beings}
@@ -10306,7 +10306,7 @@
 \xf Il/elle n'est pas à la maison!
 \dt 27/Aug/2015
 
-\lx dʑo˧₂
+\lx dʑo˧β
 \sf <nb="B"> 1776
 \sf <nb="2011"> 3385
 \ph jjo
@@ -10314,7 +10314,7 @@
 \lc dʑo˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton M₂
+\ton Mβ
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \de To possess.
@@ -10359,7 +10359,7 @@
 \xf Il y en a des quantités! (ex.: au sujet du bois de construction qu'on prépare en vue de la construction d'une maison)
 \dt 27/Aug/2015
 
-\lx dʑɤ˩₂
+\lx dʑɤ˩β
 \sf <nb="B"> 1010a
 \sf <nb="B"> 1011
 \sf <nb="2011"> 1436
@@ -10368,7 +10368,7 @@
 \lc dʑɤ˧
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\ton L₂
+\ton Lβ
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -10404,7 +10404,7 @@
 \xc Cette formulation n'est pas à proprement dite un adage, mais la locutrice la voit comme solidaire des proverbes du temps jadis: reflétant la même vision claire de la vie, distinguant bonnes actions et mauvaises actions.
 \dt 29/Jul/2016
 
-\lx ɖʐo˩₂
+\lx ɖʐo˩β
 \sf <nb="B"> 1526
 \sf <nb="2011"> 2237
 \ph zzhoq
@@ -10413,7 +10413,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (vérifié en 09 avais auparavant noté /ɖʐu˧ɭɯ˧…/, par erreur)
-\ton L₂
+\ton Lβ
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -11202,7 +11202,7 @@
 \xf l'heure du déjeuner
 \dt 27/Aug/2015
 
-\lx ‑dʑɯ˧₁
+\lx ‑dʑɯ˧α
 \ph jji
 \ps suff
 \lc dʑɯ˧
@@ -11267,7 +11267,7 @@
 \gf marché
 \dt 27/Aug/2015
 
-\lx dʑɯ˩₁
+\lx dʑɯ˩α
 \sf <nb="B"> 1427
 \sf <nb="2011"> 2061
 \ph zziq
@@ -11278,7 +11278,7 @@
 \nt <type="hist" print="n" langue="fra"> avant 2012: noté /dʑi˩˧/ ; réécoute: paraît être /dʑi/ et pas /dʑɯ/; mais vérifié en avril 2012: est bien /dʑɯ/.
 \nt <type="hist" print="n" langue="fra"> ton L confirmé en 2012
 \np on peut aussi utiliser 1426
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -11308,14 +11308,14 @@
 \xc PHONO
 \dt 27/Aug/2015
 
-\lx ɖʐɯ˥₁
+\lx ɖʐɯ˥α
 \ph zzhi
 \ps clf
 \lc ɖʐɯ˩˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> avant juillet 2012: noté comme classificateur au ton Lc
-\ton H₁
+\ton Hα
 \so <print="n"> F4
 \de Self-classifier for marketplaces/towns.
 \ge |fg{clf.markets}
@@ -12869,7 +12869,7 @@
 \xf les champignons se multiplient
 \dt 27/Aug/2015
 
-\lx ɖʐv̩˩₁
+\lx ɖʐv̩˩α
 \sf <nb="B"> 1017b
 \sf <nb="2011"> 2481
 \hm 1
@@ -12879,7 +12879,7 @@
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n"> (confirmé en 09)
 \np aussi pour le caractère d'une personne
-\ton L₁
+\ton Lα
 \lc ɖʐv̩˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -12900,13 +12900,13 @@
 \xf celui-là/celle-là est vraiment méchant/mauvais
 \dt 01/Sep/2015
 
-\lx ɖʐv̩˩₁
+\lx ɖʐv̩˩α
 \hm 2
 \ph zzhuq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \lc ɖʐv̩˩˥
 \so <print="n"> F4
 \de To decide, to make a decision.
@@ -12921,12 +12921,12 @@
 \xf C'est moi qui vais décider!
 \dt 27/Aug/2015
 
-\lx ɖʐv̩˧₂
+\lx ɖʐv̩˧β
 \ph zzheu
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton M₂
+\ton Mβ
 \lc ɖʐv̩˧
 \so <print="n"> F4
 \de Self-classifier for accidents.
@@ -13109,7 +13109,7 @@
 \gf houe
 \dt 27/Aug/2015
 
-\lx ɖʐwæ˩₁
+\lx ɖʐwæ˩α
 \sf <nb="B"> 1147
 \sf <nb="2011"> 2432
 \ph zzhuaeq
@@ -13118,7 +13118,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (+ze˩) (2006: noté ˩˥˥)(confirmé en 2012: est un ton L)
 \np ton 3a
-\ton L₁
+\ton Lα
 \lc ɖʐwæ˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -14933,7 +14933,7 @@
 \xf cette direction-là
 \dt 28/Aug/2015
 
-\lx fɑ˩₁
+\lx fɑ˩α
 \sf <nb="B"> 1247
 \sf <nb="2011"> 1791
 \ph faq
@@ -14943,7 +14943,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (confirmé en 2012: est un ton L)
 \np Mot na le plus proche: “se gâter, pourrir"
-\ton L₁
+\ton Lα
 \lc fɑ˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -15350,7 +15350,7 @@
 \xf devoir de l'argent
 \dt 02/Sep/2015
 
-\lx gi˩₁
+\lx gi˩α
 \sf <nb="B"> 947b
 \sf <nb="B"> 947c
 \sf <nb="2011"> 1376
@@ -15362,7 +15362,7 @@
 \nt <type="hist" print="n"> (explication de ts; confirmé par F4)
 \nt <type="sem"> /gi˩˥ | gɯ˩˥/ est la contraction de /gɯ˩-ʝi˥ | gɯ˩˥/
 \np (phonétiquement, dans gi˩˥ gɯ˩˥, la première syllabe est plus longue que la deuxième, son ton monte plus haut)
-\ton L₁
+\ton Lα
 \lc gi˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -15393,7 +15393,7 @@
 \xf vraiment, véritablement
 \dt 02/Sep/2015
 
-\lx gi˥₁
+\lx gi˥α
 \sf <nb="B"> 843
 \sf <nb="2011"> 1240
 \ph ggi
@@ -15402,7 +15402,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="sem"> on peut compter au-delà de 1
-\ton H₁
+\ton Hα
 \lc gi˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -15430,7 +15430,7 @@
 \sn 2
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton H₁
+\ton Hα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -15773,7 +15773,7 @@
 \xf C'est moi qui porte!
 \dt 02/Sep/2015
 
-\lx go˩₁
+\lx go˩α
 \sf <nb="B"> 300
 \sf <nb="2011"> 1491
 \ph ggoq
@@ -15782,7 +15782,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> ton 3b (paraît être un p3b, d'après son comportement en association avec les noms: “avoir mal à…": tableau 12 des données tonales) (si existe comme nom, serait un ton m1; mais paraît être prédicat uniquement) (avais d'abord noté: njɤ˧ gu˧ʐwæ˧˥, par erreur)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -15815,7 +15815,7 @@
 \xf avoir mal au ventre
 \dt 02/Sep/2015
 
-\lx gɤ˩₁
+\lx gɤ˩α
 \sf <nb="B"> 1420
 \sf <nb="2011"> 2416
 \hm 1
@@ -15825,7 +15825,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (avant 09: noté: /mv̩˥ le˥ gɤ˩ +ze˩)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -15842,7 +15842,7 @@
 \xf Le feu s'est éteint.
 \dt 02/Sep/2015
 
-\lx gɤ˩₁
+\lx gɤ˩α
 \sf <nb="2011"> 2125
 \hm 2
 \ph ggeq
@@ -15850,7 +15850,7 @@
 \lc gɤ˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \de To be satisfied/happy; to feel that things are fair.
 \ge satisfied
@@ -15876,7 +15876,7 @@
 \xf être mécontent, ne pas se résigner, être récalcitrant
 \dt 02/Sep/2015
 
-\lx gɤ˩₁
+\lx gɤ˩α
 \sf <nb="B"> 1299b
 \sf <nb="B"> 1300
 \sf <nb="2011"> 1854
@@ -15888,7 +15888,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (corrigé en 2007; en 2006, avais noté: no˥ hĩ˥ gɤ˩ kʰɯ˥)
 \np (même sens que 1299a, selon M23)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="M23"> ID.
 \de Startled, amazed, shocked, awestruck; terrified.
@@ -15908,14 +15908,14 @@
 \xf Tu fais peur aux gens!
 \dt 02/Sep/2015
 
-\lx gɤ˧₂
+\lx gɤ˧β
 \sf <nb="2011"> 2127
 \ph gge
 \ps v
 \lc gɤ˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton M₂
+\ton Mβ
 \so <print="n"> F4
 \de To lack something (someone lacks a certain ability).
 \ge to_lack
@@ -16507,13 +16507,13 @@
 \xf Il/elle s'entend à acheter des vêtements! / Il/elle a du talent pour acheter des vêtements!
 \dt 02/Sep/2015
 
-\lx gɯ˩₁
+\lx gɯ˩α
 \hm 1
 \ph ggeeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \lc gɯ˩˥
 \so <print="n"> F4
 \de To believe.
@@ -16528,7 +16528,7 @@
 \xf Je ne crois pas ce qu'il dit! / Je ne le crois pas! / Je ne crois pas un mot de ce qu'il raconte!
 \dt 02/Sep/2015
 
-\lx gɯ˩₁
+\lx gɯ˩α
 \sf <nb="B"> 2269
 \sf <nb="2011"> 1375
 \hm 2
@@ -16537,7 +16537,7 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n"> (gɯ˩i˧: sens vérifié en 09; avais d'abord noté /gɯ˧i˥/) (avant 09, noté: “gɯ˩wɤ˥ɻ̍˧; confirmé; d'abord noté ˩˥˩ et gɤ") (avant 09: noté gɯ˧ʂv̩˧ɖv̩˧˥, par erreur)
-\ton L₁
+\ton Lα
 \lc gɯ˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -16786,7 +16786,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \np irrégulier, comme “aller": le˧-gv̩˩-ze˩, le˧-gv̩˩-dʑɯ˩, et non *le˧-gv̩˧-ze˧
-\ton M₃
+\ton Mγ
 \lc gv̩˧
 \so <print="n"> F4
 \va <speaker="M21"> ID.
@@ -16945,7 +16945,7 @@
 \xf auge du cheval
 \dt 02/Sep/2015
 
-\lx gv̩˩₁
+\lx gv̩˩α
 \sf <nb="B"> 1457c
 \sf <nb="B"> 1135b
 \sf <nb="B"> 1501
@@ -16958,7 +16958,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (avant 09, noté: /lə˧gv̩˩lə˩tʰv̩˩ze˩/, par erreur; tv: est bien ˧ ˩ ˧ ˧ ˧) (tv)
 \np Homophone avec “bon (d'une personne)": gv̩˧ | ʐwæ˩˥!
-\ton L₁
+\ton Lα
 \lc gv̩˩˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
@@ -16984,7 +16984,7 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
@@ -17001,7 +17001,7 @@
 \sn 3
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
@@ -17021,7 +17021,7 @@
 \xf Ca y est, c'est réparé/c'est fabriqué/c'est fini!
 \dt 02/Sep/2015
 
-\lx gv̩˩₁
+\lx gv̩˩α
 \sf <nb="B"> 1132a
 \sf <nb="2011"> 1610
 \hm 2
@@ -17032,7 +17032,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (confirmé en 2012: est un ton L)
 \np monosyllabe reconstruit sur la base de la forme rédupliquée.
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \de To tidy up, to sort out.
 \ge to_tidy_up
@@ -17055,14 +17055,14 @@
 \xf ranger et bien mettre à sa place
 \dt 02/Sep/2015
 
-\lx gv̩˩₁
+\lx gv̩˩α
 \hm 3
 \ph gguq
 \ps v
 \lc gv̩˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \de To set (the sun sets), to decline.
 \ge to_set(of_sun)
@@ -17322,7 +17322,7 @@
 \gf 90
 \dt 02/Sep/2015
 
-\lx gwɤ˩₁
+\lx gwɤ˩α
 \sf <nb="B"> 1146
 \sf <nb="2011"> 1641
 \ph gguaq
@@ -17332,7 +17332,7 @@
 \sd <langue="eng"> verb
 \nt <langue="pumi" type="comp" print="n"> gwæ35
 \nt <type="hist" print="n"> tons vérifiés en 2011: auparavant, noté: ɖɯ˧-kʰwɤ˧ gwɤ˧(confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.; /gwɤ˩˧ dʑɤ˧li˥!/
@@ -17756,7 +17756,7 @@
 \xf céréales fraîches (juste après la cueillette; on en prépare des galettes particulièrement savoureuses)
 \dt 02/Sep/2015
 
-\lx hæ̃˧₁
+\lx hæ̃˧α
 \sf <nb="B"> 1598
 \sf <nb="2011"> 2386
 \ph hae XX
@@ -17766,7 +17766,7 @@
 \sd <langue="eng"> verb
 \nt <type="sem"> est le même mot que “vent"
 \np comportement tonal irrégulier: comme un ton M en isolation et dans les cadres simples des prédicats (tʰɑ˧ hæ̃˧, mɤ˧-hæ̃˧ etc) mais avec pour objet “céréale", ne se comporte pas comme M
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \va <speaker="M21"> hɑ˧lʰæ˩, ton 1
 \vf mot pour “vent"
@@ -17788,7 +17788,7 @@
 \xc <langue="fra"> expression élicitée à contrecoeur, pour distinguer la catégorie tonale. Cette expression n'est pas usuelle, mais elle est bien formée, tandis qu'il est tout à fait exclu de dire |fv{/*tso˧tso˧ hæ̃˧/}.
 \dt 02/Sep/2015
 
-\lx hæ˩₁
+\lx hæ˩α
 \sf <nb="B"> 1079
 \ph haeq
 \ps v
@@ -17796,7 +17796,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (vérifié en mai 2008: pas de nasalité sur la 2e syll.; avais noté hĩ˧ hæ̃˥, hĩ˧ hæ̃˥ zo˩ en 2007; notations 2006: hĩ˧ hæ̃˥, hĩ˧hæ̃˥zo˧)(confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -17820,7 +17820,7 @@
 \xf homme terrifiant
 \dt 02/Sep/2015
 
-\lx hɑ̃˧˥₁
+\lx hɑ̃˧˥α
 \sf <nb="B"> 719
 \sf <nb="2011"> 1090
 \ph han
@@ -17829,7 +17829,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> monosyllabe: sans doute ton m4b (corrigé en 2007; en 2006, avais noté: “hɑ˩˥", sans prêter attention à la nasalisation) (une soirée) (en 2007, F4 indique un ton ˧, sans contour: ɖɯ˧hɑ̃˧ “une soirée", ɲi˧hɑ̃˧ “deux soirées", par erreur) ɖɯ˧-hɑ̃˧ lɑ˥-dʑo˩: tons vérifiés; d'abord noté ɖɯ˧hɑ̃˧lɑ˥dʑo˧ (note erronée: première notation: ɖɯ˧˥, “un")
-\ton MH₁
+\ton MHα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -17859,14 +17859,14 @@
 \xf (Il) a tout lu en deux jours! (contexte imaginé: on offre un livre à quelqu'un; en deux jours il a tout lu)
 \dt 02/Sep/2015
 
-\lx hɑ˩₁
+\lx hɑ˩α
 \ph haq
 \ps v
 \lc hɑ˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \np (ne peut se rédupliquer)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \de To open (one's eyes).
 \ge to_open(eyes)
@@ -19256,7 +19256,7 @@
 \xf le tendon de la langue; la précision ‘de la langue' permet de lever l'ambiguïté dans les cas où il pourrait aussi s'agir de la luette, elle aussi désignée comme fv:/hi˩ʐæ˥/.
 \dt 02/Sep/2015
 
-\lx hõ˧₁
+\lx hõ˧α
 \sf <nb="B"> 2259
 \sf <nb="2011"> 2586
 \ph hun
@@ -19485,7 +19485,7 @@
 \xf (il/elle) achète (le) tout
 \dt 02/Sep/2015
 
-\lx ho˩₁
+\lx ho˩α
 \sf <nb="B"> 947
 \sf <nb="B"> 1665
 \sf <nb="2011"> 1374
@@ -19495,7 +19495,7 @@
 \lc ho˧
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
@@ -19519,7 +19519,7 @@
 \xf |fg{rel}/|fg{nmlz}
 \dt 02/Sep/2015
 
-\lx hɤ˩₁
+\lx hɤ˩α
 \sf <nb="B"> 1510
 \sf <nb="2011"> 2235
 \hm 1
@@ -19529,7 +19529,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -19564,14 +19564,14 @@
 \xc PHONO
 \dt 02/Sep/2015
 
-\lx hɤ˩₁
+\lx hɤ˩α
 \hm 2
 \ph hee
 \ps v
 \lc hɤ˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \de To go, past perfective form: has gone.
 \ge to_go.|fg{pst.}|fg{pfv}
@@ -19581,7 +19581,7 @@
 \gf partir.|fg{pst.}|fg{pfv}
 \dt 02/Sep/2015
 
-\lx hɤ˩₁
+\lx hɤ˩α
 \sf <nb="B"> 1065
 \sf <nb="2011"> 1500
 \hm 3
@@ -19591,7 +19591,7 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n"> (vérifié: n'est pas /hɯ/) (d'abord noté /hɯ˩˥/) (un temps noté comme ton MH, par erreur)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \de Appropriate, good; of person: able, good at a certain technique.
@@ -20017,7 +20017,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> le˧-hɯ˩-ze˩
 \nt <type="sem"> irrégulier au plan tonal, comme “aller" bi˧ et “se passer" gv̩˧: mɤ˧-+verbe au ton moyen; lə˧+verbe au ton bas+ze˩
-\ton M₃
+\ton Mγ
 \so <print="n"> F4
 \de To go, past form.
 \ge to_go.|fg{pst}
@@ -20035,13 +20035,13 @@
 \xf personne décédée; littéralement «personne qui est partie»
 \dt 02/Sep/2015
 
-\lx hɯ˧₂
+\lx hɯ˧β
 \ph hee
 \ps clf
 \lc hɯ˧
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton M₂
+\ton Mβ
 \so <print="n"> F4
 \de A few, some, a little.
 \ge |fg{clf.a_little}/a_few
@@ -20151,7 +20151,7 @@
 \xf frire un plat/faire la cuisine/frire du riz/de la nourriture
 \dt 02/Sep/2015
 
-\lx hṽ̩˩₁
+\lx hṽ̩˩α
 \sf <nb="2011"> 1394
 \hm 1
 \ph hun XX
@@ -20160,7 +20160,7 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \np (la forme monosyllabique est rare; cf entrées suivantes)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \de Red.
 \ge red
@@ -20170,14 +20170,14 @@
 \gf rouge
 \dt 02/Sep/2015
 
-\lx hṽ̩˩₁
+\lx hṽ̩˩α
 \hm 2
 \ph hun XX
 \ps adj
 \lc hṽ̩˩˥
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \de Of small stature, small in stature, short, not tall; low.
 \ge of_small_stature
@@ -20329,7 +20329,7 @@
 \gf tout_rouge
 \dt 02/Sep/2015
 
-\lx hwæ˩₁
+\lx hwæ˩α
 \sf <nb="B"> 1271
 \sf <nb="B"> 1514
 \sf <nb="2011"> 1847
@@ -20340,7 +20340,7 @@
 \cf ʈæ˩a
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -20360,7 +20360,7 @@
 \rf la chaîne qu'on met sur la porte, la chaîne qui sert à fermer la porte d'entrée de la ferme
 \dt 02/Sep/2015
 
-\lx hwæ˩₁
+\lx hwæ˩α
 \sf <nb="B"> 1271
 \sf <nb="B"> 1514
 \sf <nb="2011"> 1847
@@ -20372,7 +20372,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (en 2006, noté hwæ˧, pensé que c'était confirmé)(confirmé en 2012: est un ton L)
 \np tso˧tso˧ hwæ˥: s'oppose par le ton à: tso˧tso˧ hwæ˩ “acheter des choses"
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -20411,7 +20411,7 @@
 \xf objet servant à suspendre des choses; cette périphrase peut par exemple désigner la poutrelle servant à accrocher de la viande, dans la pièce principale
 \dt 02/Sep/2015
 
-\lx hwæ˧₁
+\lx hwæ˧α
 \sf <nb="B"> 1417
 \sf <nb="2011"> 2045
 \ph huae
@@ -20421,7 +20421,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (forme à l'isolée: hésitation: 26/10/07: entends hwæ˩; 1/11/07: entends hwæ˥)
 \np ton 1a
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -20688,7 +20688,7 @@
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \de To pack, to tie together into a bundle.
 \ge to_pack_together
@@ -20723,7 +20723,7 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \de To be in trouble, to put oneself into trouble (figurative sense: as if one were all tied up with a rope, unable to move, to live one's life normally).
 \ge to_be_in_trouble
@@ -20882,7 +20882,7 @@
 \xf un cadeau, une donation
 \dt 02/Sep/2015
 
-\lx hwɤ̃˩₁
+\lx hwɤ̃˩α
 \sf <nb="B"> 971a
 \sf <nb="B"> (et
 \sf <nb="B"> ancien
@@ -20894,7 +20894,7 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n"> (notes 2006: “le˥ hõ˩, d'abord noté le˧hwɑ͂˩") (une hypothèse début 2007: est sans doute phonémiquement hṽ; mais l'analyse comme /hw̃ɤ/, tentée: à partir de l'été 2007, est confirmée lors du terrain 08); exemple: il se lève tard: ʈʂʰɯ˧ ʑi˧ ʈi˥ hw̃ɤ˩˥ (vérifié en 09); lə˧hw̃ɤ˩ (phonétiquement: [le]) (légère diphtongaison vers ɤ même au ton bas) (historique: pensé à analyser comme un simple /hu˩˥/, nasalisé du fait du /h/, et diphtongué du fait du ton montant; mais il existe des /hu/, qui ne sont pas nasalisés; aussi pensé à analyser comme un /hwɤ/ “réalisé avec comme un f initial": est cette syllabe; commence avec une nasale totalement dévoisée)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -20915,7 +20915,7 @@
 \xf il se lève tard
 \dt 02/Sep/2015
 
-\lx hwɤ˩₁
+\lx hwɤ˩α
 \sf <nb="B"> 1362
 \sf <nb="2011"> 1940
 \ph huaq
@@ -20924,7 +20924,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (d'abord noté /hĩ˥ki˥ tso˧tso˧ hwɤ˥/) (ton vérifié en 09, n'est pas un ton 4)(confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="M23"> ID.
 \de To hand over, to pass over, to send.
@@ -21406,7 +21406,7 @@
 \nt <type="hist" print="n"> vérifié: mɤ˧-ʝi˧-ze˧: il s'agit d'un emploi grammaticalisé du verbe /ʝi˧/ ‘venir'
 \nt <type="sem"> pas de nuance de sens trouvée avec /ju˧/, d'après F4 et M18
 \np le˧-ʝi˩-ze˩
-\ton M₃
+\ton Mγ
 \so <print="n"> F4
 \de To come.
 \ge to_come
@@ -21651,14 +21651,14 @@
 \xf (En vue d'un rituel, d'une fête…) on rassemble toutes sortes de choses; on en a (sous la main)/on a fait une provision! / On prépare tout par avance (pour le rituel/la fête)!
 \dt 02/Sep/2015
 
-\lx ʝi˧₂
+\lx ʝi˧β
 \sf <nb="B"> 1115
 \ph yi
 \ps clf
 \lc ʝi˧
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton M₂
+\ton Mβ
 \so <print="n"> F4
 \de Classifier for places.
 \ge |fg{clf.places}
@@ -22652,14 +22652,14 @@
 \xc PHONO
 \dt 11/May/2016
 
-\lx jɤ˩₁
+\lx jɤ˩α
 \hm 1
 \ph yeq
 \ps v
 \cf tɕɯ˧ɭɯ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \lc jɤ˩˥
 \so <print="n"> F4
 \de To coil.
@@ -22678,7 +22678,7 @@
 \xf enrouler du fil de lin
 \dt 02/Sep/2015
 
-\lx jɤ˩₁
+\lx jɤ˩α
 \sf <nb="2011"> 1433
 \hm 2
 \ph yeq
@@ -22686,7 +22686,7 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n"> lə˧jɤ˩ze˩; lə˧tɕɤ˧˥ lə˧jɤ˩ze˩! “ça s'est décomposé à force de bouillir!" (d'abord noté ˧˧˧˩˧)
-\ton L₁
+\ton Lα
 \lc jɤ˩˥
 \so <print="n"> F4
 \de Overcooked, overdone, mushy, sodden, mushed.
@@ -22705,13 +22705,13 @@
 \xf |fg{rel}/|fg{nmlz}
 \dt 02/Sep/2015
 
-\lx jɤ˧˥₁
+\lx jɤ˧˥α
 \hm 1
 \ph ye
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton MH₁
+\ton MHα
 \lc jɤ˧˥
 \so <print="n"> F4
 \de Classifier used for women, and for some female domestic animals; it does not carry any hint of deprecation, nor does it convey any hint of respect by itself.
@@ -22722,13 +22722,13 @@
 \gf |fg{clf.femelles}
 \dt 02/Sep/2015
 
-\lx jɤ˧˥₁
+\lx jɤ˧˥α
 \hm 2
 \ph ye
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton MH₁
+\ton MHα
 \lc jɤ˧˥
 \so <print="n"> F4
 \de Classifier for dough balls and teacakes. One dough ball is the quantity of dough that can be prepared with one egg. Tea consumed in the Yongning area in the first half of the 20th century was green tea from a large leaf variety of Camellia sinensis (C. sinensis assamica) found in the mountains of southern Yunnan; it used to be pressed into ‘teacake' shape.
@@ -22747,7 +22747,7 @@
 \xf une boule/galette
 \dt 02/Sep/2015
 
-\lx jo˩₂
+\lx jo˩β
 \sf <nb="B"> 866
 \sf <nb="2011"> 1266
 \ph yo
@@ -22755,7 +22755,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> (d'abord noté ju˧)
-\ton L₂
+\ton Lβ
 \lc jo˩˥
 \np <langue="eng"> Among classifiers belonging to the tone category Lb, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
 \np <langue="fra"> Parmi les classificateurs de catégorie tonale Lb, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
@@ -22771,7 +22771,7 @@
 \gf |fg{clf.onces}
 \dt 02/Sep/2015
 
-\lx jɤ˩₂
+\lx jɤ˩β
 \hm 1
 \ph yeq
 \ps v
@@ -22779,7 +22779,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> sens: avant 2015: avais traduit comme: 有乡愁、想家、忧郁; to feel nostalgia/melancholy, to be lost in one's thoughts; être pris de nostalgie, être perdu dans ses pensées, être absent/mélancolique.
 \nt <type="sem"> Ce verbe ne peut se rédupliquer
-\ton L₂
+\ton Lβ
 \lc jɤ˩˥
 \so <print="n"> F4
 \de To be listless, to be dejected.
@@ -22812,13 +22812,13 @@
 \xc test to establish the tone category: La or Lb. Answer: it is Lb.
 \dt 02/Sep/2015
 
-\lx jɤ˩₂
+\lx jɤ˩β
 \hm 2
 \ph yeq
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton L₂
+\ton Lβ
 \lc jɤ˩˥
 \so <print="n"> F4
 \de Row: classifier for rows of vegetables.
@@ -23511,12 +23511,12 @@
 \gf bord(monosyll.)
 \dt 03/Sep/2015
 
-\lx ki˩₁
+\lx ki˩α
 \ph giq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \lc ki˩˥
 \so <print="n"> F4
 \de To put on (a skirt, trousers…).
@@ -23543,7 +23543,7 @@
 \xf porter le pantalon; nom du rituel de passage à l'âge adulte (à treize ans révolus) pour les jeunes gens
 \dt 03/Sep/2015
 
-\lx ki˧₁
+\lx ki˧α
 \sf <nb="B"> 1283
 \sf <nb="B"> 1284
 \sf <nb="B"> 2162
@@ -23554,7 +23554,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (notes 2006: hĩ˧ki˧ki˧)
-\ton M₁
+\ton Mα
 \lc ki˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -23601,12 +23601,12 @@
 \xf nourrir, donner à manger
 \dt 03/Sep/2015
 
-\lx ki˥₁
+\lx ki˥α
 \ph gi
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton H₁
+\ton Hα
 \lc ki˧
 \so <print="n"> F4
 \de In association with the numeral ‘one', this classifier means ‘together'.
@@ -24147,7 +24147,7 @@
 \gf hotte
 \dt 03/Sep/2015
 
-\lx ko˩₁
+\lx ko˩α
 \sf <nb="B"> 1388
 \sf <nb="B"> 1479
 \sf <nb="2011"> 1974
@@ -24156,7 +24156,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (lə˧ko˩ze˩, tʰi˧ko˩ze˩); donne: mv̩˧ko˥+ze˩ (confirmé) (vérifié: initiale vélaire et non uvulaire)(confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \lc ko˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -24190,7 +24190,7 @@
 \xf se réchauffer un moment au soleil
 \dt 03/Sep/2015
 
-\lx ko˧₁
+\lx ko˧α
 \sf <nb="2011"> 1246
 \ph go
 \ps clf
@@ -24198,7 +24198,7 @@
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> vérifié: initiale vélaire et non uvulaire
 \nt <type="sem"> CL des cigarettes et petits objets
-\ton M₁
+\ton Mα
 \lc ko˧
 \so <print="n"> F4
 \de Classifier for small objects, e.g. cigarettes.
@@ -24209,14 +24209,14 @@
 \gf |fg{clf.petit_objet}
 \dt 03/Sep/2015
 
-\lx kɤ˩₁
+\lx kɤ˩α
 \sf <nb="B"> 863
 \sf <nb="2011"> 1262
 \ph ge
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton L₁
+\ton Lα
 \lc kɤ˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -24238,7 +24238,7 @@
 \xf |fg{dem} _ (tone: H# / H$)
 \dt 03/Sep/2015
 
-\lx kɤ˧˥₁
+\lx kɤ˧˥α
 \sf <nb="B"> 2188
 \sf <nb="2011"> 1244
 \hm 1
@@ -24248,7 +24248,7 @@
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> (d'abord noté sɯ˧kɤ˧˥; corrigé en mai 2008) (comportement tonal: comme /kʰv/, “année")
 \nt <type="sem"> CL des bâtons
-\ton MH₁
+\ton MHα
 \lc kɤ˧˥
 \so <print="n"> F4
 \va <speaker="M21"> sɯ˩kɤ˧˥ ɖɯ˧ kɤ˧˥
@@ -24264,7 +24264,7 @@
 \xf une branche (d'arbre)
 \dt 03/Sep/2015
 
-\lx kɤ˧˥₁
+\lx kɤ˧˥α
 \sf <nb="B"> 877
 \sf <nb="2011"> 1290
 \hm 2
@@ -24272,7 +24272,7 @@
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton MH₁
+\ton MHα
 \lc kɤ˧˥
 \so <print="n"> F4
 \vf emprunt
@@ -24287,7 +24287,7 @@
 \gf |fg{clf.étendues_de_terre}
 \dt 03/Sep/2015
 
-\lx kʰɤ˧˥₁
+\lx kʰɤ˧˥α
 \sf <nb="B"> 856
 \sf <nb="2011"> 1255
 \ph ke
@@ -24295,7 +24295,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> (note ancienne: “vérifié en mai 2008: est bien ɖɯ˧kʰɤ˥, ˧ ˥; n'est pas ˧ ˧˥"; en fait: est bien ɖɯ˧-kʰɤ˧˥) (ne pas confondre avec: ɖɯ˧kʰwɤ˥ = un morceau)
-\ton MH₁
+\ton MHα
 \lc kʰɤ˧˥
 \so <print="n"> F4
 \va <speaker="M21"> ɖɯ˧kʰɤ˧˥
@@ -25438,13 +25438,13 @@
 \xf porter un bracelet
 \dt 03/Sep/2015
 
-\lx kɯ˩₁
+\lx kɯ˩α
 \ph geeq
 \ps v
 \lc kɯ˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \de To ignore someone who would need help, to leave someone alone with difficulties one could help with. This is a term for which no straightforward Chinese equivalent has been found; it refers to a situation where lack of real attachment to someone shows up in the lack of impulse to go out of one's way and help them.
 \ge to_ignore_someone_who_needs_help
@@ -25474,13 +25474,13 @@
 \xf Je ne te néglige pas du tout! (Bien au contraire:) je t'enseigne bien / je fais de mon mieux pour t'apprendre des choses! (Contexte imaginé: un étudiant s'estime négligé par un enseignant; celui-ci se rend compte du mécontentement de l'étudiant, et lui dit qu'il interprète mal.)
 \dt 03/Sep/2015
 
-\lx kɯ˧₂
+\lx kɯ˧β
 \ph gee
 \ps clf
 \lc kɯ˩˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton M₂
+\ton Mβ
 \so <print="n"> F4
 \de Self-classifier for stars.
 \ge |fg{clf.stars}
@@ -25490,7 +25490,7 @@
 \gf |fg{clf.étoiles}
 \dt 03/Sep/2015
 
-\lx kʰɯ˩₂
+\lx kʰɯ˩β
 \sf <nb="B"> 845
 \sf <nb="B"> 2187
 \sf <nb="2011"> 1242
@@ -25499,7 +25499,7 @@
 \lc kʰɯ˧
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton L₂
+\ton Lβ
 \np <langue="eng"> Among classifiers belonging to the tone category Lb, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
 \np <langue="fra"> Parmi les classificateurs de catégorie tonale Lb, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
 \so <print="n"> F4
@@ -26168,7 +26168,7 @@
 \xf voler les affaires de quelqu'un
 \dt 03/Sep/2015
 
-\lx kv̩˩₁
+\lx kv̩˩α
 \sf <nb="B"> 2271
 \sf <nb="B"> 1337
 \sf <nb="B"> 1695
@@ -26182,7 +26182,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (avant 09, noté kv̩˧kv̩˧, par erreur)(confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M23"> ID.
@@ -26207,7 +26207,7 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M23"> ID.
@@ -26223,14 +26223,14 @@
 \xf pêcher du poisson
 \dt 03/Sep/2015
 
-\lx kv̩˩₁
+\lx kv̩˩α
 \hm 2
 \ph guq
 \ps v
 \lc kv̩˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \de To cross.
 \ge to_cross
@@ -26244,7 +26244,7 @@
 \xf traverser en bateau
 \dt 03/Sep/2015
 
-\lx kʰv̩˧˥₁
+\lx kʰv̩˧˥α
 \sf <nb="B"> 789
 \sf <nb="B"> 790
 \sf <nb="B"> 772
@@ -26255,7 +26255,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> (confirmé; avais d'abord noté no˥ ɑ˧tso˧ kʰv̩˧ ɲi˥, par erreur)
-\ton MH₁
+\ton MHα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -27266,7 +27266,7 @@
 \gf lorsque
 \dt 06/Oct/2015
 
-\lx kwɤ˩₁
+\lx kwɤ˩α
 \sf <nb="B"> 861
 \sf <nb="2011"> 1260
 \ph gua
@@ -27274,7 +27274,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> (d'abord noté ˧ ˧, par erreur) vérifié: initiale vélaire et non uvulaire
-\ton L₁
+\ton Lα
 \lc kwɤ˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -27300,7 +27300,7 @@
 \xf |fg{dem} _ (ton: H# / H$)
 \dt 04/Sep/2015
 
-\lx kwɤ˩₁
+\lx kwɤ˩α
 \sf <nb="B"> 1469
 \sf <nb="2011"> 2148
 \hm 1
@@ -27310,7 +27310,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> vérifié: initiale vélaire et non uvulaire(confirmé en 2012: est un ton L)
 \np aussi dans un sens figuré: ex.: récit 1: celui-là, on va le mettre dans un coin (mendiant): littéralement “on va le jeter dans un coin"
-\ton L₁
+\ton Lα
 \lc kwɤ˩˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
@@ -27332,14 +27332,14 @@
 \xc PHONO
 \dt 04/Sep/2015
 
-\lx kwɤ˩₁
+\lx kwɤ˩α
 \hm 2
 \ph guaq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \np n'est pas un emprunt; le mot chinois fn:管 est emprunté avec ton moyen et voyelle æ
-\ton L₁
+\ton Lα
 \lc kwɤ˩˥
 \so <print="n"> F4
 \de To manage, to be in charge of, to take care of.
@@ -27355,7 +27355,7 @@
 \xc PHONO
 \dt 04/Sep/2015
 
-\lx kʰwɤ˥₁
+\lx kʰwɤ˥α
 \sf <nb="B"> 844
 \sf <nb="B"> 885
 \sf <nb="2011"> 1256
@@ -27366,7 +27366,7 @@
 \nt <type="hist" print="n"> (vérifié, n'est pas /qʰwɤ/) (premiers terrains: enregistré par erreur /ɖɯ˧gv̩˧/ “un, une unité") confirmé: est homophone avec « rocher » ou « poing »
 \nt <type="sem"> un quartier, un petit morceau
 \np confirmé: dans “c'est vous qui décidez", il s'agit du même /kʰwɤ˥/ que le classificateur, ‘un morceau'
-\ton H₁
+\ton Hα
 \lc kʰwɤ˧
 \so <print="n"> F4
 \va <speaker="F5"> ɖɯ˧ʁwæ˩
@@ -28606,7 +28606,7 @@
 \gf flasque
 \dt 04/Sep/2015
 
-\lx lɑ˧~lɑ˧₂
+\lx lɑ˧~lɑ˧β
 \sf <nb="B"> 1687
 \sf <nb="2011"> 2506
 \ph lala
@@ -28614,7 +28614,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (+ze˩)
-\ton M₂
+\ton Mβ
 \lc lɑ˧lɑ˧
 \so <print="n"> F4
 \va <speaker="M21"> ID.
@@ -28791,7 +28791,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \lc ɬi˩˥
 \so <print="n"> F4
 \de To measure (e.g. a piece of fabric) to find its length, in armspans.
@@ -28886,7 +28886,7 @@
 \xf |fg{accomp} _
 \dt 04/Sep/2015
 
-\lx li˧₁
+\lx li˧α
 \sf <nb="B"> 1377
 \sf <nb="2011"> 1961
 \ph li
@@ -28895,7 +28895,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (d'abord noté ɭi˧)
-\ton M₁
+\ton Mα
 \lc li˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -28919,7 +28919,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (d'abord noté ɭi˧)
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -28937,7 +28937,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (d'abord noté ɭi˧)
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -28953,7 +28953,7 @@
 \xf Le jeune homme voit (=va voir) la jeune femme. (Euphémisme pour désigner les relations sexuelles.)
 \dt 04/Sep/2015
 
-\lx ɬi˩₂
+\lx ɬi˩β
 \sf <nb="B"> 868
 \sf <nb="2011"> 1280
 \ph lhi
@@ -28961,7 +28961,7 @@
 \lc ɬi˧
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton L₂
+\ton Lβ
 \np <langue="eng"> Among classifiers belonging to the tone category Lb, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
 \np <langue="fra"> Parmi les classificateurs de catégorie tonale Lb, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
 \so <print="n"> F4
@@ -28980,7 +28980,7 @@
 \xf 10 toises
 \dt 04/Sep/2015
 
-\lx ɬi˧₂
+\lx ɬi˧β
 \sf <nb="B"> 774
 \sf <nb="2011"> 1168
 \ph lhi
@@ -28988,7 +28988,7 @@
 \lc ɬi˩˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton M₂
+\ton Mβ
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -29813,13 +29813,13 @@
 \xf l'existence humaine
 \dt 04/Sep/2015
 
-\lx ljɤ˩₁
+\lx ljɤ˩α
 \ph lia
 \ps clf
 \lc ljɤ˩˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \de Self-classifier for lives/destinies.
 \ge |fg{clf.lives}
@@ -30108,13 +30108,13 @@
 \xf côtes de porc
 \dt 04/Sep/2015
 
-\lx lo˩₂
+\lx lo˩β
 \ph lo
 \ps clf
 \lc lo˧
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton L₂
+\ton Lβ
 \np <langue="eng"> Among classifiers belonging to the tone category Lb, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
 \np <langue="fra"> Parmi les classificateurs de catégorie tonale Lb, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
 \so <print="n"> F4
@@ -30134,13 +30134,13 @@
 \xf une grande quantité d'arbres: ‘une vallée [couverte] d'arbres'
 \dt 04/Sep/2015
 
-\lx lo˧₂
+\lx lo˧β
 \ph lo
 \ps clf
 \lc lo˩˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton M₂
+\ton Mβ
 \so <print="n"> F4
 \de Self-classifier for tasks/occupations.
 \ge |fg{clf.tasks}
@@ -31219,12 +31219,12 @@
 \gf poing
 \dt 04/Sep/2015
 
-\lx ɭɯ˧˥₁
+\lx ɭɯ˧˥α
 \ph lee
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton MH₁
+\ton MHα
 \lc ɭɯ˧˥
 \so <print="n"> F4
 \ge |fg{clf.clothes}
@@ -31246,7 +31246,7 @@
 \xf Ce classificateur ne se combine pas avec /dʑi˧hṽ̩˥$/, qui prend pour classificateur: /ɖɯ˧-dzi˩/.
 \dt 04/Sep/2015
 
-\lx ɭɯ˧₂
+\lx ɭɯ˧β
 \sf <nb="B"> 2189
 \sf <nb="B"> 2165
 \sf <nb="B"> 2183
@@ -31258,7 +31258,7 @@
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> (après de longues hésitations avec ɬɯ˧ ɻɯ˧ ɭɯ˧)
 \nt <type="sem"> CL des objets ronds (ex.: grains, bols); aussi comme classificateur générique, pour: vêtements…
-\ton M₂
+\ton Mβ
 \lc ɭɯ˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -31498,7 +31498,7 @@
 \gf moëlle
 \dt 04/Sep/2015
 
-\lx lv̩˩₁
+\lx lv̩˩α
 \sf <nb="B"> 1346
 \sf <nb="2011"> 1932
 \hm 1
@@ -31509,7 +31509,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (erreur: ɖʐe˩˥ i˧ mɤ˧ i˧ ze˩)(confirmé en 2012: est un ton L)
 \np ton 3a
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -31533,7 +31533,7 @@
 \xf |fg{délimitatif} _ |fg{red} |fg{inchoatif}
 \dt 04/Sep/2015
 
-\lx lv̩˩₁
+\lx lv̩˩α
 \sf <nb="B"> 1188
 \sf <nb="B"> 1370
 \sf <nb="2011"> 1704
@@ -31545,7 +31545,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (d'abord noté ɻy˩, songé à lv) (aussi noté læ˧kæ˥ɭɯ˧; ton dernière syllabe vérifié en 2011: est bien ɭɯ˩ et non un ton moyen) (/ɭɯ/: voyelle confirmée) (corrigé en 2012 en: lv)(confirmé en 2012: est un ton L)
 \nt <type="hist" print="n"> (ressemble à ɻ, y pense plusieurs fois, mais est confirmé que ce n'est pas ce phonème)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> kæ˧ lɯ˩
@@ -31580,7 +31580,7 @@
 \xc PHONO
 \dt 04/Sep/2015
 
-\lx lv̩˩₁
+\lx lv̩˩α
 \sf <nb="B"> 1285
 \sf <nb="2011"> 1842
 \hm 3
@@ -31590,7 +31590,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (tons confirmés en 09) le˧-lv̩˩-ze˩: phonétiquement: le˧lv̩˩ze˩(confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \vf n'est pas sûr, indique un schéma tonal MM
@@ -31621,7 +31621,7 @@
 \xc PHONO
 \dt 04/Sep/2015
 
-\lx lv̩˩₁
+\lx lv̩˩α
 \sf <nb="B"> 1290
 \sf <nb="2011"> 1849
 \hm 4
@@ -31631,7 +31631,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="sem"> sens vérifié (cf histoire 1, version 2)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="M23"> ID.
 \de To suffice, to be enough.
@@ -31646,7 +31646,7 @@
 \xf est-ce que ça (te) suffit ?
 \dt 04/Sep/2015
 
-\lx ɬv̩˩₁
+\lx ɬv̩˩α
 \sf <nb="B"> 1164
 \sf <nb="2011"> 1657
 \hm 1
@@ -31657,7 +31657,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (confirmé en 2012: est un ton L)
 \nt <type="hist" print="n"> (initiale et rime confirmée, n'est pas ɬv̩˩)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ɬɯ˩
 \va <speaker="M21"> lv̩˩, ton 3: tʰi˧-lv̩˩; ex.: ʈʂʰæ˧ɣɯ˧ tʰi˧-lv̩˩ “garder un médicament dans la bouche"
@@ -31673,7 +31673,7 @@
 \xf mettre des choses dans sa bouche (contexte: un petit enfant qui ne fait pas encore la différence entre nourriture et choses non comestibles met des choses dans sa bouche)
 \dt 04/Sep/2015
 
-\lx ɬv̩˩₁
+\lx ɬv̩˩α
 \sf <nb="B"> 1019
 \sf <nb="2011"> 1451
 \hm 2
@@ -31682,7 +31682,7 @@
 \lc ɬv̩˩˥
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \de Warm.
@@ -31705,7 +31705,7 @@
 \xf |fg{rel}/|fg{nmlz}
 \dt 04/Sep/2015
 
-\lx ɬv̩˩₁
+\lx ɬv̩˩α
 \sf <nb="B"> 1465
 \sf <nb="2011"> 2132
 \hm 3
@@ -31718,7 +31718,7 @@
 \nt <type="hist" print="n"> tv; confirmé: n'est pas ɬɯ(confirmé en 2012: est un ton L)
 \nt <type="hist" print="n"> ton 3b: hɑ˧ɬɯ˧˥ (F5 confirme qu'il s'agit de /ɬɯ/ et pas /ɬv/)
 \np ton 3b (lə˧ɬv̩˩ze˩; phonétiquement: le˧ɬv̩˩ze˩); cf “tiède"
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ɬɯ˩
 \vf <type="tone"> L
@@ -32271,7 +32271,7 @@
 \xf On prend des médicaments pour l'estomac, et ça guérit!
 \dt 04/Sep/2015
 
-\lx mæ˧₂
+\lx mæ˧β
 \ph mae
 \ps v
 \sd <langue="fra"> morphosyntaxe
@@ -32380,7 +32380,7 @@
 \gf pincer(les_lèvres)
 \dt 04/Sep/2015
 
-\lx mæ˩₁
+\lx mæ˩α
 \sf <nb="B"> 1482
 \sf <nb="B"> 1632
 \sf <nb="2011"> 2172
@@ -32389,7 +32389,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (tons vérifiés en 09; auparavant, noté: qʰæ˩bi˧ze˩, par erreur) (lo˧ɲi˥mæ˩: tons confirmés en 09; d'abord noté ˧˥˧)(lə˧mæ˩ze˩)
-\ton L₁
+\ton Lα
 \lc mæ˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -32415,7 +32415,7 @@
 \xc PHONO
 \dt 04/Sep/2015
 
-\lx mæ˩₁
+\lx mæ˩α
 \sf <nb="B"> 875
 \sf <nb="2011"> 1287
 \hm 1
@@ -32423,7 +32423,7 @@
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton L₁
+\ton Lα
 \lc mæ˩˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
@@ -32439,7 +32439,7 @@
 \xf |fg{dem} _ (tone: H# / H$)
 \dt 04/Sep/2015
 
-\lx mæ˩₁
+\lx mæ˩α
 \sf <nb="B"> 840
 \sf <nb="2011"> 1237
 \hm 2
@@ -32450,7 +32450,7 @@
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> (sens vérifié)
 \np entièrement homophone avec “yuan (unité monétaire)"
-\ton L₁
+\ton Lα
 \lc mæ˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -32476,7 +32476,7 @@
 \xf cent fois 10.000, soit un million
 \dt 04/Sep/2015
 
-\lx mæ˧₁
+\lx mæ˧α
 \sf <nb="B"> 1738
 \sf <nb="2011"> 2567
 \ph mae
@@ -32484,7 +32484,7 @@
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton M₁
+\ton Mα
 \lc mæ˧
 \so <print="n"> F4
 \va <speaker="M21"> ID.
@@ -32501,7 +32501,7 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \de To catch up with (someone).
@@ -32970,7 +32970,7 @@
 \xf |fg{red} |fg{inchoatif}
 \dt 04/Sep/2015
 
-\lx mi˩₁
+\lx mi˩α
 \sf <nb="B"> 2169b
 \sf <nb="B"> 1533
 \sf <nb="2011"> 1475
@@ -32981,7 +32981,7 @@
 \sd <langue="eng"> verb
 \nt <langue="pumi" type="comp" print="n"> m̥i35
 \nt <type="hist" print="n"> (confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \de To ask for.
 \ge to_ask_for
@@ -32999,7 +32999,7 @@
 \xf mendier un peu
 \dt 04/Sep/2015
 
-\lx mi˩₂
+\lx mi˩β
 \sf <nb="B"> 2185
 \sf <nb="2011"> 1249
 \ph mi
@@ -33008,7 +33008,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="sem"> CL des poulets
-\ton L₂
+\ton Lβ
 \np <langue="eng"> Among classifiers belonging to the tone category Lb, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
 \np <langue="fra"> Parmi les classificateurs de catégorie tonale Lb, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
 \so <print="n"> F4
@@ -33468,7 +33468,7 @@
 \gf |fg{neg}
 \dt 04/Sep/2015
 
-\lx mo˩₁
+\lx mo˩α
 \sf <nb="B"> 1015
 \sf <nb="2011"> 1446
 \hm 1
@@ -33478,7 +33478,7 @@
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n"> (confirmé en 09) (noté, en 2006: le˥mu˧, le˥mu˧ze˩)
 \nt <type="hist" print="n"> xxxx à vérifier en 2016 : l'expression /lv̩˧ mo˥/ existe-t-elle hors du proverbe? Ou est-elle créée comme parallèle à ‘vieux bois', peut-être y compris l'adoption de son schéma tonal? (et reporter dans l'analyse, ds le livre) Réponse: OUI, yyyy n'est pas usuel. Le monosyllabe ‘pierre' /lv/ ne marche pas: le monosyllabe /lv/ au ton M est immédiatement interprété comme ‘champ'.
-\ton L₁
+\ton Lα
 \lc mo˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -33518,14 +33518,14 @@
 \xc PROVERBE
 \dt 04/Sep/2015
 
-\lx mo˩₁
+\lx mo˩α
 \sf <nb="2011"> 2487
 \hm 2
 \ph moq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \lc mo˩˥
 \so <print="n"> F4
 \de To die.
@@ -33544,13 +33544,13 @@
 \xf bois mort
 \dt 04/Sep/2015
 
-\lx mo˧₁
+\lx mo˧α
 \ph mo
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <langue="pumi" type="comp" print="n"> mu35
-\ton M₁
+\ton Mα
 \lc mo˧
 \so <print="n"> F4
 \de Classifier for corpses.
@@ -33561,13 +33561,13 @@
 \gf |fg{clf.cadavres}
 \dt 04/Sep/2015
 
-\lx mo˧˥₁
+\lx mo˧˥α
 \ph mo
 \ps clf
 \cf mo˧˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton MH₁
+\ton MHα
 \lc mo˧˥
 \so <print="n"> F4
 \de Self-classifier for mushrooms.
@@ -33578,7 +33578,7 @@
 \gf |fg{clf.champignons}
 \dt 04/Sep/2015
 
-\lx mo˥₁
+\lx mo˥α
 \sf <nb="B"> 877
 \sf <nb="2011"> 1290
 \ph mo
@@ -33586,7 +33586,7 @@
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton H₁
+\ton Hα
 \lc mo˧
 \so <print="n"> F4
 \vf emprunt
@@ -33601,13 +33601,13 @@
 \gf 亩::|fg{clf.acres}
 \dt 04/Sep/2015
 
-\lx mɤ˩₁
+\lx mɤ˩α
 \sf <nb="2011"> 1363
 \ph me
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton L₁
+\ton Lα
 \lc mɤ˩˥
 \so <print="n"> F4
 \de A few, a little.
@@ -33635,14 +33635,14 @@
 \xc PHONO
 \dt 04/Sep/2015
 
-\lx mɤ˩₂
+\lx mɤ˩β
 \sf <nb="B"> 2225
 \sf <nb="2011"> 1652
 \ph meq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₂
+\ton Lβ
 \lc mɤ˩˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
@@ -34391,7 +34391,7 @@
 \xc <langue="fra"> schéma tonal régulier: /mv̩˥/ + /kʰɯ˧˥/, H+MH, donne régulièrement M.L.
 \dt 04/Sep/2015
 
-\lx mv̩˩₁
+\lx mv̩˩α
 \sf <nb="B"> 1185a
 \sf <nb="B"> 1185b
 \sf <nb="2011"> 1702
@@ -34402,7 +34402,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> ton 3a (homophone avec “cuit")(confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \va <speaker="M23"> ID.
@@ -34422,14 +34422,14 @@
 \xf souffler dans une corne
 \dt 04/Sep/2015
 
-\lx mv̩˩₁
+\lx mv̩˩α
 \hm 2
 \ph muq
 \ps v
 \lc mv̩˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \de To flush away, to carry away: a strong current carries a swimmer away.
 \ge to_flush_away
@@ -34439,7 +34439,7 @@
 \gf emporter
 \dt 04/Sep/2015
 
-\lx mv̩˩₁
+\lx mv̩˩α
 \sf <nb="B"> 293
 \sf <nb="B"> 1511
 \sf <nb="2011"> 1432
@@ -34451,7 +34451,7 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n"> le˧-mv̩˩-ze˩. (avant mai 2012: noté *mv̩˩-hĩ˥)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \de Ripe.
@@ -34473,14 +34473,14 @@
 \gf cuit
 \dt 04/Sep/2015
 
-\lx mv̩˩₁
+\lx mv̩˩α
 \hm 4
 \ph muq
 \ps v
 \lc mv̩˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \de To burn, to become consumed (e.g. a body on the funeral pyre becomes consumed).
 \ge to_burn
 \dn 燃烧
@@ -34489,7 +34489,7 @@
 \gf brûler
 \dt 04/Sep/2015
 
-\lx mv̩˧₁
+\lx mv̩˧α
 \sf <nb="B"> 1696
 \sf <nb="2011"> 1739
 \ph mu
@@ -34498,7 +34498,7 @@
 \cf ki˩a
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \de To put on (a shirt, a jacket).
@@ -36245,7 +36245,7 @@
 \xf |fg{dur}
 \dt 04/Sep/2015
 
-\lx nɑ˧₁
+\lx nɑ˧α
 \sf <nb="B"> 2186
 \sf <nb="2011"> 1251
 \ph na
@@ -36255,7 +36255,7 @@
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> (avant 09: noté sɯ˧tʰi˧˥, par erreur) (note 2006, erronée: “ɖɯ˧ nɑ˩, ton à vérifier")
 \nt <type="sem"> CL des objets coupants (couteaux, haches), des chaises…; aussi, en naxi: des bouches (cf: nv̩˥ ɖɯ˧ʈʂu˩ 一张嘴)
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \de Classifier for tools.
@@ -36271,7 +36271,7 @@
 \xc PHONO
 \dt 04/Sep/2015
 
-\lx nɑ˩₂
+\lx nɑ˩β
 \sf <nb="B"> 953
 \sf <nb="B"> 964
 \sf <nb="2011"> 1389
@@ -36280,7 +36280,7 @@
 \lc nɑ˧
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\ton L₂
+\ton Lβ
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -36767,7 +36767,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \lc ɲi˩˥
 \so <print="n"> F4
 \de To press, to hold (clamped under the arm, between the legs…).
@@ -36983,7 +36983,7 @@
 \gf échouer
 \dt 09/Sep/2015
 
-\lx ɲi˩₁
+\lx ɲi˩α
 \sf <nb="B"> 1428
 \sf <nb="2011"> 2065
 \hm 1
@@ -36993,7 +36993,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (confirmé en 2012: est un ton L)
 \np ex.: histoire “travaux"
-\ton L₁
+\ton Lα
 \lc ɲi˩˥
 \so <print="n"> F4
 \de To twine, to wind; twist with the fingers (e.g. linen, to make thread).
@@ -37016,7 +37016,7 @@
 \xf |fg{délimitatif} |fg{red} |fg{inchoatif}
 \dt 09/Sep/2015
 
-\lx ɲi˩₁
+\lx ɲi˩α
 \sf <nb="2011"> 1779
 \hm 2
 \ph niq
@@ -37024,7 +37024,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \lc ɲi˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -37046,7 +37046,7 @@
 \xc PHONO
 \dt 09/Sep/2015
 
-\lx ɲi˩₁
+\lx ɲi˩α
 \sf <nb="B"> 2164
 \sf <nb="2011"> 3373
 \hm 3
@@ -37055,7 +37055,7 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="sem"> (exemple de contexte dans lequel la tournure /le˧-ɲi˩-ze˩/ est possible: qd quelqu'un est devenu autre que ce qu'il n'était, par exemple quelqu'un qui n'était pas français et l'est devenu)
-\ton L₁
+\ton Lα
 \lc ɲi˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -37069,7 +37069,7 @@
 \gf |fg{cop}
 \dt 09/Sep/2015
 
-\lx ɲi˧₁
+\lx ɲi˧α
 \sf <nb="B"> 2169
 \sf <nb="2011"> 1474
 \ph nee XXX
@@ -37077,7 +37077,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (notes avant 09: “ɲi˩˥, ton 3: le˥ɲi˩ze˩; est donc homophone avec le verbe “être"; au ton 1, ce serait: le˧ɲi˧ze˧: on a suffisamment mangé, 饱了.")
-\ton M₁
+\ton Mα
 \lc ɲi˧
 \so <print="n"> F4
 \va <speaker="F5"> ɲi˩˧
@@ -37094,14 +37094,14 @@
 \xf Tu en veux? - (Non,) je n'en veux pas/je n'en ai pas besoin!
 \dt 09/Sep/2015
 
-\lx ɲi˥₂
+\lx ɲi˥β
 \sf <nb="B"> 721
 \sf <nb="2011"> 1092
 \ph ni
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton H₂
+\ton Hβ
 \lc ɲi˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -38481,7 +38481,7 @@
 \gf tôt
 \dt 09/Sep/2015
 
-\lx njɤ˩₂
+\lx njɤ˩β
 \sf <nb="B"> 1175
 \sf <nb="2011"> 2078
 \ph nyaq
@@ -38489,7 +38489,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (item différent de 1135 “réparer", lequel est: njɤ˧˥, donnant: le˧njɤ˧ze˥, ton 4)
-\ton L₂
+\ton Lβ
 \lc njɤ˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -39582,7 +39582,7 @@
 \gf argent
 \dt 28/Jul/2016
 
-\lx ŋv̩˩₁
+\lx ŋv̩˩α
 \sf <nb="B"> 2195
 \sf <nb="2011"> 2604
 \ph nguq
@@ -39591,7 +39591,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \de To cry, to weep.
@@ -40608,14 +40608,14 @@
 \xf rejeter la terre de droite et de gauche : une poule gratte la terre à la recherche de nourriture, et fait voler de la terre de droite et de gauche
 \dt 18/Jul/2016
 
-\lx pæ˩₁
+\lx pæ˩α
 \ph baeq
 \bw <langue="cmn"> 摆?
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \np <langue="fra"> Le mot n'est pas perçu par F4 comme un emprunt chinois.
-\ton M₁
+\ton Mα
 \lc pæ˧
 \so <print="n"> F4
 \de To lay (the table).
@@ -40630,12 +40630,12 @@
 \xf C'est servi! A table!
 \dt 09/Sep/2015
 
-\lx pæ˥₁
+\lx pæ˥α
 \ph bae
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton H₁
+\ton Hα
 \lc pæ˧
 \so <print="n"> F4
 \de Classifier for packs/herds (of horses…), troops (of soldiers)…
@@ -40646,7 +40646,7 @@
 \gf |fg{clf.troupes}
 \dt 09/Sep/2015
 
-\lx pʰæ˧˥₁
+\lx pʰæ˧˥α
 \sf <nb="B"> 2243
 \sf <nb="2011"> 1286
 \ph pae
@@ -40654,7 +40654,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> (ton confirmé)
-\ton MH₁
+\ton MHα
 \lc pʰæ˧˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -40668,7 +40668,7 @@
 \gf |fg{clf.objets_plats}
 \dt 09/Sep/2015
 
-\lx pʰæ˧₂
+\lx pʰæ˧β
 \sf <nb="B"> 1515
 \sf <nb="2011"> 2023
 \ph pae
@@ -40676,7 +40676,7 @@
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton M₂
+\ton Mβ
 \lc pʰæ˧
 \so <print="n"> F4
 \va <speaker="M21"> ID.
@@ -40697,7 +40697,7 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton M₂
+\ton Mβ
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \de To be linked, to have ties: e.g. the members of a family have ties.
@@ -41211,7 +41211,7 @@
 \xf |fg{accomp} _ |fg{pfv}
 \dt 09/Sep/2015
 
-\lx pi˧˥₁
+\lx pi˧˥α
 \sf <nb="B"> 938b
 \sf <nb="2011"> 1361
 \ph bi
@@ -41221,7 +41221,7 @@
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> (avant 09, noté: ɖɯ˧pi˥) (ŋv̩˧ ɖɯ˧-pi˧˥: d'abord noté ɖɯ˧-pi˧)
 \np peut s'utiliser avec des numéraux autres que un
-\ton MH₁
+\ton MHα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \de A little (noncount); mostly appears in combination with the numeral ‘one'.
@@ -41256,14 +41256,14 @@
 \xf il a un peu d'argent!
 \dt 09/Sep/2015
 
-\lx pʰi˧₂
+\lx pʰi˧β
 \sf <nb="2011"> 2387
 \ph pi
 \ps v
 \lc pʰi˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton M₂
+\ton Mβ
 \so <print="n"> F4
 \de To winnow with a fan.
 \ge to_winnow
@@ -41627,7 +41627,7 @@
 \xf Villages au sortir de la plaine de Yongning; les deux premiers comportent une population na; le troisième est un village na; les suivants sont essentiellement des villages pumi/prinmi.
 \xv pi˧tsʰe˩: bɤ˩! |
 \xe fv:/pi˧tsʰe˧/ is a Pumi village!
-\xn fv：/pi˧tsʰe˩/是一个普米族村落！
+\xn fv:/pi˧tsʰe˩/是一个普米族村落！
 \xf fv:/pi˧tsʰe˩/, c'est un village pumi!
 \dt 09/Sep/2015
 
@@ -41925,12 +41925,12 @@
 \xc PHONO
 \dt 09/Sep/2015
 
-\lx po˧₁
+\lx po˧α
 \ph bo
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton M₁
+\ton Mα
 \lc po˧
 \so <print="n"> F4
 \de Classifier for plants with a stalk; also used for pieces of clothing.
@@ -41941,14 +41941,14 @@
 \gf |fg{clf.plantes_à_tige}
 \dt 09/Sep/2015
 
-\lx pɤ˩₁
+\lx pɤ˩α
 \sf <nb="2011"> 107
 \ph beq  XX
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> fait partie des mots classifiés comme ayant un ton “d8"; en fait, ce sont des combinaisons nom+prédicat.
-\ton L₁
+\ton Lα
 \lc pɤ˩˥
 \so <print="n"> F4
 \de To come out, to emerge, to appear.
@@ -41975,7 +41975,7 @@
 \xf émerger, se lever: le soleil se lève
 \dt 09/Sep/2015
 
-\lx pɤ˧₁
+\lx pɤ˧α
 \sf <nb="B"> 1196
 \sf <nb="B"> 1127
 \sf <nb="B"> 1128
@@ -41986,7 +41986,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> zo˧mv̩˥pɤ˩pɤ˩: corrigé en 2007; noté par erreur ˧ ˥ ˧ ˧ puis ˧ ˥ ˧ ˩ en 2006, longues hésitations.
 \np monosyllabe non employé; déduit de la forme rédupliquée, seule en usage actuellement
-\ton M₁
+\ton Mα
 \lc pɤ˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -42039,7 +42039,7 @@
 \xf porter un enfant sur le dos
 \dt 09/Sep/2015
 
-\lx pʰo˩₁
+\lx pʰo˩α
 \sf <nb="B"> 1532
 \sf <nb="2011"> 2317
 \ph poq
@@ -42049,7 +42049,7 @@
 \nt <type="hist" print="n"> (avant 09: noté: pʰo˩˥, ton 3, le˥pʰo˩ze˩) (confirmé en 2012: est un ton L)
 \nt <type="sem"> (sens: s'enfuir; mais selon M23 cela désigne aussi bien le jogging que certains font le matin)
 \np n'est pas pʰv̩˩˥; est différent de 1600 “s'agiter"
-\ton L₁
+\ton Lα
 \lc pʰo˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -42070,14 +42070,14 @@
 \xf (Elle/il) s'est enfui(e)!
 \dt 09/Sep/2015
 
-\lx pʰo˧˥₁
+\lx pʰo˧˥α
 \sf <nb="B"> 853
 \sf <nb="2011"> 1277
 \ph po
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton MH₁
+\ton MHα
 \lc pʰo˧˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -42091,7 +42091,7 @@
 \gf |fg{clf.membre_d_une_paire}
 \dt 09/Sep/2015
 
-\lx po˩₂
+\lx po˩β
 \sf <nb="B"> 854
 \sf <nb="2011"> 1253
 \ph bo
@@ -42100,7 +42100,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="sem"> rouleau, paquet (ex.: cigarettes)
-\ton L₂
+\ton Lβ
 \lc po˩˥
 \np <langue="eng"> Among classifiers belonging to the tone category Lb, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is H#. This word's status as a borrowing (perceived as such) may explain fluctuation: it is occasionally treated as belonging in the La category.
 \np <langue="fra"> Parmi les classificateurs de catégorie tonale Lb, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est H#. Ce mot est un emprunt, et perçu comme tel, ce qui peut expliquer une certaine fluctuation dans son emploi: il est parfois traité comme appartenant à la catégorie La.
@@ -42116,12 +42116,12 @@
 \gf |fg{clf.}包::paquets
 \dt 09/Sep/2015
 
-\lx pɤ˩₂
+\lx pɤ˩β
 \ph be
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton L₂
+\ton Lβ
 \lc pɤ˩˥
 \np <langue="eng"> Among classifiers belonging to the tone category Lb, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is H#.
 \np <langue="fra"> Parmi les classificateurs de catégorie tonale Lb, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est H#.
@@ -42134,13 +42134,13 @@
 \gf |fg{clf.éléments_de_charpente}
 \dt 09/Sep/2015
 
-\lx pɤ˥₂
+\lx pɤ˥β
 \ph be
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \np homophone avec le classificateur des pets
-\ton H₂
+\ton Hβ
 \lc pɤ˧
 \so <print="n"> F4
 \de Classifier for statues, paintings…
@@ -42151,7 +42151,7 @@
 \gf |fg{clf.statues}
 \dt 09/Sep/2015
 
-\lx pʰo˧₂
+\lx pʰo˧β
 \sf <nb="B"> 1204
 \sf <nb="2011"> 1727
 \ph po
@@ -42159,7 +42159,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> gɤ˩pʰu˧: tons confirmés, d'abord noté ˩˥
-\ton M₂
+\ton Mβ
 \lc pʰo˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -43045,7 +43045,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton M₃
+\ton Mγ
 \lc pv̩˧
 \so <print="n"> F4
 \de To perform (a sacrifice, a ritual), to celebrate (a festival), to chant (a ritual).
@@ -43178,7 +43178,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <langue="fra" type="sem"> pas trouvé de nuance qui le distingue du mot na, qui est: /ɖɯ˧-tʰv̩˧˥/
-\ton MH₁
+\ton MHα
 \lc pv̩˧˥
 \so <print="n"> F4
 \de Classifier for steps / strides.
@@ -43348,7 +43348,7 @@
 \xf se retourner par-ci, se retourner par-là
 \dt 10/Sep/2015
 
-\lx pv̩˩₁
+\lx pv̩˩α
 \sf <nb="B"> 1606
 \sf <nb="2011"> 2393
 \hm 1
@@ -43358,7 +43358,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (avant 09: noté /kʶwæ˧le˧pu˧tsʰɯ˩˥/ puis /qʰwæ˧ | le˧-po˧-tsʰɯ˧˥/ qui veut dire: envoyer une lettre, transmettre un message)
 \np raccompagner un hôte
-\ton L₁
+\ton Lα
 \lc pv̩˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -43375,13 +43375,13 @@
 \xf raccompagner un invité
 \dt 10/Sep/2015
 
-\lx pv̩˩₁
+\lx pv̩˩α
 \hm 2
 \ph buq XXX beuq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \lc pv̩˩˥
 \so <print="n"> F4
 \de To allow, to authorize (someone to do something, e.g. to marry); to finance (i.e. to invest money in a caravan); to require (someone to do something).
@@ -43404,7 +43404,7 @@
 \xf On n'est pas autorisé à y aller! (Contexte: discussion au sujet des difficultés pour l'enquêteur d'accès à une localité où sont parlées des langues naish, dans le Sichuan. La consultante résume: «On n'est pas autorisé à y aller! / L'accès n'est pas autorisé!»)
 \dt 10/Sep/2015
 
-\lx pv̩˩₁
+\lx pv̩˩α
 \sf <nb="B"> 1503
 \sf <nb="2011"> 2194
 \hm 3
@@ -43414,7 +43414,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (schéma tonal régulier pour m4a+3a)(confirmé en 2012: est un ton L)
 \np ton 3a
-\ton L₁
+\ton Lα
 \lc pv̩˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -43435,14 +43435,14 @@
 \xf se peigner
 \dt 10/Sep/2015
 
-\lx pʰv̩˩₁
+\lx pʰv̩˩α
 \sf <nb="B"> 954
 \sf <nb="2011"> 1391
 \ph peuq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\ton L₁
+\ton Lα
 \lc pʰv̩˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -43459,12 +43459,12 @@
 \xf |fg{rel}
 \dt 10/Sep/2015
 
-\lx pʰv̩˩₁
+\lx pʰv̩˩α
 \ph pu XX
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton L₂
+\ton Lβ
 \lc pʰv̩˩˥
 \np <langue="eng"> Among classifiers belonging to the tone category Lb, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
 \np <langue="fra"> Parmi les classificateurs de catégorie tonale Lb, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
@@ -43481,7 +43481,7 @@
 \xf un champ; une parcelle
 \dt 10/Sep/2015
 
-\lx pʰv̩˩₂
+\lx pʰv̩˩β
 \sf <nb="B"> 1600
 \sf <nb="2011"> 2391
 \hm 1
@@ -43490,7 +43490,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \np est différent de 1532 “s'échapper"
-\ton L₂
+\ton Lβ
 \lc pʰv̩˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -43513,7 +43513,7 @@
 \xc <langue="fra"> schéma tonal régulier
 \dt 10/Sep/2015
 
-\lx pʰv̩˩₂
+\lx pʰv̩˩β
 \sf <nb="B"> 1600
 \sf <nb="2011"> 2391
 \hm 2
@@ -43521,7 +43521,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₂
+\ton Lβ
 \lc pʰv̩˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -44442,7 +44442,7 @@
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \lc qʰæ˩˥
 \so <print="n"> F4
 \de To crack, to snap off.
@@ -44962,7 +44962,7 @@
 \gf amer
 \dt 01/Oct/2015
 
-\lx qæ˩₁
+\lx qæ˩α
 \sf <nb="B"> 1302
 \sf <nb="2011"> 2576
 \ph ghaeq
@@ -44970,7 +44970,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (le˧-qæ˧~qæ˥ le˧-ʝi˥-kʰɯ˩: vérifié: n'est pas ʑi˥ mais ʝi˥)(confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \lc qæ˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -44991,7 +44991,7 @@
 \xf endormir (un enfant) en le cajolant
 \dt 01/Oct/2015
 
-\lx qɑ˩₁
+\lx qɑ˩α
 \sf <nb="B"> 1721
 \sf <nb="B"> 1207b
 \sf <nb="2011"> 2406
@@ -45001,7 +45001,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (notation 1er terrain: hæ˩kʶv̩˧ tʰi˧ kɑ˩)(confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \lc qɑ˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -45036,7 +45036,7 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -45048,14 +45048,14 @@
 \gf voiler/cacher
 \dt 01/Oct/2015
 
-\lx qʰæ˩₁
+\lx qʰæ˩α
 \hm 1
 \ph khaeq
 \ps adj
 \lc qʰæ˩˥
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \de False, fake.
 \ge fake
@@ -45073,7 +45073,7 @@
 \xf dire des mensonges
 \dt 01/Oct/2015
 
-\lx qʰæ˩₁
+\lx qʰæ˩α
 \sf <nb="B"> 1061, 1030
 \sf <nb="2011"> 1492, 1458
 \hm 2
@@ -45084,7 +45084,7 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n"> (notation 2006: mæ˥kʶæ˧) (avant 09: noté: kʶæ˩˥)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -45116,7 +45116,7 @@
 \xf |fg{rel}
 \dt 01/Oct/2015
 
-\lx qæ˩₂
+\lx qæ˩β
 \sf <nb="B"> 1071
 \sf <nb="2011"> 1508
 \ph ghaeq
@@ -45125,7 +45125,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (notation 09; mai 08: /hĩ˧ kæ˥ kv̩˩; avais d'abord noté /hĩ˥ kʶæ̃˥ kv̩˧/; en fait: initiale non aspirée, juste en arrière, proche d'une uvulaire; ton bas /kv̩˩/; et rime non nasale) (tons vérifiés: est bien ˧ ˥ ˩ et non ˥ ˥ ˩)
-\ton L₂
+\ton Lβ
 \so <print="n"> F4
 \de To cheat, to deceive.
 \ge to_cheat
@@ -45160,7 +45160,7 @@
 \xf C'est de la camelote! / C'est un truc d'arnaqueurs! (au sujet d'une bobine de fil de mauvaise qualité, achetée dans le commerce)
 \dt 01/Oct/2015
 
-\lx qʰæ˧₂
+\lx qʰæ˧β
 \sf <nb="B"> 1238
 \sf <nb="2011"> 1774
 \ph khae
@@ -45169,7 +45169,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (notes avant 09: “kʶæ˧, læ˧ kʰʶæ˧ ze˧, ton 1") (phonétiquement læ˧-qʰæ˧-ze˧)
-\ton M₂
+\ton Mβ
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -45212,7 +45212,7 @@
 \gf cuillère
 \dt 01/Oct/2015
 
-\lx qɑ˩₃
+\lx qɑ˩γ
 \sf <nb="2011"> 1269
 \ph gha
 \ps clf
@@ -45222,7 +45222,7 @@
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> (sens vérifié en 2007)
 \nt <type="hist" print="n"> ID.
-\ton L₃
+\ton Lγ
 \so <print="n"> F4
 \de Classifier for armfuls: of firewood, objects…
 \ge |fg{clf.armfuls}
@@ -45961,12 +45961,12 @@
 \xf tuer une vache
 \dt 01/Oct/2015
 
-\lx qo˩₁
+\lx qo˩α
 \ph ghoq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \lc qo˩˥
 \so <print="n"> F4
 \de To put away, to preserve (e.g. to put leftovers in a box so flies won't land on it).
@@ -45977,12 +45977,12 @@
 \gf garder/ranger
 \dt 01/Oct/2015
 
-\lx qʰo˧₁
+\lx qʰo˧α
 \ph kho
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton M₁
+\ton Mα
 \lc qʰo˧
 \so <print="n"> F4
 \de To pile up (e.g. stones).
@@ -45997,13 +45997,13 @@
 \xf empiler des pierres
 \dt 01/Oct/2015
 
-\lx qʰo˩₂
+\lx qʰo˩β
 \ph khoq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n" langue="eng"> Before 2014: tone erroneously classified as Lb; patterns thoroughly verified with F4 in Aug. 2014.
-\ton L₂
+\ton Lβ
 \lc qʰo˩˥
 \so <print="n"> F4
 \de To invite, to treat.
@@ -46626,13 +46626,13 @@
 \xf c'est quoi ce bruit?
 \dt 01/Oct/2015
 
-\lx qv̩˩₁
+\lx qv̩˩α
 \ph gheuq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> avant juin 2012: noté: /*le˧-qv̩˩ lə˩-po˩-tsʰɯ˩˥/
-\ton L₁
+\ton Lα
 \lc qv̩˩˥
 \so <print="n"> F4
 \de To wash (something) along (of water); to be carried (by water) (heavy objects, e.g. rocks are carried by a stream; the verb cannot be used for light objects, such as leaves).
@@ -46655,12 +46655,12 @@
 \xf pierres amenées par la rivière, pierres charriées (jusqu'ici) par la rivière
 \dt 01/Oct/2015
 
-\lx qʰv̩˥₁
+\lx qʰv̩˥α
 \ph kheu
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton H₁
+\ton Hα
 \lc qʰv̩˧
 \so <print="n"> F4
 \de Classifier for hamlets / small villages.
@@ -47261,7 +47261,7 @@
 \xf Je vais te gifler! / Je vais te flanquer une gifle! (A un enfant)
 \dt 01/Oct/2015
 
-\lx qʰwæ˩₁
+\lx qʰwæ˩α
 \sf <nb="2011"> 1743
 \ph khuaeq
 \ps v
@@ -47269,7 +47269,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="M21"> ID.; réduplication: tʰi˧qʰwæ˧qʰwæ˥
 \vf avant 09: noté kʰwæ˧kʰwæ˧) obstruer, boucher
@@ -47281,13 +47281,13 @@
 \gf bloquer
 \dt 01/Oct/2015
 
-\lx qʰwæ˧˥₁
+\lx qʰwæ˧˥α
 \ph khuae
 \ps clf
 \lc qʰwæ˩˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton MH₁
+\ton MHα
 \so <print="n"> F4
 \de Classifier for filaments of hemp before spinning.
 \ge |fg{clf.filaments}
@@ -47730,7 +47730,7 @@
 \xf récit d'autrefois, conte
 \dt 01/Oct/2015
 
-\lx qwɤ˩₁
+\lx qwɤ˩α
 \ph ghuaq
 \ps v
 \sd <langue="fra"> verbe
@@ -47738,7 +47738,7 @@
 \nt <type="hist" print="n"> vérifié: initiale uvulaire
 \nt <type="sem"> ex.: ds histoire “poisson"; vérifié en 2011: initiale uvulaire et non vélaire
 \np ex.: tʰi˧-qwɤ˩-dʑo˩ “ça pousse!"
-\ton L₁
+\ton Lα
 \lc qwɤ˩˥
 \so <print="n"> F4
 \de To grow.
@@ -47757,7 +47757,7 @@
 \xf Il/elle a grandi! (Au sujet d'un enfant qu'on revoit après un certain temps)
 \dt 01/Oct/2015
 
-\lx qwɤ˧₁
+\lx qwɤ˧α
 \sf <nb="B"> 1255
 \sf <nb="2011"> 1799
 \ph ghua
@@ -47765,7 +47765,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> avais noté, avant 2011: hĩ˧ kwɤ˩ “dénoncer quelqu'un"; en 2011: vérification peu soigneuse: avais conclu à: initiale vélaire et non uvulaire; et modifié à mauvais escient les tons en: hĩ˧ kwɤ˥, puis rétabli hĩ˧ kwɤ˩
-\ton M₁
+\ton Mα
 \lc qwɤ˧
 \so <print="n"> F4
 \va <speaker="M21"> ID.
@@ -47798,7 +47798,7 @@
 \xf |fg{red}
 \dt 01/Oct/2015
 
-\lx qʰwɤ˩₁
+\lx qʰwɤ˩α
 \sf <nb="B"> 1067
 \sf <nb="2011"> 1503
 \hm 1
@@ -47807,7 +47807,7 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n"> (notation 09; confirmé par F4; auparavant, noté: /kʰwɑ˩˧/) aussi: sɯ˧ʐwæ˩˧! ss doute “qui sait bcp", verbe “savoir"
-\ton L₁
+\ton Lα
 \lc qʰwɤ˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -47835,14 +47835,14 @@
 \xf |fg{intensif.très} _: très intelligent
 \dt 01/Oct/2015
 
-\lx qʰwɤ˩₁
+\lx qʰwɤ˩α
 \hm 2
 \ph khuaq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="sem"> cognat du naxi /kʰwɑ˩/
-\ton L₁
+\ton Lα
 \lc qʰwɤ˩˥
 \so <print="n"> F4
 \de Bad.
@@ -47886,7 +47886,7 @@
 \xf Il/elle fait exprès d'embêter les gens!
 \dt 01/Oct/2015
 
-\lx qʰwɤ˧₁
+\lx qʰwɤ˧α
 \sf <nb="B"> 1779b
 \sf <nb="2011"> 2532
 \ph khua
@@ -47894,7 +47894,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> lə˧qʰwɤ˧ze˧ (avant 09: noté /le˧ kʶwɑ˧ ze˧/)
-\ton M₁
+\ton Mα
 \lc qʰwɤ˧
 \so <print="n"> F4
 \va <speaker="M21"> ID.
@@ -47911,13 +47911,13 @@
 \xf C'est guéri! / La fracture est rétablie!
 \dt 01/Oct/2015
 
-\lx qʰwɤ˧˥₁
+\lx qʰwɤ˧˥α
 \ph khua
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \np (ton lexical de base: ˩˧)
-\ton MH₁
+\ton MHα
 \lc qʰwɤ˧˥
 \so <print="n"> F4
 \de A bowl(ful) of.
@@ -48597,7 +48597,7 @@
 \xf |fg{accomp} _ |fg{pfv}
 \dt 01/Oct/2015
 
-\lx ɻæ˩₁
+\lx ɻæ˩α
 \sf <nb="B"> 1785
 \sf <nb="2011"> 2629
 \ph laeq XXX
@@ -48605,7 +48605,7 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n"> (corrigé en 09; auparavant: noté: “/ɻæ˩ ti˩ ɻæ˩˥ gv̩˧/, ressemble parfois à ɻæ˩ ti˩ æ˩˥ gv̩˧")
-\ton L₁
+\ton Lα
 \lc ɻæ˩˥
 \so <print="n"> F4
 \va <speaker="F5"> læ˩ti˩læ˧gv̩˩
@@ -48626,7 +48626,7 @@
 \xf raplapla, ratatiné
 \dt 01/Oct/2015
 
-\lx ʁæ˩₁
+\lx ʁæ˩α
 \sf <nb="B"> 1473
 \sf <nb="B"> 1195
 \sf <nb="2011"> 2158
@@ -48636,7 +48636,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> le˧-ʁæ˩-ze˩: phonétiquement: læ˧…(confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \lc ʁæ˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -48668,7 +48668,7 @@
 \xf les mottes de terre se défond, se dissolvent (dans l'eau dont on inonde les champs après les labours)
 \dt 01/Oct/2015
 
-\lx ʁæ˩₁
+\lx ʁæ˩α
 \sf <nb="B"> 1646
 \sf <nb="2011"> 2456
 \hm 2
@@ -48676,7 +48676,7 @@
 \ps adj
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \lc ʁæ˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -48693,14 +48693,14 @@
 \xf ivre d'alcool
 \dt 01/Oct/2015
 
-\lx ʁæ˩₁
+\lx ʁæ˩α
 \hm 3
 \ph hraeq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="sem"> selon la locutrice: ne viendrait pas de ʁæ ‘riche'
-\ton L₁
+\ton Lα
 \lc ʁæ˩˥
 \so <print="n"> F4
 \de Appropriate; auspicious.
@@ -48731,7 +48731,7 @@
 \xf Il ne fait pas attention dans son travail! il ne travaille pas avec soin! il fait n'importe quoi!
 \dt 01/Oct/2015
 
-\lx ʁæ˩₁
+\lx ʁæ˩α
 \sf <nb="B"> 1017d
 \sf <nb="2011"> 2483
 \hm 4
@@ -48741,7 +48741,7 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \np (cf 1017c)
-\ton L₁
+\ton Lα
 \lc ʁæ˩˥
 \so <print="n"> F4
 \de Ugly.
@@ -48752,7 +48752,7 @@
 \gf laid
 \dt 01/Oct/2015
 
-\lx ʁɑ˧₂
+\lx ʁɑ˧β
 \sf <nb="B"> 1610
 \sf <nb="2011"> 2398
 \ph hra
@@ -48761,7 +48761,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (notes anciennes: ɖɯ˩ tɕju˧ pɑ˧ʁɑ˧; sɑ˧hɑ˩˥; ɖɯ˩ tɕju˧ ʁɑ˧)
 \nt <type="hist" print="n"> (bien vérifié: est ton 1)
-\ton M₂
+\ton Mβ
 \lc ʁɑ˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -49254,12 +49254,12 @@
 \xf Ne provoque pas les gens!
 \dt 01/Oct/2015
 
-\lx ɻ̃˧₂
+\lx ɻ̃˧β
 \ph eun
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton M₂
+\ton Mβ
 \lc ɻ̃˧
 \so <print="n"> F4
 \de Classifier for clans / extended families; literally ‘one bone'. This unit is located one level higher up than the ‘family community' in Fu Maoji's (1983) terminology.
@@ -49531,13 +49531,13 @@
 \xc <langue="fra"> Combinaison élicitée pour voir avec quels mots ‘début' peut se combiner. Résultat: on ne peut dire ‘début de journée' de cette façon.
 \dt 01/Oct/2015
 
-\lx ʁo˩₂
+\lx ʁo˩β
 \ph woq
 \ps v
 \lc ʁo˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₂
+\ton Lβ
 \so <print="n"> F4
 \de To form, to appear: e.g. a callus has formed.
 \ge to_form
@@ -49556,13 +49556,13 @@
 \xc PHONO
 \dt 01/Oct/2015
 
-\lx ʁo˩₂
+\lx ʁo˩β
 \ph wo
 \ps clf
 \lc ʁo˩˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton L₂
+\ton Lβ
 \np <langue="eng"> Among classifiers belonging to the tone category Lb, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is H#.
 \np <langue="fra"> Parmi les classificateurs de catégorie tonale Lb, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est H#.
 \so <print="n"> F4
@@ -50980,12 +50980,12 @@
 \gf gauche
 \dt 02/Oct/2015
 
-\lx ɻwæ˥₂
+\lx ɻwæ˥β
 \ph luae
 \ps clf
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\ton H₂
+\ton Hβ
 \lc ɻwæ˧
 \so <print="n"> F4
 \de Classifier for places.
@@ -51193,7 +51193,7 @@
 \xc <type="tone"> M
 \dt 02/Oct/2015
 
-\lx ʁwɤ˧₁
+\lx ʁwɤ˧α
 \sf <nb="B"> 1718
 \sf <nb="B"> 1239
 \sf <nb="B"> 1500
@@ -51204,7 +51204,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (tʰi˧ʁwɤ˧ze˧) (avant 2011, laissé une entrée ɖɯ˧-ʁwɤ˥-ɭɯ˩; est en fait …-ɭv̩˩)
 \nt <type="sem"> cf “tas"
-\ton M₁
+\ton Mα
 \lc ʁwɤ˧
 \so <print="n"> F4
 \va <speaker="F5"> ɖɯ˧-ʁwɤ˧ tʰi˧-tsɯ˥
@@ -51238,7 +51238,7 @@
 \xc PHONO
 \dt 02/Oct/2015
 
-\lx ʁwɤ˧₁
+\lx ʁwɤ˧α
 \sf <nb="B"> 847
 \sf <nb="2011"> 1267
 \ph wua
@@ -51246,7 +51246,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="sem"> (cf aussi “amasser")
-\ton M₁
+\ton Mα
 \lc ʁwɤ˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -51381,7 +51381,7 @@
 \xf Villages au sortir de la plaine de Yongning; les deux premiers comportent une population na; le troisième est un village na; les suivants sont essentiellement des villages pumi/prinmi.
 \xv ʁwɤ˧tv̩˧: | bɤ˧!
 \xe fv:/ʁwɤ˧tv̩˧/ is a Pumi village!
-\xn fv：/ʁwɤ˧tv̩˧/是一个普米族村落！
+\xn fv:/ʁwɤ˧tv̩˧/是一个普米族村落！
 \xf fv:/ʁwɤ˧tv̩˧/, c'est un village pumi!
 \dt 02/Oct/2015
 
@@ -51416,14 +51416,14 @@
 \xc PROVERBE
 \dt 02/Oct/2015
 
-\lx ʁwɤ˧~ʁwɤ˥₁
+\lx ʁwɤ˧~ʁwɤ˥α
 \sf <nb="2011"> 2306
 \ph wuawua
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \np les tons de la forme rédupliquée suggèrent un simplex au ton ˩ (ton 3a)
-\ton L₁
+\ton Lα
 \lc ʁwɤ˩ʁwɤ˩˥
 \so <print="n"> F4
 \de To discuss, to negotiate.
@@ -51478,7 +51478,7 @@
 \gf |fg{inchoatif}
 \dt 06/Oct/2015
 
-\lx ɻ̍˩₂
+\lx ɻ̍˩β
 \sf <nb="B"> 694
 \sf <nb="2011"> 1965
 \ph erq XX??
@@ -51487,7 +51487,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (confirmé par F4; différent de la version de dd, qui est: /ze˩gi˧lv̩˥/, même sens); exemple 3: tons confirmés en 2011
 \nt <type="sem"> voir également l'emploi nominal: ʐv̩˧-ɻ̍˥ ‘les quatre directions, les quatre côtés'
-\ton L₂
+\ton Lβ
 \lc ɻ̍˩˥
 \so <print="n"> F4
 \vf a) ɖɯ˧ tɕju˥ mæ˧ “dans cette direction-ci"
@@ -51871,13 +51871,13 @@
 \xc PHONO
 \dt 05/Oct/2015
 
-\lx sɑ˧˥₁
+\lx sɑ˧˥α
 \ph sa
 \ps clf
 \lc sɑ˧˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton MH₁
+\ton MHα
 \so <print="n"> F4
 \de Classifier for salted, smoked hog legs.
 \ge |fg{clf.salted_hog_legs}
@@ -51891,7 +51891,7 @@
 \xf une patte de cochon conservée (viande des membres du cochon, conservée --séchée-- avec l'os)
 \dt 05/Oct/2015
 
-\lx ʂæ˧˥₁
+\lx ʂæ˧˥α
 \sf <nb="B"> 2137
 \sf <nb="2011"> 1268
 \ph shae
@@ -51899,7 +51899,7 @@
 \lc ʂæ˧˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton MH₁
+\ton MHα
 \so <print="n"> F4
 \va <speaker="M21"> ɖɯ˧ ʂæ˧˥, ɖɯ˧ ʂæ˧ ɲi˥, ton m4
 \de A sheaf of cut rice or other crop (the amount cut at one go with a sickle and immediately tied together with one sprig).
@@ -52388,7 +52388,7 @@
 \xf même sens
 \dt 05/Oct/2015
 
-\lx se˩₁
+\lx se˩α
 \sf <nb="B"> 1152
 \sf <nb="B"> 1153
 \sf <nb="2011"> 1647
@@ -52397,7 +52397,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \lc se˩˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
@@ -52426,7 +52426,7 @@
 \xf Parenthèse au sujet de la documentation linguistique: on ne peut pas en voir le bout (tout collecter de façon exhaustive); mais on peut réaliser de belles choses!
 \dt 05/Oct/2015
 
-\lx ʂe˧₁
+\lx ʂe˧α
 \sf <nb="B"> 1592
 \sf <nb="2011"> 2376
 \ph shei
@@ -52434,7 +52434,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (d'abord noté ʂe˩)
-\ton M₁
+\ton Mα
 \lc ʂe˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -52476,7 +52476,7 @@
 \xf préparer (des ingrédients pour une recette, ses bagages…)
 \dt 05/Oct/2015
 
-\lx ʂe˩₂
+\lx ʂe˩β
 \sf <nb="B"> 2237
 \sf <nb="B"> 2238b
 \sf <nb="2011"> 1661
@@ -52486,7 +52486,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (vérifié en 09) (fourni à l'origine par M21; confirmé par F4)
 \np donne: dʑi˧ʂe˧˥ (formé de: m1+m4a) (ton du verbe: déduit du schéma tonal du composé: le verbe est au ton 3b) (pas obtenu de forme rédupliquée)
-\ton L₂
+\ton Lβ
 \lc ʂe˩˥
 \so <print="n"> F4
 \de To urinate.
@@ -53405,7 +53405,7 @@
 \xf bois mort
 \dt 05/Oct/2015
 
-\lx si˧₁
+\lx si˧α
 \sf <nb="B"> 1542
 \sf <nb="2011"> 2335
 \ph see
@@ -53413,7 +53413,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (corrigé en mars 09; auparavant: avais noté /sɯ/, n'ayant pas décelé le contraste /si/ - /sɯ/); lə˧si˥si˩: tv en 09
-\ton M₁
+\ton Mα
 \lc si˧
 \so <print="n"> F4
 \va <speaker="M21"> sv̩˧, ton 1
@@ -54334,7 +54334,7 @@
 \xf on récolte (le riz) une fois par an!
 \dt 06/Oct/2015
 
-\lx so˩₁
+\lx so˩α
 \sf <nb="B"> 1031b
 \sf <nb="2011"> 1462
 \hm 1
@@ -54342,7 +54342,7 @@
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\ton L₁
+\ton Lα
 \lc so˩˥
 \so <print="n"> F4
 \de Good, pleasant to the taste or smell.
@@ -54353,7 +54353,7 @@
 \gf bon(goût/odeur)
 \dt 06/Oct/2015
 
-\lx so˩₁
+\lx so˩α
 \sf <nb="B"> 1588
 \sf <nb="2011"> 2365
 \hm 2
@@ -54364,7 +54364,7 @@
 \sd <langue="eng"> verb
 \nt <langue="pumi" type="comp" print="n"> swə̃51 (même polysémie: apprendre, et enseigner)
 \nt <type="hist" print="n"> (confirmé; avant 09, avais noté: ʈʰæ˥ɻæ˩ so˩)(confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \lc so˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -54392,7 +54392,7 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -54411,7 +54411,7 @@
 \sn 3
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -54432,13 +54432,13 @@
 \xf Je vais t'enseigner/t'apprendre!
 \dt 06/Oct/2015
 
-\lx so˧₁
+\lx so˧α
 \ph so
 \ps clf
 \lc so˩˥
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \de Classifier for mornings.
 \ge |fg{clf.mornings}
@@ -54456,7 +54456,7 @@
 \xf ce matin-là
 \dt 06/Oct/2015
 
-\lx ʂo˩₁
+\lx ʂo˩α
 \sf <nb="B"> 1053
 \sf <nb="B"> 976
 \sf <nb="B"> 1054
@@ -54468,7 +54468,7 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n"> (idem “propre") (enrt 1: a dit par erreur: ʐu˩˥ “léger", qing1); ou emprunt au chinois
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \de Clean; clear (water).
@@ -54498,7 +54498,7 @@
 \xf de l'eau claire, de l'eau propre
 \dt 06/Oct/2015
 
-\lx ʂɤ˩₁
+\lx ʂɤ˩α
 \sf <nb="B"> 1524
 \sf <nb="2011"> 1781
 \ph sheq
@@ -54507,7 +54507,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> /ʂɤ/, ton 3, se rédupliquant en ʂɤ˧ʂɤ˥: voudrait dire “déchiqueter, déchirer en petits morceaux"
@@ -55339,7 +55339,7 @@
 \xf de la viande fraîche
 \dt 09/Oct/2015
 
-\lx sɯ˩₁
+\lx sɯ˩α
 \sf <nb="B"> 1661
 \sf <nb="2011"> 2485
 \ph siq
@@ -55347,7 +55347,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (avant 09: noté /tʰi˥ sɯ˧ dʑju˧/, par erreur) (vérifié: n'est pas /si/)
-\ton L₁
+\ton Lα
 \lc sɯ˩˥
 \so <print="n"> F4
 \va <speaker="M23"> ID.
@@ -55368,7 +55368,7 @@
 \xf ce n'est pas mort! c'est encore vivant! (au sujet d'une plante/d'un animal qui paraissait mort(e))
 \dt 09/Oct/2015
 
-\lx sɯ˧₁
+\lx sɯ˧α
 \sf <nb="B"> 1177
 \sf <nb="2011"> 1686
 \ph si
@@ -55378,7 +55378,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (sens vérifié avec M23 en 09; et vérifié: est /sɯ/ et non /si/)
 \np sens: enfiler (quelque chose sur un fil)
-\ton M₁
+\ton Mα
 \lc sɯ˧
 \so <print="n"> F4
 \vf a) sɯ˧ɻ̍˧ sɯ˧ sɯ˩
@@ -55410,7 +55410,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (sens vérifié avec M23 en 09; et vérifié: est /sɯ/ et non /si/)
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \vf a) sɯ˧ɻ̍˧ sɯ˧ sɯ˩
 \vf tons vérifiés
@@ -55430,7 +55430,7 @@
 \xf enfiler une robe
 \dt 09/Oct/2015
 
-\lx ʂɯ˧₁
+\lx ʂɯ˧α
 \hm 1
 \ph shi
 \ps v
@@ -55438,7 +55438,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \np La forme simplex n'est pas attestée, seulement la forme rédupliquée. Le ton M est déduit du schéma tonal H+L de la forme rédupliquée.
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \de To leak.
 \ge to_leak
@@ -55456,7 +55456,7 @@
 \xf Ca ne s'écoule pas, ça ne fuit pas! (fv:/ʑi˧/: ‘s'écouler’)
 \dt 09/Oct/2015
 
-\lx ʂɯ˧₁
+\lx ʂɯ˧α
 \sf <nb="B"> 1662
 \sf <nb="2011"> 2486
 \hm 2
@@ -55466,7 +55466,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <langue="pumi" type="comp" print="n"> sɨ35
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \de To die.
@@ -55489,14 +55489,14 @@
 \xf Crève donc! / Crève, charogne! (imprécation/malédiction, qu'on lance sous le coup de la colère)
 \dt 09/Oct/2015
 
-\lx ʂɯ˩₂
+\lx ʂɯ˩β
 \sf <nb="2011"> 1295
 \ph shi
 \ps clf
 \lc ʂɯ˧
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton L₂
+\ton Lβ
 \np <langue="eng"> Among classifiers belonging to the tone category Lb, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is H#.
 \np <langue="fra"> Parmi les classificateurs de catégorie tonale Lb, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est H#.
 \so <print="n"> F4
@@ -56382,7 +56382,7 @@
 \xf quatre dés (les dés allaient par quatre)
 \dt 09/Oct/2015
 
-\lx ʂv̩˧₂
+\lx ʂv̩˧β
 \sf <nb="B"> 1700
 \sf <nb="2011"> 2523
 \ph shu
@@ -56391,7 +56391,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (lə˧ʂv̩˧ze˧; note-carnet, 11/2007: “songe à noter ˥˥˥; nouvelle incertitude entre ˧ ˧ ˧ et ˥ ˥ ˥"); avant 2011, noté: zo˧mv̩˥ ʂv̩˩; en 2011, nouvelle hésitation entre …ʂv̩˧ et …ʂv̩˩; bilan: est bien ʂv̩˩. (d'abord noté: /le˧ ʂv̩˧ tʰe˧ kʰɯ˧/, puis /le˧ ʂv̩˧ tʰi˧ kʰɯ˥/ et /le˧ ʂv̩˧ tʰe˧ kʰɯ˧ tʰæ˧ɣɯ˧ so˩/; corrigé en 2009)
-\ton M₂
+\ton Mβ
 \lc ʂv̩˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -56418,7 +56418,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (lə˧ʂv̩˧ze˧; note-carnet, 11/2007: “songe à noter ˥˥˥; nouvelle incertitude entre ˧ ˧ ˧ et ˥ ˥ ˥"); avant 2011, noté: zo˧mv̩˥ ʂv̩˩; en 2011, nouvelle hésitation entre …ʂv̩˧ et …ʂv̩˩; bilan: est bien ʂv̩˩. (d'abord noté: /le˧ ʂv̩˧ tʰe˧ kʰɯ˧/, puis /le˧ ʂv̩˧ tʰi˧ kʰɯ˥/ et /le˧ ʂv̩˧ tʰe˧ kʰɯ˧ tʰæ˧ɣɯ˧ so˩/; corrigé en 2009)
-\ton M₂
+\ton Mβ
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -56805,7 +56805,7 @@
 \xc <langue="fra"> schéma tonal régulier
 \dt 09/Oct/2015
 
-\lx ʂwæ˩₁
+\lx ʂwæ˩α
 \sf <nb="B"> 1591
 \sf <nb="2011"> 2252
 \ph shuaeq
@@ -56813,7 +56813,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \lc ʂwæ˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -56832,7 +56832,7 @@
 \xf fumer de la viande
 \dt 09/Oct/2015
 
-\lx ʂwæ˧₁
+\lx ʂwæ˧α
 \sf <nb="B"> 2217
 \sf <nb="2011"> 2231
 \ph shuae
@@ -56841,7 +56841,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (tv; tons d'abord notés ˧ ˥ ˧) (phonétiquement: læ˧…)
 \nt <type="sem"> généralement employé sous sa forme rédupliquée: le˧-ʂwæ˥~ʂwæ˩
-\ton M₁
+\ton Mα
 \lc ʂwæ˧
 \so <print="n"> F4
 \de To stir.
@@ -57207,14 +57207,14 @@
 \gf s_emboîter
 \dt 09/Oct/2015
 
-\lx tɑ˩₁
+\lx tɑ˩α
 \ph da
 \ps clf
 \lc tɑ˧˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> Avant 2014: noté comme ton Lb. Vérifié soigneusement en août 2014.
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \de Classifier for sums of money.
 \ge |fg{clf.sums}
@@ -57228,7 +57228,7 @@
 \xf un paquet d'argent, une liasse de billets…
 \dt 09/Oct/2015
 
-\lx tɑ˧₁
+\lx tɑ˧α
 \sf <nb="B"> 1510b
 \sf <nb="2011"> 2236
 \ph da
@@ -57237,7 +57237,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (d'abord noté ho˧ kʰɯ˧ tʰi˧ tɑ˧)
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \de To dry beside or over a fire.
 \ge to_dry_beside/over_a_fire
@@ -57251,7 +57251,7 @@
 \xf réchauffer (la nourriture…) auprès du feu
 \dt 09/Oct/2015
 
-\lx tɑ˧˥₁
+\lx tɑ˧˥α
 \sf <nb="B"> 895
 \sf <nb="B"> 896
 \sf <nb="B"> 910
@@ -57263,7 +57263,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \np peut s'utiliser avec des numéraux autres que un
-\ton MH₁
+\ton MHα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ɖɯ˧tɑ˧ɻ̍˥
@@ -57286,7 +57286,7 @@
 \xf entièrement, tout, tout le monde (même sens que ci-dessus, avec le morphème de pluriel)
 \dt 09/Oct/2015
 
-\lx ʈæ˩₁
+\lx ʈæ˩α
 \sf <nb="B"> 1294
 \sf <nb="2011"> 1730
 \ph daeq
@@ -57298,7 +57298,7 @@
 \nt <langue="pumi" type="comp" print="n"> tæ̃35
 \nt <type="hist" print="n"> (avant 09: noté bv̩˩ko˩ʈæ˩, par erreur)(confirmé en 2012: est un ton L)
 \np ton 3a
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -57325,7 +57325,7 @@
 \sd <langue="eng"> verb
 \nt <langue="pumi" type="comp" print="n"> tæ̃35
 \np ton 3a
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -58856,7 +58856,7 @@
 \gf épine
 \dt 09/Oct/2015
 
-\lx tɕi˩₁
+\lx tɕi˩α
 \sf <nb="B"> 916
 \sf <nb="B"> 1784
 \sf <nb="2011"> 1344
@@ -58865,7 +58865,7 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n"> (confirmé en 09) (n'est pas tɕɯ)
-\ton L₁
+\ton Lα
 \lc tɕi˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -58888,7 +58888,7 @@
 \xf de petite taille
 \dt 09/Oct/2015
 
-\lx tɕi˧₁
+\lx tɕi˧α
 \sf <nb="B"> 886
 \sf <nb="2011"> 1365
 \ph jie
@@ -58896,7 +58896,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \np peut s'utiliser avec des numéraux autres que un
-\ton M₁
+\ton Mα
 \lc tɕi˧
 \so <print="n"> F4
 \de Some, a few.
@@ -58915,7 +58915,7 @@
 \xf ceux-ci
 \dt 09/Oct/2015
 
-\lx tɕʰi˩₂
+\lx tɕʰi˩β
 \sf <nb="B"> 1159
 \sf <nb="2011"> 1653
 \ph qie
@@ -58924,7 +58924,7 @@
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> (comportement tonal: comme “fois", ʂɯ˩, sauf avec “neuf": “neuf repas" se dit: /gv̩˧-tɕʰi˥/) (n'est pas tɕʰɯ)
 \nt <type="hist" print="n"> (avant 09: noté: ɖɯ˥ tɕʰi˩ dzɯ˧; en 2006: avais noté: ɖɯ˥tɕʰi˧dzɯ˧ +ze˩)
-\ton L₂
+\ton Lβ
 \lc tɕʰi˩˥
 \np <langue="eng"> Among classifiers belonging to the tone category Lb, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
 \np <langue="fra"> Parmi les classificateurs de catégorie tonale Lb, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
@@ -58955,7 +58955,7 @@
 \xf la personne qui se charge du repas / qui nourrit tous les participants (lors d'un repas de veillée funéraire)
 \dt 09/Oct/2015
 
-\lx tɕʰi˧₂
+\lx tɕʰi˧β
 \sf <nb="B"> 1502
 \sf <nb="2011"> 2520
 \hm 1
@@ -58965,7 +58965,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (avant 09, noté: ɑ˧ʁu˥ tɕʰi˥, par erreur)(n'est pas tɕʰɯ)
 \nt <type="hist" print="n"> xxxx commentaire Roselle, 2015: ce serait: voyelle ɯ: même mot que “garder", indiqué au ton a
-\ton M₂
+\ton Mβ
 \lc tɕʰi˧
 \so <print="n"> F4
 \va <speaker="M21"> ID.
@@ -58991,7 +58991,7 @@
 \xc PHONO
 \dt 09/Oct/2015
 
-\lx tɕʰi˧₂
+\lx tɕʰi˧β
 \sf <nb="B"> 1418
 \sf <nb="2011"> 2046
 \hm 2
@@ -59002,7 +59002,7 @@
 \nt <type="hist" print="n"> (vérifié en 09)(n'est pas tɕʰɯ)
 \nt <type="hist" print="n"> (comportements en cadre: à vérifier: est-ce 1b comme chez F4? zzzzF5)
 \np ton 1b
-\ton M₂
+\ton Mβ
 \lc tɕʰi˧
 \so <print="n"> F4
 \va <speaker="F5"> tɕʰi˥
@@ -59529,13 +59529,13 @@
 \xf Vous me trompez!
 \dt 08/Oct/2015
 
-\lx tɕʰo˩₁
+\lx tɕʰo˩α
 \ph qoq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> avant déc. 2011: avais traduit par erreur comme 躲避、躲藏 ‘se cacher'(confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \lc tɕʰo˩˥
 \so <print="n"> F4
 \de To accompany someone, to go along with someone.
@@ -60550,7 +60550,7 @@
 \xf Ce bœuf, on lui a percé le museau (pour y placer un anneau)!
 \dt 08/Oct/2015
 
-\lx tɕɯ˩₁
+\lx tɕɯ˩α
 \sf <nb="B"> 1303
 \sf <nb="B"> 1589
 \sf <nb="2011"> 1859
@@ -60560,7 +60560,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (tv avec M23)(confirmé en 2012: est un ton L) (avant 2009: noté /*ʈʰæ˥ɻ̍˩tɕi˩di˩/)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> tɕɯ˧~tɕɯ˥-bæ˩bæ˩ ‘pattern'
 \va <speaker="M21"> ID.
@@ -60600,7 +60600,7 @@
 \xf Elle/il est en train d'écrire
 \dt 08/Oct/2015
 
-\lx tɕɯ˧˥₁
+\lx tɕɯ˧˥α
 \sf <nb="B"> 859
 \sf <nb="2011"> 1259
 \hm 1
@@ -60610,7 +60610,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> vérifié: n'est pas homophone de “une livre" 一斤
-\ton MH₁
+\ton MHα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -60623,7 +60623,7 @@
 \gf |fg{clf.fardeaux_d_animaux}
 \dt 08/Oct/2015
 
-\lx tɕɯ˧˥₁
+\lx tɕɯ˧˥α
 \sf <nb="B"> 865
 \sf <nb="2011"> 1265
 \hm 2
@@ -60634,7 +60634,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> (d'abord noté ˥) (d'abord noté “n'est pas *tɕɯ"; mais en avril 2012, rétabli tɕɯ; inattendu pour un mot qui paraît être un emprunt)
-\ton MH₁
+\ton MHα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -60651,7 +60651,7 @@
 \xf une pinte de vin
 \dt 08/Oct/2015
 
-\lx tɕʰɯ˩₁
+\lx tɕʰɯ˩α
 \sf <nb="B"> 1035
 \sf <nb="2011"> 1466
 \ph qiq
@@ -60659,7 +60659,7 @@
 \lc tɕʰɯ˧˥
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -60671,7 +60671,7 @@
 \gf sucré
 \dt 08/Oct/2015
 
-\lx tɕʰɯ˧₁
+\lx tɕʰɯ˧α
 \hm 1
 \ph qi
 \ps v
@@ -60679,7 +60679,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="sem"> pas réussi à isoler la 2e syllabe: à l'obtenir sans le préfixe /gɤ˩/
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \de To raise (one's arm).
 \ge to_raise
@@ -60702,7 +60702,7 @@
 \xc PHONO
 \dt 08/Oct/2015
 
-\lx tɕʰɯ˧₁
+\lx tɕʰɯ˧α
 \hm 2
 \ph qi
 \ps v
@@ -60710,7 +60710,7 @@
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \de To guard, to keep guard.
 \ge to_guard
@@ -60721,7 +60721,7 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \de To keep a deathwatch, to sit with others at a funeral wake.
 \ge to_keep_a_deathwatch
@@ -60735,7 +60735,7 @@
 \xf même sens: veiller un défunt
 \dt 08/Oct/2015
 
-\lx tɕɯ˧₂
+\lx tɕɯ˧β
 \sf <nb="2011"> 2420
 \ph ji
 \ps v
@@ -60743,7 +60743,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \np ton: déduit de la forme rédupliquée
-\ton M₂
+\ton Mβ
 \so <print="n"> F4
 \de To shake.
 \ge to_shake
@@ -61350,7 +61350,7 @@
 \xf faute de quoi
 \dt 08/Oct/2015
 
-\lx ti˩₁
+\lx ti˩α
 \sf <nb="B"> 1191a
 \sf <nb="B"> 1241
 \sf <nb="B"> 1457
@@ -61361,7 +61361,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (historique: notation 2007: le˥ti˩, le˥ti˩ze˩; en 2006, avais noté: le˧ti˩, le˧ti˩ze˩) (tv en 09; auparavant, noté: “/ʈʂu˧bu˩ ti˥ (tons confirmés)")(confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \lc ti˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -61392,7 +61392,7 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -61414,13 +61414,13 @@
 \xf (Elle/il) a donné une tape à quelqu'un.
 \dt 08/Oct/2015
 
-\lx ti˧˥₁
+\lx ti˧˥α
 \ph di
 \ps clf
 \lc ti˩˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton MH₁
+\ton MHα
 \so <print="n"> F4
 \de Classifier for layers (of dust, of boards…).
 \ge |fg{clf.layers}
@@ -61434,7 +61434,7 @@
 \xf se retrouver au plus profond de la forêt: littéralement «dans la neuvième couche de forêt/d'alpage» (=au plus profond; on ne compte pas au-delà de la 9e «couche»; ce décompte est métaphorique, il ne correspond pas à un décompte en étapes à pied, par exemple.
 \dt 08/Oct/2015
 
-\lx tʰi˩₁
+\lx tʰi˩α
 \sf <nb="B"> 1126
 \sf <nb="2011"> 1601
 \ph tiq
@@ -61443,7 +61443,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (vérifié: /tʰi/, s'oppose à la syllabe rétroflexe /ʈʰi/: lə˧ʈʰi˩ze˩: “…est fatigué"; lə˧tʰi˩ze˩ “…a raboté")(confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -61474,7 +61474,7 @@
 \xf raboter une planche
 \dt 08/Oct/2015
 
-\lx ʈi˩₁
+\lx ʈi˩α
 \sf <nb="B"> 1459
 \sf <nb="2011"> 2120
 \ph deiq
@@ -61483,7 +61483,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (erreur ancienne: ʐɯ˩gv̩˩˧ “bateau"; erreur par l'élicitation du chinois: chuang/chuan)(confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -61524,7 +61524,7 @@
 \xc PHONO
 \dt 08/Oct/2015
 
-\lx ʈi˥₁
+\lx ʈi˥α
 \sf <nb="B"> 870
 \sf <nb="B"> 871
 \sf <nb="B"> 872
@@ -61535,7 +61535,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> (entre le pouce et l'index)
-\ton H₁
+\ton Hα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -61548,7 +61548,7 @@
 \gf |fg{clf.empan_pouce_index}
 \dt 08/Oct/2015
 
-\lx ʈʰi˩₁
+\lx ʈʰi˩α
 \sf <nb="B"> 1396
 \sf <nb="B"> 1027
 \sf <nb="B"> 1060
@@ -61559,7 +61559,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> le˧-ʈʰi˩(-ze˩): phonétiquement: [le˧]
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ʈʰi˧, ton 3
@@ -61864,7 +61864,7 @@
 \xf |fg{dur} |fg{red}
 \dt 08/Oct/2015
 
-\lx to˩₁
+\lx to˩α
 \sf <nb="B"> 1512
 \sf <nb="2011"> 2254
 \hm 1
@@ -61873,7 +61873,7 @@
 \lc to˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -61893,14 +61893,14 @@
 \xf lutter, faire de la lutte
 \dt 08/Oct/2015
 
-\lx to˩₁
+\lx to˩α
 \hm 2
 \ph doq
 \ps v
 \lc to˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \de To lie down.
 \ge to_lie_down
@@ -61914,14 +61914,14 @@
 \xf se reposer en position allongée, s'allonger pour prendre un peu de repos
 \dt 08/Oct/2015
 
-\lx to˩₁
+\lx to˩α
 \hm 3
 \ph doq
 \ps v
 \lc to˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \de To stand in a family relationship, to have family ties.
 \ge to_have_family_ties
@@ -61939,13 +61939,13 @@
 \xf (nous) avons acquis un lien de parenté! (par adoption, mariage…)
 \dt 08/Oct/2015
 
-\lx to˥₁
+\lx to˥α
 \ph do
 \ps clf
 \lc to˩˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton H₁
+\ton Hα
 \so <print="n"> F4
 \de An armful of.
 \ge |fg{clf.armfuls}
@@ -61959,7 +61959,7 @@
 \xf toute une brassée de ficelle/cordelette (voir le récit TraderAndHisSon)
 \dt 08/Oct/2015
 
-\lx tʰo˩₁
+\lx tʰo˩α
 \sf <nb="B"> 1389
 \sf <nb="2011"> 2009
 \ph toq XX
@@ -61968,7 +61968,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (avant 09: /tʰo˩˥, le˥ tʰo˩ ze˩/)(confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -61995,7 +61995,7 @@
 \xc PHONO
 \dt 08/Oct/2015
 
-\lx tʰo˥₁
+\lx tʰo˥α
 \ph to
 \bw <langue="cmn"> 套
 \ps clf
@@ -62003,7 +62003,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> ton confirmé
-\ton H₁
+\ton Hα
 \so <print="n"> F4
 \de Classifier for sets.
 \ge |fg{clf.}套::sets
@@ -62013,14 +62013,14 @@
 \gf |fg{clf.}套::ensemble
 \dt 08/Oct/2015
 
-\lx tʰo˥₁
+\lx tʰo˥α
 \ph to
 \ps clf
 \lc tʰo˧
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="sem"> équivalent de ɖɯ˧-bæ˧, selon F4; son intuition est qu'il s'agit bien du même morphème dans l'expression “Que faire?" (cf exemple).
-\ton H₁
+\ton Hα
 \so <print="n"> F4
 \de Classifier for solutions.
 \ge |fg{clf.solutions}
@@ -62034,7 +62034,7 @@
 \xf Qu'est-ce qu'on y peut? / Qu'est-ce qu'on peut y faire?
 \dt 08/Oct/2015
 
-\lx ʈɤ˧₁
+\lx ʈɤ˧α
 \sf <nb="B"> 1397
 \sf <nb="2011"> 2000
 \ph de
@@ -62043,7 +62043,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (lə˧ ʈɤ˧ +ze˧; phonétiquement: [le]) (d'abord noté ʈɤ˩) (en 2006, noté ˧˧, pensé que c'était confirmé; correction 2007 mal venue: est bien ton 1, ˧ ˧ ˧; ton confirmé)
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -62064,7 +62064,7 @@
 \xf périphrase pour désigner la gâchette d'un pistolet: ce qu'on tire vers soi pour faire feu
 \dt 08/Oct/2015
 
-\lx ʈʰɤ˥₁
+\lx ʈʰɤ˥α
 \sf <nb="B"> 862
 \sf <nb="B"> 2190
 \sf <nb="2011"> 1261
@@ -62074,7 +62074,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> (avant 09: noté: “/dʑi˥ ɖɯ˧ ʈʰɤ˧/, après avoir noté /dʑi˧ɖɯ˧ʈʰɤ˧/; ts, mai 2008: choisit le schéma tonal ˥ ˧ ˧; vérifié en mai 2008: n'est pas ˥ ˥ ˥ ni ˧ ˧ ˧ mais ˥ ˧ ˧")
-\ton H₁
+\ton Hα
 \so <print="n"> F4
 \va <speaker="F5"> ɖɯ˧ʈʰɤ˧˥
 \va <speaker="M18"> ɖɯ˧ ʈʰɤ˩˥
@@ -62870,7 +62870,7 @@
 \xf Villages au sortir de la plaine de Yongning; les deux premiers comportent une population na; le troisième est un village na; les suivants sont essentiellement des villages pumi/prinmi.
 \xv tʰo˧tsʰe˧: | bɤ˧!
 \xe fv:/tʰo˧tsʰe˧/ is a Pumi village!
-\xn fv：/tʰo˧tsʰe˧/是一个普米族村落！
+\xn fv:/tʰo˧tsʰe˧/是一个普米族村落！
 \xf fv:/tʰo˧tsʰe˧/, c'est un village pumi!
 \dt 08/Oct/2015
 
@@ -62975,7 +62975,7 @@
 \xc <type="tone"> H#-
 \dt 08/Oct/2015
 
-\lx to˧~to˧₂
+\lx to˧~to˧β
 \sf <nb="B"> 1675
 \sf <nb="B"> 1676
 \sf <nb="B"> 1674
@@ -62986,7 +62986,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (avant 09, noté: zo˧mv̩˥ to˧ to˩) (tons confirmés; schéma tonal régulier)
-\ton M₂
+\ton Mβ
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \de To hold a child in one's arms; to hug.
@@ -63001,7 +63001,7 @@
 \xf porter un enfant dans ses bras
 \dt 08/Oct/2015
 
-\lx ‑tsæ˧₁
+\lx ‑tsæ˧α
 \ph zhae
 \ps suff
 \lc tsæ˧
@@ -63388,7 +63388,7 @@
 \xf rincer le riz (avant de le cuire)
 \dt 08/Oct/2015
 
-\lx ʈʂæ˧˥₁
+\lx ʈʂæ˧˥α
 \sf <nb="B"> 2142
 \sf <nb="2011"> 1270
 \ph zhae
@@ -63396,7 +63396,7 @@
 \lc ʈʂæ˧
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton MH₁
+\ton MHα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -64177,7 +64177,7 @@
 \gf 针::aiguille
 \dt 08/Oct/2015
 
-\lx tse˩₁
+\lx tse˩α
 \sf <nb="B"> 1638c
 \sf <nb="2011"> 1715
 \hm 1
@@ -64186,7 +64186,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \lc tse˩˥
 \so <print="n"> F4
 \va <speaker="F5"> idem M23
@@ -64205,7 +64205,7 @@
 \xf suivre quelqu'un à la trace
 \dt 08/Oct/2015
 
-\lx tse˩₁
+\lx tse˩α
 \sf <nb="B"> 1608
 \sf <nb="2011"> 2396
 \hm 2
@@ -64214,7 +64214,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \lc tse˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -64244,7 +64244,7 @@
 \xf même sens: ramener de la montagne en faisant descendre la rivière
 \dt 08/Oct/2015
 
-\lx tse˩₁
+\lx tse˩α
 \sf <nb="B"> 1529
 \sf <nb="2011"> 1732
 \hm 3
@@ -64253,7 +64253,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \lc tse˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -64270,7 +64270,7 @@
 \xf verrouiller la porte
 \dt 08/Oct/2015
 
-\lx ʈʂe˩₁
+\lx ʈʂe˩α
 \sf <nb="B"> 1683b
 \sf <nb="B"> (même
 \sf <nb="B"> sens
@@ -64284,7 +64284,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (tɕʰi˧ɳɯ˧ʈʂe˩ze˩: d'abord noté ˥ ˧ ˩ ˩, corrigé en ˥ ˥ ˩ ˩ et enfin en ˧ ˧ ˩ ˩) (confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \lc ʈʂe˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -64311,12 +64311,12 @@
 \xc PHONO
 \dt 08/Oct/2015
 
-\lx tsʰe˩₂
+\lx tsʰe˩β
 \ph cei
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton L₂
+\ton Lβ
 \lc tsʰe˩˥
 \np <langue="eng"> Among classifiers belonging to the tone category Lb, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is H#.
 \np <langue="fra"> Parmi les classificateurs de catégorie tonale Lb, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est H#.
@@ -64329,7 +64329,7 @@
 \gf |fg{clf.noeuds_tresse}
 \dt 08/Oct/2015
 
-\lx tsʰe˩₂
+\lx tsʰe˩β
 \sf <nb="B"> 874
 \sf <nb="2011"> 1284
 \ph cei
@@ -64337,7 +64337,7 @@
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton L₂
+\ton Lβ
 \lc tsʰe˩˥
 \so <print="n"> F4
 \va <speaker="M18"> *
@@ -64350,7 +64350,7 @@
 \gf |fg{clf.}寸::pouce
 \dt 08/Oct/2015
 
-\lx ʈʂʰe˧₂
+\lx ʈʂʰe˧β
 \sf <nb="B"> 1486
 \sf <nb="2011"> 2178
 \ph zhei
@@ -64359,7 +64359,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (avant 09: noté: lo˩kʶwɑ˥ ɑ˩ pʰo˩ ʈʂʰe˩˥) (tons vérifiés, à nouveau en 2007)
 \nt <type="hist" print="n"> étendre la jambe: kʰɯ˧tsʰɤ˩˥mv̩˩tɕju˥ ʈʂʰe˥ (tons corrigés en 2007; en 2006, avais noté: ˩˧˧)
-\ton M₂
+\ton Mβ
 \lc ʈʂʰe˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -65524,7 +65524,7 @@
 \xf être bien portant, ne pas être malade
 \dt 08/Oct/2015
 
-\lx tsi˩₁
+\lx tsi˩α
 \sf <nb="B"> 1104
 \sf <nb="2011"> 2209
 \ph zeeq
@@ -65533,7 +65533,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (vérifié en avril 09) (avant 2012: noté /tsɯ/)(confirmé en 2012: est un ton L)
 \nt <type="hist" print="n"> dʑi˧ læ˧tsʰɯ˧ tʰv̩˧ ze˩ (tons corrigés en 2007; en 2006, avais noté: …ze˧)
-\ton L₁
+\ton Lα
 \lc tsi˩˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
@@ -65565,7 +65565,7 @@
 \xf faire bouillir un moment
 \dt 08/Oct/2015
 
-\lx tsi˧₁
+\lx tsi˧α
 \sf <nb="B"> 1660
 \sf <nb="2011"> 2484
 \ph zee
@@ -65573,7 +65573,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (avant 09, noté /tsɯ˥/, par erreur)
-\ton M₁
+\ton Mα
 \lc tsi˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -65590,7 +65590,7 @@
 \xf c'est piquant/c'est pimenté!
 \dt 07/Oct/2015
 
-\lx tsʰi˩₁
+\lx tsʰi˩α
 \sf <nb="B"> 912
 \sf <nb="2011"> 1340
 \ph ceeq
@@ -65598,7 +65598,7 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n"> donne: qʰɑ˧tsʰi˧gv̩˧ “très fin" (avant 09: noté: tsʰɯ˩˥, ton 3; en fait: n'est pas /tsʰɯ/); dʑɤ˧˥ tsʰɯ˩njæ˩˧ gv̩˩! (tv) (notation 1er terrain: /tsʰɯ˧ ɲi˧ ŋɤ˥ gv̩˧/; ts corrige en: tsʰɯ˧njæ˧njæ˥ gv̩˧)
-\ton L₁
+\ton Lα
 \lc tsʰi˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -65626,12 +65626,12 @@
 \xf C'est vraiment fin!
 \dt 08/Oct/2015
 
-\lx tsʰi˥₁
+\lx tsʰi˥α
 \ph cee
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton H₁
+\ton Hα
 \lc tsʰi˧
 \so <print="n"> F4
 \de Classifier for pelts / hides (animal skins), and for pieces of fabric.
@@ -65651,12 +65651,12 @@
 \xc PHONO
 \dt 08/Oct/2015
 
-\lx tsi˧₂
+\lx tsi˧β
 \ph zee
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton M₂
+\ton Mβ
 \lc tsi˧
 \so <print="n"> F4
 \va <speaker="M21"> gɤ˩tsv̩˧
@@ -65682,7 +65682,7 @@
 \xc <type="hist" print="n"> avant 09, noté: /*gɤ˩-tsɯ˥ tʰi˩-tsɯ˥/
 \dt 08/Oct/2015
 
-\lx tsʰi˧₂
+\lx tsʰi˧β
 \sf <nb="B"> 1205b
 \sf <nb="2011"> 1741
 \ph cee
@@ -65690,7 +65690,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> avant 2011: noté tv̩˧tv̩˥ tsʰi˩; en 2011: hésitation
-\ton M₂
+\ton Mβ
 \lc tsʰi˧
 \so <print="n"> F4
 \de To wear (a hat).
@@ -66075,7 +66075,7 @@
 \xc <type="tone"> #H
 \dt 06/Oct/2015
 
-\lx ‑tso˧₁
+\lx ‑tso˧α
 \ph zo
 \ps suff
 \sd <langue="fra"> morphosyntaxe
@@ -66432,7 +66432,7 @@
 \xf Les membres décédés de la famille, c'est à l'endroit où ils sont morts qu'on leur rend hommage!
 \dt 07/Oct/2015
 
-\lx tso˩₁
+\lx tso˩α
 \sf <nb="B"> 1457
 \sf <nb="2011"> 2115
 \ph zoq
@@ -66441,7 +66441,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (verbe d'abord noté dzo˩˥, par erreur)(confirmé en 2012: est un ton L)
 \nt <type="hist" print="n"> Roselle: xxxx “tso˩a ‘ to build a wall, a bridge…' This is a homophone of ‘to create'. I am not certain if they are the same item or not. I suspect so, but can't be certain."
-\ton L₁
+\ton Lα
 \lc tso˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -66468,7 +66468,7 @@
 \xc combinaison élicitée pour vérifier le ton
 \dt 07/Oct/2015
 
-\lx tsʰɤ˩₁
+\lx tsʰɤ˩α
 \sf <nb="B"> 99
 \sf <nb="2011"> 2446
 \ph zeq
@@ -66476,7 +66476,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (avant 09, noté: /ʁu˥ kʶwɑ˩ tsʰɤ˩/)(confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \lc tsʰɤ˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -66503,12 +66503,12 @@
 \xf |fg{délimitatif} _ |fg{red} |fg{inchoatif}
 \dt 07/Oct/2015
 
-\lx tsʰɤ˧˥₁
+\lx tsʰɤ˧˥α
 \ph ze
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton MH₁
+\ton MHα
 \lc tsʰɤ˧˥
 \so <print="n"> F4
 \de Classifier for dented or bumpy objects: cockscombs, leaves, and bulbs of garlic.
@@ -66523,7 +66523,7 @@
 \xf une fleur
 \dt 07/Oct/2015
 
-\lx ʈʂɤ˧₁
+\lx ʈʂɤ˧α
 \sf <nb="B"> 1764
 \sf <nb="B"> 1766
 \sf <nb="2011"> 2608
@@ -66533,7 +66533,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (d'abord noté ɖʐɤ˥ɖʐɤ˧, par erreur) (avant 09: noté: ɲi˧ ŋwɤ˧ hɑ̃˧ tʰɑ˥ ɖɯ˧ ʈʂɤ˩ bi˩)
-\ton M₁
+\ton Mα
 \lc ʈʂɤ˧
 \so <print="n"> F4
 \va <speaker="M21"> ID.
@@ -66576,7 +66576,7 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \de To do divination, to do fortune-telling.
 \ge to_count
@@ -66672,13 +66672,13 @@
 \xf C'est quelqu'un de vraiment remarquable/extraordinaire!
 \dt 19/Aug/2014
 
-\lx ʈʂʰɤ˩₁
+\lx ʈʂʰɤ˩α
 \ph cheq
 \ps v
 \lc ʈʂʰɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \de To share (several people share something among themselves; someone shares out something).
 \ge to_share
@@ -66692,7 +66692,7 @@
 \xf répartir un morceau par personne
 \dt 07/Oct/2015
 
-\lx tsʰo˧₂
+\lx tsʰo˧β
 \sf <nb="B"> 1544
 \sf <nb="B"> 1768
 \sf <nb="2011"> 2337
@@ -66701,7 +66701,7 @@
 \lc tsʰo˩˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton M₂
+\ton Mβ
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -66722,7 +66722,7 @@
 \xf forme rédupliquée: trépigner, sautiller ici et là
 \dt 07/Oct/2015
 
-\lx ʈʂʰo˧₂
+\lx ʈʂʰo˧β
 \sf <nb="B"> 1522
 \sf <nb="2011"> 2304
 \ph cho
@@ -66730,7 +66730,7 @@
 \lc ʈʂʰo˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton M₂
+\ton Mβ
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -66825,13 +66825,13 @@
 \gf acore_odorant
 \dt 13/May/2016
 
-\lx tso˩₃
+\lx tso˩γ
 \ph zo
 \ps clf
 \lc tso˩˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton L₃
+\ton Lγ
 \so <print="n"> F4
 \de Classifier for rooms.
 \ge |fg{clf.rooms}/compartments
@@ -67886,12 +67886,12 @@
 \gf poumon
 \dt 07/Oct/2015
 
-\lx ʈʂʰɻ̍˧˥₁
+\lx ʈʂʰɻ̍˧˥α
 \ph cheu
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton MH₁
+\ton MHα
 \lc ʈʂʰɻ̍˧˥
 \so <print="n"> F4
 \de Classifier for handfuls / balls: loose substance shaped into ball form by compressing it in the hand, for instance a handful of cooked cereals.
@@ -68260,7 +68260,7 @@
 \xf C'est elle/lui!
 \dt 07/Oct/2015
 
-\lx tsɯ˩₁
+\lx tsɯ˩α
 \sf <nb="B"> 1233
 \sf <nb="2011"> 1769
 \ph ziq
@@ -68269,7 +68269,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (vérifié en 09: n'est pas /tsi/; ton également vérifié: tʰi˧tsɯ˩ze˩)(confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M23"> ID.
@@ -68281,7 +68281,7 @@
 \gf boucher
 \dt 07/Oct/2015
 
-\lx tsʰɯ˩₁
+\lx tsʰɯ˩α
 \sf <nb="B"> 1311
 \sf <nb="2011"> 1885
 \ph cee
@@ -68290,7 +68290,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (avant 09: noté: le˧ æ˧ tsʰɯ˩ ze˩); exemple: revenir de promenade: lə˧gwɤ˩gwɤ˩ lə˧tsʰɯ˩ze˩ (avant 09: noté: /li˥gwɤ˩gwɤ˩ li˧æ˧ tsʰɯ˩ ze˩/, “tv le 17/5/08; n'est pas ˥ ˩ ˩ ˥ ˥ ˩ ˩; avais d'abord noté: le˧gwɤ˧gwɤ˩ le˧æ˧tsʰɯ˩ ze˩")
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -69083,7 +69083,7 @@
 \xf ajouter de l'eau (dans une marmite, …)
 \dt 07/Oct/2015
 
-\lx ʈʂv̩˩₁
+\lx ʈʂv̩˩α
 \sf <nb="B"> 1182
 \sf <nb="2011"> 1697
 \hm 1
@@ -69092,7 +69092,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \lc ʈʂv̩˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -69121,13 +69121,13 @@
 \xf (Attention,) je vais te contaminer/te passer (mon rhume)!
 \dt 07/Oct/2015
 
-\lx ʈʂv̩˩₁
+\lx ʈʂv̩˩α
 \hm 2
 \ph zhuq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \lc ʈʂv̩˩˥
 \so <print="n"> F4
 \de To light (a candle).
@@ -69138,7 +69138,7 @@
 \gf allumer
 \dt 07/Oct/2015
 
-\lx ʈʂʰv̩˩₁
+\lx ʈʂʰv̩˩α
 \sf <nb="B"> 1464
 \sf <nb="2011"> 2131
 \ph chuq
@@ -69147,7 +69147,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (confirmé en 2012: est un ton L)
 \np (cf aussi le mot pour “teinture")
-\ton L₁
+\ton Lα
 \lc ʈʂʰv̩˩˥
 \so <print="n"> F4
 \de To dye.
@@ -69569,13 +69569,13 @@
 \gf poignarder/ficher
 \dt 07/Oct/2015
 
-\lx ʈʂwæ˥₁
+\lx ʈʂwæ˥α
 \ph zhuae
 \ps clf
 \lc ʈʂwæ˧˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton H₁
+\ton Hα
 \so <print="n"> F4
 \de Classifier for journeys.
 \ge |fg{clf.journeys}
@@ -69589,7 +69589,7 @@
 \xf (y) aller une fois par jour
 \dt 07/Oct/2015
 
-\lx ʈʂʰwæ˩₁
+\lx ʈʂʰwæ˩α
 \sf <nb="B"> 969
 \sf <nb="B"> 969b
 \sf <nb="B"> 970
@@ -69600,7 +69600,7 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n"> lə˧ʈʂʰwæ˩ze˩ (phonétiquement: /læ/), ʈʂʰwæ˩ze˧
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -69621,7 +69621,7 @@
 \xf bavard, qui parle sans réfléchir suffisamment
 \dt 07/Oct/2015
 
-\lx ʈʂʰwæ˧₁
+\lx ʈʂʰwæ˧α
 \sf <nb="B"> 1275
 \sf <nb="2011"> 1464
 \hm 1
@@ -69631,7 +69631,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \np lə˧ʈʂʰwæ˧ze˧: phonétiquement: læ˧…
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -69657,7 +69657,7 @@
 \xf On a oublié de la manger, et maintenant c'est pourri! (au sujet d'une pastèque qui a traîné dans le garde-manger et est maintenant incomestible)
 \dt 07/Oct/2015
 
-\lx ʈʂʰwæ˧₁
+\lx ʈʂʰwæ˧α
 \sf <nb="B"> 1585
 \sf <nb="2011"> 2361
 \hm 2
@@ -69667,7 +69667,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (tons confirmés, d'abord noté ˩˥˥; à nouveau confirmé en 2007: est ˩˧˧ et non ˩˥˥)
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \de To wake up.
@@ -69945,7 +69945,7 @@
 \xf prendre le repas du soir
 \dt 07/Oct/2015
 
-\lx ʈʂwɤ˧₁
+\lx ʈʂwɤ˧α
 \sf <nb="B"> 1635
 \sf <nb="2011"> 2452
 \ph zhua
@@ -69955,7 +69955,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (d'abord noté: hwɤ˧li˩˥ hĩ˥ ʈʂu˧ ze˩) (tons confirmés en mai 2008: important: n'est pas ˧ ˥ ˧ ˩ ˩; hĩ˥ porte un ton haut)
 \np hwɤ˧li˧˥ hĩ˧ʈʂwɤ˩ze˩ “le chat a griffé quelqu'un"
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \de To scratch (with claws, e.g. of tiger).
@@ -69971,7 +69971,7 @@
 \xc PHONO
 \dt 07/Oct/2015
 
-\lx ʈʂwɤ˧₁
+\lx ʈʂwɤ˧α
 \sf <nb="B"> 858
 \sf <nb="2011"> 1257
 \ph zhua
@@ -69980,7 +69980,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> (tv en mai 2008; avais d'abord noté ɖɯ˧-ʈʂwɤ˥) (d'abord noté ɖɯ˧ ɖʐwɤ˥ puis ɖɯ˧ ɖʐwo˥)
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \va <speaker="F5"> ɖɯ˧-ʈʂwɤ˥
 \va <speaker="M18"> ɖɯ˧-ʈʂwɤ˥
@@ -70072,14 +70072,14 @@
 \xf Le chanvre, ça se blanchit! (Au cours de la préparation du chanvre pour en faire du fil, il faut le blanchir.)
 \dt 29/Jul/2016
 
-\lx ʈɯ˧₁
+\lx ʈɯ˧α
 \ph dee
 \ps v
 \lc ʈɯ˧˥
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> avant 2013: noté: *v̩˧ | tʰi˧-ʈɯ˩
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \de To set in place.
 \ge to_set_in_place
@@ -70098,7 +70098,7 @@
 \xc PROVERBE
 \dt 07/Oct/2015
 
-\lx ʈʰɯ˩₁
+\lx ʈʰɯ˩α
 \sf <nb="B"> 1201
 \sf <nb="2011"> 1666
 \ph teeq
@@ -70108,7 +70108,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (tʰi˧) ʈʰɯ˥ (dʑju˧), le˥ ʈʰɯ˩ ze˩(confirmé en 2012: est un ton L)
 \nt <type="hist" print="n"> (selon F4, est une onomatopée chinoise: hɑ˥tʰjɤ˩! “atchoum!")
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> he˧tʰjɤ˩, he˧tʰjɤ˩ dzɯ˩
 \va <speaker="M21"> ʈʰɯ˧, ton 3; se distingue de “boire"
@@ -70124,7 +70124,7 @@
 \xc PHONO
 \dt 07/Oct/2015
 
-\lx ʈʰɯ˩₂
+\lx ʈʰɯ˩β
 \sf <nb="B"> 1169
 \sf <nb="2011"> 1670
 \ph teeq
@@ -70134,7 +70134,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> le˧-ʈʰɯ˩-ze˩: phonétiquement: [le]
 \np ton 3b
-\ton L₂
+\ton Lβ
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -70498,7 +70498,7 @@
 \xf faire un noeud
 \dt 07/Oct/2015
 
-\lx tv̩˧₁
+\lx tv̩˧α
 \sf <nb="B"> 1633
 \sf <nb="2011"> 2448
 \ph du
@@ -70507,7 +70507,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (confirmé: initiale non rétroflexe)
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -70528,7 +70528,7 @@
 \xc PHONO
 \dt 07/Oct/2015
 
-\lx tv̩˧₁
+\lx tv̩˧α
 \sf <nb="B"> 839
 \sf <nb="2011"> 1236
 \hm 1
@@ -70538,7 +70538,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> (initiale de /tv/ confirmée, n'est pas rétroflexe)
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -70563,7 +70563,7 @@
 \xf dix mille fois 10.000, soit cent millions
 \dt 07/Oct/2015
 
-\lx tv̩˧₁
+\lx tv̩˧α
 \sf <nb="B"> 876
 \sf <nb="2011"> 1288
 \hm 2
@@ -70573,7 +70573,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> +ɲi˩
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -70586,7 +70586,7 @@
 \gf |fg{clf.décimes}
 \dt 07/Oct/2015
 
-\lx tʰv̩˧₁
+\lx tʰv̩˧α
 \sf <nb="B"> 2203
 \sf <nb="B"> 1251
 \sf <nb="B"> 1480
@@ -70598,7 +70598,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> ɖɯ˧v̩˧ mi˧tʰv̩˧ze˧: tons corrigés en 2007; notation 2006: ˧˧˧˧˧ puis ˧˥˥˥˩
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -70621,7 +70621,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> ɖɯ˧v̩˧ mi˧tʰv̩˧ze˧: tons corrigés en 2007; notation 2006: ˧˧˧˧˧ puis ˧˥˥˥˩
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -70636,7 +70636,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> ɖɯ˧v̩˧ mi˧tʰv̩˧ze˧: tons corrigés en 2007; notation 2006: ˧˧˧˧˧ puis ˧˥˥˥˩
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -70655,7 +70655,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> ɖɯ˧v̩˧ mi˧tʰv̩˧ze˧: tons corrigés en 2007; notation 2006: ˧˧˧˧˧ puis ˧˥˥˥˩
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -70678,7 +70678,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> ɖɯ˧v̩˧ mi˧tʰv̩˧ze˧: tons corrigés en 2007; notation 2006: ˧˧˧˧˧ puis ˧˥˥˥˩
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -70707,7 +70707,7 @@
 \xf Il n'a pas d'obligations, et pourtant il travaille! (Compliment à l'endroit d'un fonctionnaire qui pourrait se contenter de percevoir son salaire, mais qui se donne à lui-même des objectifs et des tâches à accomplir. La phrase peut également être employée de façon négative, pour critiquer quelqu'un qui déploie une activité inutile au lieu de se tenir tranquille.)
 \dt 07/Oct/2015
 
-\lx tʰv̩˧˥₁
+\lx tʰv̩˧˥α
 \sf <nb="B"> 883
 \sf <nb="B"> 884
 \sf <nb="2011"> 1292
@@ -70716,7 +70716,7 @@
 \lc tʰv̩˧
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton MH₁
+\ton MHα
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \de Classifier for steps (in walking).
@@ -70735,7 +70735,7 @@
 \xf idem, détachant les deux parties; cette forme est plus proche d'une répétition que d'une réduplication
 \dt 07/Oct/2015
 
-\lx ʈv̩˩₁
+\lx ʈv̩˩α
 \sf <nb="2011"> 2445
 \hm 1
 \ph deuq
@@ -70744,7 +70744,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \de To weave (bamboo).
 \ge to_weave
@@ -70767,7 +70767,7 @@
 \xc PHONO
 \dt 07/Oct/2015
 
-\lx ʈv̩˩₁
+\lx ʈv̩˩α
 \sf <nb="B"> 1431a
 \sf <nb="2011"> 2153
 \hm 2
@@ -70777,7 +70777,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (notation 2008; avais d'abord noté: ʈɻ̍˩) (confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \de To throw (a stone at someone).
 \ge to_throw
@@ -70801,13 +70801,13 @@
 \xc PHONO
 \dt 07/Oct/2015
 
-\lx tʰv̩˩₂
+\lx tʰv̩˩β
 \ph tu
 \ps clf
 \lc tʰv̩˩˥
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton L₂
+\ton Lβ
 \np <langue="eng"> Among classifiers belonging to the tone category Lb, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
 \np <langue="fra"> Parmi les classificateurs de catégorie tonale Lb, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
 \so <print="n"> F4
@@ -70827,7 +70827,7 @@
 \xf un paquet de dix (paires de) baguettes
 \dt 07/Oct/2015
 
-\lx tʰv̩˧₂
+\lx tʰv̩˧β
 \sf <nb="B"> 1355
 \sf <nb="2011"> 1936
 \ph du
@@ -70836,7 +70836,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (vérifié en 09: est “prêter"; auparavant: noté: “sens vérifié: emprunter") ; donne: ɖɯ˧tʰv̩˧ɻ̍˩ “prêter"
-\ton M₂
+\ton Mβ
 \so <print="n"> F4
 \va <speaker="M23"> ID.
 \de To lend.
@@ -70851,7 +70851,7 @@
 \xf prêter quelque chose
 \dt 07/Oct/2015
 
-\lx ʈv̩˩₂
+\lx ʈv̩˩β
 \sf <nb="B"> 864
 \sf <nb="2011"> 1272
 \ph deu
@@ -70860,7 +70860,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> cf récit “fratrie"
-\ton L₂
+\ton Lβ
 \np <langue="eng"> Among classifiers belonging to the tone category Lb, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is H#.
 \np <langue="fra"> Parmi les classificateurs de catégorie tonale Lb, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est H#.
 \so <print="n"> F4
@@ -71058,7 +71058,8 @@
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
-\ton °L
+\ton --L
+\lc tʰv̩˧-se˩-gɤ˩
 \so <print="n"> F4
 \de Henceforth.
 \ge henceforth
@@ -71097,7 +71098,8 @@
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
 \nt <type="sem"> (avec déictique lointain)
-\ton °L
+\ton --L
+\lc tʰv̩˧-sɯ˩kv̩˩
 \so <print="n"> F4
 \de Third-person plural pronoun.
 \ge |fg{3pl}
@@ -71278,7 +71280,7 @@
 \gf tomber
 \dt 07/Oct/2015
 
-\lx ʈwæ˩₁
+\lx ʈwæ˩α
 \sf <nb="B"> 1222
 \sf <nb="2011"> 1752
 \ph duaeq
@@ -71288,7 +71290,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (dʑi˩pʰæ˩ʈwæ˧ ze˩: tons confirmés, d'abord noté ˩ ˩ ˧ ˩ puis corrigé en ˩ ˩ ˥ ˩ (notes d'avant 09: “dʑi˩ pʰæ˩ tʰi˩ ʈwæ˥ dʑo˩, d'abord noté ˩ ˩˥ ˥ ˧ ˧; en mai 2008, F4 confirme les données de M21: dʑi˩ ʈwæ˧˥, ton m8: dʑi˩ʈwæ˧˥ ɲi˩")(confirmé en 2012: est un ton L)
 \np sens: se figer; peut se dire de l'eau qui gèle, ainsi que du saindoux qui fige dans une marmite qui a refroidi.
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -71312,7 +71314,7 @@
 \xf faire geler, mettre à congeler
 \dt 07/Oct/2015
 
-\lx ʈwɤ˧₁
+\lx ʈwɤ˧α
 \sf <nb="2011"> 1933
 \ph dua
 \ps v
@@ -71320,7 +71322,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (en 2006, noté æ˩ʈwɤ˥) (vérifié: n'est pas æ˩ʈu˥)
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \va <speaker="M21"> ID.
 \de To sing (of bird), to cock-a-doodle-doo (cock).
@@ -71376,7 +71378,7 @@
 \lc v̩˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \de To hug, to embrace.
 \ge to_hug
@@ -71480,13 +71482,13 @@
 \gf casserole
 \dt 07/Oct/2015
 
-\lx v̩˥₂
+\lx v̩˥β
 \ph vu
 \ps clf
 \lc v̩˧
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton H₂
+\ton Hβ
 \so <print="n"> F4
 \de Self-classifier for pots; classifier for potfuls (of food, liquid…).
 \ge |fg{clf.pots}/potfuls
@@ -71820,7 +71822,7 @@
 \gf petite_casserole
 \dt 07/Oct/2015
 
-\lx v̩˧~v̩˧₁
+\lx v̩˧~v̩˧α
 \sf <nb="B"> 1162
 \sf <nb="B"> 1259
 \sf <nb="2011"> 1655
@@ -71831,7 +71833,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (ton confirmé, n'est pas ˥˥)
 \np (pas de forme simplex)
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -72060,13 +72062,13 @@
 \gf |fg{exclamation}
 \dt 07/Oct/2015
 
-\lx wɤ˩₁
+\lx wɤ˩α
 \ph uaq
 \ps v
 \lc wɤ˧
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \de To depend on.
 \ge to_depend_on
@@ -72084,7 +72086,7 @@
 \xf On se trouve dépendre des autres!
 \dt 07/Oct/2015
 
-\lx wo˩₂
+\lx wo˩β
 \sf <nb="B"> 557
 \sf <nb="B"> 873
 \ph uo
@@ -72093,7 +72095,7 @@
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> on peut aussi dire: /ɖɯ˧-pʰu˥/, employant le classificateur des gros animaux domestiques dont les buffles: en effet, à Yongning les attelages ont actuellement un seul buffle, donc “un attelage" et “un bœuf" revient au même. (confirmé avec ts; tons confirmés: ʝi˧ ɖɯ˧-wu˩, n'est pas ʝi˥ ɖɯ˥-wu˩)
-\ton L₂
+\ton Lβ
 \np <langue="eng"> Among classifiers belonging to the tone category Lb, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
 \np <langue="fra"> Parmi les classificateurs de catégorie tonale Lb, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
 \so <print="n"> F4
@@ -72112,7 +72114,7 @@
 \xf Deux buffles, cela forme un attelage!
 \dt 07/Oct/2015
 
-\lx wɤ˩₂
+\lx wɤ˩β
 \sf <nb="B"> 1543
 \ph ua
 \ps clf
@@ -72121,7 +72123,7 @@
 \sd <langue="eng"> classifier
 \nt <type="hist" print="n"> (ton confirmé) (vérifié: n'est pas ʁwɤ˩) (tons confirmés) (avant 2013: le˧-kʰɯ˧~kʰɯ˧ tʰi˧-tɕi˥; pensé que cela signifiait “être transmis de génération en génération 代代相传"
 \nt <type="hist" print="n"> (a) emprunt: ɖɯ˧te˩˥ɖɯ˧te˩˥ki˥ki˧ (selon F5: n'y a rien entre les deux ɖɯ˧te˩˥; j'avais d'abord cru entendre une nasale) (b) ɖɯ˧wɤ˩ɖɯ˧wɤ˩le˧kʰɯ˧kʰɯ˧ tʰi˧ tsɯ˥ (confirmé: n'est pas tʰi˩) (c) le˧kʰɯ˧kʰɯ˩
-\ton L₂
+\ton Lβ
 \np <langue="eng"> Among classifiers belonging to the tone category Lb, some preferentially yield with a H# tone pattern when combined with a demonstrative, whereas others are preferentially realized with a MH# pattern. In the present state of the language, this appears to be a pattern of preference among variants. The pattern preferentially associated to this lexical item is MH#.
 \np <langue="fra"> Parmi les classificateurs de catégorie tonale Lb, certains donnent plus volontiers un schéma tonal MH# lorsqu'ils sont associés à un démonstratif, tandis que d'autres donnent plus volontiers un schéma H#. Dans l'état actuel de la langue, il paraît s'agir d'une préférence parmi des variantes toutes deux acceptables. Pour ce mot-ci, le schéma préféré est MH#.
 \so <print="n"> F4
@@ -72322,7 +72324,7 @@
 \xf très grand et fort
 \dt 07/Oct/2015
 
-\lx zɑ˩₁
+\lx zɑ˩α
 \sf <nb="2011"> 2069
 \ph ssaq
 \ps v
@@ -72330,7 +72332,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (confirmé en 2012: est un ton L)
-\ton L₁
+\ton Lα
 \so <print="n"> F4
 \de To go downward (a mountain), to descend.
 \ge to_descend
@@ -72354,7 +72356,7 @@
 \xc PHONO
 \dt 07/Oct/2015
 
-\lx ʐæ˧₁
+\lx ʐæ˧α
 \sf <nb="B"> 1584
 \sf <nb="B"> 2234
 \sf <nb="2011"> 2589
@@ -72365,7 +72367,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (tv en 09: n'est pas: ʐæ˧ʐæ˩) (avant 09: noté: ʐæ˥ʐæ˩ (kʰɯ˩), læ˧ ʐæ˥ʐæ˩ ze˩; corrigé en 2007; en 2006, avais noté ˧˩) (tons corrigés en 2007, confirmés en 09; en 2006, avais noté: zo˧hṽ̩˧ ʐæ˧ʐæ˥ kʰɯ˧) (sens vérifié en 2009) le˧-ʐæ˧-ze˧: phonétiquement: [læ˧ʐæ˧ze˧]
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -72412,7 +72414,7 @@
 \xf |fg{red} |fg{pfv}
 \dt 07/Oct/2015
 
-\lx ʐæ˩₂
+\lx ʐæ˩β
 \sf <nb="B"> 1637
 \sf <nb="2011"> 2454
 \ph raeq
@@ -72422,7 +72424,7 @@
 \sd <langue="eng"> verb
 \nt <type="sem"> généralement employé sous sa forme rédupliquée: ʐæ˧~ʐæ˥
 \np phonétiquement: [læ˧-ʐæ˧~ʐæ˥]
-\ton L₂
+\ton Lβ
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ID.
@@ -72749,7 +72751,7 @@
 \gf |fg{interrog.quel}
 \dt 07/Oct/2015
 
-\lx ‑ze˧₂
+\lx ‑ze˧β
 \sf <nb="2011"> 3354
 \ph ssei
 \ps suff
@@ -72772,7 +72774,7 @@
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton H₁
+\ton Hα
 \lc ʐe˧
 \so <print="n"> F4
 \de Classifier for quarters of preserved meat.
@@ -73215,7 +73217,7 @@
 \xf |fg{neg}
 \dt 07/Oct/2015
 
-\lx ʑi˧₁
+\lx ʑi˧α
 \sf <nb="B"> 1408
 \sf <nb="2011"> 2033
 \ph xxi
@@ -73224,7 +73226,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (le˧ʑi˧ze˧) (corrigé à tort avec ts en 2006 en ton 3, par confusion avec le mot “amener") (mv̩˩tɕu˧ ʑi˧: tv)
-\ton M₁
+\ton Mα
 \lc ʑi˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -73244,7 +73246,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (le˧ʑi˧ze˧) (corrigé à tort avec ts en 2006 en ton 3, par confusion avec le mot “amener") (mv̩˩tɕu˧ ʑi˧: tv)
-\ton M₁
+\ton Mα
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -73261,7 +73263,7 @@
 \xf couler (rivière)
 \dt 07/Oct/2015
 
-\lx ʑi˩₂
+\lx ʑi˩β
 \sf <nb="B"> 1739
 \sf <nb="B"> 2199
 \sf <nb="2011"> 2568
@@ -73271,7 +73273,7 @@
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₂
+\ton Lβ
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ʑi˩˧; æ˩ ʑi˧ “attraper un poulet", æ˩ ʑi˧-ze˩; æ˩˧ le˧-ʑi˩-ze˩!
@@ -73301,7 +73303,7 @@
 \sn 2
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₂
+\ton Lβ
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M21"> ʑi˩˧; æ˩ ʑi˧ “attraper un poulet", æ˩ ʑi˧-ze˩; æ˩˧ le˧-ʑi˩-ze˩!
@@ -73767,7 +73769,7 @@
 \xf C'est joli! C'est mignon tout plein! (Commentaire adressé à une fillette qui montre à la ronde des souliers tout neufs.)
 \dt 06/Oct/2015
 
-\lx ‑zo˧₁
+\lx ‑zo˧α
 \sf <nb="2011"> 3369
 \ph sso
 \ps suff
@@ -73885,7 +73887,7 @@
 \xf voyageur, homme qui voyage; spécifiquement: personne partant faire du commerce en caravane
 \dt 07/Oct/2015
 
-\lx zo˧₁
+\lx zo˧α
 \sf <nb="B"> 1602
 \sf <nb="2011"> 2135
 \ph sso
@@ -73894,7 +73896,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (avant 09, noté: i˩ zo˩ hu˥ ɲi˩) (vérifié en mai 2008; notation ancienne: ʈʂʰɯ˥ ʈʰæ˧ i˧ zo˧ hu˥ ɲi˩! il doit faire ça!)
 \np il faut
-\ton M₁
+\ton Mα
 \lc zo˧
 \so <print="n"> F4
 \va <speaker="M21"> /zu/ “il faut", exemple: mɤ˧zu˧ze˧! “ce n'est pas la peine!"; ex.: ʈʰæ˧ i˧zu˧hu˥ɲi˩!
@@ -73915,7 +73917,7 @@
 \xf Il faut faire comme ça!
 \dt 07/Oct/2015
 
-\lx ʐo˩₁
+\lx ʐo˩α
 \sf <nb="B"> 1513
 \sf <nb="2011"> 2255
 \hm 1
@@ -73924,7 +73926,7 @@
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
 \np si le ton était un ton L, on s'attendrait à une réduplication en ˧ ˥ (cat. 3a) ou ˧ ˩ (cat. 3b); la forme rédupliquée suggère un monosyllabe au ton ˧˥, mais seule la forme ɖɯ˧-ʐo˩-ɻ̍˩ étant acceptable, on en déduit un ton L pour le monosyllabe. Le lien direct entre monosyllabe et disyllabe est perdu.
-\ton L₁
+\ton Lα
 \lc ʐo˩˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
@@ -73951,7 +73953,7 @@
 \xc PHONO
 \dt 07/Oct/2015
 
-\lx ʐo˩₁
+\lx ʐo˩α
 \sf <nb="B"> 967
 \sf <nb="2011"> 1406
 \hm 2
@@ -73960,7 +73962,7 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n"> lə˧ʐu˩ze˩ (à voir: ʐu˩˥ tɕʰæ˩˥ gv̩˧)
-\ton L₁
+\ton Lα
 \lc ʐo˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -73974,7 +73976,7 @@
 \gf léger
 \dt 07/Oct/2015
 
-\lx ʐɤ˩₁
+\lx ʐɤ˩α
 \sf <nb="B"> 1050b
 \sf <nb="B"> 1054b
 \sf <nb="2011"> 1487
@@ -73983,7 +73985,7 @@
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
 \nt <type="hist" print="n"> “pas propre": vérifié en 2008 avec F4; peut se dire de vêtements sales, de nourriture à laquelle est mêlée de la saleté…
-\ton L₁
+\ton Lα
 \lc ʐɤ˩˥
 \so <print="n"> F4
 \de Clean.
@@ -74002,14 +74004,14 @@
 \xf crasseux, dégoûtant (vêtements, nourriture…)
 \dt 07/Oct/2015
 
-\lx ʐɤ˧₂
+\lx ʐɤ˧β
 \sf <nb="B"> 1599
 \sf <nb="2011"> 2389
 \ph re
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton M₂
+\ton Mβ
 \lc ʐɤ˧
 \so <print="n"> F4
 \va <speaker="M21"> ID.
@@ -74084,12 +74086,12 @@
 \xc <type="hist" print="n"> sens: l'univers entier; mot fourni par M18; avant juillet 2012: analysé comme /*sɑ˧zo˩ | bv̩˧ɭɯ˩/; avant 2013: noté /sɑ˧ | zo˩bv̩˥ɭɯ˩/, avec une syllabe erronée, au lieu de /li/. M18 traduit par: 天地的空间. /sɑ˧zo˩/ ne veut rien dire par lui-même; le découpage est: sɑ˧ + zo˩bv̩˧ɭɯ˩; on peut dire simplement: zo˩bv̩˧ɭɯ˩.
 \dt 07/Oct/2015
 
-\lx ʐɤ˩₃
+\lx ʐɤ˩γ
 \ph re
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton L₃
+\ton Lγ
 \lc ʐɤ˩˥
 \so <print="n"> F4
 \de Classifier for lines/patterns (in weaving, drawing, painting…).
@@ -74553,13 +74555,13 @@
 \xf sur ce vêtement il y a un motif
 \dt 07/Oct/2015
 
-\lx zo˧zo˧-mv̩˧mv̩˥
+\lx zo˧~zo˧-mv̩˧~mv̩˥
 \ph ssossomumu XX
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
 \ton H#
-\lc xxxx non-correspondance entre le nombre de morphèmes et le nombre de tons de morphèmes
+\lc zo˧zo˧-mv̩˧mv̩˥
 \so <print="n"> F4
 \pdl classifier
 \pdv kʰwɤ˥
@@ -74710,7 +74712,7 @@
 \gf lourd
 \dt 07/Oct/2015
 
-\lx zɯ˧₂
+\lx zɯ˧β
 \sf <nb="B"> 203
 \sf <nb="2011"> 272
 \ph ssi
@@ -74718,7 +74720,7 @@
 \cf zɯ˧
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
-\ton M₂
+\ton Mβ
 \lc zɯ˧
 \so <print="n"> F4
 \va <speaker="M21"> ID.
@@ -74853,7 +74855,7 @@
 \sd <langue="eng"> plant
 \nt <type="hist" print="n"> avant août 2014: noté /*ʐɯ˩mo˩/
 \ton LM+MH#
-\lc xxxx non-correspondance entre le nombre de morphèmes et le nombre de tons de morphèmes
+\lc ʐɯ˩-mo˧˥
 \so <print="n"> F4
 \de “mushroom of the cedar tree": a sort of mushroom often found close to cedar trees.
 \ge cedar_tree_mushroom
@@ -74916,7 +74918,7 @@
 \sd <langue="eng"> plant
 \nt <type="sem"> avant 2011: noté un: dʑi˩ʁu˩-zo˩bæ˧ (+ɲi˩); n'est plus reconnu par la locutrice en 2011
 \ton #H
-\lc xxxx non-correspondance entre le nombre de morphèmes et le nombre de tons de morphèmes
+\lc zɯ˧-qʰɑ˧mi˧
 \so <print="n"> F4
 \pdl classifier
 \pdv po˧
@@ -75018,7 +75020,7 @@
 \xf rechercher une date propice (pour la construction d'une maison ou autre projet important)
 \dt 06/Oct/2015
 
-\lx ʐɯ˩tsɯ˧mɤ˩ʈʂʰɤ˩
+\lx ʐɯ˩tsɯ˧-mɤ˩ʈʂʰɤ˩
 \sf <nb="B"> 446a
 \sf <nb="2011"> 577
 \ph rizi mezhe
@@ -75027,7 +75029,7 @@
 \sd <langue="eng"> house
 \nt <type="hist" print="n"> (tons confirmés en 2006; intégralité de la transcription confirmée en 2007, tons notés ˩ ˥ ˩ ˩; tons corrigés en ˩ ˧ ˩ ˩ en 2009 au vu de la réanalyse du système) (confirmé: n'est pas /tsi/)
 \ton LM-L
-\lc xxxx non-correspondance entre le nombre de morphèmes et le nombre de tons de morphèmes
+\lc ʐɯ˩tsɯ˧-mɤ˩ʈʂʰɤ˩
 \so <print="n"> F4
 \va <speaker="M18"> ID.
 \va <speaker="M21"> ɕi˧zɯ˧, ton d2a; ɕi˧zɯ˧kʰu˧ɻæ˧
@@ -75149,7 +75151,7 @@
 \gf coudre
 \dt 06/Oct/2015
 
-\lx ʐv̩˩₁
+\lx ʐv̩˩α
 \sf <nb="B"> 1472
 \sf <nb="2011"> 2228, 1372
 \hm 1
@@ -75158,7 +75160,7 @@
 \sn 1
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \lc ʐv̩˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -75204,7 +75206,7 @@
 \xf |fg{accomp} _ |fg{red} |fg{pfv}
 \dt 06/Oct/2015
 
-\lx ʐv̩˩₁
+\lx ʐv̩˩α
 \sf <nb="B"> 1033
 \sf <nb="2011"> 1461
 \hm 2
@@ -75212,7 +75214,7 @@
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\ton L₁
+\ton Lα
 \lc ʐv̩˩˥
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -75261,7 +75263,7 @@
 \sd <langue="eng"> plant
 \nt <type="sem"> aussi: ʐv̩˧bæ˧-ʐv̩˧qʰɑ#˥ (+ɲi˥)
 \ton #H
-\lc xxxx non-correspondance entre le nombre de morphèmes et le nombre de tons de morphèmes
+\lc ʐv̩˧bæ˧-bv̩˧-hɑ˧
 \so <print="n"> F4
 \pdl classifier
 \pdv qɑ˩
@@ -75280,7 +75282,8 @@
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" print="n"> avant juillet 2012: noté ʐv̩˧bæ˧-mi˧
-\ton °L
+\ton --L
+\lc ʐv̩˧bæ˧-mi˩
 \so <print="n"> F4
 \pdl classifier
 \pdv mi˩
@@ -75785,13 +75788,13 @@
 \xf Houlàlà! Le cheval nous l'a mangé! (Contexte: on laisse dans la cour des céréales, ou du fourrage, et pendant qu'on a le dos tourné, le cheval chaparde cette nourriture.)
 \dt 06/Oct/2015
 
-\lx ʐwæ˩₁
+\lx ʐwæ˩α
 \hm 1
 \ph ruaeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
-\ton L₁
+\ton Lα
 \lc ʐwæ˩˥
 \so <print="n"> F4
 \de To swoon.
@@ -75806,14 +75809,14 @@
 \xf s'évanouir à force de fatigue, s'évanouir d'épuisement
 \dt 06/Oct/2015
 
-\lx ʐwæ˩₁
+\lx ʐwæ˩α
 \sf <nb="2011"> 1502
 \hm 2
 \ph ruaeq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
-\ton L₁
+\ton Lα
 \lc ʐwæ˩˥
 \so <print="n"> F4
 \de Good, well (working well, strongly).
@@ -75833,7 +75836,7 @@
 \xf Il est très habile! / Il est formidable!
 \dt 06/Oct/2015
 
-\lx ʐwæ˧₁
+\lx ʐwæ˧α
 \sf <nb="B"> 1150
 \sf <nb="2011"> 1646
 \ph ruae
@@ -75842,7 +75845,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (avant 09: indiqué comme ton 4, par erreur) (tso˧tso˧ʐwæ˩: 2006: noté ˧˧˧, par erreur) (ʁu˧do˧ʐwæ˧ “peser des noix": vérifié en 2009: est bien ˧ ˧ ˧)
 \nt <type="hist" print="n"> (corrigé en 2007; en 2006, avais noté ˧ ˧ ˧ ˩) (en 2006, avais noté ʐwæ˩˥ comme forme de citation)
-\ton M₁
+\ton Mα
 \lc ʐwæ˧
 \so <print="n"> F4
 \va <speaker="F5"> ID.
@@ -76208,7 +76211,7 @@
 \xf avoir faim
 \dt 06/Oct/2015
 
-\lx ʐwɤ˩₂
+\lx ʐwɤ˩β
 \sf <nb="B"> 1520
 \sf <nb="B"> 375
 \sf <nb="B"> 1314
@@ -76220,7 +76223,7 @@
 \sd <langue="eng"> verb
 \nt <type="hist" print="n"> (en 2006, avais noté: “ʐwɤ˥ ʐwɤ˧ mɤ˧ hĩ˩, tons confirmés") (vérifié; avant 09: noté: lə˧u˧ʐwɤ˩) le˧-ʐwɤ˩-ze˩: phonétiquement: [le˥ ʐwɤ˩ ze˩]
 \nt <type="sem"> pour désigner une personne muette, on utilisait traditionnellement le terme pour “idiot"
-\ton L₂
+\ton Lβ
 \so <print="n"> F4
 \va <speaker="F5"> ID.
 \va <speaker="M18"> ID.
@@ -76733,7 +76736,7 @@
 \xf ces choses-ci, cette sorte de choses
 \dt 06/Oct/2015
 
-\lx *ʁwɤ˩₁
+\lx *ʁwɤ˩α
 \sf <nb="B"> 1523
 \sf <nb="2011"> 2305
 \ph wuaq
@@ -76742,7 +76745,7 @@
 \sd <langue="eng"> verb
 \nt <langue="pumi" type="comp" print="n"> wʌ22wɑ35
 \np ton 3a (déduit de la forme rédupliquée)
-\ton L₁
+\ton Lα
 \lc ʁwɤ˩˥
 \so <print="n"> F4
 \va <speaker="M21"> ID.
