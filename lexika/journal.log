@@ -1,0 +1,63 @@
+[AVERTISSEMENT]	Aucun fichier de configuration n’a été donné en argument, le fichier par défaut « ./exemples/mwotlap/configuration.yml » sera utilisé.
+[INFORMATION]	Ouverture du fichier « configuration.yml » avec l'encodage « UTF-8 » (confiance de 0.99)
+[INFORMATION]	Temps d'exécution de la tâche « exécution d'une tâche » : 9e-06 s.
+[INFORMATION]	Ouverture du fichier « mwotlap2.lex » avec l'encodage « UTF-8 » (confiance de 0.99)
+[INFORMATION]	📖 Information 1	ligne 1	« \_sh v3.0  699  MDFAltMwotlap »
+		🛈 La balise de type « _sh » n'est pas utilisée.
+[INFORMATION]	📖 Information 2	ligne 8	« \gr »
+		🛈 La balise de type « gr » (ligne 8) ne contient aucune valeur.
+[INFORMATION]	📖 Information 3	ligne 11	« \we entre deux propositions »
+		🛈 L'entité parente « définition » de l'entité « note » (informations : « {'note': 'entre deux propositions', 'langue': 'fra', 'type': 'syntaxique'} ») n'a pas encore été trouvée et sera placée dans le dépôt.
+[INFORMATION]	📖 Information 4	ligne 11	« \we entre deux propositions »
+		🛈 L'entité parente « définition » de l'entité « note » (informations : « {'note': 'entre deux propositions', 'langue': 'fra', 'type': 'syntaxique'} ») n'a pas encore été trouvée et sera placée dans le dépôt.
+[INFORMATION]	📖 Information 5	ligne 12	« \wn between two clauses »
+		🛈 L'entité parente « définition » de l'entité « note » (informations : « {'note': 'between two clauses', 'langue': 'eng', 'type': 'syntaxique'} ») n'a pas encore été trouvée et sera placée dans le dépôt.
+[INFORMATION]	📖 Information 6	ligne 12	« \wn between two clauses »
+		🛈 L'entité parente « définition » de l'entité « note » (informations : « {'note': 'entre deux propositions', 'langue': 'fra', 'type': 'syntaxique'} ») n'a pas encore été trouvée et sera placée dans le dépôt.
+[INFORMATION]	📖 Information 7	ligne 12	« \wn between two clauses »
+		🛈 L'entité parente « définition » de l'entité « note » (informations : « {'note': 'between two clauses', 'langue': 'eng', 'type': 'syntaxique'} ») n'a pas encore été trouvée et sera placée dans le dépôt.
+[AVERTISSEMENT]	📖 Avertissement 1	ligne 13	« \de subordonnant liant les valeurs de vérité de deux propositions: (P1) tel que (P2), (P1) »
+		🛈 L'entité parente « définition » de l'entité « note » ne semble pas être la bonne (informations de l'entité : « {'note': 'between two clauses', 'langue': 'eng', 'type': 'syntaxique'} »), conditions du parent : « {'langue': 'identique'} »).
+[AVERTISSEMENT]	📖 Avertissement 2	ligne 14	« tandis que (P2), (P1) et (P2)… »
+		🛈 Attention, la ligne « tandis que (P2), (P1) et (P2)… » (14) n'a pas été validée par l'expression régulière.
+[INFORMATION]	📖 Information 8	ligne 16	« \rf »
+		🛈 La balise de type « rf » (ligne 16) ne contient aucune valeur.
+[INFORMATION]	📖 Information 9	ligne 21	« \he »
+		🛈 La balise de type « he » (ligne 21) ne contient aucune valeur.
+[AVERTISSEMENT]	📖 Avertissement 3	ligne 22	« \we entre sujet et verbe »
+		🛈 L'entité parente « définition » de l'entité « note » ne semble pas être la bonne (informations de l'entité : « {'note': 'entre sujet et verbe', 'langue': 'fra', 'type': 'syntaxique'} ») : mauvais bloc.
+[AVERTISSEMENT]	📖 Avertissement 4	ligne 22	« \we entre sujet et verbe »
+		🛈 L'entité parente « définition » de l'entité « note » ne semble pas être la bonne (informations de l'entité : « {'note': 'entre sujet et verbe', 'langue': 'fra', 'type': 'syntaxique'} ») : mauvais bloc.
+[AVERTISSEMENT]	📖 Avertissement 5	ligne 23	« \wn between subject and verb »
+		🛈 L'entité parente « définition » de l'entité « note » ne semble pas être la bonne (informations de l'entité : « {'note': 'between subject and verb', 'langue': 'eng', 'type': 'syntaxique'} ») : mauvais bloc.
+[AVERTISSEMENT]	📖 Avertissement 6	ligne 23	« \wn between subject and verb »
+		🛈 L'entité parente « définition » de l'entité « note » ne semble pas être la bonne (informations de l'entité : « {'note': 'entre sujet et verbe', 'langue': 'fra', 'type': 'syntaxique'} ») : mauvais bloc.
+[AVERTISSEMENT]	📖 Avertissement 7	ligne 23	« \wn between subject and verb »
+		🛈 L'entité parente « définition » de l'entité « note » ne semble pas être la bonne (informations de l'entité : « {'note': 'between subject and verb', 'langue': 'eng', 'type': 'syntaxique'} ») : mauvais bloc.
+[AVERTISSEMENT]	📖 Avertissement 8	ligne 24	« \de lorsque, comme (P) »
+		🛈 L'entité parente « définition » de l'entité « note » ne semble pas être la bonne (informations de l'entité : « {'note': 'between subject and verb', 'langue': 'eng', 'type': 'syntaxique'} »), conditions du parent : « {'langue': 'identique'} »).
+[AVERTISSEMENT]	📖 Avertissement 9	ligne 31	« \we dépendant d'un nom »
+		🛈 L'entité parente « définition » de l'entité « note » ne semble pas être la bonne (informations de l'entité : « {'note': "dépendant d'un nom", 'langue': 'fra', 'type': 'syntaxique'} ») : mauvais bloc.
+[AVERTISSEMENT]	📖 Avertissement 10	ligne 31	« \we dépendant d'un nom »
+		🛈 L'entité parente « définition » de l'entité « note » ne semble pas être la bonne (informations de l'entité : « {'note': "dépendant d'un nom", 'langue': 'fra', 'type': 'syntaxique'} ») : mauvais bloc.
+[AVERTISSEMENT]	📖 Avertissement 11	ligne 33	« \wn depending on a noun »
+		🛈 L'entité parente « définition » de l'entité « note » ne semble pas être la bonne (informations de l'entité : « {'note': 'depending on a noun', 'langue': 'eng', 'type': 'syntaxique'} »), conditions du parent : « {'langue': 'identique'} »).
+[AVERTISSEMENT]	📖 Avertissement 12	ligne 33	« \wn depending on a noun »
+		🛈 L'entité parente « définition » de l'entité « note » ne semble pas être la bonne (informations de l'entité : « {'note': 'depending on a noun', 'langue': 'eng', 'type': 'syntaxique'} »), conditions du parent : « {'langue': 'identique'} »).
+[INFORMATION]	📖 Information 10	ligne 35	« \rf »
+		🛈 La balise de type « rf » (ligne 35) ne contient aucune valeur.
+[INFORMATION]	📖 Information 11	ligne 36	« \xv »
+		🛈 La balise de type « xv » (ligne 36) ne contient aucune valeur.
+[INFORMATION]	📖 Information 12	ligne 41	« \rf »
+		🛈 La balise de type « rf » (ligne 41) ne contient aucune valeur.
+[AVERTISSEMENT]	📖 Avertissement 13	ligne 42	« \rm Mtp.Banane.078 »
+		🛈 Balise « rm » inconnue à la ligne 42, donc ignorée.
+[AVERTISSEMENT]	📖 Avertissement 14	ligne 43	« \xm Tō kōyō ēglal van so ne-men a me-gen na-ptel nagayō en, kē ne-bel. »
+		🛈 Balise « xm » inconnue à la ligne 43, donc ignorée.
+[INFORMATION]	📖 Information 13	ligne 46	« \lv mey »
+		🛈 L'attribut « cible » a déjà la valeur « mey a », une nouvelle entité « relation sémantique » sera créée pour la valeur « mey ».
+[INFORMATION]	Temps d'exécution de la tâche « exécution d'une tâche » : 1e-05 s.
+[INFORMATION]	Temps d'exécution de la tâche « création du dictionnaire » : 0.009655 s.
+[INFORMATION]	Le tri des entités a pris en compte l'expression « ⒺaⒽ1 » avec l'ordre des syllabes suivant : « ([0], [], [0], [1]) ».
+[INFORMATION]	Génération du fichier XML terminée
+[INFORMATION]	Temps d'exécution de la tâche « génération du fichier XML » : 0.005574 s.

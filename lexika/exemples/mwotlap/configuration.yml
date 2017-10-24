@@ -1,4 +1,4 @@
-chemin source: exemples/mwotlap/mwotlap.lex
+chemin source: exemples/mwotlap/mwotlap2.lex
 format entrée: MDF Alex
 format sortie: personnalisé Alex
 sens: direct

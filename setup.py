@@ -6,18 +6,18 @@ from setuptools import setup, find_packages
 __author__ = 'Benjamin Galliot'
 __copyright__ = "Copyleft"
 __license__ = "Spéciale"
-__version__ = "0.3"
+__version__ = "0.4"
 __email__ = "b.g01lyon@gmail.com"
-__status__ = "Development Status :: 2 - Pre-Alpha"
+__status__ = "Development Status :: 3 - Alpha"
 
 setup(name='lexika',
       version=__version__,
-      description='Interface graphique pour pylmflib',
+      description='Logiciel de création de dictionnaires multilingues avec interface graphique.',
       author='Benjamin Galliot',
       author_email='b.g01lyon@gmail.com',
       url='https://bitbucket.org/BenjaminGalliot/lexika',
       packages=find_packages(),
-      install_requires=['cchardet', 'regex'],
+      install_requires=['cchardet', 'lxml', 'regex'],
       include_package_data=True,
       entry_points={'console_scripts': ['lexika=lexika.base:main'],},
       classifiers=["Development Status :: 2 - Pre-Alpha",

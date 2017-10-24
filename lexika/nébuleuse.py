@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import lexika.linguistique
+import lexika.outils
 import copy
 import logging
 import os
@@ -16,7 +17,15 @@ class Nébuleuse:
     """
     def __init__(self, configuration):
         self.configuration = configuration
-        self.constantes = self.configuration.constantes if self.configuration.constantes else {"doublon": "‽", "groupe": "Ⓖ", "entrée": "Ⓔ", "sous-entrée": "ⓔ", "homonyme": "Ⓗ", "sens": "Ⓢ", "définition": "Ⓓ", "exemple": "⒠", "tableau": "Ⓣ"}
+        self.constantes = self.configuration.constantes if self.configuration.constantes else {"doublon": "‽",
+                                                                                               "groupe": "Ⓖ",
+                                                                                               "entrée": "Ⓔ",
+                                                                                               "sous-entrée": "ⓔ",
+                                                                                               "homonyme": "Ⓗ",
+                                                                                               "sens": "Ⓢ",
+                                                                                               "définition": "Ⓓ",
+                                                                                               "exemple": "⒠",
+                                                                                               "tableau": "Ⓣ"}
         self.modèle_métadonnées = regex.compile(r"([\w]+)=[\"\']?([\w\s]+)[\"\']?")
         self.langues = []
         self.statuts_langues = {}
@@ -32,6 +41,7 @@ class NébuleuseDʼOrion(Nébuleuse):
         :memb hiérarchie: Dictionnaire de tous les types d'entités du dictionnaire, permet de retouver le dernière parent d'un type donné.
         :memb historique: Liste ordonnée par ordre d'ancienneté des entités du dictionnaire, permet de retouver quel parent est le plus proche.
         """
+
         super(NébuleuseDʼOrion, self).__init__(configuration)
 
         self.modèle_ligne = regex.compile(self.configuration.modèle_ligne)
@@ -45,12 +55,14 @@ class NébuleuseDʼOrion(Nébuleuse):
         self.hiérarchie = {}
         self.historique = []
         self.dépôt = []
+        self.témoin = None
 
     def initialiser(self):
         """
         Initialise la configuration générale et les objets nécessaires à la création du dictionnaire.
         :return:
         """
+
         informations_globales = {"nom": "informations globales", "attributs": self.configuration.dictionnaire, "structure": {}}
         informations_globales.update({"voie de création": "Lexika"})
         self.informations_globales = self.créer_entité_linguistique(informations_entité=informations_globales, informations_parent=None)
@@ -68,7 +80,8 @@ class NébuleuseDʼOrion(Nébuleuse):
         :param ligne_données:
         :return:
         """
-        logging.info(_("Ligne {index} en cours : « {ligne} »").format(**ligne_données))
+
+        self.témoin = lexika.outils.Témoin(ligne_données["index"], ligne_données["ligne"])
         bilan = self.modèle_ligne.match(ligne_données["ligne"])
         if bilan:
             balise = bilan.group("balise")
@@ -99,15 +112,15 @@ class NébuleuseDʼOrion(Nébuleuse):
                             proentité.ajouter_informations({"attributs": dict(informations_balise["paramètres"], **métadonnées), "données": données})
                             self.aiguiller_entités_linguistiques(proentité, est_nouveau_bloc)
                         else:
-                            logging.warning(_("L'entité de type « {} » n'est pas configurée.").format(informations_balise["entité"]))
+                            self.témoin.envoyer_message("Avertissement", _("L'entité de type « {} » n'est pas configurée.").format(informations_balise["entité"]))
                     else:
-                        logging.warning(_("La balise de type « {} » n'est pas utilisée.").format(balise))
+                        self.témoin.envoyer_message("Information", _("La balise de type « {} » n'est pas utilisée.").format(balise))
                 else:
-                    logging.warning(_("La balise de type « {} » (ligne {}) ne contient aucune valeur.").format(balise, ligne_données["index"]))
+                    self.témoin.envoyer_message("Information", _("La balise de type « {} » (ligne {}) ne contient aucune valeur.").format(balise, ligne_données["index"]))
             else:
-                    logging.warning(_("Balise « {} » inconnue à la ligne {}, donc ignorée.").format(balise, ligne_données["index"]))
+                    self.témoin.envoyer_message("Avertissement", _("Balise « {} » inconnue à la ligne {}, donc ignorée.").format(balise, ligne_données["index"]))
         else:
-            logging.warning(_("Attention, la ligne « {ligne} »  ({index}) n'a pas été validée par l'expression régulière.").format(**ligne_données))
+            self.témoin.envoyer_message("Avertissement", _("Attention, la ligne « {ligne} » ({index}) n'a pas été validée par l'expression régulière.").format(**ligne_données))
 
     def aiguiller_entités_linguistiques(self, proentité, nouveau_bloc=False):
         """
@@ -115,6 +128,7 @@ class NébuleuseDʼOrion(Nébuleuse):
         :param informations_générales:
         :return:
         """
+
         if nouveau_bloc == "primaire":
             self.historique = []
             self.hiérarchie = {"dictionnaire": self.hiérarchie["dictionnaire"]}
@@ -130,7 +144,7 @@ class NébuleuseDʼOrion(Nébuleuse):
             parent_par_défaut = [parent for parent in proentité.informations_entités_parentes_potentielles if "entité" in parent][0]
             if "entité" in proentité.informations_entités_parentes_potentielles[0]:
                 del proentité.informations_entités_parentes_potentielles[0]
-            logging.warning(_("Le parent adéquat n'a pas été trouvé et un parent par défaut « {} » sera créé.".format(parent_par_défaut["entité"])))
+            self.témoin.envoyer_message("Avertissement", _("Le parent adéquat n'a pas été trouvé et un parent par défaut « {} » sera créé.".format(parent_par_défaut["entité"])))
             proentité_auxiliaire = lexika.linguistique.ProentitéLinguistique(self.entités[parent_par_défaut["entité"]])
             attributs = parent_par_défaut["attributs"]
             if "informations à copier" in parent_par_défaut:
@@ -152,6 +166,7 @@ class NébuleuseDʼOrion(Nébuleuse):
         :param informations_parent:
         :return:
         """
+
         if proentité:
             informations_entité = proentité.entité_propre
             informations_parent = proentité.entité_parente
@@ -168,12 +183,12 @@ class NébuleuseDʼOrion(Nébuleuse):
                     if parent._parent and parent._parent.nom_entité_linguistique in self.hiérarchie and self.hiérarchie[parent._parent.nom_entité_linguistique][-1] != parent._parent: # À améliorer !
                         if proentité not in self.dépôt:
                             self.dépôt.append(proentité)
-                        logging.warning(_("L'entité parente « {} » de l'entité « {} » ne semble pas être la bonne (informations de l'entité : « {} ») : mauvais bloc).").format(nom_parent, entité.nom_entité_linguistique, informations_entité["attributs"]))
+                        self.témoin.envoyer_message("Avertissement", _("L'entité parente « {} » de l'entité « {} » ne semble pas être la bonne (informations de l'entité : « {} ») : mauvais bloc.").format(nom_parent, entité.nom_entité_linguistique, informations_entité["attributs"]))
                         return None
                     if "conditions" in informations_parent:
                         résultat = all([bool((getattr(parent, nom_attribut) == informations_entité["attributs"][nom_attribut]) * (condition == "identique")) for nom_attribut, condition in informations_parent["conditions"].items()])
                         if not résultat:
-                            logging.warning(_("L'entité parente « {} » de l'entité « {} » ne semble pas être la bonne (informations de l'entité : « {} »), conditions du parent : « {} »).").format(nom_parent, entité.nom_entité_linguistique, informations_entité["attributs"], informations_parent["conditions"]))
+                            self.témoin.envoyer_message("Avertissement", _("L'entité parente « {} » de l'entité « {} » ne semble pas être la bonne (informations de l'entité : « {} »), conditions du parent : « {} »).").format(nom_parent, entité.nom_entité_linguistique, informations_entité["attributs"], informations_parent["conditions"]))
                             if proentité not in self.dépôt:
                                 self.dépôt.append(proentité)
                             return None
@@ -187,7 +202,7 @@ class NébuleuseDʼOrion(Nébuleuse):
                         setattr(entité, "_parent", parent)
                         setattr(entité, "_attribut_parent", nom_attribut_parent)
                 else:
-                    logging.warning(_("L'entité parente « {} » de l'entité « {} » (informations : « {} ») n'a pas encore été trouvée et sera placée dans le dépôt.").format(nom_parent, entité.nom_entité_linguistique, informations_entité["attributs"]))
+                    self.témoin.envoyer_message("Information", _("L'entité parente « {} » de l'entité « {} » (informations : « {} ») n'a pas encore été trouvée et sera placée dans le dépôt.").format(nom_parent, entité.nom_entité_linguistique, informations_entité["attributs"]))
                     if proentité not in self.dépôt:
                         self.dépôt.append(proentité)
                     return None
@@ -199,7 +214,7 @@ class NébuleuseDʼOrion(Nébuleuse):
             if nom_entité_linguistique in self.hiérarchie:
                 entité = self.hiérarchie[nom_entité_linguistique][-1]
             else:
-                logging.error(_("L'entité « {} » à mettre à jour n'existe pas.".format(nom_entité_linguistique)))
+                self.témoin.envoyer_message("Erreur", _("L'entité « {} » à mettre à jour n'existe pas.".format(nom_entité_linguistique)))
                 return
         self.mettre_à_jour_entité_linguistique(entité, informations_entité, informations_parent, proentité)
         self.mettre_à_jour_identifiant(entité, informations_entité, informations_parent, proentité)
@@ -219,20 +234,21 @@ class NébuleuseDʼOrion(Nébuleuse):
         :param informations_parent:
         :return:
         """
+
         for attribut, valeur in informations_entité["attributs"].items():
             if "langue" in informations_entité["attributs"] and informations_entité["attributs"]["langue"] not in self.langues:
-                logging.warning(_("Langue « {} » non présente dans les paramètres de configuration.").format(informations_entité["attributs"]["langue"]))
+                self.témoin.envoyer_message("Avertissement", _("Langue « {} » non présente dans les paramètres de configuration.").format(informations_entité["attributs"]["langue"]))
             if hasattr(entité, attribut):
                 if "factorisable" in proentité.entité_propre["structure"] and proentité.entité_propre["structure"]["factorisable"]:
-                    logging.info(_("L'attribut « {} » a déjà la valeur « {} », une nouvelle entité « {} » sera créée pour la valeur « {} ».").format(attribut, getattr(entité, attribut), entité.nom_entité_linguistique,valeur))
+                    self.témoin.envoyer_message("Information", _("L'attribut « {} » a déjà la valeur « {} », une nouvelle entité « {} » sera créée pour la valeur « {} ».").format(attribut, getattr(entité, attribut), entité.nom_entité_linguistique,valeur))
                     self.reprendre_entité_linguistique(entité, attribut, valeur)
                 else:
-                    logging.error(_("L'attribut « {} » a déjà la valeur « {} » qui ne sera pas remplacée par « {} ».").format(attribut, getattr(entité, attribut), valeur))
+                    self.témoin.envoyer_message("Erreur", _("L'attribut « {} » a déjà la valeur « {} » qui ne sera pas remplacée par « {} ».").format(attribut, getattr(entité, attribut), valeur))
             else:
                 if valeur:
                     setattr(entité, attribut, str(valeur))
                 else:
-                    logging.warning(_("L'attribut « {} » n'a pas de valeur.").format(attribut))
+                    self.témoin.envoyer_message("Avertissement", _("L'attribut « {} » n'a pas de valeur.").format(attribut))
         return entité
 
     def reprendre_entité_linguistique(self, entité, attribut, valeur):
@@ -248,6 +264,7 @@ class NébuleuseDʼOrion(Nébuleuse):
         :param entité:
         :return:
         """
+
         if entité.nom_entité_linguistique not in self.hiérarchie:
             self.hiérarchie[entité.nom_entité_linguistique] = []
         self.hiérarchie[entité.nom_entité_linguistique].append(entité)
@@ -261,6 +278,7 @@ class NébuleuseDʼOrion(Nébuleuse):
         :param informations_parent:
         :return:
         """
+
         if "identifiant" in informations_entité["structure"]:
             if informations_entité["nom"] in self.constantes:
                 if informations_entité["structure"]["identifiant"]["nom"]:
@@ -276,7 +294,7 @@ class NébuleuseDʼOrion(Nébuleuse):
                 setattr(entité, "identifiant", identifiant)
                 self.identifiants[identifiant] = entité
             else:
-                logging.error(_("La constante d'identification « {} » n'existe pas.".format(informations_entité["nom"])))
+                self.témoin.envoyer_message("Erreur", _("La constante d'identification « {} » n'existe pas.".format(informations_entité["nom"])))
         return entité
 
     def créer_objet(self, nom_entité_linguistique):
@@ -391,45 +409,45 @@ class NébuleuseDʼOrion(Nébuleuse):
                                 setattr(objet, nom, élément)
 
 
-class NébuleuseDʼOméga(NébuleuseDʼOrion):
-    """Cet objet permet de créer des dictionnaires dynamiquement."""
-    def __init__(self, configuration):
-        super(NébuleuseDʼOméga, self).__init__(configuration)
-
-    def analyser_données(self, ligne_données):
-        """
-        Analyse les données (ligne par ligne) afin de savoir comment les traiter selon la configuration spécifique. À ce niveau, les termes de balise et de données sont utilisés.
-        :param ligne_données:
-        :return:
-        """
-        logging.info(_("Ligne {index} en cours : « {ligne} »").format(**ligne_données))
-        bilan = self.modèle_ligne.match(ligne_données["ligne"])
-        if bilan:
-            balise = bilan.group("balise")
-            données = bilan.group("données")
-            métadonnées = bilan.group("métadonnées") if "métadonnées" in bilan.groupdict() else None
-            if balise in self.balises:
-                informations_balise = self.balises[balise]
-                if données:
-                    if informations_balise["entité"] in self.entités:
-                        proentité = lexika.linguistique.ProentitéLinguistique(self.entités[informations_balise["entité"]])
-                        proentité.ajouter_informations({"attributs": informations_balise["paramètres"]})
-                        est_nouveau_bloc = informations_balise["tête"] if "tête" in informations_balise else None
-                        proentité.ajouter_informations({"données": données, "métadonnées": métadonnées})
-                        for clef, valeur in {clef: valeur for clef, valeur in bilan.groupdict().items() if valeur and clef not in ["balise", "données"]}.items():
-                            if clef == "profondeur":
-                                valeur = valeur.count(".")  # à finir
-                            if clef == "acception":
-                                if "sens" not in self.hiérarchie or getattr(self.hiérarchie["sens"][-1], "numéro de sens") != valeur:
-                                    proentité_auxiliaire = lexika.linguistique.ProentitéLinguistique(self.entités[clef])
-                                    proentité_auxiliaire.ajouter_informations({"attributs": {}, "données": valeur})
-                                    self.aiguiller_entités_linguistiques(proentité_auxiliaire)
-                        self.aiguiller_entités_linguistiques(proentité, est_nouveau_bloc)
-                    else:
-                        logging.warning(_("L'entité de type « {} » n'est pas configurée.").format(informations_balise["entité"]))
-                else:
-                    logging.info(_("La balise de type « {} » (ligne {}) ne contient aucune valeur.").format(balise, ligne_données["index"]))
-            else:
-                logging.info(_("Balise « {} » inconnue à la ligne {}, donc ignorée.").format(balise, ligne_données["index"]))
-        else:
-            logging.warning(_("Attention, la ligne « {ligne} »  ({index}) n'a pas été validée par l'expression régulière.").format(**ligne_données))
+#class NébuleuseDʼOméga(NébuleuseDʼOrion):
+#    """Cet objet permet de créer des dictionnaires dynamiquement."""
+#    def __init__(self, configuration):
+#        super(NébuleuseDʼOméga, self).__init__(configuration)
+#
+#    def analyser_données(self, ligne_données):
+#        """
+#        Analyse les données (ligne par ligne) afin de savoir comment les traiter selon la configuration spécifique. À ce niveau, les termes de balise et de données sont utilisés.
+#        :param ligne_données:
+#        :return:
+#        """
+#
+#        bilan = self.modèle_ligne.match(ligne_données["ligne"])
+#        if bilan:
+#            balise = bilan.group("balise")
+#            données = bilan.group("données")
+#            métadonnées = bilan.group("métadonnées") if "métadonnées" in bilan.groupdict() else None
+#            if balise in self.balises:
+#                informations_balise = self.balises[balise]
+#                if données:
+#                    if informations_balise["entité"] in self.entités:
+#                        proentité = lexika.linguistique.ProentitéLinguistique(self.entités[informations_balise["entité"]])
+#                        proentité.ajouter_informations({"attributs": informations_balise["paramètres"]})
+#                        est_nouveau_bloc = informations_balise["tête"] if "tête" in informations_balise else None
+#                        proentité.ajouter_informations({"données": données, "métadonnées": métadonnées})
+#                        for clef, valeur in {clef: valeur for clef, valeur in bilan.groupdict().items() if valeur and clef not in ["balise", "données"]}.items():
+#                            if clef == "profondeur":
+#                                valeur = valeur.count(".")  # à finir
+#                            if clef == "acception":
+#                                if "sens" not in self.hiérarchie or getattr(self.hiérarchie["sens"][-1], "numéro de sens") != valeur:
+#                                    proentité_auxiliaire = lexika.linguistique.ProentitéLinguistique(self.entités[clef])
+#                                    proentité_auxiliaire.ajouter_informations({"attributs": {}, "données": valeur})
+#                                    self.aiguiller_entités_linguistiques(proentité_auxiliaire)
+#                        self.aiguiller_entités_linguistiques(proentité, est_nouveau_bloc)
+#                    else:
+#                        logging.warning(_("L'entité de type « {} » n'est pas configurée.").format(informations_balise["entité"]))
+#                else:
+#                    logging.info(_("La balise de type « {} » (ligne {}) ne contient aucune valeur.").format(balise, ligne_données["index"]))
+#            else:
+#                logging.info(_("Balise « {} » inconnue à la ligne {}, donc ignorée.").format(balise, ligne_données["index"]))
+#        else:
+#            logging.warning(_("Attention, la ligne « {ligne} »  ({index}) n'a pas été validée par l'expression régulière.").format(**ligne_données))

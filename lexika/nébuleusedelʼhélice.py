@@ -20,6 +20,7 @@ class NébuleuseDeLʼHélice:
     """
     Classe qui transforme toutes les poussières de données pour éventuellement donner vie à un dictionnaire selon les différentes interférences paramétriques.
     """
+
     def __init__(self, chemin_accès_configuration):
         self.chemin_accès_configuration = chemin_accès_configuration
         self.configuration = None
@@ -35,6 +36,7 @@ class NébuleuseDeLʼHélice:
         Initialise la configuration générale et les objets nécessaires à la création d'un dictionnaire.
         :return:
         """
+
         # Création des objets de configuration.
         self.configuration = lexika.outils.Configuration(self.chemin_accès_configuration)
         self.tâches = self.configuration.tâches if "tâches" in self.configuration.__dict__ else []
@@ -54,6 +56,7 @@ class NébuleuseDeLʼHélice:
         :param fichier_sortie:
         :return:
         """
+
         for tâche, fonction in [(tâche, fonction) for tâche, fonction in lexika.outils.tâches.items() if niveau in self.configuration.tâches and self.configuration.tâches[niveau] and tâche in self.configuration.tâches[niveau]]:
             logging.info(_("Tâche de niveau « {} » en cours d'exécution : « {} »").format(niveau, tâche))
             fonction(**mots_clefs)
@@ -68,6 +71,7 @@ class NébuleuseDeLʼHélice:
         Crée un dictionnaire en exécutant les différentes étapes : lecture du fichier source, envoi des données au créateur et écriture du résultat (le tout avec exécution des différentes tâches spécifiques).
         :return:
         """
+
         self.exécuter_tâches("initial", fichier_entrée=self.configuration.chemin_source, fichier_sortie=self.configuration.chemin_source)
         self.lecteur = lexika.outils.Lecteur(self.configuration.chemin_source)
         for donnée in self.lecteur.données:
@@ -83,6 +87,7 @@ class NébuleuseDeLʼHélice:
         Génère le fichier XML à partir du dictionnaire nouvellement créé.
         :return:
         """
+
         # self.exécuter_tâches("pré-XML")
         générateur_XML = lexika.outils.GénérateurXML(self.configuration, self.créateur.dictionnaire, self.créateur.informations_globales)
         générateur_XML.obtenir_xml(self.configuration.XML["format"], self.configuration.XML["langue"])
@@ -94,8 +99,9 @@ class NébuleuseDeLʼHélice:
         Génère le fichier Latex à partir du fichier XML nouvellement créé.
         :return:
         """
+
         # self.exécuter_tâches("pré-Latex")
-        générateur_Latex = lexika.outils.GénérateurLatex(self.configuration, self.créateur.dictionnaire, self.créateur.informations_globales)
-        générateur_Latex.obtenir_latex(self.configuration.Latex["format"], self.configuration.Latex["langue"])
+#        générateur_Latex = lexika.outils.GénérateurLatex(self.configuration, self.créateur.dictionnaire, self.créateur.informations_globales)
+#        générateur_Latex.obtenir_latex(self.configuration.Latex["format"], self.configuration.Latex["langue"])
         # self.exécuter_tâches("post-Latex")
 

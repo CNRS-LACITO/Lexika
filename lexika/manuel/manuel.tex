@@ -1,0 +1,877 @@
+\documentclass[10pt]{report}
+\usepackage[a4paper, left=12mm, right=12mm, top=12mm, bottom=12mm]{geometry}
+\usepackage{xltxtra}
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\usepackage{xeCJK}
+\usepackage{xcolor}
+\usepackage{caption}
+\usepackage{float}
+\usepackage{array}
+\usepackage{minted}
+\usemintedstyle{default}
+\usepackage[pdfpagelabels=false, unicode]{hyperref}
+\hypersetup{colorlinks=true, urlcolor=blue!50!black, linkcolor=gray!50!black}
+
+\setmainlanguage{french}
+\setotherlanguages{chinese}
+
+\setmainfont{EBGaramond12-Regular}[
+ItalicFont = EBGaramond12-Italic,
+BoldFont = EBGaramond12-Regular,
+SmallCapsFont = EBGaramondSC12-Regular,
+StylisticSet=1,
+WordSpace = 1.2,
+Ligatures = {Required, TeX, Common, Contextual, Rare, Historic},
+Style = Historic,
+Numbers = OldStyle,
+]
+\setmonofont{Noto Sans Mono}
+\setCJKmainfont{FandolKai}
+
+\AtBeginDocument{%
+	\XeTeXcharclass`^^^^2026=0
+	\XeTeXcharclass`^^^^2019=0
+}
+
+
+%\newfontfamily{\chinois}[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{FandolKai}
+%\newcommand{\pchinois}[1]{{\chinois #1}}
+
+\newfontfamily{\api}[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{Charis SIL}
+\newcommand{\papi}[1]{{\api #1}}
+
+\newcommand{\balise}[1]{\textcolor{red!80}{#1}}
+\newcommand{\entité}[1]{\textcolor{blue!60!black}{#1}}
+\newcommand{\caractéristique}[1]{\textcolor{green!60!black}{#1}}
+\newcommand{\entitétechnique}[1]{\textcolor{blue!50!red}{#1}}
+
+\author{Benjamin Galliot}
+\date{\today}
+
+\title{{\Huge Lexika\\\Large\textit{Que faire d’un lexique et comment en tirer toute sa substance ?\bigskip }}}    
+
+\begin{document}
+\begin{titlepage}
+\begin{center}
+    \vspace*{\fill}
+    {\fontsize{5cm}{5.5cm}\textsc{Lexika}
+    \\
+    \scalebox{1}[-1]{{\textsc{\textcolor{black!50!white}{λεξικά}}}}}
+    \\[1cm]
+    \Huge\textit{Que faire d’un lexique et comment en tirer toute sa substance ?}
+    \\[3cm]
+    \Large Manuel de l’utilisateur
+    \\[3cm]
+    Version du \today
+    \vspace*{\fill}
+    \\
+    \textsc{Benjamin Galliot}
+    \hfill
+    Version française (\textbf{référence})
+    
+\end{center}
+    
+\end{titlepage}
+
+\tableofcontents
+
+\chapter{Présentation générale}
+
+Lexika, du grec λεξικά, signifiant « dictionnaires, lexiques », est un logiciel qui permet de générer des dictionnaires multilingues à partir de fichiers sources plus ou moins structurés comme ceux au format MDF (de Toolbox). Les dictionnaires ainsi créés passent par un format pivot XML, dont la structure est paramétrable, pour notamment produire un fichier PDF directement publiable, ou un site internet à l’aide d’un fichier XSL.
+
+\section{À qui s’adresse ce logiciel ?}
+
+Ce logiciel a été développé principalement pour des linguistes, notamment les légendaires linguistes de terrain qui ne sont pas toujours très à l’aise avec l’outil informatique. Les ingénieurs qui travaillent avec eux seront aussi d’une précieuse aide lorsqu’il faudra correctement configurer un dictionnaire non totalement compatible avec des formats imaginés par d’autres personnes.
+
+\section{Compatibilité}
+
+Systèmes d’exploitation compatibles : Linux et en théorie Windows et Mac (tests à faire).
+
+Configuration minimale : aucune, si l’ordinateur semble dater de la dernière décennie…
+
+\section{Mise en œuvre technique}
+
+Ce logiciel a été développé en Python 3 et son interface graphique en Qt 5.
+
+Il utilise les bibliothèques Python suivantes pour fonctionner :
+
+\begin{itemize}
+	\item cchardet ;
+	\item lxml ;
+	\item regex.
+\end{itemize}
+
+\section{Installation}
+
+\subsection{De l’interpréteur}
+
+\subsubsection{Linux}
+
+Veuillez vérifier que l’interpréteur Python 3 est installé (notamment grâce au gestionnaire de paquets de votre distribution).
+
+\subsubsection{Windows}
+
+Veuillez installer l’\href{https://www.python.org/downloads/windows/}{interpréteur Python 3} (attention à l’architecture : 64 bits pour les ordinateurs actuels).
+
+\subsubsection{Mac}
+
+Veuillez vérifier que l’interpréteur Python 3 est installé (notamment grâce au gestionnaire de paquets \href{https://brew.sh/}{Homebrew}).
+
+\subsection{Du module}
+
+Vous pouvez à présent exécuter la commande suivante dans le terminal :
+
+\bigskip
+\begin{itemize}
+\begin{minipage}{0.45\linewidth}
+    \item la racine (où se trouve le fichier setup.py), par utilisation de l’archive locale téléchargée :
+    \begin{verbatim}
+    pip3 install .
+    \end{verbatim}
+\end{minipage}\hfill
+\begin{minipage}{0.45\linewidth}
+    \item n’importe où, par utilisation du dépôt Pypi automatiquement (connexion internet requise) :
+    \begin{verbatim}
+    pip3 install lexika
+    \end{verbatim}
+\end{minipage}
+\end{itemize}
+
+\chapter{Principe de fonctionnement}
+
+\section{Définitions}
+
+À partir de la lecture des données du fichier source qui comporte les données linguistiques (éventuellement aussi des métadonnées) associées à des \textbf{balises}, le logiciel va tenter à partir desdites balises de réorganiser hiérarchiquement les données linguistiques selon la configuration choisie. En effet, en abstrayant le dictionnaire final que vous pouvez lire, au niveau structurel, nous pouvons voir que chaque élément dudit dictionnaire est hiérarchiquement l’enfant ou le parent d’un autre (au sens inclusif : le parent englobe l’enfant qui y est inclus).
+
+Ces éléments seront par la suite nommés \textbf{entités linguistiques}. Chaque \textbf{entité linguistique} contient obligatoirement au moins une \textbf{caractéristique} qui représente la donnée linguistique elle-même et éventuellement d’autres qui représentent des paramètres informatifs sur l’entité, non toujours directement visibles. Le choix de considérer un élément comme entité ou comme caractéristique d’entité n’est pas absolu et dépend notamment de la complexité des éléments (une entité peut posséder des caractéristiques tandis qu’une caractéristique n’est qu’une information simple).
+
+Par convention, les \balise{balises} seront écrites en rouge, les \entité{entités linguistiques} en bleu, les \caractéristique{caractéristiques} en vert et les \entitétechnique{entités techniques internes} (voir plus loin) en violet. Certain. Les diverses \textit{valeurs} des caractéristiques seront en italique.
+
+\bigskip
+
+Par exemple, pour reprendre des entités classiques et courantes, nous pouvons dire qu’une \entité{entrée} de dictionnaire est un enfant du \entité{dictionnaire} lui-même (donc que les \entité{entrées} sont des sœurs), qu’une \entité{définition} est un enfant d’une \entité{entrée}, qu’un \entité{exemple} est un enfant d’une \entité{définition}. Pour donner des exemples plus labiles et plus difficiles, nous pouvons aussi dire qu’une \entité{sous-entrée} est un enfant d’une \entité{entrée} et le parent d’un \entité{sens}, ou bien que le \entité{sens} est l’enfant d’une \entité{entrée} et le parent d’une \entité{sous-entrée}, selon ce qui semble le plus approprié à la langue étudiée et au linguiste.
+
+En ce qui concerne les caractéristiques, c’est plus inconstant : si nous nous plaçons selon la représentation β (voir partie suivante) et que nous prenons par exemple la \entité{définition} d’une \entité{entrée}, la \caractéristique{définition} stricto sensu est une caractéristique, la \caractéristique{langue} dans laquelle elle est écrite en est une autre. Un autre exemple : une \entité{note} accompagnant une \entité{définition} peut être discursive, grammaticale, etc., ainsi l’entité \entité{note} peut avoir comme caractéristique son \caractéristique{type} (ainsi que sa \caractéristique{langue}).
+
+\bigskip
+
+Il pourrait en théorie être possible de combiner caractéristiques et entités pour former des entités très précises comme une \entité{définition française} ou une \entité{note grammaticale française}, mais cela crée une forte redondance en brisant les points communs de toutes les \entité{définitions} d’une part et de toutes les \caractéristique{langues} et \caractéristique{types} d’autre part.
+
+\bigskip
+
+Il est donc important de bien concevoir ce qui relève de l’entité ou de la caractéristique. C’est avant tout une question de choix selon l’objectif voulu et les parties suivantes illustreront bien les différences entre ces deux notions et les différentes représentations.
+
+\bigskip
+
+Le nom de l’entité et de la caractéristique est cependant primordial et est l’une des bases de l’algorithme, qui consiste en la recherche paramétrée de l’entité parente de chaque entité linguistique analysée: c’est le moteur clef de voûte du logiciel. Il tente de gérer la plupart des cas difficiles induits généralement par des choix structurels anciens ou par des choix de conception réalisés par des linguistes qui ont en tête un dictionnaire fini et lisible par des humains (ce qui peut créer des incohérences vis-à-vis de la structure informatisée).
+
+\section{Représentations}
+
+Il peut être possible de représenter les mêmes informations selon différentes représentations :
+\begin{itemize}
+	\item représentation α : les informations sont des entités et les méta-informations sont des caractéristiques ;
+	\item représentation β : les informations conteneurs sont des entités et les informations non-conteneurs sont des caractéristiques ;
+	\item représentation γ : les informations conteneurs sont des entités et les informations non-conteneurs sont des entités nommées \textit{caractéristiques} qui contiennent de manière développée les informations sous forme de caractéristiques.
+\end{itemize}
+
+\bigskip
+
+\begin{tabular}{p{0.05\linewidth} p{0.15\linewidth} p{0.25\linewidth} p{0.25\linewidth} p{0.25\linewidth}}
+\textbf{Repr.} & \shortstack{\textbf{Entité}\\\textbf{(élément XML)}} & \shortstack{\textbf{Caractéristique}\\\textbf{(attribut XML)}} & \textbf{Avantages} & \textbf{Inconvénients}\\
+\\
+α & Informations importantes & Informations auxiliaires ou méta-informations & Lisible, concis, ouvert (notamment au texte enrichi) & –\\
+β & Informations conteneurs & Informations non conteneurs & Concis & Moyennement lisible\\
+γ & Toutes les informations & Nom et valeur des caractéristiques développées & norme LMF & Verbeux, redondant\\
+\end{tabular}
+
+\section{Illustration}
+
+Pour illustrer (figure \ref{rep-β}), prenons une entrée simplifiée d’un mot français (à gauche) et une représentation structurelle β pertinente (à droite). Portons notre attention sur le style décrit précédemment, et notons que les parties entre parenthèses sont facultatives (selon le dictionnaire en cours de création).
+
+\begin{figure}[H]
+	\centering
+	\begin{minipage}{0.3\linewidth}
+    \textbf{Complétude}, \textit{nom féminin}\\    
+    Caractère de ce qui est complet, achevé.
+	\end{minipage}%
+	\begin{minipage}{0.5\linewidth}
+    \begin{itemize}
+    	\item \entité{Entrée} :
+    	\begin{itemize}
+        \item \caractéristique{Vedette} : \textit{Complétude}
+        \item \caractéristique{Classe grammaticale} : \textit{nom}
+        \item \caractéristique{Genre grammatical} : \textit{féminin}
+        \item \entité{Définition} :
+        \begin{itemize}
+        	\item \caractéristique{Définition} : \textit{Caractère de ce qui est complet, achevé.}
+        	\item (\caractéristique{Langue} : \textit{français})
+        \end{itemize}
+    	\end{itemize}
+    \end{itemize}
+	\end{minipage}
+	\caption{Représentation β}
+	\label{rep-β}
+\end{figure}
+
+Notons que nous pouvions aisément préciser la \caractéristique{langue} de la \caractéristique{définition} (non nécessaire pour un dictionnaire unilingue), étant donné que la \caractéristique{définition} était la seule caractéristique dans sa propre entité (de même nom), mais ajouter les \caractéristique{langues} de la \caractéristique{classe grammaticale} et du \caractéristique{genre grammatical} pose un problème de redondance, soulevé précédemment (figure \ref{rep-β-red}).
+
+\begin{figure}[H]
+	\centering
+	\begin{minipage}{0.3\linewidth}
+    \textbf{Complétude}, \textit{nom féminin}\\    
+    Caractère de ce qui est complet, achevé.
+	\end{minipage}%
+	\begin{minipage}{0.5\linewidth}
+    \begin{itemize}
+    	\item \entité{Entrée} :
+    	\begin{itemize}
+        \item \caractéristique{Vedette} : \textit{Complétude}
+        \item \caractéristique{Langue de la vedette} : \textit{français}
+        \item \caractéristique{Classe grammaticale} : \textit{nom}
+        \item \caractéristique{Langue de la classe grammaticale} : \textit{français}
+        \item \caractéristique{Genre grammatical} : \textit{féminin}
+        \item \caractéristique{Langue du genre grammatical} : \textit{français}
+        \item \entité{Définition} :
+        \begin{itemize}
+        	\item \caractéristique{Définition} : \textit{Caractère de ce qui est complet, achevé.}
+        	\item \caractéristique{Langue} : \textit{français}
+        \end{itemize}
+    	\end{itemize}
+    \end{itemize}
+	\end{minipage}
+	\caption{Représentation β avec redondance}
+	\label{rep-β-red}
+\end{figure}
+
+En transformant des caractéristiques en entités par regroupement thématique (figure \ref{rep-β-non-red}), nous voyons mieux les points communs entre toutes les \caractéristique{langues}, qui peuvent à présent être traitées de la même manière.
+
+\bigskip
+
+Remarque : c’était une illustration et il serait de bon aloi de représenter les classes et genres grammaticaux par des codes issus d’une liste fermée (faite par le linguiste) qui seraient ensuite traduits selon les besoins lors d’une étape ultérieure…
+
+\begin{figure}[H]
+	\centering
+	\begin{minipage}{0.3\linewidth}
+    \textbf{Complétude}, \textit{nom féminin}\\    
+    Caractère de ce qui est complet, achevé.
+	\end{minipage}%
+	\begin{minipage}{0.5\linewidth}
+    \begin{itemize}
+    	\item \entité{Entrée} :
+    	\begin{itemize}
+        \item \entité{Vedette} :
+        \begin{itemize}
+        	\item \caractéristique{Lexème} : \textit{Complétude}
+        	\item \caractéristique{Langue} : \textit{français}
+        \end{itemize}
+        \item \entité{Classe grammaticale} :
+        \begin{itemize}
+        	\item \caractéristique{Type} : \textit{nom}
+        	\item \caractéristique{Langue} : \textit{français}
+        \end{itemize}
+        \item \entité{Genre grammatical} :
+        \begin{itemize}
+        	\item \caractéristique{Type} : \textit{féminin}
+        	\item \caractéristique{Langue} : \textit{français}
+        \end{itemize}
+        \item \entité{Définition} :
+        \begin{itemize}
+        	\item \caractéristique{Définition} : \textit{Caractère de ce qui est complet, achevé.}
+        	\item \caractéristique{Langue} : \textit{français}
+        \end{itemize}
+    	\end{itemize}
+    \end{itemize}
+	\end{minipage}
+	\caption{Représentation β sans redondance}
+	\label{rep-β-non-red}
+\end{figure}
+
+Notons qu’une autre représentation, α, est possible, séparant les entités et les caractéristiques respectivement en informations et méta-informations (figure \ref{rep-α}).
+
+\begin{figure}[H]
+	\centering
+	\begin{minipage}{0.3\linewidth}
+    \textbf{Complétude}, \textit{nom féminin}\\    
+    Caractère de ce qui est complet, achevé.
+	\end{minipage}%
+	\begin{minipage}{0.5\linewidth}
+    \begin{itemize}
+    	\item \entité{Entrée} :
+    	\begin{itemize}
+        \item \entité{Vedette} : \textit{Complétude}
+        \begin{itemize}
+        	\item \caractéristique{Langue} : \textit{français}
+        \end{itemize}
+        \item \entité{Classe grammaticale} : \textit{nom}
+        \begin{itemize}
+        	\item \caractéristique{Langue} : \textit{français}
+        \end{itemize}
+        \item \entité{Genre grammatical} : \textit{féminin}
+        \begin{itemize}
+        	\item \caractéristique{Langue} : \textit{français}
+        \end{itemize}
+        \item \entité{Définition} : \textit{Caractère de ce qui est complet, achevé.}
+        \begin{itemize}
+        	\item \caractéristique{Langue} : \textit{français}
+        \end{itemize}
+    	\end{itemize}
+    \end{itemize}
+	\end{minipage}
+	\caption{Représentation α}
+	\label{rep-α}
+\end{figure}
+
+Malgré tout, la représentation actuellement utilisée par défaut pour des raisons de rétrocompatibilité est la γ (figure \ref{rep-γ}).
+
+\begin{figure}[h]
+	\centering
+	\begin{minipage}{0.3\linewidth}
+    \textbf{Complétude}, \textit{nom féminin}\\    
+    Caractère de ce qui est complet, achevé.
+	\end{minipage}%
+	\begin{minipage}{0.5\linewidth}
+    \begin{itemize}
+    	\item \entité{Entrée} :
+    	\begin{itemize}
+        \item \entité{Vedette} :
+        \begin{itemize}
+        	\item \entité{caractéristique} :
+        	\begin{itemize}
+            \item \caractéristique{attribut} : \textit{lexème}
+            \item \caractéristique{valeur} : \textit{Complétude}
+        	\end{itemize}
+            \item \entité{caractéristique} :
+        	\begin{itemize}
+            \item \caractéristique{attribut} : \textit{langue}
+            \item \caractéristique{valeur} : \textit{français}
+        	\end{itemize}
+        \end{itemize}
+        \item \entité{Classe grammaticale} :
+        \begin{itemize}
+        	\item \entité{caractéristique} :
+        	\begin{itemize}
+            \item \caractéristique{attribut} : \textit{classe grammaticale}
+            \item \caractéristique{valeur} : \textit{nom}
+        	\end{itemize}
+        	\item \entité{caractéristique} :
+        	\begin{itemize}
+            \item \caractéristique{attribut} : \textit{langue}
+            \item \caractéristique{valeur} : \textit{français}
+        	\end{itemize}
+        \end{itemize}
+        \item \entité{Genre grammatical} :
+        \begin{itemize}
+        	\item \entité{caractéristique} :
+        	\begin{itemize}
+            \item \caractéristique{attribut} : \textit{genre grammatical}
+            \item \caractéristique{valeur} : \textit{nom}
+        	\end{itemize}
+        	\item \entité{caractéristique} :
+        	\begin{itemize}
+            \item \caractéristique{attribut} : \textit{langue}
+            \item \caractéristique{valeur} : \textit{français}
+        	\end{itemize}
+        \end{itemize}
+        \item \entité{Définition} :
+                \begin{itemize}
+        	\item \entité{caractéristique} :
+        	\begin{itemize}
+            \item \caractéristique{attribut} : \textit{définition}
+            \item \caractéristique{valeur} : \textit{Caractère de ce qui est complet, achevé.}
+        	\end{itemize}
+        	\item \entité{caractéristique} :
+        	\begin{itemize}
+            \item \caractéristique{attribut} : \textit{langue}
+            \item \caractéristique{valeur} : \textit{français}
+        	\end{itemize}
+        \end{itemize}
+    	\end{itemize}
+    \end{itemize}
+	\end{minipage}
+	\caption{Représentation γ}
+	\label{rep-γ}
+\end{figure}
+
+\chapter{Mise en œuvre}
+
+\section{Généralités}
+
+Le format choisi pour représenter les informations du dictionnaire est XML. Notons que les différentes représentations décrites précédemment sont possibles, 
+
+\bigskip
+
+De manière générale, il y a une bonne correspondance entre les terminologies Lexika et XML :
+\begin{itemize}
+	\item éléments XML = entités Lexika ;
+	\item attributs XML = caractéristiques Lexika.
+\end{itemize}
+
+\section{Algorithme général}
+
+Voici l’algorithme général simplifié, sans détail de programmation et de gestion des erreurs (la version complète se trouve dans la documentation technique autogénérée du module Lexika) :
+\begin{enumerate}
+	\item création des entités primordiales techniques et issues des informations du fichier de configuration ;
+	\item lecture du fichier source, ligne par ligne :
+	\begin{enumerate}
+    \item décomposition de la ligne selon une expression rationnelle paramétrable en différents éléments, dont la \balise{balise}, la \textbf{donnée linguistique} et les éventuelles \textbf{métadonnées} ;
+    \item vérification de la présence de la \balise{balise} dans le format d’entrée et si elle doit être traitée (sinon, passage à la ligne suivante) ;
+    \item lecture des paramètres techniques d’entrée associés à la \balise{balise}, notamment l’\entitétechnique{entité technique interne}, les paramètres éventuels et les mots clefs techniques ;
+    \item application des règles du format de sortie associées à l’\entitétechnique{entité technique}, notamment l’\entité{entité linguistique} (son nom et ses \caractéristique{caractéristiques}), ses \entité{parents potentiels} (dans quelle \entité{entité} elle se place) et d’autres mots clefs techniques comme ceux de structure (formation d’identifiant, etc.) :
+    \begin{enumerate}
+    	\item si l’\entité{entité parente} est trouvée, l’\entité{entité en cours de traitement} s’y place ;
+    	\item sinon, création de l’\entité{entité parente} ou entreposage de l’\entité{entité en cours} en attendant que son \entité{parent} soit rencontré (paramétrage)
+    \end{enumerate}
+	\end{enumerate}
+	\item création du fichier XML paramétré par conversion de la structure objet interne (objets et attributs Python (représentant les \entité{entités} et les \caractéristique{caractéristiques} Lexika) vers éléments et attributs XML) ;
+	\item si voulu, création du fichier HTML par transformation XSL ;
+	\item si voulu, création du fichier \LaTeX par transformation XSL.
+\end{enumerate}
+
+\section{Remarques}
+
+La première version de l’architecture s’attendait assez naïvement à toujours trouver l’entité parente avant son entité enfant, autrement dit à toujours suivre un ordre de création des entités du plus général au plus spécifique (d’abord une entrée, puis un sens, puis une définition et des exemples, puis des notes diverses pour chacune de ces dernières entités, etc.). Cette \textit{règle} est tout de même bien suivie mais comporte quelques exceptions, notamment parce que les logiciels en amont (comme Toolbox) ont différentes utilisations ou conceptions, ce qui implique quelques écarts qu’il faut pouvoir gérer à notre niveau en limitant autant que faire se peut les cas particuliers.
+
+\bigskip
+
+Plusieurs moyens étaient à disposition, notamment :
+\begin{itemize}
+	\item la création d’un entrepôt qui garderait en mémoire des entités orphelines en attendant que leur parent soit créé normalement ultérieurement (méthode rétrospective : l’entrepôt est contrôlé régulièrement pour voir si dans le passé des orphelins sont en recherche), cette méthode peut devenir complexe si de nombreux orphelins apparentés et dans le désordre sont tous en attente ;
+	\item la création \textit{ex nihilo} du parent manquant avant que le réel ne le remplace adéquatement ultérieurement (méthode prospective : le parent est créé en avance sans les informations primordiales en attendant un futur changement par le vrai parent), cette méthode peut devenir complexe si les parents peuvent avoir des frères (listes) et demande donc des contrôles sur les informations.
+\end{itemize} 
+
+Les deux méthodes ont chacun leurs avantages et sont ainsi toutes les deux accessibles. 
+
+\bigskip
+
+De plus, l’on pourrait se demander pourquoi des \entitétechnique{entités techniques internes} existent puisque l’on pourrait directement lier une \balise{balise} à une \entité{entité linguistique}, or c’est la présence de certains formats qui nécessitent la création d’\entité{entités linguistiques intermédiaires} ex nihilo qui a motivé ce choix de disjoindre ce qui relève de l’entrée et ce qui relève de la sortie : une \balise{balise} d’entrée peut appeler une \entitétechnique{entité interne} qui va en appeler une \entitétechnique{autre} pour finalement créer plusieurs \entité{entités linguistiques} de sortie, selon le format de sortie sans pour autant changer celui d’entrée.
+
+\section{Fichiers d’intérêt}
+
+Outre le fichier \textbf{base.py} qui sert de point d’entrée au logiciel, un fichier contient toute la configuration nécessaire pour paramétrer la création d’un nouveau dictionnaire (et qui est donc la cible principale de l’interface graphique) : \textbf{personnalisation/informations\_linguistiques.py}. Ce dernier contient notamment les formats d’entree et de sortie, donc d’une part le lien entre les \balise{balises} et les \entitétechnique{entités techniques} et d’autre part le lien entre \entitétechnique{celles-là} et les \entité{entités linguistiques}, ainsi que toutes les expressions régulières utiles et d’autres variables d’intérêt (comme les différentes langues, etc.).
+
+\bigskip
+
+Il n’est point besoin d’être exhaustif dans la description du format puisque ce fichier surdéfinit par ajout le fichier \textbf{configuration/informations\_linguistiques.py} qui contient les informations de base des formats classiques et qui de ce fait devrait être suffisant dans les cas simples (dictionnaires peu complexes utilisant les balises par défaut).
+
+\section{Illustration}
+
+Extrait du code Python représentant la partie qui concerne la définition dans les formats d’entrée et de sortie :
+
+\begin{minted}[linenos,frame=lines,framesep=2mm]{python3}
+"de": {
+    "entité": "définition", 
+    "paramètres": {
+        "langue": self.statuts_langues["cible 1"]
+    }
+},
+\end{minted}
+\begin{minted}[linenos,frame=lines,framesep=2mm]{python3}
+"définition": {
+    "entités": [
+        {
+            "nom": "définition", 
+            "attributs": {
+                "définition": None
+            },
+            "structure": {}
+        }
+    ],
+    "parents": [
+        {
+            "nom": "sens",
+            "attribut": "définitions"
+        },
+        {
+            "entité": "acception",
+            "attributs": {
+                "numéro de sens": "0"
+            }
+        }
+    ]
+},
+\end{minted}
+
+\section{Exemple}
+
+Prenons à présent un exemple plus concret, tiré du dictionnaire japhug de Guillaume Jacques. À partir d’une source MDF (à gauche), nous créons un fichier XML (à droite) selon différentes configurations.
+
+Analyse simplifiée par le logiciel avec une configuration maison, étape par étape (figures \ref{rep-xml-α}, \ref{rep-xml-β} et \ref{rep-xml-γ}), pour une représentation β :
+
+\begin{enumerate}
+	\item (création de l’entité parente primordiale \entité{dictionnaire} de \caractéristique{langue} \textit{japhug}) ;
+	\item lecture de la balise \balise{lx} et de l’information \textit{aj}, correspondant à une \caractéristique{vedette} d’\entité{entrée}, créée comme enfant du \entité{dictionnaire} \textit{japhug} ;
+	\item lecture de la balise \balise{ps} et de l’information \textit{pro}, correspondant à une \caractéristique{classe grammaticale} de l’\entité{entrée} \textit{aj} ;
+	\item lecture de la balise \balise{ge} et de l’information \textit{moi}, correspondant à une \caractéristique{glose} de \entité{définition} (avec une \caractéristique{langue} \textit{français}), créée comme enfant de l’\entité{entrée} \textit{aj} ;
+	\item lecture de la balise \balise{gn} et de l’information \textit{我}, correspondant à une \caractéristique{glose} de \entité{définition} (avec une \caractéristique{langue} \textit{chinois}), créée comme enfant de l’\entité{entrée} \textit{aj} ;
+	\item lecture de la balise \balise{cf} et de l’information \textit{\api{aʑo}}, correspondant à une \caractéristique{cible} de \entité{relation sémantique} (avec un \caractéristique{type} \textit{renvoi}), créée comme enfant de l’\entité{entrée} \textit{aj} ;
+\end{enumerate}
+
+\begin{figure}[H]
+	\centering
+	\begin{minipage}{0.2\linewidth}
+    \begin{verbatim}
+    \lx aj
+    \ps pro
+    \ge moi
+    \gn 我
+    \cf aʑo
+    \end{verbatim}
+	\end{minipage}%
+	\begin{minipage}{0.8\linewidth}
+    \begin{minted}[linenos,frame=lines,framesep=2mm]{xml}
+    <Entrée>
+        <Vedette>aj</Vedette>
+        <ClasseGrammaticale>pro</ClasseGrammaticale>
+        <Définition langue="fra">moi</Définition>
+        <Définition langue="cmn">我</Définition>
+        <RelationSémantique type="renvoi">aʑo</RelationSémantique>
+    </Entrée>
+    \end{minted}	
+	\end{minipage}
+	\caption{Représentation XML-α}
+	\label{rep-xml-α}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\begin{minipage}{0.2\linewidth}
+    \begin{verbatim}
+    \lx aj
+    \ps pro
+    \ge moi
+    \gn 我
+    \cf aʑo
+    \end{verbatim}
+	\end{minipage}%
+	\begin{minipage}{0.8\linewidth}
+    \begin{minted}[linenos,frame=lines,framesep=2mm]{xml}
+    <Entrée vedette="aj" classe_grammaticale="pro">
+        <Définition glose="moi" langue="fra" />
+        <Définition glose="我" langue="cmn" />
+        <RelationSémantique cible="aʑo" type="renvoi" />
+    </Entrée>
+    \end{minted}	
+	\end{minipage}
+	\caption{Représentation XML-β}
+	\label{rep-xml-β}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\begin{minipage}{0.2\linewidth}
+    \begin{verbatim}
+    \lx aj
+    \ps pro
+    \ge moi
+    \gn 我
+    \cf aʑo
+    \end{verbatim}
+	\end{minipage}%
+	\begin{minipage}{0.8\linewidth}
+    \begin{minted}[linenos,frame=lines,framesep=2mm]{xml}
+    <Entrée>
+        <caractéristique attribut="vedette" valeur="aj" />
+        <caractéristique attribut="classe grammaticale" valeur="pro" />
+        <Définition>
+            <caractéristique attribut="glose" valeur="moi" />
+            <caractéristique attribut="langue" valeur="fra" />
+        </Définition>
+        <Définition>
+            <caractéristique attribut="glose" valeur="我" />
+            <caractéristique attribut="langue" valeur="cmn" />
+        </Définition>
+        <RelationSémantique>
+            <caractéristique attribut="cible" valeur="aʑo" />
+            <caractéristique attribut="type" valeur="renvoi" />
+        </RelationSémantique>
+    </Entrée>
+    \end{minted}	
+	\end{minipage}
+	\caption{Représentation XML-γ}
+	\label{rep-xml-γ}
+\end{figure}
+
+Analyse simplifiée par le logiciel avec une configuration LMF, étape par étape (figures \ref{rep-xml-lmf-α}, \ref{rep-xml-lmf-β} et \ref{rep-xml-lmf-γ}), pour une représentation β :
+
+\begin{enumerate}
+	\item (création de l’entité parente primordiale \entité{dictionnaire} de \caractéristique{langue} \textit{japhug}) ;
+	\item lecture de la balise \balise{lx} et de l’information \textit{aj}, correspondant à une \caractéristique{lexeme} de \entité{lemme}, créée comme enfant d’\entité{entrée lexicale}, elle-même créée comme enfant du \entité{dictionnaire} \textit{japhug} ;
+	\item lecture de la balise \balise{ps} et de l’information \textit{pro}, correspondant à une \caractéristique{partie du discours} de l’\entité{entrée lexicale} \textit{aj} ;
+	\item lecture de la balise \balise{ge} et de l’information \textit{moi}, correspondant à une \caractéristique{glose} de \entité{définition} (avec une \caractéristique{langue} \textit{français}), créée comme enfant du \entité{sens} \textit{général}, lui-même créé comme enfant de l’\entité{entrée} \textit{aj} ;
+	\item lecture de la balise \balise{ge} et de l’information \textit{我}, correspondant à une \caractéristique{glose} de \entité{définition} (avec une \caractéristique{langue} \textit{chinois}), créée comme enfant du \entité{sens} \textit{général} ;
+	\item lecture de la balise \balise{cf} et de l’information \textit{\api{aʑo}}, correspondant à une \caractéristique{cible} de \entité{relation sémantique} (avec un \caractéristique{type} \textit{renvoi}), créée comme enfant de l’\entité{sens} \textit{général} ;
+\end{enumerate}
+
+\begin{figure}[H]
+	\centering
+	\begin{minipage}{0.2\linewidth}
+    \begin{verbatim}
+    \lx aj
+    \ps pro
+    \ge moi
+    \gn 我
+    \cf aʑo
+    \end{verbatim}
+	\end{minipage}%
+	\begin{minipage}{0.8\linewidth}
+    \begin{minted}[linenos,frame=lines,framesep=2mm]{xml}
+    <EntréeLexicale>
+        <PartieDuDiscours>pro</PartieDuDiscours>
+        <Lemme>
+            <Lexème>aj</Lexème>
+        </Lemme>
+        <Sens sens="général">
+            <Définition langue="fra">moi</Définition>
+            <Définition langue="cmn">我</Définition>
+            <RelationSémantique type="renvoi">aʑo</RelationSémantique>
+        </Sens>	
+    </EntréeLexicale>
+    \end{minted}	
+	\end{minipage} 
+	\caption{Représentation XML-LMF-α}
+	\label{rep-xml-lmf-α}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\begin{minipage}{0.2\linewidth}
+    \begin{verbatim}
+    \lx aj
+    \ps pro
+    \ge moi
+    \gn 我
+    \cf aʑo
+    \end{verbatim}
+	\end{minipage}%
+	\begin{minipage}{0.8\linewidth}
+    \begin{minted}[linenos,frame=lines,framesep=2mm]{xml}
+    <EntréeLexicale partie_du_discours="pro">
+        <Lemme lexème="aj" />
+        <Sens sens="général">
+            <Définition glose="moi" langue="fra" />
+            <Définition glose="我" langue="cmn" />
+            <RelationSémantique cible="aʑo" type="renvoi" />
+        </Sens>	
+    </EntréeLexicale>
+    \end{minted}	
+	\end{minipage} 
+	\caption{Représentation XML-LMF-β}
+	\label{rep-xml-lmf-β}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\begin{minipage}{0.2\linewidth}
+    \begin{verbatim}
+    \lx aj
+    \ps pro
+    \ge moi
+    \gn 我
+    \cf aʑo
+    \end{verbatim}
+	\end{minipage}%
+	\begin{minipage}{0.8\linewidth}
+    \begin{minted}[linenos,frame=lines,framesep=2mm]{xml}
+    <EntréeLexicale>
+        <Lemme>
+            <caractéristique attribut="lexème" valeur="aj" />
+        </Lemme>
+        <caractéristique attribut="partie du discours" valeur="pro" />
+        <Sens>
+            <caractéristique attribut="sens" valeur="général" />
+            <Définition>
+                <caractéristique attribut="glose" valeur="moi" />
+                <caractéristique attribut="langue" valeur="fra" />
+            </Définition>
+            <Définition>
+                <caractéristique attribut="glose" valeur="我" />
+                <caractéristique attribut="langue" valeur="cmn /">
+            </Définition>
+            <RelationSémantique>
+                <caractéristique attribut="cible" valeur="aʑo" />
+                <caractéristique attribut="type" valeur="renvoi" />
+            </RelationSémantique>
+        </Sens>	
+    </EntréeLexicale>
+    \end{minted}	
+	\end{minipage}
+	\caption{Représentation XML-LMF-γ}
+	\label{rep-xml-lmf-γ}
+\end{figure}
+
+
+Ces deux analyses, correspondant à des configurations, des représentations et des formats différents, ne donneront pas les mêmes fichiers XML en sortie, chacun d’eux aura ses qualités et inconvénients selon l’objectif voulu, mais les deux pourront donner \textit{in fine} des dictionnaires similaires voire identiques (selon les post-traitements, notamment la transformation XSL).
+
+ 
+\chapter{Tutoriel -- sans interface graphique}
+
+Tout d’abord, il faut s’assurer que l’interpréteur Python 3 est installé, et faire particulièrement attention si Python 2 est installé.
+
+Voyons maintenant un exemple avec le dictionnaire japhug de Guillaume Jacques.
+
+\section{Configuration du dictionnaire}
+
+La configuration se trouve dans le fichier configuration.yml (au format YAML qui permet une modification plus aisée pour des profanes) situé dans le dossier japhug :
+
+Vous ne devriez jamais avoir à modifier un autre fichier puisque celui-ci contient toutes les informations nécessaires au bon déroulement du programme.
+
+\section{Exécution du programme}
+
+\begin{verbatim}
+python3 base.py japhug/configuration.yml
+\end{verbatim}
+
+
+\chapter{Tutoriel -- avec interface graphique}
+
+\chapter{Aide-mémoire}
+
+\section{Commandes}
+
+Si vous travaillez avec plusieurs dictionnaires, il est préférable de donner comme premier argument le chemin d’accès au fichier de configuration décrit précédemment :
+\begin{verbatim}
+python3 base.py configuration.yml
+\end{verbatim}
+
+Sinon, s’il est configuré dans le fichier base.py, vous pouvez vous contenter de cette commande :
+\begin{verbatim}
+python3 base.py
+\end{verbatim}
+
+\section{Fichier de configuration}
+
+Le fichier de configuration, seul fichier nécessaire à modifier vous-même dans un cas classique, est un fichier au format YAML, commode pour modifier de manière lisible les informations. Il est fortement structuré en arborescence et contient notamment ces informations essentielles :
+
+\begin{itemize}
+	\item le chemin source du lexique source (absolu ou relatif au chemin du fichier de configuration) ;
+	\item le format d’entrée (MDF, etc.) ;
+	\item le format de sortie (direct, LMF, personnalisé…) ;
+	\item l’identifiant du dictionnaire (le nom de la langue, par exemple) ;
+	\item des informations relatives au dictionnaire lui-même :
+	\begin{itemize}
+    \item le nom du dictionnaire ;
+    \item les auteurs ;
+    \item des commentaires…
+	\end{itemize}
+	\item des informations relatives au format XML :
+	\begin{itemize}
+    \item le chemin cible du fichier XML ;
+    \item la langue du format ;
+    \item le format (avec listes des éléments frères ou non ;
+	\end{itemize}
+	\item des informations relatives au format HTML :
+	\begin{itemize}
+    \item le chemin cible du fichier HTML ;
+    \item le chemin cible du gabarit XSL ;
+    \item la langue du format ;
+	\end{itemize}
+	\item des informations relatives au format Latex :
+	\begin{itemize}
+    \item le chemin cible du fichier \LaTeX ;
+    \item le chemin cible du gabarit XSL ;
+    \item la langue du format ;
+    \item le format (avec listes des éléments frères ou non) ;
+	\end{itemize}
+	\item l’ordre lexicographique (une liste pouvant contenir des listes) ;
+	\item des informations sur les langues utilisées dans le dictionnaire, sous forme de liste ordonnée :
+	\begin{itemize}
+    \item leur identifiant (l’identifiant ISO 639-3, par exemple) ;
+    \item leur statut (cible ou source)
+	\end{itemize}
+\end{itemize}
+
+\chapter{Remarques pour les développeurs et pour la réunion}
+
+L’architecture suppose qu’une ligne \textit{B} placée sous une ligne \textit{A} créera une entité \textbf{B} qui sera soit un enfant de l’entité \textbf{A}, soit un frère de \textbf{A} ou soit un élément non lié à \textbf{A}, et en aucun cas un parent de \textbf{A}, or certaines entités, comme les notes ou les langues d’étymon, peuvent être placées avant leur parent structurel (note avant la définition, etc.), or cela crée un problème double : 
+\begin{enumerate}
+	\item comment savoir si cette entité parente se trouve avant ou après (cas d’une note placée entre 2 définitions) ?
+	\item qu’en faire si le parent n’existe pas encore ?
+\end{enumerate}
+
+Une solution au second problème consiste à entreposer l’entité en attendant que son parent soit analysé et créé (solution simple).
+
+La solution au premier problème est plus complexe : si l’entité ne sait pas si son parent est placé avant et donc déjà créé ou s’il est placé après et donc non encore créé, il faut d’autres indices : si l’entité ne peut pas exister en plusieurs exemplaires, le problème devient plus simple, mais c’est irréaliste (il peut y avoir plusieurs notes pour une définition, voire plusieurs du même type) ; si l’entité a des paramètres qui doivent être identiques à ceux du parent (la langue, par exemple), le problème devient aussi plus simple, mais la multiplicité des cas possibles, l’absence de paramètres inclus, rend la tâche plus difficile pour tout le monde ; sinon, l’autre possibilité consiste à indiquer comme paramètre de configuration de balise où est censé se trouver le parent (avant par défaut), en ce cas il faut prévoir un moyen de vérifier que le parent adéquat a été créé après (compteur d’entités ou numéro de ligne) et bien gérer le polymorphisme d’entité (si une entité placée avant peut être dans l’absolu l’enfant de plusieurs types de parents différents).
+
+\section*{Exemples}
+
+\begin{verbatim}
+\sn 3
+\he partic
+\we syntagme possessif sujet
+\lt le X de Y existe
+\de Y a X. Traduit le verbe “avoir”
+\hn hence
+\wn possessive phrase as subject
+\ll Y's X exists
+\dn Y has X. Translates the verb “have”
+\end{verbatim}
+
+Combien d’entités importantes au sein du sens (sn) ? 
+La définition (de/dn) est-elle l’entité clef et donc la note syntaxique (we/wn) est-elle une caractéristique de la définition ? La traduction littérale (lt/ll) est-elle une entité sœur de la définition ou une caractéristique de cette dernière ?
+Si on considère que l’étiquette sémantique (he/hn) est une entité enfant du sens (ou des caractéristiques du sens), pourquoi la mettre en plusieurs langues et surtout pourquoi ne pas mettre he et hn à la suite ?
+
+\bigskip
+
+\begin{verbatim}
+\el POc
+\et *Raka
+\eg vine, creeper
+\end{verbatim}
+
+Quelle est l’entité clef de ce bloc ? La langue (el) ou l’étymon (et) ? Laquelle est primordiale et peut exister seule ? La glose étymologique est l’enfant/la caractéristique de la langue ou de l’étymon ?
+
+\bigskip
+
+\begin{verbatim}
+\rf th-179
+\xv n-eh a kēy laklak aē en
+\xe la chanson sur laquelle ils sont en train de danser
+\xn the song on which they are dancing
+\end{verbatim}
+
+La référence (rf) est vraisemblablement une caractéristique de l’exemple (xv), et les traductions d’exemple (xe/xn) sont des entités enfants de l’exemple.
+
+\bigskip
+
+\begin{minipage}{0.2\linewidth}
+\begin{verbatim}
+\lf Syn.
+\lv mey a
+\lv mey
+\end{verbatim}
+\end{minipage}
+\begin{minipage}{0.7\linewidth}
+\begin{verbatim}
+<RelationSémantique>
+    <caractéristique attribut="type" valeur="Syn."/>
+    <caractéristique attribut="cible" valeur="mey a"/>
+</RelationSémantique>
+<RelationSémantique>
+    <caractéristique attribut="type" valeur="Syn."/>
+    <caractéristique attribut="cible" valeur="mey"/>
+</RelationSémantique>
+\end{verbatim}	
+\end{minipage}
+
+\bigskip
+
+La factorisation de la cible de relation sémantique (lv) pour un même type de relation sémantique (lf) révèle le même problème : quelle est l’entité importante, la cible ou le type ?
+
+
+\chapter{Améliorations et bogues}
+
+\begin{itemize}
+    \item Améliorer l’interface graphique.
+    \item Générer la documentation automatique.
+    \item Permettre la création d’un lexique inverse.
+    \item Traduire davantage dans des grandes langues (notamment le présent fichier).
+\end{itemize}
+
+\chapter{Annexes}
+
+\section{Dépôt du logiciel}
+
+\url{https://bitbucket.org/BenjaminGalliot/lexika}
+
+\end{document}

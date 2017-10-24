@@ -2,11 +2,48 @@
 # -*- coding: utf-8 -*-
 
 import lexika
-import collections
 
 
-# Cet objet est fait pour être modifié, mais avec quelques précautions...
+"""
+Nomenclature gérérale :
+    – balise : élément de début de ligne d’un fichier de données source (exemples : lx, sn, df…) ;
+    – entité linguistique : élément de dictionnaire ou de lexique, hiérarchisé (pouvant contenir d’autres entités ou être contenu dans une autre), correspondant à une information sémantique pour l’être humain (exemples : entrée, sens, définition…) ;
+    – attribut linguistique : élément informatif associé à une entité linguistique, ne correspondant pas forcément à une information lisible par l’être humain (exemples : langue, type…)
+
+Principe général :
+    La fonction générale lit ligne par ligne le fichien d’entrée (par exemple un fichien au format MDF) ; grâce à une expression rationnelle (« modèle de ligne »), elle décompose chaque ligne en balise, information et éventuellement méta-informations ; la balise est ensuite cherchée dans l’objet « InformationsLinguistiques » ci-dessous pour savoir à quelle entité linguistique elle correspond (dictionnaire « balises » dans l’attribut « formats_entrée »), pour enfin savoir comment elle doit se créer (dictionnaire « entités » dans l’attribut « formats_sortie »), en cherchant sous quelle entité parente se placer et en créant éventuellement d’autres entités selon le format choisi.
+
+Informations générales :
+    Du fait de l’architecture logicielle et de la structure de données, il peut y avoir une différence entre les hiérarchies apparente humainement visible et structurelle interne. Par exemple, un commentaire discursif d’une définition sera placé avant celle-ci (balise de commentaire avant la balise de définition dans le fichier source) bien qu’il soit structurellement placé après (entité « commentaire » placé comme enfant de l’entité « définition »). Pour pallier cette difficulté, une entité analysée implaçable dans un parent déjà existant sera entreposée en attente de l’analyse d’un parent adéquat.
+    Certaines sources incluent du texte enrichi (style, renvois, etc.), l’architecture tente de garder ces informations selon des expressions rationnelles adaptées (« modèle de style » et « modèle de renvoi »).
+    Les « constantes » servent à la création non ambigüe d’identifiants en incorporant des caractères Unicode qui ne doivent pas pouvoir être confondus avec des caractères sémantiques.
+    Le tri final des entités à trier se configure par le dictionnaire « entités à trier » qui contient les couples (liste des entités à trier/attribut de tri).
+"""
+
 class InformationsLinguistiques:
+    """
+    Cette classe réunit en un seul objet toutes les informations linguistiques afin de permettre un paramétrage fin par format de la lecture des balises d’entrée et d’écriture des entités linguistiques de sortie, notamment par les langues utilisées et le format des lignes d’entrée et de style. Elle contient aussi les correspondances entre les balises et les entités linguistiques, ainsi que les relations de parenté conditionnelle entre ces dernières.
+    Elle décrit les paramétrages de base pour des formats relativement standards, les personnalisations plus poussées ou spécifiques sont à détailler dans le fichier homonyme du dossier « personnalisation », qui agit par surdéfinition de la présente classe.
+    Pour le format d’entrée, les balises ont les mots clefs suivants :
+        – entité : nom de l’entité linguistique associée ;
+        – paramètres : structure dictionnaire regroupant les paramètres intrinsèques à la balise (« langue », « type », etc.) ;
+        – tête : « primaire » ou « secondaire », pour définir des environnements blocs exclusifs.
+    Pour le format de sortie, les entités linguistiques ont des mots clefs suivants :
+        – entités : structure liste regroupant les différentes structures dictionnaires correspondant à des entités linguistiques potentielles :
+            – nom : nom de l’entité linguistique ;
+            – attributs : structure dictionnaire regroupant les attributs informatifs fournis par l’entrée, l’attribut None correspond à l’information directement fournie en entrée ;
+            – structure : structure dictionnaire regroupant les paramètres structurels de l’entité linguistique :
+                – identifiant : structure dictionnaire regroupant les paramètres permettant de gérer l’identifiant de l’entité linguistique :
+                    – nom : nom de l’identifiant (souvent « identifiant ») ;
+                    – type : « primaire » (l’identifiant est la valeur de l’attribut informatif correspondant à None) ou « secondaire » (idem mais concaténé à l’identifiant primaire).
+        – parents : structure liste regroupant les différentes structures dictionnaires correspondant à des entités linguistiques parentes potentielles :
+            – nom : nom de l’entité linguistique parente ;
+            – attribut : nom de l’attribut de l’entité linguistique parente sous lequel va se placer l’entité linguistique ;
+            et éventuellement :
+            – entité : nom de l’entité de sortie à appeler pour créer une entité linguistique parente (par défaut ou préliminaire selon sa position) ;
+            – attributs : structure dictionnaire regroupant les attributs informatifs à créer automatiquement.
+    """
+
     def __init__(self, statuts_langues):
         self.créateurs = {
             "nébuleuse d'Orion": lambda configuration: lexika.NébuleuseDʼOrion(configuration),
@@ -29,6 +66,7 @@ class InformationsLinguistiques:
                 "modèle de style": r"(?P<ensemble>(?P<style>{0}):(?P<texte>[\w,.;:!?/\[\]\(\){{}}\~‘’'–_*+-]+))|(?P<ensemble>\|(?P<style>{0}){{(?P<texte>[\w\s\[\],.;:!?/\[\]\(\){{}}\~‘’'–_*+-]+)}})".format(
                     "|".join(["fl", "fv", "fn", "fr", "fe", "fs", "fi"])),
                 "balises": {
+                    "_sh": None,
                     "lx": {"entité": "vedette", "paramètres": {}, "tête": "primaire"},
                     "se": {"entité": "sous-vedette", "paramètres": {}, "tête": "secondaire"},
 
