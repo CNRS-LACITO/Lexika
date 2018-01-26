@@ -2,4 +2,5 @@
 # -*- coding: utf-8 -*-
 
 from .nébuleusedelʼhélice import *
-from .nébuleuse import *
+from .nébuleusedʼoméga import *
+from .nébuleusedʼorion import *

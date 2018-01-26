@@ -1,0 +1,40 @@
+configuration:
+  chemin source: exemples/yuanga/informations linguistiques.yml
+base:
+  chemin source: exemples/yuanga/yuanga.lex
+  format d’entrée: MDF Isabelle
+  format de sortie: LMF Isabelle
+  identifiant: yuanga
+général:
+  nom: Essai d’un dictionnaire
+  auteur: Isabelle Bril
+  commentaire: LMF-α
+  ordre lexicographique: [a, b, d, e, ē, g, h, i, k, l, m, m̄, n, [̄n, n̄], o, ō, q, r, s, t, u, v, w, y]
+langues:
+  nua:
+      type de caractères: latin
+      autoglossonyme: yuanga
+      glossonyme: yuanga
+      statut: source
+  fra:
+      type de caractères: latin
+      autoglossonyme: français
+      glossonyme: français
+      statut: cible
+  eng:
+      type de caractères: latin
+      autoglossonyme: English
+      glossonyme: anglais
+      statut: cible
+  bis:
+      type de caractères: latin
+      autoglossonyme: Bislama
+      glossonyme: bichelamar
+      statut: cible
+XML:
+  chemin cible: exemples/yuanga/yuanga.xml
+  format: α #αβγ
+  langue: fra
+  XSL: style.xsl
+  tri: normal
+

@@ -1,0 +1,122 @@
+﻿formats:
+    entrée:
+        MDF Alex:
+            parent: MDF
+            modèles:
+                ligne: ^\\(?P<balise>\w*)\s*(?P<métadonnées><([\w\s]+=[\w\"\s]+)+>)?\s*(?P<données>.*)
+                métadonnées: ([\w]+)=[\"\']?([\w\s]+)[\"\']?
+                style: (?P<ensemble>(?P<style>fl|fv|fn|fr|fe|fs|fi):(?P<texte>[\w,.;:!?/\[\]\(\){}\~‘’'–_*+-]+))|(?P<ensemble>\\|(?P<style>fl|fv|fn|fr|fe|fs|fi){(?P<texte>[\w\s\[\],.;:!?/\[\]\(\){}\~‘’'–_*+-]+)})
+            balises:
+                # Balises principales.
+                lf:
+                    abstraction: type de relation sémantique
+                    drapeaux:
+                        factorisable: lv
+                wr:
+                    abstraction: nom de groupe
+
+                # Balises liées aux définitions.
+                we:
+                    abstraction: note
+                    caractéristiques:
+                        type: syntaxique
+                        langue: cible 1
+#                    drapeaux:
+#                        antéposition: de
+                wn:
+                    abstraction: note
+                    caractéristiques:
+                        type: syntaxique
+                        langue: cible 2
+#                    drapeaux:
+#                        antéposition: dn
+                he:
+                    abstraction: étiquette sémantique
+                    caractéristiques:
+                        langue: cible 1
+#                    drapeaux:
+#                        antéposition: de
+                hn:
+                    abstraction: étiquette sémantique
+                    caractéristiques:
+                        langue: cible 2
+#                    drapeaux:
+#                        antéposition: dn
+
+
+
+    sortie:
+        LMF Alex:
+            parent: LMF
+            modèles:
+                renvoi: ^(?P<entrée_lexicale>[\w\s~\[\].,\p{Spacing Modifier Letters}#$-]+?)(?P<numéro_dʼhomonyme>[\d]*)$"
+            identifiants:
+                nom de groupe:
+                    constante: ⓖ
+                    ascendant: groupe
+            abréviations:
+                classe grammaticale:
+                    nom: n
+                    interjection: intj
+                    préfixe: pf
+                    préposition: prep                  
+                    particule: ptc
+                    locatif: loc
+                type de relation sémantique:
+                    synonyme: [Syn., Syn]
+                    antonyme: [Ant., Ant]
+                    renvoi: Cf.
+            abstractions:
+                # Abstractions principales.
+                groupe:
+                    entité:
+                        nom: groupe
+                    parent:
+                        nom: entrée lexicale
+                nom de groupe:
+                    entité:
+                        nom: nom de groupe
+                    parent:
+                        nom: groupe
+                    préabstraction:
+                        nom: groupe
+                        voie: impérieuse
+                    spécial:
+                        drapeaux: 
+                            - renvoyable
+                # Abstractions directement liées aux entrées.
+                classe grammaticale:
+                    entité:
+                        nom: classe grammaticale
+                    parent:
+                        nom:
+                            - entrée lexicale
+                            - sous-entrée lexicale
+                            - groupe        
+                    spécial:
+                        drapeaux:
+                            - correspondance                
+                # Abstractions directement liées aux sens.
+                sens:
+                    entité:
+                        nom: sens
+                    parent:
+                        nom:
+                            - entrée lexicale
+                            - sous-entrée lexicale
+                            - groupe
+                        conditions:
+                            entité:
+                                nom: sous-entrée lexicale
+                                état: absent                
+                # Abstractions directement liées aux définitions.
+                note:
+                    entité:
+                        nom: déclaration
+                        attribut: note
+                    parent:
+                        nom: définition
+                        conditions:
+                            caractéristiques:
+                                égalité:
+                                    - langue

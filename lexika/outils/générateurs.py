@@ -1,127 +1,82 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import lexika.linguistique
 import lexika.outils
 import logging
 import lxml.etree
 import lxml.html
 import os
-import regex
-import string
 
 
 class GénérateurXML:
-    def __init__(self, configuration, dictionnaire, informations_globales=None):
+    def __init__(self, configuration, racine, dictionnaire):
         self.configuration = configuration
+        self.écriveur = lexika.outils.Écriveur(self.configuration.xml["chemin cible"])
+        self.format = self.configuration.xml["format"] if "format" in self.configuration.xml else "α"
+        self.langue = self.configuration.xml["langue"] if "langue" in self.configuration.xml else "fra"
+        
+        lexika.outils.Trieur = lexika.outils.Trieur if not os.path.isfile(self.configuration.général["chemin du trieur"]) else lexika.outils.importer_module_personnalisé("lexika.outils.Trieur", self.configuration.général["chemin du trieur"]).Trieur
+        
+        self.trieur = lexika.outils.Trieur(self.configuration.général["ordre lexicographique"]) if "ordre lexicographique" in self.configuration.général else None
+        self.racine = racine
         self.dictionnaire = dictionnaire
-        self.informations_globales = informations_globales
-        self.ordre_lexicographique = self.créer_ordre_lexicographique(self.configuration.ordre_lexicographique) if hasattr(self.configuration, "ordre_lexicographique") else None
-        self.trieur = lexika.outils.Trieur(self.ordre_lexicographique) if self.ordre_lexicographique else None
-        self.tri = self.configuration.tri if hasattr(self.configuration, "tri") else "normal"
-        self.entités_à_trier = self.configuration.format_sortie["entités à trier"] if "entités à trier" in self.configuration.format_sortie else {}
-        self.traduire = None
-        self.modèle_balise_xml = regex.compile(r"<(?P<balise>[\w]+)(?P<attributs>[\w\s\"=]*)>(?P<texte>.*)<\/(?P=balise)>")
-        self.modèle_balise_lien = regex.compile(r"⊣(?P<balise>[\w]+) (?P<attribut>[\w]+)=\"(?P<valeur>.+?)\"⊢(?P<texte>.+?)⊣\/(?P=balise)⊢")
-        self.modèle_style = regex.compile(self.configuration.modèle_style) if self.configuration.modèle_style else None
 
-    def obtenir_xml(self, format, langue=None):
-        self.traduire = lexika.outils.Traducteur().traduire if langue == "eng" else lambda expression, domaine=None: expression
-        arborescence = lxml.etree.Element(self.traduire("RessourcesLexicales"))
-        self.créer_éléments(self.informations_globales, arborescence, format == "structure totale")
-        self.créer_éléments(self.dictionnaire, arborescence, format == "structure totale")
+    def obtenir_xml(self):
+        self.traduire = lexika.outils.Traducteur().traduire if self.langue == "eng" else lambda expression, domaine=None: expression
+        arborescence = lxml.etree.Element(self.convertir_nom(self.traduire(self.racine.nom_classe)))
+        for élément in self.racine.descendance:
+            self.créer_éléments(élément, arborescence)
         texte_structuré = lxml.etree.tostring(arborescence, encoding="unicode", method="xml", pretty_print=True)
-        informations = {"style": self.configuration.XML["XSL"], "arborescence": texte_structuré}
+        informations = {"style": self.configuration.xml["XSL"], "arborescence": texte_structuré}
         with lexika.outils.OuvrirFichier("gabarits/XML/dictionnaire.xml", 'r', type="interne") as gabarit:
             source = lexika.outils.Gabarit(gabarit.read())
-        with lexika.outils.OuvrirFichier(self.configuration.XML["chemin cible"], 'w') as sortie:
-            sortie.write(source.substitute(informations))             
+        self.écriveur.écrire_résultat(source.substitute(informations))
         logging.info(_("Génération du fichier XML terminée"))
 
-    def créer_éléments(self, objet, branche_parente, garder_listes=True):
-        if isinstance(objet, lexika.linguistique.EntitéLinguistique):
-            branche_actuelle = lxml.etree.SubElement(branche_parente, self.traduire(objet.__class__.__name__).replace(" ", "_").replace("'", ""))
-            for nom, élément in objet.__dict__.items():
-                if élément:
-                    if nom in ["identifiant"]:
-                        branche_actuelle.attrib.update({"id": élément})
-                    elif nom in ["lien", "non_lien"]:
-                        sous_élément = lxml.etree.SubElement(branche_actuelle, self.traduire(nom), attrib={self.traduire("cible"): élément})
-                        sous_élément.text = objet.cible
-                    elif nom not in ["nom_entité_linguistique", "_parent", "_attribut_parent"]:
-                        if isinstance(élément, (list, dict)):
-                            if garder_listes:
-                                sous_branche = lxml.etree.SubElement(branche_actuelle, nom.replace(" ", "_").replace("'", "ʼ"))
-                            else:
-                                sous_branche = branche_actuelle
-                            if isinstance(élément, list):
-                                if nom in self.entités_à_trier and (self.ordre_lexicographique or self.tri):
-                                    for sous_élément in sorted(élément, key=lambda entrée: self.trier_entités(self.trier_éléments(getattr(entrée, self.entités_à_trier[nom])))):
-                                        self.créer_éléments(sous_élément, sous_branche, garder_listes)
-                                else:
-                                    for sous_élément in élément:
-                                        self.créer_éléments(sous_élément, sous_branche, garder_listes)
-                            elif isinstance(élément, dict):
-                                for clef_sous_élément, valeur_sous_élément in élément.items():
-                                    self.créer_éléments(valeur_sous_élément, sous_branche, garder_listes)
-                        else:
-                            sous_élément = lxml.etree.SubElement(branche_actuelle, self.traduire("caractéristique"), attrib={self.traduire("attribut"): self.traduire(nom), self.traduire("valeur"): self.traduire(élément, nom)})
-                            if self.modèle_style:
-                                self.gérer_styles(sous_élément)
-                            self.gérer_balises(sous_élément)
+    def créer_éléments(self, entité, élément_parent):
+        if isinstance(entité, lexika.outils.Entité):
+            if self.format == "α":
+                nom = self.convertir_nom(self.traduire(entité.nom_classe))
+                attributs = {self.convertir_nom(self.traduire(clef)): self.traduire(valeur) for clef, valeur in entité.caractéristiques.items()}
+                if entité.spécial and "texte enrichi" in entité.spécial.get("drapeaux", {}):
+                    élément_actuel = lxml.etree.XML(f"<{nom}>{entité.valeur}</{nom}>")
+                    élément_parent.append(élément_actuel)
+                    for attribut, valeur in attributs.items():
+                        élément_actuel.set(attribut, valeur)
+                else:                    
+                    élément_actuel = lxml.etree.SubElement(élément_parent, nom, attrib=attributs)
+                    élément_actuel.text = entité.valeur
+#            elif self.format == "β":
+#                attributs = dict(entité.caractéristiques, **{self.convertir_nom(entité.attribut if entité.attribut else entité.nom): entité.valeur}) if entité.valeur else entité.caractéristiques
+#                élément_actuel = lxml.etree.SubElement(élément_parent, self.convertir_nom(self.traduire(entité.nom_classe)), attrib={self.convertir_nom(self.traduire(clef)): self.traduire(valeur) for clef, valeur in attributs.items()})
+#            elif self.format == "γ":
+#                attributs = dict(entité.caractéristiques, **{entité.attribut if entité.attribut else entité.nom: entité.valeur}) if entité.valeur else entité.caractéristiques
+#                if hasattr(entité, "descendance") or len(attributs) > 1:
+#                    élément_actuel = lxml.etree.SubElement(élément_parent, self.convertir_nom(self.traduire(entité.nom_classe)))
+#                    for clef, élément in attributs.items():
+#                        lxml.etree.SubElement(élément_actuel, self.convertir_nom(self.traduire("caractéristique")), attrib={self.traduire("attribut"): clef, self.traduire("valeur"): élément})
+#                else:
+#                    if len(attributs) == 0:
+#                        logging.error(_("Élément sans descendance mais avec aucun attribut : {}".format(entité)))
+#                    else:
+#                        attributs = list(attributs.items())[0]
+#                        lxml.etree.SubElement(élément_parent, self.convertir_nom(self.traduire("caractéristique")), attrib={self.traduire("attribut"): attributs[0], self.traduire("valeur"): attributs[1]})
+            if hasattr(entité, "descendance"):
+                for enfant in sorted(entité.descendance, key=lambda entrée: self.trieur.trier_éléments(entrée.caractéristiques["identifiant"])) if entité == self.dictionnaire else entité.descendance:
+                    self.créer_éléments(enfant, élément_actuel)
 
-    def gérer_styles(self, élément):
-        texte = élément.attrib[self.traduire("valeur")]
-        bilan = self.modèle_style.search(texte)
-        if bilan:
-            élément.attrib[self.traduire("valeur")] = self.modèle_style.sub("<style type=\"\g<style>\">\g<texte></style>", texte)
+    def convertir_nom(self, nom):
+        return nom.replace(" ", "_").replace("’", "ʼ")
 
-    def gérer_balises(self, élément):
-        texte = élément.attrib[self.traduire("valeur")]
-        if self.modèle_balise_xml.search(texte) and lxml.html.fromstring(élément.attrib[self.traduire("valeur")]).find('.//*') is not None or self.modèle_balise_lien.search(texte):
-            bilan = self.modèle_balise_lien.search(texte)
-            if bilan:
-                texte = self.modèle_balise_lien.sub("<\g<balise> \g<attribut>=\"\g<valeur>\">\g<texte></\g<balise>>", texte)
-            try:
-                élément.append(lxml.etree.fromstring("<{0}>{1}</{0}>".format(self.traduire("contenu"), texte.replace("&", "&amp;"))))
-            except lxml.etree.XMLSyntaxError as exception:
-                logging.warning(_("Du XML a été reconnu sans avoir été analysé avec succès ici : « {} » : {}".format(élément.attrib[self.traduire("valeur")], exception)))
-            élément.attrib[self.traduire("valeur")] = self.modèle_balise_xml.sub("\g<texte>", texte)
-
-    def trier_entités(self, expression):
-        if self.trieur:
-            résultat = self.trieur.trier_entités(expression)
-            logging.info("Le tri des entités a pris en compte l'expression « {} » avec l'ordre des syllabes suivant : « {} ».".format(expression, résultat))
-        else:
-            résultat = expression
-        return résultat
-
-    def trier_éléments(self, expression):
-        if self.configuration.tri == "inverse":
-            résultat = [caractère.lower().replace("-", '') for caractère in reversed(expression)]
-        else:
-            résultat = expression
-        return résultat
-
-    def créer_ordre_lexicographique(self, ordre_lexicographique):
-        # {caractère: index for index, caractère in enumerate(self.configuration.ordre_lexicographique)} if hasattr(self.configuration, "ordre_lexicographique") and self.configuration.ordre_lexicographique else None
-        valeurs = {}
-        for index, caractère in enumerate(ordre_lexicographique):
-            if isinstance(caractère, str):
-                valeurs[caractère] = index
-            else:
-                for sous_caractère in caractère:
-                    valeurs[sous_caractère] = index
-        return valeurs
 
 class GénérateurLatex:
-    def __init__(self, configuration, dictionnaire, informations_globales=None):
+    def __init__(self, configuration, dictionnaire):
         self.configuration = configuration
         self.dictionnaire = dictionnaire
 
     def obtenir_latex(self, format, langue=None):
-        fichier_xml = self.configuration.XML["chemin cible"]
-        fichier_xsl = self.configuration.Latex["gabarit"]
+        fichier_xml = self.configuration.xml["chemin cible"]
+        fichier_xsl = self.configuration.latex["gabarit"]
 
         modèle_document = lxml.etree.parse(fichier_xml)
         transformation = lxml.etree.XSLT(lxml.etree.parse(fichier_xsl))
@@ -129,14 +84,17 @@ class GénérateurLatex:
         # texte = regex.compile(r"(?<![\w])_(?!{)|(_(?=-))").sub("\_", str(nouveau_modèle_document).replace("  ", "").replace("\n\n", "").replace("^", "\\textasciicircum ").replace("$", "\$"))
         # texte = str(nouveau_modèle_document).replace("  ", "").replace("\n\n", "").replace("^", "\\textasciicircum ").replace("$", "\$").replace("_", "\_").replace("#", "\#")
         texte = []
+        limite_caractères_spéciaux = False
         for line in str(nouveau_modèle_document).replace("  ", "").replace("\n\n", "").splitlines():
-            if not(line.startswith("\\newenvironment{") or line.startswith("\\newcommand{") or line.startswith("\\écouter{")):
+            if r"\begin{document}" in line:
+                limite_caractères_spéciaux = True
+            if limite_caractères_spéciaux:
                 line = line.replace("$", "\$").replace("_", "\_").replace("#", "\#").replace("^", "\^").replace("~", "∼")
             texte.append(line)
         texte = "\n".join(texte)
-        informations = {"titre": self.configuration.dictionnaire["nom"], "auteur": self.configuration.dictionnaire["auteur"]}
-        if "fichiers annexes" in self.configuration.Latex:
-            for variable, fichier in self.configuration.Latex["fichiers annexes"].items():
+        informations = {"titre": self.configuration.général["nom"], "auteur": self.configuration.général["auteur"]}
+        if "fichiers annexes" in self.configuration.latex:
+            for variable, fichier in self.configuration.latex["fichiers annexes"].items():
                 if fichier:
                     if os.path.isfile(fichier):
                         with lexika.outils.OuvrirFichier(fichier, 'r') as entrée:
@@ -145,6 +103,6 @@ class GénérateurLatex:
                         contenu = fichier
                     informations.update({variable: contenu})
         source = lexika.outils.Gabarit(texte)
-        with lexika.outils.OuvrirFichier(self.configuration.Latex["chemin cible"], 'w') as sortie:
+        with lexika.outils.OuvrirFichier(self.configuration.latex["chemin cible"], 'w') as sortie:
             sortie.write(source.safe_substitute(informations))
         logging.info(_("Génération du fichier Latex terminée."))

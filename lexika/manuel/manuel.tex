@@ -42,9 +42,9 @@ Numbers = OldStyle,
 \newcommand{\papi}[1]{{\api #1}}
 
 \newcommand{\balise}[1]{\textcolor{red!80}{#1}}
-\newcommand{\entité}[1]{\textcolor{blue!60!black}{#1}}
+\newcommand{\entité}[1]{\textcolor{blue!80!black}{#1}}
 \newcommand{\caractéristique}[1]{\textcolor{green!60!black}{#1}}
-\newcommand{\entitétechnique}[1]{\textcolor{blue!50!red}{#1}}
+\newcommand{\abstraction}[1]{\textcolor{blue!50!red}{#1}}
 
 \author{Benjamin Galliot}
 \date{\today}
@@ -146,7 +146,7 @@ Vous pouvez à présent exécuter la commande suivante dans le terminal :
 
 Ces éléments seront par la suite nommés \textbf{entités linguistiques}. Chaque \textbf{entité linguistique} contient obligatoirement au moins une \textbf{caractéristique} qui représente la donnée linguistique elle-même et éventuellement d’autres qui représentent des paramètres informatifs sur l’entité, non toujours directement visibles. Le choix de considérer un élément comme entité ou comme caractéristique d’entité n’est pas absolu et dépend notamment de la complexité des éléments (une entité peut posséder des caractéristiques tandis qu’une caractéristique n’est qu’une information simple).
 
-Par convention, les \balise{balises} seront écrites en rouge, les \entité{entités linguistiques} en bleu, les \caractéristique{caractéristiques} en vert et les \entitétechnique{entités techniques internes} (voir plus loin) en violet. Certain. Les diverses \textit{valeurs} des caractéristiques seront en italique.
+Par convention, les \balise{balises} seront écrites en rouge, les \entité{entités linguistiques} en bleu, les \caractéristique{caractéristiques} en vert et les \abstraction{abstractions} (voir plus loin) en violet. Les diverses \textit{valeurs} des caractéristiques seront en italique.
 
 \bigskip
 
@@ -416,8 +416,8 @@ Voici l’algorithme général simplifié, sans détail de programmation et de g
 	\begin{enumerate}
     \item décomposition de la ligne selon une expression rationnelle paramétrable en différents éléments, dont la \balise{balise}, la \textbf{donnée linguistique} et les éventuelles \textbf{métadonnées} ;
     \item vérification de la présence de la \balise{balise} dans le format d’entrée et si elle doit être traitée (sinon, passage à la ligne suivante) ;
-    \item lecture des paramètres techniques d’entrée associés à la \balise{balise}, notamment l’\entitétechnique{entité technique interne}, les paramètres éventuels et les mots clefs techniques ;
-    \item application des règles du format de sortie associées à l’\entitétechnique{entité technique}, notamment l’\entité{entité linguistique} (son nom et ses \caractéristique{caractéristiques}), ses \entité{parents potentiels} (dans quelle \entité{entité} elle se place) et d’autres mots clefs techniques comme ceux de structure (formation d’identifiant, etc.) :
+    \item lecture des paramètres techniques d’entrée associés à la \balise{balise}, notamment l’\abstraction{abstraction}, les paramètres éventuels et les mots clefs techniques ;
+    \item application des règles du format de sortie associées à l’\abstraction{abstraction}, notamment l’\entité{entité linguistique} (son nom et ses \caractéristique{caractéristiques}), ses \entité{parents potentiels} (dans quelle \entité{entité} elle se place) et d’autres mots clefs techniques comme ceux de structure (formation d’identifiant, etc.) :
     \begin{enumerate}
     	\item si l’\entité{entité parente} est trouvée, l’\entité{entité en cours de traitement} s’y place ;
     	\item sinon, création de l’\entité{entité parente} ou entreposage de l’\entité{entité en cours} en attendant que son \entité{parent} soit rencontré (paramétrage)
@@ -444,53 +444,108 @@ Les deux méthodes ont chacun leurs avantages et sont ainsi toutes les deux acce
 
 \bigskip
 
-De plus, l’on pourrait se demander pourquoi des \entitétechnique{entités techniques internes} existent puisque l’on pourrait directement lier une \balise{balise} à une \entité{entité linguistique}, or c’est la présence de certains formats qui nécessitent la création d’\entité{entités linguistiques intermédiaires} ex nihilo qui a motivé ce choix de disjoindre ce qui relève de l’entrée et ce qui relève de la sortie : une \balise{balise} d’entrée peut appeler une \entitétechnique{entité interne} qui va en appeler une \entitétechnique{autre} pour finalement créer plusieurs \entité{entités linguistiques} de sortie, selon le format de sortie sans pour autant changer celui d’entrée.
+De plus, l’on pourrait se demander pourquoi des \abstraction{abstractions} existent puisque l’on pourrait directement lier une \balise{balise} à une \entité{entité linguistique}, or c’est la présence de certains formats qui nécessitent la création d’\entité{entités linguistiques intermédiaires} \textit{ex nihilo} qui a motivé ce choix de disjoindre ce qui relève de l’entrée et ce qui relève de la sortie : une \balise{balise} d’entrée peut appeler une \abstraction{abstraction} qui va en appeler une \abstraction{autre} pour finalement créer plusieurs \entité{entités linguistiques} de sortie, selon le format de sortie sans pour autant changer celui d’entrée.
 
 \section{Fichiers d’intérêt}
 
-Outre le fichier \textbf{base.py} qui sert de point d’entrée au logiciel, un fichier contient toute la configuration nécessaire pour paramétrer la création d’un nouveau dictionnaire (et qui est donc la cible principale de l’interface graphique) : \textbf{personnalisation/informations\_linguistiques.py}. Ce dernier contient notamment les formats d’entree et de sortie, donc d’une part le lien entre les \balise{balises} et les \entitétechnique{entités techniques} et d’autre part le lien entre \entitétechnique{celles-là} et les \entité{entités linguistiques}, ainsi que toutes les expressions régulières utiles et d’autres variables d’intérêt (comme les différentes langues, etc.).
+Outre le fichier \textbf{base.py} qui sert de point d’entrée au logiciel, un fichier contient toute la configuration nécessaire pour paramétrer la création d’un nouveau dictionnaire (et qui est donc la cible principale de l’interface graphique) : \textbf{personnalisation/informations\_linguistiques.py}. Ce dernier contient notamment les formats d’entree et de sortie, donc d’une part le lien entre les \balise{balises} et les \abstraction{abstractions} et d’autre part le lien entre \abstraction{celles-là} et les \entité{entités linguistiques}, ainsi que toutes les expressions régulières utiles et d’autres variables d’intérêt (comme les différentes langues, etc.).
 
 \bigskip
 
 Il n’est point besoin d’être exhaustif dans la description du format puisque ce fichier surdéfinit par ajout le fichier \textbf{configuration/informations\_linguistiques.py} qui contient les informations de base des formats classiques et qui de ce fait devrait être suffisant dans les cas simples (dictionnaires peu complexes utilisant les balises par défaut).
 
+\section{Configuration}
+
+\begin{minted}[linenos,frame=lines,framesep=2mm]{yaml}
+BALISE:
+    abstraction: ABSTRACTION
+    caractéristiques:
+        CARACTÉRISTIQUE: VALEUR
+        
+ABSTRACTION:
+    entité:
+        nom: ENTITÉ
+        attribut: ATTRIBUT
+    parent:
+        nom: ENTITÉ
+        conditions: CONDITIONS
+    préabstraction: 
+        nom: ABSTRACTION
+        conditions: CONDITIONS
+\end{minted}
+
+Explication des variables (en capitales) :
+\begin{itemize}
+    \item \balise{\textsf{balise}} : identifiant de la balise dans le fichier source ;
+    \item \abstraction{\textsf{abstraction}} : identifiants de l’abstraction à appeler pour le traitement des données associées à la balise (dans le bloc balise) et de l’abstraction à appeler conditionnellement au préalable (dans le bloc préabstraction) ;
+    \item \caractéristique{\textsf{caractéristique}} \& \textit{\textsf{valeur}} : caractéristiques associées à l’entité finale ; 
+    \item \entité{\textsf{entité}} : identifiants de l’entité à créer (dans le bloc entité) et du parent dans lequel placer l’entité à créer (dans le bloc parent) ; 
+    \item \textsf{conditions} : conditions diverses pour choisir le parent adéquat (dans le bloc parent) et pour créer la préabstraction (dans le bloc préabstraction) :  
+    \begin{itemize}
+        \item \textit{impérieuse} : appelle la préabstraction quel que soit l’état du parent (notamment si un parent potentiel est déjà présent), à utiliser pour systématiquement créer une entité ;
+        \item égalité de caractéristiques ou si vide…
+    \end{itemize}
+    \item \textsf{attribut} : nom de remplacement de l’entité sous forme d’attribut XML dans le format γ ; 
+\end{itemize}
+
 \section{Illustration}
 
 Extrait du code Python représentant la partie qui concerne la définition dans les formats d’entrée et de sortie :
 
-\begin{minted}[linenos,frame=lines,framesep=2mm]{python3}
-"de": {
-    "entité": "définition", 
-    "paramètres": {
-        "langue": self.statuts_langues["cible 1"]
-    }
-},
+\begin{minted}[linenos,frame=lines,framesep=2mm]{yaml}
+de:
+    abstraction: définition
+    caractéristiques:
+        langue: cible 1
 \end{minted}
-\begin{minted}[linenos,frame=lines,framesep=2mm]{python3}
-"définition": {
-    "entités": [
-        {
-            "nom": "définition", 
-            "attributs": {
-                "définition": None
-            },
-            "structure": {}
-        }
-    ],
-    "parents": [
-        {
-            "nom": "sens",
-            "attribut": "définitions"
-        },
-        {
-            "entité": "acception",
-            "attributs": {
-                "numéro de sens": "0"
-            }
-        }
-    ]
-},
+\begin{minted}[linenos,frame=lines,framesep=2mm]{yaml}
+définition:
+    entité:
+        nom: représentation de texte
+        attribut: forme écrite
+    parent:
+        abstraction: bloc définition
+        nom: définition
+        conditions: impérieuse
+bloc définition:
+    entité:
+        nom: définition
+        structure:
+        identifiant:
+            constante: Ⓓ
+    parent:
+        abstraction: sens
+        nom: sens
+sens:
+    entité:
+        nom: sens
+        structure:
+        identifiant:
+            constante: Ⓢ
+    parent:
+        nom: entrée lexicale
+entrée:
+    entité:
+        nom: entrée lexicale
+        structure:
+        identifiant:
+            constante: Ⓔ
+    parent:
+        abstraction: dictionnaire
+        nom: dictionnaire
 \end{minted}
+
+\section{Remarques}
+
+Si nous prenons par exemple la norme LMF, les entités suivantes peuvent poser quelques difficultés de configuration (bien que la norme soit déjà bien configurée, ces explications peuvent aider à la création de formats maison ou dépassant ladite norme) :
+\begin{itemize}
+    \item Entité \entité{lemme} : la balise \balise{lx}, bien que signalant instinctivement la nouvelle entrée, ne renseigne que le \entité{lemme} de la nouvelle entrée et crée donc au préalable son parent \entité{entrée lexicale}.
+    \item Entité \entité{exemple} : la balise \balise{xv} crée un \entité{exemple} tandis que les balises \balise{xe} et \balise{xn} créent des \entité{traductions d’exemples}, puisque même si dans le XML LMF les trois entités sont au même niveau dans le parent \entité{contexte}, c’est bien l’\entité{exemple} qui va impérieusement créer un nouveau bloc \entité{contexte} tandis que les \entité{traductions} se placeront dans le dernier \entité{contexte} créé.
+    \item Entité \entité{définition} : la balise \balise{de} (au même titre que \balise{dn}, etc.) crée une \entité{représentation de texte} qui se place dans le parent \entité{définition} (respectivement par les abstractions \abstraction{définition} et \abstraction{bloc définition}), ce niveau supplémentaire (relativement au cas où la définition serait la valeur directe de l’entité \entité{définition}, sans \entité{représentation de texte}), optionnel selon LMF et prévu notamment pour des définitions dans plusieurs langues, est présent pour deux raisons : mieux structurer ce qui relève de la définition elle-même et permettre la présence de texte enrichi (renvois et style pour les emphases sémantiques) sans rentrer en conflit avec d’autres entités au même niveau (comme les \entité{déclarations}).
+    \item Entité \entité{sens} : la balise \entité{sn} renseigne un \caractéristique{numéro de sens} et crée une entité sans valeur qui servira de conteneur à d’autres entités (comme les \entité{définitions} et les \entité{exemples}).
+    \item Entité \entité{relation sémantique} : les balises \balise{sy}, \balise{an}, \balise{cf} ainsi que les couples de balises \balise{lf} \textit{X}/\balise{lv} \textit{Y} renseignent tous sur une nouvelle \entité{relation sémantique}, et ce, par différentes voies.
+\end{itemize}
+
 
 \section{Exemple}
 
@@ -866,6 +921,7 @@ La factorisation de la cible de relation sémantique (lv) pour un même type de 
     \item Générer la documentation automatique.
     \item Permettre la création d’un lexique inverse.
     \item Traduire davantage dans des grandes langues (notamment le présent fichier).
+    \item sens imbriqués ?
 \end{itemize}
 
 \chapter{Annexes}

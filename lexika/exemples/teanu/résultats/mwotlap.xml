@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="style.xsl" ?>
+
+<RessourcesLexicales>
+  <InformationsGlobales>
+    <caractéristique attribut="nom" valeur="Essai d'un dictionnaire mwotlap"/>
+    <caractéristique attribut="auteur" valeur="Alexandre François"/>
+    <caractéristique attribut="commentaire" valeur="dictionnaire très élaboré : cas très difficile (groupes, sous-entrées, sous-sens, etc.)"/>
+    <langues>
+      <Langue id="mlv">
+        <caractéristique attribut="type_caractères" valeur="latin"/>
+        <caractéristique attribut="sens_lecture" valeur="gauche à droite"/>
+        <caractéristique attribut="autoglossonyme" valeur="mwotlap"/>
+        <caractéristique attribut="glossonyme" valeur="mwotlap"/>
+        <caractéristique attribut="statut" valeur="source"/>
+      </Langue>
+      <Langue id="fra">
+        <caractéristique attribut="type_caractères" valeur="latin"/>
+        <caractéristique attribut="sens_lecture" valeur="gauche à droite"/>
+        <caractéristique attribut="autoglossonyme" valeur="français"/>
+        <caractéristique attribut="glossonyme" valeur="français"/>
+        <caractéristique attribut="statut" valeur="cible"/>
+      </Langue>
+      <Langue id="eng">
+        <caractéristique attribut="type_caractères" valeur="latin"/>
+        <caractéristique attribut="sens_lecture" valeur="gauche à droite"/>
+        <caractéristique attribut="autoglossonyme" valeur="English"/>
+        <caractéristique attribut="glossonyme" valeur="anglais"/>
+        <caractéristique attribut="statut" valeur="cible"/>
+      </Langue>
+      <Langue id="bis">
+        <caractéristique attribut="type_caractères" valeur="latin"/>
+        <caractéristique attribut="sens_lecture" valeur="gauche à droite"/>
+        <caractéristique attribut="autoglossonyme" valeur="Bislama"/>
+        <caractéristique attribut="glossonyme" valeur="bichelamar"/>
+        <caractéristique attribut="statut" valeur="cible"/>
+      </Langue>
+    </langues>
+  </InformationsGlobales>
+  <Dictionnaire>
+    <entrées>
+      <Entrée id="ⒺaⒽ1">
+        <caractéristique attribut="vedette" valeur="a"/>
+        <caractéristique attribut="homonyme" valeur="1"/>
+        <caractéristique attribut="phonétique" valeur="a"/>
+        <caractéristique attribut="classe grammaticale" valeur="sub"/>
+        <groupes>
+          <Groupe id="ⒺaⒽ1ⒼA">
+            <caractéristique attribut="nom" valeur="A"/>
+            <sens>
+              <Sens id="ⒺaⒽ1ⒼAⓈ1">
+                <caractéristique attribut="acception" valeur="1"/>
+                <gloses>
+                  <Glose id="ⒺaⒽ1ⒼAⓈ1ⓖ1">
+                    <caractéristique attribut="glose" valeur="Sub"/>
+                    <caractéristique attribut="langue" valeur="fra"/>
+                  </Glose>
+                </gloses>
+                <définitions>
+                  <Définition id="ⒺaⒽ1ⒼAⓈ1ⓓ1">
+                    <caractéristique attribut="définition" valeur="subordonnant liant les valeurs de vérité de deux propositions: (P1) tel que (P2), (P1)"/>
+                    <caractéristique attribut="langue" valeur="fra"/>
+                    <notes>
+                      <Note>
+                        <caractéristique attribut="note" valeur="entre deux propositions"/>
+                        <caractéristique attribut="langue" valeur="fra"/>
+                        <caractéristique attribut="type" valeur="syntaxique"/>
+                      </Note>
+                    </notes>
+                  </Définition>
+                  <Définition id="ⒺaⒽ1ⒼAⓈ1ⓓ2">
+                    <caractéristique attribut="définition" valeur="subordinator binding the truth values of two clauses: (P1) such that (P2), (P1) while (P2)…"/>
+                    <caractéristique attribut="langue" valeur="eng"/>
+                    <notes>
+                      <Note>
+                        <caractéristique attribut="note" valeur="between two clauses"/>
+                        <caractéristique attribut="langue" valeur="eng"/>
+                        <caractéristique attribut="type" valeur="syntaxique"/>
+                      </Note>
+                    </notes>
+                  </Définition>
+                </définitions>
+                <exemples>
+                  <Exemple id="ⒺaⒽ1ⒼAⓈ1⒠1">
+                    <caractéristique attribut="exemple" valeur="Kimi me-lep nē-sēm a et-vēhge te no."/>
+                    <caractéristique attribut="langue" valeur="mlv"/>
+                    <traductions>
+                      <TraductionDexemple>
+                        <caractéristique attribut="traduction" valeur="Vous avez pris l'argent sans me demander. [litt.&lt;/style&gt; … &lt;style type=&quot;fi&quot;&gt;et vous ne m'avez pas demandé]">
+                          <contenu>Vous avez pris l'argent sans me demander. [<style type="ax">litt.</style> … <style type="fi">et</style> vous ne m'avez pas demandé]</contenu>
+                        </caractéristique>
+                        <caractéristique attribut="langue" valeur="fra"/>
+                      </TraductionDexemple>
+                      <TraductionDexemple>
+                        <caractéristique attribut="traduction" valeur="You took the money without asking me. [lit.&lt;/style&gt; … &lt;style type=&quot;fs&quot;&gt;and you didn't ask me]">
+                          <contenu>You took the money without asking me. [<style type="ax">lit.</style> … <style type="fs">and</style> you didn't ask me]</contenu>
+                        </caractéristique>
+                        <caractéristique attribut="langue" valeur="eng"/>
+                      </TraductionDexemple>
+                    </traductions>
+                    <caractéristique attribut="référence" valeur="Mtp.Fille-Diable.220"/>
+                  </Exemple>
+                </exemples>
+              </Sens>
+              <Sens id="ⒺaⒽ1ⒼAⓈ2">
+                <caractéristique attribut="acception" valeur="2"/>
+                <définitions>
+                  <Définition id="ⒺaⒽ1ⒼAⓈ2ⓓ1">
+                    <caractéristique attribut="définition" valeur="lorsque, comme (P)"/>
+                    <caractéristique attribut="langue" valeur="fra"/>
+                    <notes>
+                      <Note>
+                        <caractéristique attribut="note" valeur="entre sujet et verbe"/>
+                        <caractéristique attribut="langue" valeur="fra"/>
+                        <caractéristique attribut="type" valeur="syntaxique"/>
+                      </Note>
+                    </notes>
+                  </Définition>
+                  <Définition id="ⒺaⒽ1ⒼAⓈ2ⓓ2">
+                    <caractéristique attribut="définition" valeur="as (P), while (P)"/>
+                    <caractéristique attribut="langue" valeur="eng"/>
+                    <notes>
+                      <Note>
+                        <caractéristique attribut="note" valeur="between subject and verb"/>
+                        <caractéristique attribut="langue" valeur="eng"/>
+                        <caractéristique attribut="type" valeur="syntaxique"/>
+                      </Note>
+                    </notes>
+                  </Définition>
+                </définitions>
+                <exemples>
+                  <Exemple id="ⒺaⒽ1ⒼAⓈ2⒠1">
+                    <caractéristique attribut="exemple" valeur="Kē a ni-hig qal van e, na-hō ni-hōhō.">
+                      <contenu>Kē <style type="fr">a</style> ni-hig qal van e, na-hō ni-hōhō.</contenu>
+                    </caractéristique>
+                    <caractéristique attribut="langue" valeur="mlv"/>
+                    <traductions>
+                      <TraductionDexemple>
+                        <caractéristique attribut="traduction" valeur="À peine l'avait-elle touché, que de la fumée en sortit."/>
+                        <caractéristique attribut="langue" valeur="fra"/>
+                      </TraductionDexemple>
+                      <TraductionDexemple>
+                        <caractéristique attribut="traduction" valeur="As soon as her finger touched it, smoke came out of it."/>
+                        <caractéristique attribut="langue" valeur="eng"/>
+                      </TraductionDexemple>
+                    </traductions>
+                    <caractéristique attribut="référence" valeur="th-179"/>
+                  </Exemple>
+                </exemples>
+              </Sens>
+              <Sens id="ⒺaⒽ1ⒼAⓈ3">
+                <caractéristique attribut="acception" valeur="3"/>
+                <définitions>
+                  <Définition id="ⒺaⒽ1ⒼAⓈ3ⓓ1">
+                    <caractéristique attribut="définition" valeur="relativiseur, introduisant une proposition relative dépendant d'un nom"/>
+                    <caractéristique attribut="langue" valeur="fra"/>
+                    <notes>
+                      <Note>
+                        <caractéristique attribut="note" valeur="dépendant d'un nom"/>
+                        <caractéristique attribut="langue" valeur="fra"/>
+                        <caractéristique attribut="type" valeur="syntaxique"/>
+                      </Note>
+                    </notes>
+                  </Définition>
+                  <Définition id="ⒺaⒽ1ⒼAⓈ3ⓓ2">
+                    <caractéristique attribut="définition" valeur="relativiser, introducing a relative clause"/>
+                    <caractéristique attribut="langue" valeur="eng"/>
+                    <notes>
+                      <Note>
+                        <caractéristique attribut="note" valeur="depending on a noun"/>
+                        <caractéristique attribut="langue" valeur="eng"/>
+                        <caractéristique attribut="type" valeur="syntaxique"/>
+                      </Note>
+                    </notes>
+                  </Définition>
+                </définitions>
+                <exemples>
+                  <Exemple id="ⒺaⒽ1ⒼAⓈ3⒠1">
+                    <caractéristique attribut="exemple" valeur="n-eh a kēy laklak aē en"/>
+                    <caractéristique attribut="langue" valeur="mlv"/>
+                    <traductions>
+                      <TraductionDexemple>
+                        <caractéristique attribut="traduction" valeur="la chanson sur laquelle ils sont en train de danser"/>
+                        <caractéristique attribut="langue" valeur="fra"/>
+                      </TraductionDexemple>
+                      <TraductionDexemple>
+                        <caractéristique attribut="traduction" valeur="the song on which they are dancing"/>
+                        <caractéristique attribut="langue" valeur="eng"/>
+                      </TraductionDexemple>
+                    </traductions>
+                  </Exemple>
+                </exemples>
+                <relations_sémantiques>
+                  <RelationSémantique>
+                    <caractéristique attribut="type" valeur="Syn."/>
+                    <caractéristique attribut="cible" valeur="mey a"/>
+                    <non_lien cible="mey a">mey a</non_lien>
+                  </RelationSémantique>
+                  <RelationSémantique>
+                    <caractéristique attribut="type" valeur="Syn."/>
+                    <caractéristique attribut="cible" valeur="mey"/>
+                    <non_lien cible="mey">mey</non_lien>
+                  </RelationSémantique>
+                  <RelationSémantique>
+                    <caractéristique attribut="cible" valeur="Mey"/>
+                    <caractéristique attribut="type" valeur="synonyme"/>
+                    <non_lien cible="Mey">Mey</non_lien>
+                  </RelationSémantique>
+                </relations_sémantiques>
+              </Sens>
+            </sens>
+          </Groupe>
+        </groupes>
+        <dates>
+          <Date>
+            <caractéristique attribut="date" valeur="16/Feb/2006"/>
+            <caractéristique attribut="type" valeur="création"/>
+          </Date>
+          <Date>
+            <caractéristique attribut="date" valeur="02/Jul/2016"/>
+            <caractéristique attribut="type" valeur="modification"/>
+          </Date>
+        </dates>
+      </Entrée>
+    </entrées>
+  </Dictionnaire>
+</RessourcesLexicales>
+

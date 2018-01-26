@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="style.xsl" ?>
+
+<RessourceLexicale>
+  <InformationsGlobales>
+    <Général>
+      <Nom>Essai d’un dictionnaire</Nom>
+      <Auteur>Alexandre François</Auteur>
+      <Commentaire>LMF-α</Commentaire>
+      <OrdreLexicographique>[a, b, d, e, ē, g, h, i, k, l, m, m̄, n, [̄n, n̄], o, ō, q, r, s, t, u, v, w, y]</OrdreLexicographique>
+    </Général>
+    <Langues>
+      <Mlv>
+        <TypeDeCaractères>latin</TypeDeCaractères>
+        <Autoglossonyme>mwotlap</Autoglossonyme>
+        <Glossonyme>mwotlap</Glossonyme>
+        <Statut>source</Statut>
+      </Mlv>
+      <Fra>
+        <TypeDeCaractères>latin</TypeDeCaractères>
+        <Autoglossonyme>français</Autoglossonyme>
+        <Glossonyme>français</Glossonyme>
+        <Statut>cible</Statut>
+      </Fra>
+      <Eng>
+        <TypeDeCaractères>latin</TypeDeCaractères>
+        <Autoglossonyme>English</Autoglossonyme>
+        <Glossonyme>anglais</Glossonyme>
+        <Statut>cible</Statut>
+      </Eng>
+      <Bis>
+        <TypeDeCaractères>latin</TypeDeCaractères>
+        <Autoglossonyme>Bislama</Autoglossonyme>
+        <Glossonyme>bichelamar</Glossonyme>
+        <Statut>cible</Statut>
+      </Bis>
+    </Langues>
+  </InformationsGlobales>
+  <Dictionnaire>
+    <EntréeLexicale identifiant="ⓔaē">
+      <Lemme>
+        <FormeÉcrite>aē</FormeÉcrite>
+        <FormePhonétique>aˈɪ</FormePhonétique>
+      </Lemme>
+      <Groupe>
+        <NomDeGroupe>A</NomDeGroupe>
+        <ClasseGrammaticale>locatif</ClasseGrammaticale>
+        <Sens>
+          <Équivalent langue="fra">en ; y</Équivalent>
+          <Définition>
+            <ReprésentationDeTexte langue="fra">en, y, là. Adverbe anaphorique renvoyant à un référent non-humain, pour des</ReprésentationDeTexte>
+            <Glose langue="fra">AdvAna</Glose>
+          </Définition>
+          <Définition>
+            <ReprésentationDeTexte langue="eng">there; by <style type="fl">or</style> with <style type="fl">or</style> on… it. Anaphoric adverb with non-human reference, used for oblique syntactic functions</ReprésentationDeTexte>
+            <Déclaration>
+              <Type langue="fra">général</Type>
+              <Note langue="fra">En position de circonstant, à la suite du syntagme prédicatif. Utilisé notamment comme résomptif, dans les relatives</Note>
+            </Déclaration>
+            <Déclaration>
+              <Type langue="fra">général</Type>
+              <Note langue="fra">utilisée notamment en relative</Note>
+            </Déclaration>
+          </Définition>
+          <Équivalent langue="eng">there</Équivalent>
+        </Sens>
+        <Sens identifiant="ⓔaēⓢ1">
+          <NuméroDeSens>1</NuméroDeSens>
+          <Définition>
+            <ReprésentationDeTexte langue="fra">là, y. Anaphorique de lieu (<style type="fl">cf.</style> préposition <lien>lE-</lien>)</ReprésentationDeTexte>
+          </Définition>
+          <Définition>
+            <ReprésentationDeTexte langue="eng">there. Locative anaphoric (<style type="fl">see</style> preposition <lien>le-</lien>)</ReprésentationDeTexte>
+          </Définition>
+          <Exemple>
+            <ReprésentationDeTexte langue="mlv">No mal van te muk aē.</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="fra">J'y suis déjà allé.</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="eng">I've already been there.</ReprésentationDeTexte>
+            <Référence>th-179</Référence>
+          </Exemple>
+          <Exemple>
+            <ReprésentationDeTexte langue="mlv">na-tamge a kōyō hag tō aē en</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="fra">la natte sur laquelle ils sont tous deux assis [ax:litt. la natte qu'ils <style type="fs">y</style> sont assis]</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="eng">the mat they're both sitting on [ax:lit. the mat that they are sitting |<style type="fs">on it</style>]</ReprésentationDeTexte>
+          </Exemple>
+        </Sens>
+        <Sens identifiant="ⓔaēⓢ2">
+          <NuméroDeSens>2</NuméroDeSens>
+          <Définition>
+            <ReprésentationDeTexte langue="fra">en, avec. Anaphorique instrumental (<style type="fl">cf.</style> préposition <lien>mi</lien>)</ReprésentationDeTexte>
+          </Définition>
+          <Définition>
+            <ReprésentationDeTexte langue="eng">with it. Instrumental anaphoric (<style type="fl">see</style> preposition <lien>mi</lien>)</ReprésentationDeTexte>
+          </Définition>
+          <Exemple>
+            <ReprésentationDeTexte langue="mlv">Nēk so akteg aē?</ReprésentationDeTexte>
+            <Référence>th-179</Référence>
+            <ReprésentationDeTexte langue="fra">Que veux-tu en faire?</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="eng">What do you want to do with it?</ReprésentationDeTexte>
+          </Exemple>
+          <Exemple>
+            <ReprésentationDeTexte langue="mlv">No-wotva, am̄ag, kēy ha na-naw aē.</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="fra">Les calebasses, autrefois, on s'en servait pour puiser de l'eau de mer.</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="eng">A long time ago, calabashes were used to draw water from the sea. [ax:lit. Calabashes, before, they</ReprésentationDeTexte>
+            <Référence>th-179</Référence>
+          </Exemple>
+          <Exemple>
+            <ReprésentationDeTexte langue="mlv">nē-qētēnge a kēy mu-wuh tō no aē en</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="fra">le bâton avec lequel on m'a frappé [bâton qu'on m'a frappé avec]</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="eng">the stick with which they hit me [ax:lit. stick that they hit me |<style type="fs">with it</style>]</ReprésentationDeTexte>
+            <Référence>th-179</Référence>
+          </Exemple>
+          <Exemple>
+            <ReprésentationDeTexte langue="mlv">n-eh a kēy laklak aē en</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="fra">la chanson sur laquelle ils sont en train de danser [chanson qu'ils dansent avec]</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="eng">the song on which they are dancing [song they're dancing |<style type="fs">with it</style>]</ReprésentationDeTexte>
+          </Exemple>
+        </Sens>
+        <Sens identifiant="ⓔaēⓢ3">
+          <NuméroDeSens>3</NuméroDeSens>
+          <Définition>
+            <ReprésentationDeTexte langue="fra">en, pour cela. Anaphorique de cause (<style type="fl">cf.</style> préposition <lien>be-</lien>)</ReprésentationDeTexte>
+          </Définition>
+          <Définition>
+            <ReprésentationDeTexte langue="eng">because of it, for this reason. Causal anaphoric (<style type="fl">see</style> preposition <lien>be-</lien>)</ReprésentationDeTexte>
+          </Définition>
+          <Exemple>
+            <ReprésentationDeTexte langue="mlv">No m-ak sisgoy nu-qul, tō imam mo-boel aē.</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="fra">J'ai fait tomber la lampe, ce qui a mis mon père en colère [ax:litt. et papa s'|<style type="fs">en</style> est fâché]</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="eng">I dropped the lamp, which made my father angry [ax:lit. and dad got angry |<style type="fs">for that</style>].</ReprésentationDeTexte>
+            <Référence>th-179</Référence>
+          </Exemple>
+          <Exemple>
+            <ReprésentationDeTexte langue="mlv">Na-ga ni-wuh nēk en, tō ni-qti-ge ni-m̄ōlm̄ōl aē.</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="fra">Quand le kava t'enivre, tu as la tête qui tourne [à cause de cela].</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="eng">When the kava makes you drunk, your head swims [because of that].</ReprésentationDeTexte>
+          </Exemple>
+        </Sens>
+        <Sens identifiant="ⓔaēⓢ4">
+          <NuméroDeSens>4</NuméroDeSens>
+          <Définition>
+            <ReprésentationDeTexte langue="fra">en, y. Utilisé pour divers compléments obliques</ReprésentationDeTexte>
+          </Définition>
+          <Définition>
+            <ReprésentationDeTexte langue="eng">about it, to it. Used for various oblique adverbial phrases</ReprésentationDeTexte>
+          </Définition>
+          <Exemple>
+            <ReprésentationDeTexte langue="mlv">Nitog dēmdēm van aē.</ReprésentationDeTexte>
+            <Référence>th-179</Référence>
+            <ReprésentationDeTexte langue="fra">N'|<style type="fs">y</style> pense pas trop.</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="eng">Don't think too much |<style type="fs">about it</style>.</ReprésentationDeTexte>
+            <Référence>th-179</Référence>
+          </Exemple>
+          <Exemple>
+            <ReprésentationDeTexte langue="mlv">Tita mal higoy kōmyō aē.</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="fra">Maman vous |<style type="fs">l</style>'a déjà interdit.</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="eng">Mum had already forbidden |<style type="fs">that</style> to you.</ReprésentationDeTexte>
+          </Exemple>
+          <Exemple>
+            <ReprésentationDeTexte langue="mlv">N-eh mal tenenen van aē.</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="fra">La chanson |<style type="fs">y</style> est bien adaptée (à la musique).</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="eng">The song is well adapted {to it} (to the music).</ReprésentationDeTexte>
+          </Exemple>
+          <Exemple>
+            <ReprésentationDeTexte langue="mlv">Yē ma-vatne nēk aē?</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="fra">Qui te l'a enseigné [ax:litt. qui t'a instruit de cela]?</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="eng">Who taught you that [ax:lit. about that]?</ReprésentationDeTexte>
+          </Exemple>
+        </Sens>
+        <ClasseGrammaticale>préd</ClasseGrammaticale>
+      </Groupe>
+      <Groupe>
+        <NomDeGroupe>B</NomDeGroupe>
+        <Sens>
+          <Équivalent langue="fra">exister ; y avoir, exister</Équivalent>
+          <Définition>
+            <ReprésentationDeTexte langue="fra">être là; exister, il y a</ReprésentationDeTexte>
+            <Déclaration/>
+          </Définition>
+          <Définition>
+            <ReprésentationDeTexte langue="eng">be there; exist, there is</ReprésentationDeTexte>
+          </Définition>
+          <RelationSémantique>
+            <Type>antonyme</Type>
+            <Cible>tateh</Cible>
+          </RelationSémantique>
+        </Sens>
+        <Sens identifiant="ⓔaēⓢ1">
+          <NuméroDeSens>1</NuméroDeSens>
+          <Définition>
+            <ReprésentationDeTexte langue="fra">être là, être présent à tel endroit</ReprésentationDeTexte>
+            <Glose langue="fra">il_y_a</Glose>
+            <Déclaration>
+              <Type langue="fra">syntaxe</Type>
+              <Note langue="fra">sujet défini</Note>
+            </Déclaration>
+          </Définition>
+          <Définition>
+            <ReprésentationDeTexte langue="eng">be there, be present in a certain place</ReprésentationDeTexte>
+            <Déclaration>
+              <Type langue="eng">syntax</Type>
+              <Note langue="eng">definite subject</Note>
+            </Déclaration>
+          </Définition>
+          <Exemple>
+            <ReprésentationDeTexte langue="mlv">Tan̄a so tita mino aē!</ReprésentationDeTexte>
+            <Référence>°°</Référence>
+            <ReprésentationDeTexte langue="fra">Heureuse^ment que ma mère était là!</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="eng">Thank goodness my mother was there!</ReprésentationDeTexte>
+            <Référence>°°</Référence>
+          </Exemple>
+          <Exemple>
+            <ReprésentationDeTexte langue="mlv">Kemem tit-se vēh te a so nēk aē.</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="fra">Nous n'avons pas le droit de chanter en ta présence [ax:litt. alors que tu y es].</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="eng">We're not allowed to sing in your presence [ax:lit. while you're there].</ReprésentationDeTexte>
+          </Exemple>
+        </Sens>
+        <Sens identifiant="ⓔaēⓢ2">
+          <NuméroDeSens>2</NuméroDeSens>
+          <Définition>
+            <ReprésentationDeTexte langue="fra">il y a. Prédicat affirmatif d'existence</ReprésentationDeTexte>
+            <Déclaration>
+              <Type langue="fra">syntaxe</Type>
+              <Note langue="fra">sujet indéfini</Note>
+            </Déclaration>
+          </Définition>
+          <Définition>
+            <ReprésentationDeTexte langue="eng">there is. Positive existential predicate</ReprésentationDeTexte>
+            <Déclaration>
+              <Type langue="eng">syntax</Type>
+              <Note langue="eng">indefinite subject</Note>
+            </Déclaration>
+            <Glose langue="eng">there_is</Glose>
+          </Définition>
+          <Équivalent langue="eng">exist</Équivalent>
+          <Exemple>
+            <ReprésentationDeTexte langue="mlv">Ne-nem aē Apnōlap.</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="fra">Il y a des moustiques à Vanua-lava.</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="eng">There are mosquitoes in Vanua Lava.</ReprésentationDeTexte>
+          </Exemple>
+          <Exemple>
+            <ReprésentationDeTexte langue="mlv">Na-lavēt liwo aē le-pnō.</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="fra">Il y a une grande fête au village.</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="eng">There's a big fair in the village.</ReprésentationDeTexte>
+          </Exemple>
+          <Exemple>
+            <ReprésentationDeTexte langue="mlv">N-et aē hay en?</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="fra">Il y a quelqu'un là-dedans?</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="eng">Is there someone in there?</ReprésentationDeTexte>
+          </Exemple>
+          <Exemple>
+            <ReprésentationDeTexte langue="mlv">No-yoy na-mu vitwag aē.</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="fra">Il y a une nouvelle pour toi.</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="eng">There are news for you.</ReprésentationDeTexte>
+          </Exemple>
+        </Sens>
+        <Sens identifiant="ⓔaēⓢ3">
+          <NuméroDeSens>3</NuméroDeSens>
+          <Définition>
+            <ReprésentationDeTexte langue="fra">Y a X. Traduit le verbe “avoir”</ReprésentationDeTexte>
+            <ÉtiquetteSémantique langue="fra">partic</ÉtiquetteSémantique>
+            <TraductionLittérale langue="fra">le X de Y existe</TraductionLittérale>
+            <Déclaration>
+              <Type langue="fra">syntaxe</Type>
+              <Note langue="fra">syntagme possessif sujet</Note>
+            </Déclaration>
+          </Définition>
+          <Définition>
+            <ReprésentationDeTexte langue="eng">Y has X. Translates the verb “have”</ReprésentationDeTexte>
+            <ÉtiquetteSémantique langue="eng">hence</ÉtiquetteSémantique>
+            <TraductionLittérale langue="eng">Y's X exists</TraductionLittérale>
+            <Déclaration>
+              <Type langue="eng">syntax</Type>
+              <Note langue="eng">possessive phrase as subject</Note>
+            </Déclaration>
+          </Définition>
+          <Exemple>
+            <ReprésentationDeTexte langue="mlv">Inti-k aē.</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="fra">J'ai des enfants.</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="eng">I've got children.</ReprésentationDeTexte>
+          </Exemple>
+          <Exemple>
+            <ReprésentationDeTexte langue="mlv">Ēgnō-n mal aē.</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="fra">Ça y est, elle a déjà un mari [ax:litt. Son conjoint existe déjà].</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="eng">Yes, she's already got a husband [ax:lit. Her husband exists already].</ReprésentationDeTexte>
+          </Exemple>
+          <Exemple>
+            <ReprésentationDeTexte langue="mlv">Nē-bē na-ma-y aē?</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="fra">Ont-ils de l'eau à boire? [ax:litt. Leur eau existe?]</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="eng">Do they have any water to drink? [ax:lit. Their water exists?]</ReprésentationDeTexte>
+          </Exemple>
+          <Exemple>
+            <ReprésentationDeTexte langue="mlv">Mino aē tō, ba mal qelen̄.</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="fra">J'en avais un, mais je l'ai perdu.</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="eng">I had one, but I lost it.</ReprésentationDeTexte>
+          </Exemple>
+        </Sens>
+        <Sens identifiant="ⓔaēⓢ4">
+          <NuméroDeSens>4</NuméroDeSens>
+          <Définition>
+            <ReprésentationDeTexte langue="fra">Y a X. Traduit le verbe “avoir”, pour une possession soit tempo^raire (avoir avec soi) soit</ReprésentationDeTexte>
+            <ÉtiquetteSémantique langue="fra">partic</ÉtiquetteSémantique>
+            <TraductionLittérale langue="fra">X existe avec Y</TraductionLittérale>
+            <Déclaration>
+              <Type langue="fra">syntaxe</Type>
+              <Note langue="fra">N aliénable + |vl{aē mi} + qqn</Note>
+            </Déclaration>
+          </Définition>
+          <Définition>
+            <ReprésentationDeTexte langue="eng">Y has X. Translates the verb “have”, for either a temporary possession (‘have s.th. with</ReprésentationDeTexte>
+            <ÉtiquetteSémantique langue="eng">esp</ÉtiquetteSémantique>
+            <TraductionLittérale langue="eng">X exists with Y</TraductionLittérale>
+            <Déclaration>
+              <Type langue="eng">syntax</Type>
+              <Note langue="eng">alienable N + |vl{aē mi} + s.b.</Note>
+            </Déclaration>
+          </Définition>
+          <Exemple>
+            <ReprésentationDeTexte langue="mlv">Nē-sēm aē mi kē.</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="fra">[De l'argent est avec lui] Il a de l'argent. (Il est riche)</ReprésentationDeTexte>
+            <ReprésentationDeTexte langue="eng">[Money is with him] He has money. (He is rich)</ReprésentationDeTexte>
+          </Exemple>
+        </Sens>
+      </Groupe>
+      <Étymologie>
+        <Étymon>
+          <ReprésentationDeTexte>&lt;°aía</ReprésentationDeTexte>
+          <Langue>Mota</Langue>
+        </Étymon>
+        <Étymon>
+          <ReprésentationDeTexte>aia</ReprésentationDeTexte>
+          <Glose>there</Glose>
+        </Étymon>
+      </Étymologie>
+    </EntréeLexicale>
+  </Dictionnaire>
+</RessourceLexicale>
+

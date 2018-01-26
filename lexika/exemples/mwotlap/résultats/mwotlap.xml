@@ -201,6 +201,11 @@
                     <caractéristique attribut="cible" valeur="mey"/>
                     <non_lien cible="mey">mey</non_lien>
                   </RelationSémantique>
+                  <RelationSémantique>
+                    <caractéristique attribut="cible" valeur="Mey"/>
+                    <caractéristique attribut="type" valeur="synonyme"/>
+                    <non_lien cible="Mey">Mey</non_lien>
+                  </RelationSémantique>
                 </relations_sémantiques>
               </Sens>
             </sens>

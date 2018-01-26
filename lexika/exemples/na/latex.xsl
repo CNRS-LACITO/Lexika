@@ -20,7 +20,7 @@
         <xsl:apply-templates/>
     </xsl:template>
 
-    <xsl:template match="LexicalResource">
+    <xsl:template match="RessourceLexicale">
         \documentclass[twoside,11pt]{article}
         \title{�titre}
         \author{�auteur}
@@ -53,7 +53,7 @@
         \newfontfamily{\prin}[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{Liberation Serif}
         \newfontfamily{\nru}[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{Charis SIL}
         \newfontfamily{\fra}[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{EB Garamond}
-        \newfontfamily{\cmn}[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{WenQuanYi Micro Hei}
+        \newfontfamily{\cmn}[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{AR PL UMing CN}
         \newfontfamily{\eng}[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{EB Garamond}
         \newfontfamily{\bod}[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{Liberation Serif}
         \newcommand{\pprin}[1]{\begin{<xsl:value-of select="$langue"/>}{\prin #1}\end{<xsl:value-of select="$langue"/>}}
@@ -64,33 +64,45 @@
         \newcommand{\pbod}[1]{{\bod\textcolor{<xsl:value-of select="$bod"/>}{#1}}}
         \newcommand{\cerclé}[1]{\raisebox{0pt}{\textcircled{\raisebox{-0.5pt} {\footnotesize{\pnru{#1}}}}}}
         \newcommand{\caractère}[1]{\phantomsection\addcontentsline{toc}{section}{#1}{\begin{center}\textbf{\Large\pnru{#1}}\end{center}}}
-        \newenvironment{entrée}[3]{\hypertarget{#3}{}\phantomsection\addcontentsline{toc}{subsection}{#1\homonyme{#2}}\hspace*{-0.5cm}\textbf{\Large\pnru{#1 \homonyme{#2}}}\markright{#1 \homonyme{#2}}}{\stepcounter{compteur}}
+        \newenvironment{entrée}[3]{\hypertarget{#3}{}\phantomsection\addcontentsline{toc}{subsection}{#1\homonyme{#2}}\hspace*{-0.5cm}\textbf{\Large\pnru{#1 \homonyme{#2}}}\markright{#1 \homonyme{#2}}}{\stepcounter{compteur}\newline}
         \newenvironment{sous-entrée}[3]{\par\hypertarget{#3}{}\phantomsection\addcontentsline{toc}{subsubsection}{#1 \homonyme{#2}}\begin{adjustwidth}{0.3cm}{}\pprin{■} \textbf{\Large\pnru{#1\homonyme{#2}}}}{\end{adjustwidth}}
         \newcommand{\homonyme}[1]{#1}
-        \newcommand{\formesurface}[1]{\hspace{0.5cm}[~\pnru{#1}~]\hspace{0.5cm}}
-        \newcommand{\orthographe}[1]{\pnru{\textit{#1}}}
+        \newcommand{\formedesurface}[1]{\hspace{0.5cm}/\pnru{#1}/\hspace{0.5cm}}
+        \newcommand{\formephonétique}[1]{\pnru{\textit{#1}}}
         \newcommand{\ton}[1]{\cmn{声调类：}\prin{#1}\hspace{0.5cm}}
         \newcommand{\classe}[1]{ \pcmn{\textcolor{PineGreen}{#1} }}
         \newcommand{\paradigme}[1]{#1 }
-        \newcommand{\acception}[1]{ \cerclé{#1} }
+        \newcommand{\sens}[1]{ \cerclé{#1} }
         \newenvironment{définition}{}{\hspace{5pt}}
         \newenvironment{déclaration}{}{}
         \newenvironment{exemple}{\pprin{¶} }{\hspace{5pt}}
-        \newenvironment{relation-sémantique}{}{}
+        \newenvironment{relationsémantique}{}{}
         \newenvironment{forme-mot}{}{}
         \newcommand{\synonyme}[1]{\pcmn{~【同义词】~\pnru{#1}}}
         \newcommand{\antonyme}[1]{\pcmn{~【反义词】~\pnru{#1}}}
         \newcommand{\confer}[1]{\pcmn{~【参考】~\pnru{#1}}}
-        \newcommand{\loanword}[1]{\pcmn{~【借词】~#1}}
+        \newcommand{\emprunt}[1]{\pcmn{~【借词】~#1}}
         \newcommand{\étymologie}[1]{\pcmn{~【词源】~#1}}
-        \newcommand{\use}[1]{\pcmn{~【用法】#1}}
-        \newcommand{\grammar}[1]{\textsc{#1}}
+        \newcommand{\utilisation}[1]{\pcmn{~【用法】#1}}
+        \newcommand{\grammaire}[1]{\textsc{#1}}
         \newcommand{\stylefv}[1]{\pnru{#1}}
         \newcommand{\stylefn}[1]{\pcmn{#1}}
         \newcommand{\stylefi}[1]{\textit{#1}}
         \newcommand{\stylefg}[1]{\textsc{#1}}
         \XeTeXlinebreaklocale "zh"
         \XeTeXlinebreakskip = 0pt plus 1pt
+        % % Code spécial pour la gestion générique des césures applicable aux formes de surface
+        %\ExplSyntaxOn
+        %\RenewDocumentCommand{\formedesurface}{m}
+        %{
+        %    % nouvelle variable « expression »
+        %    \tl_set:Nn \expression { #1 }
+        %    % remplace ˩˧˥ par ˩˧˥\-
+        %    \regex_replace_all:nnN { (\B[˩˧˥]) } { \1\c{-} } \expression
+        %    % renvoie la séquence totale
+        %    {\tl_use: {\hspace{0.5cm}/\pnru{\expression}/\hspace{0.5cm}}}
+        %}
+        %\ExplSyntaxOff
         <xsl:text>&#xd;</xsl:text>
         \begin{document}
         �introduction
@@ -102,11 +114,14 @@
         \end{multicols}
         \end{document}
     </xsl:template>
+    
+    <xsl:template match="InformationsGlobales">
+    </xsl:template>
 
-    <xsl:template match="Lexicon">
-        <xsl:for-each select="LexicalEntry">
-            <xsl:variable name="caractère" select="substring(translate(Lemma/feat[@att='lexeme']/@val, '_^-‐‑*=', ''), 1, 1)"/>
-            <xsl:if test="$caractère != substring(translate(preceding-sibling::LexicalEntry[1]/Lemma/feat[@att='lexeme']/@val, '_^-‐‑*=', ''), 1, 1)">
+    <xsl:template match="Dictionnaire">
+        <xsl:for-each select="EntréeLexicale">
+            <xsl:variable name="caractère" select="substring(translate(Lemme/FormeÉcrite, '_^-‐‑*=', ''), 1, 1)"/>
+            <xsl:if test="$caractère != substring(translate(preceding-sibling::EntréeLexicale[1]/Lemme/FormeÉcrite, '_^-‐‑*=', ''), 1, 1)">
                 <xsl:text>\newpage</xsl:text>
                 <xsl:text>\caractère{</xsl:text>
                 <xsl:value-of select="$caractère"/>
@@ -117,7 +132,7 @@
         </xsl:for-each>
     </xsl:template>
 
-    <xsl:template match="LexicalEntry">
+    <xsl:template match="EntréeLexicale">
         <xsl:text>&#10;</xsl:text>
         <xsl:text>\begin{entrée}</xsl:text>
         <xsl:apply-templates/>
@@ -125,123 +140,97 @@
         <xsl:text>&#xa;&#xd;</xsl:text>
     </xsl:template>
 
-    <xsl:template match="Lemma">
+    <xsl:template match="Lemme">
         <xsl:text>{</xsl:text>
-        <xsl:value-of select="feat[@att='lexeme']/@val"/>
+        <xsl:value-of select="FormeÉcrite"/>
         <xsl:text>}{</xsl:text>
-        <xsl:if test="../feat[@att='homonymeNumber']">
-            <xsl:value-of select="translate(../feat[@att='homonymeNumber']/@val, $nombres, $indices)"/>
+        <xsl:if test="../NuméroDHomonyme">
+            <xsl:value-of select="translate(../NuméroDHomonyme, $nombres, $indices)"/>
         </xsl:if>
         <xsl:text>}{</xsl:text>
-        <xsl:value-of select="../@id"/>
+        <xsl:value-of select="../@identifiant"/>
         <xsl:text>}</xsl:text>
-        <xsl:if test="FormRepresentation[feat[@att='surfacePhoneticForm']]">
-            <xsl:text>\formesurface{</xsl:text>
-            <xsl:value-of select="FormRepresentation/feat[@att='surfacePhoneticForm']/@val"/>
+        <xsl:if test="FormeDeSurface">
+            <xsl:text>\formedesurface{</xsl:text>
+            <xsl:value-of select="FormeDeSurface"/>
             <xsl:text>}</xsl:text>
         </xsl:if>
-        <xsl:if test="FormRepresentation[feat[@att='phoneticForm']]">
-            <xsl:text>\orthographe{</xsl:text>
-            <xsl:value-of select="FormRepresentation/feat[@att='phoneticForm']/@val"/>
+        <xsl:if test="FormePhonétique">
+            <xsl:text>\formephonétique{</xsl:text>
+            <xsl:value-of select="FormePhonétique"/>
             <xsl:text>}</xsl:text>
         </xsl:if>
-        \par
-        <xsl:if test="ancestor::LexicalEntry/feat[@att='partOfSpeech']">
+        <xsl:text>\newline</xsl:text>
+        <xsl:if test="ancestor::EntréeLexicale/ClasseGrammaticale">
             <xsl:text>&#10;</xsl:text>
             <xsl:text>\classe{</xsl:text>
             <xsl:call-template name="traduction">
-                <xsl:with-param name="expression" select="ancestor::LexicalEntry/feat[@att='partOfSpeech']/@val"/>
+                <xsl:with-param name="expression" select="ancestor::EntréeLexicale/ClasseGrammaticale"/>
             </xsl:call-template>
             <xsl:text>}</xsl:text>
         </xsl:if>
-        <xsl:if test="FormRepresentation[feat[@att='tone']]">
+        <xsl:if test="Ton">
             <xsl:text>\ton{</xsl:text>
-            <xsl:value-of select="FormRepresentation/feat[@att='tone']/@val"/>
+            <xsl:value-of select="Ton"/>
             <xsl:text>}</xsl:text>
         </xsl:if>
     </xsl:template>
-
-    <xsl:template match="Media[feat[@att='type' and @val='audio'] and feat[@att='chemin']]">
-        <xsl:if test="$inclure_audio">
-            <xsl:text>\écouter{</xsl:text>
-            <xsl:choose>
-                <xsl:when test="eat[@att='qualité'='faible']">
-                    <xsl:value-of select="concat('8_', feat[@att='chemin']/@val)"/>
-                </xsl:when>
-                <xsl:otherwise>
-                    <xsl:value-of select="feat[@att='chemin']/@val"/>
-                </xsl:otherwise>
-            </xsl:choose>
-            <xsl:text>}</xsl:text>
-        </xsl:if>
+    
+    <xsl:template match="ClasseGrammaticale">
     </xsl:template>
 
-    <xsl:template match="Sense">
+    <xsl:template match="Étymologie">
+        <xsl:text>\étymologie{</xsl:text>
+        <xsl:for-each select="Étymon">
+            <xsl:value-of select="."/>
+            <xsl:if test="not(position() = last())">
+                <xsl:text>,</xsl:text>
+            </xsl:if>
+        </xsl:for-each>
+        <xsl:text>}</xsl:text> 
+    </xsl:template>
+    
+    <xsl:template match="Sens">
         <xsl:text>&#10;</xsl:text>
-        <xsl:if test="feat[@att='senseNumber' and @val!='0']">
-            <xsl:text>\acception{</xsl:text>
-            <xsl:value-of select="feat[@att='senseNumber' and @val!='0']/@val"/>
+        <xsl:if test="NuméroDeSens">
+            <xsl:text>\sens{</xsl:text>
+            <xsl:value-of select="NuméroDeSens"/>
             <xsl:text>}</xsl:text>
         </xsl:if>
-        <xsl:apply-templates select="Definition"/>
-        <xsl:apply-templates select="Context"/>
-        <xsl:apply-templates select="SenseRelation"/>
-        <xsl:apply-templates select="Paradigm"/>
+        <xsl:apply-templates select="Définition"/>
+        <xsl:apply-templates select="Exemple"/>
+        <xsl:apply-templates select="RelationSémantique"/>
+        <xsl:apply-templates select="Paradigme"/>
     </xsl:template>
 
-    <xsl:template match="Definition[feat[@att='definition']]">
+    <xsl:template match="Définition">
         <xsl:text>&#10;</xsl:text>
         <xsl:text>\begin{définition}</xsl:text>
         <xsl:text>\p</xsl:text>
-        <xsl:value-of select="feat[@att='language']/@val"/>
+        <xsl:value-of select="ReprésentationDeTexte/@langue"/>
         <xsl:text>{</xsl:text>
-        <xsl:choose>
-            <xsl:when test="feat/content">
-                <xsl:apply-templates select="feat"/>
-            </xsl:when>
-            <xsl:otherwise>
-                <xsl:value-of select="feat[@att='definition']/@val"/>
-            </xsl:otherwise>
-        </xsl:choose>
+        <xsl:apply-templates select="ReprésentationDeTexte"/>
         <xsl:text>}</xsl:text>
         <xsl:apply-templates select="Statement"/>
         <xsl:text>\end{définition}</xsl:text>
     </xsl:template>
 
-    <xsl:template match="Definition[feat[@att='gloss']]">
-        <xsl:apply-templates select="Statement"/>
-    </xsl:template>
-
-    <xsl:template match="Context[feat[@att='type' and @val='example']]">
+    <xsl:template match="Exemple">
         <xsl:text>&#10;</xsl:text>
         <xsl:text>\begin{exemple}</xsl:text>
-        <xsl:if test="Statement[feat[@att='comment'] and not(feat[@att='type'])]">
-            <xsl:text>\pcmn{（</xsl:text>
-            <xsl:call-template name="traduction">
-                <xsl:with-param name="expression" select="Statement/feat[@att='comment']/@val"/>
-            </xsl:call-template>
-            <xsl:text>）}</xsl:text>
-        </xsl:if>
-        <xsl:for-each select="TextRepresentation">
+        <xsl:for-each select="ReprésentationDeTexte">
             <xsl:text>\p</xsl:text>
-            <xsl:value-of select="feat[@att='language']/@val"/>
+            <xsl:value-of select="@langue"/>
             <xsl:text>{</xsl:text>
-            <xsl:choose>
-                <xsl:when test="feat/content">
-                    <xsl:apply-templates select="feat"/>
-                </xsl:when>
-                <xsl:otherwise>
-                    <xsl:value-of select="feat[@att='writtenForm']/@val"/>
-                </xsl:otherwise>
-            </xsl:choose>
+            <xsl:value-of select="."/>
             <xsl:text>}</xsl:text>
             <xsl:if test="not(position() = last())">
                 <xsl:text>\hspace{5pt}</xsl:text>
             </xsl:if>
         </xsl:for-each>
-        <xsl:if test="Statement[feat[@att='comment'] and feat[@att='type' and @val='tone']]">
+        <xsl:if test="Déclaration[Type = 'ton']">
             <xsl:text>\pcmn{（}\ton{</xsl:text>
-            <xsl:value-of select="Statement/feat[@att='comment']/@val"/>
+            <xsl:value-of select="Déclaration[Type = 'ton']"/>
             <xsl:text>}\pcmn{）}</xsl:text>
         </xsl:if>
         <xsl:text>\end{exemple}</xsl:text>
@@ -260,7 +249,7 @@
         <xsl:text>\end{déclaration}</xsl:text>
     </xsl:template>
 
-    <xsl:template match="Statement[feat[@att='etymology']]">
+    <xsl:template match="Statement[feat[@att='étymologie']]">
         <xsl:text>&#10;</xsl:text>
         <xsl:text>\begin{déclaration}</xsl:text>
         <xsl:text> \étymologie{\pnru{</xsl:text>
@@ -276,23 +265,23 @@
         <xsl:text>\end{déclaration}</xsl:text>
     </xsl:template>
 
-    <xsl:template match="SenseRelation">
+    <xsl:template match="RelationSémantique">
         <xsl:text>&#10;</xsl:text>
-        <xsl:text>\begin{relation-sémantique}</xsl:text>
+        <xsl:text>\begin{relationsémantique}</xsl:text>
         <xsl:text>\</xsl:text>
-        <xsl:value-of select="feat[@att='type']/@val"/>
+        <xsl:value-of select="@langue"/>
         <xsl:text>{</xsl:text>
-        <xsl:if test="feat[@att='language']/@val">
+        <xsl:if test="@langue">
             <xsl:text>\p</xsl:text>
-            <xsl:value-of select="feat[@att='language']/@val"/>
+            <xsl:value-of select="@langue"/>
             <xsl:text>{</xsl:text>
         </xsl:if>
         <xsl:apply-templates/>
-        <xsl:if test="feat[@att='language']/@val">
+        <xsl:if test="@langue">
             <xsl:text>}</xsl:text>
         </xsl:if>
         <xsl:text>}</xsl:text>
-        <xsl:text>\end{relation-sémantique}</xsl:text>
+        <xsl:text>\end{relationsémantique}</xsl:text>
     </xsl:template>
 
     <xsl:template match="WordForm">
@@ -319,12 +308,12 @@
         </xsl:choose>
         <xsl:text>\pcmn{ : }</xsl:text>
         <xsl:text>\pnru{</xsl:text>
-        <xsl:value-of select="FormRepresentation/feat[@att='writtenForm']/@val"/>
+        <xsl:value-of select="ReprésentationDeForme/feat[@att='writtenForm']/@val"/>
         <xsl:text>}</xsl:text>
         <xsl:text>\end{forme-mot}</xsl:text>
     </xsl:template>
 
-    <xsl:template match="Paradigm">
+    <xsl:template match="Paradigme">
         <xsl:text>&#10;</xsl:text>
         <xsl:text>\paradigme{\pcmn</xsl:text>
         <xsl:text>{</xsl:text>
@@ -332,7 +321,7 @@
             <xsl:with-param name="expression" select="feat[@att='name']/@val"/>
         </xsl:call-template>
         <xsl:text>：} \p</xsl:text>
-        <xsl:value-of select="feat[@att='language']/@val"/>
+        <xsl:value-of select="@langue"/>
         <xsl:text>{</xsl:text>
         <xsl:value-of select="feat[@att='paradigm']/@val"/>
         <xsl:text>}}</xsl:text>

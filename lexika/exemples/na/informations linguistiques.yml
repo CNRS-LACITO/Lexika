@@ -1,0 +1,87 @@
+﻿formats:
+    entrée:
+        MDF Alexis:
+            parent: MDF
+            modèles:
+                ligne: ^\\(?P<balise>\w*)\s*(?P<métadonnées><([\w\s]+=[\w\"\s]+)+>)?\s*(?P<données>.*)
+                métadonnées: ([\w]+)=[\"\']?([\w\s]+)[\"\']?
+                style: (?P<ensemble>(?P<style>fl|fv|fn|fr|fe|fs|fi):(?P<texte>[\w,.;:!?/\[\]\(\){}\~‘’'–_*+-]+))|(?P<ensemble>\\|(?P<style>fl|fv|fn|fr|fe|fs|fi){(?P<texte>[\w\s\[\],.;:!?/\[\]\(\){}\~‘’'–_*+-]+)})
+            balises:
+                # Balises liée à l'entrée.
+                ton:
+                    abstraction: ton
+                # Balises liées aux définitions.
+                df:
+                    abstraction: définition
+                    caractéristiques:
+                        langue: cible 1
+                de:
+                    abstraction: définition
+                    caractéristiques:
+                        langue: cible 2
+                dn:
+                    abstraction: définition
+                    caractéristiques:
+                        langue: cible 3
+                gf:
+                    abstraction: glose
+                    caractéristiques:
+                        langue: cible 1
+                ge:
+                    abstraction: glose
+                    caractéristiques:
+                        langue: cible 2
+                gn:
+                    abstraction: glose
+                    caractéristiques:
+                        langue: cible 3
+                # Balises liées aux exemples.
+                xf:
+                    abstraction: traduction d’exemple
+                    caractéristiques:
+                        langue: cible 1
+                xe:
+                    abstraction: traduction d’exemple
+                    caractéristiques:
+                        langue: cible 2
+                xn:
+                    abstraction: traduction d’exemple
+                    caractéristiques:
+                        langue: cible 3
+    sortie:
+        LMF Alexis:
+            parent: LMF
+            modèles:
+                renvoi: ^(?P<entrée_lexicale>[\w\s~\[\].,\p{Spacing Modifier Letters}#$-]+?)(?P<numéro_dʼhomonyme>[\d]*)$"
+            trieur: na
+            identifiants:
+                nom de groupe:
+                    constante: ⓖ
+                    ascendant: groupe
+            abréviations:
+                classe grammaticale:
+                    nom: n
+                    interjection: intj
+                    préfixe: pf
+                    préposition: prep                  
+                    particule: ptc
+                    locatif: loc
+                type de relation sémantique:
+                    synonyme: [Syn., Syn]
+                    antonyme: [Ant., Ant]
+                    renvoi: Cf.
+            abstractions:
+                # Abstractions directement liées aux entrées.
+                ton:
+                    entité:
+                        nom: ton
+                    parent:
+                        nom: lemme      
+                classe grammaticale:
+                    entité:
+                        nom: classe grammaticale
+                    parent:
+                        nom:
+                            - entrée lexicale
+                            - sous-entrée lexicale
+

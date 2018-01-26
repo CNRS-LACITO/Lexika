@@ -1,0 +1,582 @@
+﻿formats:
+    entrée:
+        MDF:
+            modèles:
+                ligne: ^\\(?P<balise>\w*)\s*(?P<métadonnées><([\w\s]+=[\w\"\s]+)+>)?\s*(?P<données>.*)
+                métadonnées: ([\w]+)=[\"\']?([\w\s]+)[\"\']?
+                style: (?P<ensemble>(?P<style>fl|fv|fn|fr|fe|fs|fi|ax|vl):(?P<texte>[\w,.;:!?/\[\]\(\){}\~‘’'–_*+-]+))|(?P<ensemble>\\|(?P<style>fl|fv|fn|fr|fe|fs|fi|ax|vl){(?P<texte>[\w\s\[\],.;:!?/\[\]\(\){}\~‘’'–_*+-]+)})
+                lien: (?P<ensemble>(fv:(?P<entrée>[\w\~-]+))+(\|hm{(?P<homonyme>[\d]+)})*)
+            balises:
+                # Balises générales.
+                _sh:
+                    abstraction: format d’entrée
+                # Balises principales.
+                lx:
+                    abstraction: vedette
+                    drapeaux:
+                        bloc: \lx       
+                se:
+                    abstraction: sous-vedette
+                # Balises liées aux entrées.
+                hm:
+                    abstraction: numéro d’homonyme
+                la:
+                    abstraction: forme de citation
+                lc:
+                    abstraction: forme de surface
+                ph:
+                    abstraction: forme phonétique
+                pv:
+                    abstraction: classe grammaticale
+                    caractéristiques:
+                        langue: source 1
+                ps:
+                    abstraction: classe grammaticale
+                pdl:
+                    abstraction: catégorie paradigmatique
+                pdv:
+                    abstraction: forme paradigmatique
+                # Balises liées aux sens.
+                sn:
+                    abstraction: numéro de sens
+                    drapeaux:
+                        type: environnement
+                re:
+                    abstraction: équivalent
+                    caractéristiques:
+                        langue: cible 1
+                rn:
+                    abstraction: équivalent
+                    caractéristiques:
+                        langue: cible 2
+                rr:
+                    abstraction: équivalent
+                    caractéristiques:
+                        langue: cible 3
+                sd:
+                    abstraction: domaine sémantique
+                cf:
+                    abstractions:
+                        - nom: type de relation sémantique
+                          valeur: renvoi
+                        - nom: cible de relation sémantique
+                sy:
+                    abstractions:
+                        - nom: type de relation sémantique
+                          valeur: synonyme
+                        - nom: cible de relation sémantique
+                an:
+                    abstractions:
+                        - nom: type de relation sémantique
+                          valeur: antonyme
+                        - nom: cible de relation sémantique
+                lf:
+                    abstraction: type de relation sémantique
+                lv:
+                    abstraction: cible de relation sémantique
+                # Balises liées aux définitions.
+                de:
+                    abstraction: définition
+                    caractéristiques:
+                        langue: cible 1
+                dn:
+                    abstraction: définition
+                    caractéristiques:
+                        langue: cible 2
+                dr:
+                    abstraction: définition
+                    caractéristiques:
+                        langue: cible 3
+                ge:
+                    abstraction: glose
+                    caractéristiques:
+                        langue: cible 1
+                gn:
+                    abstraction: glose
+                    caractéristiques:
+                        langue: cible 2
+                gr:
+                    abstraction: glose
+                    caractéristiques:
+                        langue: cible 3
+                lt:
+                    abstraction: traduction littérale
+                    caractéristiques:
+                        langue: cible 1
+                ll:
+                    abstraction: traduction littérale
+                    caractéristiques:
+                        langue: cible 2
+                # Balises liées aux exemples.
+                xv:
+                    abstraction: exemple
+                    caractéristiques:
+                        langue: source 1
+                xe:
+                    abstraction: traduction d’exemple
+                    caractéristiques:
+                        langue: cible 1
+                xn:
+                    abstraction: traduction d’exemple
+                    caractéristiques:
+                        langue: cible 2
+                xr:
+                    abstraction: traduction d’exemple
+                    caractéristiques:
+                        langue: cible 3
+                nt:
+                    abstraction: note
+                    caractéristiques:
+                        langue: cible 1
+                nd:
+                    abstraction: note
+                    caractéristiques:
+                        langue: cible 2
+                # Balises liées aux étymologies.
+                et:
+                    abstraction: étymon
+                eg:
+                    abstraction: glose d’étymon
+                el:
+                    abstraction: langue d’étymon
+                edd: 
+                    abstraction: date de début d’étymon
+                edf: 
+                    abstraction: date de fin d’étymon
+                # Balises diverses.
+                rf:
+                    abstraction: référence
+    sortie:
+        LMF:
+            modèles:
+                renvoi: ^(?P<entrée_lexicale>[\w\s~\[\].,\p{Spacing Modifier Letters}#$-]+?)(?P<numéro_dʼhomonyme>[\d]*)$"
+            identifiants:
+                vedette:
+                    constante: ⓔ
+                    ascendant: entrée lexicale
+                sous-vedette:
+                    constante: ⓝ
+                    ascendant: sous-entrée lexicale
+                numéro d’homonyme: 
+                    constante: ⓗ
+                    ascendant: entrée lexicale
+                    type: facultatif
+                numéro de sens:
+                    constante: ⓢ
+                    ascendant: sens
+            abréviations:
+                classe grammaticale:
+                    nom: n
+                    verbe: v
+                    adjectif: adj
+                    adverbe: adv
+                    pronom: pro
+                    déterminant: det
+                    préposition: prep
+                    conjonction: conj
+                    interjection: intj
+                    onomatopée: onom
+                type de relation sémantique:
+                    renvoi: cf
+                    synonyme: sy, syn
+                    antonyme: an, ant
+            abstractions:
+                # Abstractions générales.
+                ressource lexicale:
+                    entité:
+                        nom: ressource lexicale
+                    spécial:
+                        drapeaux:
+                            - racine
+                            - bloc
+                dictionnaire:
+                    entité:
+                        nom: dictionnaire
+                    parent:
+                        nom: ressource lexicale
+                    spécial:
+                        drapeaux:
+                            - dictionnaire
+                            - bloc
+                # Métainformations diverses.
+                informations globales:
+                    entité:
+                        nom: informations globales
+                        données:
+                            source: configuration
+                            clefs:
+                                - général
+                                - langues
+                    parent:
+                        nom: ressource lexicale
+                    spécial:
+                        drapeaux:
+                            - métainformations
+                            - bloc
+                format d’entrée:
+                    entité:
+                        nom: format d’entrée
+                    parent:
+                        nom: informations globales
+                # Abstractions principales.
+                entrée:
+                    entité:
+                        nom: entrée lexicale                   
+                    parent:
+                        nom: dictionnaire
+                    spécial:
+                        drapeaux:
+                            - entrée
+                            - bloc
+                sous-entrée:
+                    entité:
+                        nom: sous-entrée lexicale
+                    parent:
+                        nom: 
+                            - sens
+                            - entrée lexicale
+                        conditions:
+                            environnements interdits:
+                                - sous-entrée lexicale
+                    spécial:
+                        drapeaux:
+                            - bloc
+                vedette:
+                    entité:
+                        nom: forme écrite
+                    parent:
+                        nom: lemme
+                    préabstraction:
+                        nom: lemme
+                        voie: impérieuse
+                    spécial:
+                        drapeaux: 
+                            - renvoyable
+                            - identifiant
+                sous-vedette:
+                    entité:
+                        nom: forme écrite
+                    parent:
+                        nom: lemme
+                    préabstraction:
+                        nom: sous-lemme
+                        voie: impérieuse
+                    spécial:
+                        drapeaux:
+                            - renvoyable
+                            - identifiant
+                # Abstractions directement liées aux entrées.
+                lemme:
+                    entité:
+                        nom: lemme
+                    parent:
+                        nom: entrée lexicale
+                    préabstraction:
+                        nom: entrée
+                        voie: impérieuse
+                    spécial:
+                        drapeaux:
+                            - bloc
+                sous-lemme:
+                    entité:
+                        nom: lemme
+                    parent:
+                        nom: sous-entrée lexicale
+                    préabstraction:
+                        nom: sous-entrée
+                        voie: impérieuse
+                    spécial:
+                        drapeaux:
+                            - bloc
+                numéro d’homonyme:
+                    entité:
+                        nom: numéro d’homonyme
+                    parent:
+                        nom: entrée lexicale
+                    spécial:
+                        drapeaux:
+                            - renvoyable
+                            - identifiant
+                forme de citation:
+                    entité:
+                        nom: forme de citation
+                    parent:
+                        nom: lemme
+                forme de surface:
+                    entité:
+                        nom: forme de surface
+                    parent:
+                        nom: lemme
+                forme phonétique:
+                    entité:
+                        nom: forme phonétique
+                    parent:
+                        nom: lemme
+                classe grammaticale:
+                    entité:
+                        nom: classe grammaticale
+                    parent:
+                        nom:
+                            - entrée lexicale
+                            - sous-entrée lexicale
+                    spécial:
+                        drapeaux:
+                            - correspondance
+                paradigme:
+                    entité: 
+                        nom: paradigme
+                    parent:
+                        nom: entrée lexicale
+                forme paradigmatique:
+                    entité:
+                        nom: représentation de forme
+                    parent:
+                        nom: paradigme
+                    préabstraction:
+                        nom: paradigme
+                catégorie paradigmatique:
+                    entité:
+                        nom: catégorie paradigmatique
+                    parent:
+                        nom: paradigme
+                        conditions:
+                            entité: absente
+                    préabstraction:
+                        nom: paradigme
+                    spécial:
+                        drapeaux:
+                            - correspondance       
+                # Abstractions directement liées aux sens.
+                sens:
+                    entité:
+                        nom: sens
+                    parent:
+                        nom:
+                            - entrée lexicale
+                            - sous-entrée lexicale
+                        conditions:
+                            entité:
+                                nom: sous-entrée lexicale
+                                état: absent
+                    spécial:
+                        drapeaux:
+                            - bloc
+                numéro de sens:
+                    entité:
+                        nom: numéro de sens
+#                        type: caractéristique
+                    parent:
+                        nom: sens
+                    préabstraction:
+                        nom: sens
+                        voie: impérieuse
+                    spécial:
+                        drapeaux:
+                            - identifiant
+                équivalent:
+                    entité:
+                        nom: équivalent
+                    parent:
+                        nom: sens
+                    préabstraction:
+                        nom: sens
+                        voie: contextuelle
+                note:
+                    entité:
+                        nom: note
+                        spécial:
+                            drapeaux:
+                                - texte enrichi 
+                    parent:
+                        nom: sens
+                relation sémantique:
+                    entité:
+                        nom: relation sémantique
+                    parent:
+                        nom: sens
+                    spécial:
+                        drapeaux:
+                            - bloc
+                cible de relation sémantique:
+                    entité:
+                        nom: cible
+                        structure:
+                            lien:
+                                - entrée lexicale
+                                - sous-entrée lexicale
+                    parent:
+                        nom: relation sémantique
+                        conditions:
+                            entité: absente
+                    préabstraction:
+                        nom: relation sémantique
+                type de relation sémantique:
+                    entité:
+                        nom: type
+                    parent:
+                        nom: relation sémantique
+                        conditions:
+                            entité: absente
+                    préabstraction:
+                        nom: relation sémantique
+                    spécial:
+                        drapeaux:
+                            - correspondance
+                # Abstractions directement liées aux définitions/gloses.
+                bloc définition:
+                    entité:
+                        nom: définition
+                    parent:
+                        nom: sens
+                    préabstraction:
+                        nom: sens
+                        voie: contextuelle
+                    spécial:
+                        drapeaux:
+                            - bloc
+                définition:
+                    entité:
+                        nom: représentation de texte
+                        spécial:
+                            drapeaux:
+                                - texte enrichi                            
+                    parent:
+                        nom: définition
+                    préabstraction:
+                        nom: bloc définition
+                        voie: impérieuse
+                glose:
+                    entité:
+                        nom: glose
+                    parent:
+                        nom: sens
+                    préabstraction:
+                        nom: sens
+                        voie: contextuelle
+                bloc étiquette:
+                    entité: 
+                        nom: étiquette
+                    parent:
+                        nom: définition
+                    spécial:
+                        drapeaux:
+                            - bloc
+                type d’étiquette:
+                    entité:
+                        nom: type
+                    parent:
+                        nom: étiquette
+                        conditions:
+                            entité: absente
+                    préabstraction:
+                        nom: bloc étiquette
+                étiquette:
+                    entité:
+                        nom: représentation de texte
+                    parent:
+                        nom: étiquette
+                étiquette sémantique:
+                    entité:
+                        nom: étiquette sémantique
+                    parent:
+                        nom: définition
+                        conditions:
+                            caractéristiques:
+                                égalité:
+                                    - langue
+                traduction littérale:
+                    entité:
+                        nom: traduction littérale
+                    parent:
+                        nom: définition
+                        conditions:
+                            caractéristiques:
+                                égalité:
+                                    - langue
+                # Abstractions directement liées aux exemples.
+                bloc exemple:
+                    entité:
+                        nom: exemple
+                    parent:
+                        nom: sens
+                    préabstraction:
+                        nom: sens
+                        voie: contextuelle
+                    spécial:
+                        drapeaux:
+                            - bloc
+                exemple:
+                    entité:
+                        nom: représentation de texte
+                        spécial:
+                            drapeaux:
+                                - texte enrichi 
+                    parent:
+                        nom: exemple
+                    préabstraction:
+                        nom: bloc exemple
+                        voie: impérieuse
+                traduction d’exemple:
+                    entité:
+                        nom: représentation de texte
+                        spécial:
+                            drapeaux:
+                                - texte enrichi 
+                    parent:
+                        nom: exemple
+                # Abstractions directement liées aux étymologies.
+                étymologie:
+                    entité:
+                        nom: étymologie
+                    parent:
+                        nom: entrée lexicale
+                    spécial:
+                        drapeaux:
+                            - bloc
+                bloc étymon:
+                    entité:
+                        nom: étymon
+                    parent:
+                        nom: étymologie
+                    préabstraction:
+                        nom: étymologie
+                    spécial:
+                        drapeaux:
+                            - bloc
+                étymon:
+                    entité:
+                        nom: représentation de texte
+                    parent:
+                        nom: étymon
+                    préabstraction:
+                        nom: bloc étymon
+                        voie: impérieuse
+                langue d’étymon:
+                    entité:
+                        nom: langue
+                    parent:
+                        nom: étymon
+                        conditions:
+                            entité: absente
+                glose d’étymon:
+                    entité:
+                        nom: glose
+                    parent:
+                        nom: étymon
+                        conditions:
+                            entité: absente
+                # Abstractions diverses
+                référence:
+                    entité:
+                        nom: référence
+                    parent:
+                        nom:
+                            - exemple
+                            - sous-entrée lexicale
+
+
+
+
+
+
+

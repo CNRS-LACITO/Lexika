@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="style.xsl" ?>
+
+<RessourceLexicale>
+  <InformationsGlobales>
+    <Général>
+      <Nom>Essai d’un dictionnaire</Nom>
+      <Auteur>Benjamin Galliot</Auteur>
+      <Commentaire>Test LMF-α</Commentaire>
+    </Général>
+    <Langues>
+      <Mlv>
+        <TypeDeCaractères>latin</TypeDeCaractères>
+        <Autoglossonyme>mwotlap</Autoglossonyme>
+        <Glossonyme>mwotlap</Glossonyme>
+        <Statut>source</Statut>
+      </Mlv>
+      <Fra>
+        <TypeDeCaractères>latin</TypeDeCaractères>
+        <Autoglossonyme>français</Autoglossonyme>
+        <Glossonyme>français</Glossonyme>
+        <Statut>cible</Statut>
+      </Fra>
+      <Eng>
+        <TypeDeCaractères>latin</TypeDeCaractères>
+        <Autoglossonyme>English</Autoglossonyme>
+        <Glossonyme>anglais</Glossonyme>
+        <Statut>cible</Statut>
+      </Eng>
+      <Bis>
+        <TypeDeCaractères>latin</TypeDeCaractères>
+        <Autoglossonyme>Bislama</Autoglossonyme>
+        <Glossonyme>bichelamar</Glossonyme>
+        <Statut>cible</Statut>
+      </Bis>
+    </Langues>
+  </InformationsGlobales>
+  <Dictionnaire>
+    <EntréeLexicale identifiant="ⓔbalbe~ⓗ1">
+      <Lemme>
+        <FormeÉcrite>balbe~</FormeÉcrite>
+        <FormeDeCitation>na-balbe~</FormeDeCitation>
+      </Lemme>
+      <NuméroDHomonyme>1</NuméroDHomonyme>
+      <ClasseGrammaticale>n.poss</ClasseGrammaticale>
+      <Sens>
+        <Équivalent langue="fra">empreinte</Équivalent>
+        <Équivalent langue="eng">footprint</Équivalent>
+      </Sens>
+      <Sens identifiant="ⓔbalbe~ⓗ1ⓢ1">
+        <NuméroDeSens>1</NuméroDeSens>
+        <Équivalent langue="fra">semelle ; plante (des pieds)</Équivalent>
+        <Définition>
+          <ReprésentationDeTexte langue="fra">plante des pieds</ReprésentationDeTexte>
+          <Déclaration langue="fra" type="générale">plante des pieds</Déclaration>
+        </Définition>
+        <Équivalent langue="eng">sole</Équivalent>
+        <Définition>
+          <ReprésentationDeTexte langue="eng">sole of the foot</ReprésentationDeTexte>
+        </Définition>
+      </Sens>
+      <Sens identifiant="ⓔbalbe~ⓗ1ⓢ2">
+        <NuméroDeSens>2</NuméroDeSens>
+        <Définition>
+          <ReprésentationDeTexte langue="fra">traces de pas, empreintes</ReprésentationDeTexte>
+        </Définition>
+        <Contexte>
+          <ReprésentationDeTexte langue="mlv">na-balbe qo</ReprésentationDeTexte>
+          <ReprésentationDeTexte langue="fra">les empreintes laissées par le cochon</ReprésentationDeTexte>
+          <ReprésentationDeTexte langue="eng">the footprints of the pig</ReprésentationDeTexte>
+        </Contexte>
+        <RelationSémantique>
+          <Type>synonyme</Type>
+          <Cible>belem</Cible>
+        </RelationSémantique>
+        <Sous-entréeLexicale identifiant="ⓔbalbe~ⓗ1ⓢ2ⓝna-balbe gētē">
+          <Lemme>
+            <FormeÉcrite>na-balbe gētē</FormeÉcrite>
+          </Lemme>
+          <ClasseGrammaticale>nom</ClasseGrammaticale>
+          <Sens>
+            <Équivalent langue="fra">chevron ; motif géométrique</Équivalent>
+            <Définition>
+              <ReprésentationDeTexte langue="fra">empreintes laissées dans le sable par un Bernard-l'Ermite ou pagure (<lien>na-gtē</lien>). Désigne un motif géométrique dans l'art pictural traditionnel, en forme de chevrons tournés vers la gauche (|fb{‹‹})</ReprésentationDeTexte>
+              <TraductionLittérale langue="fra">traces de pagure</TraductionLittérale>
+            </Définition>
+            <Contexte>
+              <ReprésentationDeTexte langue="mlv">Ilil bah no-won̄ey hōw lē-tnan, nok mōk na-balbe gētē.</ReprésentationDeTexte>
+              <Référence>AG3-105</Référence>
+              <ReprésentationDeTexte langue="fra">Après avoir peint un losange au milieu (du masque), j'ajoute une série de chevrons.</ReprésentationDeTexte>
+            </Contexte>
+          </Sens>
+        </Sous-entréeLexicale>
+        <Sous-entréeLexicale identifiant="ⓔbalbe~ⓗ1ⓢ2ⓝna-balbe gētē tekelgi">
+          <Lemme>
+            <FormeÉcrite>na-balbe gētē tekelgi</FormeÉcrite>
+          </Lemme>
+          <ClasseGrammaticale>nom</ClasseGrammaticale>
+          <Sens>
+            <Définition>
+              <ReprésentationDeTexte langue="fra">désigne le même motif géométrique que précédemment, en forme de chevrons tournés vers la droite (|fb{››})</ReprésentationDeTexte>
+              <TraductionLittérale langue="fra">traces de pagure inversées</TraductionLittérale>
+            </Définition>
+          </Sens>
+        </Sous-entréeLexicale>
+        <Sous-entréeLexicale identifiant="ⓔbalbe~ⓗ1ⓢ2ⓝna-balbe tilig">
+          <Lemme>
+            <FormeÉcrite>na-balbe tilig</FormeÉcrite>
+          </Lemme>
+          <ClasseGrammaticale>nom</ClasseGrammaticale>
+          <Sens>
+            <Équivalent langue="fra">motif géométrique ; hachure ; trait</Équivalent>
+            <Définition>
+              <ReprésentationDeTexte langue="fra">désigne un motif géométrique dans l'art traditionnel, en forme de petites rayures horizontales disposées en colonnes</ReprésentationDeTexte>
+              <TraductionLittérale langue="fra">traces de chiton</TraductionLittérale>
+            </Définition>
+          </Sens>
+          <Référence>AG3-106</Référence>
+        </Sous-entréeLexicale>
+        <RelationSémantique>
+          <Type>renvoi</Type>
+          <Cible>vēn̄</Cible>
+        </RelationSémantique>
+      </Sens>
+      <Étymologie>
+        <Étymon>
+          <ReprésentationDeTexte>&lt;°ˌbaleˈba-</ReprésentationDeTexte>
+        </Étymon>
+        <Étymon>
+          <ReprésentationDeTexte>belem</ReprésentationDeTexte>
+          <Langue>ax:Cf.</Langue>
+        </Étymon>
+      </Étymologie>
+    </EntréeLexicale>
+    <EntréeLexicale identifiant="ⓔag">
+      <Lemme>
+        <FormeÉcrite>ag</FormeÉcrite>
+        <FormeDeCitation>n-ag</FormeDeCitation>
+        <FormePhonétique>naɣ</FormePhonétique>
+      </Lemme>
+      <ClasseGrammaticale>nom</ClasseGrammaticale>
+      <Sens>
+        <Définition>
+          <ReprésentationDeTexte langue="eng">k.o. vine</ReprésentationDeTexte>
+        </Définition>
+      </Sens>
+      <Étymologie>
+        <Étymon>
+          <ReprésentationDeTexte>*Raka</ReprésentationDeTexte>
+          <Langue>POc</Langue>
+          <Glose>vine, creeper</Glose>
+        </Étymon>
+      </Étymologie>
+    </EntréeLexicale>
+  </Dictionnaire>
+</RessourceLexicale>
+

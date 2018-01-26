@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 
 from .cœur import *
+from .trieur import *
 from .divers import *
 from .générateurs import *
 from .entrées_sorties import *
-from .tâches import *
+from .linguistique import *

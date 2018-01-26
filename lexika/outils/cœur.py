@@ -2,59 +2,67 @@
 # -*- coding: utf-8 -*-
 
 import lexika.configuration
-import lexika.personnalisation
 import lexika.internationalisation
 import lexika.outils
-import regex
+import logging
 import string
 import yaml
-from pprint import pprint
 
 
 class Configuration:
-    """
-    Classe intimement liée au fichier 'fichier_source' (au format YML) qui lui offre ses différents paramètres comme attributs.
-    """
     def __init__(self, fichier_source):
         self.fichier_source = fichier_source
+        self.variables = {"langues": {}}
 
-        self.statuts_langues = {}
-        with lexika.outils.OuvrirFichier(fichier_source, 'r') as entrée:
-            # Mise à jour des attributs de l'objet en ajoutant des _ pour la compatibilité Python.
-            self.__dict__.update({clef.replace(" ", "_"): valeur if clef != "langues" else {
-                sous_valeur["identifiant"]: {sous_sous_clef.replace(" ", "_"): sous_sous_valeur for
-                                             sous_sous_clef, sous_sous_valeur in sous_valeur.items()
-                                             }
-                for sous_valeur in valeur} for clef, valeur in yaml.safe_load(entrée).items()
-                                  })
-        for langue, informations_langue in self.langues.items():
-            statut = "{} {}".format(informations_langue["statut"], len([clef for clef in self.statuts_langues.keys() if clef.startswith(informations_langue["statut"])]) + 1)
-            self.statuts_langues[statut] = langue
+        with lexika.outils.OuvrirFichier(self.fichier_source, "r", type="interne") as fichier:
+            configuration = yaml.load(fichier)
 
-        self.informations_linguistiques = lexika.configuration.InformationsLinguistiques(self.statuts_langues)
-        informations_linguistiques_personnalisées = lexika.personnalisation.InformationsLinguistiquesPersonnalisées(self.statuts_langues)
-        self.informations_linguistiques.formats_entrée.update(informations_linguistiques_personnalisées.formats_entrée)
-        self.informations_linguistiques.formats_sortie.update(informations_linguistiques_personnalisées.formats_sortie)
+        for clef, élément in configuration.items():
+            self.__dict__.update({clef.replace(" ", "_").replace("’", "ʼ").lower(): élément})
 
-        if self.format_entrée in self.informations_linguistiques.formats_entrée:
-            self.format_entrée = self.informations_linguistiques.formats_entrée[self.format_entrée]
-            self.format_sortie = self.informations_linguistiques.formats_sortie[self.format_sortie]
-            self.modèle_ligne = self.format_entrée["modèle de ligne"]
-            self.balises = self.format_entrée["balises"]
-            self.entités = self.format_sortie["entités"]
-            self.constantes = self.format_sortie["constantes"] if "constantes" in self.format_sortie else None
-            self.entités_à_trier = self.format_sortie["entités à trier"] if "entités à trier" in self.format_sortie else None
-            self.entités_à_extraire = self.format_sortie["entités à extraire"] if "entités à extraire" in self.format_sortie else None
-            self.modèle_renvoi = self.format_sortie["modèle de renvoi"] if "modèle de renvoi" in self.format_sortie else None
-            self.modèle_renvoi_automatique = self.format_entrée["modèle de renvoi automatique"] if "modèle de renvoi automatique" in self.format_entrée else None
-            self.modèle_style = self.format_entrée["modèle de style"] if "modèle de style" in self.format_entrée else None
-            self.entités_à_lier = self.format_sortie["entités à lier"] if "entités à lier" in self.format_sortie else None
-            self.créateur = self.informations_linguistiques.créateurs[self.format_entrée["créateur"]]
+        with lexika.outils.OuvrirFichier("configuration/informations linguistiques.yml", "r", type="interne") as fichier:
+            informations_linguistiques = yaml.load(fichier)
+
+        try:
+            with lexika.outils.OuvrirFichier(self.configuration["chemin source"], "r", type="interne") as fichier:
+                informations_linguistiques_supplémentaires = yaml.load(fichier)
+            for type_format in ["entrée", "sortie"]:
+                if type_format in informations_linguistiques_supplémentaires["formats"]:
+                    for nom_format, informations in informations_linguistiques_supplémentaires["formats"][type_format].items():
+                        for sous_information in ["modèles", "balises", "abstractions", "identifiants", "abréviations"]:
+                            if informations.get(sous_information):
+                                informations[sous_information] = {**informations_linguistiques["formats"][type_format][informations["parent"]][sous_information], **informations[sous_information]}
+                        informations_linguistiques["formats"][type_format].update(informations_linguistiques_supplémentaires["formats"][type_format])
+        except KeyError as exception:
+            logging.critical(_(f"Erreur dans le format de surdéfinition : clef de dictionnaire inconnue."))
+            raise exception
+
+        if self.base["format d’entrée"] not in informations_linguistiques["formats"]["entrée"]:
+            logging.critical(_(f"Format d’entrée « {self.base['format d’entrée']} » non pris en charge."))
+            raise Exception
+        elif self.base["format de sortie"] not in informations_linguistiques["formats"]["sortie"]:
+            logging.critical(_(f"Format de sortie « {self.base['format de sortie']} » non pris en charge."))
+            raise Exception
         else:
-            raise Exception("Format « {} » non pris en charge.".format(self.format_entrée))
+            self.informations_entrée = informations_linguistiques["formats"]["entrée"][self.base["format d’entrée"]]
+            self.informations_sortie = informations_linguistiques["formats"]["sortie"][self.base["format de sortie"]]
 
-    def récupérer_contenu_objet(self):
-        return {clef.lstrip("_"): valeur for clef, valeur in self.__dict__.items()}
+            for langue, informations_langue in self.langues.items():
+                statut = "{} {}".format(informations_langue["statut"], len([clef for clef in self.variables["langues"].keys() if clef.startswith(informations_langue["statut"])]) + 1)
+                self.variables["langues"][statut] = langue
+
+            self.remplacer_variables_structures(informations_linguistiques)
+        
+    def remplacer_variables_structures(self, structure, parent=None):
+        if isinstance(structure, dict):
+            for clef, élément in structure.items():
+                self.remplacer_variables_structures(élément, clef)
+                if parent == "caractéristiques" and clef == "langue":
+                    if élément in self.variables["langues"]:
+                        structure[clef] = self.variables["langues"][élément]
+        elif isinstance(structure, list):
+            for élément in structure:
+                    self.remplacer_variables_structures(élément)
 
 
 class Traducteur:
@@ -77,46 +85,8 @@ class Traducteur:
             return self.dictionnaire_général[expression]
         else:
             return expression
-
-
-class Trieur:
-    def __init__(self, données):
-        self.données = données
-        self.ordre_lexicographique = None
-        self.sous_ordre_lexicographique = None
-        self.ordre_numérique = {str(chiffre): chiffre for chiffre in range(10)}
-        self.expression_rationnelle_tri_entités = None
-        self.expression_rationnelle_sous_tri_entités = None
-        self.initialiser()
-
-    def initialiser(self):
-        valeurs = {}
-        valeurs_auxiliaires = {}
-        for index, élément in enumerate(self.données):
-            if isinstance(élément, str):
-                valeurs[élément] = index
-            elif isinstance(élément, list):
-                for sous_index, sous_élément in enumerate(élément):
-                    valeurs[sous_élément] = index
-                    valeurs_auxiliaires[sous_élément] = sous_index
-        self.ordre_lexicographique = valeurs
-        self.sous_ordre_lexicographique = valeurs_auxiliaires
-        regex.compile(r"{}".format("|".join(sorted(self.ordre_lexicographique, key=lambda mot: len(mot), reverse=True))), flags=regex.IGNORECASE) if self.ordre_lexicographique else None
-        self.expression_rationnelle_tri_entités = regex.compile(r"{}".format("|".join(sorted(self.ordre_lexicographique, key=lambda mot: len(mot), reverse=True))), flags=regex.IGNORECASE)
-        self.expression_rationnelle_sous_tri_entités = regex.compile(r"{}".format("|".join(sorted(self.sous_ordre_lexicographique, key=lambda mot: len(mot), reverse=True))), flags=regex.IGNORECASE)
-        self.expression_rationnelle_tri_numérique = regex.compile(r"\d")
-
-    def trier_entités(self, expression):
-        if self.expression_rationnelle_tri_entités:
-            résultat_primaire = [valeurs[1] for valeurs in [(syllabe, self.ordre_lexicographique[syllabe.lower()]) for syllabe in self.expression_rationnelle_tri_entités.findall(expression) if syllabe.lower() in self.ordre_lexicographique]]
-            résultat_secondaire = [valeurs[1] for valeurs in [(syllabe, self.sous_ordre_lexicographique[syllabe.lower()]) for syllabe in self.expression_rationnelle_sous_tri_entités.findall(expression) if syllabe.lower() in self.ordre_lexicographique]]
-            résultat_tertiaire = [0 if syllabe.islower() else 1 for syllabe in self.expression_rationnelle_tri_entités.findall(expression) if syllabe.lower() in self.ordre_lexicographique]
-            résultat_quaternaire = [valeurs[1] for valeurs in [(chiffre, self.ordre_numérique[chiffre]) for chiffre in self.expression_rationnelle_tri_numérique.findall(expression)]]
-        else:
-            résultat_primaire = expression
-            résultat_secondaire = résultat_tertiaire = résultat_quaternaire = None
-        return résultat_primaire, résultat_secondaire, résultat_tertiaire, résultat_quaternaire
-
+    
 
 class Gabarit(string.Template):
     delimiter = "�"
+    
