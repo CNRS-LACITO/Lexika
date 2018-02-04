@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-from pprint import pprint
 import copy
+import lxml.etree
 from typing import Union
 import regex
 
@@ -85,7 +85,7 @@ class ConvertisseurDeTexteEnrichi:
         """
         Convertit un texte enrichi en XML (styles et liens).
         """
-        return self.convertir_styles(self.convertir_liens(self.modifier_caractères(texte)))
+        return self.convertir_styles(self.convertir_liens(texte))
     
     def convertir_liens(self,  texte: str) -> str:
         """
@@ -127,15 +127,6 @@ class ConvertisseurDeTexteEnrichi:
         else:
             résultat = f"<lien>{bilan.group('entrée')}</lien>"
         return résultat
-    
-    def modifier_caractères(self, texte):
-        """
-        Remplace les caractères interdits en XML.
-        """
-        caractères = [("<", "&lt;"), (">", "&gt;"), ("&", "&amp;"), ('"', "&quot;"), ("'", "&apos;")]
-        for caractère_interdit, caractère_remplacement in caractères:
-            texte = texte.replace(caractère_interdit, caractère_remplacement)
-        return texte
 
         
 class ConvertisseurDʼAbréviations:

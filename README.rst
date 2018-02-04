@@ -1,3 +1,5 @@
-Bibliothèqe logicielle Lexika. Créé comme projet personnel comme défi de faire une alternative à pylmflib en Python 3 avec un code pythonique et très flexible...
+Lexika, logiciel libre multilingue et multiplateforme (développée en Python 3) et à interface graphique (développée en PyQt 5), lequel permet à un linguiste de convertir des fichiers lexicaux peu structurés (comme le format MDF de Shoebox/Toolbox) vers différents formats XML configurables pivots (dont le standard LMF, en cours de révision), lesquels pourront ensuite être convertis par transformation XSL vers Latex (fichiers PDF publiables) et HTML (consultables en ligne). Lexika a été conçu comme une architecture logicielle abstraite, souple et personnalisable, permettant de considérer tous les éléments linguistiques (de l’entrée lexicale à la langue d’une note discursive) comme des entités labiles multiparamétrées pouvant être incluses dans d’autres, gérant le polymorphisme, l’identification hiérarchique, les formes apparentées par expressions rationnelles, les tris lexicographiques complexes et multiniveaux, etc., ce qui permet la conversion vers de nombreux formats structurés (dont le standard TEI).
 
-Licence non compatible logiciel libre : c'est libre mais il est interdit de changer la langue (le français).
+Actuellement en travaux…
+
+Licence libre, mais il est interdit de changer la langue (le français dans sa version « la plus libre » avant les dégradations informatiques).

@@ -4,7 +4,7 @@
 import lexika.outils
 import os
 import math
-from pprint import pprint
+
 
 class Lecteur:
     def __init__(self, chemin_accès):
@@ -19,7 +19,10 @@ class Lecteur:
         with lexika.outils.OuvrirFichier(self.chemin_accès, 'r') as entrée:
             for index, ligne in enumerate(entrée.readlines(), 1):
                 if ligne not in [os.linesep, ""]:
-                    self.données.append({"index": index, "ligne": ligne.strip()})
+                    if ligne.startswith("\\"):
+                        self.données.append({"index": index, "ligne": ligne.strip()})
+                    else:
+                        self.données[-1]["ligne"] = f"{self.données[-1]['ligne'].strip()} {ligne.strip()}"
                 if balise_bloc and ligne.startswith(balise_bloc):
                     self.positions_blocs.append(len(self.données) - 1)
                     

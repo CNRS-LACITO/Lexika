@@ -9,7 +9,8 @@ général:
   nom: Essai d’un dictionnaire
   auteur: Alexandre François
   commentaire: LMF-α
-  ordre lexicographique: [a, b, d, e, ē, g, h, i, k, l, m, m̄, n, [̄n, n̄], o, ō, q, r, s, t, u, v, w, y]
+  ordre lexicographique:
+      - [a, b, d, e, ē, g, h, i, k, l, m, m̄, n, [̄n, n̄], o, ō, q, r, s, t, u, v, w, y]
 langues:
   mlv:
       type de caractères: latin

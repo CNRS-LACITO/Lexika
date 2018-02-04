@@ -408,13 +408,13 @@ customary possessions etc. (fv:enaka*), with a 3 dual possessor
 \xn their areca nut (for them to chew)
 \rf
 \xv ngaten' ada
-\xn their food/their *affaires*
+\xn their food, their belongings
 \lf
 \el
 \nt
 \nq
 \dc 08/Jun/2005
-\dt 24/Jul/2016
+\dt 31/Dec/2017
 
 \lx ada
 \hm 2
@@ -447,8 +447,8 @@ with a 3 dual possessor (fl:see fv:da)
 \ge
 \gn Food:3pl
 \rn their
-\dn their: form of the possessive classifier used for food, tools, customary
-possessions etc. (|fv{enaka}*), with a 3 dual possessor (fl:see fv:da)
+\dn their: form of the possessive classifier used for food, tools, customary possessions etc. (|fv{enaka}*), with a 3 plural
+possessor (fl:see fv:dapa)
 \rf
 \xv avtebe me vongoro adapa
 \xn their taro and almonds
@@ -469,7 +469,7 @@ possessions etc. (|fv{enaka}*), with a 3 dual possessor (fl:see fv:da)
 \nt
 \nq
 \dc 08/Jun/2005
-\dt 20/Jul/2017
+\dt 31/Dec/2017
 
 \lx adapa
 \hm 2
@@ -2959,6 +2959,34 @@ with betel leaves (|fv{puluko})
 \dc 28/Feb/2010
 \dt 12/May/2012
 
+\lx bali
+\ph ᵐbali
+\ps n
+\gr
+\sn 1
+\ge
+\gn pole
+\hn gen
+\dn bamboo pole
+\sd Archi
+\so AF-DG1-23a
+\se bali peini telemoe
+\ps n
+\ll pole for walls
+\dn plinth: bamboo pole lying at the base of a house walling, to maintain it
+\lf
+\sn 2
+\hn esp
+\uv
+\dn section of horizontal purlins overhanging the roof; eaves
+\so AF-DG1-23a
+\sd
+\el
+\nt
+\nq
+\dc 29/Dec/2017
+\dt 31/Dec/2017
+
 \lx bamele
 \ph ᵐbamele
 \ps n
@@ -3171,11 +3199,12 @@ criticised by some speakers, for whom fv:Banie should be restricted to a single 
 \de sablière: poutre horizontale posée sur les piliers, et soutenant la charpente du toit
 \gn stringpiece
 \ll head of timber
-\dn tie-beam: horizontal beam resting on posts (|fv{iutego}, |fv{digo}), and supporting the roof structure. A house has
-two such beams, one on each side of the roof
+\dn tie-beam: horizontal beam resting on posts (|fv{iutego}, |fv{digo}), and supporting the roof structure
 \sd Archi
 \so AF-DG1-23a
 \rf
+\un
+\en A house has two such beams, one on each side of the roof.
 \lf Cf.
 \lv pumene
 \lv womoe
@@ -3183,7 +3212,7 @@ two such beams, one on each side of the roof
 \nt
 \nq
 \dc 16/Oct/2017
-\dt 17/Oct/2017
+\dt 30/Dec/2017
 
 \lx basakulumoe
 \ph ᵐbasakulumoe
@@ -4875,6 +4904,26 @@ bamboos
 \dc 19/Nov/2009
 \dt 24/Jul/2016
 
+\lx busumoe
+\ph ᵐbusumoe
+\ps n
+\gr
+\ge faîte
+\gn ridge
+\dn ridge flashing: section of roof thatch placed on the ridgepole
+\sd Archi
+\so AF-DG1-23a
+\rf
+\lf Cf.
+\lv pumene
+\ln ridgepole
+\url http://panels.kingspan.in/Ridge-Details-13391.html
+\el
+\nt
+\nq
+\dc 29/Dec/2017
+\dt 30/Dec/2017
+
 \lx bute
 \ph ᵐbute
 \ps n
@@ -5873,6 +5922,25 @@ meliko viñevi} ‘female children, |fl{i.e.} girls’.
 \dc 15/Oct/2017
 \dt 15/Oct/2017
 
+\lx dienebe
+\ph ⁿdieneᵐbe
+\ps n
+\gr
+\ge poutre
+\gn purlin
+\dn light horizontal purlin in the roof structure
+\sd Archi
+\so AF-DG1-23a
+\rf
+\un
+\en This generic term for light purlins contrasts with terms for specific beams with a stronger supporting role, |fl{e.g.} |fv{basadigo}
+‘tie-beam’, |fv{womoe} ‘main purlin’, |fv{pumene} ‘ridgepole’. Purlins support rafters (|fv{lo}).
+\lf
+\el
+\nt
+\dc 15/Oct/2017
+\dt 30/Dec/2017
+
 \lx digo
 \ph ⁿdiᵑgo
 \ps n
@@ -5881,6 +5949,7 @@ meliko viñevi} ‘female children, |fl{i.e.} girls’.
 \gn post
 \dn vertical post holding the walling of a house (|fv{tele moe}), and supporting a tie-beam (|fv{basadigo}).
 \sd Archi
+\so AF-DG1-23a
 \rf Toplau.78
 \xv Li-toe iuro, ae, digo, we uña ngatene nga pon, peini kape le-vo.
 \xn They made pillars, beams, and all the pieces so they could build [the house].
@@ -5890,7 +5959,7 @@ meliko viñevi} ‘female children, |fl{i.e.} girls’.
 \el
 \nt
 \dc 15/Oct/2017
-\dt 17/Oct/2017
+\dt 30/Dec/2017
 
 \lx dingobe
 \hm 1
@@ -6529,17 +6598,80 @@ flower (fv:ebieve1).
 
 \lx emele
 \ph emele
+\wr A
 \ps n
-\gr
-\ge
+\gr woman
+\ge femme
 \gn woman
-\dn
+\dn woman
+\pl (da) viñevi
+\lf Ant.
+\lv mwalikote
+\sn 1
+\hn
+\uv anim., hum
+\dn female; girl, woman
 \rf
+\xv Emele, we mwalkote?
+\on baby
+\xn Is it a girl, or a boy?
+\rf
+\xv emele aplaka
+\xn small girl
+\rf
+\xv emele damala
+\xn a Western woman
+\rf DP1-32a
+\xv U-le u-wasu emele re u-min' ene!
+\xn Please go and connect me with that girl!
+\sn 2
+\wn espec. with possessor
+\dn wife
+\rf
+\xv emel’ enone
+\xn my wife
+\rf
+\xv mwaliko iote da emel’ iape
+\xn a man and his wife
+\rf
+\xv i-kila* emele
+\xn [|ax{lit.} he is following a woman] he is married
+\rf
+\xv dapa po li-kila emele
+\xn those (men) who are married
+\rf
+\xv Ni-kila emele pe Tetevo.
+\xn I married a woman from Utupua.
+\lf
+\se
+\ps adj
+\wr B
+\sn 1
+\wn attribute to another noun
+\uv animal, hum
+\dn female: used to specify the gender of an ambiguous noun
+\rf
+\xv pwoi emele
+\xn a sow [a female swine]
+\rf
+\xv leka emele
+\xn female cousin
+\rf
+\xv menu emele ie teliki
+\xn the chief’s daughter [ax:lit. female child]
+\lf
+\sn 2
+\hn rare
+\uv plant
+\dn female, fertile variety of certain plants
+\rf
+\xv tenubopu emele
+\xn 'female' pawpaw (carrying fruit)
 \lf
 \el
 \nt
-\dc
-\dt 11/May/2012
+\dc 05/Jan/2018
+\dt 08/Jan/2018
 
 \lx enaka
 \ph enaka
@@ -8545,6 +8677,7 @@ distant or invisible person in the bush
 \gn pillar
 \dn forked pillar standing in each corner of the house, holding the framing of the roof
 \sd Archi
+\so AF-DG1-23a
 \rf
 \un
 \en This pillar holds more weight than the secondary |fv{digo} ‘vertical post’.
@@ -8554,12 +8687,13 @@ distant or invisible person in the bush
 \gr
 \ll pillars for floor
 \dn stilts, supporting the floor structure (|fv{tokoli}) in a stilt house
+\sd Archi
 \so AF-DG1-23a
 \nt
 \el
 \nt
 \dc 15/Oct/2017
-\dt 19/Oct/2017
+\dt 30/Dec/2017
 
 \lx ive
 \ph ive
@@ -11831,17 +11965,20 @@ each other strictly.
 \ge chevron
 \de chevron: poutre légère descendant du faîtage (|fv{pumene}) jusqu'aux sablières (|fv{basadigo}), et constituant la charpente du toit
 \gn rafter
-\dn thatch rafter: light beam extending from the ridgepole (|fv{pumene}) down to the tie-beam (|fv{basadigo}),
-forming the roof structure
+\dn rafter: light beam extending from the ridgepole (|fv{pumene}) down to the tie-beam (|fv{basadigo}), forming the
+roof structure
 \sd Archi
 \so AF-DG1-23a
 \rf
+\un
+\en There are about ten rafters on each side of the roof. They rest on purlins (|fv{dienebe},|fv{womoe}), and in turn support the sago
+thatch (|fv{sodo otovo}).
 \lf
 \el
 \nt
 \nq
 \dc 16/Oct/2017
-\dt 27/Oct/2017
+\dt 30/Dec/2017
 
 \lx loko
 \hm 1
@@ -13374,7 +13511,7 @@ Scientific American etc.
 \xm mata pele iono pine tamwase, u-la po mata wamtaka mijaka.
 \rf
 \xv mata* ruene
-\xn opening of doorway, doorway
+\xn opening of door, doorway
 \lf Cf.
 \lv moboe
 \ln hole
@@ -13393,7 +13530,7 @@ Scientific American etc.
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 24/Jul/2016
+\dt 31/Dec/2017
 
 \lx mata
 \hm 2
@@ -13598,19 +13735,35 @@ Scientific American etc.
 \dc
 \dt 12/May/2012
 
-\lx matarone
-\ph matarone
-\ps
+\lx mataruene
+\ph mataruene
+\ps n
+\va matarone
 \gr
-\ge
-\gn
-\dn
+\ge entrée
+\gn entrance
+\dn doorway: entrance of a house, where the door (|fv{ruene}) stands; |fl{somet.} door
+\sd Archi
+\so AF-DG1-23a
+\rf q.Body.023
+\xv Ni-woi tanoma ene ne matarone.
+\xn I banged my forehead on the door.
+\rf Mwasu.059
+\xv Ba-te ne mataruene pon.
+\xn We'll stay in the doorway.
+\mr mata|hm{1} + ruene
+\se aero ne matarone
+\ps n
+\gn threshold
+\ll limit of the doorway
+\dn threshold
+\sd Archi
+\so AF-DG1-23a
 \rf
-\lf
 \el
 \nt
-\dc
-\dt
+\dc 31/Dec/2017
+\dt 31/Dec/2017
 
 \lx mate
 \ph mate
@@ -14560,17 +14713,85 @@ in the middle.
 
 \lx moe
 \ph moe
-\ps
+\ps n
+\va mwoe
 \gr
-\ge
-\gn
-\dn
+\ge maison
+\gn house
+\sn 1
+\dn house: |fl{tradit.} wooden construction with bamboo wallings and sago thatch
 \rf
+\xv li-vo mwoe
+\xn build a house
+\rf DP1-10a
+\xv ebele moe
+\xn the structure of the house
+\rf q.Wud.068
+\xv telemwoe peini mwoe
+\xn house wallings
+\rf
+\xv ne lema moe
+\xn inside the house
+\rf
+\xv ne pwa moe
+\xn underneath the house
+\rf
+\xv ne mata moe
+\xn in the frontyard
+\rf DP1-20a
+\xv Pi-wete otovo pi-ko pe-songai moe.
+\xn We are making the roofing to repair our house.
+\rf
+\xv moe pe li-apinu ene
+\xn [the house they cook in] cooking house, separate kitchen
+\rf
+\xv
+\ta §TIT§ £ |{tab}|fb{Parts of a house}   [|vl{moe}*]
+|{tab}|fv{mata moe}   |{tab}|fs{frontyard}
+|{tab}|fv{mataruene}   |{tab}|fs{doorway, entrance}
+|{tab}|fv{ruene}   |{tab}|fs{door}
+|{tab}|fv{telemoe}   |{tab}|fs{wall, walling}
+|{tab}|fv{tokoli}   |{tab}|fs{raised-floor structure}
+|{tab}|fv{tapaia buioe}   |{tab}|fs{floor}
+|{tab}|fv{pwa tokoli}   |{tab}|fs{space under stilt house}
+|{tab}|fv{ebele moe}   |{tab}|fs{structure of a house}
+|{tab}|fv{nengele moe}*   |{tab}|fs{components of a house}
+
+\tab house
+\tin Parts of a house
+\tiv moe
+\con <groupe><phraseme>mata moe</phraseme> <trada>frontyard</trada></groupe>
+<groupe><phraseme>mataruene</phraseme> <trada>doorway, entrance</trada></groupe>
+<groupe><phraseme>ruene</phraseme> <trada>door</trada></groupe>
+<groupe><phraseme>telemoe</phraseme> <trada>wall, walling</trada></groupe>
+<groupe><phraseme>tokoli</phraseme> <trada>raised-floor structure</trada></groupe>
+<groupe><phraseme>tapaia buioe</phraseme> <trada>floor</trada></groupe>
+<groupe><phraseme>pwa tokoli</phraseme> <trada>space under stilted house</trada></groupe>
+<groupe><phraseme>ebele moe</phraseme> <trada>structure of a house</trada></groupe>
+<groupe><phraseme>nengele moe</phraseme>* <trada>components of a house</trada></groupe>
+\rft timbers
+\sn 2
+\hn gen
+\dn structure or place analogous to a house, in its shape or its function
+\sd
+\rf Lap-BenTua.005
+\xv Tepuke ponu, kuo pine; moe aplaka pon, ne pongo kuo pon.
+\xn The ‘tepuke’ ship is a large canoe; it has a small cabin, on top of the ship.
+\rf
+\xv mwoe* etapu
+\xn [holy house] church
+\rf
+\xv moe* ma tadoe
+\xn the lair of Spirits
+\rf q.Pijin.018
+\xv mwoe ie telupe
+\xn a pigeon’s nest
 \lf
-\el
+\el POc
+\et *Rumaq
 \nt
-\dc
-\dt
+\dc 31/Dec/2017
+\dt 01/Jan/2018
 
 \lx moe ma tadoe
 \ph moe ma taⁿdoe
@@ -14793,20 +15014,6 @@ haphazardly
 
 \lx moloe
 \ph moloe
-\ps
-\gr
-\ge
-\gn
-\dn
-\rf
-\lf
-\el
-\nt
-\dc
-\dt
-
-\lx moloe'
-\ph moloe'
 \ps
 \gr
 \ge
@@ -16070,9 +16277,6 @@ way
 \gn parts
 \sn 1
 \dn components, pieces, parts of a bigger whole
-\rf
-\xv nengele moe
-\xn the components (timbers) of a house
 \rf DP1-20b
 \xv nengele kuo
 \xn the elements of a canoe
@@ -16080,6 +16284,42 @@ way
 \xv Kape le-toe langasuo peini, ka nengele wamitaka.
 \on canoe
 \xn You cut out the big rail, and then the smaller pieces.
+\se nengele moe
+\ps n
+\ll elements of house
+\dn the various structural components of a house and its roof
+\sd Archi
+\ta §TIT§ £ |{tab}|fb{Elements in a house structure}   [|vl{nengele moe}*]
+|{tab}|fv{bali}   |{tab}|{tab}|fs{overhanging pole, eaves}
+|{tab}|fv{iuro}   |{tab}|{tab}|fs{main central pillar}
+|{tab}|fv{iutego}   |{tab}|{tab}|fs{corner pillar}
+|{tab}|fv{digo}   |{tab}|{tab}|fs{secondary pillar}
+|{tab}|fv{basadigo}   |{tab}|fs{tie-beam}
+|{tab}|fv{(sodo) otovo}   |{tab}|fs{sago thatch roof}
+|{tab}|fv{womoe}   |{tab}|{tab}|fs{main purlin}
+|{tab}|fv{dienebe}   |{tab}|{tab}|fs{light purlin}
+|{tab}|fv{lo}   |{tab}|{tab}|fs{rafter}
+|{tab}|fv{pumene}   |{tab}|fs{ridgepole}
+|{tab}|fv{pumene aplaka}|{tab}|fs{secondary ridgepole}
+|{tab}|fv{busumoe}   |{tab}|fs{ridge-flashing}
+
+\tab timbers
+\tin Elements in a house structure
+\tiv nengele moe
+\con <groupe><phraseme>bali</phraseme> <trada>overhanging pole, eaves</trada></groupe>
+<groupe><phraseme>bali peini telemoe</phraseme> <trada>plinth pole</trada></groupe>
+<groupe><phraseme>iuro</phraseme> <trada>main central pillar</trada></groupe>
+<groupe><phraseme>iutego</phraseme> <trada>corner pillar</trada></groupe>
+<groupe><phraseme>digo</phraseme> <trada>secondary pillar</trada></groupe>
+<groupe><phraseme>basadigo</phraseme> <trada>tie-beam</trada></groupe>
+<groupe><phraseme>(sodo) otovo</phraseme> <trada>sago thatch roof</trada></groupe>
+<groupe><phraseme>womoe</phraseme> <trada>main purlin</trada></groupe>
+<groupe><phraseme>dienebe</phraseme> <trada>light purlin</trada></groupe>
+<groupe><phraseme>lo</phraseme> <trada>rafter</trada></groupe>
+<groupe><phraseme>pumene</phraseme> <trada>ridgepole</trada></groupe>
+<groupe><phraseme>pumene aplaka</phraseme> <trada>secondary ridgepole</trada></groupe>
+<groupe><phraseme>busumoe</phraseme> <trada>ridge-flashing</trada></groupe>
+\rft house
 \sn 2
 \uv body
 \dn parts, limbs
@@ -16097,7 +16337,7 @@ dances (instruments, jumping boards+)
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 17/Jul/2016
+\dt 01/Jan/2018
 
 \lx netebe
 \ph neteᵐbe
@@ -17635,6 +17875,9 @@ sheaths
 \xv li-wete otovo
 \xn [ax:lit. pin sago] put together a set of sago leaves, in preparing the roofing
 (|ax{see} |vl{wete}*)
+\rf
+\xv sodo* otovo
+\xn thatch of sago leaves
 \lf Syn.
 \lv uie otovo
 \ln sago leaves
@@ -17655,7 +17898,7 @@ sheaths
 \nt
 \nq
 \dc 20/Feb/2010
-\dt 12/May/2012
+\dt 31/Dec/2017
 
 \lx ou
 \ph ou
@@ -18485,6 +18728,34 @@ or female (SC, DC+)
 \dc
 \dt
 
+\lx pumene
+\ph pumene
+\ps n
+\gr
+\ge faîtage
+\gn ridgepole
+\dn ridgepole
+\sd Archi
+\so AF-DG1-23a
+\rf
+\lf Cf.
+\lv busumoe
+\se pumene aplaka
+\ps n
+\gr
+\ge surfaîtage
+\gn
+\ll small ridgepole
+\dn light purlin, placed above rafters, where the ridge flashing (|fv{busumoe}) sits
+\sd Archi
+\so AF-DG1-23a
+\rf
+\el
+\nt
+\nq
+\dc 29/Dec/2017
+\dt 30/Dec/2017
+
 \lx punuo
 \ph punuo
 \ps
@@ -18560,16 +18831,22 @@ forceful recruiting of manpower from Vanikoro and other islands.
 \ph puro
 \ps n
 \gr
-\ge
+\ge flèche
 \gn arrow
-\dn
-\rf
+\dn arrow, dart, formerly used in warfare
+\rf Pae
 \xv Puro, li-bo vilo korone, li-ejau i-vio ne viapwene.
-\lf
+\xn To make an arrow, you sharpen a piece of strong wood, and insert it into a reed shaft.
+\rf Mwasu.129
+\xv Tabuluburi, tonge iote pine pe li-loko puro i-koie ene.
+\xn A quiver is a long basket were you can insert your arrows.
+\lf Cf.
+\lv visone
+\ln bow
 \el
 \nt
-\dc
-\dt 17/Jul/2017
+\dc 17/Jul/2017
+\dt 31/Dec/2017
 
 \lx pusi
 \ph pusi
@@ -18604,7 +18881,7 @@ forceful recruiting of manpower from Vanikoro and other islands.
 \gr
 \ge sous-plancher
 \gn underfloor
-\dn space under the main platform in a stilt house
+\dn empty space under the raised floor platform (|fv{tokoli}) of a stilt house
 \sd Archi
 \so AF-DG1-23a
 \rf
@@ -18613,7 +18890,7 @@ forceful recruiting of manpower from Vanikoro and other islands.
 \nt
 \nq
 \dc 27/Oct/2017
-\dt 27/Oct/2017
+\dt 30/Dec/2017
 
 \lx pwalau
 \ph pʷalau
@@ -18823,18 +19100,18 @@ daily basis (fl:vs. fv:ngamuli ‘ocean’)
 \xv Kape le-loko ajekele le-iui ne revo.
 \xn They're going to gather rubbish and throw it in the sea.
 \ta §TIT§ |{tab}|fb{Words of the sea}   [|vl{revo}*]
-|{tab}|fv{revo}   |{tab}|{tab}|fs{sea; sea water}
+|{tab}|fv{revo}   |{tab}|{tab}|{tab}|fs{sea; sea water}
 |{tab}|fv{revo i-kopine}   |{tab}|{tab}|fs{high tide}
 |{tab}|fv{revo i-ma}   |{tab}|{tab}|fs{low tide}
-|{tab}|fv{ole}     |{tab}|{tab}|fs{beach, sand}
-|{tab}|fv{touro}   |{tab}|{tab}|fs{reef}
-|{tab}|fv{toloto}   |{tab}|{tab}|fs{lagoon}
-|{tab}|fv{waiero}   |{tab}|{tab}|fs{surf, wave}
+|{tab}|fv{ole}     |{tab}|{tab}|{tab}|fs{beach, sand}
+|{tab}|fv{touro}   |{tab}|{tab}|{tab}|fs{reef}
+|{tab}|fv{toloto}   |{tab}|{tab}|{tab}|fs{lagoon}
+|{tab}|fv{waiero}   |{tab}|{tab}|{tab}|fs{surf, wave}
 |{tab}|fv{waiero peini vono}   |{tab}|fs{tidal wave}
 |{tab}|fv{pwa motono}   |{tab}|{tab}|fs{underwater}
 |{tab}|fv{ngamuli}   |{tab}|{tab}|fs{ocean, open sea}
-|{tab}|fv{vilisa revo}   |{tab}|fs{sea spray}
-|{tab}|fv{kidisa revo}   |{tab}|fs{salt}
+|{tab}|fv{vilisa revo}   |{tab}|{tab}|fs{sea spray}
+|{tab}|fv{kidisa revo}   |{tab}|{tab}|fs{salt}
 |{tab}|fv{vioe peini revo}   |{tab}|fs{sea foam}
 \tab carry
 \tin Words for the sea
@@ -18893,7 +19170,7 @@ oven.
 \el
 \nt
 \dc 12/May/2012
-\dt 26/Mar/2017
+\dt 31/Dec/2017
 
 \lx ro
 \ph ro
@@ -18970,17 +19247,27 @@ oven.
 
 \lx ruene
 \ph ruene
-\ps
+\ps n
 \gr
-\ge
-\gn
-\dn
+\ge porte
+\gn door
+\dn door of a house
 \rf
-\lf
+\xv aña ruene
+\xn the noise of the door
+\rf Hell-Door.12
+\xv Ka li-ko ruene, ka li-tabo li-bono.
+\xn They open the door, and then shut it again.
+\rf Mwasu.057
+\xv U-ko ruene me ne-ke ne-te ne pwa ruene ponu!
+\xn Open that (trap) door so I can hide underneath!
+\lf Cf.
+\lv mataruene
+\ln entrance
 \el
 \nt
-\dc
-\dt
+\dc 30/Dec/2017
+\dt 31/Dec/2017
 
 \lx sa
 \ph sa
@@ -19494,7 +19781,30 @@ kava.
 \dt 12/May/2012
 
 \lx sodo
+\hm 1
 \ph soⁿdo
+\ps n
+\gr
+\ge toiture
+\gn thatch
+\dn roof thatch
+\rf
+\se sodo otovo
+\ps n
+\gr
+\ll thatch of sago
+\dn roof covering made of sago leaves (|fv{otovo})
+\sd Archi
+\so AF-DG1-23a
+\lf
+\el
+\nt
+\dc 30/Dec/2017
+\dt 30/Dec/2017
+
+\lx ~sodo
+\hm 2
+\ph (i·)soⁿdo
 \ps
 \gr
 \ge
@@ -19504,8 +19814,8 @@ kava.
 \lf
 \el
 \nt
-\dc
-\dt 12/May/2012
+\dc 30/Dec/2017
+\dt 30/Dec/2017
 
 \lx somoli
 \ph somoli
@@ -20098,6 +20408,24 @@ except that it does not take verbal prefixes.
 \dc
 \dt 17/Jul/2017
 
+\lx tabuluburi
+\ph taᵐbuluᵐburi
+\ps n
+\gr
+\ge carquois
+\gn quiver
+\dn quiver, container used for storing arrows during hunting or warfare
+\rf Mwasu.129
+\xv Tabuluburi, tonge iote pine pe li-loko puro i-koie ene.
+\xn A quiver is a long basket were you can insert your arrows.
+\rf
+\lf
+\el
+\nt
+\nq
+\dc 31/Dec/2017
+\dt 31/Dec/2017
+
 \lx tadoe
 \ph taⁿdoe
 \wr A
@@ -20580,6 +20908,26 @@ when they are not fit for human consumption and belong to the forest
 \nt
 \dc
 \dt 12/May/2012
+
+\lx tapaia buioe
+\ph tapaja ᵐbujoe
+\ps n
+\gr
+\ge parquet
+\gn floor
+\de parquet de lattes
+\dn floor of wooden slats, made of areca wood (|fv{buioe})
+\sd Archi
+\so AF-DG1-23b
+\rf
+\un
+\en The wooden floor rests on the platform structure (|fv{tokoli}) of a stilt house.
+\lf
+\el
+\nt
+\nq
+\dc 30/Dec/2017
+\dt 30/Dec/2017
 
 \lx tatawoe
 \ph tatawoe
@@ -21281,26 +21629,6 @@ incl. fv:tekumete2
 \dt
 
 \lx tele
-\hm 1
-\ph tele
-\ps n
-\gr
-\ge paroi
-\gn wall
-\dn walls of a house, fl:tradit. made of plaited bamboo
-\nq check !!!
-\rf cf. DP1-20a
-\xv Li-wete otovo awoiu pon li-ejau tele moe.
-\xn Once the thatch is finished, we make the house walls.
-\lf
-\el
-\nt
-\nq
-\dc 17/Nov/2009
-\dt 24/Jul/2016
-
-\lx tele
-\hm 2
 \ph tele
 \ps n
 \gr oel
@@ -21318,7 +21646,34 @@ incl. fv:tekumete2
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 24/Jul/2016
+\dt 31/Dec/2017
+
+\lx telemoe
+\ph telemoe
+\ps n
+\va telemwoe
+\gr woling
+\ge paroi
+\gn walling
+\dn walls of a house (|fv{moe} ~ |fv{mwoe}), fl:tradit. made of plaited bamboo
+\nq check !!!
+\sd Archi
+\rf
+\rm cf. DP1-20a
+\xm Li-wete otovo awoiu pon li-ejau telemoe.
+\xb Once the thatch is finished, we make the house walls.
+\rf AF-DG1-23a
+\xv bali peini telemoe
+\xn pole lying at the base of a house walling, plinth
+\rf q.Wud.068
+\xv Li-panade okoro awoiu li-si telemwoe peini mwoe.
+\xn You split the bamboos, and then you make the wallings of your house.
+\lf
+\el
+\nt
+\nq
+\dc 17/Nov/2009
+\dt 31/Dec/2017
 
 \lx telepakau
 \ph telepakau
@@ -22661,15 +23016,14 @@ semi-circle.
 \xn tie-beams supporting the floor structure
 \rf
 \xv pwa* tokoli
-\xn space under a house
-\lf Cf.
-\lv tapaia buioe
-\ln wooden floor
+\xn empty space under a house
+\un
+\en The platform supports a floor of wooden slats (|fv{tapaia buioe}).
 \el
 \nt
 \nq
 \dc 27/Oct/2017
-\dt 28/Oct/2017
+\dt 30/Dec/2017
 
 \lx tololoa
 \ph tololoa
@@ -24779,7 +25133,7 @@ a (beautiful) song.
 \xn I absolutely love it!
 \sn 9
 \uv |vl{awa}* ‘neck > will’
-\wn foll. by vl:~ko3
+\wn foll. by vl:~ko2
 \dn want to do s.th.; want that
 \rf DG1-21
 \xv Awa kupa i-viane pi-ko u-le u-romo tadoe akapa.
@@ -24788,7 +25142,7 @@ a (beautiful) song.
 \hn rare
 \wn
 \uv s.o.
-\dn want, desire. 
+\dn want, desire
 \rf
 \xv mwaliko pe i-viane da-viñevi tamwase
 \xn a man who loves woman too much
@@ -24796,7 +25150,7 @@ a (beautiful) song.
 \nt
 \nq
 \dc 16/Nov/2009
-\dt 17/Jul/2016
+\dt 15/Dec/2017
 
 \lx viane
 \ph fiane
@@ -25653,7 +26007,7 @@ present world.
 \lv ~e
 \ln eat s.th.
 \sn 2
-\wn
+\rn burn
 \uv s.th.
 \dn be burning, burn; perish in fire
 \rf DP1-29b
@@ -25665,12 +26019,23 @@ present world.
 \lf Cf.
 \lv ~su1
 \ln burn s.th.
+\sn 3
+\rn jealous
+\uv s.o.
+\dn be jealous, feel jealousy (for, |fv{ne})
+\sd
+\rf d08.Rao:08
+\xv Ini i-vongo n' emel' iape.
+\xn He is jealous of his wife.
+\un Etym.
+\en Possibly a metaphor from the previous sense ‘burn’.
+\nt
 \el POc
 \et *paŋan
 \nt
 \nq
 \dc 20/Nov/2009
-\dt 24/May/2012
+\dt 07/Jan/2018
 
 \lx vongoro
 \ph foŋoro
@@ -26727,7 +27092,7 @@ Canarium almonds in a bowl (fv:monone) with a pestle
 \dn prepare the roofing of a house, by pinning together sago leaves
 \sd Techn
 \rf cf. DP1-20a
-\xv Li-wete otovo awoiu pon li-ejau tele moe.
+\xv Li-wete otovo awoiu pon li-ejau telemoe.
 \xn Once the thatch is finished, we make the house walls.
 \rf
 \xv Otovo iupa ka tamwaliko, pi-tabo pi-wete kula motoe.
@@ -26737,7 +27102,7 @@ Canarium almonds in a bowl (fv:monone) with a pestle
 \nt
 \nq
 \dc 18/Nov/2009
-\dt 25/Jul/2016
+\dt 31/Dec/2017
 
 \lx wido
 \ph wiⁿdo
@@ -27069,6 +27434,29 @@ beach).
 \nq
 \dc 23/Nov/2009
 \dt 17/Jul/2016
+
+\lx womoe
+\ph womoe
+\ps n
+\gr
+\ge panne
+\gn purlin
+\de panne: poutre horizontale de la charpente, située à mi-hauteur du toit, entre la sablière et la poutre faîtière (|fv{pumene})
+\dn purlin: horizontal beam in the roof structure, situated half way up, between the stringpiece and the ridge beam
+(|fv{pumene})
+\sd Archi
+\so AF-DG1-23a
+\rf
+\ue
+\ee
+\un
+\en There are normally two such purlins on each side of the roof.
+\lf
+\el
+\nt
+\nq
+\dc 30/Dec/2017
+\dt 30/Dec/2017
 
 \lx wonone
 \ph wonone

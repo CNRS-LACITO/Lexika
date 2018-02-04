@@ -14,8 +14,7 @@ class GénérateurXML:
         self.écriveur = lexika.outils.Écriveur(self.configuration.xml["chemin cible"])
         self.format = self.configuration.xml["format"] if "format" in self.configuration.xml else "α"
         self.langue = self.configuration.xml["langue"] if "langue" in self.configuration.xml else "fra"
-        
-        lexika.outils.Trieur = lexika.outils.Trieur if not os.path.isfile(self.configuration.général["chemin du trieur"]) else lexika.outils.importer_module_personnalisé("lexika.outils.Trieur", self.configuration.général["chemin du trieur"]).Trieur
+        lexika.outils.Trieur = lexika.outils.Trieur if not os.path.isfile(self.configuration.général.get("chemin du trieur", "")) else lexika.outils.importer_module_personnalisé("lexika.outils.Trieur", self.configuration.général["chemin du trieur"]).Trieur
         
         self.trieur = lexika.outils.Trieur(self.configuration.général["ordre lexicographique"]) if "ordre lexicographique" in self.configuration.général else None
         self.racine = racine
@@ -39,28 +38,13 @@ class GénérateurXML:
                 nom = self.convertir_nom(self.traduire(entité.nom_classe))
                 attributs = {self.convertir_nom(self.traduire(clef)): self.traduire(valeur) for clef, valeur in entité.caractéristiques.items()}
                 if entité.spécial and "texte enrichi" in entité.spécial.get("drapeaux", {}):
-                    élément_actuel = lxml.etree.XML(f"<{nom}>{entité.valeur}</{nom}>")
+                    élément_actuel = lxml.etree.XML(f"<{nom}>{entité.valeur}</{nom}>", parser=lxml.etree.XMLParser(recover=True))
                     élément_parent.append(élément_actuel)
                     for attribut, valeur in attributs.items():
                         élément_actuel.set(attribut, valeur)
                 else:                    
                     élément_actuel = lxml.etree.SubElement(élément_parent, nom, attrib=attributs)
                     élément_actuel.text = entité.valeur
-#            elif self.format == "β":
-#                attributs = dict(entité.caractéristiques, **{self.convertir_nom(entité.attribut if entité.attribut else entité.nom): entité.valeur}) if entité.valeur else entité.caractéristiques
-#                élément_actuel = lxml.etree.SubElement(élément_parent, self.convertir_nom(self.traduire(entité.nom_classe)), attrib={self.convertir_nom(self.traduire(clef)): self.traduire(valeur) for clef, valeur in attributs.items()})
-#            elif self.format == "γ":
-#                attributs = dict(entité.caractéristiques, **{entité.attribut if entité.attribut else entité.nom: entité.valeur}) if entité.valeur else entité.caractéristiques
-#                if hasattr(entité, "descendance") or len(attributs) > 1:
-#                    élément_actuel = lxml.etree.SubElement(élément_parent, self.convertir_nom(self.traduire(entité.nom_classe)))
-#                    for clef, élément in attributs.items():
-#                        lxml.etree.SubElement(élément_actuel, self.convertir_nom(self.traduire("caractéristique")), attrib={self.traduire("attribut"): clef, self.traduire("valeur"): élément})
-#                else:
-#                    if len(attributs) == 0:
-#                        logging.error(_("Élément sans descendance mais avec aucun attribut : {}".format(entité)))
-#                    else:
-#                        attributs = list(attributs.items())[0]
-#                        lxml.etree.SubElement(élément_parent, self.convertir_nom(self.traduire("caractéristique")), attrib={self.traduire("attribut"): attributs[0], self.traduire("valeur"): attributs[1]})
             if hasattr(entité, "descendance"):
                 for enfant in sorted(entité.descendance, key=lambda entrée: self.trieur.trier_éléments(entrée.caractéristiques["identifiant"])) if entité == self.dictionnaire else entité.descendance:
                     self.créer_éléments(enfant, élément_actuel)

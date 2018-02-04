@@ -5,7 +5,7 @@
             modèles:
                 ligne: ^\\(?P<balise>\w*)\s*(?P<métadonnées><([\w\s]+=[\w\"\s]+)+>)?\s*(?P<données>.*)
                 métadonnées: ([\w]+)=[\"\']?([\w\s]+)[\"\']?
-                style: (?P<ensemble>(?P<style>fl|fv|fn|fr|fe|fs|fi):(?P<texte>[\w,.;:!?/\[\]\(\){}\~‘’'–_*+-]+))|(?P<ensemble>\\|(?P<style>fl|fv|fn|fr|fe|fs|fi){(?P<texte>[\w\s\[\],.;:!?/\[\]\(\){}\~‘’'–_*+-]+)})
+                style: (?P<ensemble>(?P<style>fl|fv|fn|fr|fe|fs|fi|vl|ax):(?P<texte>[\w,.;:!?/\[\]\(\){}\~‘’'–_*+-]+))|(?P<ensemble>\|(?P<style>fl|fv|fn|fr|fe|fs|fi|vl|ax){(?P<texte>[\w\s\[\],.;:!?/\[\]\(\){}\~‘’'–_*+-]+)})
             balises:
                 # Balises principales.
                 lf:
@@ -28,11 +28,11 @@
                         antéposition: de
                 wn:
                     abstractions: 
-                        - nom: type de note
-                          valeur: syntax
+                        - nom: type d’étiquette
+                          valeur: syntaxe
                           caractéristiques:
                               langue: cible 2
-                        - nom: note
+                        - nom: étiquette
                           caractéristiques:
                               langue: cible 2
                     drapeaux:
@@ -49,6 +49,38 @@
                         langue: cible 2
 #                    drapeaux:
 #                        antéposition: dn
+                # Balises liées aux tableaux et encadrés.
+                tab:
+                    abstraction: nom de tableau
+                enc:
+                    abstraction: nom d’encadré
+                tiv:
+                    abstraction: titre
+                    caractéristiques:
+                        langue: source 1
+                tie:
+                    abstraction: titre
+                    caractéristiques:
+                        langue: cible 1
+                tin:
+                    abstraction: titre
+                    caractéristiques:
+                        langue: cible 2
+                con:
+                    abstraction: contenu structuré
+                conf:
+                    abstraction: contenu textuel
+                    caractéristiques:
+                        langue: cible 1
+                cona:
+                    abstraction: contenu textuel
+                    caractéristiques:
+                        langue: cible 2
+                rft:
+                    abstraction: référence de tableau
+
+                
+                
 
 
 
@@ -115,4 +147,69 @@
                         conditions:
                             entité:
                                 nom: sous-entrée lexicale
-                                état: absent                
+                                état: absent       
+                # Abstractions liées aux tableaux et encadrés.
+                tableau:
+                    entité: 
+                        nom: tableau
+                    parent:
+                        nom:
+                            - entrée lexicale
+                            - sous-entrée lexicale
+                            - groupe
+                encadré:
+                    entité: 
+                        nom: encadré
+                    parent:
+                        nom:
+                            - entrée lexicale
+                            - sous-entrée lexicale
+                            - groupe            
+                nom de tableau:
+                    entité:
+                        nom: nom
+                    parent:
+                        nom: tableau
+                    préabstraction:
+                        nom: tableau
+                        voie: impérieuse
+                nom d’encadré:
+                    entité:
+                        nom: nom
+                    parent:
+                        nom: encadré
+                    préabstraction:
+                        nom: encadré
+                        voie: impérieuse
+                titre:
+                    entité:
+                        nom: titre
+                    parent:
+                        nom: 
+                            - tableau
+                            - encadré
+                contenu structuré:
+                    entité:
+                        nom: contenu
+                        spécial:
+                            drapeaux:
+                                - texte enrichi
+                    parent:
+                        nom: tableau
+                contenu textuel:
+                    entité:
+                        nom: représentation de texte
+                        spécial:
+                            drapeaux:
+                                - texte enrichi
+                    parent:
+                        nom: encadré
+                référence de tableau:
+                    entité:
+                        nom: référence
+                    parent:
+                        nom: tableau
+                        
+                    
+                    
+                                         

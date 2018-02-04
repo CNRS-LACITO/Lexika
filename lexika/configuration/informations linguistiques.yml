@@ -473,6 +473,9 @@
                 étiquette:
                     entité:
                         nom: représentation de texte
+                        spécial:
+                            drapeaux:
+                                - texte enrichi
                     parent:
                         nom: étiquette
                 étiquette sémantique:
@@ -545,7 +548,7 @@
                             - bloc
                 étymon:
                     entité:
-                        nom: représentation de texte
+                        nom: forme écrite
                     parent:
                         nom: étymon
                     préabstraction:

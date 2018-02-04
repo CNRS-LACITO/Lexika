@@ -1,11 +1,10 @@
 \_sh v3.0  1009 MDFAltMwotlap
-\_DateStampHasFourDigitYear
 
 \lx a
 \hm 1
 \ph a
-\ps sub
 \wr A
+\ps sub
 \gr
 \sn 1
 \ge Sub
@@ -364,8 +363,8 @@ fv:be-2 fl:or fv:le-3.
 \nt ADV: togtog aê; trad. Utiliser (yusum): lep X tô yapyap aê...; cf. mê; kê mo-boel aê / kê ni-lawlaw aê.../ ni-qti-k me-het aê (ca me rend
 fou); tog dêmdêm aê; no mal van te mu-k aê; Mota AIA.
 \se
-\ps préd
 \wr B
+\ps préd
 \gr igat
 \ge il_y_a
 \re exister ; y avoir, exister
@@ -618,8 +617,8 @@ fv:hap).
 cette tournure en fv:n-age_tE- concerne normale^ment les humains. Il s'agit là
 probable^ment de la valeur étymologique de fv:age.
 \se
-\ps vi
 \wr B
+\ps vi
 \ge
 \re
 \he rare
@@ -1011,8 +1010,8 @@ c'est qu'il y a par ici un cochon géant!
 \lf †
 \lv boel
 \se
-\ps vt
 \wr B
+\ps vt
 \ge
 \re
 \de être en colère contre, en vouloir à ‹qqn›; prendre ombrage de, être
@@ -2538,8 +2537,8 @@ fi:lequel)
 \en
 \sy mey qele ave
 \se
-\ps loc
 \wr B
+\ps loc
 \de quelque part ; où que ce soit. Adverbe de lieu, indéfini non-spécifique (fl:opp. fv:ave-qiyig
 ‘quelque part’ indéfini spécifique)
 \dn somewhere; wherever it may be. Non-specific, indefinite adverb of place
@@ -2999,8 +2998,8 @@ come.
 \xe De mon côté, j'ai terminé.
 \xn As for me, I've finished.
 \se
-\ps vt
 \wr B
+\ps vt
 \ge
 \re
 \de terminer, mettre fin à ‹qqch›
@@ -3643,8 +3642,8 @@ sister.
 \xe [le signal secret] le mot de passe
 \xn [the secret signal] the password
 \se
-\ps adv
 \wr B
+\ps adv
 \rd batbat
 \gr haed
 \sn 1
@@ -3867,7 +3866,7 @@ Directionnel (fv:van, fv:me, fv:hag, etc.) + fv:hiy.
 \xr From wanem ia ?
 \rm
 \xm
-\ee
+\ee 
 
 \sn 4
 \ge
@@ -4080,8 +4079,8 @@ père. [même sans consommation; même avec le consentement de la fille]
 ē-gēn.
 \xf Si tu cries le nom d'un ami tout près de cet arbre (fv:na-nay), alors les esprits s'emparent du nom de ton ami.
 \se
-\ps adv
 \wr B
+\ps adv
 \gr
 \de (faire V) furtivement, en cachette
 \dn (do V) furtively, in hiding
@@ -5278,8 +5277,8 @@ avec ‹qqn›
 \lf ‡
 \lv akmēhteg
 \se
-\ps vt
 \wr B
+\ps vt
 \ge
 \re
 \de se mettre fl:ou être en colère contre ‹qqn›, en vouloir à ‹qqn›
@@ -6399,8 +6398,8 @@ locative), follow
 \lf Cf.
 \lv hiy
 \se
-\ps vt
 \wr B
+\ps vt
 \gr folem
 \ge suivre
 \re
@@ -6783,8 +6782,8 @@ les dizaines des unités
 \xn near the canoe, on the float side
 \cf
 \se
-\ps conj
 \wr B
+\ps conj
 \rm G1-40
 \xm Nitog inin nē-bē sew, den vele soqo na-gayme.
 \se den… tiple
@@ -6809,8 +6808,8 @@ les dizaines des unités
 \rf
 \lf
 \se
-\ps vt
 \wr B
+\ps vt
 \he Arg
 \he vulg
 \ur homme
@@ -7153,8 +7152,8 @@ mind
 \sy waksē
 \an lep-hiy
 \se
-\ps vt
 \wr B
+\ps vt
 \ge
 \sn 1
 \de avoir une haute opinion de ‹qqch, qqn›
@@ -7296,8 +7295,8 @@ volon^taire^ment; |fl{d'où} pardonner
 \xe De nos jours, on n'accorde plus guère de respect à la tradition.
 \xn These days, hardly anyone respects tradition any more.
 \se
-\ps adv
 \wr B
+\ps adv
 \gr
 \de (agir) respectueusement, avec respect
 \dn (act) respectfully, with respect
@@ -9807,8 +9806,8 @@ came crashing on the coast.
 \lv lepA
 \le (9)
 \se
-\ps vi
 \wr B
+\ps vi
 \ue Synt
 \ee Avec complément oblique: fv:be-; fl:ou fv:hiy; fl:ou adv. fv:aē.
 \sn 1
@@ -9917,8 +9916,8 @@ question; la forme |fv{ē-agōh} l'est en fin d'assertion ou d'exclamation.
 \xe Il y a ici parmi nous un être humain, il est encore vivant!
 \xn A living being is among us, he's still alive!
 \se
-\ps vi
 \wr B
+\ps vi
 \de vivre, survivre
 \dn live, survive
 \rf
@@ -10475,8 +10474,8 @@ avec son ventre}’
 \xe L'enfant grandit, jusqu'à atteindre (l'âge de) dix ans.
 \xn The child is growing up to reach (the age of) 10 (years).
 \se
-\ps vi
 \wr B
+\ps vi
 \re
 \he rare
 \ur année
@@ -10690,8 +10689,8 @@ to accompany dancing.
 \ee En fonction d'épithète, ‘bon’ se dit fv:wē fl:ou fv:ēwē; en fonction de prédicat, fv:nēwē
 (analysable en fv:nē-wē ou fv:n-ēwē), ou plus souvent fv:itōk.
 \se
-\ps adv
 \wr B
+\ps adv
 \ge seulement
 \re seulement
 \re simplement
@@ -11302,8 +11301,8 @@ c'est vl:gah “assembler (avec des lianes)”.
 \xe Ils dansent pour de faux (pas correctement).
 \xn They're not really dancing (not correctly).
 \se
-\ps vt
 \wr B
+\ps vt
 \sn 1
 \re
 \de mentir à ‹qqn›, volontaire^ment ou non; induire ‹qqn› en
@@ -11671,8 +11670,8 @@ donner une représen^tation théâtrale, comique ou non – fl:ex. à l'église
 \lv goy
 \le (13)
 \se
-\ps vt
 \wr B
+\ps vt
 \de préparer ‹qqch› à l'insu de (fv:den)
 \dn prepare (sthg) without s.o. else knowing it (fv:den)
 \rf AP3-46
@@ -12161,7 +12160,7 @@ Quasiment chaque individu possède son propre couteau.
 \sd Bot
 \bb Vienne (1982: 578)
 \ng
-\pdl
+\pdl 
 
 \sn 2
 \ge
@@ -12246,8 +12245,8 @@ Quasiment chaque individu possède son propre couteau.
 \lf Syn.
 \lv lēlēlhiy
 \se
-\ps adv
 \wr B
+\ps adv
 \gr
 \ur après V de parole
 \de à propos de, au sujet de ‹qqn, qqch›; (parler) de
@@ -12438,7 +12437,7 @@ Quasiment chaque individu possède son propre couteau.
 \rd
 \bb Vienne (1982: 586)
 \ng
-\pdl
+\pdl 
 
 \rn
 \dn
@@ -12532,7 +12531,7 @@ fl:partic. pour attacher le toit, on préfère la variété fv:na-gaqiy.
 \rf AG4-85
 \ee
 \sd Bot
-\sy
+\sy 
 
 \rn
 \dn
@@ -13411,8 +13410,8 @@ reach the highest rank
 \xn [eat big chief] eat with one's fingers, from the plate
 
 \se
-\ps vt
 \wr B
+\ps vt
 \ge manger
 \re *
 \de manger ‹qqch› habituelle^ment, être mangeur de
@@ -13589,8 +13588,8 @@ islet.)
 \xe Laisse-les tomber, qu'ils aillent au diable!
 \xn Forget about them, let them go to hell!
 \se
-\ps vt
 \wr B
+\ps vt
 \ge
 \re
 \de faire avancer dans l'eau ‹qqch qui flotte›, alors que l'on est soi-même dans l'eau
@@ -14432,8 +14431,8 @@ immense repas pour tout le monde.
 \lv tēymat
 \le préparer
 \se
-\ps vi
 \wr B
+\ps vi
 \de accomplir tous les préparatifs, fl:spéc. pour un repas collectif fl:ou une fête
 \dn complete preparation, fl:spec. for a collective meal fl:or feast
 \rf alx
@@ -14726,8 +14725,8 @@ wedding.
 \sy galēs
 \sy vēgih
 \se
-\ps intsf
 \wr B
+\ps intsf
 \ge
 \re
 \de Intensificateur du vb d'état fv:mētēmteg ‘avoir peur, être effrayé’. fl:Cf. fr. “bleue” dans “une peur
@@ -15616,8 +15615,8 @@ elle-même répétitive (fl:Cf. Rédup.) ; |fl{d'où} valeur de répétition
 \xe se déplacer en troupe
 \xn to horde
 \se
-\ps vt
 \wr B
+\ps vt
 \de déferler sur, recouvrir, submerger ‹qqch, qqn›
 \dn flood over, submerge
 \rf AG3-145
@@ -15882,8 +15881,8 @@ bananes ; 2/ (ce sont) ces bananes.
 \sc Rattus rattus
 \sd Zool
 \se
-\ps vi
 \wr B
+\ps vi
 \rd g[ō]hōghōw
 \ge
 \re
@@ -16591,8 +16590,8 @@ endroit›, surveiller, s'occuper de
 \rf
 \lf
 \se
-\ps adv
 \wr B
+\ps adv
 \gr
 \ge
 \de séparément
@@ -17102,8 +17101,8 @@ indirect questions
 \xn He can't do anything any more.
 \nt
 \se
-\ps n
 \wr B
+\ps n
 \rd na-haphap
 \gr wanem
 \ge chose
@@ -17680,8 +17679,8 @@ quantité.
 (symétrique...) ; correct [G3-18] ; *na-haytêyêh ; tô kê ni-haytêyêh (=VbIntr??)
 \nt na-hayhaytêyêh nan = le point commun, la similitude
 \se
-\ps vt
 \wr B
+\ps vt
 \de suffire, convenir à ‹qqn›
 \dn suffice, suit ‹s.o.›
 \rf AP5-45
@@ -18050,8 +18049,8 @@ minorés
 \xn The size (of the monster) was bigger than this cave.
 \lf
 \se
-\ps adv
 \wr B
+\ps adv
 \sn 1
 \de (faire V) au-delà de la limite
 \dn (v) beyong the limit
@@ -18479,8 +18478,8 @@ initiatory house fv:na-gmel›
 \xe Il a accompli la ‘maison’ initiatique tout comme moi.
 \xn He has accomplished the initiatory 'house' just like me.
 \se
-\ps adv
 \wr B
+\ps adv
 \dr
 \ge à_travers
 \re travers (à ~)
@@ -18713,8 +18712,8 @@ Dans un chant de type ‘ode de prestige’ (vl:he~2) où sont cités plusieurs 
 \lv sōwōl
 \le se laver les mains
 \se
-\ps vi
 \wr B
+\ps vi
 \we emploi absolu
 \re
 \de se laver le visage, se débarbouiller
@@ -18937,8 +18936,8 @@ passive^ment’)
 \xm Na-tqek ni-hēw bah en
 \xf laisse moi d'abord digérer
 \se
-\ps vt
 \wr B
+\ps vt
 \sn 1
 \he rare
 \ur esprit vl:nu-vu
@@ -19068,8 +19067,8 @@ alors!’
 \xe Incroyable [ax:litt. Vrai], le bateau!
 \xn Incredible [ax:lit. True], that boat!
 \se
-\ps adv
 \wr B
+\ps adv
 \gr
 \ge
 \de (faire V) vraiment
@@ -19548,8 +19547,8 @@ exclusively on its purpose
 \en
 \sy van2
 \se
-\ps loc
 \wr B
+\ps loc
 \sn 1
 \we après directionnel spatial
 \de établit une direction par référence à un élément déjà mentionné : ‘vers là-bas’, ‘y’
@@ -20418,8 +20417,8 @@ all about it / To put it clearly...
 \xe Que de fumée ! (Sortons d'ici !)
 \xn What a lot of smoke! (Let's get out of here!)
 \se
-\ps vi
 \wr B
+\ps vi
 \rd hōhō
 \ge fumer
 \gn smoke
@@ -20966,8 +20965,8 @@ plurielle
 \xe ceux qui sont déjà partis
 \xn those who've already left
 \se
-\ps art
 \wr B
+\ps art
 \we suivi d'un nom N
 \de article pluriel pour les noms à référent humain (fl:opp. fv:na- ou fi:zéro
 pour le singulier)
@@ -21253,8 +21252,8 @@ santé, en voit passer un près d'elle, c'est signe que la fin de sa vie est arr
 \lf ‡
 \lv itme~
 \se
-\ps vt
 \wr B
+\ps vt
 \rd iimam
 \rf AP11-37
 \rd imamam
@@ -21856,8 +21855,8 @@ appelé Iqet.
 \rf
 \nt Mota "tata"; oncle classif.; moyu~
 \se
-\ps vt
 \wr B
+\ps vt
 \rd iitat
 \rf AP11-37
 \rd itatat
@@ -22222,8 +22221,8 @@ purpose
 \xn We already spoke about that yesterday.
 \rf
 \se
-\ps vt
 \wr B
+\ps vt
 \gr
 \we sujet singulier
 \de expliquer, raconter ‹qqch› en détails (à qqn, fv:hiy)
@@ -22458,8 +22457,8 @@ the bush. They are sometimes kind to men, but not always. They are immortal, and
 \dn go out
 \mn kalō
 \se
-\ps adv
 \wr B
+\ps adv
 \gr antap
 \ge monter
 \re
@@ -22837,8 +22836,8 @@ garden, etc.
 \xe Picasso est un homme célèbre [son nom est haut].
 \xn Picasso is a famous man [his name is high].
 \se
-\ps adv
 \wr B
+\ps adv
 \de (faire V) en hauteur, haut verticalement
 \dn (do V) high up, vertically
 \rf
@@ -24016,8 +24015,8 @@ growth stage
 \cf yan̄-bōy
 \ce éléphantiasis des jambes
 \se
-\ps intj
 \wr B
+\ps intj
 \ge
 \re
 \he vulg
@@ -24424,8 +24423,8 @@ leaf from the end
 \nt PRéD = kê laptô ; kê laptô hôw en ; 
 \nt ADP = nok dêmdêm lapgetô aê...; cf. LAP (ni-hag lap)+ TÔ ?? *ni-sMal lapgetô
 \se
-\ps adv
 \wr B
+\ps adv
 \ge encore
 \de encore, toujours
 \dn still, yet
@@ -24603,8 +24602,8 @@ tire légère^ment sur sa paupière inférieure (fl:Cf. “mon œil” en fçs).
 \de
 \gn red
 \se
-\ps intsf
 \wr B
+\ps intsf
 \gr
 \lt brillant
 \de Intensificateur de fv:mēnay ‘intelligent’
@@ -25028,8 +25027,8 @@ ennemi), mais en vain.
 \de avoir des relations sexuelles (avec, fv:mi)
 \dn have sexual relations (with, fv:mi)
 \se
-\ps adj
 \wr B
+\ps adj
 \gr
 \de marié
 \dn married
@@ -25210,8 +25209,8 @@ ennemi), mais en vain.
 \lv tegha
 \le (devenir, être) différent
 \se
-\ps vt
 \wr B
+\ps vt
 \gr jenjem
 \sn 1
 \ge
@@ -25423,8 +25422,8 @@ I'm composing) through his comments.
 \ue
 \ee Forme dupliquée de fv:leh ‘changer’.
 \se
-\ps vi
 \wr B
+\ps vi
 \gr
 \de se vêtir, s'habiller
 \dn dress oneself, get dressed
@@ -26368,8 +26367,8 @@ mené à bien
 \xm qētēg a le-myēpyep a ige so mitimtiy, nok lep dēn̄ a– le-mtap en.
 \xf ?????
 \se
-\ps vi
 \wr B
+\ps vi
 \de “prendre”, devancer ses adversaires au jeu
 \dn "take", outstrip one's gambling opponents 
 \br ou bien sans le mot "gambling"
@@ -27663,8 +27662,8 @@ farfouiller dans un arbuste
 \xn the ghost chief
 \sy welan
 \se
-\ps adv
 \wr B
+\ps adv
 \de abondam^ment, forte^ment, beaucoup
 \dn abundantly, strongly, very much
 \rf
@@ -27975,8 +27974,8 @@ locuteurs eux-mêmes.
 \xn Each time he ate one of those (magic) apples, he looked younger.
 \rm
 \se
-\ps loc
 \wr B
+\ps loc
 \ge côté
 \re
 \we +Directionnel
@@ -28107,8 +28106,8 @@ fl:spéc. boucler ‹la liane de pêche fv:na-hay›
 \ee Devient |fv{lok si} devant les particules aspecto-modales fv:te, fv:tō et fv:tog: |fv{Vap lok si
 tog?} |fe{Tu peux répéter?}.
 \se
-\ps ptc
 \wr B
+\ps ptc
 \ge
 \re
 \we en question
@@ -28787,8 +28786,8 @@ est différente.
 \xn "No, not at all!" They hid the truth from him.
 
 \se
-\ps adv
 \wr B
+\ps adv
 \ge
 \re
 \de de façon cachée
@@ -28997,7 +28996,7 @@ out of a secret
 \rf
 \nt ou v.i.?
 \sn
-\ge
+\ge 
 
 \se luw goy
 \ps vt
@@ -29259,8 +29258,8 @@ s.o.
 \xe Je saigne à la jambe. – Vraiment? Désolé (pour toi).
 \xn My leg is bleeding. – Really? I'm sorry (for you).
 \se
-\ps vt
 \wr B
+\ps vt
 \gr
 \de être triste pour ‹qqn›, plaindre ‹qqn›; |fl{d'où} prendre pitié de
 \dn be sad for ‹s.o.›; |fl{hence} take pity on, feel sorry for
@@ -30111,8 +30110,8 @@ papyrifera
 \xe Ça alors! Il s'est mis tout nu!
 \lf
 \se
-\ps adv
 \wr B
+\ps adv
 \gr
 \sn 1
 \he
@@ -30818,8 +30817,8 @@ langue ne t'offre plus de résistance).
 offers you any resistance).
 \nt ??
 \se
-\ps adv
 \wr B
+\ps adv
 \gr ded
 \sn 1
 \re
@@ -30899,7 +30898,7 @@ vais massacrer tous vos maris, les uns après les autres!}.
 \xm Kē mē-yēyē mat kē aē ē-gēn!
 \xf Ça la fait mourir de rire !
 \xn
-\xa
+\xa 
 
 \se matmat
 \wr C
@@ -31188,7 +31187,7 @@ paire ; un trio / triplet...
 \xn They're going to kill Jesus tonight, or (tomorrowà at daybreak.
 \rm chanson de Konstan
 \xm Le-ln̄oln̄o-mtap na-lo ni-halyak tiwag mi nēk...
-\ee
+\ee 
 
 \se tot-matap
 \ps adj
@@ -31693,8 +31692,8 @@ the person who is hungry
 \lv matheg
 \le envie
 \se
-\ps vi
 \wr B
+\ps vi
 \he rare
 \de avoir faim de qqch; (fl:fig.) ressentir un vif désir, un manque (de qqch,
 fv:veg)
@@ -31783,7 +31782,7 @@ fv:veg)
 \rf
 \ee
 \sd Bot
-\sy
+\sy 
 
 \rn
 \dn
@@ -31918,8 +31917,8 @@ utilisé en teinture et en peinture corporelle
 \lf Ant.
 \lv towoyig
 \se
-\ps adv
 \wr B
+\ps adv
 \gr tumas
 \sn 1
 \ge trop
@@ -32072,8 +32071,8 @@ utilisé en teinture et en peinture corporelle
 \nt Vulg.
 
 \se
-\ps adv
 \wr B
+\ps adv
 \ge
 \re violent
 \he vulg
@@ -32169,8 +32168,8 @@ classificators (e.g. fv:ga~) ; in this latter case, one often finds a variant fv
 \lv gom
 \le malade
 \se
-\ps vt
 \wr B
+\ps vt
 \sn 1
 \ur qqch
 \de être pénible à ‹qqn›, faire souffrir ‹qqn›
@@ -32204,7 +32203,7 @@ classificators (e.g. fv:ga~) ; in this latter case, one often finds a variant fv
 \xn He gets angry too often [he's irascible).
 \ue Mrph
 \ee Rédupl. de fv:meh ‘trop’.
-\lf
+\lf 
 
 \se ne-memeh
 \wr D
@@ -33005,7 +33004,7 @@ constallations). fl: esp. designates a geometrical pattern
 \dn “dimples of Venus”: small symmetrical hollows in o.’s lower back
 \lt creux du démon / des Morts
 \ll ghost spot / spot of the Dead
-\mn
+\mn 
 
 \se na-mte-vu~
 \ps n.poss
@@ -33476,8 +33475,8 @@ nehey. mey gôh, mey nen, mey tekelgi lok me hag gên...
 \nt taval meyen nan...
 
 \se
-\ps vi
 \wr B
+\ps vi
 \rd m[e]yemyen
 \ge
 \re jour (faire)
@@ -33819,7 +33818,7 @@ European')
 \sd Bot
 \cf bak
 \nq ou nê-mênmah ??
-\pdl
+\pdl 
 
 \se nē-mēn m̄ah
 \ps n
@@ -34423,8 +34422,8 @@ pas encore écoulé longtemps après cela}]
 nouveau enceinte.
 \xn Shortly after his birth [ax:lit. he was born, and without delay], his mother became pregnant again.
 \se
-\ps adv
 \wr B
+\ps adv
 \de (faire V) pendant longtemps
 \dn (do V) for a long time
 \rf
@@ -34458,7 +34457,7 @@ nouveau enceinte.
 \rf
 \ee
 \sd Bot
-\sy
+\sy 
 
 \sn
 \rf
@@ -35271,8 +35270,8 @@ froid intense
 \xe Ils avaient du mal à respirer.
 \xn They could hardly breathe.
 \se
-\ps adv
 \wr B
+\ps adv
 \we
 \de (faire V) pour se reposer, en guise de repos
 \dn (do V) to rest, by way of resting
@@ -36394,7 +36393,7 @@ main-forte
 \rd
 \bb Vienne (1982: 588)
 \ng
-\pdl
+\pdl 
 
 \nt
 \nq
@@ -36768,8 +36767,8 @@ chantent la comptine du serpent "|fv{teltel i m̄atm̄at}"
 \xe Elles sont aussi drôles l'une que l'autre.
 \xn They are both as funny as each other.
 \se
-\ps adv
 \wr B
+\ps adv
 \ge
 \re
 \de de façon à faire rire (fl:Cf. fv:yēyē)
@@ -37217,8 +37216,8 @@ willing to be seduced
 \le pauvre
 \nt
 \se
-\ps vi
 \wr B
+\ps vi
 \ge
 \re
 \de être fl:ou devenir riche; s'enrichir
@@ -37307,8 +37306,8 @@ willing to be seduced
 \xe Le téléphone est coupé.
 \xn The telephone's cut off.
 \se
-\ps adv
 \wr B
+\ps adv
 \gr
 \sn 1
 \ge
@@ -37575,8 +37574,8 @@ meton.} the garden (fl:opp. |fv{na-pnō}, the coastal village)
 \xe un lieu ombragé
 \xn a shady spot
 \se
-\ps adv
 \wr B
+\ps adv
 \gr
 \de (faire V) à l'ombre
 \dn (do V) in the shade
@@ -37805,8 +37804,8 @@ qqpart
 \nt m̄ôlhiy = diminuer...
 \nt *kê ni-m̄ôl i m̄ôl en = car MÔL est ponctuel !! donc = "partir"
 \se
-\ps adv
 \wr B
+\ps adv
 \de (faire V) sur le chemin du retour, pour rentrer chez soi
 \dn (do V) on the way back, to go back home
 \rf
@@ -37852,8 +37851,8 @@ qqpart
 \rf
 \lf
 \se
-\ps vt
 \wr B
+\ps vt
 \gr
 \he
 \de expliquer ‹qqch› de façon à le rendre clair, clarifier
@@ -38249,7 +38248,7 @@ naw... ; nanaw lôqôvên ; yow lenaw
 <groupe><phraseme>nawnaw</phraseme> <tradf>(mer) agitée</tradf><trada>(sea) rough</trada></groupe>
 <groupe><phraseme>tay1</phraseme> <tradf>(mer) calme, bonace</tradf><trada>(sea) calm</trada></groupe>
 
-\nt
+\nt 
 |{tab}|fv{na-myomyos}|{tab}écume
 \nq et les vaguelettes?
 \sn 4
@@ -38265,8 +38264,8 @@ naw... ; nanaw lôqôvên ; yow lenaw
 \ee Méta^phore obscure, liée au sel; fl:cf. bisl. fn:solmit ‘viande salée; traînée’.
 \lf
 \se
-\ps intsf
 \wr B
+\ps intsf
 \lt comme l'eau de mer
 \he rare
 \de Intensificateur de l'adj. fv:gon ‘amer’
@@ -39949,8 +39948,8 @@ fv:n̄eye1).
 \xn When must you go back?
 \cf
 \se
-\ps loc
 \wr B
+\ps loc
 \de un jour, (si) jamais: adverbe indéfini portant sur l'avenir, fl:norm. dans
 les protases hypothétiques ou temporelles
 \dn one day, (if) ever, never: indefinite adverb referring to the future, fl:norm. in
@@ -40084,8 +40083,8 @@ platform
 \rf
 \cf
 \se
-\ps vi
 \wr B
+\ps vi
 \ge se_moucher
 \re
 \de
@@ -40510,8 +40509,8 @@ mimer la cuisson d'un plat, puis à prononcer le nom de la personne dont on souh
 cooking a dish, then pronouncing the name of the person wished to be seen dead
 \lf
 \se
-\ps vt
 \wr B
+\ps vt
 \de utiliser ‹objet sacré, offrande› pour accomplir un rituel magique
 \dn use ‹sacred object, offering› to carry out a magic ritual
 \rf
@@ -40710,8 +40709,8 @@ bas’, soit fv:yow ‘vers l'extérieur’.
 \cf ēwe~
 \ce fruit
 \se
-\ps vt
 \wr B
+\ps vt
 \ge
 \re
 \ur arbre
@@ -40955,8 +40954,8 @@ fois du pied.
 \xn And when she filed the shell coins, it made the palm tree branch creak.
 \lf
 \se
-\ps vt
 \wr B
+\ps vt
 \ge appeler
 \re
 \gn call
@@ -41458,8 +41457,8 @@ Mélanésien’)
 \nt affecter, toucher: maladie, cyclône?, la peur > cf. m-ak no...
 \nt têy qal = recevoir, réussir à toucher ; cf. HÔN
 \se
-\ps vi
 \wr B
+\ps vi
 \rd qalqal
 \gr
 \de atteindre, aboutir qqpart
@@ -41615,8 +41614,8 @@ strong emotion (fl: esp. anger, drunkenness, excitement)
 \xe Laisse-la tomber, elle est stupide.
 \xn Forget her, she's stupid.
 \se
-\ps adv
 \wr B
+\ps adv
 \sn 1
 \ge
 \re
@@ -42491,8 +42490,8 @@ fv:et-3)
 \ln penis
 \cf
 \se
-\ps adj
 \wr B
+\ps adj
 \ge
 \re
 \he Arg
@@ -42610,8 +42609,8 @@ son or daughter-in-law/my brother-in-law or sister-in-law's parents
 fv:igni~, fv:qēlge~, fv:yoqlēg, fv:tawayig, fv:isuy.
 \lf
 \se
-\ps vt
 \wr B
+\ps vt
 \we tournure délocutive
 \de traiter ‹qqn› comme son parent par alliance (gendre, bru,
 beau-parent+), devenir le parent par alliance de ‹qqn›
@@ -42755,8 +42754,8 @@ making a noise')
 \nt ADP= complètement ; kêy may wêl qêt bah.; qêt // bah, selon l'objet.; 
 \nt V.I.= na-ga tale qêt DEN dôyô ; mal qêt ! ; 
 \se
-\ps adv
 \wr B
+\ps adv
 \ge finir
 \re complète^ment ; entière^ment ; tout
 \de
@@ -42946,8 +42945,8 @@ dévorés (par l'Ogre)!
 \xm Ni-sto ni-qtēg ēgēn.
 \xf Tiens, voilà les magasins qui commencent.
 \se
-\ps vt
 \wr B
+\ps vt
 \we + verbe V
 \de commencer, se mettre (à faire V)
 \dn begin, start (to do V)
@@ -43256,8 +43255,8 @@ ready on the receiving end.
 \rf
 \lf
 \se
-\ps vi
 \wr B
+\ps vi
 \de se servir de qqch comme d'un appuie-tête; poser sa tête (sur qqch)
 \dn use s.th as a headrest; put one's head (on s.th)
 \rf
@@ -43282,7 +43281,7 @@ ready on the receiving end.
 \ge faîte
 \re
 \de poutre faîtière de ‹maison fv:ēm̄›, faîtage
-\dn ridgepole of the ‹house fv:ēm̄›
+\dn ridgepole of ‹house fv:ēm̄›
 \sd Archi
 \rf AP9-16
 \rf
@@ -43299,7 +43298,7 @@ elle-même soutenue par des piliers médians (|fv{na-han̄ yogyēn}) ou des poin
 \lt pseudo-faîtage
 \de panne légère, posée au-dessus des chevrons, pour accueillir le haut du toit de feuilles
 (fv:no-yot)
-\dn light purlin, placed above rafters, on which sits the roof of leaves (fv:no-yot) 
+\dn light purlin, placed above rafters, where the roof thatch (fv:no-yot) sits
 \rf AP3-62
 \nt < °na qatusu-
 \el Mota
@@ -43308,7 +43307,7 @@ elle-même soutenue par des piliers médians (|fv{na-han̄ yogyēn}) ou des poin
 \nq
 \dc 2003
 \dc 22/Aug/2009
-\dt 02/Jul/2016
+\dt 30/Dec/2017
 
 \lx qēt-hiyi~
 \la nē-qēthiyi~
@@ -43847,8 +43846,8 @@ not relevant)
 PROCHE = "postv" ; HIqiyig / havqiyig / ave qiyig ; t-akteg qiyig ? = que faire donc ? ; no
 ta-vav qiyig, ba talôw
 \se
-\ps mod
 \wr B
+\ps mod
 \we
 \de marque d'incertitude, fl:partic. dans les questions
 \dn mark of uncertainty, fl:esp. in questions
@@ -44212,8 +44211,8 @@ ranger
 \xe Ils enroulent la liane de pêche.
 \xn They roll up the fishing liana.
 \se
-\ps vi
 \wr B
+\ps vi
 \sn 1
 \ge
 \re lové
@@ -44453,8 +44452,8 @@ later
 \cn nightmare
 
 \se
-\ps n
 \wr B
+\ps n
 \gr drim
 \ge rêve
 \re
@@ -44522,8 +44521,8 @@ later
 \xn He's dead, he's even started to putrefy
 \rf
 \se
-\ps n
 \wr B
+\ps n
 \ge odeur
 \re
 \de mauvaise odeur, puanteur
@@ -44566,8 +44565,8 @@ later
 \xn Smell that: does it smell nice?
 \sy hēmen
 \se
-\ps adj
 \wr B
+\ps adj
 \ge
 \re
 \de parfumé, qui sent bon
@@ -44926,8 +44925,8 @@ avec ça.
 \xn Don't let's waste too much time [ax:lit. don't let's take too many 'days' with that.
 \rf
 \se
-\ps vi
 \wr B
+\ps vi
 \rd qōn̄qōn̄
 \sn 1
 \ge
@@ -45860,8 +45859,8 @@ M̄eylap.
 \lf Ant.
 \lv qētqētmuhu
 \se
-\ps vt
 \wr B
+\ps vt
 \de balancer ‹qqn, qqch›; hocher ‹la tête›
 \dn swing ‹s.o, s.th›; shake ‹one's head›
 \rf
@@ -45935,8 +45934,8 @@ plutôt musicale, et englobe toutes les musiques rythmiques et électroniques de
 elles donnent lieu à des démonstrations spectaculaires de danse hip-hop, apprises à la capitale
 Vila.
 \se
-\ps vi
 \wr B
+\ps vi
 \rd
 \de danser le hip-hop; bouger son corps en musique, d'une manière qui rappelle
 les danses de discothèque, ou les danses urbaines occidentales
@@ -46065,7 +46064,7 @@ dancing
 \rf
 \nt placer, poser, griller...; salgoy = rendre tabou
 \sn
-\ge
+\ge 
 
 \se sal goy
 \ps vt
@@ -46636,8 +46635,8 @@ fois que le feu s'est stabilisé (fv:lal)
 \lf ‡
 \lv qētlen̄
 \se
-\ps vi
 \wr B
+\ps vi
 \gr
 \de chanter
 \dn sing
@@ -46918,8 +46917,8 @@ récif)
 \xv Ne-bep gōh ne-sewsew, ay!
 \xn This chilli is terribly hot!
 \se
-\ps vt
 \wr B
+\ps vt
 \sn 1
 \uv s.th.
 \dn bring heat to ‹s.th., s.o.›, burn
@@ -47020,8 +47019,8 @@ suitable
 \lv mutuw
 \lv dēw
 \se
-\ps vt
 \wr B
+\ps vt
 \lt
 \de seoir, convenir à ‹qqn›
 \dn become, suit ‹s.o.›
@@ -47125,8 +47124,8 @@ immédiat : fl:opp. fv:vdin, stocker (un liquide) dans un contenant qui sera fer
 \xe Les lits que tu vois ici réunis sont serrés les uns contre les autres.
 \xn The beds you see here are close to each other.
 \se
-\ps adv
 \wr B
+\ps adv
 \gr hipimap
 \ge entasser
 \he cour
@@ -47801,8 +47800,8 @@ population grew there again].
 \xe Il y a plein de monde là-bas, près de l'église.
 \xn There's a crowd of people over there, next to the church.
 \se
-\ps adv
 \wr B
+\ps adv
 \we après vl:togtog ‘vivre’
 \de en communauté
 \dn as a community
@@ -48056,7 +48055,7 @@ flotteur (ax:cf. vl:vil)
 \xn Straighten up !
 \sy
 \cf
-\ce
+\ce 
 
 \se sis den
 \ps vt
@@ -48224,8 +48223,8 @@ jeune fille.
 \lv ma~
 
 \se
-\ps vt
 \wr B
+\ps vt
 \a sisis
 \u sis[pt] (2)
 \rd sisis
@@ -48303,8 +48302,8 @@ himself.
 \xe Arrête de faire l'imbécile!
 \xn Stop being foolish!
 \se
-\ps vt
 \wr B
+\ps vt
 \de s'amuser au détriment de ‹qqn›, embêter ‹qqn›
 \dn make fun of ‹s.o›, annoy ‹s.o›
 \rf
@@ -48422,8 +48421,8 @@ himself.
 
 \lx sisiy
 \ph sisij
-\ps vi
 \wr A
+\ps vi
 \gr shave
 \sn
 \ge raser
@@ -48668,8 +48667,8 @@ verbs 'say', 'ask', 'answer', etc.
 \ue Rem
 \ee Dans cet usage, on trouve plus souvent la forme fv:wo.
 \se
-\ps ptc
 \wr B
+\ps ptc
 \sn 1
 \he
 \we initiale absolue d'énoncé
@@ -49353,8 +49352,8 @@ l'Aoriste avec la conjonction fv:so ‘si’: fl:cf. fv:so2 |ax{[D6]}.
 \nt soksok = VT / sosok = ADP dêmdêm sosok n-eh ; 
 \nt nê-sêm mino suvay sok [vient à manquer = P7-42]
 \se
-\ps adv
 \wr B
+\ps adv
 \rd sosok
 \rm Melani
 \xm Nok dēm sosok n-eh
@@ -49609,7 +49608,7 @@ stringpiece and the ridge-beam (fv:nē-qēthi~)
 n'a qu'un rôle secondaire de soutien; sa fonction est surtout de faire le lien entre les
 chevrons (fv:nō-qōs).
 \nt cf. Larousse "sablière", "panne"
-\cf veyet
+\cf na-pyet
 \el Mota
 \et soasoa-i
 \eg parts of a composite whole (…), of a house
@@ -49617,7 +49616,7 @@ chevrons (fv:nō-qōs).
 \nq
 \dc 2003
 \dc 28/Aug/2009
-\dt 28/Mar/2010
+\dt 31/Dec/2017
 
 \lx sosol
 \ph sɔsɔl
@@ -49978,8 +49977,8 @@ mal}’.
 \xe Ne nous précipitons pas.
 \xn Don't let's be too hasty.
 \se
-\ps adv
 \wr B
+\ps adv
 \gr
 \ge
 \re
@@ -50464,8 +50463,8 @@ ne veux pas manger un petit morceau?}
 \ee Réduplica^tion de fv:su ‘petit’.
 \mn su
 \se
-\ps adv
 \wr B
+\ps adv
 \gr smosmol
 \sn 1
 \he rare
@@ -50598,8 +50597,8 @@ adjectivaux
 \hm
 \nq nu-suw ???
 \ph suw
-\ps vi
 \wr A
+\ps vi
 \rd
 \gr washem
 \ge
@@ -50692,8 +50691,8 @@ ritual
 
 \lx suwsuw
 \ph suwsuw
-\ps vi
 \wr A
+\ps vi
 \rd
 \pdl Sgl.
 \pdv suw
@@ -51783,8 +51782,8 @@ y aurait le risque que P
 \xe Ils sifflotent l'air, pour le garder en mémoire [ax:litt. de façon qu'il demeure en eux].
 \xn They whistle the tune, to keep it in mind [ax:lit. so that it stays inside them]
 \se
-\ps adv
 \wr B
+\ps adv
 \gr
 \de (faire V) en étant recroquevillé fl:ou penché vers l'avant
 \dn (do V) while crouching fl:or leaning forward
@@ -51975,8 +51974,8 @@ distracted: absent-minded, scatterbrain, featherbrain
 \lf †
 \lv taq hiy
 \se
-\ps adv
 \wr B
+\ps adv
 \gr
 \de (faire V) en étant penché vers l'avant et vers le bas
 \dn (do V) whilst leaning forwards and downwards
@@ -52184,8 +52183,8 @@ aller chercher ‹qqn› à l'aéroport
 \xn I'm going to take care of the sick man.
 \rf
 \se
-\ps adv
 \wr B
+\ps adv
 \gr
 \ge
 \re
@@ -52887,8 +52886,8 @@ this rubbing
 \cf gay
 \ce gratter
 \se
-\ps vi
 \wr B
+\ps vi
 \ge
 \re
 \de racler, provoquer un effet de frotte^ment
@@ -53522,8 +53521,8 @@ fv:Iqet), sous son nom poétique de fv:wo-tgerger.
 \xe Ils allaient danser dans divers villages.
 \xn They went dancing in various villages.
 \se
-\ps adv
 \wr B
+\ps adv
 \sn 1
 \we après V intransitif
 \de (être placé) à l'envers
@@ -55950,8 +55949,8 @@ droite (ax:cf. vl:mōtō)].
 \xn (Singers) know the song by heart, and in full [ax:lit. they hold it in their right hand (ax:cf. vl:mōtō)].
 \nt
 \se
-\ps adv
 \wr B
+\ps adv
 \rd tētēy
 \gr wetem
 \sn 1
@@ -56206,8 +56205,8 @@ fear of losing it
 \nt mal têymat! siseg têytêymat (G3-17); têymat qôtô ... têymat nowmat
 
 \se
-\ps vt
 \wr B
+\ps vt
 \ge apprêter
 \re
 \de
@@ -56584,8 +56583,8 @@ nouveau en serpent-de-mer.
 \cf vēhgi
 \ce se changer en
 \se
-\ps vt
 \wr B
+\ps vt
 \ge
 \re
 \he rare
@@ -56817,8 +56816,8 @@ me in my sleep]
 \ce devant, avant
 \cn
 \se
-\ps vt
 \wr B
+\ps vt
 \ge
 \re
 \de guider, diriger ; (fl:fig.) être le chef ou le modèle de ‹un groupe›
@@ -57328,8 +57327,8 @@ see ‹s.o› off at the airport
 \lv ivē~
 \nt nok tita kê; ivê-k; tante
 \se
-\ps vt
 \wr B
+\ps vt
 \de appeler ‹qqn› sa mère, considérer ‹qqn› comme sa propre mère
 \dn call ‹s.o› his/her mother, consider ‹s.o› to be one's own mother
 \rf
@@ -57380,7 +57379,7 @@ see ‹s.o› off at the airport
 \ge
 \cf
 \ce
-\nt
+\nt 
 
 \nq
 \dc 21/Sep/2009
@@ -57497,8 +57496,8 @@ termes fv:vag ‘fois’, et fv:son̄wul ‘dizaine’.
 \ms tawal
 
 \se
-\ps adv
 \wr B
+\ps adv
 \gr wantaem
 \ge ensemble
 \re
@@ -57573,8 +57572,8 @@ preposition fv:mi ‘with’
 \lf Cf.
 \lv wōtiy
 \se
-\ps vt
 \wr B
+\ps vt
 \gr
 \ge
 \re
@@ -58640,8 +58639,8 @@ de toi] alors que tu fais ton travail ici, dans mon pays.
 \xv Totogyeg mino ēagōh.
 \xe C'est aujourd'hui la première fois pour moi [c'est ma ‘première’].
 \se
-\ps loc
 \wr B
+\ps loc
 \de en premier, avant toute chose
 \rf
 \xv Totogyeg, nēk so van vēhge imam nonon.
@@ -58995,7 +58994,7 @@ composites
 \se mal… tō
 \ps asp
 \de Accompli éloigné
-\nq
+\nq 
 
 \se (ni-)… tō
 \ps asp
@@ -59756,7 +59755,7 @@ comme râpe naturelle pour râper (fv:yah) certains tubercules comme le manioc.
 \gn rasp
 \rn
 \dn a rasp, whether natural or manufactured
-\rf
+\rf 
 
 \se na-va tele
 \ps n
@@ -60060,8 +60059,8 @@ mission^naires.
 \ee
 \lf
 \se
-\ps vi
 \wr B
+\ps vi
 \gr
 \sn 1
 \ge
@@ -60716,8 +60715,8 @@ tant et si bien [|vl{van i van en}] qu'il finit par arriver et par le trouver.�
 \en
 \cf me
 \se
-\ps dir
 \wr B
+\ps dir
 \gr igo
 \dr
 \ge Itif
@@ -61746,8 +61745,8 @@ interlocuteur
 \xv Nēk so vasēwyon̄ no-yobem mey agōh.
 \xe Il faut que tu baptises ce livre (|fl{i.e.} que tu lui trouves un titre).
 \se
-\ps adj
 \wr B
+\ps adj
 \gr
 \de chrétien
 \sd Christ
@@ -61793,8 +61792,8 @@ interlocuteur
 \xv Wolwotu, ino vatag.
 \xe À la Deuxième Guerre Mondiale, j'étais déjà né.
 \se
-\ps adv
 \wr B
+\ps adv
 \ge déjà
 \we sens temporel
 \de emploi ‘extensionnel’: déjà, déjà auparavant
@@ -61886,11 +61885,11 @@ dirigeant dans telle direction
 \rf AP9-36
 \xv No ta-vatgo nonoy vēh.
 \xe Je pourrais bien devenir leur professeur.
-\lf
+\lf 
 
 \se
-\ps vt
 \wr B
+\ps vt
 \rd vatvatgo
 \gr tijim
 \ge enseigner
@@ -61936,8 +61935,8 @@ dirigeant dans telle direction
 
 \lx vatne
 \ph βatnɛ
-\ps vt
 \wr A
+\ps vt
 \rd vatvatne
 \sn 1
 \gr lanem
@@ -62041,8 +62040,8 @@ puis les a rouverts.
 \lf Syn.
 \lv mitiy
 \se
-\ps adv
 \wr B
+\ps adv
 \gr
 \we après V de position
 \de à l'envers, fl:spéc. la face retournée vers le bas
@@ -62106,8 +62105,8 @@ fl:ex. corps humain, assiette, tasse.
 \an van yoyon̄
 \rf AG3-52
 \se
-\ps vt
 \wr B
+\ps vt
 \ge danser
 \re
 \de effectuer tel ou tel pas de danse, danser ‹qqch›
@@ -62296,8 +62295,8 @@ pourquoi donc n'y avez-vous pas touché?
 \xv Ige lōqōvēn kēy tēymat veg welan.
 \xe Les femmes font les prépara^tifs pour le chef.
 \se
-\ps loc
 \wr B
+\ps loc
 \gr
 \ge
 \re
@@ -62578,8 +62577,8 @@ régulièrement
 \lv vaga
 \mr vel- + qōn̄
 \se
-\ps adv
 \wr B
+\ps adv
 \gr
 \ge
 \de chaque jour, toujours
@@ -62748,7 +62747,7 @@ fv:vag ‘fois’, fv:bul ‘groupe de N personnes’, et fv:son̄wul ‘dizaine
 \rf AP9-5
 \xv No me-pteg tō ignik Alkon.
 \xe J'ai ramené mon épouse à Gaua.
-\nq
+\nq 
 
 \se veteg
 \wr B
@@ -63125,8 +63124,8 @@ ensorcelé (vl:vgēl), ce requin ira tuer l'individu pour lequel je l'ai ensorce
 \lv manheg
 \cf dawdaw
 \se
-\ps adj
 \wr B
+\ps adj
 \gr
 \ge
 \re
@@ -63217,7 +63216,7 @@ avec une croix].
 \xm vasem vēglal
 \xm ak vēglal
 \xm vap vēglal
-\lf
+\lf 
 
 \se nē-vēglal
 \wr B
@@ -63489,8 +63488,8 @@ fv:vēhgi: ex. |fv{Kē may lōqōvēn ēgēn.} |fe{Ça y est, elle est devenue u
 \xm Nē-vēl ni-vēlvēl...
 \cf
 \se
-\ps vi
 \wr B
+\ps vi
 \rd vēlvēl
 \ge
 \re
@@ -63845,8 +63844,8 @@ Peu importe / C'est aussi bien.
 \lf ‡
 \lv nēwē vēlēs
 \se
-\ps préd
 \wr B
+\ps préd
 \gr
 \sn 1
 \de être seulement X
@@ -63977,8 +63976,8 @@ soit pour le retenir, soit pour l'éliminer
 \rf
 \mr vēl + woy
 \se
-\ps vi
 \wr B
+\ps vi
 \ge
 \re
 \de se séparer, se diviser; (groupe) se disperser
@@ -64277,7 +64276,7 @@ surtout à l'exploitation dans le cadre de l'économie horticole.
 \lf ClPos
 \lv ga~
 \le ClPos Comestible
-\ln
+\ln 
 
 \se mayanag bē-vētan
 \ps n
@@ -64305,8 +64304,8 @@ surtout à l'exploitation dans le cadre de l'économie horticole.
 \xv ige vētgi nōk
 \xe ce groupe de gens-là
 \se
-\ps adv
 \wr B
+\ps adv
 \gr
 \de (se déplacer) en foule fl:ou en troupeau
 \rf AD10-04
@@ -64854,8 +64853,8 @@ du bras
 \rf
 \lf
 \se
-\ps vt
 \wr B
+\ps vt
 \de écailler ‹poisson›, en le grattant avec un couteau ou un coquillage
 \rf AP5-54
 \el
@@ -65063,7 +65062,7 @@ transporter
 \ps n
 \dr
 \ge
-\re
+\re 
 
 \lt évite^ment
 \de tabou sur les noms
@@ -65208,7 +65207,7 @@ fruit
 \rf
 \ee
 \sd Bot
-\sy
+\sy 
 
 \rn
 \dn
@@ -65404,8 +65403,8 @@ d'une telle coupe
 \lv lep
 \le prendre; mettre au monde
 \se
-\ps vi
 \wr B
+\ps vi
 \he absol
 \de avoir un enfant, être parent
 \rf
@@ -65614,7 +65613,7 @@ non-spécifique’)
 \rf
 \xv Vitwag se: talōw no ta-van vēste me.
 \xe Encore une chose (un dernier point): demain, je ne pourrai pas venir.
-\lf
+\lf 
 
 \se mey vitwag
 \ps expr.adj
@@ -66287,8 +66286,8 @@ de ses formes indigènes: vl:Vureas (forme du mota), vl:Vurës (forme du vurës)
 \lv tabeg
 \le fermer
 \se
-\ps vi
 \wr B
+\ps vi
 \gr open
 \ge
 \re
@@ -66881,8 +66880,8 @@ la plage, afin d'emprisonner le poisson
 \ee C'est une des phases de la pêche collective à la liane (fl:cf. fv:gey_hay), à partir de laquelle on
 commence à attraper le poisson (fv:kay).
 \se
-\ps vi
 \wr B
+\ps vi
 \de même sens
 \rf
 \xv Sōwlē! Gēn wēhēy!
@@ -66971,7 +66970,7 @@ Le jour du mariage, la famille de l'homme offre à celle de la femme des cocos g
 \sy leg
 \cf l[ē]gē
 \ce
-\cn
+\cn 
 
 \se wēl na-tmat
 \ps voi
@@ -67704,7 +67703,7 @@ chemin à autrui
 \sc Caesalpi^nia major
 \bb Vienne (1982: 582)
 \ng
-\pdl
+\pdl 
 
 \sn 2
 \ge kombtri
@@ -68073,8 +68072,8 @@ won na-he ēgēn.
 \xe Le moment où tu déposes de l'argent sur le gâteau d'igname, c'est ce qu'on
 appelle ‘|vl{won-eh}’: car c'est de cette façon que tu “combles ton chant”.
 \se
-\ps adj
 \wr B
+\ps adj
 \lf Cf.
 \lv wonwon
 \le entier
@@ -68242,8 +68241,8 @@ et-mahay hōn te.
 \nt ___________________________
 \nt
 \se
-\ps adv
 \wr B
+\ps adv
 \we après un chiffre rond
 \de tout rond, exactement
 \rf
@@ -69280,11 +69279,11 @@ fv:wōl: ex. |fv{lō-wōl Februare} |fe{en février}, etc.
 \ce année
 \cf ba2
 \ce date
-\cn
+\cn 
 
 \se
-\ps vi
 \wr B
+\ps vi
 \ur mois
 \de passer, s'écouler
 \rf
@@ -69494,8 +69493,8 @@ hommes, et le volley-ball pour tous.
 \ee On enfonce le bâton à fouir avec les deux mains (fl:opp. fv:gon ‘enfoncer d'une seule
 main’), puis on le soulève (fv:gapwut)
 \se
-\ps vi
 \wr B
+\ps vi
 \we sans objet
 \de même sens
 \rf AP9-2; AG4-96
@@ -69678,8 +69677,8 @@ balle de revolver; |fl{par ext.} munition
 \de terme d'insulte, par comparaison avec ce poisson mal-aimé
 \rf AP4-3
 \se
-\ps vi
 \wr B
+\ps vi
 \gr
 \he par anal
 \ur ventre
@@ -70282,8 +70281,8 @@ soit aux classificateurs possessifs (ex. fv:ga~)
 \re marée ; jusant
 \de marée basse
 \se
-\ps vt
 \wr B
+\ps vt
 \ge
 \re
 \lt
@@ -70730,8 +70729,8 @@ ouverture étroite
 \xe Il prend la massue et l'insère au fond du trou.
 \lf
 \se
-\ps vi
 \wr B
+\ps vi
 \de se livrer au coït (avec qqn, fv:hiy fl:ou fv:mi)
 \sd Sex
 \rf AP5-26
@@ -70971,8 +70970,8 @@ croissaient inutilement! Ses taros grandissaient inutilement!
 \lf Intsf.
 \lv tewiwi
 \se
-\ps adv
 \wr B
+\ps adv
 \we après adjectif
 \de Comparatif de supériorité: davantage, plus (que, fv:den)
 \rf alx
@@ -71107,8 +71106,8 @@ s'appelle fv:ne-yek
 \ee Associé aux termes ‘vers le haut’: fv:kal, fv:ketket, fv:hag, fv:alge.
 \ms rep
 \se
-\ps vt
 \wr B
+\ps vt
 \he partic
 \de grimper sur ‹un arbre› pour en chercher les fruits; monter cueillir ‹des
 fruits›
@@ -71601,8 +71600,8 @@ fruits›
 \rm
 \xm ne-len̄ tig lō me hag Len̄ye Qo en, ba ni-yip lok hōw, tō ni-yip nō-mōkhe qōn en
 \se
-\ps vt
 \wr B
+\ps vt
 \gr
 \sn 1
 \ur vent
@@ -71724,7 +71723,7 @@ lorsque cette feuille reçoit des usages particuliers
 \ms no-
 \rd
 \ng
-\pdl
+\pdl 
 
 \sn 2
 \ge
@@ -71747,7 +71746,7 @@ fv:yōōy (?)
 \ee
 \rf
 \ee
-\mn
+\mn 
 
 \sn
 \rf
@@ -72522,8 +72521,8 @@ poisson.
 \lf Cf.
 \lv yon̄ninhet
 \se
-\ps vi
 \wr B
+\ps vi
 \gr
 \we + directionnel + vl:hiy
 \de écouter attentive^ment (dans telle direction)
@@ -72684,8 +72683,8 @@ pierres avec des feuilles
 \lf Syn.
 \lv m̄adeg
 \se
-\ps adv
 \wr B
+\ps adv
 \he cour
 \we porte sur le sujet ou sur l'objet
 \de en grand nombre
@@ -73157,8 +73156,8 @@ tes nouvelles].
 \cf togyon̄
 \ce se taire
 \se
-\ps adv
 \wr B
+\ps adv
 \de en silence
 \rf
 \xv Kēy hag yoyon̄ e kēy dēm hiy n-eh.
