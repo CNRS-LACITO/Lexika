@@ -1,0 +1,4 @@
+Inverser les ps/wr
+
+(\\ps [\w\s]+\n)(\\wr (A|B)\n)
+\2\1

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <script>
+            function charger_document_xml(chemin_accès)
+            {
+                if (window.ActiveXObject)
+                  {
+                  xhttp = new ActiveXObject("Msxml2.XMLHTTP");
+                  }
+                else
+                  {
+                  xhttp = new XMLHttpRequest();
+                  }
+                xhttp.open("GET", chemin_accès, false);
+                try {xhttp.responseType = "msxml-document"} catch(erreur) {} // Helping IE11
+                xhttp.send("");
+                return xhttp.responseXML;
+            }
+            
+            function obtenir_variable_lien(nom, lien)
+            {
+                if (!lien) lien = decodeURIComponent(window.location.href);
+                nom = nom.replace(/[\[\]]/g, "\\$&");
+                var expression = new RegExp("[?&]" + nom + "(=([^&#]*)|&|#|$)"),
+                    résultat = expression.exec(lien);
+                if (!résultat) return null;
+                if (!résultat[2]) return '';
+                return decodeURIComponent(résultat[2].replace(/\+/g, " "));
+            }
+            
+            function afficher_résultat()
+            {
+                var racine = location.protocol + '//' + location.host + location.pathname
+                var xml = charger_document_xml("mwotlap.xml");
+                var xsl = charger_document_xml("style.xsl");
+                var caractère = (obtenir_variable_lien("caractère")) ? (obtenir_variable_lien("caractère")) : ("*");
+                var languen = (obtenir_variable_lien("languen")) ? (obtenir_variable_lien("languen")) : ("mlv");
+                var langue1 = (obtenir_variable_lien("langue1")) ? (obtenir_variable_lien("langue1")) : ("fra");
+                var langue2 = (obtenir_variable_lien("langue2")) ? (obtenir_variable_lien("langue2")) : ("");
+                var langue3 = (obtenir_variable_lien("langue3")) ? (obtenir_variable_lien("langue3")) : ("");
+                // Code pour IE.
+                if (window.ActiveXObject || xhttp.responseType == "msxml-document")
+                  {
+                  ex = xml.transformNode(xsl);
+                  document.getElementById("dictionnaire").innerHTML = ex;
+                  }
+                // Code pour Chrome, Firefox, Opera, etc.
+                else if (document.implementation && document.implementation.createDocument)
+                  {
+                  processeur_xslt = new XSLTProcessor();
+                  processeur_xslt.importStylesheet(xsl);
+                  processeur_xslt.setParameter(null, "racine", racine);
+                  processeur_xslt.setParameter(null, "caractère", caractère);
+                  processeur_xslt.setParameter(null, "languen", languen);
+                  processeur_xslt.setParameter(null, "langue1", langue1);
+                  processeur_xslt.setParameter(null, "langue2", langue2);
+                  processeur_xslt.setParameter(null, "langue3", langue3);
+
+                  document_résultat = processeur_xslt.transformToFragment(xml, document);
+                  document.getElementById("dictionnaire").appendChild(document_résultat);
+              }
+            }
+        </script>
+        <title>Test HTML</title>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"/>
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>      
+        <script>
+        $(document).ready(function(){
+            $(window).on('activate.bs.scrollspy', function () {
+                élément = $('#liste-index').find(".active").last();
+                $('#index').scrollTop(élément.position().top);
+            });
+                
+            var décaler = function() {scrollBy(0, -65)};
+            if (location.hash) décaler();
+            window.addEventListener("hashchange", décaler);
+        });
+</script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        <link rel="stylesheet" type="text/css" href="style.css"/>
+    </head>
+    <body data-spy="scroll" data-target="#liste-index" data-offset="100" onload="afficher_résultat()">
+        <div id="dictionnaire"/>
+    </body>
+</html> 
