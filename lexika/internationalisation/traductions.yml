@@ -1,0 +1,86 @@
+langues:
+    eng:
+        général:
+            ressource lexicale: lexical resource
+            informations globales: global informations
+            nom: name
+            auteurs: authors
+            commentaire: comment
+            langues: languages
+            type de caractères: character type
+            autoglossonyme: autoglossonym
+            glossonyme: glossonym
+            statut: status
+            format d’entrée: input type
+            identifiant: identifier
+            dictionnaire: lexicon
+            entrée lexicale: lexical entry
+            sous-entrée lexicale: lexical subentry
+            lemme: lemma
+            sens général: sense
+            sens: sense
+            numéro de sens: sense number
+            numéro d’homonyme: homonym number
+            lexème: lexeme
+            phonétique: phonetic form
+            forme de surface: surface form
+            classe grammaticale: part of speech
+            ton: tone
+            définition: definition
+            glose: gloss
+            paradigme: paradigm
+            catégorie paradigmatique: paradigm category
+            morphologie: morphology
+            sens littéral: literally
+            exemple: example
+            langue: language
+            partie du discours: part of speech
+            contexte: context
+            représentation de texte: text representation
+            représentation de forme: form representation
+            forme écrite: written form
+            équivalent: equivalent
+            traduction: translation
+            déclaration: statement
+            usage: use
+            interrogation: question
+            grammaire: grammar
+            général: general
+            relation sémantique: sense relation
+            traduction de relation sémantique: sense relation translation
+            champ disciplinaire: subject field
+            domaine sémantique: semantic domain
+            nom scientifique: scientific name
+            information encyclopédique: encyclopedic information
+            forme de mot: word form
+            nombre grammatical: grammatical number
+            personne grammaticale: person
+            variante: variant form
+            forme apparentée: related form
+            entrée principale: main entry
+            sous-entrée: subentry
+            étymologie: etymology
+            média: media
+            phonétique de surface: surface phonetic form
+            commentaire de paradigme: paradigm comment
+            lien: link
+            cible: target
+        spécifique:
+            nombre grammatical: 
+                singulier: singular
+                duel: dual
+                pluriel: plural
+            personne grammaticale: 
+                première: first person
+                deuxième: second person
+                troisième: third person
+            type: 
+                emprunt: loanword
+                renvoi: confer
+            qualité: 
+                élevée: high
+                moyenne: medium
+                faible: low 
+            statut:
+                source: source
+                cible: target
