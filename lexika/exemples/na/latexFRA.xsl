@@ -54,7 +54,7 @@
         \newfontfamily{\nru}[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{Charis SIL}
         \newfontfamily{\fra}[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{EB Garamond}
         \newfontfamily{\cmn}[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{AR PL UMing CN}
-        \newfontfamily{\eng}[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{Calibri}
+        \newfontfamily{\eng}[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{Liberation Serif}
         \newfontfamily{\bod}[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{Gentium}
         \newcommand{\pprin}[1]{\begin{<xsl:value-of select="$langue"/>}{\prin #1}\end{<xsl:value-of select="$langue"/>}}
         \newcommand{\pnru}[1]{{\nru\textcolor{<xsl:value-of select="$nru"/>}{#1}}}

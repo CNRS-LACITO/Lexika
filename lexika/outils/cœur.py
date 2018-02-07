@@ -10,6 +10,9 @@ import yaml
 
 
 class Configuration:
+    """
+    Classe qui charge tous les paramètres de configuration utiles au processus de création de dictionnaires.
+    """
     def __init__(self, fichier_source):
         self.fichier_source = fichier_source
         self.variables = {"langues": {}}
@@ -66,23 +69,21 @@ class Configuration:
 
 
 class Traducteur:
-    def __init__(self, dictionnaires_généraux=lexika.internationalisation.dictionnaires_généraux, dictionnaires_conditionnels=lexika.internationalisation.dictionnaires_conditionnels):
-        self.dictionnaires_généraux = dictionnaires_généraux
-        self.dictionnaires_conditionnels = dictionnaires_conditionnels
-        self.dictionnaire_général = {}
-        self.dictionnaire_conditionnel = {}
-
-        for dictionnaire_général in dictionnaires_généraux:
-            self.dictionnaire_général.update(dictionnaire_général)
-
-        for dictionnaire_conditionnel in dictionnaires_conditionnels:
-            self.dictionnaire_conditionnel.update(dictionnaire_conditionnel)
+    """
+    Classe qui traduit selon la langue voulue les noms des entités, caractéristiques et autres valeurs de liste fermée à partir des traductions du fichier « internationalisation/traductions.yml ».
+    """
+    def __init__(self, langue):
+        self.langue = langue
+        with lexika.outils.OuvrirFichier("internationalisation/traductions.yml", "r", type="interne") as fichier:
+            traductions = yaml.load(fichier)
+        self.traductions = traductions["langues"].get(self.langue, {})
+        self.domaines = traductions["langues"].get(self.langue, {}).get("spécifique", {}).keys()
 
     def traduire(self, expression, domaine=None):
-        if domaine and domaine in self.dictionnaire_conditionnel and expression in self.dictionnaire_conditionnel[domaine]:
-            return self.dictionnaire_conditionnel[domaine][expression]
-        elif expression in self.dictionnaire_général:
-            return self.dictionnaire_général[expression]
+        if domaine and expression in self.traductions.get("spécifique", {}).get(domaine, {}):
+            return self.traductions["spécifique"][domaine][expression]
+        elif not domaine and expression in self.traductions.get("général", {}):
+            return self.traductions["général"][expression]
         else:
             return expression
     

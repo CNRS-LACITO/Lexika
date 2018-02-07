@@ -37,7 +37,7 @@ langues:
 XML:
   chemin cible: exemples/na/na.xml
   format: α #αβγ
-  langue: eng
+  langue: fra
   XSL: style.xsl
   tri: normal
 Latex:

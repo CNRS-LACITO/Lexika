@@ -42,7 +42,7 @@ XML:
   tri: normal
 Latex:
   format: standard
-  gabarit: exemples/na/latexCMN.xsl
+  gabarit: exemples/na/latexIMPR.xsl
   langue: fra
   chemin cible: exemples/na/résultats/naIMPR.tex
   fichiers annexes:

@@ -22,8 +22,8 @@ class GénérateurXML:
         self.dictionnaire = dictionnaire
 
     def obtenir_xml(self):
-        self.traduire = lexika.outils.Traducteur().traduire if self.langue == "eng" else lambda expression, domaine=None: expression
-        arborescence = lxml.etree.Element(self.convertir_nom(self.traduire(self.racine.nom_classe)))
+        self.traduire = lexika.outils.Traducteur(self.langue).traduire if self.langue != "fra" else lambda expression, domaine=None: expression
+        arborescence = lxml.etree.Element(self.convertir_nom(self.traduire(self.racine.nom_classe), "chameau"))
         for élément in self.racine.descendance:
             self.créer_éléments(élément, arborescence)
         texte_structuré = lxml.etree.tostring(arborescence, encoding="unicode", method="xml", pretty_print=True)
@@ -36,10 +36,8 @@ class GénérateurXML:
     def créer_éléments(self, entité, élément_parent):
         if isinstance(entité, lexika.outils.Entité):
             if self.format == "α":
-                if "Homonyme" in entité.nom_classe:
-                    print(entité.nom_classe, self.traduire(entité.nom))
-                nom = self.convertir_nom(self.traduire(entité.nom))
-                attributs = {self.convertir_nom(self.traduire(clef)): self.traduire(valeur) for clef, valeur in entité.caractéristiques.items()}
+                nom = self.convertir_nom(self.traduire(entité.nom), "chameau")
+                attributs = {self.convertir_nom(self.traduire(clef), "serpent"): self.traduire(valeur) for clef, valeur in entité.caractéristiques.items()}
                 if entité.spécial and "texte enrichi" in entité.spécial.get("drapeaux", {}):
                     élément_actuel = lxml.etree.XML(f"<{nom}>{entité.valeur}</{nom}>", parser=lxml.etree.XMLParser(recover=True))
                     élément_parent.append(élément_actuel)
@@ -47,13 +45,18 @@ class GénérateurXML:
                         élément_actuel.set(attribut, valeur)
                 else:                    
                     élément_actuel = lxml.etree.SubElement(élément_parent, nom, attrib=attributs)
-                    élément_actuel.text = entité.valeur
+                    élément_actuel.text = self.traduire(entité.valeur, entité.nom)
             if hasattr(entité, "descendance"):
                 for enfant in sorted(entité.descendance, key=lambda entrée: self.trieur.trier_éléments(entrée.caractéristiques["identifiant"])) if entité == self.dictionnaire else entité.descendance:
                     self.créer_éléments(enfant, élément_actuel)
 
-    def convertir_nom(self, nom):
-        return "".join([segment[0].upper() + segment[1:] for segment in regex.compile(r"[\s’]+").split(nom.replace(" ", "_").replace("’", "ʼ"))])
+    def convertir_nom(self, nom, méthode):
+        if méthode == "chameau":
+            return "".join([segment[0].upper() + segment[1:] for segment in regex.split(r"[\s'’]", nom)])
+        elif méthode == "serpent":
+            return "".join([segment if index == 0 else segment[0].upper() + segment[1:] for index, segment in enumerate(regex.split(r"[\s'’]", nom))])
+        else:
+            return regex.sub(r"['’]", "ʼ", nom)
 
 
 class GénérateurLatex:
