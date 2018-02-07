@@ -13,7 +13,8 @@ def convertir_nom_classe(nom):
 
 class Abstraction:
     """
-    Classe majeure qui concentre toutes les informations nécessaires pour créer une unique entité (parents potentiels, préabstractions en cas de nécessité, paramètres divers influant sur la création de l'entité, etc.). L'abstraction se situe entre la balise de la source et l'entité du résultat."""
+    Classe majeure qui concentre toutes les informations nécessaires pour créer une unique entité (parents potentiels, préabstractions en cas de nécessité, paramètres divers influant sur la création de l'entité, etc.). L'abstraction se situe entre la balise de la source et l'entité du résultat.
+    """
     def __init__(self, nom: str, structure: dict, valeur: str = None, caractéristiques: dict = {}, drapeaux: Union[dict, list] = None, appelants: list = []):
         self.nom: str = nom
         self.nom_classe = convertir_nom_classe(nom)

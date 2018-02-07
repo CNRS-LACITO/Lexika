@@ -3,7 +3,7 @@
 \lx æ̃˩˧
 \sf <nb="B"> 1789
 \sf <nb="2011"> 2642
-\ph aenq
+\or aenq
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -49,7 +49,7 @@
 
 \lx æ̃˩˥
 \sf <nb="2011"> 996
-\ph aenq
+\or aenq
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
@@ -73,7 +73,7 @@
 \sf <nb="B"> 69
 \sf <nb="B"> 70
 \sf <nb="2011"> 115
-\ph aen
+\or aen
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -106,7 +106,7 @@
 \lx ɑ˩˧
 \sf <nb="B"> 1793
 \sf <nb="2011"> 2651
-\ph oq
+\or oq
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -141,7 +141,7 @@
 \lx æ˧bæ˧
 \sf <nb="B"> 141
 \sf <nb="2011"> 206
-\ph aebbae
+\or aebbae
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -161,7 +161,7 @@
 \dt 25/Aug/2015
 
 \lx æ˧bæ˧-ʈʂʰæ˧ɣɯ#˥
-\ph aebbae chaehree
+\or aebbae chaehree
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -178,12 +178,12 @@
 \dt 11/May/2017
 
 \lx æ̃˩bi˩
-\ph Aenbbi
+\or Aenbbi
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
 \nt <type="hist" print="n"> nasalité: vérifié en août 2014
-\np indication de Roselle: «/wæ̃.bi/. The speaker who told me this word comes from the Yunnan side (阿古瓦 in Chinese), north of where your Ama comes from."
+\np indication de Roselle: «/w̃æ.bi/. The speaker who told me this word comes from the Yunnan side (阿古瓦 in Chinese), north of where your Ama comes from."
 \ton L
 \lc æ̃˩bi˩˥
 \so <print="n"> F4
@@ -205,7 +205,7 @@
 
 \lx æ̃˩bv̩˥
 \sf <nb="2011"> 608
-\ph aenbbu
+\or aenbbu
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -228,7 +228,7 @@
 \lx æ˩gv̩˩
 \sf <nb="B"> 578
 \sf <nb="2011"> 819
-\ph aeggu
+\or aeggu
 \ps n
 \sd <langue="fra"> agriculture
 \sd <langue="eng"> agriculture
@@ -268,7 +268,7 @@
 \lx æ˩gv̩˩-mæ˩qo˥
 \sf <nb="B"> 587
 \sf <nb="2011"> 827
-\ph aeggu maegheu
+\or aeggu maegheu
 \ps n
 \sd <langue="fra"> agriculture
 \sd <langue="eng"> agriculture
@@ -296,7 +296,7 @@
 \dt 01/Sep/2015
 
 \lx æ˧-hi˩hi˩
-\ph aexiexie
+\or aexiexie
 \ps intj
 \sd <langue="fra"> interjection
 \sd <langue="eng"> interjection
@@ -317,7 +317,7 @@
 \dt 01/Aug/2017
 
 \lx æ˧ʝi˩
-\ph eyi
+\or eyi
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
@@ -345,7 +345,7 @@
 \dt 11/May/2017
 
 \lx æ˧ʝi˧
-\ph eyi
+\or eyi
 \ps intj
 \cf æ˧ʝi˩
 \nt <type="hist" print="n"> A Hui, 2016: æ˧ʝi˩，声调改变成“æ˧ʝi˧”后，在我们那边的摩梭话里,除了叫声,还有”天哪“的意思，（但这个”天哪“不等同于汉语的”天哪“）它没有感叹的成分，仅仅表示劝阻语气（不好的方面），比如,两个人在谈话中，其中甲告诉乙自己准备买一件大衣，乙觉得甲非常不适合那款衣服，就会说“æ˧ʝi˧”，那个衣服不适合你。再比如，婴儿抓到脏东西（如泥巴）就往嘴里放，大人就会说”æ˧ʝi˧”，脏.
@@ -366,7 +366,7 @@
 \hm 1
 \sf <nb="B"> 769
 \sf <nb="2011"> 1164
-\ph aenq ku
+\or aenq ku
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -388,7 +388,7 @@
 
 \lx æ̃˩-kʰv̩˧˥
 \hm 2
-\ph aenq kuq
+\or aenq kuq
 \ps adj
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -411,7 +411,7 @@
 \lx æ̃˩li˧pʰæ˥
 \sf <nb="B"> 491
 \sf <nb="2011"> 675
-\ph aelipae
+\or aelipae
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -436,7 +436,7 @@
 \lx æ̃˩ɬi#˥
 \sf <nb="B"> 668
 \sf <nb="2011"> 995
-\ph aenlhi
+\or aenlhi
 \bw <langue="bod"> bla (older form: brla)
 \ps n
 \sd <langue="fra"> religion
@@ -461,7 +461,7 @@
 \lx æ̃˩mi˧
 \sf <nb="B"> 1791
 \sf <nb="2011"> 2645
-\ph aenmi
+\or aenmi
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -495,7 +495,7 @@
 \lx æ˩mi˧-mv̩˧ʈv̩˥
 \sf <nb="B"> 179
 \sf <nb="2011"> 248
-\ph aemi mudeu
+\or aemi mudeu
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -522,7 +522,7 @@
 
 \lx æ˩mi˧-ʁwɤ#˥
 \sf <nb="2011"> 3332
-\ph Aemiwua
+\or Aemiwua
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -544,7 +544,7 @@
 \dt 11/May/2017
 
 \lx ɑ˩mi#˥
-\ph omi
+\or omi
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -569,7 +569,7 @@
 \lx æ˩mo˧
 \sf <nb="B"> 585
 \sf <nb="2011"> 826
-\ph aemo
+\or aemo
 \ps n
 \cf æ˩gv̩˩
 \sd <langue="fra"> agriculture
@@ -595,7 +595,7 @@
 \lx æ˧ɲi#˥
 \sf <nb="B"> 657
 \sf <nb="2011"> 982
-\ph aeni
+\or aeni
 \ps n
 \sd <langue="fra"> musique
 \sd <langue="eng"> music
@@ -620,7 +620,7 @@
 \lx æ˩pʰæ˧˥
 \sf <nb="B"> 33
 \sf <nb="2011"> 44
-\ph aenpae
+\or aenpae
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -651,7 +651,7 @@
 \lx ɑ˩pʰo˩
 \sf <nb="B"> 705
 \sf <nb="2011"> 1052
-\ph apo
+\or apo
 \ps adv
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
@@ -693,7 +693,7 @@
 \lx ɑ˩pʰo˩-hĩ˩
 \sf <nb="B"> 898b
 \sf <nb="2011"> 1317
-\ph apohin
+\or apohin
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -715,7 +715,7 @@
 \sf <nb="B"> 139
 \sf <nb="B"> 1203
 \sf <nb="2011"> 1668
-\ph apu
+\or apu
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -734,7 +734,7 @@
 \dt 25/Aug/2015
 
 \lx ɑ˩pʰv̩#˥
-\ph opu
+\or opu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -756,7 +756,7 @@
 \sf <nb="B"> 962
 \sf <nb="2011"> 2730
 \hm 1
-\ph aeghae
+\or aeghae
 \ps n
 \cf æ̃˧qæ˩2
 \sd <langue="fra"> animal
@@ -781,7 +781,7 @@
 
 \lx æ̃˧qæ˩
 \hm 2
-\ph aeghae
+\or aeghae
 \ec <langue="fra"> Il s'agit du mot ‘perroquet', utilisé par extension pour fairer référence à une couleur: bleu-vert.
 \ec <langue="eng"> This is the word for ‘parrot', used by extension to refer to a colour: blue-green.
 \ps adj
@@ -818,7 +818,7 @@
 \lx æ˩qʰv̩˥
 \sf <nb="B"> 35c
 \sf <nb="2011"> 48
-\ph aenkheu
+\or aenkheu
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -845,7 +845,7 @@
 \sf <nb="B"> 273
 \sf <nb="B"> 352
 \sf <nb="2011"> 589
-\ph awo
+\or awo
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -904,7 +904,7 @@
 \lx æ̃˩ʁv̩˩
 \sf <nb="B"> 394
 \sf <nb="2011"> 498
-\ph aenweu
+\or aenweu
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -939,7 +939,7 @@
 \lx æ˧ʁwæ˧
 \sf <nb="B"> 1972
 \sf <nb="2011"> 2999
-\ph aewae
+\or aewae
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -963,7 +963,7 @@
 \dt 24/Aug/2015
 
 \lx æ˧ʂæ˧
-\ph Aeshae
+\or Aeshae
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -984,7 +984,7 @@
 \dt 25/Aug/2015
 
 \lx æ˧ʂæ˧-pi˧mv̩˧˥
-\ph eshae bimu
+\or eshae bimu
 \et æ˧ʂæ#˥; pi˧mv̩˥$
 \ps n
 \sd <langue="fra"> langage
@@ -1005,7 +1005,7 @@
 \dt 01/Sep/2015
 
 \lx æ˧ʂæ˧-qʰwæ#˥
-\ph eshae khuae
+\or eshae khuae
 \et æ˧ʂæ#˥; qʰwæ˧
 \ps n
 \sd <langue="fra"> langage
@@ -1029,7 +1029,7 @@
 \lx æ˧ʂæ˧-qʰwɤ˧˥
 \sf <nb="B"> 639
 \sf <nb="2011"> 956
-\ph eshae khua
+\or eshae khua
 \ps n
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
@@ -1062,7 +1062,7 @@
 \dt 06/Jun/2017
 
 \lx æ˧ʂæ˧-tɑ˩mv̩˩
-\ph eshae damu
+\or eshae damu
 \et æ˧ʂæ#˥; tɑ˩mv̩˩
 \ps n
 \sd <langue="fra"> langage
@@ -1087,7 +1087,7 @@
 \dt 24/Apr/2017
 
 \lx æ˧ʂæ#˥
-\ph eshae
+\or eshae
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -1111,7 +1111,7 @@
 \lx æ̃˩ʂe˩
 \sf <nb="B"> 211
 \sf <nb="2011"> 279
-\ph aenshei
+\or aenshei
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -1142,7 +1142,7 @@
 \dt 25/Aug/2015
 
 \lx æ̃˩ʂe˧li˥-mo˩
-\ph aensheilimo
+\or aensheilimo
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -1161,7 +1161,7 @@
 \lx æ̃˧ʂwæ˥
 \sf <nb="B"> 1790
 \sf <nb="2011"> 2644
-\ph aenshuae
+\or aenshuae
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -1189,7 +1189,7 @@
 \lx æ˧tse˥-pʰæ˩
 \sf <nb="B"> 169
 \sf <nb="2011"> 235
-\ph aezeipae
+\or aezeipae
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -1212,7 +1212,7 @@
 
 \lx æ̃˧tsɯ˥
 \sf <nb="2011"> 2646
-\ph aenzi
+\or aenzi
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -1231,7 +1231,7 @@
 \dt 25/Aug/2015
 
 \lx æ̃˧tsɯ˥-kʰɯ˩ʈʂɤ˩-mo˩
-\ph aenzi keezhe mo
+\or aenzi keezhe mo
 \ps n
 \cf æ̃˧tsɯ˥, kʰɯ˧ʈʂɤ#˥
 \sd <langue="fra"> plante
@@ -1251,7 +1251,7 @@
 \lx æ˧tsɯ˥-pɤ˩lv̩˩
 \sf <nb="B"> 162
 \sf <nb="2011"> 207
-\ph aezi belu
+\or aezi belu
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -1275,7 +1275,7 @@
 \lx æ˩ʈv̩˥
 \sf <nb="B"> 34
 \sf <nb="2011"> 45
-\ph aendeu
+\or aendeu
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -1299,7 +1299,7 @@
 \dt 01/Sep/2015
 
 \lx æ˧ʈwɤ˩
-\ph aendua
+\or aendua
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -1321,7 +1321,7 @@
 \dt 01/Sep/2015
 
 \lx æ̃˧ʈwɤ˩-mv̩˩kʰv̩˩
-\ph aendua muku
+\or aendua muku
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -1340,7 +1340,7 @@
 \lx æ̃˧-v̩#˥
 \sf <nb="B"> 507
 \sf <nb="2011"> 699
-\ph aenvu
+\or aenvu
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -1361,7 +1361,7 @@
 \dt 24/Apr/2017
 
 \lx ɑ˩zo#˥
-\ph osso
+\or osso
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -1379,7 +1379,7 @@
 \lx æ̃˩zɯ˩
 \sf <nb="B"> 2286
 \sf <nb="2011"> 571
-\ph onssi
+\or onssi
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
@@ -1409,7 +1409,7 @@
 \dt 13/Jul/2017
 
 \lx æ̃˩α
-\ph aen
+\or aen
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -1431,7 +1431,7 @@
 
 \lx æ̃˩α
 \hm 1
-\ph aeq
+\or aeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -1451,7 +1451,7 @@
 
 \lx æ̃˩α
 \hm 2
-\ph aenq
+\or aenq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -1477,7 +1477,7 @@
 \sf <nb="B"> 590
 \sf <nb="2011"> 833
 \hm 1
-\ph bbae
+\or bbae
 \ps n
 \sd <langue="fra"> agriculture
 \sd <langue="eng"> agriculture
@@ -1508,7 +1508,7 @@
 
 \lx bæ˩
 \hm 2
-\ph bbaeq
+\or bbaeq
 \ps v
 \cf bæ˩˥
 \sd <langue="fra"> corps
@@ -1535,7 +1535,7 @@
 \lx bæ˩˧
 \sf <nb="B"> 2048a
 \sf <nb="2011"> 3159
-\ph bbaeq 
+\or bbaeq 
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -1568,7 +1568,7 @@
 \lx bæ˩˥
 \sf <nb="B"> 237
 \sf <nb="2011"> 308
-\ph bbaeq
+\or bbaeq
 \ps n
 \cf bæ˩2
 \sd <langue="fra"> corps
@@ -1601,7 +1601,7 @@
 \sf <nb="B"> 1068
 \sf <nb="2011"> 1504
 \hm
-\ph bbae
+\or bbae
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -1634,7 +1634,7 @@
 \lx bæ˧˥
 \sf <nb="B"> 1439
 \sf <nb="2011"> 2096
-\ph bbaeq
+\or bbaeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -1657,7 +1657,7 @@
 \dt 25/Aug/2015
 
 \lx bɑ˩˥
-\ph bba
+\or bba
 \ps disc.PTCL
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -1676,7 +1676,7 @@
 \sf <nb="B"> 2134
 \sf <nb="2011"> 3271
 \hm 1
-\ph bbaebbae
+\or bbaebbae
 \ps n
 \cf bæ˩bæ˩2
 \sd <langue="fra"> plante
@@ -1699,7 +1699,7 @@
 \sf <nb="B"> 1064
 \sf <nb="2011"> 1403
 \hm 2
-\ph bbaebbae
+\or bbaebbae
 \ps adj
 \cf bæ˩bæ˩1
 \sd <langue="fra"> adjectif
@@ -1725,7 +1725,7 @@
 \lx bæ˧bv̩˥
 \sf <nb="B"> 1856
 \sf <nb="2011"> 2820
-\ph bbaebbu
+\or bbaebbu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -1750,7 +1750,7 @@
 \dt 26/Aug/2015
 
 \lx bæ˧ɖæ˧
-\ph bbaeddae
+\or bbaeddae
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -1769,7 +1769,7 @@
 
 \lx bæ˩dʑɯ˥
 \sf <nb="2011"> 3160
-\ph bbejji
+\or bbejji
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -1801,7 +1801,7 @@
 \lx bɑ˩lɑ˩
 \sf <nb="B"> 418
 \sf <nb="2011"> 529
-\ph bbala
+\or bbala
 \ps n
 \ton L
 \lc bɑ˩lɑ˩˥
@@ -1848,7 +1848,7 @@
 \lx bɑ˧lɑ˧kʰɯ˧tsʰɤ˧
 \sf <nb="B"> 1834
 \sf <nb="2011"> 2790
-\ph bbalakeece
+\or bbalakeece
 \ps n
 \lc bɑ˧lɑ˧kʰɯ˧tsʰɤ˧
 \sd <langue="fra"> animal
@@ -1874,7 +1874,7 @@
 
 \lx bæ˩-lɑ˩~lɑ˥
 \sf <nb="2011"> 1425
-\ph bbaelala
+\or bbaelala
 \ps adj
 \lc bæ˩lɑ˩lɑ˥
 \sd <langue="fra"> adjectif
@@ -1893,7 +1893,7 @@
 \lx bæ˩-ljɤ˧~ljɤ˧
 \sf <nb="B"> 2145
 \sf <nb="2011"> 3290
-\ph bbaelialia
+\or bbaelialia
 \ps n
 \lc bæ˩ljɤ˧ljɤ˧
 \sd <langue="fra"> plante
@@ -1919,7 +1919,7 @@
 \sf <nb="B"> 1792
 \sf <nb="2011"> 2647
 \hm 1
-\ph bbaemi
+\or bbaemi
 \ps n
 \lc bæ˧mi˧
 \sn 1
@@ -1959,7 +1959,7 @@
 
 \lx bæ˧mi˧
 \hm 2
-\ph bbaemi
+\or bbaemi
 \ps n
 \lc bæ˧mi˧
 \sd <langue="fra"> objet
@@ -1987,7 +1987,7 @@
 \dt 26/Aug/2015
 
 \lx bæ˧mi˧-pʰv̩#˥
-\ph bbaemipu
+\or bbaemipu
 \ps n
 \lc bæ˧mi˧pʰv̩˧
 \cf bæ˧pʰv̩#˥
@@ -2010,7 +2010,7 @@
 \dt 03/Aug/2017
 
 \lx bæ˩pʰv̩˥
-\ph bbaepeu
+\or bbaepeu
 \ps n
 \lc bæ˩pʰv̩˥
 \sd <langue="fra"> plante
@@ -2036,7 +2036,7 @@
 \dt 03/Aug/2017
 
 \lx bæ˧pʰv̩#˥
-\ph bbaepu
+\or bbaepu
 \ps n
 \lc bæ˧pʰv̩˧
 \cf bæ˧mi˧-pʰv̩#˥
@@ -2066,7 +2066,7 @@
 \lx bæ˩-ʁwæ˩~ʁwæ˥
 \sf <nb="B"> 1003
 \sf <nb="2011"> 1424
-\ph bbaewaewae
+\or bbaewaewae
 \ps adj
 \lc bæ˩ʁwæ˩ʁwæ˥
 \sd <langue="fra"> adjectif
@@ -2090,7 +2090,7 @@
 \dt 12/May/2017
 
 \lx bæ˧ʁwɤ˧
-\ph Bbaewua
+\or Bbaewua
 \ps n
 \lc bæ˧ʁwɤ˧
 \sd <langue="fra"> lieu
@@ -2125,7 +2125,7 @@
 \lx bæ˩ʈʂo˥
 \sf <nb="B"> 492
 \sf <nb="2011"> 676
-\ph bbaezho
+\or bbaezho
 \ps n
 \lc bæ˩ʈʂo˥
 \sd <langue="fra"> objet
@@ -2150,7 +2150,7 @@
 \lx bæ˩ʈʂwæ˩
 \sf <nb="B"> 554
 \sf <nb="2011"> 791
-\ph bbaezhuae
+\or bbaezhuae
 \ps n
 \lc bæ˩ʈʂwæ˩˥
 \sd <langue="fra"> objet
@@ -2175,7 +2175,7 @@
 \dt 16/Jun/2017
 
 \lx bæ˧zo#˥
-\ph bbaesso
+\or bbaesso
 \ps n
 \lc bæ˧zo˧
 \sd <langue="fra"> animal
@@ -2205,7 +2205,7 @@
 \sf <nb="B"> 1476
 \sf <nb="2011"> 1573
 \hm 1
-\ph bbaeq
+\or bbaeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -2256,7 +2256,7 @@
 \sf <nb="B"> 1254
 \sf <nb="2011"> 1798
 \hm 2
-\ph bbaeq
+\or bbaeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -2282,7 +2282,7 @@
 \sf <nb="B"> 1363
 \sf <nb="2011"> 1245
 \hm 3
-\ph bbae
+\or bbae
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -2303,7 +2303,7 @@
 \dt 30/Apr/2017
 
 \lx bæ˧α
-\ph bbae
+\or bbae
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -2332,7 +2332,7 @@
 
 \lx bi˩
 \sf <nb="2011"> 1060
-\ph bbi
+\or bbi
 \ps postp
 \lc --
 \sd <langue="fra"> morphosyntaxe
@@ -2376,7 +2376,7 @@
 
 \lx bi˧
 \hm 2
-\ph bbi
+\or bbi
 \ps n
 \cf fv̩˩bi˩
 \lc bi˧
@@ -2396,7 +2396,7 @@
 \sf <nb="B"> 1277
 \sf <nb="2011"> 1837
 \hm 3
-\ph bbi
+\or bbi
 \ps v
 \lc bi˧
 \sd <langue="fra"> verbe
@@ -2421,7 +2421,7 @@
 \sf <nb="B"> 933
 \sf <nb="B"> 933b
 \sf <nb="2011"> 1354
-\ph bbi
+\or bbi
 \ps adj
 \lc bi˧
 \sd <langue="fra"> adjectif
@@ -2453,7 +2453,7 @@
 \lx bi˥
 \sf <nb="B"> 11
 \sf <nb="2011"> 21
-\ph bbi
+\or bbi
 \ps n
 \lc bi˧
 \sd <langue="fra"> environnement naturel
@@ -2479,7 +2479,7 @@
 
 \lx bi˩bi˧
 \sf <nb="2011"> 3151
-\ph bbibbi
+\or bbibbi
 \ps n
 \lc bi˩bi˥
 \sd <langue="fra"> plante
@@ -2506,7 +2506,7 @@
 \dt 24/Apr/2017
 
 \lx bi˧bv̩˥
-\ph bbibbu
+\or bbibbu
 \ps v
 \lc bi˧bv̩˥
 \sd <langue="fra"> verbe
@@ -2535,7 +2535,7 @@
 
 \lx bi˧ɕi˧kv̩˥
 \sf <nb="2011"> 197
-\ph bbixigu
+\or bbixigu
 \ps n
 \lc bi˧ɕi˧kv̩˥
 \sd <langue="fra"> corps
@@ -2560,7 +2560,7 @@
 \lx bi˧hæ˧˥
 \sf <nb="B"> 548
 \sf <nb="2011"> 783
-\ph bbihae
+\or bbihae
 \ps n
 \lc bi˧hæ˧˥
 \sd <langue="fra"> objet
@@ -2591,7 +2591,7 @@
 \lx bi˧-lv̩˧~lv̩˥
 \sf <nb="B"> 11b
 \sf <nb="2011"> 22
-\ph bbilulu
+\or bbilulu
 \ps n
 \lc bi˧lv̩˧lv̩˥
 \sd <langue="fra"> environnement naturel
@@ -2614,7 +2614,7 @@
 \lx bi˩mi˩
 \sf <nb="B"> 561
 \sf <nb="2011"> 795
-\ph bbimi
+\or bbimi
 \ps n
 \lc bi˩mi˩˥
 \sd <langue="fra"> objet
@@ -2638,7 +2638,7 @@
 \sf <nb="B"> 152
 \sf <nb="B"> 2163
 \sf <nb="2011"> 220
-\ph bbimi
+\or bbimi
 \ps n
 \lc bi˧mi˧
 \sd <langue="fra"> corps
@@ -2668,7 +2668,7 @@
 
 \lx bi˩pʰv̩˧˥
 \sf <nb="2011"> 3179
-\ph bbipu
+\or bbipu
 \ps n
 \lc bi˩pʰv̩˧˥
 \sd <langue="fra"> plante
@@ -2684,7 +2684,7 @@
 \dt 24/Apr/2017
 
 \lx bi˩pʰv̩˧-dʑɯ˧˥
-\ph bbipeujji
+\or bbipeujji
 \ps n
 \lc bi˩pʰv̩˧dʑɯ˧˥
 \sd <langue="fra"> environnement naturel
@@ -2701,7 +2701,7 @@
 
 \lx bi˩ʁo˥
 \sf <nb="2011"> 547
-\ph bbiwo
+\or bbiwo
 \ps n
 \lc bi˩ʁo˥
 \sd <langue="fra"> vêtement
@@ -2726,7 +2726,7 @@
 \lx bi˩tɑ˩
 \sf <nb="B"> 1553
 \sf <nb="2011"> 2001
-\ph bbida
+\or bbida
 \ps v
 \lc bi˩tɑ˩˥
 \sd <langue="fra"> verbe
@@ -2752,7 +2752,7 @@
 
 \lx bi˧tɑ˧
 \sf <nb="2011"> 764
-\ph bbida
+\or bbida
 \ps n
 \lc bi˧tɑ˧
 \sd <langue="fra"> objet
@@ -2772,7 +2772,7 @@
 \dt 24/Apr/2017
 
 \lx bi˧tɕo˧
-\ph bbijo
+\or bbijo
 \ps n
 \lc bi˧tɕo˧
 \sd <langue="fra"> société
@@ -2791,7 +2791,7 @@
 \lx bi˧tɕɤ˩
 \sf <nb="B"> 154a
 \sf <nb="2011"> 222
-\ph bbija
+\or bbija
 \ps n
 \lc bi˧tɕɤ˩
 \sd <langue="fra"> corps
@@ -2815,7 +2815,7 @@
 
 \lx bi˩ʈʂʰɤ#˥
 \sf <nb="2011"> 199
-\ph bbiche
+\or bbiche
 \ps n
 \lc bi˩ʈʂʰɤ˥
 \sd <langue="fra"> corps
@@ -2839,7 +2839,7 @@
 \lx bi˩-tsɯ˧tsɯ˧
 \sf <nb="B"> 2054
 \sf <nb="2011"> 3171
-\ph bbizizi
+\or bbizizi
 \ps n
 \lc bi˩tsɯ˧tsɯ˧
 \sd <langue="fra"> plante
@@ -2858,7 +2858,7 @@
 \lx bi˩wɤ˧
 \sf <nb="B"> 540b
 \sf <nb="2011"> 773
-\ph bbi'ua
+\or bbi'ua
 \ps n
 \lc bi˩wɤ˥
 \sd <langue="fra"> objet
@@ -2881,7 +2881,7 @@
 \lx bi˧zɯ˧
 \sf <nb="B"> 153
 \sf <nb="2011"> 221
-\ph bbissi
+\or bbissi
 \ps n
 \lc bi˧zɯ˧
 \sd <langue="fra"> corps
@@ -2902,7 +2902,7 @@
 \dt 24/Apr/2017
 
 \lx bi˩γ
-\ph bbi
+\or bbi
 \ps clf
 \lc ɖɯ˧ bi˩
 \sd <langue="fra"> classificateur
@@ -2926,7 +2926,7 @@
 \sf <nb="B"> 1756
 \sf <nb="2011"> 2582
 \hm 1
-\ph bbi
+\or bbi
 \ps v
 \lc bi˧
 \sd <langue="fra"> verbe
@@ -2958,7 +2958,7 @@
 \dt 24/Apr/2017
 
 \lx bo
-\ph bbo
+\or bbo
 \bw <langue="cmn"> 啵
 \ps disc.PTCL
 \lc --
@@ -2976,7 +2976,7 @@
 \dt 4/Apr/2017
 
 \lx bõ
-\ph bbon
+\or bbon
 \ps ideophone
 \lc bõ
 \sd <langue="fra"> morphosyntaxe
@@ -2997,7 +2997,7 @@
 \sf <nb="B"> ancien
 \sf <nb="B"> 1923)
 \sf <nb="2011"> 2813
-\ph bboq
+\or bboq
 \ps n
 \lc bo˩˥
 \sd <langue="fra"> animal
@@ -3032,7 +3032,7 @@
 \sf <nb="B"> 46a
 \sf <nb="2011"> 75
 \hm 1
-\ph bbo
+\or bbo
 \ps n
 \lc bo˧
 \sd <langue="fra"> environnement naturel
@@ -3076,7 +3076,7 @@
 \sf <nb="B"> 1654
 \sf <nb="2011"> 2461
 \hm 2
-\ph bbo
+\or bbo
 \ps adj
 \lc bo˧
 \sd <langue="fra"> adjectif
@@ -3106,7 +3106,7 @@
 \lx bɤ˥
 \sf <nb="B"> 252
 \sf <nb="2011"> 321
-\ph Bbe
+\or Bbe
 \ps n
 \lc bɤ˧
 \sd <langue="fra"> ethnies
@@ -3132,7 +3132,7 @@
 \dt 26/Aug/2015
 
 \lx bo˩β
-\ph bbo
+\or bbo
 \ps clf
 \lc ɖɯ˧ bo˩
 \sd <langue="fra"> classificateur
@@ -3150,7 +3150,7 @@
 \dt 24/Apr/2017
 
 \lx bo˧β
-\ph bbo
+\or bbo
 \ps v
 \lc bo˧
 \cf sɑ˧bo#˥
@@ -3174,7 +3174,7 @@
 \lx bo˩-bi˧mi˧
 \sf <nb="B"> 1940
 \sf <nb="2011"> 472
-\ph bbobbimi
+\or bbobbimi
 \ps n
 \lc bo˩bi˧mi˧
 \sd <langue="fra"> nourriture
@@ -3196,7 +3196,7 @@
 
 \lx bo˩-bv̩˥
 \sf <nb="2011"> 607
-\ph bbobbu
+\or bbobbu
 \ps n
 \lc bo˩bv̩˥
 \sd <langue="fra"> maison
@@ -3218,7 +3218,7 @@
 \lx bo˩dze˧
 \sf <nb="B"> 1808
 \sf <nb="2011"> 2748
-\ph bbozzei
+\or bbozzei
 \ps n
 \lc bo˩dze˥
 \cf bo˩dze˧-ko˩dze˩
@@ -3237,7 +3237,7 @@
 
 \lx bo˩dze˧-ko˩dze˩
 \sf <nb="2011"> 2705
-\ph bbozzeigozzei
+\or bbozzeigozzei
 \ps n
 \lc bo˩dze˧ko˩dze˩
 \cf bo˩dze˧
@@ -3256,7 +3256,7 @@
 
 \lx bɤ˧dzi˩
 \sf <nb="2011"> 3324
-\ph Bbezzee
+\or Bbezzee
 \ps n
 \lc bɤ˧dzi˩
 \sd <langue="fra"> lieu
@@ -3280,7 +3280,7 @@
 \lx bo˩-ɣɯ˥
 \sf <nb="B"> 1947
 \sf <nb="2011"> 488
-\ph bbohree
+\or bbohree
 \ps n
 \lc bo˩ɣɯ˥
 \sd <langue="fra"> nourriture
@@ -3307,7 +3307,7 @@
 \lx bo˩-hɑ#˥
 \sf <nb="B"> 406
 \sf <nb="2011"> 513
-\ph bboha
+\or bboha
 \ps n
 \lc bo˩hɑ˥
 \sd <langue="fra"> nourriture
@@ -3332,7 +3332,7 @@
 \lx bo˩-kʰɯ˧
 \sf <nb="B"> 1946
 \sf <nb="2011"> 469
-\ph bbokee
+\or bbokee
 \ps n
 \lc bo˩kʰɯ˥
 \sd <langue="fra"> nourriture
@@ -3355,7 +3355,7 @@
 \lx bɤ˧kɯ˧
 \sf <nb="B"> 596b
 \sf <nb="2011"> 861
-\ph bbegee
+\or bbegee
 \ps n
 \lc bɤ˧kɯ˧
 \sd <langue="fra"> objet
@@ -3380,7 +3380,7 @@
 \hm 1
 \sf <nb="B"> 771
 \sf <nb="2011"> 1166
-\ph bboku
+\or bboku
 \ps n
 \lc bo˩kʰv̩˧˥
 \sd <langue="fra"> temps
@@ -3402,7 +3402,7 @@
 
 \lx bo˩-kʰv̩˧˥
 \hm 2
-\ph bboq kuq
+\or bboq kuq
 \ps adj
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -3419,7 +3419,7 @@
 
 \lx bo˩ɬɑ˥
 \sf <nb="2011"> 2817
-\ph bbolha
+\or bbolha
 \ps n
 \lc bo˩ɬɑ˥
 \sd <langue="fra"> animal
@@ -3443,7 +3443,7 @@
 \dt 13/May/2017
 
 \lx bo˩lo˧
-\ph bbolo
+\or bbolo
 \ps n
 \lc bo˩lo˥
 \sd <langue="fra"> outil
@@ -3468,7 +3468,7 @@
 
 \lx bo˩-ɬo˥
 \sf <nb="2011"> 478
-\ph bbolho
+\or bbolho
 \ps n
 \lc bo˩ɬo˥
 \sd <langue="fra"> nourriture
@@ -3492,7 +3492,7 @@
 
 \lx bo˩-mæ˧qv̩˩
 \sf <nb="2011"> 475
-\ph bbomaegheu
+\or bbomaegheu
 \ps n
 \lc bo˩mæ˧qv̩˩
 \sd <langue="fra"> nourriture
@@ -3513,7 +3513,7 @@
 \lx bo˩mi˧
 \sf <nb="B"> 1854
 \sf <nb="2011"> 2815
-\ph bbomi
+\or bbomi
 \ps n
 \lc bo˩mi˥
 \sd <langue="fra"> animal
@@ -3555,7 +3555,7 @@
 \lx bo˩mi˧-dʑɯ˩pv̩˩
 \sf <nb="B"> 1813
 \sf <nb="2011"> 2762
-\ph bbomijjibu
+\or bbomijjibu
 \ps n
 \lc bo˩mi˧dʑɯ˩pv̩˩
 \sd <langue="fra"> animal
@@ -3576,7 +3576,7 @@
 \lx bo˩mi˧-dʑɯ˩pʰv̩˩
 \sf <nb="B"> 2219
 \sf <nb="2011"> 2758
-\ph bbomijjipu
+\or bbomijjipu
 \ps n
 \lc bo˩mi˧dʑɯ˩pʰv̩˩
 \sd <langue="fra"> animal
@@ -3597,7 +3597,7 @@
 \lx bo˩mi˧-ɳæ˧tɕʰɯ˩
 \sf <nb="B"> 2055
 \sf <nb="2011"> 3176
-\ph bbominaeqi
+\or bbominaeqi
 \ps n
 \lc bo˩mi˧ɳæ˧tɕʰɯ˩
 \sd <langue="fra"> plante
@@ -3620,7 +3620,7 @@
 \dt 24/Apr/2017
 
 \lx bo˩mi˧-ʁo˩do˩
-\ph bbomiwoddo
+\or bbomiwoddo
 \ps n
 \lc bo˩mi˧ʁo˩do˩
 \sd <langue="fra"> plante
@@ -3642,7 +3642,7 @@
 \lx bɤ˧mi˥-ʂe˩
 \sf <nb="B"> 68b
 \sf <nb="2011"> 116
-\ph bbemishei
+\or bbemishei
 \ps n
 \lc bɤ˧mi˥ʂe˩
 \sd <langue="fra"> environnement naturel
@@ -3663,7 +3663,7 @@
 \lx bɤ˧mi#˥
 \sf <nb="B"> 252c
 \sf <nb="2011"> 323
-\ph Bbemi
+\or Bbemi
 \ps n
 \lc bɤ˧mi˧
 \sd <langue="fra"> ethnies
@@ -3683,7 +3683,7 @@
 \lx bo˩-mɤ˥
 \sf <nb="B"> 390
 \sf <nb="2011"> 489
-\ph bbome
+\or bbome
 \ps n
 \lc bo˩mɤ˥
 \sd <langue="fra"> nourriture
@@ -3704,7 +3704,7 @@
 \lx bo˩pʰv̩˧
 \sf <nb="B"> 1855
 \sf <nb="2011"> 2816
-\ph bbopu
+\or bbopu
 \ps n
 \lc bo˩pʰv̩˥
 \sd <langue="fra"> animal
@@ -3728,7 +3728,7 @@
 \lx bo˩qʰæ˧-pv̩˧ʈɤ˥-ɻ̍˩
 \sf <nb="B"> 2219
 \sf <nb="2011"> 2758
-\ph bbokhae bude'er
+\or bbokhae bude'er
 \ps n
 \lc bo˩qʰæ˧pv̩˧ʈɤ˥ɻ̍˩
 \sd <langue="fra"> animal
@@ -3752,7 +3752,7 @@
 \dt 24/Apr/2017
 
 \lx bɤ˧ʂɯ˩
-\ph Bbeshi
+\or Bbeshi
 \ps n
 \lc bɤ˧ʂɯ˩
 \sd <langue="fra"> lieu
@@ -3769,7 +3769,7 @@
 
 \lx bɤ˩tɕʰɯ˩
 \sf <nb="2011"> 3320
-\ph Bbeqi
+\or Bbeqi
 \ps n
 \lc bɤ˩tɕʰɯ˩˥
 \sd <langue="fra"> lieu
@@ -3792,7 +3792,7 @@
 \lx bo˩ʈʂʰæ˥
 \sf <nb="B"> 1946b
 \sf <nb="2011"> 486
-\ph bbochae
+\or bbochae
 \ps n
 \lc bo˩ʈʂʰæ˥
 \sd <langue="fra"> nourriture
@@ -3812,7 +3812,7 @@
 \lx bo˧tsi˩
 \sf <nb="B"> 1950
 \sf <nb="2011"> 2963
-\ph bbozee
+\or bbozee
 \ps n
 \lc bo˧tsi˩
 \sd <langue="fra"> animal
@@ -3845,7 +3845,7 @@
 
 \lx bɤ˧tsʰo˧gv̩˥
 \sf <nb="2011"> 3334
-\ph Bbecoggu
+\or Bbecoggu
 \ec <langue="fra"> “Lieu où dansent les Pumi"?
 \ps n
 \lc bɤ˧tsʰo˧gv̩˥
@@ -3873,7 +3873,7 @@
 \lx bɤ˧tʰv̩˩
 \sf <nb="B"> 689
 \sf <nb="2011"> 1025
-\ph bbetu
+\or bbetu
 \ps n
 \lc bɤ˧tʰv̩˩
 \sd <langue="fra"> corps
@@ -3905,7 +3905,7 @@
 \lx bo˩tv̩#˥
 \sf <nb="B"> 1857
 \sf <nb="2011"> 2821
-\ph bbodu
+\or bbodu
 \ps n
 \lc bo˩tv̩˥
 \sd <langue="fra"> animal
@@ -3929,7 +3929,7 @@
 \dt 24/Apr/2017
 
 \lx bo˧ʐæ˧
-\ph bborae
+\or bborae
 \ps n
 \lc bo˧ʐæ˧
 \sd <langue="fra"> objet
@@ -3949,7 +3949,7 @@
 \dt 10/Jun/2017
 
 \lx bo˩zɑ˧mi#˥
-\ph bbossami
+\or bbossami
 \ps n
 \lc bo˩zɑ˧mi˧
 \sd <langue="fra"> animal
@@ -3966,7 +3966,7 @@
 
 \lx bo˧ʐæ˧ʈæ˧qʰv̩#˥
 \sf <nb="2011"> 971
-\ph bboraedaekheu
+\or bboraedaekheu
 \ps n
 \lc bo˧ʐæ˧ʈæ˧qʰv̩˧
 \ton #H
@@ -3983,7 +3983,7 @@
 \dt 24/Apr/2017
 
 \lx bo˩zo˥
-\ph bbosso
+\or bbosso
 \ps n
 \lc bo˩zo˥
 \sd <langue="fra"> animal
@@ -4002,7 +4002,7 @@
 \lx bɤ˧zo#˥
 \sf <nb="B"> 252b
 \sf <nb="2011"> 322
-\ph Bbesso
+\or Bbesso
 \ps n
 \lc bɤ˧zo˧
 \sd <langue="fra"> ethnies
@@ -4022,7 +4022,7 @@
 \lx bo˩α
 \sf <nb="B"> 1678
 \sf <nb="2011"> 2579
-\ph bboq
+\or bboq
 \ps v
 \lc bo˩˥
 \sd <langue="fra"> verbe
@@ -4048,7 +4048,7 @@
 
 \lx bɤ˩α
 \hm 1
-\ph bbe
+\or bbe
 \ps clf
 \lc ɖɯ˧ bɤ˩
 \sd <langue="fra"> classificateur
@@ -4074,7 +4074,7 @@
 
 \lx bɤ˩α
 \hm 2
-\ph bbe
+\or bbe
 \ps clf
 \lc ɖɯ˧ bɤ˩
 \sd <langue="fra"> classificateur
@@ -4110,7 +4110,7 @@
 \dt 12/May/2017
 
 \lx bɤ˧˥α
-\ph bbe
+\or bbe
 \ps clf
 \lc ɖɯ˧ bɤ˧˥
 \sd <langue="fra"> classificateur
@@ -4129,7 +4129,7 @@
 \sf <nb="2011"> 604
 \sf <nb="B"> 455
 \sf <nb="2011"> 603
-\ph bbu
+\or bbu
 \ps n
 \lc bv̩˧
 \sd <langue="fra"> maison
@@ -4160,7 +4160,7 @@
 \sf <nb="B"> 1922
 \sf <nb="2011"> 2928
 \hm 1
-\ph bbeuq
+\or bbeuq
 \ps n
 \lc bv̩˩˥
 \sd <langue="fra"> animal
@@ -4202,7 +4202,7 @@
 \sf <nb="B"> 509
 \sf <nb="2011"> 703
 \hm 2
-\ph bbuq
+\or bbuq
 \ps n
 \lc bv̩˩˥
 \cf bv̩˩di˩
@@ -4227,7 +4227,7 @@
 
 \lx bv̩˧
 \sf <nb="2011"> 297
-\ph bbeu
+\or bbeu
 \ps n
 \lc bv̩˧
 \sd <langue="fra"> corps
@@ -4250,7 +4250,7 @@
 \lx bv̩˥
 \sf <nb="B"> 1805
 \sf <nb="2011"> 2742
-\ph bbu
+\or bbu
 \ps n
 \lc bv̩˧
 \sd <langue="fra"> animal
@@ -4280,7 +4280,7 @@
 \sf <nb="B"> 913
 \sf <nb="2011"> 1339
 \hm 1
-\ph bbu
+\or bbu
 \ps adj
 \lc bv̩˧
 \sd <langue="fra"> adjectif
@@ -4314,7 +4314,7 @@
 \sf <nb="B"> 1411
 \sf <nb="2011"> 1824
 \hm 2
-\ph bbu
+\or bbu
 \ps v
 \lc bv̩˧
 \sd <langue="fra"> verbe
@@ -4346,7 +4346,7 @@
 \lx bv̩˥
 \sf <nb="2011"> 2212
 \hm 3
-\ph bbu
+\or bbu
 \ps v
 \lc bv̩˧
 \sd <langue="fra"> verbe
@@ -4369,7 +4369,7 @@
 
 \lx bv̩˧ɖæ˧
 \sf <nb="2011"> 1010
-\ph bbeuddae
+\or bbeuddae
 \et bv̩˧; ɖæ˥
 \ps adj
 \lc bv̩˧ɖæ˧
@@ -4392,7 +4392,7 @@
 \lx bv̩˩di˩
 \sf <nb="B"> 509b
 \sf <nb="2011"> 704
-\ph bbuddi
+\or bbuddi
 \ps n
 \lc bv̩˩di˩˥
 \cf bv̩˩˧2
@@ -4417,7 +4417,7 @@
 \sf <nb="2011"> 723
 \sf <nb="2011"> 1264
 \hm 1
-\ph bbuzzei
+\or bbuzzei
 \ps n
 \lc bv̩˩dze˩˥
 \cf bv̩˩dze˩2
@@ -4440,7 +4440,7 @@
 
 \lx bv̩˩dze˩
 \hm 2
-\ph bbuzzei
+\or bbuzzei
 \ps clf
 \lc ɖɯ˧ bv̩˩dze˩
 \cf bv̩˩dze˩1
@@ -4463,7 +4463,7 @@
 \lx bv̩˧hu˧˥
 \sf <nb="B"> 225
 \sf <nb="2011"> 296
-\ph bbeuhu
+\or bbeuhu
 \ps n
 \lc bv̩˩hu˧˥
 \sd <langue="fra"> corps
@@ -4487,7 +4487,7 @@
 \dt 29/Jul/2017
 
 \lx bv̩˩hwɤ˩
-\ph bbuhua
+\or bbuhua
 \ps n
 \lc bv̩˩hwɤ˩˥
 \sd <langue="fra"> maison
@@ -4506,7 +4506,7 @@
 
 \lx bv̩˧kʰɯ˧˥
 \sf <nb="2011"> 2753
-\ph bbukee
+\or bbukee
 \ps n
 \lc bv̩˧kʰɯ˧˥
 \sd <langue="fra"> animal
@@ -4527,7 +4527,7 @@
 \lx bv̩˩ɭɯ˩
 \sf <nb="B"> 222
 \sf <nb="2011"> 294
-\ph bbulee
+\or bbulee
 \ps n
 \lc bv̩˩ɭɯ˩˥
 \sd <langue="fra"> corps
@@ -4553,7 +4553,7 @@
 \lx bv̩˧mi˧
 \sf <nb="2011"> 2930
 \hm 1
-\ph bbeumi
+\or bbeumi
 \ps n
 \lc bv̩˧mi˧
 \sd <langue="fra"> animal
@@ -4583,7 +4583,7 @@
 
 \lx bv̩˧mi˧
 \hm 2
-\ph bbumi
+\or bbumi
 \ps n
 \lc bv̩˧mi˧
 \sd <langue="fra"> objet
@@ -4603,7 +4603,7 @@
 \lx bv̩˧-nɑ˥mi˩
 \sf <nb="B"> 2219
 \sf <nb="2011"> 2758
-\ph bbunami
+\or bbunami
 \ps n
 \lc bv̩˧nɑ˥mi˩
 \sd <langue="fra"> animal
@@ -4621,7 +4621,7 @@
 
 \lx bv̩˧nv̩˧
 \hm 1
-\ph bbunu
+\or bbunu
 \ps v
 \lc bv̩˧nv̩˧
 \cf bv̩˧nv̩˧2
@@ -4649,7 +4649,7 @@
 \sf <nb="B"> 1032
 \sf <nb="2011"> 1971
 \hm 2
-\ph bbunu
+\or bbunu
 \ps adj
 \lc bv̩˧nv̩˧
 \cf bv̩˧nv̩˧1
@@ -4673,7 +4673,7 @@
 \dt 27/Aug/2015
 
 \lx bv̩˧pʰv̩˧
-\ph bbeupu
+\or bbeupu
 \ps n
 \lc bv̩˧pʰv̩˧
 \sd <langue="fra"> animal
@@ -4692,7 +4692,7 @@
 
 \lx bv̩˩-qʰæ˩
 \sf <nb="2011"> 851
-\ph bbukhae
+\or bbukhae
 \ps n
 \lc bv̩˩qʰæ˩˥
 \sd <langue="fra"> agriculture
@@ -4717,29 +4717,28 @@
 
 \lx bv̩˩qo˩-bv̩˧qʰæ˩
 \sf <nb="2011"> 852
-\ph bbu gho bbukhae
+\or bbu gho bbukhae
 \ps n
 \lc bv̩˩qo˩bv̩˧qʰæ˩
 \sd <langue="fra"> agriculture
 \sd <langue="eng"> agriculture
 \nt <type="hist" print="n"> (avant 09: noté /bv̩˩ko˩ bv̩˥kʶæ˧/; tons vérifiés en 2006 et à nouveau en 2007, n'est pas ˧ ˧ ˥ ˩) (le schéma tonal attendu étant le même dans un composé déterminatif et dans un composé coordonné, il n'est pas aisé de savoir si c'est l'un ou l'autre type d'association qui est à l'origine du quadrisyllabe)
-\nt <type="hist" print="n"> RD Question: Alexis, is this "pen - in - manure"?
 \ton L-L#
 \so <print="n"> F4
 \pdl classifier
 \pdv ʁwɤ˧
-\de Manure, dung.
+\de Manure, dung. Literally ‘manure in pen'.
 \ge manure
 \dn 农家粪（直译：‘牲口圈里的肥料’）、粪
 \gn 肥料
-\df Fumier.
+\df Fumier. Littéralement: ‘excréments d'étable'.
 \gf fumier
 \dt 09/Oct/2017
 
 \lx bv̩˩qo˩-qʰæ˩
 \sf <nb="B"> 593
 \sf <nb="2011"> 850
-\ph bbu gho khae
+\or bbu gho khae
 \ps n
 \lc bv̩˩qo˩qʰæ˩˥
 \sd <langue="fra"> agriculture
@@ -4771,7 +4770,7 @@
 \sf <nb="B"> 658:
 \sf <nb="B"> “trompe":
 \sf <nb="2011"> 560
-\ph bbukheu
+\or bbukheu
 \ps n
 \lc bv̩˩qʰv̩˩˥
 \ton L
@@ -4811,7 +4810,7 @@
 \lx bv̩˧qʰv̩˧ʑi˩-hĩ˩
 \sf <nb="B"> 1840
 \sf <nb="2011"> 2796
-\ph bbukheuxxihin
+\or bbukheuxxihin
 \ps n
 \lc bv̩˧qʰv̩˧ʑi˩hĩ˩
 \sd <langue="fra"> animal
@@ -4836,7 +4835,7 @@
 \lx bv̩˧ɻ̍#˥
 \sf <nb="B"> 1831
 \sf <nb="2011"> 2784
-\ph bbu'er
+\or bbu'er
 \ps n
 \lc bv̩˧ɻ̍˧
 \sd <langue="fra"> animal
@@ -4863,7 +4862,7 @@
 
 \lx bv̩˧ʂæ˧
 \sf <nb="2011"> 1009
-\ph bbeushae
+\or bbeushae
 \et bv̩˧; ʂæ˧
 \ec <langue="eng"> Literally ‘long-intestined': in folk representation, long intestines allow their owner to digest vexations calmly, whereas short intestines are associated with hasty emotional reactions.
 \ps adj
@@ -4890,7 +4889,7 @@
 
 \lx bv̩˩ʂwæ˩
 \sf <nb="2011"> 2929
-\ph bbeushuae
+\or bbeushuae
 \ps n
 \lc bv̩˩ʂwæ˩˥
 \sd <langue="fra"> animal
@@ -4923,7 +4922,7 @@
 \sf <nb="B"> sous
 \sf <nb="B"> 1972)
 \sf <nb="2011"> 3003
-\ph bbujie
+\or bbujie
 \ps n
 \lc bv̩˧tɕi˧
 \sd <langue="fra"> plante
@@ -4950,7 +4949,7 @@
 \lx bv̩˧ʈʂɯ˥
 \sf <nb="B"> 596d
 \sf <nb="2011"> 863
-\ph bbuzhi
+\or bbuzhi
 \ps n
 \lc bv̩˧ʈʂɯ˥
 \sd <langue="fra"> objet
@@ -4973,7 +4972,7 @@
 \lx bv̩˧ʈʂʰv̩˧
 \sf <nb="B"> 652
 \sf <nb="2011"> 976
-\ph bbuchu
+\or bbuchu
 \ps n
 \lc bv̩˧ʈʂʰv̩˧
 \sd <langue="fra"> musique
@@ -4995,7 +4994,7 @@
 \dt 24/Apr/2017
 
 \lx bv̩˩zo˩
-\ph bbusso
+\or bbusso
 \ps n
 \lc bv̩˩zo˩˥
 \sd <langue="fra"> objet
@@ -5013,7 +5012,7 @@
 \dt 24/Apr/2017
 
 \lx bv̩˧zo#˥
-\ph bbeusso
+\or bbeusso
 \ps n
 \lc bv̩˧zo˧
 \sd <langue="fra"> animal
@@ -5038,7 +5037,7 @@
 \lx bv̩˧ʐv̩˧
 \sf <nb="B"> 1803
 \sf <nb="2011"> 2738
-\ph bburu
+\or bburu
 \ps n
 \lc bv̩˧ʐv̩˧
 \cf mv̩˧bv̩˧ʐv̩˥
@@ -5059,7 +5058,7 @@
 
 \lx bv̩˩ʐv̩˩-dzi˩
 \sf <nb="2011"> 3284
-\ph bburuzzee
+\or bburuzzee
 \ps n
 \lc bv̩˩ʐv̩˩dzi˩˥
 \sd <langue="fra"> plante
@@ -5080,7 +5079,7 @@
 \hm 1
 \sf <nb="B"> 765
 \sf <nb="2011"> 1160
-\ph bburuku
+\or bburuku
 \ps n
 \lc bv̩˧ʐv̩˧kʰv̩˧˥
 \cf ʐv̩˧bæ˧
@@ -5102,7 +5101,7 @@
 
 \lx bv̩˧ʐv̩˧-kʰv̩˧˥
 \hm 2
-\ph bburu kuq
+\or bburu kuq
 \ps adj
 \lc bv̩˧ʐv̩˧kʰv̩˧˥
 \cf ʐv̩˧bæ˧
@@ -5121,7 +5120,7 @@
 \sf <nb="B"> 1270
 \sf <nb="2011"> 1830
 \hm 1
-\ph bbuq
+\or bbuq
 \ps v
 \lc bv̩˩˥
 \sd <langue="fra"> verbe
@@ -5147,7 +5146,7 @@
 \sf <nb="B"> 1506
 \sf <nb="2011"> 2217
 \hm 2
-\ph bbuq
+\or bbuq
 \ps v
 \lc bv̩˩˥
 \sd <langue="fra"> verbe
@@ -5180,7 +5179,7 @@
 
 \lx bv̩˩α
 \hm 3
-\ph bbuq
+\or bbuq
 \ps v
 \lc bv̩˩˥
 \sd <langue="fra"> verbe
@@ -5219,7 +5218,7 @@
 \sf <nb="B"> 1449
 \sf <nb="2011"> 2108
 \hm 4
-\ph bbeuq
+\or bbeuq
 \ps v
 \lc bv̩˩˥
 \ton Lα
@@ -5292,7 +5291,7 @@
 \sf <nb="B"> 371
 \sf <nb="2011"> 1368
 \hm 5
-\ph bbeuq
+\or bbeuq
 \ps adj
 \lc bv̩˩˥
 \sd <langue="fra"> adjectif
@@ -5338,7 +5337,7 @@
 \dt 03/Aug/2017
 
 \lx ɕi˩
-\ph xiq
+\or xiq
 \ps v
 \lc ɕi˩˥
 \sd <langue="fra"> verbe
@@ -5374,7 +5373,7 @@
 \lx ɕi˩˥
 \sf <nb="B"> 628
 \sf <nb="2011"> 692
-\ph xiq
+\or xiq
 \ps n
 \lc ɕi˩˥
 \sd <langue="fra"> objet
@@ -5395,7 +5394,7 @@
 \dt 24/Apr/2017
 
 \lx ɕi˧
-\ph xi
+\or xi
 \ps n
 \lc ɕi˧
 \sd <langue="fra"> plante
@@ -5413,7 +5412,7 @@
 
 \lx ɕi˥β
 \sf <nb="2011"> 1289
-\ph xie
+\or xie
 \ps clf
 \lc ɖɯ˧ ɕi˥
 \sd <langue="fra"> classificateur
@@ -5430,7 +5429,7 @@
 
 \lx ɕi˧ɕi˩-lo˩
 \sf <nb="2011"> 291
-\ph xixilo
+\or xixilo
 \ps n
 \lc ɕi˧ɕi˩lo˩
 \sd <langue="fra"> nourriture
@@ -5449,7 +5448,7 @@
 \lx ɕi˩dv̩˥
 \sf <nb="B"> 502
 \sf <nb="2011"> 691
-\ph xiddu
+\or xiddu
 \ps n
 \lc ɕi˩dv̩˥
 \sd <langue="fra"> objet
@@ -5475,7 +5474,7 @@
 \lx ɕi˩dzi˥
 \sf <nb="B"> 2026
 \sf <nb="2011"> 3108
-\ph xizzee
+\or xizzee
 \ps n
 \lc ɕi˩dzi˥
 \sd <langue="fra"> plante
@@ -5498,7 +5497,7 @@
 
 \lx ɕi˧-ho˩ʂɯ˩
 \sf <nb="2011"> 3081
-\ph xihoshi
+\or xihoshi
 \bw <langue="cmn"> 西红柿
 \ps n
 \lc ɕi˧ho˩ʂɯ˩
@@ -5517,7 +5516,7 @@
 \lx ɕi˧ɭɯ˧
 \sf <nb="B"> 1983
 \sf <nb="2011"> 3020
-\ph xilee
+\or xilee
 \ps n
 \lc ɕi˧ɭɯ˧
 \sd <langue="fra"> plante
@@ -5549,7 +5548,7 @@
 \lx ɕi˧ɭɯ˧-lv̩˧pʰv̩˩
 \sf <nb="B"> 52b
 \sf <nb="2011"> 87
-\ph xilee lupu
+\or xilee lupu
 \ps n
 \lc ɕi˧ɭɯ˧lv̩˧pʰv̩˩
 \sd <langue="fra"> environnement naturel
@@ -5569,7 +5568,7 @@
 
 \lx ɕi˧lv̩˧
 \sf <nb="2011"> 89
-\ph xilu
+\or xilu
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -5590,7 +5589,7 @@
 
 \lx ɕi˧lv̩˧-mv̩˧di˧˥
 \sf <nb="2011"> 88
-\ph xilu muddi
+\or xilu muddi
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -5613,7 +5612,7 @@
 \sf <nb="B"> 374
 \sf <nb="2011"> 438
 \hm 1
-\ph xietae
+\or xietae
 \ec <langue="fra"> ‘langue'+'mordre'
 \ps adj
 \cf ɕi˩ʈʰæ˧˥2
@@ -5641,7 +5640,7 @@
 
 \lx ɕi˩ʈʰæ˧˥
 \hm 2
-\ph xietae
+\or xietae
 \ps n
 \cf ɕi˩ʈʰæ˧˥1
 \sd <langue="fra"> société
@@ -5667,7 +5666,7 @@
 \lx ɕi˧tɕʰi#˥
 \sf <nb="B"> 1989a
 \sf <nb="2011"> 3034
-\ph xiqie
+\or xiqie
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -5690,7 +5689,7 @@
 \lx ɕi˧ʈʂʰwæ˧
 \sf <nb="B"> 1984a
 \sf <nb="2011"> 3021
-\ph xichuae
+\or xichuae
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -5714,7 +5713,7 @@
 
 \lx ɕi˧tv̩˧-di˩-lv̩˧
 \sf <nb="2011"> 91
-\ph xiduddi lu 
+\or xiduddi lu 
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -5735,7 +5734,7 @@
 \lx ɕi˥α
 \sf <nb="B"> 838
 \sf <nb="2011"> 1235
-\ph xie
+\or xie
 \ps clf
 \lc ɖɯ˧ ɕi˥
 \sd <langue="fra"> classificateur
@@ -5774,7 +5773,7 @@
 \lx ɕjɤ˧˥
 \sf <nb="B"> 1144
 \sf <nb="2011"> 2233
-\ph xeq
+\or xeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -5811,7 +5810,7 @@
 \dt 27/Aug/2015
 
 \lx ɕjɤ˥
-\ph xe
+\or xe
 \ps v
 \bw <langue="cmn"> 想
 \sd <langue="fra"> verbe
@@ -5840,7 +5839,7 @@
 \lx ɕjɤ˧-bv̩˧nv̩˧
 \sf <nb="B"> 1031
 \sf <nb="2011"> 1459
-\ph xebbunu
+\or xebbunu
 \et bv̩˧nv̩˧
 \ps adj
 \sd <langue="fra"> adjectif
@@ -5870,7 +5869,7 @@
 \lx ɕjɤ˩jo˩
 \sf <nb="B"> 1964
 \sf <nb="2011"> 2984
-\ph xeyo
+\or xeyo
 \ps n
 \cf pi˩mv̩˥
 \sd <langue="fra"> plante
@@ -5891,7 +5890,7 @@
 \lx ɕjo˩li#˥
 \sf <nb="B"> 653
 \sf <nb="2011"> 978
-\ph xoli 
+\or xoli 
 \ps n
 \sd <langue="fra"> musique
 \sd <langue="eng"> music
@@ -5915,7 +5914,7 @@
 \lx ɕjɤ˩tʰv̩˧˥
 \sf <nb="B"> 1413
 \sf <nb="2011"> 2311
-\ph xietu
+\or xietu
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -5948,7 +5947,7 @@
 \lx ɕjɤ˩~ɕjɤ˧˥
 \sf <nb="B"> 1454
 \sf <nb="2011"> 2110
-\ph xexe
+\or xexe
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -5981,7 +5980,7 @@
 \dt 15/May/2017
 
 \lx ɕɯ˩α
-\ph xiq
+\or xiq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -6006,7 +6005,7 @@
 \dt 12/Jun/2017
 
 \lx dɑ˩
-\ph ddaq
+\or ddaq
 \ps adj
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
@@ -6043,7 +6042,7 @@
 \dt 27/Aug/2015
 
 \lx dɑ˧˥
-\ph ddaq
+\or ddaq
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
@@ -6074,7 +6073,7 @@
 
 \lx dɑ˧˥
 \hm 1
-\ph ddaq
+\or ddaq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -6099,7 +6098,7 @@
 \sf <nb="B"> 1453
 \sf <nb="2011"> 1920
 \hm 2
-\ph ddaq
+\or ddaq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -6147,7 +6146,7 @@
 \lx ɖæ˩˧
 \sf <nb="B"> 58
 \sf <nb="2011"> 100
-\ph ddaeq
+\or ddaeq
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -6188,7 +6187,7 @@
 \lx ɖæ˥
 \sf <nb="B"> 923
 \sf <nb="2011"> 1349
-\ph ddae
+\or ddae
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -6209,7 +6208,7 @@
 \lx dɑ˩β
 \sf <nb="B"> 1631
 \sf <nb="2011"> 2443
-\ph ddaq
+\or ddaq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -6240,7 +6239,7 @@
 \dt 27/Aug/2015
 
 \lx dɑ˧˥β
-\ph dda
+\or dda
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -6266,7 +6265,7 @@
 
 \lx ɖæ˩dʑɯ˥
 \sf <nb="2011"> 101
-\ph ddaejji
+\or ddaejji
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -6290,7 +6289,7 @@
 \lx dɑ˧ʝi˩
 \sf <nb="B"> 1907
 \sf <nb="2011"> 2890
-\ph ddayi
+\or ddayi
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -6317,7 +6316,7 @@
 \lx dɑ˩kʰɤ˩
 \sf <nb="B"> 650
 \sf <nb="2011"> 972
-\ph ddake
+\or ddake
 \ps n
 \sd <langue="fra"> musique
 \sd <langue="eng"> music
@@ -6343,7 +6342,7 @@
 \dt 03/May/2017
 
 \lx ɖæ˩-lɑ˧so#˥
-\ph ddaelaso
+\or ddaelaso
 \bw <langue="bod"> ‘bras lha gsol
 \ps n
 \sd <langue="fra"> religion
@@ -6371,7 +6370,7 @@
 \dt 03/May/2017
 
 \lx ɖæ˩mi˧
-\ph Ddaemi
+\or Ddaemi
 \bw <langue="bod"> dgra med
 \ps n
 \sd <langue="fra"> lieu
@@ -6393,7 +6392,7 @@
 
 \lx ɖæ˩mi˧-go˧bɤ˩
 \sf <nb="2011"> 3315
-\ph Ddaemi ggobbe
+\or Ddaemi ggobbe
 \bw <langue="bod"> dgra med dgon pa
 \ps n
 \sd <langue="fra"> lieu
@@ -6414,7 +6413,7 @@
 \lx dɑ˧pɤ˧
 \sf <nb="B"> 359b
 \sf <nb="2011"> 418
-\ph ddabe
+\or ddabe
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -6443,7 +6442,7 @@
 
 \lx dɑ˧pʰo˥
 \sf <nb="2011"> 3323
-\ph Ddapo
+\or Ddapo
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -6465,7 +6464,7 @@
 
 \lx ɖæ˩pʰv̩˥
 \sf <nb="2011"> 102
-\ph ddaepu
+\or ddaepu
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -6485,7 +6484,7 @@
 \lx dɑ˧pv̩#˥
 \sf <nb="B"> 376
 \sf <nb="2011"> 440
-\ph ddabu
+\or ddabu
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -6514,7 +6513,7 @@
 \dt 27/Aug/2015
 
 \lx dɑ˧ʁwɤ#˥
-\ph Ddawua
+\or Ddawua
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -6531,7 +6530,7 @@
 
 \lx ɖæ˩ʂɯ#˥
 \sf <nb="2011"> 3318
-\ph Ddaeshi
+\or Ddaeshi
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -6556,7 +6555,7 @@
 \dt 27/Aug/2015
 
 \lx dɑ˩to˩
-\ph ddado
+\or ddado
 \ps adv
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -6572,7 +6571,7 @@
 \dt 27/Aug/2015
 
 \lx dɑ˩to#˥
-\ph ddado
+\or ddado
 \ps adv
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
@@ -6600,7 +6599,7 @@
 \sf <nb="B"> 1235
 \sf <nb="B"> 1609
 \sf <nb="2011"> 1772
-\ph ddaeq
+\or ddaeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -6630,7 +6629,7 @@
 \sf <nb="B"> 852
 \sf <nb="B"> 855
 \sf <nb="2011"> 1278
-\ph ddae
+\or ddae
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -6666,7 +6665,7 @@
 \lx ɖæ˧~ɖæ˩
 \sf <nb="B"> 949
 \sf <nb="2011"> 1382
-\ph ddaeddae
+\or ddaeddae
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -6693,7 +6692,7 @@
 \lx di˩˥
 \sf <nb="B"> 50
 \sf <nb="2011"> 80
-\ph ddi
+\or ddi
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -6736,7 +6735,7 @@
 \sf <nb="B"> 1638
 \sf <nb="2011"> 1711
 \hm 1
-\ph ddiq
+\or ddiq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -6776,7 +6775,7 @@
 \sf <nb="B"> 1579
 \sf <nb="2011"> 1664
 \hm 2
-\ph ddiq
+\or ddiq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -6801,7 +6800,7 @@
 \lx di˩-gɤ˩lɑ˥
 \sf <nb="B"> 660b
 \sf <nb="2011"> 985
-\ph ddiggela
+\or ddiggela
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
@@ -6821,7 +6820,7 @@
 
 \lx di˩li˩
 \sf <nb="2011"> 3066
-\ph ddili
+\or ddili
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -6878,7 +6877,7 @@
 \lx di˧mi˧
 \sf <nb="B"> 48
 \sf <nb="2011"> 81
-\ph ddimi
+\or ddimi
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -6910,7 +6909,7 @@
 \lx di˧qo˧
 \sf <nb="B"> 48b
 \sf <nb="2011"> 82
-\ph ddigho
+\or ddigho
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -6930,7 +6929,7 @@
 
 \lx di˧ɻæ˧
 \sf <nb="2011"> 83
-\ph ddilae
+\or ddilae
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -6952,7 +6951,7 @@
 \lx di˩α
 \sf <nb="B"> 1776c
 \sf <nb="2011"> 3386
-\ph ddiq
+\or ddiq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -6982,7 +6981,7 @@
 \dt 27/Aug/2015
 
 \lx di˩γ
-\ph ddi
+\or ddi
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -7002,7 +7001,7 @@
 \dt 24/Apr/2017
 
 \lx do˩
-\ph ddoq
+\or ddoq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -7027,7 +7026,7 @@
 
 \lx do˧
 \hm 1
-\ph ddo
+\or ddo
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -7050,7 +7049,7 @@
 \lx do˧
 \sf <nb="2011"> 1525
 \hm 2
-\ph ddo
+\or ddo
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -7069,7 +7068,7 @@
 \sf <nb="B"> 1430
 \sf <nb="2011"> 2067
 \hm 1
-\ph ddo
+\or ddo
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -7106,7 +7105,7 @@
 \sf <nb="B"> 1382
 \sf <nb="2011"> 1963
 \hm 2
-\ph ddo
+\or ddo
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -7131,7 +7130,7 @@
 \lx ɖɤ˥
 \sf <nb="B"> 1225
 \sf <nb="2011"> 1753
-\ph dde
+\or dde
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -7161,7 +7160,7 @@
 \lx do˩β
 \sf <nb="B"> 1382
 \sf <nb="2011"> 1963
-\ph ddoq
+\or ddoq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -7209,7 +7208,7 @@
 \lx do˧bæ˧
 \sf <nb="B"> 167
 \sf <nb="2011"> 232
-\ph ddobbae
+\or ddobbae
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -7239,7 +7238,7 @@
 \lx do˧bv̩˧
 \sf <nb="B"> 159
 \sf <nb="2011"> 226
-\ph ddobbu
+\or ddobbu
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -7262,7 +7261,7 @@
 \dt 27/Aug/2015
 
 \lx do˩bv̩#˥
-\ph ddobbu
+\or ddobbu
 \ps n
 \cf mɑ˩ɳɯ˧-do˥bv˩, mɑ˩ɳɯ#˥
 \sd <langue="fra"> religion
@@ -7282,7 +7281,7 @@
 
 \lx do˩kv̩#˥
 \sf <nb="2011"> 632
-\ph ddogu
+\or ddogu
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -7303,7 +7302,7 @@
 \lx ɖɤ˧mi˧
 \sf <nb="B"> 1894
 \sf <nb="2011"> 2877
-\ph ddemi
+\or ddemi
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -7339,7 +7338,7 @@
 
 \lx dɤ˩-qo˧
 \sf <nb="2011"> 1327
-\ph ddegho
+\or ddegho
 \ps adv
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
@@ -7357,7 +7356,7 @@
 \dt 24/Apr/2017
 
 \lx dɤ˩-ʈʂʰɯ˧qo˧
-\ph ddeq teegho
+\or ddeq teegho
 \ps adv
 \cf dɤ˧-tʰv̩˧qo˧
 \sd <langue="fra"> espace
@@ -7377,7 +7376,7 @@
 
 \lx dɤ˩-tʰv̩˧-gi#˥
 \sf <nb="2011"> 1325
-\ph ddeq teeggi
+\or ddeq teeggi
 \ps adv
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
@@ -7397,7 +7396,7 @@
 \lx dɤ˩-tʰv̩˧qo˧
 \sf <nb="B"> 903
 \sf <nb="2011"> 1326
-\ph ddeq teegho
+\or ddeq teegho
 \ps adv
 \cf dɤ˧-ʈʂʰɯ˧qo˧
 \sd <langue="fra"> espace
@@ -7416,7 +7415,7 @@
 \dt 13/Jul/2017
 
 \lx do˥α
-\ph ddo
+\or ddo
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -7439,7 +7438,7 @@
 \lx ɖo˧α
 \sf <nb="B"> 1436
 \sf <nb="2011"> 2092
-\ph ddeo
+\or ddeo
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -7477,7 +7476,7 @@
 \lx ɖɤ˩α
 \sf <nb="B"> 1022
 \sf <nb="2011"> 1449
-\ph ddeq
+\or ddeq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -7505,7 +7504,7 @@
 \lx ɖɯ˧˥
 \sf <nb="B"> 811
 \sf <nb="2011"> 1199
-\ph ddee
+\or ddee
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
@@ -7526,7 +7525,7 @@
 \lx ɖɯ˧β
 \sf <nb="B"> 1707
 \sf <nb="2011"> 2554
-\ph ddee
+\or ddee
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -7561,7 +7560,7 @@
 \dt 27/Aug/2015
 
 \lx ɖɯ˩ɖʐɯ˧
-\ph Ddeezzhi
+\or Ddeezzhi
 \bw <langue="bod">
 \ps n
 \sd <langue="fra"> nom propre
@@ -7578,7 +7577,7 @@
 \dt 27/Aug/2015
 
 \lx ɖɯ˩ɖʐɯ˧-tsʰɯ˩ɻ̍˩
-\ph Ddeezzhi Ci'er
+\or Ddeezzhi Ci'er
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -7595,7 +7594,7 @@
 
 \lx ɖɯ˩hĩ˩
 \sf <nb="2011"> 403
-\ph ddeehin
+\or ddeehin
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -7617,7 +7616,7 @@
 \lx ɖɯ˧-ɬi˧mi˧
 \sf <nb="B"> 777
 \sf <nb="2011"> 1173
-\ph ddeelhimi
+\or ddeelhimi
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -7639,7 +7638,7 @@
 
 \lx ɖɯ˩lo#˥
 \sf <nb="2011"> 957
-\ph ddeelo
+\or ddeelo
 \ps n
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
@@ -7681,7 +7680,7 @@
 \dt 27/Aug/2015
 
 \lx ɖɯ˩mɑ˧-ɬɑ˩tsʰo˩
-\ph Ddeema Lhaco
+\or Ddeema Lhaco
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -7697,7 +7696,7 @@
 \dt 27/Aug/2015
 
 \lx ɖɯ˩mɑ˧-pv̩˩ʈʰɯ˩
-\ph Ddeema Butee
+\or Ddeema Butee
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -7714,7 +7713,7 @@
 
 \lx ɖɯ˩mɑ#˥
 \sf <nb="2011"> 3309
-\ph Ddeema
+\or Ddeema
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -7730,7 +7729,7 @@
 \dt 27/Aug/2015
 
 \lx ɖɯ˩mi#˥
-\ph ddeemi
+\or ddeemi
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -7755,7 +7754,7 @@
 
 \lx ɖɯ˧-ɲi˧-ɖɯ˥-hɑ̃˩
 \sf <nb="2011"> 1091
-\ph ddeeni ddeehan
+\or ddeeni ddeehan
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -7773,7 +7772,7 @@
 
 \lx ɖɯ˧-njɤ˧
 \sf <nb="B"> 2288
-\ph ddeenya
+\or ddeenya
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -7815,7 +7814,7 @@
 \lx ɖɯ˧-so˩
 \sf <nb="B"> 2235
 \sf <nb="2011"> 1362
-\ph ddeeso
+\or ddeeso
 \ps n
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -7840,7 +7839,7 @@
 \dt 24/Apr/2017
 
 \lx ɖɯ˧ʈæ˩
-\ph ddeedae
+\or ddeedae
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -7856,7 +7855,7 @@
 \dt 27/Aug/2015
 
 \lx ɖɯ˩zo#˥
-\ph ddeesso
+\or ddeesso
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -7883,7 +7882,7 @@
 \sf <nb="B"> 1783
 \sf <nb="B"> 1243
 \sf <nb="2011"> 2623
-\ph ddeeq
+\or ddeeq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -7921,7 +7920,7 @@
 
 \lx ɖɯ˧‑
 \sf <nb="2011"> 3377
-\ph ddee-
+\or ddee-
 \ps prep
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -7941,7 +7940,7 @@
 \sf <nb="B"> 860
 \sf <nb="2011"> 1250
 \hm 1
-\ph ddu
+\or ddu
 \ps clf
 \cf dɤ˧-tʰv̩˧-gi#˥
 \sd <langue="fra"> classificateur
@@ -7963,7 +7962,7 @@
 
 \lx dv̩˩
 \hm 2
-\ph dduq
+\or dduq
 \ps pro
 \cf dɤ˧-tʰv̩˧-gi#˥
 \sd <langue="fra"> morphosyntaxe
@@ -7993,7 +7992,7 @@
 \lx dv̩˩˧
 \sf <nb="B"> 2312
 \hm 1
-\ph dduq
+\or dduq
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -8026,7 +8025,7 @@
 \sf <nb="B"> 626
 \sf <nb="2011"> 930
 \hm 2
-\ph dduq
+\or dduq
 \ps n
 \cf dv̩˩a
 \sd <langue="fra"> objet
@@ -8052,7 +8051,7 @@
 \lx dv̩˥
 \sf <nb="B"> 1372a
 \sf <nb="2011"> 1567
-\ph ddu
+\or ddu
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -8076,7 +8075,7 @@
 \lx ɖv̩˩
 \sf <nb="B"> 1801
 \sf <nb="2011"> 2734
-\ph ddeu
+\or ddeu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -8101,7 +8100,7 @@
 
 \lx dv̩˩β
 \sf <nb="2011"> 1364
-\ph ddu
+\or ddu
 \ps clf
 \lc ɖɯ˧ dv̩˩
 \sd <langue="fra"> classificateur
@@ -8127,7 +8126,7 @@
 \dt 24/Apr/2017
 
 \lx dv̩˩bi˩
-\ph ddubbi
+\or ddubbi
 \ps adv
 \lc dv̩˩bi˩˥
 \sd <langue="fra"> espace
@@ -8143,7 +8142,7 @@
 \dt 27/Aug/2015
 
 \lx dv̩˩mi#˥
-\ph ddumi
+\or ddumi
 \ps n
 \lc dv̩˩mi˥
 \sd <langue="fra"> animal
@@ -8166,7 +8165,7 @@
 \dt 24/Apr/2017
 
 \lx dv̩˩pʰæ˧
-\ph ddupae
+\or ddupae
 \ps n
 \lc dv̩˩pʰæ˥
 \sd <langue="fra"> maison
@@ -8184,7 +8183,7 @@
 \dt 27/Aug/2015
 
 \lx dv̩˩pʰv̩#˥
-\ph ddupu
+\or ddupu
 \ps n
 \lc dv̩˩pʰv̩˥
 \sd <langue="fra"> animal
@@ -8204,7 +8203,7 @@
 
 \lx ɖv̩˧qæ˧
 \sf <nb="2011"> 2735
-\ph ddeughae
+\or ddeughae
 \ps n
 \lc ɖv̩˧qæ˧
 \sd <langue="fra"> animal
@@ -8227,7 +8226,7 @@
 \dt 24/Apr/2017
 
 \lx dv̩˩zo#˥
-\ph ddusso
+\or ddusso
 \ps n
 \lc dv̩˩zo˥
 \sd <langue="fra"> animal
@@ -8247,7 +8246,7 @@
 \sf <nb="B"> 1098
 \sf <nb="B"> 1667
 \sf <nb="2011"> 1550
-\ph dduq
+\or dduq
 \ps v
 \ton Lα
 \lc dv̩˩˥
@@ -8299,7 +8298,7 @@
 
 \lx ɖwæ˧˥
 \hm 1
-\ph dduaeq
+\or dduaeq
 \ps v
 \lc ɖwæ˧˥
 \sd <langue="fra"> verbe
@@ -8322,7 +8321,7 @@
 \sf <nb="B"> 2303
 \sf <nb="2011"> 3375
 \hm 2
-\ph dduaeq
+\or dduaeq
 \ps adv
 \lc ɖwæ˧˥
 \sd <langue="fra"> morphosyntaxe
@@ -8347,7 +8346,7 @@
 \lx ɖwæ˥
 \sf <nb="B"> 977
 \sf <nb="2011"> 1415
-\ph dduae
+\or dduae
 \ps adj
 \lc ɖwæ˧
 \sd <langue="fra"> adjectif
@@ -8377,7 +8376,7 @@
 \lx ɖwæ˥
 \sf <nb="B"> 43b
 \sf <nb="2011"> 69
-\ph dduae
+\or dduae
 \ps n
 \lc ɖwæ˧
 \sn 1
@@ -8421,7 +8420,7 @@
 
 \lx ɖwæ˧-pɤ˧ɭɯ˥
 \sf <nb="2011"> 70
-\ph dduaebelee
+\or dduaebelee
 \ps n
 \lc ɖwæ˧pɤ˧ɭɯ˥
 \sd <langue="fra"> environnement naturel
@@ -8450,7 +8449,7 @@
 \sf <nb="B"> 1299
 \sf <nb="B"> 1078
 \sf <nb="2011"> 1853
-\ph dduaeq
+\or dduaeq
 \ps v
 \lc ɖwæ˩˥
 \sd <langue="fra"> verbe
@@ -8477,7 +8476,7 @@
 \dt 24/Apr/2017
 
 \lx ɖwæ˥α
-\ph dduae
+\or dduae
 \ps clf
 \lc ɖɯ˧ ɖwæ˥
 \sd <langue="fra"> classificateur
@@ -8504,7 +8503,7 @@
 \sf <nb="B"> 1049
 \sf <nb="B"> 1537
 \sf <nb="2011"> 1482
-\ph zza
+\or zza
 \ps adj
 \lc dzɑ˥
 \sd <langue="fra"> adjectif
@@ -8567,7 +8566,7 @@
 \lx ɖʐæ˧β
 \sf <nb="B"> 1458
 \sf <nb="2011"> 2119
-\ph zzhae
+\or zzhae
 \ps v
 \lc ɖʐæ˧
 \sd <langue="fra"> verbe
@@ -8598,7 +8597,7 @@
 \dt 24/Apr/2017
 
 \lx ɖʐæ˩bv̩˩
-\ph zzhaebbu
+\or zzhaebbu
 \ps n
 \lc ɖʐæ˩bv̩˩˥
 \sd <langue="fra"> société
@@ -8626,7 +8625,7 @@
 \lx ɖʐæ˧qʰæ˥$
 \sf <nb="B"> 59
 \sf <nb="2011"> 103
-\ph zzhaekhae
+\or zzhaekhae
 \ps n
 \lc ɖʐæ˧qʰæ˥
 \sd <langue="fra"> environnement naturel
@@ -8659,7 +8658,7 @@
 \lx dzɑ˩qʰwɤ˩
 \sf <nb="B"> 434
 \sf <nb="2011"> 553
-\ph zzakhua
+\or zzakhua
 \ps n
 \lc dzɑ˧qʰwɤ˩˥
 \sd <langue="fra"> vêtement
@@ -8684,7 +8683,7 @@
 \lx ɖʐæ˩α
 \sf <nb="B"> 1470
 \sf <nb="2011"> 2157
-\ph zzhaeq
+\or zzhaeq
 \ps v
 \lc ɖʐæ˩˥
 \sd <langue="fra"> verbe
@@ -8711,7 +8710,7 @@
 \dt 24/Apr/2017
 
 \lx dze˩
-\ph zzeiq
+\or zzeiq
 \ps v
 \lc dze˩˥
 \sd <langue="fra"> morphosyntaxe
@@ -8746,7 +8745,7 @@
 \lx dze˩˧
 \sf <nb="B"> 2044
 \sf <nb="2011"> 3154
-\ph zzeiq
+\or zzeiq
 \ps n
 \lc dze˩˥
 \sd <langue="fra"> plante
@@ -8770,7 +8769,7 @@
 \lx dze˥
 \sf <nb="B"> 399
 \sf <nb="2011"> 507
-\ph zzei
+\or zzei
 \ps n
 \lc dze˧
 \sd <langue="fra"> nourriture
@@ -8792,7 +8791,7 @@
 \lx ɖʐe˧
 \sf <nb="B"> 538
 \sf <nb="2011"> 768
-\ph zzhei
+\or zzhei
 \ps n
 \lc ɖʐe˧
 \sd <langue="fra"> objet
@@ -8812,7 +8811,7 @@
 \dt 27/Aug/2015
 
 \lx dze˧bo˧
-\ph Zzeibbo
+\or Zzeibbo
 \ps n
 \lc dze˧bo˧
 \sn 1
@@ -8846,7 +8845,7 @@
 \lx dze˧bɤ˩
 \sf <nb="B"> 1804
 \sf <nb="2011"> 2740
-\ph zzeibbe
+\or zzeibbe
 \ps n
 \lc dze˧bɤ˩
 \sd <langue="fra"> animal
@@ -8879,7 +8878,7 @@
 \dt 12/Jun/2017
 
 \lx dze˧dv̩˩
-\ph zzeiddu
+\or zzeiddu
 \ps n
 \lc dze˧dv̩˩
 \sd <langue="fra"> nourriture
@@ -8901,7 +8900,7 @@
 \lx dze˩dʑɯ˧˥
 \sf <nb="B"> 1076
 \sf <nb="2011"> 1518
-\ph zzeijji
+\or zzeijji
 \ps adj
 \lc dze˩dʑɯ˧˥
 \sd <langue="fra"> adjectif
@@ -8927,7 +8926,7 @@
 
 \lx ɖʐe˧gɯ˧
 \sf <nb="2011"> 3344
-\ph Zzheiggee
+\or Zzheiggee
 \ps n
 \lc ɖʐe˧gɯ˧
 \sd <langue="fra"> lieu
@@ -8956,7 +8955,7 @@
 \dt 12/Jun/2017
 
 \lx dze˧hi˧
-\ph zzeixie
+\or zzeixie
 \ps n
 \lc dze˧hi˧
 \sd <langue="fra"> société
@@ -8987,7 +8986,7 @@
 \lx dze˧kʰɤ˧˥
 \sf <nb="B"> 350c
 \sf <nb="2011"> 407
-\ph zzeike
+\or zzeike
 \ps n
 \lc dze˧kʰɤ˧˥
 \sd <langue="fra"> société
@@ -9011,7 +9010,7 @@
 \lx dze˧ɭɯ˧
 \sf <nb="B"> 1999
 \sf <nb="2011"> 3049
-\ph zzeilee
+\or zzeilee
 \ps n
 \lc dze˧ɭɯ˧
 \sd <langue="fra"> plante
@@ -9033,7 +9032,7 @@
 \lx dze˧ɭɯ˧-ɻ̃#˥
 \sf <nb="B"> 1996
 \sf <nb="2011"> 3045
-\ph zzeilee'eun
+\or zzeilee'eun
 \ps n
 \lc dze˧ɭɯ˧ɻ̃˧
 \sd <langue="fra"> plante
@@ -9054,7 +9053,7 @@
 \lx dze˩mi˧
 \sf <nb="B"> 1824
 \sf <nb="2011"> 2775
-\ph zzeimi
+\or zzeimi
 \ps n
 \lc dze˧mi˧
 \sd <langue="fra"> animal
@@ -9075,7 +9074,7 @@
 
 \lx dze˩mi˧-bæ˩bæ˩
 \sf <nb="2011"> 3283
-\ph zzeimi bbaebbae
+\or zzeimi bbaebbae
 \ps n
 \lc dze˩mi˧bæ˩bæ˩
 \sd <langue="fra"> plante
@@ -9096,7 +9095,7 @@
 \lx dze˩mi˧-dze#˥
 \sf <nb="B"> 1825
 \sf <nb="2011"> 2777
-\ph zzeimizzei
+\or zzeimizzei
 \et dze˩mi˧; dze˥
 \ps n
 \lc dze˩mi˧dze˧
@@ -9124,7 +9123,7 @@
 \lx dze˩mi˧-kʰv̩˩
 \sf <nb="B"> 1826
 \sf <nb="2011"> 2778
-\ph zzeimiku
+\or zzeimiku
 \ps n
 \lc dze˩mi˧kʰv̩˩
 \sd <langue="fra"> animal
@@ -9147,7 +9146,7 @@
 \lx dze˩mi˧-pv̩˥ɻ̍˩
 \sf <nb="B"> 2078, 2108
 \sf <nb="2011"> 3210, 3242
-\ph zzeimipu'er  
+\or zzeimipu'er  
 \ps n
 \lc dze˩mi˧pv̩˥ɻ̍˩
 \sd <langue="fra"> plante
@@ -9169,7 +9168,7 @@
 \dt 13/Jul/2017
 
 \lx dze˩mi˧-pv̩˥ɻ̍˩
-\ph zzeimipu'er
+\or zzeimipu'er
 \ps n
 \lc dze˩mi˧pv̩˥ɻ̍˩
 \sd <langue="fra"> plante
@@ -9191,7 +9190,7 @@
 \dt 12/Jun/2017
 
 \lx ɖʐe˧ʁwɤ˧
-\ph zzheiwua
+\or zzheiwua
 \ps n
 \lc ɖʐe˧ʁwɤ˧
 \sd <langue="fra"> société
@@ -9208,7 +9207,7 @@
 
 \lx dze˧-ɻ̃#˥
 \sf <nb="2011"> 3046
-\ph zzei'eun
+\or zzei'eun
 \ps n
 \lc dze˧ɻ̃˧
 \sd <langue="fra"> plante
@@ -9229,7 +9228,7 @@
 \lx dze˧-tɕʰi#˥
 \sf <nb="B"> 1994
 \sf <nb="2011"> 3043
-\ph zzeiqie
+\or zzeiqie
 \ps n
 \lc dze˧tɕʰi˧
 \sd <langue="fra"> plante
@@ -9247,7 +9246,7 @@
 
 \lx dze˧-ʈʂæ˥
 \sf <nb="2011"> 2776
-\ph zzeizhae
+\or zzeizhae
 \ps n
 \lc dze˧ʈʂæ˥
 \sd <langue="fra"> animal
@@ -9265,7 +9264,7 @@
 \dt 19/Jun/2017
 
 \lx dze˧ʈʂʰɤ$˥
-\ph zzeiche
+\or zzeiche
 \ps n
 \lc dze˧ʈʂʰɤ˥
 \sd <langue="fra"> agriculture
@@ -9283,7 +9282,7 @@
 \lx dze˧ʈʂɯ˧
 \sf <nb="B"> 596c
 \sf <nb="2011"> 862
-\ph zzeizhi
+\or zzeizhi
 \ps n
 \lc dze˧ʈʂɯ˧
 \sd <langue="fra"> objet
@@ -9306,7 +9305,7 @@
 \lx dze˩α
 \sf <nb="B"> 851
 \sf <nb="2011"> 1274
-\ph zzei
+\or zzei
 \ps clf
 \lc ɖɯ˧ dze˩
 \sd <langue="fra"> classificateur
@@ -9340,7 +9339,7 @@
 \sf <nb="B"> 1262
 \sf <nb="2011"> 1819
 \hm 1
-\ph zzeiq
+\or zzeiq
 \ps v
 \lc dze˩˥
 \sd <langue="fra"> verbe
@@ -9371,7 +9370,7 @@
 \sf <nb="B"> 1527
 \sf <nb="2011"> 1929
 \hm 2
-\ph zzeiq
+\or zzeiq
 \ps v
 \lc dze˩˥
 \sd <langue="fra"> verbe
@@ -9412,7 +9411,7 @@
 \lx dzi˩
 \sf <nb="2011"> 1138
 \hm 1
-\ph zzeeq
+\or zzeeq
 \ps v
 \lc dzi˩˥
 \sd <langue="fra"> temps
@@ -9439,7 +9438,7 @@
 
 \lx dzi˩
 \hm 2
-\ph zzee
+\or zzee
 \ps clf
 \lc ɖɯ˧ dzi˩
 \sd <langue="fra"> classificateur
@@ -9463,7 +9462,7 @@
 \dt 24/Apr/2017
 
 \lx dzi˧˥
-\ph zzeeq
+\or zzeeq
 \ps v
 \lc dzi˧˥
 \sd <langue="fra"> verbe
@@ -9505,7 +9504,7 @@
 \lx dzi˥
 \sf <nb="B"> 568
 \sf <nb="2011"> 804
-\ph zzee
+\or zzee
 \ps n
 \lc dzi˧
 \sd <langue="fra"> objet
@@ -9531,7 +9530,7 @@
 \sf <nb="B"> 228
 \sf <nb="2011"> 300
 \hm 1
-\ph jjie
+\or jjie
 \ps n
 \lc dʑi˧
 \sd <langue="fra"> corps
@@ -9567,7 +9566,7 @@
 \sf <nb="B"> 416
 \sf <nb="2011"> 526
 \hm 2
-\ph jjie
+\or jjie
 \ps n
 \lc dʑi˧
 \sd <langue="fra"> vêtement
@@ -9609,7 +9608,7 @@
 \sf <nb="B"> 846c
 \sf <nb="B"> 2184
 \sf <nb="2011"> 1243
-\ph zzee
+\or zzee
 \ps clf
 \lc ɖɯ˧ dzi˩
 \sd <langue="fra"> classificateur
@@ -9641,7 +9640,7 @@
 \lx dzi˧β
 \sf <nb="B"> 2192
 \sf <nb="2011"> 1275
-\ph zzee
+\or zzee
 \ps clf
 \lc ɖɯ˧ dzi˧
 \sd <langue="fra"> classificateur
@@ -9665,7 +9664,7 @@
 \dt 24/Apr/2017
 
 \lx dzi˧ɖæ˧
-\ph zzeeddae
+\or zzeeddae
 \ps n
 \lc dzi˧ɖæ˧
 \sd <langue="fra"> maison
@@ -9683,7 +9682,7 @@
 \dt 27/Aug/2015
 
 \lx dzi˧dzi˧
-\ph zzeezzee
+\or zzeezzee
 \ps n
 \lc dzi˧dzi˧
 \sy dʑɯ˩si˩
@@ -9705,7 +9704,7 @@
 \dt 27/Aug/2015
 
 \lx dzi˧dzi˧-mo˧˥
-\ph zzeezzeemo
+\or zzeezzeemo
 \ps n
 \lc dzi˧dzi˧mo˧˥
 \sd <langue="fra"> plante
@@ -9723,7 +9722,7 @@
 \lx dʑi˧hṽ̩˥$
 \sf <nb="B"> 416
 \sf <nb="2011"> 526
-\ph jjiehun
+\or jjiehun
 \ps n
 \lc dʑi˧hṽ̩˥
 \sd <langue="fra"> vêtement
@@ -9750,7 +9749,7 @@
 \lx dʑi˧mi#˥
 \sf <nb="B"> 1921
 \sf <nb="2011"> 2925
-\ph jjiemi
+\or jjiemi
 \ps n
 \lc dʑi˧mi˧
 \sd <langue="fra"> animal
@@ -9783,7 +9782,7 @@
 \lx dzi˩ʁo˩
 \sf <nb="B"> 2255a
 \sf <nb="2011"> 599
-\ph zzeewo
+\or zzeewo
 \ps n
 \lc dzi˩ʁo˩˥
 \sd <langue="fra"> maison
@@ -9802,7 +9801,7 @@
 \dt 24/Apr/2017
 
 \lx dʑi˧tɕʰi˧
-\ph jjieqie
+\or jjieqie
 \ps n
 \lc dʑi˧tɕʰi˧
 \ton M
@@ -9833,7 +9832,7 @@
 \lx dzi˩tsʰɤ˩
 \sf <nb="B"> 2181
 \sf <nb="2011"> 3304
-\ph zzeece
+\or zzeece
 \ps n
 \lc dzi˩tsʰɤ˩˥
 \sd <langue="fra"> plante
@@ -9857,7 +9856,7 @@
 \lx dʑi˩wɤ˩
 \sf <nb="B"> 550
 \sf <nb="2011"> 786
-\ph jjie'ua
+\or jjie'ua
 \ps n
 \lc dʑi˩wɤ˩˥
 \sd <langue="fra"> objet
@@ -9878,7 +9877,7 @@
 \dt 27/Aug/2015
 
 \lx dʑi˧zo#˥
-\ph jjiesso
+\or jjiesso
 \ps n
 \lc dʑi˧zo˧
 \sd <langue="fra"> animal
@@ -9904,7 +9903,7 @@
 \sf <nb="B"> 1647
 \sf <nb="2011"> 2458
 \hm 1
-\ph zzeeq
+\or zzeeq
 \ps v
 \lc dzi˩˥
 \sn 1
@@ -9966,7 +9965,7 @@
 
 \lx dzi˩α
 \hm 2
-\ph zzeeq
+\or zzeeq
 \ps v
 \lc dzi˩˥
 \sd <langue="fra"> verbe
@@ -9993,7 +9992,7 @@
 \sf <nb="B"> 1571
 \sf <nb="2011"> 2538
 \hm 3
-\ph zzeeq
+\or zzeeq
 \ps v
 \lc dzi˩˥
 \sd <langue="fra"> verbe
@@ -10018,7 +10017,7 @@
 \lx dzo˩
 \sf <nb="B"> 84
 \sf <nb="2011"> 130
-\ph zzo
+\or zzo
 \ps n
 \lc dzo˧
 \sd <langue="fra"> objet
@@ -10065,7 +10064,7 @@
 \lx dzo˩˧
 \sf <nb="B"> 1903
 \sf <nb="2011"> 2885
-\ph zzoq
+\or zzoq
 \ps n
 \lc dzo˩˥
 \sd <langue="fra"> animal
@@ -10098,7 +10097,7 @@
 \lx dzo˥
 \sf <nb="B"> 15
 \sf <nb="2011"> 25
-\ph zzo
+\or zzo
 \ps n
 \lc dzo˧
 \sd <langue="fra"> environnement naturel
@@ -10131,7 +10130,7 @@
 \lx ɖʐo˥
 \sf <nb="B"> 1023
 \sf <nb="2011"> 1453
-\ph zzho
+\or zzho
 \ps adj
 \lc ɖʐo˧
 \sd <langue="fra"> adjectif
@@ -10152,7 +10151,7 @@
 \lx ɖʐo˥
 \sf <nb="B"> 463
 \sf <nb="2011"> 629
-\ph zzho
+\or zzho
 \ps n
 \lc ɖʐo˧
 \sd <langue="fra"> maison
@@ -10174,7 +10173,7 @@
 \sf <nb="B"> 468
 \sf <nb="B"> 470
 \sf <nb="2011"> 638
-\ph zzhe
+\or zzhe
 \ps n
 \lc ɖʐɤ˧
 \sn 1
@@ -10221,7 +10220,7 @@
 \sf <nb="B"> 1498
 \sf <nb="2011"> 2573
 \hm 1
-\ph zzheq
+\or zzheq
 \ps v
 \lc ɖʐɤ˧˥
 \sn 1
@@ -10280,7 +10279,7 @@
 \sf <nb="B"> 1694
 \sf <nb="2011"> 2190
 \hm 2
-\ph zzheq
+\or zzheq
 \ps v
 \lc ɖʐɤ˧˥
 \sd <langue="fra"> verbe
@@ -10305,7 +10304,7 @@
 \dt 27/Aug/2015
 
 \lx dzɤ˥β
-\ph zze
+\or zze
 \ps clf
 \lc ɖɯ˧ dzɤ˥
 \sd <langue="fra"> classificateur
@@ -10331,7 +10330,7 @@
 \lx dʑo˩β
 \sf <nb="B"> 1776b
 \sf <nb="2011"> 3388
-\ph jjo
+\or jjo
 \ps v
 \lc dʑo˩˥
 \sd <langue="fra"> verbe
@@ -10358,7 +10357,7 @@
 \lx dʑo˧β
 \sf <nb="B"> 1776
 \sf <nb="2011"> 3385
-\ph jjo
+\or jjo
 \ps v
 \lc dʑo˧
 \sd <langue="fra"> verbe
@@ -10412,7 +10411,7 @@
 \sf <nb="B"> 1010a
 \sf <nb="B"> 1011
 \sf <nb="2011"> 1436
-\ph jjaq
+\or jjaq
 \ps adj
 \lc dʑɤ˩˥
 \sd <langue="fra"> adjectif
@@ -10456,7 +10455,7 @@
 \lx ɖʐo˩β
 \sf <nb="B"> 1526
 \sf <nb="2011"> 2237
-\ph zzhoq
+\or zzhoq
 \ps v
 \lc ɖʐo˩˥
 \sd <langue="fra"> verbe
@@ -10491,7 +10490,7 @@
 \lx dʑɤ˧bo˩
 \sf <nb="B"> 476b
 \sf <nb="2011"> 650
-\ph jjabbo
+\or jjabbo
 \ps n
 \lc dʑɤ˧bo˩
 \sd <langue="fra"> maison
@@ -10515,7 +10514,7 @@
 \lx dʑɤ˩bv̩˥
 \sf <nb="B"> 1557
 \sf <nb="2011"> 2596
-\ph jjabbu
+\or jjabbu
 \ps v
 \lc dʑɤ˩bv̩˥
 \sd <langue="fra"> verbe
@@ -10549,7 +10548,7 @@
 \lx dʑɤ˩bv̩˥-di˩
 \sf <nb="B"> 1556
 \sf <nb="2011"> 2597
-\ph jjabbuddi
+\or jjabbuddi
 \ps n
 \lc dʑɤ˩bv̩˥di˩
 \sd <langue="fra"> objet
@@ -10569,7 +10568,7 @@
 
 \lx dʑɤ˩bv̩˧kɤ˧-sɑ˥ʁwɤ˩
 \sf <nb="2011"> 3329
-\ph Jjabbuge Sawua
+\or Jjabbuge Sawua
 \ps n
 \lc dʑɤ˩bv̩˧kɤ˧sɑ˥ʁwɤ˩
 \sd <langue="fra"> lieu
@@ -10592,7 +10591,7 @@
 
 \lx dʑɤ˩bv̩˥-ʁwɤ˩
 \sf <nb="2011"> 3330
-\ph Jjabbuwua
+\or Jjabbuwua
 \ps n
 \lc dʑɤ˩bv̩˥ʁwɤ˩
 \sd <langue="fra"> lieu
@@ -10613,7 +10612,7 @@
 \lx dʑɤ˩ɕjɤ˩
 \sf <nb="B"> 433
 \sf <nb="2011"> 552
-\ph jjaxe
+\or jjaxe
 \ps n
 \lc dʑɤ˩ɕjɤ˩˥
 \sd <langue="fra"> vêtement
@@ -10631,7 +10630,7 @@
 \dt 24/Apr/2017
 
 \lx dʑɤ˧do˩
-\ph Jjaddo
+\or Jjaddo
 \ps n
 \lc dʑɤ˧do˩
 \sd <langue="fra"> lieu
@@ -10653,7 +10652,7 @@
 
 \lx ɖʐɤ˩ɖwæ˩
 \sf <nb="2011"> 648
-\ph zzhedduae
+\or zzhedduae
 \ps n
 \lc ɖʐɤ˩ɖwæ˩˥
 \sd <langue="fra"> maison
@@ -10678,7 +10677,7 @@
 \dt 24/Apr/2017
 
 \lx ɖʐɤ˩kɤ˥$
-\ph Zzhege
+\or Zzhege
 \ps n
 \lc ɖʐɤ˩kɤ˥
 \sd <langue="fra"> nom propre
@@ -10699,7 +10698,7 @@
 \dt 24/Apr/2017
 
 \lx dʑɤ˩kʰwɤ˧
-\ph jjakua
+\or jjakua
 \ps n
 \ton LM
 \lc dʑɤ˩kʰwɤ˥
@@ -10723,7 +10722,7 @@
 \lx dzo˧-lv̩˧~lv̩˥
 \sf <nb="B"> 15b
 \sf <nb="2011"> 26
-\ph zzolulu
+\or zzolulu
 \ps n
 \lc dzo˧lv̩˧lv̩˥
 \sd <langue="fra"> environnement naturel
@@ -10748,7 +10747,7 @@
 \lx dzo˧mi˧
 \sf <nb="B"> 524c
 \sf <nb="2011"> 749
-\ph zzomi
+\or zzomi
 \ps n
 \lc dzo˧mi˧
 \sd <langue="fra"> objet
@@ -10766,7 +10765,7 @@
 \dt 24/Apr/2017
 
 \lx dzo˩mi#˥
-\ph zzomi
+\or zzomi
 \ps n
 \lc dzo˩mi˥
 \sd <langue="fra"> animal
@@ -10792,7 +10791,7 @@
 \lx dʑɤ˩pi#˥
 \sf <nb="B"> 544
 \sf <nb="2011"> 1359
-\ph jjabi
+\or jjabi
 \ps adj
 \lc dʑɤ˩pi˥
 \sd <langue="fra"> adjectif
@@ -10825,7 +10824,7 @@
 \dt 27/Aug/2015
 
 \lx dzo˩pʰv̩˩
-\ph zzopu
+\or zzopu
 \ps n
 \lc dzo˩pʰv̩˩˥
 \sd <langue="fra"> animal
@@ -10851,7 +10850,7 @@
 \dt 03/Aug/2017
 
 \lx dʑɤ˩qʰɑ˥
-\ph jjakha
+\or jjakha
 \ps adv
 \lc dʑɤ˩qʰɑ˩
 \sd <langue="fra"> morphosyntaxe
@@ -10881,7 +10880,7 @@
 \lx ɖʐɤ˧qʰwɤ˧
 \sf <nb="B"> 244
 \sf <nb="2011"> 310
-\ph zzhekhua
+\or zzhekhua
 \ps n
 \lc ɖʐɤ˧qʰwɤ˧
 \sd <langue="fra"> corps
@@ -10916,7 +10915,7 @@
 \lx ɖʐɤ˧qʰwɤ˧ʈʂe#˥
 \sf <nb="B"> 567
 \sf <nb="2011"> 803
-\ph zzhekhuazhei
+\or zzhekhuazhei
 \ps n
 \lc ɖʐɤ˧qʰwɤ˧ʈʂe˧
 \sd <langue="fra"> objet
@@ -10940,7 +10939,7 @@
 \dt 27/Aug/2015
 
 \lx dʑɤ˩so˥
-\ph jjaso
+\or jjaso
 \ps adj
 \lc dʑɤ˩so˥
 \sd <langue="fra"> morphosyntaxe
@@ -10969,7 +10968,7 @@
 \dt 24/Apr/2017
 
 \lx dʑɤ˩tsʰi˧-ɖɯ˩mɑ˩
-\ph Jjacee Ddeema
+\or Jjacee Ddeema
 \ps n
 \lc dʑɤ˩tsʰi˧ɖɯ˩mɑ˩
 \sd <langue="fra"> nom propre
@@ -10985,7 +10984,7 @@
 \dt 24/Apr/2017
 
 \lx dʑɤ˩tsʰi˧-tsi˩mv̩˩
-\ph jjaceezeemu
+\or jjaceezeemu
 \ps n
 \lc dʑɤ˩tsʰi˧tsi˩mv̩˩
 \sd <langue="fra"> religion
@@ -11004,7 +11003,7 @@
 \dt 12/Jun/2017
 
 \lx dʑɤ˩tsʰi#˥
-\ph Jjacee
+\or Jjacee
 \ps n
 \lc dʑɤ˩tsʰi˥
 \sd <langue="fra"> nom propre
@@ -11021,7 +11020,7 @@
 \dt 24/Apr/2017
 
 \lx dʑɤ˩tsʰo˧
-\ph jjaco
+\or jjaco
 \ps v
 \lc dʑɤ˩tsʰo˥
 \sd <langue="fra"> verbe
@@ -11049,7 +11048,7 @@
 \dt 27/Aug/2015
 
 \lx dzo˩zo#˥
-\ph zzosso
+\or zzosso
 \ps n
 \lc dzo˩zo˥
 \sd <langue="fra"> animal
@@ -11068,7 +11067,7 @@
 \dt 27/Aug/2015
 
 \lx dzo˧zo#˥
-\ph zzosso
+\or zzosso
 \ps n
 \lc dzo˧zo˧
 \sd <langue="fra"> objet
@@ -11091,7 +11090,7 @@
 \sf <nb="B"> 1684
 \sf <nb="B"> 1702
 \sf <nb="2011"> 2503
-\ph zzeq
+\or zzeq
 \ps v
 \lc dzɤ˩˥
 \sd <langue="fra"> verbe
@@ -11118,7 +11117,7 @@
 \dt 24/Apr/2017
 
 \lx ɖʐo˥α
-\ph zzho
+\or zzho
 \ps clf
 \lc ɖɯ˧ ɖʐo˥
 \sd <langue="fra"> classificateur
@@ -11134,7 +11133,7 @@
 \dt 24/Apr/2017
 
 \lx dzo˩~dzo˧˥
-\ph zzozzo
+\or zzozzo
 \ps v
 \lc dzo˩dzo˧˥
 \sd <langue="fra"> verbe
@@ -11160,7 +11159,7 @@
 \lx dzɯ˥
 \sf <nb="B"> 1158
 \sf <nb="2011"> 1651
-\ph zzi
+\or zzi
 \ps v
 \lc dzɯ˧
 \sd <langue="fra"> verbe
@@ -11208,7 +11207,7 @@
 \sf <nb="B"> 40a
 \sf <nb="B"> 60
 \sf <nb="2011"> 104
-\ph jji
+\or jji
 \ps n
 \lc dʑɯ˧
 \sn 1
@@ -11271,7 +11270,7 @@
 
 \lx dʑɯ˧
 \sf <nb="2011"> 1129
-\ph jji
+\or jji
 \ps n
 \lc dʑɯ˧
 \sd <langue="fra"> temps
@@ -11308,7 +11307,7 @@
 \lx dʑɯ˧˥
 \sf <nb="B"> 937
 \sf <nb="2011"> 1358
-\ph jjiq
+\or jjiq
 \ps adj
 \lc dʑɯ˧˥
 \sd <langue="fra"> adjectif
@@ -11333,7 +11332,7 @@
 \lx ɖʐɯ˥
 \sf <nb="B"> 479a
 \sf <nb="2011"> 614
-\ph zzhi
+\or zzhi
 \ps n
 \lc ɖʐɯ˧
 \sd <langue="fra"> société
@@ -11355,7 +11354,7 @@
 
 \lx dʑɯ˩-æ̃˩tsɯ˧
 \sf <nb="2011"> 2721
-\ph jji aenzi
+\or jji aenzi
 \ps n
 \lc dʑɯ˩æ̃˩tsɯ˥
 \sd <langue="fra"> animal
@@ -11378,7 +11377,7 @@
 \lx dʑɯ˧dv̩˧
 \sf <nb="B"> 1820
 \sf <nb="2011"> 2771
-\ph jjiddu
+\or jjiddu
 \ps n
 \lc dʑɯ˧dv̩˧
 \sd <langue="fra"> animal
@@ -11410,7 +11409,7 @@
 
 \lx dʑɯ˩dze˩
 \sf <nb="2011"> 718
-\ph jjizzei
+\or jjizzei
 \ps n
 \lc dʑɯ˩dze˩˥
 \sd <langue="fra"> objet
@@ -11434,7 +11433,7 @@
 
 \lx dʑɯ˧dze˧mi#˥
 \sf <nb="2011"> 2788
-\ph jjizzeimi
+\or jjizzeimi
 \ps n
 \lc dʑɯ˧dze˧mi˧
 \sd <langue="fra"> animal
@@ -11459,7 +11458,7 @@
 \lx dʑɯ˩gɤ˩di˩
 \sf <nb="B"> 592
 \sf <nb="2011"> 847
-\ph jjiggeddi
+\or jjiggeddi
 \ps n
 \lc dʑɯ˩gɤ˩di˩˥
 \sd <langue="fra"> objet
@@ -11485,7 +11484,7 @@
 \sf <nb="B"> 524
 \sf <nb="B"> 602
 \sf <nb="2011"> 748
-\ph jjiggu
+\or jjiggu
 \ps n
 \lc dʑɯ˩gv̩˩˥
 \sd <langue="fra"> objet
@@ -11513,7 +11512,7 @@
 \lx dʑɯ˩gv̩˥
 \sf <nb="B"> 145a
 \sf <nb="2011"> 212
-\ph jjiggu
+\or jjiggu
 \ps adj
 \lc dʑɯ˩gv̩˥
 \sd <langue="fra"> adjectif
@@ -11534,7 +11533,7 @@
 \lx dʑɯ˩hṽ̩˧˥
 \sf <nb="B"> 384c
 \sf <nb="2011"> 452
-\ph jjihun
+\or jjihun
 \ps n
 \lc dʑɯ˩hṽ̩˧˥
 \sd <langue="fra"> nourriture
@@ -11554,7 +11553,7 @@
 \lx dʑɯ˩-hwæ˩tsɯ˥
 \sf <nb="B"> 1935
 \sf <nb="2011"> 2956
-\ph jjihuaezi
+\or jjihuaezi
 \ps n
 \lc dʑɯ˩hwæ˩tsɯ˥
 \sd <langue="fra"> animal
@@ -11573,7 +11572,7 @@
 \lx dʑɯ˩kʰi˩
 \sf <nb="B"> 61
 \sf <nb="2011"> 66
-\ph jjiki
+\or jjiki
 \ps n
 \lc dʑɯ˩kʰi˩˥
 \sd <langue="fra"> environnement naturel
@@ -11596,7 +11595,7 @@
 \sf <nb="B"> 431
 \sf <nb="B"> 531
 \sf <nb="2011"> 546
-\ph jjigi
+\or jjigi
 \ps n
 \lc dʑɯ˩ki˥
 \sd <langue="fra"> vêtement
@@ -11619,7 +11618,7 @@
 
 \lx ɖʐɯ˩kʰɤ˥
 \sf <nb="2011"> 5
-\ph zzhike
+\or zzhike
 \et ɖʐɯ˩a
 \ps n
 \lc ɖʐɯ˩kʰɤ˥
@@ -11640,7 +11639,7 @@
 \lx ɖʐɯ˥kʰɤ˩
 \sf <nb="B"> 878
 \sf <nb="2011"> 1084
-\ph zzhike
+\or zzhike
 \ps n
 \lc ɖʐɯ˧kʰɤ˩
 \sd <langue="fra"> temps
@@ -11664,7 +11663,7 @@
 \dt 24/Apr/2017
 
 \lx dʑɯ˩kʰv̩˩
-\ph jjiku
+\or jjiku
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -11683,7 +11682,7 @@
 \lx dʑɯ˧-li˧
 \sf <nb="B"> 1297
 \sf <nb="2011"> 2451
-\ph jjili
+\or jjili
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -11709,7 +11708,7 @@
 \dt 24/Apr/2017
 
 \lx dʑɯ˧ɭɯ˧
-\ph jjilee
+\or jjilee
 \ps n
 \cf dʑɯ˧njɤ˧, dʑɯ˧ʈʂʰwæ#˥
 \sd <langue="fra"> plante
@@ -11731,7 +11730,7 @@
 
 \lx dʑɯ˧mi˧
 \sf <nb="2011"> 59
-\ph jjimi
+\or jjimi
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -11751,7 +11750,7 @@
 \lx dʑɯ˩nɑ˩hæ̃˩tʰɑ˩
 \sf <nb="B"> 601
 \sf <nb="2011"> 869
-\ph jjinahaenta
+\or jjinahaenta
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -11776,7 +11775,7 @@
 
 \lx dʑɯ˩nɑ˩mi˩
 \sf <nb="2011"> 55
-\ph jjinami
+\or jjinami
 \ps n
 \cf dʑɯ˩nɑ˩mi˩-ʁo˩, dʑɯ˩ʁo˩
 \sd <langue="fra"> environnement naturel
@@ -11795,7 +11794,7 @@
 \lx dʑɯ˩nɑ˩mi˩-ʁo˩
 \sf <nb="B"> 36
 \sf <nb="2011"> 54
-\ph jjinamiwo
+\or jjinamiwo
 \ps n
 \cf dʑɯ˩nɑ˩mi˩, dʑɯ˩ʁo˩
 \sd <langue="fra"> environnement naturel
@@ -11813,7 +11812,7 @@
 \dt 24/Apr/2017
 
 \lx dʑɯ˧njɤ˧
-\ph jjinya
+\or jjinya
 \ps n
 \cf dʑɯ˧ɭɯ˧, dʑɯ˧ʈʂʰwæ#˥
 \sd <langue="fra"> plante
@@ -11842,7 +11841,7 @@
 \lx dʑɯ˩pʰæ˩
 \sf <nb="B"> 18
 \sf <nb="2011"> 30
-\ph jjipae
+\or jjipae
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -11869,7 +11868,7 @@
 \lx dʑɯ˩pɤ˩-kv̩˧hĩ˩
 \sf <nb="B"> 63
 \sf <nb="2011"> 106
-\ph jjibe guhin
+\or jjibe guhin
 \ps n
 \cf dʑɯ˩pɤ˩qʰv̩˩, dʑɯ˩pɤ˩tv̩˩qʰv̩˥
 \sd <langue="fra"> environnement naturel
@@ -11892,7 +11891,7 @@
 
 \lx dʑɯ˩pɤ˩qʰv̩˩
 \sf <nb="2011"> 108
-\ph jjibekheu
+\or jjibekheu
 \ps n
 \cf dʑɯ˩pɤ˩-kv̩˧hĩ˩, dʑɯ˩pɤ˩tv̩˩qʰv̩˥
 \sd <langue="fra"> environnement naturel
@@ -11912,7 +11911,7 @@
 
 \lx dʑɯ˩pɤ˩tv̩˩qʰv̩˥
 \sf <nb="2011"> 109
-\ph jjibedukheu
+\or jjibedukheu
 \ps n
 \cf dʑɯ˩pɤ˩qʰv̩˩, dʑɯ˩pɤ˩-kv̩˧hĩ˩
 \sd <langue="fra"> environnement naturel
@@ -11932,7 +11931,7 @@
 \lx dʑɯ˩qʰæ˩
 \sf <nb="B"> 397n
 \sf <nb="2011"> 505
-\ph jjikhae
+\or jjikhae
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -11951,7 +11950,7 @@
 \lx dʑɯ˧qʰɑ˧
 \sf <nb="B"> 2108
 \sf <nb="2011"> 3242
-\ph jjikha
+\or jjikha
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -11977,7 +11976,7 @@
 \lx ɖʐɯ˧qo˩
 \sf <nb="B"> 1276
 \sf <nb="2011"> 615
-\ph zzhigho
+\or zzhigho
 \ps adv
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -12002,7 +12001,7 @@
 \lx dʑɯ˧qʰv̩˩
 \sf <nb="B"> 2174
 \sf <nb="2011"> 3297
-\ph jjikheu
+\or jjikheu
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -12029,7 +12028,7 @@
 \lx dʑɯ˧qʰv̩˧
 \sf <nb="B"> 45
 \sf <nb="2011"> 74
-\ph jjikheu
+\or jjikheu
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -12057,7 +12056,7 @@
 
 \lx dʑɯ˩qʰwɤ˩-lv̩˩
 \sf <nb="2011"> 93
-\ph jjikhualu
+\or jjikhualu
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -12079,7 +12078,7 @@
 
 \lx dʑɯ˩ʁo˩
 \sf <nb="2011"> 53
-\ph jjiwo
+\or jjiwo
 \ps n
 \cf dʑɯ˩nɑ˩mi˩, dʑɯ˩nɑ˩mi˩-ʁo˩
 \sd <langue="fra"> environnement naturel
@@ -12100,7 +12099,7 @@
 \lx dʑɯ˧ʁo˩
 \sf <nb="B"> 1974
 \sf <nb="2011"> 3002
-\ph jjiwo
+\or jjiwo
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -12122,7 +12121,7 @@
 \lx dʑɯ˩ʁo˩-æ̃˧
 \sf <nb="B"> 2297
 \sf <nb="2011"> 2666
-\ph jjiwo'aen
+\or jjiwo'aen
 \ec <langue="fra"> littéralement ‘poule sauvage'
 \ec <langue="eng"> literally ‘wild chicken'
 \ps n
@@ -12146,7 +12145,7 @@
 
 \lx dʑɯ˩ʁo˩-bo˧
 \sf <nb="2011"> 2822
-\ph jjiwobbo
+\or jjiwobbo
 \ec <langue="fra"> littéralement ‘cochon sauvage'
 \ec <langue="eng"> literally ‘wild pig'
 \ps n
@@ -12172,7 +12171,7 @@
 \lx dʑɯ˩ʁo˩-dze˧
 \sf <nb="B"> 2046
 \sf <nb="2011"> 3156
-\ph jjiwozzei
+\or jjiwozzei
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -12192,7 +12191,7 @@
 \lx dʑɯ˩ʁo˩-hwɤ˩li˧
 \sf <nb="B"> 1931
 \sf <nb="2011"> 2948
-\ph jjiwo huali
+\or jjiwo huali
 \ec <langue="fra"> littéralement ‘chat sauvage'
 \ec <langue="eng"> literally: ‘wild cat'
 \ps n
@@ -12215,7 +12214,7 @@
 
 \lx dʑɯ˩ʁo˩-ɬi˩bi˧
 \sf <nb="2011"> 3085
-\ph jjiwo lhibbi
+\or jjiwo lhibbi
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -12235,7 +12234,7 @@
 \lx dʑɯ˩ʁo˩-zɯ˩
 \sf <nb="B"> 2047
 \sf <nb="2011"> 3158
-\ph jjiwossi
+\or jjiwossi
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -12265,7 +12264,7 @@
 \dt 24/Apr/2017
 
 \lx dʑɯ˩si˩
-\ph jjisee
+\or jjisee
 \ps n
 \sy dzi˧dzi˧
 \sd <langue="fra"> plante
@@ -12286,7 +12285,7 @@
 \lx dʑɯ˩so˩
 \sf <nb="B"> 62
 \sf <nb="2011"> 105
-\ph jjiso
+\or jjiso
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -12312,7 +12311,7 @@
 \dt 27/Aug/2015
 
 \lx dʑɯ˩ʂo˥
-\ph jjisho
+\or jjisho
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
@@ -12334,7 +12333,7 @@
 \lx ɖʐɯ˧ʂɯ˥
 \sf <nb="B"> 518
 \sf <nb="2011"> 729
-\ph zzhishi
+\or zzhishi
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -12356,7 +12355,7 @@
 \dt 27/Aug/2015
 
 \lx dʑɯ˩ʂwæ˩
-\ph jjishuae
+\or jjishuae
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -12379,7 +12378,7 @@
 \lx dʑɯ˩tɕʰɯ˩lɑ˩qʰæ˥
 \sf <nb="B"> 2019
 \sf <nb="2011"> 3090
-\ph jjiqielakhae 
+\or jjiqielakhae 
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -12396,7 +12395,7 @@
 \dt 13/Jun/2017
 
 \lx dʑɯ˩tɕʰɯ˩lɑ˩qʰɑ˥
-\ph jjiqielakha
+\or jjiqielakha
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -12413,7 +12412,7 @@
 
 \lx dʑɯ˩tɤ˩ɻ̍˥
 \sf <nb="2011"> 1419
-\ph jjide'er
+\or jjide'er
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -12439,7 +12438,7 @@
 \sf <nb="B"> 397a
 \sf <nb="B"> 1373
 \sf <nb="2011"> 504
-\ph jjicee
+\or jjicee
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -12461,7 +12460,7 @@
 \lx dʑɯ˩tsʰi˩ʈʰɯ˩di˩
 \sf <nb="B"> 523b
 \sf <nb="2011"> 747
-\ph jjicee teeddi
+\or jjicee teeddi
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -12481,7 +12480,7 @@
 
 \lx ɖʐɯ˩tso#˥
 \sf <nb="2011"> 4
-\ph zzhizo
+\or zzhizo
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -12506,7 +12505,7 @@
 \lx dzɯ˧tsɯ˧˥
 \sf <nb="B"> 2180
 \sf <nb="2011"> 3303
-\ph zzizi
+\or zzizi
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -12529,7 +12528,7 @@
 \lx ɖʐɯ˧ʈʂɯ˥
 \sf <nb="B"> 596f
 \sf <nb="2011"> 865
-\ph zzhizhi
+\or zzhizhi
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -12550,7 +12549,7 @@
 \dt 27/Aug/2015
 
 \lx dʑɯ˧ʈʂʰwæ#˥
-\ph jjichuae
+\or jjichuae
 \ps n
 \cf dʑɯ˧ɭɯ˧, dʑɯ˧njɤ˧
 \sd <langue="fra"> plante
@@ -12569,7 +12568,7 @@
 \lx dʑɯ˩ʈv̩˧
 \sf <nb="B"> 145b
 \sf <nb="2011"> 213
-\ph jjideu
+\or jjideu
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -12594,7 +12593,7 @@
 \lx dʑɯ˩zo˩
 \sf <nb="B"> 40e
 \sf <nb="2011"> 63
-\ph jjisso
+\or jjisso
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -12615,7 +12614,7 @@
 \lx dʑɯ˩ʐv̩˩
 \sf <nb="B"> 1775
 \sf <nb="2011"> 2621
-\ph jjiru
+\or jjiru
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -12637,7 +12636,7 @@
 \lx dʑɯ˩α
 \sf <nb="B"> 1427
 \sf <nb="2011"> 2061
-\ph jjiq
+\or jjiq
 \ps v
 \lc dʑɯ˩˥
 \sd <langue="fra"> verbe
@@ -12676,7 +12675,7 @@
 \dt 12/Jun/2017
 
 \lx ɖʐɯ˥α
-\ph zzhi
+\or zzhi
 \ps clf
 \lc ɖɯ˧ ɖʐɯ˥
 \sd <langue="fra"> classificateur
@@ -12697,7 +12696,7 @@
 \dt 24/Apr/2017
 
 \lx ɖʐɯ˩~ɖʐɯ˧˥
-\ph zzhizzhi
+\or zzhizzhi
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -12725,7 +12724,7 @@
 \lx ɖʐɯ˧~ɖʐɯ˥
 \sf <nb="B"> 878b
 \sf <nb="2011"> 1085
-\ph zzhizzhi
+\or zzhizzhi
 \ps n
 \ton H#
 \lc ɖʐɯ˧ɖʐɯ˥
@@ -12751,7 +12750,7 @@
 \lx ɖʐv̩˧
 \sf <nb="2011"> 2249
 \hm 1
-\ph zzhu
+\or zzhu
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -12787,7 +12786,7 @@
 \sf <nb="B"> 367
 \sf <nb="2011"> 424
 \hm 2
-\ph zzhu
+\or zzhu
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -12821,7 +12820,7 @@
 \sf <nb="B"> 1691
 \sf <nb="2011"> 1019
 \hm 3
-\ph zzheu
+\or zzheu
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
@@ -12861,7 +12860,7 @@
 \sf <nb="B"> 17
 \sf <nb="2011"> 28
 \hm 4
-\ph zzhu
+\or zzhu
 \ps n
 \cf ɖʐv̩˧qʰɑ˧
 \sd <langue="fra"> environnement naturel
@@ -12882,7 +12881,7 @@
 
 \lx ɖʐv̩˥
 \sf <nb="2011"> 282
-\ph zzhu
+\or zzhu
 \ps n
 \cf ɖʐv̩˧tsi˥
 \sd <langue="fra"> corps
@@ -12904,7 +12903,7 @@
 \lx ɖʐv̩˥
 \sf <nb="B"> 983
 \sf <nb="2011"> 1417
-\ph zzheu
+\or zzheu
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -12940,7 +12939,7 @@
 \dt 01/Sep/2015
 
 \lx ɖʐv̩˥
-\ph zzhu
+\or zzhu
 \ps v
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -12964,7 +12963,7 @@
 \dt 27/Aug/2015
 
 \lx ɖʐv̩˧β
-\ph zzheu
+\or zzheu
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -12981,7 +12980,7 @@
 
 \lx ɖʐv̩˧-nɑ˥mi˩
 \sf <nb="2011"> 2674
-\ph zzhunami
+\or zzhunami
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -13000,7 +12999,7 @@
 
 \lx ɖʐv̩˧qʰɑ˧
 \sf <nb="2011"> 29
-\ph zzheukha
+\or zzheukha
 \ps n
 \cf ɖʐv̩˧4
 \sd <langue="fra"> environnement naturel
@@ -13019,7 +13018,7 @@
 
 \lx ɖʐv̩˩ti#˥
 \sf <nb="2011"> 921
-\ph zzhudi
+\or zzhudi
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -13037,7 +13036,7 @@
 \lx ɖʐv̩˧tsi˥
 \sf <nb="B"> 2152
 \sf <nb="2011"> 283
-\ph zzhuzee
+\or zzhuzee
 \ps n
 \sn 1
 \cf ɖʐv̩˥
@@ -13067,7 +13066,7 @@
 \dt 27/Aug/2015
 
 \lx ɖʐv̩˧ʐv̩˧-ɖʐv̩˧mi#˥
-\ph zzhuru zzhumi
+\or zzhuru zzhumi
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -13087,7 +13086,7 @@
 \sf <nb="B"> 1017b
 \sf <nb="2011"> 2481
 \hm 1
-\ph zzheuq
+\or zzheuq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -13116,7 +13115,7 @@
 
 \lx ɖʐv̩˩α
 \hm 2
-\ph zzhuq
+\or zzhuq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -13136,7 +13135,7 @@
 \dt 27/Aug/2015
 
 \lx ɖʐwæ˩˧
-\ph zzhuaeq
+\or zzhuaeq
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -13157,7 +13156,7 @@
 \lx ɖʐwæ˧˥
 \sf <nb="B"> 1216
 \sf <nb="2011"> 2535
-\ph zzhuaeq
+\or zzhuaeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -13187,7 +13186,7 @@
 \lx ɖʐwæ˥
 \sf <nb="B"> 588a
 \sf <nb="2011"> 828
-\ph zzhuae
+\or zzhuae
 \ps n
 \sd <langue="fra"> agriculture
 \sd <langue="eng"> agriculture
@@ -13211,7 +13210,7 @@
 \lx ɖʐwæ˩hi˩
 \sf <nb="B"> 123
 \sf <nb="2011"> 184
-\ph zzhuaexie
+\or zzhuaexie
 \ps n
 \sn 1
 \sd <langue="fra"> corps
@@ -13243,7 +13242,7 @@
 
 \lx ɖʐwæ˧lɑ˧-ʁo˧ɖɯ˧˥
 \sf <nb="2011"> 2714
-\ph zzhuaelawoddee
+\or zzhuaelawoddee
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -13264,7 +13263,7 @@
 
 \lx ɖʐwæ˧mi˧
 \sf <nb="2011"> 2712
-\ph zzhuaemi
+\or zzhuaemi
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -13282,7 +13281,7 @@
 \dt 27/Aug/2015
 
 \lx ɖʐwæ˧pʰv̩#˥
-\ph zzhuaepu
+\or zzhuaepu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -13304,7 +13303,7 @@
 \dt 03/Aug/2017
 
 \lx ɖʐwæ˧zo#˥
-\ph zzhuaesso
+\or zzhuaesso
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -13324,7 +13323,7 @@
 \lx ɖʐwæ˩α
 \sf <nb="B"> 1147
 \sf <nb="2011"> 2432
-\ph zzhuaeq
+\or zzhuaeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -13352,7 +13351,7 @@
 \dt 27/Aug/2015
 
 \lx ə
-\ph a
+\or a
 \ps intj
 \ton --
 \lc ə
@@ -13370,7 +13369,7 @@
 \lx ə˧bɑ˩-lɑ˩bɑ˩
 \sf <nb="B"> 2315
 \sf <nb="2011"> 3091
-\ph ebbalabba
+\or ebbalabba
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -13392,7 +13391,7 @@
 \lx ə˧bo˧tɕo˧li˧
 \sf <nb="B"> 1833
 \sf <nb="2011"> 2787
-\ph ebbojoli
+\or ebbojoli
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -13416,7 +13415,7 @@
 
 \lx ə˧bo˥$
 \sf <nb="2011"> 373
-\ph abbo
+\or abbo
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -13447,7 +13446,7 @@
 \lx ə˧bv̩˩
 \sf <nb="B"> 2310
 \sf <nb="2011"> 49
-\ph ebbu
+\or ebbu
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -13466,7 +13465,7 @@
 \dt 27/Aug/2015
 
 \lx ə˧bv̩˧-ʁwɤ˧
-\ph Abbuwua
+\or Abbuwua
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -13482,7 +13481,7 @@
 \dt 24/Apr/2017
 
 \lx ə˧ɕjo˩
-\ph Axo
+\or Axo
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -13503,7 +13502,7 @@
 
 \lx ə˧ɕjɤ˩
 \sf <nb="2011"> 425
-\ph axe
+\or axe
 \ps n
 \cf ə˧ɖo˧
 \sd <langue="fra"> société
@@ -13524,7 +13523,7 @@
 \dt 27/Aug/2015
 
 \lx ə˧dɑ˧-ə˧mi#˥
-\ph adda ami
+\or adda ami
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -13544,7 +13543,7 @@
 \dt 24/Apr/2017
 
 \lx ə˧dɑ˧-zo#˥
-\ph adda sso
+\or adda sso
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -13562,7 +13561,7 @@
 \lx ə˧dɑ˥$
 \sf <nb="B"> 331
 \sf <nb="2011"> 361
-\ph adda
+\or adda
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -13587,7 +13586,7 @@
 
 \lx ə˧ɖo˧
 \sf <nb="2011"> 426
-\ph addeo
+\or addeo
 \ps n
 \cf ə˧ɕjɤ˩
 \sd <langue="fra"> société
@@ -13609,7 +13608,7 @@
 \dt 13/Jun/2017
 
 \lx ə˧dze˧
-\ph ezzei
+\or ezzei
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -13634,7 +13633,7 @@
 \dt 27/Aug/2015
 
 \lx ə˧-dzɤ˥$
-\ph essei
+\or essei
 \ps adv
 \cf ə˧ze˧, ə˧-dzɤ˧~dzɤ˥
 \sd <langue="fra"> adverbe
@@ -13671,7 +13670,7 @@
 \lx ə˧-dzɤ˧~dzɤ˥
 \sf <nb="B"> 971b
 \sf <nb="2011"> 1409
-\ph esseissei
+\or esseissei
 \et ə˧-dzɤ˥$, ə˧ze˧
 \ps adv
 \cf ə˧-dzɤ˥$
@@ -13709,7 +13708,7 @@
 \dt 13/Jun/2017
 
 \lx ə˧go˧
-\ph Aggo
+\or Aggo
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -13734,7 +13733,7 @@
 \dt 09/Sep/2015
 
 \lx ə˧go˧-ʁwɤ˧
-\ph Aggowua
+\or Aggowua
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -13755,7 +13754,7 @@
 
 \lx ə˧gɯ˩
 \sf <nb="2011"> 3306
-\ph eggee
+\or eggee
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -13776,7 +13775,7 @@
 \sf <nb="B"> 643
 \sf <nb="B"> 642
 \sf <nb="2011"> 962
-\ph aha bbala
+\or aha bbala
 \ps n
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
@@ -13802,7 +13801,7 @@
 \dt 24/Apr/2017
 
 \lx ə˧hĩ˥
-\ph ehin
+\or ehin
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -13824,7 +13823,7 @@
 \lx ə˧hwɤ˧
 \sf <nb="B"> 741
 \sf <nb="2011"> 1116
-\ph ehua
+\or ehua
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -13851,7 +13850,7 @@
 \lx ə˧hwɤ˧-zo˧hṽ̩˧˥
 \sf <nb="B"> 260
 \sf <nb="2011"> 340
-\ph ehua ssohun
+\or ehua ssohun
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -13873,7 +13872,7 @@
 \lx ə˧ʝi˧-ʂɯ˥ʝi˩
 \sf <nb="B"> 799
 \sf <nb="2011"> 1185
-\ph eyishei
+\or eyishei
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -13895,7 +13894,7 @@
 \dt 13/Jun/2017
 
 \lx ə˧ʝi˧-tsʰi˧ʝi#˥
-\ph eyiceeyi
+\or eyiceeyi
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -13913,7 +13912,7 @@
 \lx ə˧ʝi˥$
 \sf <nb="B"> 792
 \sf <nb="2011"> 1143
-\ph eyi
+\or eyi
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -13935,7 +13934,7 @@
 \lx ə˧jɤ˩
 \sf <nb="B"> 287a
 \sf <nb="2011"> 368
-\ph aye
+\or aye
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -13957,7 +13956,7 @@
 \lx ə˩kʰɯ˩
 \sf <nb="B"> 1977
 \sf <nb="2011"> 3071
-\ph ekee
+\or ekee
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -13981,7 +13980,7 @@
 
 \lx ə˧lɑ˧
 \sf <nb="2011"> 1072
-\ph Ala
+\or Ala
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -14003,7 +14002,7 @@
 
 \lx ə˧lɑ˧-ʁwɤ#˥
 \sf <nb="2011"> 3317
-\ph Alawua
+\or Alawua
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -14024,7 +14023,7 @@
 \dt 09/Sep/2015
 
 \lx ə˩ljɤ˩hæ̃˩ʂɯ˥-mo˩
-\ph eliahaenshimo
+\or eliahaenshimo
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -14042,7 +14041,7 @@
 
 \lx ə˧mɑ˧
 \sf <nb="2011"> 360
-\ph ama
+\or ama
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -14069,7 +14068,7 @@
 \sf <nb="B"> 288
 \sf <nb="B"> 294
 \sf <nb="2011"> 359
-\ph ami
+\or ami
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -14097,7 +14096,7 @@
 \lx ə˧mi˧-ɖɯ˩
 \sf <nb="B"> 287b
 \sf <nb="2011"> 369
-\ph amiddee
+\or amiddee
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -14120,7 +14119,7 @@
 \dt 24/Apr/2017
 
 \lx ə˧mi˧-mv̩˩
-\ph ami muq
+\or ami muq
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -14138,7 +14137,7 @@
 \lx ə˧mi˧-tɕi˩
 \sf <nb="B"> 287d
 \sf <nb="2011"> 371
-\ph amijie
+\or amijie
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -14159,7 +14158,7 @@
 
 \lx ə˧mi˧-ze˩mi˩
 \sf <nb="2011"> 397
-\ph ami sseimi
+\or ami sseimi
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -14178,7 +14177,7 @@
 \lx ə˧mi˧-zo#˥
 \sf <nb="B"> 337
 \sf <nb="2011"> 395
-\ph ami sso
+\or ami sso
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -14202,7 +14201,7 @@
 \sf <nb="B"> 311
 \sf <nb="B"> 307
 \sf <nb="2011"> 386
-\ph amu
+\or amu
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -14232,7 +14231,7 @@
 \lx ə˧mv̩˧-gi˥zɯ˩
 \sf <nb="B"> 315
 \sf <nb="2011"> 381
-\ph amuggissi
+\or amuggissi
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -14263,7 +14262,7 @@
 \lx ə˧mv̩˧-go˧mi˥
 \sf <nb="B"> 309
 \sf <nb="2011"> 384
-\ph amuggomi
+\or amuggomi
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -14288,7 +14287,7 @@
 \sf <nb="B"> 1784c
 \sf <nb="B"> 848
 \sf <nb="2011"> 2627
-\ph aemujie
+\or aemujie
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -14322,7 +14321,7 @@
 \lx ə˧ɲi˧mɤ˩
 \sf <nb="B"> 356
 \sf <nb="2011"> 414
-\ph enime
+\or enime
 \ps n
 \ton L#
 \lc ə˧ɲi˧mɤ˩
@@ -14349,7 +14348,7 @@
 \lx ə˧ɲi˥-tsæ˩qæ˩
 \sf <nb="B"> 197
 \sf <nb="2011"> 264
-\ph enizaeghae
+\or enizaeghae
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -14376,7 +14375,7 @@
 \lx ə˧ɲi˧-tsʰi˧ɲi#˥
 \sf <nb="B"> 801
 \sf <nb="2011"> 1189
-\ph eniceeni
+\or eniceeni
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -14397,7 +14396,7 @@
 \lx ə˧ɲi˥$
 \sf <nb="B"> 731
 \sf <nb="2011"> 1102
-\ph eni
+\or eni
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -14419,7 +14418,7 @@
 \lx ə˧pʰv̩˧
 \sf <nb="B"> 333a
 \sf <nb="2011"> 390
-\ph apeu
+\or apeu
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -14441,7 +14440,7 @@
 \dt 28/Aug/2015
 
 \lx ə˩qo˥
-\ph egho
+\or egho
 \ps adv
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -14459,7 +14458,7 @@
 \lx ə˧si˧
 \sf <nb="B"> 270a
 \sf <nb="2011"> 392
-\ph asee
+\or asee
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -14481,7 +14480,7 @@
 \lx ə˧si˧-ə˧pʰv̩#˥
 \sf <nb="B"> 270b
 \sf <nb="2011"> 393
-\ph asee apeu
+\or asee apeu
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -14504,7 +14503,7 @@
 \dt 24/Apr/2017
 
 \lx ə˧so˧
-\ph eso
+\or eso
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -14524,7 +14523,7 @@
 \lx ə˧-sɯ˩kv̩˩
 \sf <nb="B"> 2159
 \sf <nb="2011"> 3395
-\ph osigu
+\or osigu
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -14558,7 +14557,7 @@
 \lx ə˧ʂɯ˧ɲi˥
 \sf <nb="B"> 733
 \sf <nb="2011"> 1107
-\ph eshini
+\or eshini
 \ps adv
 \ton H#
 \sd <langue="fra"> temps
@@ -14581,7 +14580,7 @@
 \lx ə˧tɕi˩
 \sf <nb="B"> 287c
 \sf <nb="2011"> 370
-\ph ajie
+\or ajie
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -14605,7 +14604,7 @@
 \dt 28/Aug/2015
 
 \lx ə˧ti˥-dzi˩
-\ph Adizzee
+\or Adizzee
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -14623,7 +14622,7 @@
 \lx ə˧tse˥$
 \sf <nb="B"> 908b
 \sf <nb="2011"> 1334
-\ph aezei
+\or aezei
 \ps adv
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -14657,7 +14656,7 @@
 \lx ə˧tso˧
 \sf <nb="B"> 905
 \sf <nb="2011"> 1329
-\ph aezo
+\or aezo
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -14690,7 +14689,7 @@
 \dt 28/Aug/2015
 
 \lx ə˧tso˧-mɤ˧-ɲi˩
-\ph aezo meni
+\or aezo meni
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -14707,7 +14706,7 @@
 \dt 24/Apr/2017
 
 \lx ə˧tso˧~ə˧tso˥
-\ph aezo aezo
+\or aezo aezo
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -14731,7 +14730,7 @@
 \sf <nb="B"> 1017)
 \sf <nb="2011"> 2477
 \hm 1
-\ph evu
+\or evu
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -14765,7 +14764,7 @@
 \sf <nb="B"> 326)
 \sf <nb="2011"> 372
 \hm 2
-\ph avu
+\or avu
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -14821,7 +14820,7 @@
 \lx ə˧v̩˧-ze˥v̩˩
 \sf <nb="B"> 339a
 \sf <nb="2011"> 398
-\ph avu sseivu
+\or avu sseivu
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -14840,7 +14839,7 @@
 \lx ə˧ze˧
 \sf <nb="B"> 971b
 \sf <nb="2011"> 1409
-\ph essei
+\or essei
 \ec <langue="eng"> Reduced form of fv:/ə˧-dzɤ˥$/
 \ps adv
 \cf ə˧-dzɤ˥$
@@ -14871,7 +14870,7 @@
 \lx ə˧ʑi˧˥
 \sf <nb="B"> 332
 \sf <nb="2011"> 389
-\ph axxi
+\or axxi
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -14900,7 +14899,7 @@
 \lx ə˧ʑi˧-ə˧pʰv̩˧˥
 \sf <nb="B"> 2309
 \sf <nb="2011"> 391
-\ph axxi apeu
+\or axxi apeu
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -14919,7 +14918,7 @@
 
 \lx ə˧ʑi˧-ʐv̩˥mi˩
 \sf <nb="2011"> 396
-\ph axxi rumi
+\or axxi rumi
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -14936,7 +14935,7 @@
 \dt 24/Apr/2017
 
 \lx ə˧zo˩-ʁwɤ˩
-\ph Assowua
+\or Assowua
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -14954,7 +14953,7 @@
 \lx ə˧ʐv̩˩
 \sf <nb="B"> 1008
 \sf <nb="2011"> 1435
-\ph eru
+\or eru
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -14978,7 +14977,7 @@
 
 \lx ə˩‑
 \sf <nb="2011"> 1338
-\ph ae-
+\or ae-
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -15006,7 +15005,7 @@
 \lx ə˧=zɯ˩
 \sf <nb="B"> 2244c
 \sf <nb="2011"> 3401
-\ph ossi
+\or ossi
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -15025,7 +15024,7 @@
 \dt 28/Aug/2015
 
 \lx fæ˧
-\ph fae
+\or fae
 \bw <langue="cmn"> 方
 \ps n
 \cf dɤ˧-tʰv̩˧-gi#˥
@@ -15050,7 +15049,7 @@
 \sf <nb="B"> 1010a
 \sf <nb="B"> 1011
 \sf <nb="2011"> 1436
-\ph fada
+\or fada
 \bw <langue="cmn"> 发达
 \ps adj
 \sd <langue="fra"> adjectif
@@ -15076,7 +15075,7 @@
 \lx fɑ˩α
 \sf <nb="B"> 1247
 \sf <nb="2011"> 1791
-\ph faq
+\or faq
 \bw <langue="cmn"> 发（酵）
 \ps v
 \sd <langue="fra"> verbe
@@ -15105,7 +15104,7 @@
 \dt 01/Sep/2015
 
 \lx fv̩˩˧
-\ph fuq
+\or fuq
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -15126,7 +15125,7 @@
 \sf <nb="B"> 1666
 \sf <nb="B"> 1492
 \sf <nb="2011"> 1546
-\ph fu
+\or fu
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -15168,7 +15167,7 @@
 \lx fv̩˩bi˩
 \sf <nb="B"> 480b
 \sf <nb="2011"> 617
-\ph fubbi
+\or fubbi
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -15186,7 +15185,7 @@
 \dt 01/Sep/2015
 
 \lx fv̩˧kʰo˥
-\ph Fuko
+\or Fuko
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -15202,7 +15201,7 @@
 \dt 01/Sep/2015
 
 \lx fv̩˧ʂɯ˩
-\ph fushi
+\or fushi
 \bw <langue="cmn"> 风湿
 \ps n
 \sd <langue="fra"> corps
@@ -15225,7 +15224,7 @@
 \lx gæ˩ɖæ˧
 \sf <nb="B"> 715
 \sf <nb="2011"> 1079
-\ph ggeddae 
+\or ggeddae 
 \ps n
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
@@ -15248,7 +15247,7 @@
 \lx gæ˩pʰæ˧
 \sf <nb="B"> 453d
 \sf <nb="2011"> 597
-\ph ggaepae
+\or ggaepae
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -15267,7 +15266,7 @@
 \dt 02/Sep/2015
 
 \lx gæ˧ɻæ˩
-\ph Gae'er
+\or Gae'er
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -15289,7 +15288,7 @@
 \lx gi˩
 \sf <nb="B"> 476a
 \sf <nb="2011"> 649
-\ph ggi
+\or ggi
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -15328,7 +15327,7 @@
 \lx gi˩
 \sf <nb="B"> 1887
 \sf <nb="2011"> 2868
-\ph ggi
+\or ggi
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -15351,7 +15350,7 @@
 \sf <nb="B"> 2205
 \sf <nb="2011"> 1700
 \hm 1
-\ph ggi
+\or ggi
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -15382,7 +15381,7 @@
 \sf <nb="B"> 1358
 \sf <nb="2011"> 1939
 \hm 2
-\ph ggi
+\or ggi
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -15406,7 +15405,7 @@
 \dt 02/Sep/2015
 
 \lx gi˧dʑɯ˧
-\ph Ggijji
+\or Ggijji
 \ps n
 \lc gi˧dʑɯ˧
 \sd <langue="fra"> lieu
@@ -15432,7 +15431,7 @@
 \lx gi˩kɯ˩
 \sf <nb="B"> 1887
 \sf <nb="2011"> 2868
-\ph ggigee
+\or ggigee
 \ps n
 \lc gi˩kɯ˩˥
 \sd <langue="fra"> animal
@@ -15451,7 +15450,7 @@
 \dt 24/Apr/2017
 
 \lx gi˧-nɑ˧mi˧-pʰv̩#˥
-\ph gginamipu
+\or gginamipu
 \ps n
 \lc gi˧nɑ˧mi˧pʰv̩˧
 \sd <langue="fra"> animal
@@ -15475,7 +15474,7 @@
 \lx gi˧-nɑ˧mi˧-zo#˥
 \sf <nb="B"> 1878
 \sf <nb="2011"> 2855
-\ph gginamisso
+\or gginamisso
 \ps n
 \lc gi˧nɑ˧mi˧zo˧
 \sd <langue="fra"> animal
@@ -15501,7 +15500,7 @@
 \lx gi˧-nɑ˧mi#˥
 \sf <nb="B"> 1877
 \sf <nb="2011"> 2854
-\ph gginami
+\or gginami
 \ps n
 \lc gi˧nɑ˧mi˧
 \sd <langue="fra"> animal
@@ -15528,7 +15527,7 @@
 \lx gi˧zɯ˧-go˧mi#˥
 \sf <nb="B"> 312
 \sf <nb="2011"> 387
-\ph ggissi ggomi
+\or ggissi ggomi
 \ps n
 \lc gi˧zɯ˧go˧mi˧
 \sd <langue="fra"> société
@@ -15549,7 +15548,7 @@
 \lx gi˧zɯ#˥
 \sf <nb="B"> 314
 \sf <nb="2011"> 380
-\ph ggissi
+\or ggissi
 \ps n
 \lc gi˧zɯ˧
 \sd <langue="fra"> société
@@ -15578,7 +15577,7 @@
 \sf <nb="B"> 947b
 \sf <nb="B"> 947c
 \sf <nb="2011"> 1376
-\ph ggiq
+\or ggiq
 \et /gɯ˩a 2/; /ʝi˥/
 \ps adj
 \sd <langue="fra"> adjectif
@@ -15620,7 +15619,7 @@
 \lx gi˥α
 \sf <nb="B"> 843
 \sf <nb="2011"> 1240
-\ph ggi
+\or ggi
 \ps clf
 \sn 1
 \sd <langue="fra"> classificateur
@@ -15676,7 +15675,7 @@
 \dt 24/Apr/2017
 
 \lx gɤ˩
-\ph ggeq
+\or ggeq
 \ps adj
 \lc gɤ˩˥
 \sd <langue="fra"> adjectif
@@ -15712,7 +15711,7 @@
 \lx gɤ˧˥
 \sf <nb="B"> 1387
 \sf <nb="2011"> 1586
-\ph ggeq
+\or ggeq
 \ps v
 \lc gɤ˧˥
 \sd <langue="fra"> verbe
@@ -15757,7 +15756,7 @@
 
 \lx gɤ˧β
 \sf <nb="2011"> 2127
-\ph gge
+\or gge
 \ps v
 \lc gɤ˧
 \sd <langue="fra"> verbe
@@ -15777,7 +15776,7 @@
 \dt 24/Apr/2017
 
 \lx go˩bi˧
-\ph Ggobbi
+\or Ggobbi
 \ps n
 \lc go˩bi˥
 \sd <langue="fra"> lieu
@@ -15799,12 +15798,13 @@
 \lx go˩bo˥
 \sf <nb="B"> 1928
 \sf <nb="2011"> 2936
-\ph ggubbo  [Lataddi: vubbo]
+\or ggubbo
 \ps n
 \lc go˩bo˥
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" print="n"> dans Naissance du Lac 3: notations *go˩bo˧˥
+\nt <type="hist" print="n"> RD comment: Lataddi: vubbo
 \np inclut: chevaux, vaches…
 \ton LH
 \so <print="n"> F4
@@ -15823,7 +15823,7 @@
 \sf <nb="B"> 86a
 \sf <nb="B"> 86b
 \sf <nb="2011"> 132
-\ph ggobbe
+\or ggobbe
 \bw <langue="bod"> dgon pa
 \ps n
 \lc go˧bɤ˩
@@ -15851,7 +15851,7 @@
 \lx gɤ˧bɤ˧
 \sf <nb="B"> 692
 \sf <nb="2011"> 1031
-\ph ggebbe
+\or ggebbe
 \ps n
 \lc gɤ˧bɤ˧
 \sd <langue="fra"> environnement naturel
@@ -15879,7 +15879,7 @@
 \lx gɤ˩bv̩˧
 \sf <nb="B"> 1605
 \sf <nb="2011"> 2392
-\ph ggebbu
+\or ggebbu
 \ps v
 \lc gɤ˩bv̩˥
 \sd <langue="fra"> verbe
@@ -15902,7 +15902,7 @@
 
 \lx gɤ˩dzɤ˧
 \sf <nb="2011"> 1068
-\ph ggezze
+\or ggezze
 \ps adv
 \lc gɤ˩dzɤ˥
 \cf gɤ˩-
@@ -15931,7 +15931,7 @@
 \sf <nb="B"> 660a
 \sf <nb="B"> 666
 \sf <nb="2011"> 984
-\ph ggela
+\or ggela
 \bw <langue="bod"> lha
 \ps n
 \lc gɤ˧lɑ˧
@@ -15960,7 +15960,7 @@
 
 \lx gɤ˧lɑ˧-pɤ#˥
 \sf <nb="2011"> 993
-\ph ggeelabe
+\or ggeelabe
 \ps n
 \lc gɤ˧lɑ˧pɤ˧
 \sd <langue="fra"> religion
@@ -15983,7 +15983,7 @@
 
 \lx gɤ˧lɑ˧-ʑi˩
 \sf <nb="2011"> 138
-\ph ggelaxxi
+\or ggelaxxi
 \ps n
 \lc gɤ˧lɑ˧ʑi˩
 \sd <langue="fra"> religion
@@ -16009,7 +16009,7 @@
 \lx go˧mi˧
 \sf <nb="B"> 308
 \sf <nb="2011"> 383
-\ph ggomi
+\or ggomi
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -16035,7 +16035,7 @@
 
 \lx gɤ˩-qo˧
 \sf <nb="2011"> 1327
-\ph ggegho
+\or ggegho
 \ps adv
 \cf gɤ˩-, gɤ˩-ʈʂʰɯ˧qo˧, gɤ˩-tʰv̩˧qo˧,
 \sd <langue="fra"> espace
@@ -16056,7 +16056,7 @@
 
 \lx gɤ˧qo˥
 \sf <nb="2011"> 592
-\ph ggegho
+\or ggegho
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -16076,7 +16076,7 @@
 
 \lx gɤ˩qwɤ˧
 \sf <nb="2011"> 590
-\ph ggeghua
+\or ggeghua
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -16098,7 +16098,7 @@
 \lx gɤ˩ʁwɤ˧
 \sf <nb="B"> 40b
 \sf <nb="2011"> 61
-\ph ggewua
+\or ggewua
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -16115,7 +16115,7 @@
 
 \lx gɤ˩ʁwɤ#˥
 \sf <nb="2011"> 3326
-\ph Ggewua
+\or Ggewua
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -16133,7 +16133,7 @@
 \lx gɤ˩ʈʂæ˧˥
 \sf <nb="B"> 2201
 \sf <nb="2011"> 247
-\ph ggezhae
+\or ggezhae
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -16153,7 +16153,7 @@
 
 \lx gɤ˩ʈʂʰæ˧-hĩ˧˥
 \sf <nb="2011"> 394
-\ph ggechaehin
+\or ggechaehin
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -16170,7 +16170,7 @@
 \dt 24/Apr/2017
 
 \lx gɤ˩-ʈʂʰɯ˧-gi#˥
-\ph ggeq teeggi
+\or ggeq teeggi
 \ps adv
 \cf gɤ˩-, gɤ˩-qo˧, gɤ˩-tʰv̩˧qo˧, gɤ˩-ʈʂʰɯ˧qo˧
 \sd <langue="fra"> morphosyntaxe
@@ -16189,7 +16189,7 @@
 \dt 06/Jun/2017
 
 \lx gɤ˩-ʈʂʰɯ˧qo˧
-\ph ggeq teegho
+\or ggeq teegho
 \ps adv
 \cf gɤ˩-, gɤ˩-qo˧, gɤ˩-tʰv̩˧qo˧
 \sd <langue="fra"> morphosyntaxe
@@ -16209,7 +16209,7 @@
 
 \lx gɤ˩-tʰv̩˧-gi#˥
 \sf <nb="2011"> 1325
-\ph ggeq teeggi
+\or ggeq teeggi
 \ps adv
 \cf gɤ˩-, gɤ˩-qo˧, gɤ˩-tʰv̩˧qo˧, gɤ˩-ʈʂʰɯ˧qo˧
 \sd <langue="fra"> morphosyntaxe
@@ -16230,7 +16230,7 @@
 \lx gɤ˩-tʰv̩˧qo˧
 \sf <nb="B"> 903
 \sf <nb="2011"> 1326
-\ph ggeq teegho
+\or ggeq teegho
 \ps adv
 \cf gɤ˩-, gɤ˩-qo˧, gɤ˩-ʈʂʰɯ˧qo˧
 \sd <langue="fra"> morphosyntaxe
@@ -16251,7 +16251,7 @@
 \lx go˩α
 \sf <nb="B"> 300
 \sf <nb="2011"> 1491
-\ph ggoq
+\or ggoq
 \ps v
 \lc go˩˥
 \sd <langue="fra"> verbe
@@ -16291,7 +16291,7 @@
 \dt 24/Apr/2017
 
 \lx gɤ˩‑
-\ph gge-
+\or gge-
 \ps adv
 \lc --
 \cf gɤ˩-qo˧, gɤ˩-tʰv̩˧qo˧, gɤ˩-ʈʂʰɯ˧qo˧
@@ -16311,7 +16311,7 @@
 \sf <nb="B"> 1420
 \sf <nb="2011"> 2416
 \hm 1
-\ph ggeq
+\or ggeq
 \ps v
 \lc gɤ˩˥
 \sd <langue="fra"> verbe
@@ -16337,7 +16337,7 @@
 \lx gɤ˩α
 \sf <nb="2011"> 2125
 \hm 2
-\ph ggeq
+\or ggeq
 \ps v
 \lc gɤ˩˥
 \sd <langue="fra"> verbe
@@ -16373,7 +16373,7 @@
 \sf <nb="B"> 1300
 \sf <nb="2011"> 1854
 \hm 3
-\ph ggeq
+\or ggeq
 \ps adj
 \lc gɤ˩˥
 \sd <langue="fra"> verbe
@@ -16403,7 +16403,7 @@
 \lx ɣɯ˩˥
 \sf <nb="B"> 202a
 \sf <nb="2011"> 270
-\ph hreeq
+\or hreeq
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -16435,7 +16435,7 @@
 \dt 15/Jul/2016
 
 \lx ɣɯ˧
-\ph hree
+\or hree
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
@@ -16457,7 +16457,7 @@
 \dt 02/Sep/2015
 
 \lx ɣɯ˥
-\ph hree
+\or hree
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -16483,7 +16483,7 @@
 \lx ɣɯ˧bo˩
 \sf <nb="B"> 603c
 \sf <nb="2011"> 876
-\ph hreebbo
+\or hreebbo
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -16504,7 +16504,7 @@
 \lx ɣɯ˧dzo˩
 \sf <nb="B"> 603a
 \sf <nb="2011"> 873
-\ph hreezzo
+\or hreezzo
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -16527,7 +16527,7 @@
 \lx ɣɯ˩kɯ˧˥
 \sf <nb="B"> 202b
 \sf <nb="2011"> 271
-\ph hreegee
+\or hreegee
 \ps n
 \sn 1
 \sd <langue="fra"> corps
@@ -16589,7 +16589,7 @@
 \sf <nb="B"> 1190a
 \sf <nb="B"> 1575
 \sf <nb="2011"> 2496
-\ph ggeelee
+\or ggeelee
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -16624,7 +16624,7 @@
 
 \lx ɣɯ˩-nɑ˥mi˩
 \sf <nb="2011"> 318
-\ph Hreenami
+\or Hreenami
 \ps n
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
@@ -16656,7 +16656,7 @@
 \lx ɣɯ˧ni˧˥
 \sf <nb="B"> 603c
 \sf <nb="2011"> 876
-\ph hreeni
+\or hreeni
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -16676,7 +16676,7 @@
 
 \lx gɯ˩α
 \hm 1
-\ph ggeeq
+\or ggeeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -16699,7 +16699,7 @@
 \sf <nb="B"> 2269
 \sf <nb="2011"> 1375
 \hm 2
-\ph ggeeq
+\or ggeeq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -16754,7 +16754,7 @@
 \sf <nb="B"> 808
 \sf <nb="2011"> 2606
 \hm 1
-\ph ggu
+\or ggu
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -16796,7 +16796,7 @@
 \sf <nb="B"> 1010c
 \sf <nb="2011"> 1438
 \hm 2
-\ph ggu
+\or ggu
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -16824,7 +16824,7 @@
 \sf <nb="B"> 819
 \sf <nb="2011"> 1207
 \hm 3
-\ph ggu
+\or ggu
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
@@ -16837,8 +16837,8 @@
 \va <speaker="M21"> ID.
 \de Nine.
 \ge nine
-\dn 久
-\gn 久
+\dn 九
+\gn 九
 \df Neuf.
 \gf neuf
 \dt 02/Sep/2015
@@ -16846,7 +16846,7 @@
 \lx gv̩˧
 \sf <nb="2011"> 3381
 \hm 4
-\ph ggu
+\or ggu
 \ps v
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -16871,7 +16871,7 @@
 \dt 19/Jun/2017
 
 \lx gv̩˥
-\ph ggu
+\or ggu
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -16893,7 +16893,7 @@
 \lx gv̩˥
 \sf <nb="B"> 552
 \sf <nb="2011"> 789
-\ph ggu
+\or ggu
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -16921,7 +16921,7 @@
 \lx gv̩˧dv̩˧
 \sf <nb="B"> 143
 \sf <nb="2011"> 210
-\ph gguddu
+\or gguddu
 \ps n
 \lc gv̩˧dv̩˧
 \sd <langue="fra"> corps
@@ -16945,7 +16945,7 @@
 
 \lx gv̩˧dv̩˧-gv̩˧mi˧
 \sf <nb="2011"> 140
-\ph ggudduggumi
+\or ggudduggumi
 \et gv̩˧dv̩˧; gv̩˧mi˧
 \ps n
 \lc gv̩˧dv̩˧gv̩˧mi˧
@@ -16969,7 +16969,7 @@
 \lx gv̩˩dʑɯ˩
 \sf <nb="B"> 1096d
 \sf <nb="2011"> 1558
-\ph ggujji
+\or ggujji
 \ps adj
 \lc gv̩˩dʑɯ˩˥
 \sd <langue="fra"> adjectif
@@ -16987,7 +16987,7 @@
 
 \lx gv̩˧kv̩˩
 \sf <nb="2011"> 3347
-\ph ggugu
+\or ggugu
 \ps n
 \lc gv̩˧kv̩˩
 \sd <langue="fra"> abstrait
@@ -17010,7 +17010,7 @@
 \lx gv̩˩ɬi˩mi˩
 \sf <nb="B"> 785
 \sf <nb="2011"> 1181
-\ph ggulhimi
+\or ggulhimi
 \ps n
 \lc gv̩˩ɬi˩mi˩˥
 \sd <langue="fra"> temps
@@ -17029,7 +17029,7 @@
 \dt 24/Apr/2017
 
 \lx gv̩˧mɑ˧
-\ph Gguma
+\or Gguma
 \ps n
 \lc gv̩˧mɑ˧
 \sd <langue="fra"> nom propre
@@ -17051,7 +17051,7 @@
 \lx gv̩˧mi˧
 \sf <nb="B"> 89
 \sf <nb="2011"> 139
-\ph ggumi
+\or ggumi
 \ps n
 \lc gv̩˧mi˧
 \sd <langue="fra"> corps
@@ -17073,7 +17073,7 @@
 \dt 02/Sep/2015
 
 \lx gv̩˩pʰæ˩
-\ph ggupae
+\or ggupae
 \ps n
 \lc gv̩˩pʰæ˩˥
 \sd <langue="fra"> objet
@@ -17093,7 +17093,7 @@
 \lx gv̩˧sɯ˥-pv̩˩
 \sf <nb="B"> 144
 \sf <nb="2011"> 211
-\ph ggusibu
+\or ggusibu
 \ps n
 \lc gv̩˧sɯ˥pv̩˩
 \sd <langue="fra"> corps
@@ -17117,7 +17117,7 @@
 \lx gv̩˧tɕʰɯ˧˥
 \sf <nb="B"> 1619b
 \sf <nb="2011"> 1497
-\ph gguqi
+\or gguqi
 \ps v
 \lc gv̩˧tɕʰɯ˧˥
 \sd <langue="fra"> verbe
@@ -17137,7 +17137,7 @@
 \lx gv̩˧tsʰi˩
 \sf <nb="B"> 837
 \sf <nb="2011"> 1234
-\ph ggucee
+\or ggucee
 \ps num
 \lc gv̩˧tsʰi˩
 \sd <langue="fra"> nombre
@@ -17162,7 +17162,7 @@
 \sf <nb="B"> 1501
 \sf <nb="2011"> 2206
 \hm 1
-\ph gguq
+\or gguq
 \ps v
 \sn 1
 \sd <langue="fra"> verbe
@@ -17235,7 +17235,7 @@
 \sf <nb="B"> 1132a
 \sf <nb="2011"> 1610
 \hm 2
-\ph gguq
+\or gguq
 \ps v
 \lc gv̩˩˥
 \sd <langue="fra"> verbe
@@ -17267,7 +17267,7 @@
 
 \lx gv̩˩α
 \hm 3
-\ph gguq
+\or gguq
 \ps v
 \lc gv̩˩˥
 \sd <langue="fra"> verbe
@@ -17296,7 +17296,7 @@
 
 \lx gwɤ˩ʝi˧
 \sf <nb="2011"> 1615
-\ph gguaq yi
+\or gguaq yi
 \ps adv
 \lc gwɤ˩ʝi˥
 \sd <langue="fra"> morphosyntaxe
@@ -17321,7 +17321,7 @@
 \lx gwɤ˩α
 \sf <nb="B"> 1146
 \sf <nb="2011"> 1641
-\ph gguaq
+\or gguaq
 \ps v
 \lc gwɤ˩˥
 \sd <langue="fra"> verbe
@@ -17369,7 +17369,7 @@
 
 \lx gwɤ˩~gwɤ˧˥
 \sf <nb="2011"> 2364
-\ph gguaggua
+\or gguaggua
 \ps v
 \lc gwɤ˩gwɤ˧˥
 \sd <langue="fra"> verbe
@@ -17401,7 +17401,7 @@
 \lx hæ̃˩
 \sf <nb="B"> 66
 \sf <nb="2011"> 113
-\ph haen
+\or haen
 \ps n
 \lc hæ̃˧
 \sd <langue="fra"> environnement naturel
@@ -17425,12 +17425,13 @@
 \lx hæ̃˧
 \sf <nb="B"> 6
 \sf <nb="2011"> 13
-\ph hae RD comment: In other places this word is:  lhae or shae)
+\or hae
 \ps n
 \lc hæ̃˧
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
 \nt <type="hist" print="n"> d'abord noté hæ˥, hæ˥tʰv̩˥
+\nt <type="hist" print="n"> RD comment: In other places this word is:  lhae or shae
 \np Nasalité phonémique, à la différence de la syllabe /hæ/, qu'on observe dans “chaux". Forme monosyllabique non élicitée en cadre: pb sémantique.
 \ton M
 \so <print="n"> F4
@@ -17464,7 +17465,7 @@
 \sf <nb="B"> 1754
 \sf <nb="B"> 1704
 \sf <nb="2011"> 1930
-\ph haenq
+\or haenq
 \ps v
 \lc hæ̃˧˥
 \sn 1
@@ -17515,7 +17516,7 @@
 \lx hæ˧
 \sf <nb="B"> 256
 \sf <nb="2011"> 333
-\ph Hae
+\or Hae
 \ps n
 \lc hæ˧
 \sd <langue="fra"> ethnies
@@ -17557,7 +17558,7 @@
 \sf <nb="B"> 991
 \sf <nb="2011"> 1420
 \hm 1
-\ph haeq
+\or haeq
 \ps adj
 \lc hæ˧˥
 \sn 1
@@ -17573,7 +17574,7 @@
 \gn 软
 \df Souple, mou (branche…).
 \gf souple
-\xv hæ˧njæ˧˥ | -gv̩˩
+\xv hæ˧njæ˧˥ ◊ -gv̩˩
 \xe soft, lithe, supple
 \xn 软、柔软（树枝……）
 \xf souple
@@ -17590,7 +17591,7 @@
 \sf <nb="B"> 464
 \sf <nb="2011"> 633
 \hm 2
-\ph haeq
+\or haeq
 \ps n
 \lc hæ˧˥
 \sd <langue="fra"> maison
@@ -17643,7 +17644,7 @@
 \sf <nb="B"> 1626
 \sf <nb="2011"> 2414
 \hm 1
-\ph hanq
+\or hanq
 \ps v
 \lc hɑ̃˧˥
 \sd <langue="fra"> verbe
@@ -17666,7 +17667,7 @@
 
 \lx hɑ̃˧˥
 \hm 2
-\ph hanq
+\or hanq
 \ps v
 \lc hɑ̃˧˥
 \sd <langue="fra"> verbe
@@ -17705,7 +17706,7 @@
 \sf <nb="B"> 2172
 \sf <nb="B"> 381
 \sf <nb="2011"> 512
-\ph ha
+\or ha
 \ps n
 \lc hɑ˧
 \sd <langue="fra"> nourriture
@@ -17742,7 +17743,7 @@
 \lx hæ̃˩bæ˩
 \sf <nb="B"> 645
 \sf <nb="2011"> 964
-\ph haenbbae
+\or haenbbae
 \ps v
 \lc hæ̃˩bæ˩˥
 \sd <langue="fra"> religion
@@ -17761,7 +17762,7 @@
 \lx hæ̃˩-bɑ˧lɑ˩
 \sf <nb="B"> 410
 \sf <nb="2011"> 520
-\ph haenbbala
+\or haenbbala
 \ps n
 \lc hæ̃˩bɑ˧lɑ˩
 \sd <langue="fra"> vêtement
@@ -17786,7 +17787,7 @@
 \dt 13/Jul/2017
 
 \lx hɑ˧bɤ˥
-\ph habbe
+\or habbe
 \ps n
 \lc hɑ˧bɤ˥
 \sd <langue="fra"> nourriture
@@ -17810,7 +17811,7 @@
 \lx hɑ˧-bv̩˥~bv̩˩-di˩
 \sf <nb="B"> 509c
 \sf <nb="2011"> 705
-\ph ha bbubbuddi
+\or ha bbubbuddi
 \ps n
 \lc hɑ˧bv̩˥bv̩˩di˩
 \sd <langue="fra"> objet
@@ -17832,7 +17833,7 @@
 \lx hæ̃˩di˩
 \sf <nb="B"> 565
 \sf <nb="2011"> 800
-\ph haenddi
+\or haenddi
 \ps n
 \lc hæ̃˩di˩˥
 \sd <langue="fra"> objet
@@ -17855,7 +17856,7 @@
 \lx hæ˧di˩-ʈæ˩bɤ˩
 \sf <nb="B"> 357
 \sf <nb="2011"> 415
-\ph haeddi daebbe
+\or haeddi daebbe
 \ps n
 \lc hæ˧di˩ʈæ˩bɤ˩
 \sd <langue="fra"> société
@@ -17877,7 +17878,7 @@
 \sf <nb="B"> 1198
 \sf <nb="B"> 2318
 \sf <nb="2011"> 654
-\ph haeddo
+\or haeddo
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -17905,7 +17906,7 @@
 \dt 13/Jun/2017
 
 \lx hɑ˧-gv̩˥-di˩
-\ph ha gguddi
+\or ha gguddi
 \ec <langue="fra"> la chose pour faire à manger
 \ps n
 \sd <langue="fra"> maison
@@ -17924,7 +17925,7 @@
 \lx hæ̃˧kʰo˧
 \sf <nb="B"> 267
 \sf <nb="2011"> 347
-\ph haeko
+\or haeko
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -17950,7 +17951,7 @@
 \dt 02/Sep/2015
 
 \lx hæ̃˧kʰɤ˧˥
-\ph haenke 
+\or haenke 
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -17969,7 +17970,7 @@
 
 \lx hæ˧ɭɯ#˥
 \sf <nb="2011"> 3059
-\ph haelee
+\or haelee
 \ps n
 \cf kɤ˧ljɤ˩
 \sd <langue="fra"> plante
@@ -17989,7 +17990,7 @@
 \lx hɑ˧ɭɯ#˥
 \sf <nb="B"> 1978
 \sf <nb="2011"> 3010
-\ph halee
+\or halee
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -18012,7 +18013,7 @@
 \lx hɑ˧mi˥
 \sf <nb="B"> 360
 \sf <nb="2011"> 420
-\ph hami
+\or hami
 \ps v
 \cf mi˩a
 \sd <langue="fra"> société
@@ -18042,7 +18043,7 @@
 
 \lx hɑ̃˧mo˥
 \sf <nb="2011"> 1447
-\ph hanmo
+\or hanmo
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -18065,7 +18066,7 @@
 \lx hæ̃˧pɤ˧
 \sf <nb="B"> 98
 \sf <nb="2011"> 149
-\ph haenbe
+\or haenbe
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -18087,7 +18088,7 @@
 \dt 02/Sep/2015
 
 \lx hɑ˧pv̩˩
-\ph habeu
+\or habeu
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -18105,7 +18106,7 @@
 \lx hæ̃˩qʰv̩˩
 \sf <nb="B"> 2101
 \sf <nb="2011"> 3235
-\ph haenkheu
+\or haenkheu
 \ps n
 \lc hæ̃˩qʰv̩˩˥
 \ton L
@@ -18121,7 +18122,7 @@
 \dt 13/Jun/2017
 
 \lx hæ̃˧qʰv̩˥$
-\ph huaekheu
+\or huaekheu
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -18139,7 +18140,7 @@
 \lx hæ̃˩qʰwɤ˩
 \sf <nb="B"> 2175
 \sf <nb="2011"> 3298
-\ph haenkhua
+\or haenkhua
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -18161,7 +18162,7 @@
 
 \lx hæ˧se˧
 \sf <nb="2011"> 3195
-\ph haesei
+\or haesei
 \bw <langue="cmn"> dialect fn:海参
 \ps n
 \sd <langue="fra"> plante
@@ -18180,7 +18181,7 @@
 \lx hæ̃˩sɤ˩
 \sf <nb="B"> 0000
 \sf <nb="2011"> 2710
-\ph haese
+\or haese
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -18203,7 +18204,7 @@
 \dt 24/Jul/2017
 
 \lx hɑ˧ʂɯ˥
-\ph haeshi
+\or haeshi
 \bw <langue="cmn"> 还是
 \ps lnk
 \sd <langue="fra"> morphosyntaxe
@@ -18222,7 +18223,7 @@
 
 \lx hæ̃˧ʂɯ˩-pæ˩pʰæ˩
 \sf <nb="2011"> 657
-\ph haenshi baepae
+\or haenshi baepae
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -18240,7 +18241,7 @@
 \dt 13/Jun/2017
 
 \lx hæ̃˧ʂɯ˩‑
-\ph haenshi
+\or haenshi
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -18261,7 +18262,7 @@
 \dt 02/Sep/2015
 
 \lx hæ̃˧ʂv̩˧pɤ˥
-\ph haechube
+\or haechube
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -18278,7 +18279,7 @@
 \dt 13/Jun/2017
 
 \lx hæ̃˧ʐɤ˥
-\ph haenre
+\or haenre
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
@@ -18302,7 +18303,7 @@
 \lx hæ˧ʐwɤ˩
 \sf <nb="B"> 638c
 \sf <nb="2011"> 955
-\ph Haerua
+\or Haerua
 \ps n
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
@@ -18318,7 +18319,7 @@
 \dt 02/Sep/2015
 
 \lx hɑ˧-ʐwɤ˩
-\ph harua
+\or harua
 \ps adj
 \cf ʐwɤ˧
 \sd <langue="fra"> adjectif
@@ -18337,7 +18338,7 @@
 \lx hæ̃˧α
 \sf <nb="B"> 1598
 \sf <nb="2011"> 2386
-\ph hae
+\or hae
 \ps v
 \lc hæ̃˧
 \sd <langue="fra"> verbe
@@ -18368,7 +18369,7 @@
 
 \lx hæ˩α
 \sf <nb="B"> 1079
-\ph haeq
+\or haeq
 \ps v
 \lc hæ˩˥
 \sd <langue="fra"> verbe
@@ -18401,7 +18402,7 @@
 \lx hɑ̃˧˥α
 \sf <nb="B"> 719
 \sf <nb="2011"> 1090
-\ph han
+\or han
 \ps clf
 \lc ɖɯ˧ hɑ̃˧˥
 \sd <langue="fra"> classificateur
@@ -18438,7 +18439,7 @@
 \dt 24/Apr/2017
 
 \lx hɑ˩α
-\ph haq
+\or haq
 \ps v
 \lc hɑ˩˥
 \sd <langue="fra"> verbe
@@ -18470,7 +18471,7 @@
 \sf <nb="B"> 1390
 \sf <nb="2011"> 1976
 \hm 1
-\ph hinq
+\or hinq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -18492,7 +18493,7 @@
 \lx hĩ˧˥
 \sf <nb="2011"> 2136
 \hm 2
-\ph hinq
+\or hinq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -18528,7 +18529,7 @@
 \lx hĩ˥
 \sf <nb="B"> 249
 \sf <nb="2011"> 315
-\ph hin
+\or hin
 \ps n
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
@@ -18571,7 +18572,7 @@
 \sf <nb="B"> 42
 \sf <nb="2011"> 65
 \hm 1
-\ph xieq
+\or xieq
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -18590,7 +18591,7 @@
 
 \lx hi˩
 \hm 2
-\ph xieq
+\or xieq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -18613,7 +18614,7 @@
 \lx hi˩˥
 \sf <nb="B"> 7
 \sf <nb="2011"> 14
-\ph xieq
+\or xieq
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -18642,7 +18643,7 @@
 \lx hi˥
 \sf <nb="B"> 120
 \sf <nb="2011"> 180
-\ph xie
+\or xie
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -18670,7 +18671,7 @@
 \lx hĩ˧bæ#˥
 \sf <nb="B"> 377
 \sf <nb="2011"> 442
-\ph hinbbae
+\or hinbbae
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -18702,7 +18703,7 @@
 \lx hi˧dʑi˧
 \sf <nb="B"> 417
 \sf <nb="2011"> 527
-\ph xiejjie
+\or xiejjie
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
@@ -18731,7 +18732,7 @@
 \lx hi˩dʑɯ˩
 \sf <nb="B"> 76
 \sf <nb="2011"> 124
-\ph xiejji
+\or xiejji
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -18754,7 +18755,7 @@
 
 \lx hĩ˧hĩ#˥
 \sf <nb="2011"> 353
-\ph hinhin
+\or hinhin
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -18775,7 +18776,7 @@
 \lx hi˧kʰɯ#˥
 \sf <nb="B"> 124
 \sf <nb="2011"> 186
-\ph xiekee
+\or xiekee
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -18809,7 +18810,7 @@
 \sf <nb="B"> 363
 \sf <nb="B"> 364
 \sf <nb="2011"> 423
-\ph hin laguhin
+\or hin laguhin
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -18835,7 +18836,7 @@
 \lx hi˩mi˩
 \sf <nb="B"> 125
 \sf <nb="2011"> 187
-\ph xiemi
+\or xiemi
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -18866,7 +18867,7 @@
 \sf <nb="B"> 85
 \sf <nb="2011"> 312
 \sf <nb="2011"> 131
-\ph hinmo
+\or hinmo
 \ps n
 \sn 1
 \sd <langue="fra"> corps
@@ -18904,7 +18905,7 @@
 \lx hĩ˧mo˥
 \sf <nb="B"> 261
 \sf <nb="2011"> 341
-\ph hinmo
+\or hinmo
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -18933,7 +18934,7 @@
 \lx hĩ˧mɤ˧gɤ˥
 \sf <nb="B"> 1329
 \sf <nb="2011"> 1906
-\ph (hin) megge  RD Comment: See question above
+\or (hin) megge
 \ps v
 \ton H#
 \lc hĩ˧mɤ˧gɤ˥  
@@ -18958,7 +18959,7 @@
 \lx hi˩nɑ˧mi#˥
 \sf <nb="B"> 41
 \sf <nb="2011"> 64
-\ph xienami
+\or xienami
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -18980,7 +18981,7 @@
 \dt 02/Sep/2015
 
 \lx hi˩ɲi˩zo˩
-\ph xienisso
+\or xienisso
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -18999,7 +19000,7 @@
 
 \lx hĩ˧nv̩˥
 \sf <nb="2011"> 2591
-\ph hin'nu
+\or hin'nu
 \ps v
 \ton H#
 \lc hĩ˧nv̩˥
@@ -19019,7 +19020,7 @@
 \lx hi˩qʰɑ˩
 \sf <nb="B"> 7b
 \sf <nb="2011"> 16
-\ph xiekha
+\or xiekha
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -19044,7 +19045,7 @@
 \lx hi˧qʰwɤ˩
 \sf <nb="B"> 120b
 \sf <nb="2011"> 185
-\ph xiekhua
+\or xiekhua
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -19067,7 +19068,7 @@
 
 \lx hi˩ʁwɤ˩-lo˧
 \sf <nb="2011"> 3331
-\ph Xiewualo
+\or Xiewualo
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -19090,7 +19091,7 @@
 
 \lx hi˧tʰɑ˩
 \sf <nb="2011"> 1414
-\ph xieta
+\or xieta
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -19109,7 +19110,7 @@
 \dt 02/Sep/2015
 
 \lx hĩ˧-tɕʰɯ#˥
-\ph hinqi
+\or hinqi
 \ps n
 \sy hĩ˧-ʈʂɤ#˥
 \sd <langue="fra"> société
@@ -19140,7 +19141,7 @@
 \lx hi˧tʰo˧˥
 \sf <nb="B"> 120b
 \sf <nb="2011"> 181
-\ph xieto
+\or xieto
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -19162,7 +19163,7 @@
 \dt 02/Sep/2015
 
 \lx hĩ˧-ʈʂɤ#˥
-\ph hinzhe
+\or hinzhe
 \ps n
 \sy hĩ˧-tɕʰɯ#˥
 \sd <langue="fra"> société
@@ -19185,7 +19186,7 @@
 \lx hi˧tsɯ˩
 \sf <nb="B"> 2227
 \sf <nb="2011"> 183
-\ph xiezi
+\or xiezi
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -19207,7 +19208,7 @@
 \lx hi˩ʐæ˥
 \sf <nb="B"> 127
 \sf <nb="2011"> 189
-\ph xierae
+\or xierae
 \ps n
 \sn 1
 \sd <langue="fra"> corps
@@ -19247,7 +19248,7 @@
 \lx hõ˧˥
 \sf <nb="B"> 818
 \sf <nb="2011"> 1206
-\ph honq
+\or honq
 \ps num
 \lc hõ˧˥
 \sd <langue="fra"> nombre
@@ -19267,7 +19268,7 @@
 
 \lx ho˧˥
 \sf <nb="2011"> 1671
-\ph hoq
+\or hoq
 \ps v
 \lc ho˧˥
 \sd <langue="fra"> verbe
@@ -19300,7 +19301,7 @@
 \sf <nb="B"> 1795a
 \sf <nb="2011"> 2657
 \hm 1
-\ph ho
+\or ho
 \ps n
 \lc ho˧
 \sd <langue="fra"> animal
@@ -19328,7 +19329,7 @@
 \sf <nb="B"> 382
 \sf <nb="2011"> 444
 \hm 2
-\ph ho
+\or ho
 \ps n
 \lc ho˧
 \sd <langue="fra"> nourriture
@@ -19352,7 +19353,7 @@
 \dt 02/Sep/2015
 
 \lx hɤ˧
-\ph hee
+\or hee
 \ps n
 \lc hɤ˧
 \sd <langue="fra"> morphosyntaxe
@@ -19382,7 +19383,7 @@
 \lx ho˩ɕjæ˧
 \sf <nb="B"> 2069
 \sf <nb="2011"> 3200
-\ph hoxae
+\or hoxae
 \bw <langue="cmn"> 藿香
 \ps n
 \lc ho˩ɕjæ˥
@@ -19402,7 +19403,7 @@
 \lx ho˧ɕjæ˩
 \sf <nb="B"> 618
 \sf <nb="2011"> 911
-\ph hoxae
+\or hoxae
 \bw <langue="cmn"> 火线
 \ps n
 \lc ho˧ɕjæ˩
@@ -19424,7 +19425,7 @@
 \lx ho˧di˧
 \sf <nb="B"> 2323
 \sf <nb="2011"> 3337
-\ph Hoddi
+\or Hoddi
 \ps n
 \lc ho˧di˧
 \sd <langue="fra"> lieu
@@ -19445,7 +19446,7 @@
 \lx ho˩dʑɯ˩
 \sf <nb="B"> 1049b
 \sf <nb="2011"> 1483
-\ph hojji
+\or hojji
 \ps adj
 \lc ho˩dʑɯ˩˥
 \sd <langue="fra"> adjectif
@@ -19468,7 +19469,7 @@
 \dt 24/Apr/2017
 
 \lx ho˧dʑɯ˧˥
-\ph hojji
+\or hojji
 \ps n
 \lc ho˧dʑɯ˧˥
 \cf ho˧dʑɯ˧tɤ˥ɻ̍˩
@@ -19488,7 +19489,7 @@
 \lx ho˧dʑɯ˧-tɤ˥ɻ̍˩
 \sf <nb="B"> 384
 \sf <nb="2011"> 450
-\ph hojjide'er
+\or hojjide'er
 \ps n
 \lc ho˧dʑɯ˧tɤ˥ɻ̍˩
 \cf ho˧dʑɯ˧˥
@@ -19517,7 +19518,7 @@
 \lx hɤ˧hwi˥
 \sf <nb="B"> 1301
 \sf <nb="2011"> 1857
-\ph hehui
+\or hehui
 \bw <langue="cmn"> 后悔
 \ps v
 \sd <langue="fra"> verbe
@@ -19541,7 +19542,7 @@
 \dt 04/Aug/2017
 
 \lx ho˧ko˧
-\ph hogo
+\or hogo
 \bw <langue="cmn"> 火锅
 \ps n
 \lc ho˧ko˧
@@ -19564,7 +19565,7 @@
 \lx hõ˧-ɬi˧mi#˥
 \sf <nb="B"> 784
 \sf <nb="2011"> 1180
-\ph honlhimi
+\or honlhimi
 \ps n
 \lc hõ˧ɬi˧mi˧
 \sd <langue="fra"> temps
@@ -19586,7 +19587,7 @@
 \lx ho˩lo˧pv̩˥
 \sf <nb="B"> 2007b
 \sf <nb="2011"> 3070
-\ph holobu
+\or holobu
 \bw <langue="cmn"> 胡萝卜
 \ps n
 \lc ho˩lo˧pv̩˥
@@ -19608,7 +19609,7 @@
 
 \lx ho˧mi#˥
 \sf <nb="2011"> 2662
-\ph homi
+\or homi
 \ps n
 \lc ho˧mi˧
 \sd <langue="fra"> animal
@@ -19637,7 +19638,7 @@
 
 \lx ho˧pʰv̩#˥
 \sf <nb="2011"> 2661
-\ph hopu
+\or hopu
 \ps n
 \lc ho˧pʰv̩˧
 \sd <langue="fra"> animal
@@ -19661,7 +19662,7 @@
 \lx ho˩to˩ʂæ˧
 \sf <nb="B"> 2060
 \sf <nb="2011"> 3188
-\ph hodoshae
+\or hodoshae
 \ps n
 \ton L.L.M
 \lc ho˩to˩ʂæ˥
@@ -19686,7 +19687,7 @@
 \lx hõ˩tsʰi˧˥
 \sf <nb="B"> 836
 \sf <nb="2011"> 1233
-\ph honcee
+\or honcee
 \ps num
 \lc hõ˩tsʰi˧˥
 \sd <langue="fra"> nombre
@@ -19706,7 +19707,7 @@
 \dt 24/Apr/2017
 
 \lx ho˧ʈʂɯ˧
-\ph hozhi
+\or hozhi
 \bw <langue="cmn"> 蒿枝
 \ps n
 \lc ho˧ʈʂɯ˧
@@ -19728,7 +19729,7 @@
 \sf <nb="B"> 1939
 \sf <nb="2011"> 471
 \bw <langue="cmn"> 火腿
-\ph hotu
+\or hotu
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -19751,7 +19752,7 @@
 \dt 14/Jun/2017
 
 \lx ho˧zo#˥
-\ph hosso
+\or hosso
 \ps n
 \lc ho˧zo˧
 \sd <langue="fra"> animal
@@ -19775,7 +19776,7 @@
 \lx hõ˧α
 \sf <nb="B"> 2259
 \sf <nb="2011"> 2586
-\ph hun
+\or hun
 \ps v
 \sn 1
 \sd <langue="fra"> verbe
@@ -19829,7 +19830,7 @@
 \sf <nb="B"> 947
 \sf <nb="B"> 1665
 \sf <nb="2011"> 1374
-\ph hoq
+\or hoq
 \bw chinois ancien: fn:合 ?
 \ps adj
 \lc ho˩˥
@@ -19863,7 +19864,7 @@
 \sf <nb="B"> 1510
 \sf <nb="2011"> 2235
 \hm 1
-\ph heq
+\or heq
 \ps v
 \lc hɤ˩˥
 \sd <langue="fra"> verbe
@@ -19906,7 +19907,7 @@
 
 \lx hɤ˩α
 \hm 2
-\ph hee
+\or hee
 \ps v
 \lc hɤ˩˥
 \sd <langue="fra"> verbe
@@ -19925,7 +19926,7 @@
 \sf <nb="B"> 1065
 \sf <nb="2011"> 1500
 \hm 3
-\ph heq
+\or heq
 \ps adj
 \lc hɤ˩˥
 \sd <langue="fra"> adjectif
@@ -19956,7 +19957,7 @@
 
 \lx hu˧˥
 \hm 1
-\ph huq
+\or huq
 \ps v
 \lc hu˧˥
 \sd <langue="fra"> verbe
@@ -19978,7 +19979,7 @@
 
 \lx hu˧˥
 \hm 2
-\ph huq 
+\or huq 
 \ps n
 \lc hu˧˥
 \sd <langue="fra"> corps
@@ -20000,7 +20001,7 @@
 \lx hu˥
 \sf <nb="B"> 1209
 \sf <nb="2011"> 1744
-\ph hon 
+\or hon 
 \ps v
 \lc hu˧
 \sd <langue="fra"> verbe
@@ -20034,7 +20035,7 @@
 \sf <nb="B"> 1756c
 \sf <nb="B"> 275
 \sf <nb="2011"> 2583
-\ph hee
+\or hee
 \ps v
 \lc hɯ˧
 \sd <langue="fra"> verbe
@@ -20060,7 +20061,7 @@
 \dt 02/Sep/2015
 
 \lx hɯ˧β
-\ph hee
+\or hee
 \ps clf
 \lc ɖɯ˧ hɯ˧
 \sd <langue="fra"> classificateur
@@ -20082,7 +20083,7 @@
 \lx hu˧mi˥$
 \sf <nb="B"> 224a
 \sf <nb="2011"> 295
-\ph humi
+\or humi
 \ps n
 \lc hu˧mi˥
 \sd <langue="fra"> corps
@@ -20108,7 +20109,7 @@
 \lx hṽ̩˥
 \sf <nb="B"> 100
 \sf <nb="2011"> 150
-\ph hunq
+\or hunq
 \ps n
 \lc hṽ̩˧
 \sd <langue="fra"> corps
@@ -20131,7 +20132,7 @@
 
 \lx hṽ̩˥
 \sf <nb="2011"> 2223
-\ph hunq
+\or hunq
 \ps v
 \lc hṽ̩˧
 \sd <langue="fra"> verbe
@@ -20178,7 +20179,7 @@
 \lx hṽ̩˧dɤ˧ɻ̍#˥
 \sf <nb="B"> 1084
 \sf <nb="2011"> 1539
-\ph hundde'er
+\or hundde'er
 \ps adj
 \lc hṽ̩˧dɤ˧ɻ̍˧
 \sd <langue="fra"> adjectif
@@ -20213,7 +20214,7 @@
 
 \lx hṽ̩˩-ɖʐæ˩ɻæ˥
 \sf <nb="2011"> 1395
-\ph hunzzhae'er
+\or hunzzhae'er
 \et hṽ̩˩a 1
 \ps adj
 \lc hṽ̩˩ɖʐæ˩ɻæ˥
@@ -20248,7 +20249,7 @@
 \lx hṽ̩˧nɑ˩
 \sf <nb="B"> 1926
 \sf <nb="2011"> 2939
-\ph hun'na
+\or hun'na
 \ps n
 \lc hṽ̩˧nɑ˩
 \sd <langue="fra"> animal
@@ -20272,7 +20273,7 @@
 \lx hṽ̩˩α
 \sf <nb="2011"> 1394
 \hm 1
-\ph hunq
+\or hunq
 \ps adj
 \lc hṽ̩˩˥
 \sd <langue="fra"> adjectif
@@ -20290,7 +20291,7 @@
 
 \lx hṽ̩˩α
 \hm 2
-\ph hunq
+\or hunq
 \ps adj
 \lc hṽ̩˩˥
 \sd <langue="fra"> adjectif
@@ -20308,7 +20309,7 @@
 \lx hṽ̩˩~hṽ̩˩
 \sf <nb="B"> 1062
 \sf <nb="2011"> 1498
-\ph heunheun
+\or heunheun
 \ps v
 \lc hṽ̩˧hṽ̩˩˥
 \sd <langue="fra"> adjectif
@@ -20336,7 +20337,7 @@
 
 \lx hṽ̩˧~hṽ̩˩-ɖʐæ˩~ɖʐæ˩
 \sf <nb="2011"> 1396
-\ph hunhunzzhaezzhae
+\or hunhunzzhaezzhae
 \et hṽ̩˩a 1
 \ps adj
 \lc hṽ̩˧hṽ̩˩ɖʐæ˩ɖʐæ˩
@@ -20357,7 +20358,7 @@
 \sf <nb="B"> 1934
 \sf <nb="2011"> 2954
 \hm 1
-\ph huaezzhae
+\or huaezzhae
 \ps n
 \lc hwæ˧ɖʐæ˥
 \sd <langue="fra"> animal
@@ -20385,7 +20386,7 @@
 
 \lx hwæ˧ɖʐæ˥
 \hm 2
-\ph huaezzhae
+\or huaezzhae
 \ps n
 \lc hwæ˧ɖʐæ˥
 \sd <langue="fra"> corps
@@ -20413,7 +20414,7 @@
 \lx hwɑ˩kwɤ˧
 \sf <nb="B"> 2011
 \sf <nb="2011"> 3078
-\ph huagua
+\or huagua
 \bw <langue="cmn"> 黄瓜
 \ps n
 \lc hwɑ˩kwɤ˥
@@ -20437,7 +20438,7 @@
 \lx hwæ˧pʰæ˩
 \sf <nb="B"> 588b
 \sf <nb="2011"> 830
-\ph huaepae
+\or huaepae
 \ps n
 \lc hwæ˧pʰæ˩
 \sd <langue="fra"> agriculture
@@ -20465,7 +20466,7 @@
 \lx hwæ˧pʰæ˥
 \sf <nb="B"> 409b
 \sf <nb="2011"> 519
-\ph huapae
+\or huapae
 \ps n
 \lc hwæ˧pʰæ˥
 \sd <langue="fra"> vêtement
@@ -20486,7 +20487,7 @@
 
 \lx hwæ˧pʰæ˩-gv̩˩-di˩
 \sf <nb="2011"> 874
-\ph huapae gguddi
+\or huapae gguddi
 \ps n
 \lc hwæ˧pʰæ˩gv̩˩di˩
 \sd <langue="fra"> objet
@@ -20514,7 +20515,7 @@
 \lx hwæ˧tsɯ˥
 \sf <nb="B"> 1933
 \sf <nb="2011"> 2953
-\ph huaezi
+\or huaezi
 \bw <langue="cmn"> 耗子
 \ps n
 \lc hwæ˧tsɯ˥
@@ -20547,7 +20548,7 @@
 \lx hwæ˧tsɯ˥-njɤ˩di˩
 \sf <nb="B"> 2094
 \sf <nb="2011"> 3228
-\ph huaezi nyaddi 
+\or huaezi nyaddi 
 \ps n
 \lc hwæ˧tsɯ˥njɤ˩di˩
 \sd <langue="fra"> plante
@@ -20567,7 +20568,7 @@
 \lx hwæ˧tsɯ˥-njɤ˩di˩-si˩dzi˩
 \sf <nb="B"> 2081
 \sf <nb="2011"> 3213
-\ph huaezi nyaddi seezzee 
+\or huaezi nyaddi seezzee 
 \ps n
 \lc hwæ˧tsɯ˥njɤ˩di˩si˩dzi˩
 \sd <langue="fra"> plante
@@ -20588,7 +20589,7 @@
 \sf <nb="B"> 1514
 \sf <nb="2011"> 1847
 \hm 1
-\ph huaeq
+\or huaeq
 \ps v
 \lc hwæ˩˥
 \cf ʈæ˩a
@@ -20619,7 +20620,7 @@
 \sf <nb="B"> 1514
 \sf <nb="2011"> 1847
 \hm 2
-\ph huaeq
+\or huaeq
 \ps v
 \lc hwæ˩˥
 \sd <langue="fra"> verbe
@@ -20668,7 +20669,7 @@
 \lx hwæ˧α
 \sf <nb="B"> 1417
 \sf <nb="2011"> 2045
-\ph huae
+\or huae
 \ps v
 \lc hwæ˧
 \sd <langue="fra"> verbe
@@ -20706,7 +20707,7 @@
 \dt 24/Apr/2017
 
 \lx hwɤ˩
-\ph feq
+\or feq
 \ps v
 \lc hwɤ˩˥
 \sn 1
@@ -20768,7 +20769,7 @@
 \sf <nb="B"> 926
 \sf <nb="B"> 927
 \sf <nb="2011"> 1351
-\ph fe
+\or fe
 \ps adj
 \lc hwɤ˧
 \sd <langue="fra"> adjectif
@@ -20796,7 +20797,7 @@
 \sf <nb="B"> 1135a
 \sf <nb="2011"> 1623
 \hm 1
-\ph huaq
+\or huaq
 \ps v
 \lc hwɤ˧˥
 \sd <langue="fra"> verbe
@@ -20827,7 +20828,7 @@
 \lx hwɤ˧˥
 \sf <nb="2011"> 2859
 \hm 2
-\ph huaq
+\or huaq
 \ps n
 \lc hwɤ˧˥
 \sd <langue="fra"> animal
@@ -20847,7 +20848,7 @@
 \lx hwɤ˧˥
 \sf <nb="2011"> 123
 \hm 3
-\ph huaq
+\or huaq
 \ps n
 \lc hwɤ˧˥
 \sd <langue="fra"> environnement naturel
@@ -20865,7 +20866,7 @@
 
 \lx hwɤ˥
 \sf <nb="2011"> 2619
-\ph fe
+\or fe
 \ps v
 \lc hwɤ˧
 \sd <langue="fra"> verbe
@@ -20883,7 +20884,7 @@
 
 \lx hwɤ˥
 \sf <nb="2011"> 1016
-\ph fe
+\or fe
 \ps n
 \lc hwɤ˧
 \sd <langue="fra"> objet
@@ -20906,7 +20907,7 @@
 \dt 14/Jul/2017
 
 \lx hwɤ˩dʑɯ˩
-\ph huajji
+\or huajji
 \ps n
 \lc hwɤ˩dʑɯ˩˥
 \sd <langue="fra"> maison
@@ -20926,7 +20927,7 @@
 \lx hwɤ˩kæ˧
 \sf <nb="B"> 2053
 \sf <nb="2011"> 3169
-\ph huagae
+\or huagae
 \ps n
 \lc hwɤ˩kæ˥
 \sd <langue="fra"> plante
@@ -20950,7 +20951,7 @@
 \lx hwɤ˧-kʰv̩˥
 \sf <nb="B"> 760
 \sf <nb="2011"> 1155
-\ph huaku
+\or huaku
 \ps n
 \hm 1
 \lc hwɤ˧kʰv̩˥
@@ -20972,7 +20973,7 @@
 \dt 24/Apr/2017
 
 \lx hwɤ˧-kʰv̩˥
-\ph huaq kuq
+\or huaq kuq
 \ps adj
 \hm 2
 \lc hwɤ˧kʰv̩˥
@@ -20991,7 +20992,7 @@
 \lx hwɤ˧li˧˥
 \sf <nb="B"> 1881
 \sf <nb="2011"> 2858
-\ph huali
+\or huali
 \ec <langue="fra"> Nicolas Tournadre relève un possible parallèle avec le tibétain /li/ ‘chat'; il s'agirait alors d'un emprunt récent? En na, /-li/ en deuxième syllabe a des chances d'être un suffixe: voir également ‘papillon'.
 \ps n
 \lc hwɤ˧li˧˥
@@ -21014,7 +21015,7 @@
 \dt 24/Apr/2017
 
 \lx hwɤ˧li˧-bv̩˥
-\ph hualibbu
+\or hualibbu
 \ec <langue="fra"> (la place) du chat
 \ps n
 \lc hwɤ˧li˧bv̩˥
@@ -21035,7 +21036,7 @@
 \dt 13/Jul/2017
 
 \lx hwɤ˧li˧-hwæ˧qʰæ#˥
-\ph huali huaekhae 
+\or huali huaekhae 
 \ps n
 \cf ʂæ˧-lo˩pv˩
 \lc hwɤ˧li˧-hwæ˧qʰæ˧
@@ -21052,7 +21053,7 @@
 \dt 09/Oct/2017
 
 \lx hwɤ˧li˧-se˧-di˧˥
-\ph huali seiddi
+\or huali seiddi
 \ps n
 \lc hwɤ˧li˧se˧di˧˥
 \sy hwɤ˧li˧-bv̩˥
@@ -21071,7 +21072,7 @@
 \dt 01/Aug/2017
 
 \lx hwɤ˧li˧-ʂɯ˧mo˥
-\ph huali shimo
+\or huali shimo
 \ps n
 \lc hwɤ˧li˧ʂɯ˧mo˥
 \sd <langue="fra"> animal
@@ -21089,7 +21090,7 @@
 \dt 24/Apr/2017
 
 \lx hwɤ˧li˧-zo˧˥
-\ph hualisso
+\or hualisso
 \ps n
 \lc hwɤ˧li˧zo˧˥
 \sd <langue="fra"> animal
@@ -21111,7 +21112,7 @@
 \lx hwɤ˧mi˥$
 \sf <nb="B"> 1883
 \sf <nb="2011"> 2861
-\ph huami
+\or huami
 \ps n
 \lc hwɤ˧mi˥
 \sd <langue="fra"> animal
@@ -21143,7 +21144,7 @@
 \lx hwɤ˧pʰv̩#˥
 \sf <nb="B"> 1882
 \sf <nb="2011"> 2860
-\ph huapu
+\or huapu
 \ps n
 \lc hwɤ˧pʰv̩˧
 \sd <langue="fra"> animal
@@ -21177,7 +21178,7 @@
 
 \lx hwɤ˧se˧
 \sf <nb="2011"> 3137
-\ph huasei
+\or huasei
 \bw <langue="cmn"> 花生
 \ps n
 \lc hwɤ˧se˧
@@ -21200,7 +21201,7 @@
 \lx hwɤ˧tɕi˥
 \sf <nb="B"> 2107
 \sf <nb="2011"> 3241
-\ph huajie
+\or huajie
 \ps n
 \lc hwɤ˧tɕi˥
 \sd <langue="fra"> plante
@@ -21230,7 +21231,7 @@
 \sf <nb="B"> 73
 \sf <nb="B"> 1489
 \sf <nb="2011"> 122
-\ph huadei
+\or huadei
 \ps v
 \lc hwɤ˩ʈi˥
 \sd <langue="fra"> verbe
@@ -21256,7 +21257,7 @@
 \dt 24/Apr/2017
 
 \lx hwɤ˧zo#˥
-\ph huasso
+\or huasso
 \ps n
 \lc hwɤ˧zo˧
 \sd <langue="fra"> animal
@@ -21288,7 +21289,7 @@
 \sf <nb="B"> ancien
 \sf <nb="B"> 973)
 \sf <nb="2011"> 1408
-\ph huanq
+\or huanq
 \ps adj
 \lc hwɤ̃˩˥
 \sd <langue="fra"> adjectif
@@ -21318,7 +21319,7 @@
 \lx hwɤ˩α
 \sf <nb="B"> 1362
 \sf <nb="2011"> 1940
-\ph huaq
+\or huaq
 \ps v
 \lc hwɤ˩˥
 \sd <langue="fra"> verbe
@@ -21340,7 +21341,7 @@
 \dt 02/Sep/2015
 
 \lx ĩ˧
-\ph in
+\or in
 \ps intj
 \lc ĩ˧
 \sd <langue="fra"> morphosyntaxe
@@ -21363,7 +21364,7 @@
 \lx je˧pʰi˧-jɤ#˥
 \sf <nb="B"> 402
 \sf <nb="2011"> 509
-\ph yepiye
+\or yepiye
 \bw <langue="cmn"> 鸦片
 \et fn:鸦片; jɤ˧
 \ec <langue="eng"> Opium is smoked, like tobacco. In Na, it was borrowed as ‘opium tobacco'. The word for ‘tobacco', /jɤ˧/, is likely to be a Chinese borrowing too, but by the time the word ‘opium' was borrowed, it was most probably not perceived as a loanword anymore, and could assist the interpretation of the new loanword, ‘opium'.
@@ -21388,7 +21389,7 @@
 \dt 25/Sep/2017
 
 \lx je˩tʰi˧
-\ph yeti
+\or yeti
 \bw <langue="cmn"> 洋铁
 \ps n
 \lc je˩tʰi˥
@@ -21406,7 +21407,7 @@
 
 \lx je˩ʐe˧
 \sf <nb="2011"> 338
-\ph yerei
+\or yerei
 \bw <langue="cmn"> 洋人
 \ps n
 \lc je˩ʐe˥
@@ -21430,7 +21431,7 @@
 \lx ʝi˩˥
 \sf <nb="B"> 209
 \sf <nb="2011"> 277
-\ph yiq
+\or yiq
 \ps n
 \lc ʝi˩˥
 \sd <langue="fra"> corps
@@ -21457,7 +21458,7 @@
 
 \lx ʝi˧
 \hm 1
-\ph yi
+\or yi
 \ps v
 \lc ʝi˧
 \sd <langue="fra"> verbe
@@ -21489,7 +21490,7 @@
 
 \lx ʝi˧
 \hm 2
-\ph yi
+\or yi
 \ps n
 \lc ʝi˧
 \sd <langue="fra"> morphosyntaxe
@@ -21513,7 +21514,7 @@
 \sf <nb="B"> 1919
 \sf <nb="2011"> 2915
 \hm 1
-\ph yi
+\or yi
 \ps n
 \lc ʝi˧
 \sd <langue="fra"> animal
@@ -21544,7 +21545,7 @@
 \sf <nb="B"> 1278
 \sf <nb="2011"> 1838
 \hm 2
-\ph yi
+\or yi
 \ps v
 \lc ʝi˧
 \sd <langue="fra"> verbe
@@ -21585,7 +21586,7 @@
 \lx ʝi˥
 \sf <nb="2011"> 1860
 \hm 3
-\ph yi
+\or yi
 \ps v
 \lc ʝi˧
 \sd <langue="fra"> verbe
@@ -21618,7 +21619,7 @@
 \sf <nb="B"> 520a
 \sf <nb="2011"> 739
 \hm 4
-\ph yi
+\or yi
 \ps n
 \lc ʝi˧
 \sd <langue="fra"> objet
@@ -21642,7 +21643,7 @@
 \sf <nb="B"> 1550
 \sf <nb="2011"> 2274
 \hm 5
-\ph yi
+\or yi
 \ps v
 \lc ʝi˧
 \sd <langue="fra"> verbe
@@ -21672,7 +21673,7 @@
 
 \lx ʝi˥
 \hm 6
-\ph yi
+\or yi
 \ps n
 \lc ʝi˧
 \sd <langue="fra"> société
@@ -21691,7 +21692,7 @@
 
 \lx ʝi˥
 \hm 7
-\ph yi
+\or yi
 \ps v
 \lc ʝi˧
 \sd <langue="fra"> verbe
@@ -21712,7 +21713,7 @@
 
 \lx ʝi˧β
 \sf <nb="B"> 1115
-\ph yi
+\or yi
 \ps clf
 \lc ʝi˧
 \sd <langue="fra"> classificateur
@@ -21743,7 +21744,7 @@
 \sf <nb="B"> 372
 \sf <nb="2011"> 434
 \hm 1
-\ph yibbu
+\or yibbu
 \ps n
 \lc ʝi˩bv̩˩˥
 \sd <langue="fra"> société
@@ -21772,7 +21773,7 @@
 
 \lx ʝi˩bv̩˩
 \hm 2
-\ph yibbu
+\or yibbu
 \ps n
 \lc ʝi˩bv̩˩˥
 \sd <langue="fra"> animal
@@ -21791,7 +21792,7 @@
 
 \lx ʝi˧-bv̩˧˥
 \sf <nb="2011"> 605
-\ph yibbu
+\or yibbu
 \ps n
 \lc ʝi˧bv̩˧˥
 \sd <langue="fra"> maison
@@ -21812,7 +21813,7 @@
 
 \lx ʝi˩di˩-mi˥
 \sf <nb="2011"> 2931
-\ph yiddimi
+\or yiddimi
 \ps n
 \lc ʝi˩di˩mi˥
 \sd <langue="fra"> animal
@@ -21834,7 +21835,7 @@
 \hm 1
 \sf <nb="B"> 761
 \sf <nb="2011"> 1156
-\ph yiku
+\or yiku
 \ps n
 \lc ʝi˧kʰv̩˩
 \sd <langue="fra"> temps
@@ -21855,7 +21856,7 @@
 
 \lx ʝi˧-kʰv̩˩
 \hm 2
-\ph yi kuq
+\or yi kuq
 \ps adj
 \lc ʝi˧kʰv̩˩
 \sd <langue="fra"> société
@@ -21870,7 +21871,7 @@
 \dt 14/Jun/2017
 
 \lx ʝi˧kʰv̩˥
-\ph yiko
+\or yiko
 \ps pro
 \lc ʝi˧kʰv̩˥
 \sd <langue="fra"> morphosyntaxe
@@ -21891,7 +21892,7 @@
 \dt 24/Apr/2017
 
 \lx ʝi˧kʰwɤ˥$
-\ph yikua
+\or yikua
 \ps pro
 \lc ʝi˧kʰwɤ˥
 \sd <langue="fra"> morphosyntaxe
@@ -21907,7 +21908,7 @@
 \dt 02/Sep/2015
 
 \lx ʝi˧lo#˥
-\ph yilo
+\or yilo
 \ps n
 \lc ʝi˧lo˧
 \sd <langue="fra"> abstrait
@@ -21944,7 +21945,7 @@
 
 \lx ʝi˩mi˩
 \sf <nb="2011"> 2919
-\ph yimi
+\or yimi
 \ps n
 \lc ʝi˩mi˩˥
 \sd <langue="fra"> animal
@@ -21969,7 +21970,7 @@
 \lx ʝi˧mi˧
 \sf <nb="B"> 520b
 \sf <nb="2011"> 741
-\ph yimi
+\or yimi
 \ps n
 \lc ʝi˧mi˧
 \sd <langue="fra"> objet
@@ -21991,7 +21992,7 @@
 
 \lx ʝi˩næ˩-se˧
 \sf <nb="2011"> 3345
-\ph Yinaesei
+\or Yinaesei
 \bw <langue="cmn"> 云南省
 \ps n
 \lc ʝi˩næ˩se˧
@@ -22014,7 +22015,7 @@
 \lx ʝi˩ŋɤ˧˥
 \sf <nb="B"> 1546
 \sf <nb="2011"> 2339
-\ph yi'nge
+\or yi'nge
 \ps v
 \lc ʝi˩ŋɤ˧˥
 \sd <langue="fra"> verbe
@@ -22042,7 +22043,7 @@
 \dt 24/Jul/2017
 
 \lx ʝi˧pʰv̩#˥
-\ph yipu
+\or yipu
 \ps n
 \lc ʝi˧pʰv̩˧
 \sd <langue="fra"> animal
@@ -22070,7 +22071,7 @@
 \lx ʝi˩qʰv̩˩
 \sf <nb="B"> 420
 \sf <nb="2011"> 531
-\ph yikheu
+\or yikheu
 \ps n
 \lc ʝi˩qʰv̩˩˥
 \sd <langue="fra"> vêtement
@@ -22096,7 +22097,7 @@
 \lx ʝi˧qv̩˥
 \sf <nb="B"> 656
 \sf <nb="2011"> 981
-\ph yigheu
+\or yigheu
 \ps n
 \lc ʝi˧qv̩˥
 \sd <langue="fra"> objet
@@ -22120,7 +22121,7 @@
 \lx ʝi˧ʁæ˥
 \sf <nb="B"> 1920
 \sf <nb="2011"> 2921
-\ph yihrae
+\or yihrae
 \ps n
 \lc ʝi˧ʁæ˥
 \sd <langue="fra"> animal
@@ -22142,7 +22143,7 @@
 \lx ʝi˧ʁo#˥
 \sf <nb="B"> 1066
 \sf <nb="2011"> 1501
-\ph yiwo
+\or yiwo
 \et ʝi˥ 1; ʁo˧ 2
 \ps adj
 \lc ʝi˧ʁo˧
@@ -22179,7 +22180,7 @@
 \lx ʝi˧sɑ˧
 \sf <nb="B"> 574
 \sf <nb="2011"> 814
-\ph yisa
+\or yisa
 \bw <langue="cmn"> 雨伞
 \ps n
 \lc ʝi˧sɑ˧
@@ -22203,7 +22204,7 @@
 \dt 02/Sep/2015
 
 \lx ʝi˧ʂæ˧tsʰɤ˩
-\ph yishaece
+\or yishaece
 \bw <langue="cmn"> 野山菜
 \ps n
 \lc ʝi˧ʂæ˧tsʰɤ˩
@@ -22223,7 +22224,7 @@
 
 \lx ʝi˧se˧
 \hm 1
-\ph yisei
+\or yisei
 \bw <langue="cmn"> 医生
 \ps n
 \lc ʝi˧se˧
@@ -22241,7 +22242,7 @@
 
 \lx ʝi˧se˧
 \hm 2
-\ph yisei
+\or yisei
 \bw <langue="cmn"> 野生
 \ps adj
 \lc ʝi˧se˧
@@ -22262,7 +22263,7 @@
 \dt 30/Jul/2016
 
 \lx ʝi˧sɯ˥
-\ph yisi
+\or yisi
 \bw <langue="cmn"> 意思
 \ps n
 \lc ʝi˧sɯ˥
@@ -22279,7 +22280,7 @@
 \dt 24/Apr/2017
 
 \lx ʝi˧ʂɯ˥
-\ph Yishi
+\or Yishi
 \ps n
 \lc ʝi˧ʂɯ˥
 \sd <langue="fra"> nom propre
@@ -22295,7 +22296,7 @@
 \dt 02/Sep/2015
 
 \lx ʝi˧tɕi˧
-\ph Yijie
+\or Yijie
 \ps n
 \lc ʝi˧tɕi˧
 \sd <langue="fra"> nom propre
@@ -22312,7 +22313,7 @@
 \dt 24/Apr/2017
 
 \lx ʝi˧tɕi˧-ɖɯ˩mɑ˩
-\ph Yijie Ddeema
+\or Yijie Ddeema
 \ps n
 \lc ʝi˧tɕi˧ɖɯ˩mɑ˩
 \sd <langue="fra"> nom propre
@@ -22329,7 +22330,7 @@
 \dt 24/Apr/2017
 
 \lx ʝi˧tɕi˧-ɬɑ˩mv̩˩
-\ph Yijie Lhamu
+\or Yijie Lhamu
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -22348,7 +22349,7 @@
 \lx ʝi˩ʈʂæ˧˥
 \sf <nb="B"> 158
 \sf <nb="2011"> 224
-\ph yizhae
+\or yizhae
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -22374,7 +22375,7 @@
 \lx ʝi˧ʈʂʰe˥-mi˩
 \sf <nb="B"> 697
 \sf <nb="2011"> 1038
-\ph yicheimi
+\or yicheimi
 \ps n
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
@@ -22400,7 +22401,7 @@
 \lx ʝi˧tsɯ˧
 \sf <nb="B"> 486
 \sf <nb="2011"> 667
-\ph yizi
+\or yizi
 \bw <langue="cmn"> 椅子
 \ps n
 \sd <langue="fra"> objet
@@ -22419,7 +22420,7 @@
 \dt 02/Sep/2015
 
 \lx ʝi˧zo#˥
-\ph yisso
+\or yisso
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -22443,7 +22444,7 @@
 \lx jo˩
 \sf <nb="B"> 1889
 \sf <nb="2011"> 2870
-\ph yo
+\or yo
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -22470,7 +22471,7 @@
 \xe sheep skin
 \xn 羊皮
 \xf peau de mouton
-\xv jo˩hṽ̩˩˥
+\xv jo˩hṽ̩˩˥
 \xe wool (sheep wool)
 \xn 羊毛
 \xf laine (de mouton)
@@ -22478,7 +22479,7 @@
 
 \lx jo˩˧
 \sf <nb="2011"> 1046
-\ph yoq
+\or yoq
 \ps n
 \cf jo˩gi˩
 \sd <langue="fra"> espace
@@ -22499,7 +22500,7 @@
 \lx jo˧
 \sf <nb="B"> 2206
 \sf <nb="2011"> 1881
-\ph yo
+\or yo
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -22521,7 +22522,7 @@
 \dt 02/Sep/2015
 
 \lx jo˧˥
-\ph yoq
+\or yoq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -22539,7 +22540,7 @@
 \lx jo˥
 \sf <nb="B"> 2286n
 \sf <nb="2011"> 572
-\ph yo
+\or yo
 \bw <langue="cmn"> 玉
 \ps n
 \sd <langue="fra"> vêtement
@@ -22561,7 +22562,7 @@
 
 \lx jɤ˧
 \hm 1
-\ph ye
+\or ye
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -22584,7 +22585,7 @@
 \sf <nb="B"> 943
 \sf <nb="2011"> 1369
 \hm 2
-\ph ye
+\or ye
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -22613,7 +22614,7 @@
 \sf <nb="B"> 1171
 \sf <nb="2011"> 508
 \hm 3
-\ph ye
+\or ye
 \bw <langue="cmn"> 烟?
 \ec <langue="fra"> sans doute emprunt chinois ancien
 \ps n
@@ -22645,7 +22646,7 @@
 \sf <nb="B"> 1163
 \sf <nb="2011"> 1656
 \hm 1
-\ph yeq
+\or yeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -22684,7 +22685,7 @@
 
 \lx jɤ˧˥
 \hm 2
-\ph yeq
+\or yeq
 \ps n
 \cf ʝi˧ʂæ˧tsʰɤ˩
 \sd <langue="fra"> plante
@@ -22710,7 +22711,7 @@
 \sf <nb="B"> 1163
 \sf <nb="2011"> 1656
 \hm 3
-\ph yeq
+\or yeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -22739,7 +22740,7 @@
 \lx jo˩β
 \sf <nb="B"> 866
 \sf <nb="2011"> 1266
-\ph yo
+\or yo
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -22762,7 +22763,7 @@
 
 \lx jɤ˩β
 \hm 1
-\ph yeq
+\or yeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -22803,7 +22804,7 @@
 
 \lx jɤ˩β
 \hm 2
-\ph ye
+\or ye
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -22823,7 +22824,7 @@
 \dt 14/Jun/2017
 
 \lx jɤ˩ɕjo˧-dzɑ˧qʰwɤ˩
-\ph yexo zzakhua
+\or yexo zzakhua
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -22844,7 +22845,7 @@
 \lx jo˩gi˩
 \sf <nb="B"> 702
 \sf <nb="2011"> 1045
-\ph yoggi
+\or yoggi
 \ps n
 \cf jo˩˧
 \sd <langue="fra"> espace
@@ -22869,7 +22870,7 @@
 
 \lx jɤ˧gɯ˩
 \sf <nb="2011"> 3017
-\ph yeggee
+\or yeggee
 \ps n
 \cf jɤ˧qʰɑ#˥
 \sd <langue="fra"> plante
@@ -22891,7 +22892,7 @@
 \lx jo˧gv̩˧
 \sf <nb="B"> 2230a
 \sf <nb="2011"> 3343
-\ph Yoggu
+\or Yoggu
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -22909,7 +22910,7 @@
 \dt 08/May/2017
 
 \lx jo˧gv̩˧-ŋv̩˧lv̩˧
-\ph Joggu Ngulu
+\or Joggu Ngulu
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -22928,7 +22929,7 @@
 \lx jɤ˩ho˧
 \sf <nb="B"> 498
 \sf <nb="2011"> 686
-\ph yeho
+\or yeho
 \bw <langue="cmn"> 洋火
 \ps n
 \sd <langue="fra"> objet
@@ -22954,7 +22955,7 @@
 \lx jɤ˩jo˧-bv̩#˥
 \sf <nb="B"> 1830
 \sf <nb="2011"> 2783
-\ph yeyobbu
+\or yeyobbu
 \et jɤ˩jo#˥; bv̩˥
 \ps n
 \sd <langue="fra"> animal
@@ -22980,7 +22981,7 @@
 \lx jɤ˩jo#˥
 \sf <nb="B"> 2013
 \sf <nb="2011"> 3082
-\ph yeyo
+\or yeyo
 \bw <langue="cmn"> 洋芋
 \ps n
 \sd <langue="fra"> plante
@@ -23004,7 +23005,7 @@
 \hm 1
 \sf <nb="B"> 767
 \sf <nb="2011"> 1162
-\ph yoku
+\or yoku
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -23024,7 +23025,7 @@
 
 \lx jo˩-kʰv̩˩
 \hm 2
-\ph yo kuq
+\or yo kuq
 \ps adj
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -23039,7 +23040,7 @@
 \dt 14/Jun/2017
 
 \lx jo˩lo˩
-\ph yolo
+\or yolo
 \ps n
 \cf jo˩˧
 \sd <langue="fra"> espace
@@ -23056,7 +23057,7 @@
 \dt 02/Sep/2015
 
 \lx jo˧lv̩#˥
-\ph yolu
+\or yolu
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
@@ -23078,7 +23079,7 @@
 \lx jo˧mi˧
 \sf <nb="B"> 1889b
 \sf <nb="2011"> 2873
-\ph yomi
+\or yomi
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -23101,7 +23102,7 @@
 \dt 02/Sep/2015
 
 \lx jo˧mi˧-ʁwɤ˧
-\ph Yomiwua
+\or Yomiwua
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -23117,7 +23118,7 @@
 \dt 24/Apr/2017
 
 \lx jo˧mv̩#˥
-\ph Yomu
+\or Yomu
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -23137,7 +23138,7 @@
 \dt 08/May/2017
 
 \lx jɤ˧ŋɤ˧
-\ph Yenge
+\or Yenge
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -23158,7 +23159,7 @@
 \dt 14/Jun/2017
 
 \lx jɤ˩pæ˧sɯ˥$
-\ph Yebaesi
+\or Yebaesi
 \ps n
 \cf pæ˧sɯ˧
 \sd <langue="fra"> nom propre
@@ -23184,7 +23185,7 @@
 
 \lx jɤ˩po˧
 \sf <nb="2011"> 1725
-\ph yebo
+\or yebo
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -23209,7 +23210,7 @@
 \lx jo˩pv̩˧
 \sf <nb="B"> 417b
 \sf <nb="2011"> 528
-\ph yobu
+\or yobu
 \bw <langue="cmn"> 油布
 \ps n
 \sd <langue="fra"> vêtement
@@ -23234,7 +23235,7 @@
 \dt 02/Sep/2015
 
 \lx jo˩pʰv̩˩
-\ph yopu
+\or yopu
 \ps n
 \cf po˧lo˧
 \sd <langue="fra"> animal
@@ -23261,7 +23262,7 @@
 \dt 03/Aug/2017
 
 \lx jɤ˧qʰɑ˧-pɤ˥jɤ˩-mo˩
-\ph yekhabeyemo
+\or yekhabeyemo
 \ps n
 \cf njo˩kæ˧tɕi˩˥
 \sd <langue="fra"> plante
@@ -23279,7 +23280,7 @@
 
 \lx jɤ˧qʰɑ#˥
 \sf <nb="2011"> 3018
-\ph yekha
+\or yekha
 \ps n
 \cf jɤ˧gɯ˩
 \sd <langue="fra"> plante
@@ -23302,7 +23303,7 @@
 \lx jo˩ʂwæ˩
 \sf <nb="B"> 1890b
 \sf <nb="2011"> 2872
-\ph yoshuae
+\or yoshuae
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -23322,7 +23323,7 @@
 
 \lx jɤ˩tʰi˧-ʁæ˩bæ˩
 \sf <nb="2011"> 726
-\ph yeti hraebbae
+\or yeti hraebbae
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -23341,7 +23342,7 @@
 \dt 02/Sep/2015
 
 \lx jɤ˧wo˧˥
-\ph ye'uo
+\or ye'uo
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -23364,7 +23365,7 @@
 \lx jo˩zo˩
 \sf <nb="B"> 1891
 \sf <nb="2011"> 2874
-\ph yosso
+\or yosso
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -23389,7 +23390,7 @@
 
 \lx jɤ˩α
 \hm 1
-\ph yeq
+\or yeq
 \ps v
 \cf tɕɯ˧ɭɯ˧
 \sd <langue="fra"> verbe
@@ -23416,7 +23417,7 @@
 \lx jɤ˩α
 \sf <nb="2011"> 1433
 \hm 2
-\ph yeq
+\or yeq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -23442,7 +23443,7 @@
 
 \lx jɤ˧˥α
 \hm 1
-\ph ye
+\or ye
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -23459,7 +23460,7 @@
 
 \lx jɤ˧˥α
 \hm 2
-\ph ye
+\or ye
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -23484,7 +23485,7 @@
 
 \lx kæ˧ʈʂe˧
 \sf <nb="2011"> 1628
-\ph gaezhei
+\or gaezhei
 \bw <langue="cmn"> 干针
 \ps n
 \sd <langue="fra"> médecine
@@ -23508,7 +23509,7 @@
 \lx kæ˧ʈʂɯ˧
 \sf <nb="B"> 2033
 \sf <nb="2011"> 3132
-\ph gaezhi
+\or gaezhi
 \bw <langue="cmn"> 甘蔗
 \ps n
 \sd <langue="fra"> plante
@@ -23528,7 +23529,7 @@
 \lx kʰi˧˥
 \sf <nb="B"> 1756d
 \sf <nb="2011"> 2584
-\ph ki
+\or ki
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -23555,7 +23556,7 @@
 \dt 03/Sep/2015
 
 \lx kʰi˥
-\ph ki
+\or ki
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -23578,7 +23579,7 @@
 \sf <nb="B"> 465
 \sf <nb="2011"> 634
 \hm 1
-\ph ki
+\or ki
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -23606,7 +23607,7 @@
 \lx kʰi˥
 \sf <nb="2011"> 67
 \hm 2
-\ph ki
+\or ki
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -23625,7 +23626,7 @@
 \lx kʰi˧bɤ#˥
 \sf <nb="B"> 466
 \sf <nb="2011"> 636
-\ph kibbe
+\or kibbe
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -23648,7 +23649,7 @@
 \dt 03/Sep/2015
 
 \lx kʰi˧-bv̩˧lv̩˩
-\ph kibbulu
+\or kibbulu
 \ps n
 \cf <type="synonyme"> kʰi˧-qʰwɤ˩
 \sd <langue="fra"> maison
@@ -23667,7 +23668,7 @@
 \dt 24/Apr/2017
 
 \lx ki˧li˥
-\ph gili
+\or gili
 \ps adv
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
@@ -23686,7 +23687,7 @@
 \lx ki˩mi˧
 \sf <nb="B"> 1808
 \sf <nb="2011"> 2748
-\ph gimi
+\or gimi
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -23708,7 +23709,7 @@
 \lx kʰi˧mi˧
 \sf <nb="B"> 467
 \sf <nb="2011"> 637
-\ph kimi
+\or kimi
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -23729,7 +23730,7 @@
 \dt 03/Sep/2015
 
 \lx kʰi˧qʰv̩#˥
-\ph kikheu
+\or kikheu
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -23758,7 +23759,7 @@
 \dt 13/Jun/2017
 
 \lx kʰi˧-qʰwɤ˩
-\ph kikhua
+\or kikhua
 \ps n
 \sy kʰi˧-bv̩˧lv̩˩
 \sd <langue="fra"> maison
@@ -23777,7 +23778,7 @@
 \dt 24/Apr/2017
 
 \lx ki˩tɑ#˥
-\ph gida
+\or gida
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -23797,7 +23798,7 @@
 \dt 03/Sep/2015
 
 \lx kʰi˧tɕʰɯ˩-mo˩
-\ph kiqimo
+\or kiqimo
 \ps n
 \sy ʈʂæ˧mo#˥
 \sd <langue="fra"> plante
@@ -23819,7 +23820,7 @@
 
 \lx ki˩ti#˥
 \sf <nb="2011"> 548
-\ph gidi
+\or gidi
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
@@ -23837,7 +23838,7 @@
 \dt 03/Sep/2015
 
 \lx ki˧zo˧-ɖɯ˩mɑ˩
-\ph Gisso Ddeema
+\or Gisso Ddeema
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -23854,7 +23855,7 @@
 
 \lx ki˧zo˧-ɬɑ˩mv̩˩
 \sf <nb="2011"> 3287
-\ph Gisso Lhamu
+\or Gisso Lhamu
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -23870,7 +23871,7 @@
 \dt 24/Apr/2017
 
 \lx ki˧zo#˥
-\ph Gisso
+\or Gisso
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -23886,7 +23887,7 @@
 \dt 03/Sep/2015
 
 \lx ki˩α
-\ph giq
+\or giq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -23923,7 +23924,7 @@
 \sf <nb="B"> 2162
 \sf <nb="B"> 1574
 \sf <nb="2011"> 1841
-\ph gi
+\or gi
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -23976,7 +23977,7 @@
 \dt 03/Sep/2015
 
 \lx ki˥α
-\ph gi
+\or gi
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -24012,7 +24013,7 @@
 \lx ko˧˥
 \sf <nb="2011"> 1357
 \hm 1
-\ph goq
+\or goq
 \bw <langue="cmn"> 过
 \ps adv
 \sd <langue="fra"> morphosyntaxe
@@ -24030,7 +24031,7 @@
 
 \lx ko˧˥
 \hm 2
-\ph goq
+\or goq
 \bw <langue="cmn"> 过
 \ps v
 \sd <langue="fra"> verbe
@@ -24051,7 +24052,7 @@
 \dt 24/Jul/2017
 
 \lx ko˥
-\ph go
+\or go
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -24071,7 +24072,7 @@
 \lx kɤ˩
 \sf <nb="B"> 519a
 \sf <nb="2011"> 735
-\ph ge
+\or ge
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -24102,7 +24103,7 @@
 \lx kɤ˩˧
 \sf <nb="B"> 1797
 \sf <nb="2011"> 2689
-\ph geq
+\or geq
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -24137,7 +24138,7 @@
 \lx kɤ˧˥
 \sf <nb="B"> 1433
 \sf <nb="2011"> 2075
-\ph geq
+\or geq
 \ps v
 \cf kɤ˩kɤ˧˥
 \sd <langue="fra"> verbe
@@ -24162,7 +24163,7 @@
 \lx kʰo˥
 \sf <nb="B"> 1746
 \sf <nb="2011"> 2581
-\ph ko
+\or ko
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -24188,7 +24189,7 @@
 \sf <nb="B"> 1626b
 \sf <nb="2011"> 2415
 \hm 1
-\ph keq
+\or keq
 \ps v
 \cf hɑ̃˧˥1
 \sd <langue="fra"> verbe
@@ -24211,7 +24212,7 @@
 \sf <nb="B"> 598
 \sf <nb="2011"> 839
 \hm 2
-\ph keq
+\or keq
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -24232,7 +24233,7 @@
 \dt 03/Sep/2015
 
 \lx kɤ˩β
-\ph geq
+\or geq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -24254,7 +24255,7 @@
 \dt 15/Jun/2017
 
 \lx kʰo˧bɤ˧
-\ph kobbe
+\or kobbe
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -24284,7 +24285,7 @@
 \dt 15/Jun/2017
 
 \lx kʰɤ˧ɕjɤ˧
-\ph kexe
+\or kexe
 \ps v
 \ton M
 \lc kʰɤ˧ɕjɤ˧
@@ -24314,7 +24315,7 @@
 \lx ko˧ɖæ#˥
 \sf <nb="B"> 667
 \sf <nb="2011"> 994
-\ph goddae
+\or goddae
 \bw <langue="bod"> sku-vdra (sku-'dra)
 \ps n
 \sd <langue="fra"> religion
@@ -24343,7 +24344,7 @@
 \lx ko˩dze˧
 \sf <nb="B"> 1808
 \sf <nb="2011"> 2748
-\ph gozzei
+\or gozzei
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -24365,7 +24366,7 @@
 \lx kɤ˧dzi˧
 \sf <nb="B"> 2255b
 \sf <nb="2011"> 600
-\ph gezzee
+\or gezzee
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -24387,7 +24388,7 @@
 
 \lx ko˩dʑo˩
 \sf <nb="2011"> 2702
-\ph gojjo
+\or gojjo
 \ps n
 \ton L
 \lc ko˩dʑo˩˥
@@ -24408,7 +24409,7 @@
 \lx ko˩ɖʐo˩
 \sf <nb="B"> 1963
 \sf <nb="2011"> 810
-\ph gozzho
+\or gozzho
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -24430,7 +24431,7 @@
 \lx kɤ˧kɤ˩
 \sf <nb="B"> 1111
 \sf <nb="2011"> 601
-\ph gege
+\or gege
 \ps adv
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -24467,7 +24468,7 @@
 \lx ko˧li#˥
 \sf <nb="B"> 530c
 \sf <nb="2011"> 763
-\ph goli
+\or goli
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -24487,7 +24488,7 @@
 \dt 03/Sep/2015
 
 \lx kɤ˧ljɤ˩
-\ph gelia
+\or gelia
 \bw <langue="cmn"> 高粱
 \ps n
 \cf hæ˧ɭɯ#˥
@@ -24507,7 +24508,7 @@
 \lx kɤ˩lo˧˥
 \sf <nb="B"> 2121
 \sf <nb="2011"> 3258
-\ph gelo
+\or gelo
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -24539,7 +24540,7 @@
 
 \lx kʰo˧lo˧
 \sf <nb="2011"> 136
-\ph kolo
+\or kolo
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
@@ -24560,7 +24561,7 @@
 
 \lx kɤ˧mi˧
 \hm 1
-\ph gemi
+\or gemi
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -24587,7 +24588,7 @@
 \sf <nb="B"> 525
 \sf <nb="2011"> 737
 \hm 2
-\ph gemi
+\or gemi
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -24609,7 +24610,7 @@
 
 \lx kʰɤ˧mi˥$
 \sf <nb="2011"> 840
-\ph kemi
+\or kemi
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -24632,7 +24633,7 @@
 \lx kɤ˧mv̩˧˥
 \sf <nb="B"> 2197
 \sf <nb="2011"> 3310
-\ph Gemu
+\or Gemu
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -24663,7 +24664,7 @@
 \lx kɤ˩-nɑ˧mi˧
 \sf <nb="B"> 1796
 \sf <nb="2011"> 2683
-\ph genami
+\or genami
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -24685,7 +24686,7 @@
 
 \lx kʰɤ˩njɤ˩~kʰɤ˧njɤ˧
 \sf <nb="2011"> 1426
-\ph kenya kenya
+\or kenya kenya
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -24704,7 +24705,7 @@
 \dt 24/Apr/2017
 
 \lx ko˧no˧-ʁo#˥
-\ph gonowo
+\or gonowo
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -24722,7 +24723,7 @@
 \dt 24/Apr/2017
 
 \lx kɤ˩pʰv̩˩
-\ph gepu
+\or gepu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -24745,7 +24746,7 @@
 \dt 03/Aug/2017
 
 \lx ko˩qʰɑ˧-dʑɯ#˥
-\ph gokhajji
+\or gokhajji
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -24767,7 +24768,7 @@
 \dt 15/Jun/2017
 
 \lx kʰɤ˧ʂɯ˧
-\ph keshi
+\or keshi
 \bw <langue="cmn"> 开始
 \ps v
 \sd <langue="fra"> verbe
@@ -24784,7 +24785,7 @@
 \dt 03/Sep/2015
 
 \lx ko˧sɯ#˥
-\ph gosi
+\or gosi
 \bw <langue="cmn"> 公司
 \ps n
 \sd <langue="fra"> société
@@ -24801,7 +24802,7 @@
 \dt 03/Sep/2015
 
 \lx kɤ˧˥tʰɑ˩
-\ph Geta
+\or Geta
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -24823,7 +24824,7 @@
 \dt 24/Apr/2017
 
 \lx kɤ˩-tjɤ˧ljɤ#˥
-\ph gedialia
+\or gedialia
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -24848,7 +24849,7 @@
 \sf <nb="B"> 1124
 \sf <nb="2011"> 953
 \hm 1
-\ph gezhi
+\or gezhi
 \ps v
 \cf kɤ˧ʈʂɯ˩2
 \sd <langue="fra"> langage
@@ -24905,7 +24906,7 @@
 
 \lx kɤ˧ʈʂɯ˩
 \hm 2
-\ph gezhi
+\or gezhi
 \ps n
 \cf kɤ˧ʈʂɯ˩1
 \ton L#
@@ -24946,7 +24947,7 @@
 
 \lx kɤ˧v̩#˥
 \sf <nb="2011"> 558
-\ph gevu
+\or gevu
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
@@ -24970,7 +24971,7 @@
 \dt 03/Sep/2015
 
 \lx kɤ˧wɤ#˥
-\ph ge'ua
+\or ge'ua
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
@@ -24991,7 +24992,7 @@
 
 \lx kɤ˩zo˩
 \hm 1
-\ph gesso
+\or gesso
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -25008,7 +25009,7 @@
 
 \lx kɤ˩zo˩
 \hm 2
-\ph gesso
+\or gesso
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -25025,7 +25026,7 @@
 \dt 03/Sep/2015
 
 \lx kɤ˧zo˧-tsʰɯ˩ɻ̍˩
-\ph Gesso Ci'er
+\or Gesso Ci'er
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -25041,7 +25042,7 @@
 \dt 24/Apr/2017
 
 \lx kɤ˧zo#˥
-\ph Gesso
+\or Gesso
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -25058,7 +25059,7 @@
 
 \lx kʰɤ˧zo˥$
 \sf <nb="2011"> 841
-\ph kesso
+\or kesso
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -25081,7 +25082,7 @@
 \sf <nb="B"> 1388
 \sf <nb="B"> 1479
 \sf <nb="2011"> 1974
-\ph goq
+\or goq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -25122,7 +25123,7 @@
 
 \lx ko˧α
 \sf <nb="2011"> 1246
-\ph go
+\or go
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -25142,7 +25143,7 @@
 \lx kɤ˩α
 \sf <nb="B"> 863
 \sf <nb="2011"> 1262
-\ph ge
+\or ge
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -25172,7 +25173,7 @@
 \sf <nb="B"> 2188
 \sf <nb="2011"> 1244
 \hm 1
-\ph ge
+\or ge
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -25198,7 +25199,7 @@
 \sf <nb="B"> 877
 \sf <nb="2011"> 1290
 \hm 2
-\ph ge
+\or ge
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -25220,7 +25221,7 @@
 \lx kʰɤ˧˥α
 \sf <nb="B"> 856
 \sf <nb="2011"> 1255
-\ph ke
+\or ke
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -25241,7 +25242,7 @@
 \lx kɤ˩~kɤ˧˥
 \sf <nb="B"> 1433b
 \sf <nb="2011"> 2077
-\ph gege
+\or gege
 \ps v
 \cf kɤ˧˥
 \sd <langue="fra"> verbe
@@ -25279,7 +25280,7 @@
 \lx kɯ˧
 \sf <nb="B"> 5a
 \sf <nb="2011"> 9
-\ph gee
+\or gee
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -25315,7 +25316,7 @@
 \lx kɯ˥
 \sf <nb="B"> 1002
 \sf <nb="2011"> 1423
-\ph gee
+\or gee
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -25345,7 +25346,7 @@
 \sf <nb="B"> 156
 \sf <nb="B"> 223
 \sf <nb="2011"> 223
-\ph gee
+\or gee
 \ps n
 \sn 1
 \sd <langue="fra"> corps
@@ -25381,7 +25382,7 @@
 \lx kʰɯ˩
 \sf <nb="B"> 408
 \sf <nb="2011"> 517
-\ph kee
+\or kee
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
@@ -25406,7 +25407,7 @@
 \sf <nb="B"> 2307
 \sf <nb="2011"> 1807
 \hm 1
-\ph keeq
+\or keeq
 \ps v
 \sn 1
 \sd <langue="fra"> verbe
@@ -25485,7 +25486,7 @@
 \lx kʰɯ˧˥
 \sf <nb="2011"> 2154
 \hm 2
-\ph keeq
+\or keeq
 \ps v
 \lc kʰɯ˧˥
 \sd <langue="fra"> verbe
@@ -25515,7 +25516,7 @@
 \sf <nb="B"> 1205a
 \sf <nb="2011"> 1740
 \hm 3
-\ph keeq
+\or keeq
 \ps v
 \lc kʰɯ˧˥
 \sd <langue="fra"> verbe
@@ -25541,7 +25542,7 @@
 \dt 03/Sep/2015
 
 \lx kɯ˧β
-\ph gee
+\or gee
 \ps clf
 \lc ɖɯ˧ kɯ˧
 \sd <langue="fra"> classificateur
@@ -25560,7 +25561,7 @@
 \sf <nb="B"> 845
 \sf <nb="B"> 2187
 \sf <nb="2011"> 1242
-\ph kee
+\or kee
 \ps clf
 \lc ɖɯ˧ kʰɯ˩
 \sd <langue="fra"> classificateur
@@ -25598,7 +25599,7 @@
 \lx kʰɯ˧di˧˥
 \sf <nb="B"> 524e
 \sf <nb="2011"> 752
-\ph keeddi
+\or keeddi
 \ps n
 \lc kʰɯ˧di˧˥
 \sd <langue="fra"> objet
@@ -25619,7 +25620,7 @@
 \lx kʰɯ˧dv̩#˥
 \sf <nb="B"> 369
 \sf <nb="2011"> 429
-\ph keeddu
+\or keeddu
 \ps n
 \lc kʰɯ˧dv̩˧
 \sd <langue="fra"> société
@@ -25656,7 +25657,7 @@
 \lx kʰɯ˧dʑɯ˧˥
 \sf <nb="B"> 432
 \sf <nb="2011"> 551
-\ph keejji
+\or keejji
 \ps n
 \lc kʰɯ˧dʑɯ˧˥
 \sd <langue="fra"> vêtement
@@ -25681,7 +25682,7 @@
 \dt 24/Apr/2017
 
 \lx kɯ˧ɭɯ˧
-\ph geelee
+\or geelee
 \ps n
 \lc kɯ˧ɭɯ˧
 \sd <langue="fra"> société
@@ -25704,7 +25705,7 @@
 
 \lx kʰɯ˧pi˧
 \sf <nb="2011"> 2544
-\ph keebi
+\or keebi
 \ps v
 \lc kʰɯ˧pi˧
 \sd <langue="fra"> verbe
@@ -25725,7 +25726,7 @@
 \dt 03/Sep/2015
 
 \lx kʰɯ˩pv̩˩
-\ph keebu
+\or keebu
 \ps n
 \cf pv̩˧qʰwɤ˥
 \sd <langue="fra"> vêtement
@@ -25748,7 +25749,7 @@
 \dt 21/Jun/2017
 
 \lx kʰɯ˧pʰv̩˩
-\ph Keepu
+\or Keepu
 \ec <langue="fra"> pied-blanc
 \ps n
 \sd <langue="fra"> ethnies
@@ -25770,7 +25771,7 @@
 \lx kɯ˧qʰæ˧ʂe˧˥
 \sf <nb="B"> 5b
 \sf <nb="2011"> 10
-\ph geekhaeshei
+\or geekhaeshei
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -25792,7 +25793,7 @@
 \lx kɯ˩ɻ̍˧
 \sf <nb="B"> 654
 \sf <nb="2011"> 979
-\ph gee'er
+\or gee'er
 \ps n
 \sd <langue="fra"> musique
 \sd <langue="eng"> music
@@ -25821,7 +25822,7 @@
 
 \lx kʰɯ˧tʰo˧˥
 \sf <nb="2011"> 928
-\ph keeto
+\or keeto
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -25845,7 +25846,7 @@
 \lx kʰɯ˧ʈʂæ˧˥
 \sf <nb="B"> 172
 \sf <nb="2011"> 240
-\ph keezhae
+\or keezhae
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -25869,7 +25870,7 @@
 \sf <nb="B"> 166
 \sf <nb="B"> 174
 \sf <nb="2011"> 231
-\ph keece
+\or keece
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -25891,7 +25892,7 @@
 \dt 03/Sep/2015
 
 \lx kʰɯ˧ʈʂɤ#˥
-\ph keezhe
+\or keezhe
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -25917,7 +25918,7 @@
 \dt 03/Sep/2015
 
 \lx kʰɯ˧tsɯ˧bæ˥
-\ph keezibbae
+\or keezibbae
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
@@ -25933,7 +25934,7 @@
 \dt 21/Jun/2017
 
 \lx kɯ˧ʈʂʰwɤ˩
-\ph geechua
+\or geechua
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -25954,7 +25955,7 @@
 \lx kʰɯ˩ʈɯ˩
 \sf <nb="B"> 2119a
 \sf <nb="2011"> 3253
-\ph keedee
+\or keedee
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -25980,7 +25981,7 @@
 \lx kʰɯ˧tʰv̩#˥
 \sf <nb="B"> 063d
 \sf <nb="2011"> 877
-\ph keetu
+\or keetu
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -26000,7 +26001,7 @@
 \lx kʰɯ˧ʐɯ˥$
 \sf <nb="B"> 396b
 \sf <nb="2011"> 501
-\ph keeri
+\or keeri
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -26019,7 +26020,7 @@
 \dt 03/Sep/2015
 
 \lx kɯ˩α
-\ph geeq
+\or geeq
 \ps v
 \lc kɯ˩˥
 \sd <langue="fra"> verbe
@@ -26057,7 +26058,7 @@
 \lx kv̩˧˥
 \sf <nb="B"> 1317
 \sf <nb="2011"> 2138
-\ph guq
+\or guq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -26078,7 +26079,7 @@
 \lx kv̩˥
 \sf <nb="B"> 1967
 \sf <nb="2011"> 2985
-\ph gu
+\or gu
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -26107,7 +26108,7 @@
 \sf <nb="B"> 790
 \sf <nb="B"> 772
 \sf <nb="2011"> 1141
-\ph kuq
+\or kuq
 \ps n
 \sn 1
 \sd <langue="fra"> temps
@@ -26157,7 +26158,7 @@
 
 \lx kʰv̩˥
 \hm 1
-\ph ku
+\or ku
 \ps n
 \lc kʰv̩˧
 \sd <langue="fra"> animal
@@ -26182,7 +26183,7 @@
 \sf <nb="B"> 1281
 \sf <nb="2011"> 1577
 \hm 2
-\ph ku
+\or ku
 \ps v
 \lc kʰv̩˧
 \sd <langue="fra"> verbe
@@ -26209,7 +26210,7 @@
 
 \lx kʰv̩˥
 \hm 3
-\ph ku
+\or ku
 \ps n
 \lc kʰv̩˧
 \sd <langue="fra"> animal
@@ -26249,7 +26250,7 @@
 \sf <nb="B"> 1551
 \sf <nb="2011"> 2424
 \hm 4
-\ph ku
+\or ku
 \ps v
 \lc kʰv̩˧
 \sd <langue="fra"> verbe
@@ -26273,7 +26274,7 @@
 
 \lx kʰv̩˧bv̩˧˥
 \sf <nb="2011"> 609
-\ph kubbu
+\or kubbu
 \ps n
 \lc kʰv̩˧bv̩˧˥
 \sd <langue="fra"> maison
@@ -26294,7 +26295,7 @@
 
 \lx kv̩˧dʑɯ˧˥
 \sf <nb="2011"> 580
-\ph gujji
+\or gujji
 \ps n
 \lc kv̩˧dʑɯ˧˥
 \sd <langue="fra"> maison
@@ -26316,7 +26317,7 @@
 \dt 03/Sep/2015
 
 \lx kv̩˧ʝi˥
-\ph guq yi
+\or guq yi
 \ps adv
 \lc kv̩˧ʝi˥
 \sd <langue="fra"> morphosyntaxe
@@ -26332,7 +26333,7 @@
 \dt 15/Jun/2017
 
 \lx kv̩˧ʝi˥$
-\ph guyi
+\or guyi
 \ps n
 \lc kv̩˧ʝi˥
 \sd <langue="fra"> abstrait
@@ -26349,7 +26350,7 @@
 \dt 15/Jun/2017
 
 \lx kʰv̩˩-kʰɤ˩
-\ph kuke
+\or kuke
 \ps n
 \lc kʰv̩˩kʰɤ˩˥
 \sd <langue="fra"> maison
@@ -26370,7 +26371,7 @@
 \lx kv̩˩kv̩˩
 \sf <nb="B"> 134
 \sf <nb="2011"> 196
-\ph gugu
+\or gugu
 \ps n
 \lc kv̩˩kv̩˩˥
 \cf njɤ˧kv̩˩
@@ -26395,7 +26396,7 @@
 \hm 1
 \sf <nb="B"> 770
 \sf <nb="2011"> 1165
-\ph kuku
+\or kuku
 \ps n
 \lc kʰv̩˧kʰv̩˩
 \sd <langue="fra"> temps
@@ -26416,7 +26417,7 @@
 
 \lx kʰv̩˧-kʰv̩˩
 \hm 2
-\ph ku kuq
+\or ku kuq
 \ps adj
 \lc kʰv̩˧kʰv̩˩
 \sd <langue="fra"> société
@@ -26432,7 +26433,7 @@
 
 \lx kʰv̩˧kwæ˧
 \sf <nb="2011"> 3079
-\ph kuguae
+\or kuguae
 \bw <langue="cmn"> 苦瓜
 \ps n
 \lc kʰv̩˧kwæ˧
@@ -26454,7 +26455,7 @@
 \lx kv̩˧lv̩˧lv̩˥
 \sf <nb="B"> 1966
 \sf <nb="2011"> 2989
-\ph gululu
+\or gululu
 \ps n
 \lc kv̩˧lv̩˧lv̩˥
 \sd <langue="fra"> plante
@@ -26476,7 +26477,7 @@
 \sf <nb="B"> 361
 \sf <nb="B"> 83
 \sf <nb="2011"> 421
-\ph kumae
+\or kumae
 \ps n
 \lc kʰv̩˧mæ˧
 \sd <langue="fra"> société
@@ -26523,7 +26524,7 @@
 \lx kʰv̩˩mi˩
 \sf <nb="B"> 1867
 \sf <nb="2011"> 2842
-\ph kumi
+\or kumi
 \ps n
 \lc kʰv̩˩mi˩˥
 \sd <langue="fra"> animal
@@ -26560,7 +26561,7 @@
 \dt 24/Apr/2017
 
 \lx kʰv̩˧mv̩˥
-\ph kumu
+\or kumu
 \ps n
 \lc kʰv̩˧mv̩˥
 \sd <langue="fra"> animal
@@ -26580,7 +26581,7 @@
 
 \lx kv̩˩nɑ˧˥
 \sf <nb="2011"> 521
-\ph guna
+\or guna
 \ps n
 \lc kv̩˩nɑ˧˥
 \sd <langue="fra"> vêtement
@@ -26604,7 +26605,7 @@
 \dt 24/Apr/2017
 
 \lx kʰv̩˧nɑ˥
-\ph kuna
+\or kuna
 \ec <langue="fra"> sans doute de ‘chien' et ‘noir'
 \ps n
 \lc kʰv̩˧nɑ˥
@@ -26623,7 +26624,7 @@
 \dt 24/Apr/2017
 
 \lx kv̩˧ɲi˥
-\ph gunee
+\or gunee
 \ps adj
 \lc kv̩˧ɲi˥
 \sd <langue="fra"> adjectif
@@ -26649,7 +26650,7 @@
 \lx kʰv̩˧pʰæ˧
 \sf <nb="B"> 2267
 \sf <nb="2011"> 1448
-\ph kupae
+\or kupae
 \ps n
 \lc kʰv̩˧pʰæ˧
 \sd <langue="fra"> société
@@ -26674,7 +26675,7 @@
 \dt 24/Apr/2017
 
 \lx kʰv̩˧-pʰo˥
-\ph kupo
+\or kupo
 \ps n
 \lc kʰv̩˧pʰo˥
 \sd <langue="fra"> temps
@@ -26694,7 +26695,7 @@
 \dt 24/Apr/2017
 
 \lx kʰv̩˧pʰv̩#˥
-\ph kupu
+\or kupu
 \ps n
 \lc kʰv̩˧pʰv̩˧
 \sd <langue="fra"> animal
@@ -26727,7 +26728,7 @@
 \dt 03/Aug/2017
 
 \lx kʰv̩˧qʰwɤ˧˥
-\ph kukhua
+\or kukhua
 \ps n
 \lc kʰv̩˧qʰwɤ˧˥
 \sd <langue="fra"> temps
@@ -26749,7 +26750,7 @@
 
 \lx kv̩˧ʁo˧bv̩˥
 \sf <nb="2011"> 2988
-\ph guwobbu
+\or guwobbu
 \ps n
 \lc kv̩˧ʁo˧bv̩˥
 \sd <langue="fra"> plante
@@ -26773,7 +26774,7 @@
 \sf <nb="B"> 1193
 \sf <nb="B"> 1755
 \sf <nb="2011"> 1708
-\ph kushae
+\or kushae
 \ps v
 \lc kʰv̩˧ʂæ˧˥
 \sd <langue="fra"> verbe
@@ -26797,7 +26798,7 @@
 \lx kv̩˧ʂe˥$
 \sf <nb="B"> 1808
 \sf <nb="2011"> 2748
-\ph gushei
+\or gushei
 \ps n
 \lc kv̩˧ʂe˥
 \sd <langue="fra"> animal
@@ -26823,7 +26824,7 @@
 \lx kʰv̩˧ʂɯ˥
 \sf <nb="B"> 773
 \sf <nb="2011"> 1167
-\ph kushi
+\or kushi
 \ps v
 \lc kʰv̩˧ʂɯ˥
 \sd <langue="fra"> temps
@@ -26844,7 +26845,7 @@
 \lx kʰv̩˧sɯ˧sɯ˩
 \sf <nb="B"> 2178
 \sf <nb="2011"> 3301
-\ph kusisi
+\or kusisi
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -26866,7 +26867,7 @@
 \dt 03/Sep/2015
 
 \lx kv̩˩tɑ˩
-\ph guda
+\or guda
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -26883,7 +26884,7 @@
 \dt 03/Sep/2015
 
 \lx kʰv̩˧tɕʰi˥$
-\ph kuqie
+\or kuqie
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
@@ -26905,7 +26906,7 @@
 \dt 03/Sep/2015
 
 \lx kv̩˧tsʰɑ˥$
-\ph Guca
+\or Guca
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -26937,7 +26938,7 @@
 \lx kʰv̩˧tsʰi˧-bo˥tsʰi˩
 \sf <nb="B"> 1936
 \sf <nb="2011"> 2957
-\ph kuceebbocee
+\or kuceebbocee
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -26960,7 +26961,7 @@
 
 \lx kv̩˧tsʰɤ˩
 \sf <nb="2011"> 2986
-\ph guce
+\or guce
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -26981,7 +26982,7 @@
 \lx kʰv̩˩tsɤ˩mi˥
 \sf <nb="B"> 1868
 \sf <nb="2011"> 2844
-\ph kuzemi
+\or kuzemi
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -27004,7 +27005,7 @@
 \lx kv̩˧ʈʂɯ˧˥
 \sf <nb="B"> 198
 \sf <nb="2011"> 265
-\ph guzhi
+\or guzhi
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -27028,7 +27029,7 @@
 \dt 03/Sep/2015
 
 \lx kʰv̩˧zo˧ | -bo˩zo#˥
-\ph Kusso Bbosso
+\or Kusso Bbosso
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -27046,7 +27047,7 @@
 \dt 24/Apr/2017
 
 \lx kʰv̩˧zo˥$
-\ph Kusso
+\or Kusso
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -27070,7 +27071,7 @@
 \dt 01/Sep/2015
 
 \lx kʰv̩˧zo#˥
-\ph kusso
+\or kusso
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -27111,7 +27112,7 @@
 \sf <nb="B"> 1749
 \sf <nb="2011"> 1707
 \hm 1
-\ph guq
+\or guq
 \ps v
 \lc kv̩˩˥
 \sn 1
@@ -27165,7 +27166,7 @@
 
 \lx kv̩˩α
 \hm 2
-\ph guq
+\or guq
 \ps v
 \lc kv̩˩˥
 \sd <langue="fra"> verbe
@@ -27189,7 +27190,7 @@
 \sf <nb="B"> 790
 \sf <nb="B"> 772
 \sf <nb="2011"> 1141
-\ph ku
+\or ku
 \ps clf
 \lc ɖɯ˧ kʰv̩˧˥
 \sd <langue="fra"> classificateur
@@ -27213,7 +27214,7 @@
 \dt 24/Apr/2017
 
 \lx kwæ˧
-\ph guae
+\or guae
 \bw <langue="cmn"> 管
 \ps v
 \sd <langue="fra"> verbe
@@ -27230,7 +27231,7 @@
 \dt 04/Sep/2015
 
 \lx kwæ˧fæ˥
-\ph guaefae
+\or guaefae
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -27248,7 +27249,7 @@
 \dt 04/Sep/2015
 
 \lx kwɑ˧fæ˩
-\ph Guafae
+\or Guafae
 \bw <langue="cmn"> 官房
 \ps n
 \sd <langue="fra"> société
@@ -27270,7 +27271,7 @@
 
 \lx kʰwæ˧hwæ˩
 \sf <nb="2011"> 1737
-\ph kuaehuae
+\or kuaehuae
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -27285,7 +27286,7 @@
 \dt 04/Sep/2015
 
 \lx kwæ˧pæ˥
-\ph guaepae
+\or guaepae
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -27307,7 +27308,7 @@
 \sf <nb="B"> 443
 \sf <nb="B"> 444
 \sf <nb="2011"> 574
-\ph kuae'er
+\or kuae'er
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
@@ -27338,7 +27339,7 @@
 \dt 15/Jun/2017
 
 \lx kwɑ˧tsʰɑ˧
-\ph guaca
+\or guaca
 \bw <langue="cmn"> 棺材
 \ps n
 \sd <langue="fra"> objet
@@ -27362,7 +27363,7 @@
 \dt 04/Sep/2015
 
 \lx kwæ˧tsɯ˧
-\ph guaezi
+\or guaezi
 \bw <langue="cmn"> 瓜子
 \ps n
 \sd <langue="fra"> plante
@@ -27383,7 +27384,7 @@
 \sf <nb="B"> 520c
 \sf <nb="B"> 436
 \sf <nb="2011"> 742
-\ph gualee
+\or gualee
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -27410,7 +27411,7 @@
 \dt 04/Sep/2015
 
 \lx kwɤ˧pɤ˧
-\ph guabe
+\or guabe
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
@@ -27443,7 +27444,7 @@
 \dt 04/Sep/2015
 
 \lx kʰwɤ˧pʰv̩˧
-\ph kuapu
+\or kuapu
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -27459,7 +27460,7 @@
 \dt 31/Jul/2017
 
 \lx kʰwɤ˧pʰv̩˧-mo˧˥
-\ph kuapumo
+\or kuapumo
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -27477,7 +27478,7 @@
 \lx kwɤ˩to˥
 \sf <nb="B"> 138
 \sf <nb="2011"> 179
-\ph guado
+\or guado
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -27500,7 +27501,7 @@
 \lx kwɤ˩α
 \sf <nb="B"> 861
 \sf <nb="2011"> 1260
-\ph gua
+\or gua
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -27535,7 +27536,7 @@
 \sf <nb="B"> 1469
 \sf <nb="2011"> 2148
 \hm 1
-\ph guaq
+\or guaq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -27565,7 +27566,7 @@
 
 \lx kwɤ˩α
 \hm 2
-\ph guaq
+\or guaq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -27590,7 +27591,7 @@
 \sf <nb="B"> 844
 \sf <nb="B"> 885
 \sf <nb="2011"> 1256
-\ph kua
+\or kua
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -27628,7 +27629,7 @@
 \hm 1
 \sf <nb="B"> 1913
 \sf <nb="2011"> 2900
-\ph la
+\or la
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -27650,7 +27651,7 @@
 
 \lx lɑ˧
 \hm 2
-\ph la
+\or la
 \ps adv
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -27699,7 +27700,7 @@
 \lx lɑ˧
 \sf <nb="2011"> 1313
 \hm 3
-\ph la
+\or la
 \ps adv
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -27722,7 +27723,7 @@
 \sf <nb="B"> 1191b
 \sf <nb="2011"> 2079
 \hm 1
-\ph laq
+\or laq
 \ps v
 \cf lɑ˩~lɑ˧˥
 \sd <langue="fra"> verbe
@@ -27767,7 +27768,7 @@
 \lx lɑ˧˥
 \sf <nb="2011"> 1701
 \hm 2
-\ph laq
+\or laq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -27792,7 +27793,7 @@
 \dt 04/Sep/2015
 
 \lx ɬɑ˧˥
-\ph lhaq
+\or lhaq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -27815,7 +27816,7 @@
 \sf <nb="B"> 1100
 \sf <nb="B"> 29c
 \sf <nb="2011"> 1561
-\ph labbi
+\or labbi
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -27843,7 +27844,7 @@
 \lx læ˧dæ˧qæ˥
 \sf <nb="B"> 146
 \sf <nb="2011"> 214
-\ph laeddaeghae
+\or laeddaeghae
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -27871,7 +27872,7 @@
 \dt 04/Sep/2015
 
 \lx lɑ˧do#˥
-\ph laddo
+\or laddo
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -27889,7 +27890,7 @@
 \lx lɑ˩gv̩˧
 \sf <nb="B"> 951
 \sf <nb="2011"> 1387
-\ph laggu
+\or laggu
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -27915,7 +27916,7 @@
 \lx lɑ˩gv̩˧-lɑ˩ɲi˩
 \sf <nb="B"> 1653
 \sf <nb="2011"> 1388
-\ph laggulani
+\or laggulani
 \et lɑ˩gv̩˧
 \ps adj
 \sd <langue="fra"> adjectif
@@ -27935,7 +27936,7 @@
 \dt 29/Jul/2017
 
 \lx lɑ˧hwɤ˩
-\ph Lahua
+\or Lahua
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -27953,7 +27954,7 @@
 \lx lɑ˩jɤ˧-ɬi˧
 \sf <nb="B"> 788
 \sf <nb="2011"> 1184
-\ph layelhi
+\or layelhi
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -27974,7 +27975,7 @@
 \dt 04/Sep/2015
 
 \lx lɑ˧kɤ˩
-\ph lage
+\or lage
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -27995,7 +27996,7 @@
 \hm 1
 \sf <nb="B"> 762
 \sf <nb="2011"> 1157
-\ph laku
+\or laku
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -28015,7 +28016,7 @@
 
 \lx lɑ˧-kʰv̩˧˥
 \hm 2
-\ph la kuq
+\or la kuq
 \ps adj
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -28033,7 +28034,7 @@
 \sf <nb="B"> 898a
 \sf <nb="2011"> 1316
 \hm 1
-\ph lalha
+\or lalha
 \ps pro
 \cf lɑ˧ɬɑ˧˥2
 \sd <langue="fra"> morphosyntaxe
@@ -28066,7 +28067,7 @@
 \sf <nb="B"> 898a
 \sf <nb="2011"> 1316
 \hm 2
-\ph lalha
+\or lalha
 \ps adj
 \cf lɑ˧ɬɑ˧˥1
 \sd <langue="fra"> morphosyntaxe
@@ -28093,7 +28094,7 @@
 \dt 04/Sep/2015
 
 \lx lɑ˧ɬɑ˧˥
-\ph lalha
+\or lalha
 \hm 3
 \ps cnj
 \sd <langue="fra"> morphosyntaxe
@@ -28116,7 +28117,7 @@
 
 \lx lɑ˧lo˧-ʁwɤ˥
 \sf <nb="2011"> 3333
-\ph Lalowua
+\or Lalowua
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -28137,7 +28138,7 @@
 \dt 24/Apr/2017
 
 \lx lɑ˩mɑ˩
-\ph Lama
+\or Lama
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -28163,7 +28164,7 @@
 \lx lɑ˧mɑ˧
 \sf <nb="B"> 355b
 \sf <nb="2011"> 413
-\ph lama
+\or lama
 \bw <langue="bod"> bla-ma
 \ps n
 \sd <langue="fra"> société
@@ -28187,7 +28188,7 @@
 \dt 04/Sep/2015
 
 \lx lɑ˧mi#˥
-\ph lami
+\or lami
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -28209,7 +28210,7 @@
 \dt 04/Sep/2015
 
 \lx ɬɑ˧mv̩˥$
-\ph Lhamu
+\or Lhamu
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -28225,7 +28226,7 @@
 \dt 04/Sep/2015
 
 \lx lɑ˧ŋwɤ˧
-\ph Langua
+\or Langua
 \ps n
 \ton M
 \lc lɑ˧ŋwɤ˧
@@ -28255,7 +28256,7 @@
 \dt 04/Sep/2015
 
 \lx ɬɑ˧pɤ˩
-\ph lhabe
+\or lhabe
 \ps adv
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -28283,7 +28284,7 @@
 \dt 04/Sep/2015
 
 \lx lɑ˧pʰv̩#˥
-\ph lapu
+\or lapu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -28305,7 +28306,7 @@
 \dt 03/Aug/2017
 
 \lx læ˧ʁæ˧mi˥$
-\ph laehraemi
+\or laehraemi
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -28323,7 +28324,7 @@
 \dt 16/Jun/2017
 
 \lx læ˧ʁæ˧-pʰv̩#˥
-\ph laehraepu
+\or laehraepu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -28347,7 +28348,7 @@
 \lx læ˧ʁæ˥$
 \sf <nb="B"> 1798
 \sf <nb="2011"> 2701
-\ph laehrae
+\or laehrae
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -28369,7 +28370,7 @@
 \dt 16/Jun/2017
 
 \lx ɬɑ˧sɑ˧
-\ph Lhasa
+\or Lhasa
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -28388,7 +28389,7 @@
 \lx lɑ˩tɑ˧
 \sf <nb="B"> 948
 \sf <nb="2011"> 1380
-\ph lada
+\or lada
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -28408,7 +28409,7 @@
 \dt 04/Sep/2015
 
 \lx ɬɑ˧tɑ˥
-\ph lhada
+\or lhada
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -28428,7 +28429,7 @@
 
 \lx lɑ˧tʰɑ˧-di˧˥
 \sf <nb="2011"> 3335
-\ph Lataddi
+\or Lataddi
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -28449,7 +28450,7 @@
 
 \lx lɑ˧tʰɑ˧mi˥-ʈæ˧ʂɯ˧-lɑ˩mv̩˩
 \sf <nb="2011"> 3308
-\ph Latami Daeshi Lamu
+\or Latami Daeshi Lamu
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -28466,7 +28467,7 @@
 
 \lx lɑ˧tʰɑ˧mi˥$
 \sf <nb="2011"> 3307
-\ph Latami
+\or Latami
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -28489,7 +28490,7 @@
 \dt 01/Sep/2015
 
 \lx ɬɑ˧tsʰo#˥
-\ph Lhaco
+\or Lhaco
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -28507,7 +28508,7 @@
 \lx læ˧tsɯ˥
 \sf <nb="B"> 2052
 \sf <nb="2011"> 3167
-\ph laezi
+\or laezi
 \bw <langue="cmn"> 辣子
 \ps n
 \sd <langue="fra"> plante
@@ -28537,7 +28538,7 @@
 \lx lɑ˩ʈʂv̩˩
 \sf <nb="B"> 501
 \sf <nb="2011"> 690
-\ph lazhu
+\or lazhu
 \bw <langue="cmn"> 蜡烛
 \ps n
 \sd <langue="fra"> objet
@@ -28561,7 +28562,7 @@
 \dt 04/Sep/2015
 
 \lx lɑ˧zi˥
-\ph lassee
+\or lassee
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -28581,7 +28582,7 @@
 \dt 04/Sep/2015
 
 \lx lɑ˧zo#˥
-\ph lasso
+\or lasso
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -28605,7 +28606,7 @@
 \lx lɑ˩~lɑ˧˥
 \sf <nb="B"> 1690
 \sf <nb="2011"> 2434
-\ph lala
+\or lala
 \ps v
 \cf lɑ˧˥
 \sd <langue="fra"> verbe
@@ -28628,7 +28629,7 @@
 \dt 24/Apr/2017
 
 \lx lɑ˧~lɑ˧
-\ph lala
+\or lala
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -28647,7 +28648,7 @@
 \lx lɑ˧~lɑ˧β
 \sf <nb="B"> 1687
 \sf <nb="2011"> 2506
-\ph lala
+\or lala
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -28669,7 +28670,7 @@
 \dt 04/Sep/2015
 
 \lx le˩
-\ph li
+\or li
 \ps disc.PTCL
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -28691,7 +28692,7 @@
 \dt 16/Jun/2017
 
 \lx le˧-tɑ˧˥
-\ph leda
+\or leda
 \ps cnj
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -28711,7 +28712,7 @@
 \sf <nb="B"> 1103
 \sf <nb="B"> 1138
 \sf <nb="2011"> 1299
-\ph le'uo
+\or le'uo
 \ps adv
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -28747,7 +28748,7 @@
 \dt 24/Apr/2017
 
 \lx le˧-wo˥
-\ph le'uo
+\or le'uo
 \ps adv
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -28764,7 +28765,7 @@
 \dt 24/Apr/2017
 
 \lx le˧wo˧-tʰo˥tɕo˩
-\ph le'uo tojo
+\or le'uo tojo
 \ps adv
 \ton #H-
 \lc le˧wo˧tʰo˥tɕo˩
@@ -28781,7 +28782,7 @@
 
 \lx le˧‑
 \sf <nb="2011"> 3353
-\ph le-
+\or le-
 \ps pref
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -28800,7 +28801,7 @@
 \lx li˩˥
 \sf <nb="B"> 398
 \sf <nb="2011"> 506
-\ph liq
+\or liq
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -28837,7 +28838,7 @@
 
 \lx ɬi˩
 \hm 1
-\ph lhiq
+\or lhiq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -28862,7 +28863,7 @@
 \sf <nb="B"> 1909
 \sf <nb="2011"> 2895
 \hm 2
-\ph lhiq
+\or lhiq
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -28886,7 +28887,7 @@
 \lx ɬi˧˥
 \sf <nb="B"> 1745
 \sf <nb="2011"> 2580
-\ph lhiq
+\or lhiq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -28913,7 +28914,7 @@
 \sf <nb="B"> ancien
 \sf <nb="B"> 1587)
 \sf <nb="2011"> 1478
-\ph lhi
+\or lhi
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -28939,7 +28940,7 @@
 \lx ɬi˩β
 \sf <nb="B"> 868
 \sf <nb="2011"> 1280
-\ph lhi
+\or lhi
 \ps clf
 \lc ɖɯ˧ ɬi˩
 \sd <langue="fra"> classificateur
@@ -28966,7 +28967,7 @@
 \lx ɬi˧β
 \sf <nb="B"> 774
 \sf <nb="2011"> 1168
-\ph lhi
+\or lhi
 \ps clf
 \lc ɖɯ˧ ɬi˧
 \sd <langue="fra"> classificateur
@@ -28987,7 +28988,7 @@
 \lx ɬi˩bi˩
 \sf <nb="B"> 2007
 \sf <nb="2011"> 3069
-\ph lhibbi
+\or lhibbi
 \ps n
 \lc ɬi˩bi˩˥
 \sd <langue="fra"> plante
@@ -29011,7 +29012,7 @@
 \lx ɬi˧bo#˥
 \sf <nb="B"> 370
 \sf <nb="2011"> 432
-\ph lhibbo
+\or lhibbo
 \ps n
 \lc ɬi˧bo˧
 \sd <langue="fra"> société
@@ -29040,7 +29041,7 @@
 \lx ɬi˧bv̩˧
 \sf <nb="B"> 255
 \sf <nb="2011"> 330
-\ph Lhibbu
+\or Lhibbu
 \ps n
 \lc ɬi˧bv̩˧
 \sd <langue="fra"> ethnies
@@ -29064,7 +29065,7 @@
 
 \lx ɬi˧bv̩˩ | dʑɤ˩tsʰi˧si#˥
 \sf <nb="2011"> 3110
-\ph lhibbu  jjaceesee
+\or lhibbu  jjaceesee
 \ps n
 \lc ɬi˧bv̩˩dʑɤ˩tsʰi˧si˧
 \sd <langue="fra"> plante
@@ -29081,7 +29082,7 @@
 
 \lx ɬi˧bv̩˧-mi#˥
 \sf <nb="2011"> 331
-\ph Lhibbumi
+\or Lhibbumi
 \ps n
 \lc ɬi˧bv̩˧mi˧
 \sd <langue="fra"> ethnies
@@ -29100,7 +29101,7 @@
 
 \lx ɬi˧bv̩˧-zo#˥
 \sf <nb="2011"> 332
-\ph Lhibbusso
+\or Lhibbusso
 \ps n
 \lc ɬi˧bv̩˧zo˧
 \sd <langue="fra"> ethnies
@@ -29120,7 +29121,7 @@
 \lx ɬi˧di˩
 \sf <nb="B"> 2198
 \sf <nb="2011"> 3314
-\ph Lhiddi
+\or Lhiddi
 \ps n
 \lc ɬi˧di˩
 \sd <langue="fra"> lieu
@@ -29140,7 +29141,7 @@
 
 \lx ɬi˧di˩-hĩ˩
 \sf <nb="2011"> 329
-\ph Lhiddihin
+\or Lhiddihin
 \ps n
 \lc ɬi˧di˩hĩ˩
 \sd <langue="fra"> ethnies
@@ -29160,7 +29161,7 @@
 
 \lx ɬi˧dʑɯ˩
 \sf <nb="2011"> 60
-\ph Lhijji
+\or Lhijji
 \ps n
 \lc ɬi˧dʑɯ˩
 \sd <langue="fra"> environnement naturel
@@ -29182,7 +29183,7 @@
 \lx ɬi˧gv̩#˥
 \sf <nb="B"> 699
 \sf <nb="2011"> 1066
-\ph lhiggu
+\or lhiggu
 \ps n
 \lc ɬi˧gv̩˧
 \sd <langue="fra"> espace
@@ -29206,7 +29207,7 @@
 
 \lx ɬi˧hĩ#˥
 \hm 1
-\ph lhihin
+\or lhihin
 \ps n
 \lc ɬi˧hĩ˧
 \sd <langue="fra"> société
@@ -29223,7 +29224,7 @@
 
 \lx ɬi˧hĩ#˥
 \hm 2
-\ph Lhihin
+\or Lhihin
 \ps n
 \lc ɬi˧hĩ˧
 \sd <langue="fra"> société
@@ -29239,7 +29240,7 @@
 \dt 04/Sep/2015
 
 \lx ɬi˧ki˥
-\ph lhigi
+\or lhigi
 \ps n
 \lc ɬi˧ki˥
 \sd <langue="fra"> religion
@@ -29256,7 +29257,7 @@
 \dt 24/Apr/2017
 
 \lx ɬi˧ki#˥
-\ph Lhigi
+\or Lhigi
 \ps n
 \lc ɬi˧ki˧
 \sd <langue="fra"> lieu
@@ -29280,7 +29281,7 @@
 \sf <nb="B"> 776
 \sf <nb="2011"> 8
 \hm 1
-\ph lhimi
+\or lhimi
 \ps n
 \lc ɬi˧mi˧
 \sn 1
@@ -29321,7 +29322,7 @@
 
 \lx ɬi˧mi˧
 \hm 2
-\ph lhimi
+\or lhimi
 \ps n
 \lc ɬi˧mi˧
 \sd <langue="fra"> animal
@@ -29343,7 +29344,7 @@
 \lx ɬi˧mi˧dɑ˧dzɯ#˥
 \sf <nb="B"> 4b
 \sf <nb="2011"> 12
-\ph lhimiddazzi
+\or lhimiddazzi
 \ps n
 \lc ɬi˧mi˧dɑ˧dzɯ˧
 \sd <langue="fra"> environnement naturel
@@ -29373,7 +29374,7 @@
 \lx ɬi˧ɳæ˩
 \sf <nb="B"> 2278
 \sf <nb="2011"> 218
-\ph lhinae
+\or lhinae
 \ps n
 \lc ɬi˧ɳæ˩
 \sd <langue="fra"> corps
@@ -29404,7 +29405,7 @@
 \lx ɬi˧pæ˥
 \sf <nb="B"> 438
 \sf <nb="2011"> 565
-\ph lhibae
+\or lhibae
 \ps n
 \lc ɬi˧pæ˥
 \sd <langue="fra"> vêtement
@@ -29437,7 +29438,7 @@
 \lx li˩pi˥
 \sf <nb="B"> 690b
 \sf <nb="2011"> 1030
-\ph libi
+\or libi
 \ps n
 \lc li˩pi˥
 \sd <langue="fra"> nourriture
@@ -29458,7 +29459,7 @@
 \lx ɬi˧pi˩
 \sf <nb="B"> 112
 \sf <nb="2011"> 167
-\ph lhibi
+\or lhibi
 \ps n
 \lc ɬi˧pi˩
 \sd <langue="fra"> corps
@@ -29485,7 +29486,7 @@
 \dt 24/Apr/2017
 
 \lx li˩pʰv̩˩
-\ph lipeu
+\or lipeu
 \ps n
 \lc li˩pʰv̩˩˥
 \sd <langue="fra"> plante
@@ -29507,7 +29508,7 @@
 
 \lx ɬi˧pv̩˧lv̩˥
 \sf <nb="2011"> 171
-\ph lhibulu
+\or lhibulu
 \ps n
 \lc ɬi˧pv̩˧lv̩˥
 \sd <langue="fra"> corps
@@ -29526,7 +29527,7 @@
 \dt 24/Apr/2017
 
 \lx ɬi˧pʰv̩#˥
-\ph lhipu
+\or lhipu
 \ps n
 \lc ɬi˧pʰv̩˧
 \sd <langue="fra"> animal
@@ -29552,7 +29553,7 @@
 \lx ɬi˧qʰæ#˥
 \sf <nb="B"> 115
 \sf <nb="2011"> 170
-\ph lhikhae
+\or lhikhae
 \ps n
 \lc ɬi˧qʰæ˧
 \sd <langue="fra"> corps
@@ -29577,7 +29578,7 @@
 \lx ɬi˧qʰv̩#˥
 \sf <nb="B"> 113
 \sf <nb="2011"> 168
-\ph lhikheu
+\or lhikheu
 \ps n
 \lc ɬi˧qʰv̩˧
 \sd <langue="fra"> corps
@@ -29605,7 +29606,7 @@
 \lx ɬi˩qʰwɤ˩
 \sf <nb="B"> 422
 \sf <nb="2011"> 533
-\ph lhikhua
+\or lhikhua
 \ps n
 \lc ɬi˩qʰwɤ˩˥
 \sd <langue="fra"> vêtement
@@ -29634,7 +29635,7 @@
 \lx ɬi˩ʁɑ˩
 \sf <nb="B"> 1666b
 \sf <nb="2011"> 1553
-\ph lhihra
+\or lhihra
 \ps adj
 \lc ɬi˩ʁɑ˩˥
 \sd <langue="fra"> adjectif
@@ -29656,7 +29657,7 @@
 
 \lx ɬi˩ʈɯ˩mæ˥
 \sf <nb="2011"> 594
-\ph lhideemae 
+\or lhideemae 
 \ps n
 \lc ɬi˩ʈɯ˩mæ˥
 \sd <langue="fra"> maison
@@ -29684,7 +29685,7 @@
 \lx ɬi˧ʈv̩˥
 \sf <nb="B"> 2071
 \sf <nb="2011"> 3202
-\ph lhideu
+\or lhideu
 \ps n
 \lc ɬi˧ʈv̩˥
 \sd <langue="fra"> plante
@@ -29702,7 +29703,7 @@
 \dt 24/Apr/2017
 
 \lx ɬi˩zo˩
-\ph lhisso
+\or lhisso
 \ps n
 \lc ɬi˩zo˩˥
 \sd <langue="fra"> animal
@@ -29720,7 +29721,7 @@
 \lx li˧ʐv̩˩
 \sf <nb="B"> 2314
 \sf <nb="2011"> 477
-\ph liru
+\or liru
 \ps n
 \lc li˧ʐv̩˩
 \sd <langue="fra"> nourriture
@@ -29739,7 +29740,7 @@
 \lx li˧α
 \sf <nb="B"> 1377
 \sf <nb="2011"> 1961
-\ph li
+\or li
 \ps v
 \sn 1
 \sd <langue="fra"> verbe
@@ -29804,7 +29805,7 @@
 
 \lx lje˩fe˧
 \sf <nb="2011"> 3143
-\ph liafei
+\or liafei
 \bw <langue="cmn"> 凉粉
 \ps n
 \lc lje˩fe˥
@@ -29822,7 +29823,7 @@
 
 \lx ljɤ˩˥
 \hm 1
-\ph liaq
+\or liaq
 \ps n
 \lc ljɤ˩˥
 \sd <langue="fra"> maison
@@ -29841,7 +29842,7 @@
 
 \lx ljɤ˩˥
 \hm 2
-\ph liaq
+\or liaq
 \ps n
 \lc ljɤ˩˥
 \sd <langue="fra"> abstrait
@@ -29868,7 +29869,7 @@
 
 \lx ljɤ˩mi˥
 \sf <nb="2011"> 630
-\ph liami
+\or liami
 \ps n
 \lc ljɤ˩mi˥
 \sd <langue="fra"> maison
@@ -29896,7 +29897,7 @@
 \dt 24/Apr/2017
 
 \lx ljɤ˩mi˥-ʈæ˩qo˩
-\ph liami daegho
+\or liami daegho
 \ps n
 \lc ljɤ˩mi˥ʈæ˩qo˩
 \sd <langue="fra"> maison
@@ -29924,7 +29925,7 @@
 
 \lx ljɤ˩ʂɯ˩
 \sf <nb="2011"> 3012
-\ph liashi
+\or liashi
 \bw <langue="cmn"> 粮食
 \ps n
 \lc ljɤ˩ʂɯ˩˥
@@ -29941,7 +29942,7 @@
 \dt 24/Apr/2017
 
 \lx ljɤ˩α
-\ph lia
+\or lia
 \ps clf
 \lc ɖɯ˧ ljɤ˩
 \sd <langue="fra"> classificateur
@@ -29962,7 +29963,7 @@
 
 \lx lo˩
 \hm 1
-\ph loq
+\or loq
 \ps v
 \lc lo˩˥
 \sd <langue="fra"> verbe
@@ -29985,7 +29986,7 @@
 \sf <nb="B"> 31
 \sf <nb="2011"> 42
 \hm 2
-\ph loq
+\or loq
 \ps n
 \lc lo˧
 \sd <langue="fra"> environnement naturel
@@ -30012,7 +30013,7 @@
 \dt 04/Sep/2015
 
 \lx lo˩˧
-\ph loq
+\or loq
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -30030,7 +30031,7 @@
 \lx lo˧
 \sf <nb="B"> 673
 \sf <nb="2011"> 1005
-\ph lo
+\or lo
 \ps n
 \lc lo˧
 \sn 1
@@ -30077,7 +30078,7 @@
 \sf <nb="B"> 932
 \sf <nb="2011"> 1353
 \hm 1
-\ph loq
+\or loq
 \ps adj
 \lc lo˧˥
 \sd <langue="fra"> adjectif
@@ -30103,7 +30104,7 @@
 
 \lx lo˧˥
 \hm 2
-\ph loq
+\or loq
 \ps v
 \lc lo˧˥
 \sd <langue="fra"> verbe
@@ -30131,7 +30132,7 @@
 \lx ɬo˧˥
 \sf <nb="B"> 934
 \sf <nb="2011"> 1355
-\ph lhoq
+\or lhoq
 \ps adj
 \lc ɬo˧˥
 \sd <langue="fra"> adjectif
@@ -30152,7 +30153,7 @@
 \lx ɬo˥
 \sf <nb="B"> 218b
 \sf <nb="2011"> 289
-\ph lho
+\or lho
 \ps n
 \lc ɬo˧
 \sd <langue="fra"> corps
@@ -30178,7 +30179,7 @@
 \dt 24/Apr/2017
 
 \lx lo˩β
-\ph lo
+\or lo
 \ps clf
 \lc ɖɯ˧ lo˩
 \sd <langue="fra"> classificateur
@@ -30204,7 +30205,7 @@
 \dt 24/Apr/2017
 
 \lx lo˧β
-\ph lo
+\or lo
 \ps clf
 \lc ɖɯ˧ lo˧
 \sd <langue="fra"> classificateur
@@ -30220,7 +30221,7 @@
 \dt 24/Apr/2017
 
 \lx lo˧bæ˧˥
-\ph lobbae
+\or lobbae
 \ps n
 \lc lo˧bæ˧˥
 \sd <langue="fra"> société
@@ -30239,7 +30240,7 @@
 \sf <nb="B"> 187
 \sf <nb="B"> 188
 \sf <nb="2011"> 253
-\ph lobbe
+\or lobbe
 \ps n
 \lc lo˩bɤ˩˥
 \sd <langue="fra"> corps
@@ -30264,7 +30265,7 @@
 
 \lx lo˩bv̩˧-ɭɯ˩
 \sf <nb="2011"> 252
-\ph lobbulee
+\or lobbulee
 \ps n
 \lc lo˩bv̩˧ɭɯ˩
 \sd <langue="fra"> corps
@@ -30286,7 +30287,7 @@
 \lx lo˧bv̩˩-ʈʂʰɯ˩
 \sf <nb="B"> 1852
 \sf <nb="2011"> 2811
-\ph lobbuchi
+\or lobbuchi
 \bw <langue="bod">
 \ps n
 \lc lo˧bv̩˩ʈʂʰɯ˩
@@ -30316,7 +30317,7 @@
 
 \lx lo˩ɖɯ˧
 \sf <nb="2011"> 1530
-\ph loddee
+\or loddee
 \ec <langue="fra"> ‘(qui a une) grande main'
 \ec <langue="eng"> ‘(having a) large hand'
 \ps adj
@@ -30338,7 +30339,7 @@
 \lx lo˩dv̩#˥
 \sf <nb="B"> 2284
 \sf <nb="2011"> 428
-\ph loddu
+\or loddu
 \ps n
 \lc lo˩dv̩˥
 \sd <langue="fra"> société
@@ -30358,7 +30359,7 @@
 
 \lx lo˩dzi˩
 \sf <nb="2011"> 1258
-\ph lozzee
+\or lozzee
 \ps clf
 \lc ɖɯ˧ lo˩dzi˩
 \sd <langue="fra"> classificateur
@@ -30379,7 +30380,7 @@
 \lx lo˩dʑo˥
 \sf <nb="B"> 441
 \sf <nb="2011"> 569
-\ph lojjo
+\or lojjo
 \ps n
 \lc lo˩dʑo˥
 \sd <langue="fra"> vêtement
@@ -30420,7 +30421,7 @@
 
 \lx lo˧ɖʐɤ˩
 \sf <nb="2011"> 831
-\ph lozzhe
+\or lozzhe
 \ps n
 \lc lo˧ɖʐɤ˩
 \sd <langue="fra"> agriculture
@@ -30444,7 +30445,7 @@
 \lx lo˧fv̩˧
 \sf <nb="B"> 1029
 \sf <nb="2011"> 1457
-\ph lofu
+\or lofu
 \ps adj
 \lc lo˧fv̩˧
 \sd <langue="fra"> adjectif
@@ -30465,7 +30466,7 @@
 \dt 24/Apr/2017
 
 \lx lo˧gv̩˩
-\ph Luggu
+\or Luggu
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -30487,7 +30488,7 @@
 \lx lo˩-gv̩˧dv̩˧
 \sf <nb="B"> 189
 \sf <nb="2011"> 255
-\ph logguddu
+\or logguddu
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -30514,7 +30515,7 @@
 \lx lo˧hɑ˧
 \sf <nb="B"> 1026
 \sf <nb="2011"> 1456
-\ph loha
+\or loha
 \ps adj
 \ton M
 \lc lo˧hɑ˧
@@ -30544,7 +30545,7 @@
 \lx lo˧ʝi˧
 \sf <nb="B"> 1279
 \sf <nb="2011"> 1839
-\ph lo yi
+\or lo yi
 \ps v
 \ton M
 \lc lo˧ʝi˧
@@ -30563,7 +30564,7 @@
 \lx lo˧ʝi˧-hĩ˧-hĩ#˥
 \sf <nb="B"> 345
 \sf <nb="2011"> 399
-\ph lo yihin
+\or lo yihin
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -30588,7 +30589,7 @@
 \dt 24/Apr/2017
 
 \lx lo˩jɤ˧
-\ph loye
+\or loye
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -30608,7 +30609,7 @@
 \dt 04/Sep/2015
 
 \lx lo˩ko˧
-\ph logo
+\or logo
 \bw <langue="cmn"> 锣锅
 \ps n
 \sd <langue="fra"> objet
@@ -30633,7 +30634,7 @@
 \lx ɬo˩kɤ˩
 \sf <nb="B"> 218
 \sf <nb="2011"> 290
-\ph lhoge
+\or lhoge
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -30654,7 +30655,7 @@
 \lx ɬo˧kʰv̩˧
 \sf <nb="B"> 161b
 \sf <nb="2011"> 228
-\ph lhoku
+\or lhoku
 \ps n
 \sy ɬo˩tsʰe˩mæ˥
 \sd <langue="fra"> corps
@@ -30676,7 +30677,7 @@
 \lx lo˧lo˧
 \sf <nb="B"> 251
 \sf <nb="2011"> 317
-\ph Lolo
+\or Lolo
 \ps n
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
@@ -30699,7 +30700,7 @@
 
 \lx lo˩mæ˩
 \sf <nb="2011"> 3336
-\ph Lomae 
+\or Lomae 
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -30719,7 +30720,7 @@
 \lx lo˩mi˧
 \sf <nb="B"> 193
 \sf <nb="2011"> 258
-\ph lomi
+\or lomi
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -30744,7 +30745,7 @@
 \lx lo˩mi˧-qɑ˩
 \sf <nb="B"> 160
 \sf <nb="2011"> 259
-\ph lomigha
+\or lomigha
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -30767,7 +30768,7 @@
 \dt 24/Apr/2017
 
 \lx lo˧nɑ˥-bv̩˩
-\ph lonabbu
+\or lonabbu
 \ps n
 \ton H#-
 \lc lo˧nɑ˥bv̩˩
@@ -30790,7 +30791,7 @@
 \lx lo˧ɲi˥
 \sf <nb="B"> 192
 \sf <nb="2011"> 257
-\ph loni
+\or loni
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -30814,7 +30815,7 @@
 \lx lo˧ɲi˥ | ɖɯ˧ɭɯ˧
 \sf <nb="B"> 194
 \sf <nb="2011"> 261
-\ph loni ddeelee
+\or loni ddeelee
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -30832,7 +30833,7 @@
 \lx lo˧ɲi˥ | ɲi˧ɭɯ˧
 \sf <nb="B"> 195
 \sf <nb="2011"> 262
-\ph loni nilee
+\or loni nilee
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -30852,7 +30853,7 @@
 \lx lo˧ɲi˥ | so˧-ɭɯ˧
 \sf <nb="B"> 196
 \sf <nb="2011"> 263
-\ph loni solee
+\or loni solee
 \ps n
 \ton H# | M
 \lc lo˧ɲi˥so˧-ɭɯ˧
@@ -30868,7 +30869,7 @@
 \dt 24/Apr/2017
 
 \lx ɬo˧pɤ˥
-\ph lhobe
+\or lhobe
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -30902,7 +30903,7 @@
 \lx lo˩pv̩˧˥
 \sf <nb="B"> 440
 \sf <nb="2011"> 568
-\ph lobu
+\or lobu
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
@@ -30934,7 +30935,7 @@
 \lx ɬo˧pv̩˥   
 \sf <nb="B"> 1392
 \sf <nb="2011"> 1978
-\ph lhobu
+\or lhobu
 \ps n
 \cf ɬo˧˥1
 \sd <langue="fra"> religion
@@ -30964,7 +30965,7 @@
 \lx lo˩qʰv̩˩
 \sf <nb="B"> 32
 \sf <nb="2011"> 43
-\ph lokheu
+\or lokheu
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -30986,7 +30987,7 @@
 \sf <nb="B"> 181
 \sf <nb="B"> 186
 \sf <nb="2011"> 249
-\ph lokhua
+\or lokhua
 \ps n
 \sn 1
 \sd <langue="fra"> corps
@@ -31030,7 +31031,7 @@
 
 \lx lo˩qʰwɤ˧-kʰɯ˧ʑi˧˥
 \sf <nb="2011"> 550
-\ph lokhuakeexxi
+\or lokhuakeexxi
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
@@ -31046,7 +31047,7 @@
 \dt 24/Jul/2017
 
 \lx lo˩ʁwæ#˥
-\ph lowae
+\or lowae
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -31062,7 +31063,7 @@
 \dt 04/Sep/2015
 
 \lx lo˧ʂv̩˩
-\ph Loshu
+\or Loshu
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -31080,7 +31081,7 @@
 
 \lx lo˧ʂv̩˩ | hi˩-nɑ˧mi˧
 \sf <nb="2011"> 3313
-\ph Loshu xienami
+\or Loshu xienami
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -31102,7 +31103,7 @@
 \sf <nb="B"> 700
 \sf <nb="B"> 708
 \sf <nb="2011"> 1040
-\ph lhoda
+\or lhoda
 \ps prep
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
@@ -31132,7 +31133,7 @@
 \lx ɬo˧tɑ˧-ɬo˩ɲi˩
 \sf <nb="B"> 707
 \sf <nb="2011"> 1055
-\ph lhoda lhoni
+\or lhoda lhoni
 \ps adv
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
@@ -31152,7 +31153,7 @@
 \dt 24/Apr/2017
 
 \lx lo˧tɑ˧-lo˧tɕi#˥
-\ph loda lojie
+\or loda lojie
 \bw <langue="bod"> rlung rta
 \ps n
 \cf nɑ˧ʈʂʰõ˧-õ˩di˩-pɤ˩
@@ -31178,7 +31179,7 @@
 
 \lx lo˩tʰo˧
 \sf <nb="2011"> 928
-\ph loto
+\or loto
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -31203,7 +31204,7 @@
 \sf <nb="B"> 183
 \sf <nb="B"> 191
 \sf <nb="2011"> 250
-\ph lozhae
+\or lozhae
 \ec <langue="fra"> articulations du bras
 \ps n
 \sd <langue="fra"> corps
@@ -31228,7 +31229,7 @@
 \lx ɬo˩tsʰe˩mæ˥
 \sf <nb="B"> 161a
 \sf <nb="2011"> 227
-\ph lhoceimae
+\or lhoceimae
 \ps n
 \sy ɬo˧kʰv̩˧
 \sd <langue="fra"> corps
@@ -31254,7 +31255,7 @@
 \lx lo˩tsʰɯ˥-sɑ˩
 \sf <nb="B"> 1938
 \sf <nb="2011"> 470
-\ph locisa
+\or locisa
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -31275,7 +31276,7 @@
 \sf <nb="B"> 184
 \sf <nb="B"> 185
 \sf <nb="2011"> 251
-\ph lotee
+\or lotee
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -31299,7 +31300,7 @@
 \lx lo˩ʈv̩˧
 \sf <nb="B"> 190
 \sf <nb="2011"> 256
-\ph lodeu
+\or lodeu
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -31324,7 +31325,7 @@
 \sf <nb="B"> 2183
 \sf <nb="B"> 2191
 \sf <nb="2011"> 1252
-\ph lee
+\or lee
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -31363,7 +31364,7 @@
 \dt 19/Jun/2017
 
 \lx ɭɯ˧˥α
-\ph lee
+\or lee
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -31393,7 +31394,7 @@
 \sf <nb="B"> 51a
 \sf <nb="2011"> 84
 \hm 1
-\ph lu
+\or lu
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -31416,7 +31417,7 @@
 
 \lx lv̩˧
 \hm 2
-\ph lu
+\or lu
 \ps n
 \cf ʐwæ˧-ɭɯ#˥
 \sd <langue="fra"> nourriture
@@ -31439,7 +31440,7 @@
 
 \lx lv̩˧
 \hm 3
-\ph lu
+\or lu
 \ps n
 \cf lv̩˧mi˧
 \sd <langue="fra"> environnement naturel
@@ -31463,7 +31464,7 @@
 \lx lv̩˧˥
 \sf <nb="B"> 1829
 \sf <nb="2011"> 2782
-\ph luq
+\or luq
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -31485,7 +31486,7 @@
 \sf <nb="B"> 1083
 \sf <nb="2011"> 1813
 \hm 1
-\ph luq
+\or luq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -31531,7 +31532,7 @@
 \sf <nb="B"> 1532b
 \sf <nb="2011"> 2319
 \hm 2
-\ph luq
+\or luq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -31550,7 +31551,7 @@
 \lx lv̩˥
 \sf <nb="B"> 1187
 \sf <nb="2011"> 1703
-\ph lu
+\or lu
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -31586,7 +31587,7 @@
 \lx ɬv̩˧˥
 \sf <nb="B"> 95
 \sf <nb="2011"> 146
-\ph lhuq
+\or lhuq
 \ps n
 \sn 1
 \sd <langue="fra"> corps
@@ -31620,7 +31621,7 @@
 \dt 04/Sep/2015
 
 \lx lv̩˧bv̩˧
-\ph lubbu
+\or lubbu
 \ps n
 \lc lv̩˧bv̩˧
 \sd <langue="fra"> maison
@@ -31648,7 +31649,7 @@
 
 \lx lv̩˧dʑɯ˥
 \sf <nb="2011"> 683
-\ph lujji
+\or lujji
 \ps n
 \lc lv̩˧dʑɯ˥
 \sd <langue="fra"> objet
@@ -31667,7 +31668,7 @@
 \dt 19/Jun/2017
 
 \lx ɬv̩˧gv̩#˥
-\ph lhuggu
+\or lhuggu
 \ps n
 \lc ɬv̩˧gv̩˧
 \sd <langue="fra"> religion
@@ -31684,7 +31685,7 @@
 
 \lx lv̩˩ʝi˧
 \sf <nb="2011"> 3346
-\ph luyi
+\or luyi
 \bw <langue="cmn"> 录音
 \ps v
 \lc lv̩˩ʝi˥
@@ -31708,7 +31709,7 @@
 \lx lv̩˧mi˧
 \sf <nb="B"> 54
 \sf <nb="2011"> 95
-\ph lumi
+\or lumi
 \ps n
 \lc lv̩˧mi˧
 \sd <langue="fra"> environnement naturel
@@ -31739,7 +31740,7 @@
 \lx lv̩˧mi˧-bo#˥
 \sf <nb="B"> 458
 \sf <nb="2011"> 620
-\ph lumibbo
+\or lumibbo
 \ps n
 \lc lv̩˧mi˧bo˧
 \sd <langue="fra"> maison
@@ -31763,7 +31764,7 @@
 
 \lx lv̩˧mi˧-dʑɯ˧dʑɯ˩
 \sf <nb="2011"> 682
-\ph lumijjijji
+\or lumijjijji
 \ps n
 \lc lv̩˧mi˧dʑɯ˧dʑɯ˩
 \sd <langue="fra"> objet
@@ -31787,7 +31788,7 @@
 \lx ɬv̩˧mi˧mæ˧dv̩˧mi#˥
 \sf <nb="B"> 1844
 \sf <nb="2011"> 2802
-\ph lhumimaeddumi
+\or lhumimaeddumi
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -31812,7 +31813,7 @@
 
 \lx ɬv̩˩pʰæ˩
 \sf <nb="2011"> 1452
-\ph lhupae
+\or lhupae
 \ps adj
 \ton L
 \lc ɬv̩˩pʰæ˩˥
@@ -31832,7 +31833,7 @@
 \sf <nb="B"> 1375
 \sf <nb="2011"> 1958
 \hm 1
-\ph lupu
+\or lupu
 \ec <langue="fra"> retourner un champ? étymologie à rechercher
 \ps v
 \ton L#
@@ -31865,7 +31866,7 @@
 \sf <nb="B"> 52a
 \sf <nb="2011"> 86
 \hm 2
-\ph lupu
+\or lupu
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -31887,7 +31888,7 @@
 \lx lv̩˧qæ#˥
 \sf <nb="B"> 709
 \sf <nb="2011"> 1058
-\ph lughae
+\or lughae
 \ps n
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
@@ -31906,7 +31907,7 @@
 \dt 24/Apr/2017
 
 \lx ɬv̩˧ʁwɤ#˥
-\ph Lhuwua
+\or Lhuwua
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -31924,7 +31925,7 @@
 \lx lv̩˧sɯ˥
 \sf <nb="B"> 257
 \sf <nb="2011"> 336
-\ph Lusi
+\or Lusi
 \ps n
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
@@ -31948,7 +31949,7 @@
 \dt 04/Sep/2015
 
 \lx lv̩˩tɕʰɯ˧
-\ph Luqi
+\or Luqi
 \bw <langue="cmn"> 六区
 \ps n
 \sd <langue="fra"> lieu
@@ -31967,7 +31968,7 @@
 \lx lv̩˩tɕʰɯ˧-hĩ#˥
 \sf <nb="B"> 2222
 \sf <nb="2011"> 3341
-\ph Luqihin
+\or Luqihin
 \bw <langue="cmn"> 六区
 \ps n
 \sd <langue="fra"> lieu
@@ -31989,7 +31990,7 @@
 \lx lv̩˧tsɯ˥
 \sf <nb="B"> 505
 \sf <nb="2011"> 697
-\ph luzi
+\or luzi
 \bw <langue="cmn"> 炉子
 \ps n
 \sd <langue="fra"> objet
@@ -32012,7 +32013,7 @@
 \sf <nb="B"> 1346
 \sf <nb="2011"> 1932
 \hm 1
-\ph luq
+\or luq
 \ps v
 \lc lv̩˩˥
 \sd <langue="fra"> verbe
@@ -32048,7 +32049,7 @@
 \sf <nb="B"> 1370
 \sf <nb="2011"> 1704
 \hm 2
-\ph luq
+\or luq
 \ps v
 \lc lv̩˩˥
 \sd <langue="fra"> verbe
@@ -32094,7 +32095,7 @@
 \sf <nb="B"> 1285
 \sf <nb="2011"> 1842
 \hm 3
-\ph luq
+\or luq
 \ps v
 \lc lv̩˩˥
 \sd <langue="fra"> verbe
@@ -32135,7 +32136,7 @@
 \sf <nb="B"> 1290
 \sf <nb="2011"> 1849
 \hm 4
-\ph luq
+\or luq
 \ps v
 \lc lv̩˩˥
 \sd <langue="fra"> verbe
@@ -32160,7 +32161,7 @@
 \sf <nb="B"> 1164
 \sf <nb="2011"> 1657
 \hm 1
-\ph lhuq
+\or lhuq
 \ps v
 \lc ɬv̩˩˥
 \sd <langue="fra"> verbe
@@ -32187,7 +32188,7 @@
 \sf <nb="B"> 1019
 \sf <nb="2011"> 1451
 \hm 2
-\ph lhuq
+\or lhuq
 \ps adj
 \lc ɬv̩˩˥
 \sd <langue="fra"> adjectif
@@ -32219,7 +32220,7 @@
 \sf <nb="B"> 1465
 \sf <nb="2011"> 2132
 \hm 3
-\ph lhuq
+\or lhuq
 \et ɬv̩˩a 2
 \ps v
 \lc ɬv̩˩˥
@@ -32257,7 +32258,7 @@
 \lx lv̩˩~lv̩˧˥
 \sf <nb="B"> 1224
 \sf <nb="2011"> 1766
-\ph lulu
+\or lulu
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -32293,7 +32294,7 @@
 
 \lx lwæ˩pʰv̩˩
 \sf <nb="2011"> 1402
-\ph luapeu
+\or luapeu
 \ec <langue="fra"> ‘cendres blanches'?
 \ps n
 \sd <langue="fra"> environnement naturel
@@ -32320,7 +32321,7 @@
 \sf <nb="B"> 80
 \sf <nb="B"> 81
 \sf <nb="2011"> 126
-\ph luaq
+\or luaq
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -32352,7 +32353,7 @@
 \dt 04/Sep/2015
 
 \lx mæ˩
-\ph maeq
+\or maeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -32376,7 +32377,7 @@
 \dt 04/Sep/2015
 
 \lx mæ˧
-\ph mae
+\or mae
 \ps disc.PTCL
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -32400,7 +32401,7 @@
 \lx mæ˧
 \sf <nb="2011"> 1479
 \hm 1
-\ph mae
+\or mae
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -32426,7 +32427,7 @@
 
 \lx mæ˧
 \hm 2
-\ph mae
+\or mae
 \ps v
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -32450,7 +32451,7 @@
 \lx mæ˧˥
 \sf <nb="B"> 1715
 \sf <nb="2011"> 1733
-\ph maeq
+\or maeq
 \ps v
 \sn 1
 \sd <langue="fra"> verbe
@@ -32488,7 +32489,7 @@
 \dt 21/Jun/2017
 
 \lx mæ˧β
-\ph mae
+\or mae
 \ps v
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -32510,7 +32511,7 @@
 \lx mɑ˩dzɑ˩
 \sf <nb="B"> 636a
 \sf <nb="2011"> 949
-\ph mazza
+\or mazza
 \ps n
 \lc mɑ˩dzɑ˩˥
 \sd <langue="fra"> objet
@@ -32535,7 +32536,7 @@
 \lx mæ˩ɖʐo˥
 \sf <nb="B"> 555
 \sf <nb="2011"> 792
-\ph maezzho
+\or maezzho
 \ps n
 \lc mæ˩ɖʐo˥
 \sd <langue="fra"> objet
@@ -32565,7 +32566,7 @@
 \lx mæ˩ko˥
 \sf <nb="B"> 553
 \sf <nb="2011"> 790
-\ph maego
+\or maego
 \ps n
 \lc mæ˩ko˥
 \sd <langue="fra"> objet
@@ -32591,7 +32592,7 @@
 \dt 04/Sep/2015
 
 \lx mɑ˩ɳɯ˧-do˥bv̩˩
-\ph maneeddobbu
+\or maneeddobbu
 \ps n
 \lc mɑ˩ɳɯ˧do˥bv̩˩
 \cf mɑ˩ɳɯ#˥, do˩bv̩#˥
@@ -32610,7 +32611,7 @@
 \dt 04/Aug/2017
 
 \lx mɑ˩ɳɯ#˥
-\ph manee
+\or manee
 \ps n
 \lc mɑ˩ɳɯ˥
 \cf mɑ˩ɳɯ˧-do˥bv˩, do˩bv̩#˥
@@ -32631,7 +32632,7 @@
 \lx mæ˧pæ˧
 \sf <nb="B"> 596e
 \sf <nb="2011"> 864
-\ph maebae
+\or maebae
 \ps n
 \lc mæ˧pæ˧
 \sd <langue="fra"> objet
@@ -32657,7 +32658,7 @@
 \lx mɑ˧pʰv̩˧
 \sf <nb="B"> 392a
 \sf <nb="2011"> 491
-\ph mepeu
+\or mepeu
 \ps n
 \lc mɑ˧pʰv̩˧
 \sd <langue="fra"> nourriture
@@ -32682,7 +32683,7 @@
 
 \lx mæ˧qo˩
 \sf <nb="2011"> 1082
-\ph maegheu
+\or maegheu
 \ps adv
 \lc mæ˧qo˩
 \cf -mæ˧qo˩
@@ -32702,7 +32703,7 @@
 \lx mæ˧qv̩˩
 \sf <nb="B"> 1954
 \sf <nb="2011"> 2969
-\ph maegheu
+\or maegheu
 \ps n
 \lc mæ˧qv̩˩
 \sd <langue="fra"> animal
@@ -32730,7 +32731,7 @@
 \lx mæ˧ɻæ˩
 \sf <nb="B"> 393b
 \sf <nb="2011"> 496
-\ph mae'er
+\or mae'er
 \ps n
 \lc mæ˧ɻæ˩
 \sd <langue="fra"> nourriture
@@ -32751,7 +32752,7 @@
 \lx mæ˧ɻ̃#˥
 \sf <nb="B"> 2257
 \sf <nb="2011"> 229
-\ph mae'eun
+\or mae'eun
 \ps n
 \lc mæ˧ɻ̃˧
 \sd <langue="fra"> corps
@@ -32772,7 +32773,7 @@
 \dt 19/Jun/2017
 
 \lx mɑ˧tsɑ˥
-\ph maza
+\or maza
 \ps n
 \lc mɑ˧tsɑ˥
 \sd <langue="fra"> abstrait
@@ -32801,7 +32802,7 @@
 \sf <nb="B"> 1482
 \sf <nb="B"> 1632
 \sf <nb="2011"> 2172
-\ph maeq
+\or maeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -32836,7 +32837,7 @@
 \sf <nb="B"> 875
 \sf <nb="2011"> 1287
 \hm 1
-\ph mae
+\or mae
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -32860,7 +32861,7 @@
 \sf <nb="B"> 840
 \sf <nb="2011"> 1237
 \hm 2
-\ph mae
+\or mae
 \bw <langue="cmn"> 元, MC *mjonH (Baxter 2000)
 \ps clf
 \sd <langue="fra"> classificateur
@@ -32896,7 +32897,7 @@
 \lx mæ˧α
 \sf <nb="B"> 1738
 \sf <nb="2011"> 2567
-\ph mae
+\or mae
 \ps v
 \sn 1
 \sd <langue="fra"> verbe
@@ -32929,7 +32930,7 @@
 \dt 04/Sep/2015
 
 \lx mi˩˧
-\ph miq
+\or miq
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -32955,7 +32956,7 @@
 \lx mi˧
 \sf <nb="B"> 206
 \sf <nb="2011"> 275
-\ph mi
+\or mi
 \ps n
 \lc mi˧
 \sd <langue="fra"> corps
@@ -32978,7 +32979,7 @@
 \lx mi˧˥
 \sf <nb="B"> 1398
 \sf <nb="2011"> 2002
-\ph miq
+\or miq
 \ps v
 \lc mi˧˥
 \sd <langue="fra"> verbe
@@ -33027,7 +33028,7 @@
 \lx mi˩β
 \sf <nb="B"> 2185
 \sf <nb="2011"> 1249
-\ph mi
+\or mi
 \ps clf
 \lc ɖɯ˧ mi˩
 \sd <langue="fra"> classificateur
@@ -33051,7 +33052,7 @@
 \dt 24/Apr/2017
 
 \lx mi˩hwɑ˧
-\ph mihua
+\or mihua
 \bw fn:棉花
 \ps n
 \lc mi˩hwɑ˥
@@ -33074,7 +33075,7 @@
 \lx mi˧kʰwɤ#˥
 \sf <nb="B"> 205
 \sf <nb="2011"> 274
-\ph mikua
+\or mikua
 \ps n
 \lc mi˧kʰwɤ˧
 \sn 1
@@ -33105,7 +33106,7 @@
 \lx mi˩ɬi˩
 \sf <nb="B"> 2028
 \sf <nb="2011"> 3126
-\ph milhi
+\or milhi
 \ps n
 \lc mi˩ɬi˩˥
 \sd <langue="fra"> plante
@@ -33137,7 +33138,7 @@
 \lx mi˩ɬi˩-ʁo˩bv̩˥
 \sf <nb="B"> 2032
 \sf <nb="2011"> 3130
-\ph milhiwobbu
+\or milhiwobbu
 \ps n
 \lc mi˩ɬi˩ʁo˩bv̩˥
 \sd <langue="fra"> plante
@@ -33162,7 +33163,7 @@
 \lx mi˧ɬo#˥
 \sf <nb="B"> 88a
 \sf <nb="2011"> 135
-\ph milo
+\or milo
 \ps n
 \lc mi˩ɬo˥
 \cf ɬo˧˥1
@@ -33192,7 +33193,7 @@
 \dt 21/Jun/2017
 
 \lx mi˧mi˧
-\ph mimi
+\or mimi
 \bw <langue="cmn"> (dialectal) fn:米米
 \ps n
 \lc mi˧mi˧
@@ -33211,7 +33212,7 @@
 \lx mi˩mo˩
 \sf <nb="B"> 596a
 \sf <nb="2011"> 860
-\ph mimo
+\or mimo
 \ps n
 \lc mi˩mo˩˥
 \sd <langue="fra"> objet
@@ -33233,7 +33234,7 @@
 \lx mi˧pɤ#˥
 \sf <nb="B"> 207
 \sf <nb="2011"> 276
-\ph mibe
+\or mibe
 \ps n
 \lc mi˧pɤ˧
 \sd <langue="fra"> corps
@@ -33258,7 +33259,7 @@
 \lx mi˩pʰv̩˩
 \sf <nb="B"> 2064
 \sf <nb="2011"> 3193
-\ph mipu
+\or mipu
 \ps n
 \lc mi˩pʰv̩˩˥
 \sd <langue="fra"> plante
@@ -33282,7 +33283,7 @@
 \lx mi˧tʰv̩#˥
 \sf <nb="B"> 605
 \sf <nb="2011"> 886
-\ph mitu
+\or mitu
 \ps n
 \lc mi˧tʰv̩˧
 \sd <langue="fra"> objet
@@ -33307,7 +33308,7 @@
 \lx mi˩zɯ˩
 \sf <nb="B"> 263
 \sf <nb="2011"> 342
-\ph missi
+\or missi
 \ps n
 \lc mi˩zɯ˩˥
 \sd <langue="fra"> société
@@ -33330,7 +33331,7 @@
 \sf <nb="B"> 2169b
 \sf <nb="B"> 1533
 \sf <nb="2011"> 1475
-\ph miq
+\or miq
 \ps v
 \lc mi˩˥
 \sd <langue="fra"> verbe
@@ -33358,7 +33359,7 @@
 \lx mje˧˥
 \sf <nb="B"> 385
 \sf <nb="2011"> 463
-\ph mian 
+\or mian 
 \bw <langue="cmn"> 面
 \ps n
 \ton MH
@@ -33391,7 +33392,7 @@
 \dt 13/Jul/2017
 
 \lx mo˩
-\ph mo
+\or mo
 \ps disc.PTCL
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -33414,7 +33415,7 @@
 \lx mo˧
 \sf <nb="B"> 2163b
 \sf <nb="2011"> 1534
-\ph mo
+\or mo
 \ps adj
 \ton M
 \lc mo˧
@@ -33455,7 +33456,7 @@
 \lx mo˧˥
 \sf <nb="B"> 1969
 \sf <nb="2011"> 2992
-\ph moq
+\or moq
 \ps n
 \cf mo˧˥a
 \sd <langue="fra"> plante
@@ -33480,7 +33481,7 @@
 \lx mɤ˩
 \sf <nb="B"> 391
 \sf <nb="2011"> 490
-\ph me
+\or me
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -33507,7 +33508,7 @@
 \lx mɤ˩β
 \sf <nb="B"> 2225
 \sf <nb="2011"> 1652
-\ph meq
+\or meq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -33532,7 +33533,7 @@
 \dt 04/Sep/2015
 
 \lx mɤ˧-dɑ˩
-\ph medda
+\or medda
 \ps intj
 \sd <langue="fra"> interjection
 \sd <langue="eng"> interjection
@@ -33548,7 +33549,7 @@
 \dt 19/Jun/2017
 
 \lx mɤ˧-dɑ˩mi˩
-\ph meddami
+\or meddami
 \ps intj
 \sd <langue="fra"> interjection
 \sd <langue="eng"> interjection
@@ -33564,7 +33565,7 @@
 \dt 24/Jul/2017
 
 \lx mɤ˧-dɑ˩qʰwɤ˩
-\ph meddakhua
+\or meddakhua
 \ps intj
 \sd <langue="fra"> interjection
 \sd <langue="eng"> interjection
@@ -33580,7 +33581,7 @@
 \dt 24/Jul/2017
 
 \lx mo˧ɖʐv̩˥
-\ph mozzhu
+\or mozzhu
 \ps n
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -33609,7 +33610,7 @@
 \lx mo˧jo˩-mi˩
 \sf <nb="B"> 2296
 \sf <nb="2011"> 2681
-\ph moyomi
+\or moyomi
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -33629,7 +33630,7 @@
 \dt 24/Apr/2017
 
 \lx mo˧jo˩mi˩-pʰv̩˩
-\ph moyomipu
+\or moyomipu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -33647,7 +33648,7 @@
 \dt 03/Aug/2017
 
 \lx mo˧jo˩mi˩-zo˩
-\ph moyomisso
+\or moyomisso
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -33667,7 +33668,7 @@
 \lx mo˧kɤ˩
 \sf <nb="B"> 2095
 \sf <nb="2011"> 3229
-\ph moge
+\or moge
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -33687,7 +33688,7 @@
 \dt 04/Sep/2015
 
 \lx mo˩kv̩#˥
-\ph mogu
+\or mogu
 \bw <langue="cmn"> 蘑菇
 \ps n
 \sd <langue="fra"> plante
@@ -33712,7 +33713,7 @@
 
 \lx mo˧ɬɑ˥
 \sf <nb="2011"> 1800
-\ph molha
+\or molha
 \ps n
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
@@ -33738,7 +33739,7 @@
 \lx mɤ˩ɬi˩
 \sf <nb="B"> 392b
 \sf <nb="2011"> 493
-\ph melhi
+\or melhi
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -33757,7 +33758,7 @@
 
 \lx mo˧mo˥
 \sf <nb="2011"> 453
-\ph momo
+\or momo
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -33777,7 +33778,7 @@
 \dt 19/Jun/2017
 
 \lx mɤ˩mv̩˩
-\ph memu
+\or memu
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -33797,7 +33798,7 @@
 \lx mo˧nɑ˥
 \sf <nb="2011"> 960
 \hm 1
-\ph mona
+\or mona
 \ps n
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
@@ -33835,7 +33836,7 @@
 
 \lx mo˧nɑ˥
 \hm 2
-\ph mona
+\or mona
 \ps n
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
@@ -33857,7 +33858,7 @@
 \lx mɤ˧-ni˩~ni˩
 \sf <nb="B"> 2209
 \sf <nb="2011"> 1021
-\ph meni niq
+\or meni niq
 \ps adj
 \ton -L
 \lc mɤ˧ni˩ni˩
@@ -33900,7 +33901,7 @@
 \dt 13/Jul/2017
 
 \lx mo˧qʰwɤ˧˥
-\ph mokhua
+\or mokhua
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -33916,7 +33917,7 @@
 \dt 04/Sep/2015
 
 \lx mo˧qʰwɤ˥
-\ph mokhua
+\or mokhua
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -33934,7 +33935,7 @@
 \dt 19/Jun/2017
 
 \lx mo˩ɻ̍#˥
-\ph mo'er
+\or mo'er
 \bw <langue="cmn"> 木耳
 \ps n
 \sd <langue="fra"> plante
@@ -33953,7 +33954,7 @@
 \dt 04/Sep/2015
 
 \lx mɤ˩tʰɑ˧
-\ph meta
+\or meta
 \bw <langue="cmn"> 麻糖
 \ps n
 \sd <langue="fra"> nourriture
@@ -33970,7 +33971,7 @@
 \dt 04/Sep/2015
 
 \lx mɤ˧ʈʂʰɤ˧
-\ph mache
+\or mache
 \bw <langue="cmn"> 马车
 \ps n
 \sd <langue="fra"> objet
@@ -33989,7 +33990,7 @@
 \lx mo˩zo#˥
 \sf <nb="B"> 346
 \sf <nb="2011"> 400
-\ph mosso
+\or mosso
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -34020,7 +34021,7 @@
 \sf <nb="B"> 1015
 \sf <nb="2011"> 1446
 \hm 1
-\ph moq
+\or moq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -34069,7 +34070,7 @@
 \lx mo˩α
 \sf <nb="2011"> 2487
 \hm 2
-\ph moq
+\or moq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -34093,7 +34094,7 @@
 \dt 04/Sep/2015
 
 \lx mo˧˥α
-\ph mo
+\or mo
 \ps clf
 \cf mo˧˥
 \sd <langue="fra"> classificateur
@@ -34110,7 +34111,7 @@
 \dt 24/Apr/2017
 
 \lx mo˧α
-\ph mo
+\or mo
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -34129,7 +34130,7 @@
 \lx mo˥α
 \sf <nb="B"> 877
 \sf <nb="2011"> 1290
-\ph mo
+\or mo
 \bw <langue="cmn"> 亩
 \ps clf
 \sd <langue="fra"> classificateur
@@ -34151,7 +34152,7 @@
 
 \lx mɤ˩α
 \sf <nb="2011"> 1363
-\ph me
+\or me
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -34186,7 +34187,7 @@
 \lx mɤ˧‑
 \sf <nb="B"> 2207
 \sf <nb="2011"> 3372
-\ph me-
+\or me-
 \ps pref
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -34207,7 +34208,7 @@
 \lx mv̩˩˥
 \sf <nb="B"> 289
 \sf <nb="2011"> 362
-\ph muq
+\or muq
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -34231,7 +34232,7 @@
 \lx mv̩˧
 \sf <nb="B"> 681
 \sf <nb="2011"> 1017
-\ph mu
+\or mu
 \ps n
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
@@ -34257,7 +34258,7 @@
 
 \lx mv̩˧
 \sf <nb="2011"> 3358
-\ph mu
+\or mu
 \ps disc.PTCL
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -34278,7 +34279,7 @@
 \sf <nb="B"> 1221
 \sf <nb="B"> 1384
 \sf <nb="2011"> 1968
-\ph mu
+\or mu
 \ps v
 \sn 1
 \sd <langue="fra"> verbe
@@ -34326,7 +34327,7 @@
 \sf <nb="B"> 1a
 \sf <nb="2011"> 1
 \hm 1
-\ph mu
+\or mu
 \ps n
 \lc mv̩˧
 \sd <langue="fra"> environnement naturel
@@ -34368,7 +34369,7 @@
 \sf <nb="B"> 20
 \sf <nb="2011"> 31
 \hm 2
-\ph mu
+\or mu
 \ps n
 \lc mv̩˧
 \sd <langue="fra"> environnement naturel
@@ -34400,7 +34401,7 @@
 
 \lx mv̩˩-bæ˧mi˩
 \sf <nb="2011"> 1506
-\ph mubbaemi
+\or mubbaemi
 \ps n
 \lc mv̩˩bæ˧mi˩
 \sd <langue="fra"> société
@@ -34420,7 +34421,7 @@
 \lx mv̩˧bɤ#˥
 \sf <nb="B"> 173
 \sf <nb="2011"> 242
-\ph mubbe
+\or mubbe
 \ps n
 \lc mv̩˧bɤ˧
 \sd <langue="fra"> corps
@@ -34448,7 +34449,7 @@
 \lx mv̩˧bv̩˧ʐv̩˥
 \sf <nb="B"> 1803
 \sf <nb="2011"> 2738
-\ph mubburu
+\or mubburu
 \ps n
 \lc mv̩˧bv̩˧ʐv̩˥
 \cf bv̩˧ʐv̩˧
@@ -34473,7 +34474,7 @@
 \lx mv̩˧ɕi˥
 \sf <nb="B"> 22
 \sf <nb="2011"> 32
-\ph muxie
+\or muxie
 \ps n
 \lc mv̩˧ɕi˥
 \sd <langue="fra"> environnement naturel
@@ -34498,7 +34499,7 @@
 \lx mv̩˧ɕi˥dʑɯ˩ʈʰɯ˩
 \sf <nb="B"> 10
 \sf <nb="2011"> 20
-\ph muxiejjitee
+\or muxiejjitee
 \ps n
 \lc mv̩˧ɕi˥dʑɯ˩ʈʰɯ˩
 \sd <langue="fra"> environnement naturel
@@ -34531,7 +34532,7 @@
 \lx mv̩˩ɖæ˧
 \sf <nb="B"> 716
 \sf <nb="2011"> 1080
-\ph muddae
+\or muddae
 \ps n
 \lc mv̩˩ɖæ˥
 \sd <langue="fra"> espace
@@ -34554,7 +34555,7 @@
 \lx mv̩˧di˧˥
 \sf <nb="B"> 51b
 \sf <nb="2011"> 85
-\ph muddi
+\or muddi
 \ps n
 \lc mv̩˧di˧˥
 \sn 1
@@ -34582,7 +34583,7 @@
 \lx mv̩˩do˩
 \sf <nb="B"> 1564
 \sf <nb="2011"> 2279
-\ph muddo
+\or muddo
 \ps v
 \lc mv̩˩do˩˥
 \sd <langue="fra"> verbe
@@ -34613,7 +34614,7 @@
 \dt 25/Apr/2017
 
 \lx mv̩˩ɖɯ˩
-\ph muddee
+\or muddee
 \ps n
 \lc mv̩˩ɖɯ˩˥
 \sd <langue="fra"> société
@@ -34633,7 +34634,7 @@
 \dt 04/Sep/2015
 
 \lx mv̩˧ɖɯ˩
-\ph Muddee
+\or Muddee
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -34655,7 +34656,7 @@
 \lx mv̩˧dze˧
 \sf <nb="B"> 1979b
 \sf <nb="2011"> 3013
-\ph muzzei
+\or muzzei
 \ps n
 \lc mv̩˧dze˧
 \sd <langue="fra"> plante
@@ -34676,7 +34677,7 @@
 \lx mv̩˧dze˧-tɕʰi#˥
 \sf <nb="B"> 1995
 \sf <nb="2011"> 3044
-\ph muzzeiqie
+\or muzzeiqie
 \ps n
 \lc mv̩˧dze˧tɕʰi˧
 \sd <langue="fra"> plante
@@ -34693,7 +34694,7 @@
 
 \lx mv̩˩dzɤ˧
 \sf <nb="2011"> 1069
-\ph muzze
+\or muzze
 \ps n
 \lc mv̩˩dzɤ˥
 \sd <langue="fra"> espace
@@ -34720,7 +34721,7 @@
 \lx mv̩˧-gɤ˥gɤ˩
 \sf <nb="B"> 2280
 \sf <nb="2011"> 365
-\ph muggegge
+\or muggegge
 \ps n
 \ton #H-
 \lc mv̩˧gɤ˥gɤ˩
@@ -34740,7 +34741,7 @@
 \lx mv̩˧-gɤ˧lɑ˥
 \sf <nb="B"> 660b
 \sf <nb="2011"> 985
-\ph muggela
+\or muggela
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
@@ -34763,7 +34764,7 @@
 \lx mv̩˧-gv̩˧dv̩˧
 \sf <nb="B"> 176
 \sf <nb="2011"> 245
-\ph mugguddu
+\or mugguddu
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -34787,7 +34788,7 @@
 \hm 1
 \sf <nb="B"> 764
 \sf <nb="2011"> 1159
-\ph mugguku
+\or mugguku
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -34808,7 +34809,7 @@
 
 \lx mv̩˧gv̩˧-kʰv̩˩
 \hm 2
-\ph muggu kuq
+\or muggu kuq
 \ps adj
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -34825,7 +34826,7 @@
 \lx mv̩˧gv̩#˥
 \sf <nb="B"> 12
 \sf <nb="2011"> 23
-\ph muggu
+\or muggu
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -34858,7 +34859,7 @@
 \lx mv̩˩kʰv̩˧˥
 \sf <nb="B"> 754
 \sf <nb="2011"> 1131
-\ph muku
+\or muku
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -34880,7 +34881,7 @@
 \lx mv̩˧kʰv̩˧˥
 \sf <nb="B"> 23
 \sf <nb="2011"> 33
-\ph muku
+\or muku
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -34908,7 +34909,7 @@
 \dt 04/Sep/2015
 
 \lx mv̩˩ɬi˥
-\ph mulhi
+\or mulhi
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -34926,7 +34927,7 @@
 \lx mv̩˧ɭɯ˩
 \sf <nb="B"> 2196
 \sf <nb="2011"> 3340
-\ph Mulee
+\or Mulee
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -34947,7 +34948,7 @@
 
 \lx mv̩˧mi˧
 \sf <nb="2011"> 343
-\ph mumi
+\or mumi
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -34973,7 +34974,7 @@
 \lx mv̩˧-mv̩˥-di˩
 \sf <nb="B"> 530b
 \sf <nb="2011"> 762
-\ph mu muddi
+\or mu muddi
 \ec <langue="fra"> Analyse proposée par Roselle Dobbs: feu-souffler-|fg{nmlz}, “chose pour souffler sur le feu".
 \ps n
 \sd <langue="fra"> objet
@@ -34996,7 +34997,7 @@
 
 \lx mv̩˧ɲi˧
 \sf <nb="2011"> 243
-\ph muni
+\or muni
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -35019,7 +35020,7 @@
 \lx mv̩˩pʰæ˧
 \sf <nb="B"> 453c
 \sf <nb="2011"> 596
-\ph mupae
+\or mupae
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -35040,7 +35041,7 @@
 \lx mv̩˩pʰæ˧˥
 \sf <nb="B"> 1402
 \sf <nb="2011"> 2015
-\ph mupae
+\or mupae
 \ps v
 \ton LM+MH#
 \lc mv̩˩pʰæ˧˥
@@ -35072,7 +35073,7 @@
 
 \lx mv̩˧qo˩
 \sf <nb="2011"> 3008
-\ph mugho
+\or mugho
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -35096,7 +35097,7 @@
 \dt 04/Sep/2015
 
 \lx mv̩˧qʰwæ˩
-\ph Mukhuae
+\or Mukhuae
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -35118,7 +35119,7 @@
 \lx mv̩˧ʁo˥$
 \sf <nb="B"> 1b
 \sf <nb="2011"> 2
-\ph muwo
+\or muwo
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -35145,7 +35146,7 @@
 \sf <nb="B"> 40c
 \sf <nb="2011"> 62
 \hm 1
-\ph muwua
+\or muwua
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -35163,7 +35164,7 @@
 \lx mv̩˩ʁwɤ˧
 \sf <nb="2011"> 3327
 \hm 2
-\ph Muwua
+\or Muwua
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -35181,7 +35182,7 @@
 \lx mv̩˩si˧˥
 \sf <nb="B"> 743
 \sf <nb="2011"> 1118
-\ph musee
+\or musee
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -35204,7 +35205,7 @@
 
 \lx mv̩˩si˧-njɤ˧˥
 \sf <nb="2011"> 1120
-\ph musse nya
+\or musse nya
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -35222,7 +35223,7 @@
 \dt 24/Jul/2017
 
 \lx mv̩˩tɑ#˥
-\ph muda
+\or muda
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -35249,7 +35250,7 @@
 \lx mv̩˧ʈʰæ#˥
 \sf <nb="B"> 711
 \sf <nb="2011"> 1061
-\ph mutae
+\or mutae
 \ps adv
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
@@ -35275,7 +35276,7 @@
 \dt 04/Sep/2015
 
 \lx mv̩˩tɕi˥
-\ph mujie
+\or mujie
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -35293,7 +35294,7 @@
 \lx mv̩˩tɕo˧
 \sf <nb="B"> 711b
 \sf <nb="2011"> 1073
-\ph mujo
+\or mujo
 \ps adv
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
@@ -35320,7 +35321,7 @@
 \dt 04/Sep/2015
 
 \lx mv̩˩tʰi˩
-\ph muti
+\or muti
 \et mv̩˩˥; tʰi˧
 \ec <langue="fra"> De ‘fille, femme' et ‘intelligent'. On s'attendrait à ce que le résultat soit simplement un nom; fv:/mv̩˩tʰi˩/ peut effectivement se comprendre ainsi ('femme intelligente'), mais est également employé comme adjectif (prédicat): ‘(être) intelligente'.
 \ec <langue="eng"> From ‘girl, woman' and ‘clever'. One would expect a reading as a noun; fv:/mv̩˩tʰi˩/ can actually have this meaning ('clever woman'), but it is also used as an adjective (a predicate): ‘(to be) intelligent (said of a woman)'.
@@ -35345,7 +35346,7 @@
 \lx mv̩˩ʈʂæ˧˥
 \sf <nb="B"> 2200
 \sf <nb="2011"> 246
-\ph muzhae
+\or muzhae
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -35367,7 +35368,7 @@
 \sf <nb="B"> 682
 \sf <nb="B"> 1348
 \sf <nb="2011"> 1018
-\ph muzhae
+\or muzhae
 \ps v
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
@@ -35395,7 +35396,7 @@
 
 \lx mv̩˧tsʰi#˥
 \sf <nb="2011"> 1196
-\ph mucee
+\or mucee
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -35421,7 +35422,7 @@
 \lx mv̩˩tsʰo˩
 \sf <nb="B"> 499b
 \sf <nb="2011"> 688
-\ph muco
+\or muco
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -35444,7 +35445,7 @@
 
 \lx mv̩˧ʈʂʰɤ˩
 \sf <nb="2011"> 202
-\ph muche
+\or muche
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -35468,7 +35469,7 @@
 \lx mv̩˧ʈʂo˩-ti˩-bv̩˩
 \sf <nb="B"> 1813
 \sf <nb="2011"> 2762
-\ph muzhodibbu
+\or muzhodibbu
 \ps n
 \ton L#-
 \lc mv̩˧ʈʂo˩ti˩bv̩˩
@@ -35489,7 +35490,7 @@
 \lx mv̩˧tsɯ˧˥
 \sf <nb="B"> 135
 \sf <nb="2011"> 198
-\ph muzi
+\or muzi
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -35518,7 +35519,7 @@
 \lx mv̩˧ʈʂv̩˩
 \sf <nb="B"> 594
 \sf <nb="2011"> 854
-\ph muzhu
+\or muzhu
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -35543,7 +35544,7 @@
 \sf <nb="B"> 944
 \sf <nb="2011"> 1371
 \hm 1
-\ph muzhu
+\or muzhu
 \ps adj
 \sn 1
 \sd <langue="fra"> adjectif
@@ -35617,7 +35618,7 @@
 \sf <nb="B"> 203
 \sf <nb="2011"> 272
 \hm 2
-\ph muzhu
+\or muzhu
 \ps n
 \lc mv̩˧ʈʂv̩˥
 \cf mv̩˧ʈʂv̩˥1
@@ -35641,7 +35642,7 @@
 \lx mv̩˧ʈʂv̩˩-nv̩˩mi˩
 \sf <nb="B"> 595
 \sf <nb="2011"> 855
-\ph muzhunumi
+\or muzhunumi
 \et mv̩˧ʈʂv̩˩; nv̩˩mi˩
 \ps n
 \lc mv̩˧ʈʂv̩˩nv̩˩mi˩
@@ -35668,7 +35669,7 @@
 \lx mv̩˧ʈʰɯ˧
 \sf <nb="B"> 175
 \sf <nb="2011"> 244
-\ph mutee
+\or mutee
 \ps n
 \lc mv̩˧ʈʰɯ˧
 \sd <langue="fra"> corps
@@ -35690,7 +35691,7 @@
 \dt 25/Apr/2017
 
 \lx mv̩˩tv̩˩
-\ph mudu
+\or mudu
 \ps n
 \lc mv̩˩tv̩˩˥
 \sd <langue="fra"> société
@@ -35712,7 +35713,7 @@
 \lx mv̩˧tʰv̩˧˥
 \sf <nb="B"> 500
 \sf <nb="2011"> 689
-\ph mutu
+\or mutu
 \ps n
 \lc mv̩˧tʰv̩˧˥
 \sd <langue="fra"> objet
@@ -35736,7 +35737,7 @@
 \lx mv̩˧ʐe˧˥
 \sf <nb="2011"> 1193
 \hm 1
-\ph murei
+\or murei
 \ps n
 \lc mv̩˧ʐe˧˥
 \sd <langue="fra"> temps
@@ -35761,7 +35762,7 @@
 \lx mv̩˧ʐe˧-ʈʂʰæ˧ɣɯ#˥
 \sf <nb="B"> 625
 \sf <nb="2011"> 915
-\ph murei chaehree
+\or murei chaehree
 \ps n
 \lc mv̩˧ʐe˧ʈʂʰæ˧ɣɯ˧
 \sd <langue="fra"> objet
@@ -35787,7 +35788,7 @@
 \sf <nb="B"> 609
 \sf <nb="2011"> 896
 \hm 2
-\ph murei
+\or murei
 \ps n
 \lc mv̩˧ʐe˧
 \sd <langue="fra"> objet
@@ -35810,7 +35811,7 @@
 \dt 04/Sep/2015
 
 \lx mv̩˧ʑi˩
-\ph muxxi
+\or muxxi
 \ps n
 \lc mv̩˧ʑi˩
 \sd <langue="fra"> abstrait
@@ -35834,7 +35835,7 @@
 \lx mv̩˩zo˩
 \sf <nb="B"> 266
 \sf <nb="2011"> 346
-\ph musso
+\or musso
 \ps n
 \lc mv̩˩zo˩˥
 \sd <langue="fra"> société
@@ -35861,7 +35862,7 @@
 \dt 04/Sep/2015
 
 \lx mv̩˩ʐɤ˩
-\ph mure
+\or mure
 \ps n
 \lc mv̩˩ʐɤ˩˥
 \sd <langue="fra"> société
@@ -35877,7 +35878,7 @@
 \dt 04/Sep/2015
 
 \lx mv̩˩zo˩-ə˩mi˥
-\ph musso ami
+\or musso ami
 \ps n
 \lc mv̩˩zo˩ə˩mi˥
 \sd <langue="fra"> société
@@ -35896,7 +35897,7 @@
 \lx mv̩˩zɯ˩
 \sf <nb="2011"> 382
 \hm 1
-\ph mussi
+\or mussi
 \ps n
 \lc mv̩˩zɯ˩˥
 \sd <langue="fra"> société
@@ -35923,7 +35924,7 @@
 \sf <nb="B"> 1986
 \sf <nb="2011"> 3027
 \hm 2
-\ph mussi
+\or mussi
 \ps n
 \lc mv̩˩zɯ˩˥
 \sd <langue="fra"> plante
@@ -35948,7 +35949,7 @@
 \sf <nb="B"> 269
 \sf <nb="B"> 330
 \sf <nb="2011"> 388
-\ph mussi nimi
+\or mussinimi
 \ps n
 \lc mv̩˩zɯ˩ni˥mi˩
 \sd <langue="fra"> société
@@ -35974,7 +35975,7 @@
 \sf <nb="B"> 1185b
 \sf <nb="2011"> 1702
 \hm 1
-\ph muq
+\or muq
 \ps v
 \lc mv̩˩˥
 \sd <langue="fra"> verbe
@@ -36002,7 +36003,7 @@
 
 \lx mv̩˩α
 \hm 2
-\ph muq
+\or muq
 \ps v
 \lc mv̩˩˥
 \sd <langue="fra"> verbe
@@ -36022,7 +36023,7 @@
 \sf <nb="B"> 1511
 \sf <nb="2011"> 1432
 \hm 3
-\ph muq
+\or muq
 \ps adj
 \lc mv̩˩˥
 \sn 1
@@ -36053,7 +36054,7 @@
 
 \lx mv̩˩α
 \hm 4
-\ph muq
+\or muq
 \ps v
 \lc mv̩˩˥
 \sd <langue="fra"> verbe
@@ -36068,7 +36069,7 @@
 \dt 04/Sep/2015
 
 \lx mv̩˧‑
-\ph mu-
+\or mu-
 \ps pref
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -36128,7 +36129,7 @@
 \lx mv̩˧α
 \sf <nb="B"> 1696
 \sf <nb="2011"> 1739
-\ph mu
+\or mu
 \ps v
 \lc mv̩˧
 \cf ki˩a
@@ -36160,7 +36161,7 @@
 \lx mv̩˧~mv̩#˥
 \sf <nb="B"> 1057
 \sf <nb="2011"> 1490
-\ph mumu
+\or mumu
 \et mv̩˥
 \ec <langue="fra"> réduplication de ‘comprendre'
 \ec <langue="eng"> reduplicated from ‘to understand'
@@ -36194,7 +36195,7 @@
 \lx nɑ˩˧
 \sf <nb="B"> 254
 \sf <nb="2011"> 325
-\ph Naq
+\or Naq
 \ps n
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
@@ -36226,7 +36227,7 @@
 \lx nɑ˧˥
 \sf <nb="B"> 1246
 \sf <nb="2011"> 1789
-\ph naq
+\or naq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -36261,7 +36262,7 @@
 \lx nɑ˥
 \sf <nb="B"> 965
 \sf <nb="2011"> 1404
-\ph na
+\or na
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -36287,7 +36288,7 @@
 \sf <nb="B"> 1109b
 \sf <nb="B"> 1211
 \sf <nb="2011"> 1578
-\ph naeq
+\or naeq
 \ps v
 \sn 1
 \sd <langue="fra"> verbe
@@ -36332,7 +36333,7 @@
 \lx ɳæ˥
 \sf <nb="B"> 1230
 \sf <nb="2011"> 1760
-\ph nae
+\or nae
 \ps v
 \lc ɳæ˧
 \sd <langue="fra"> verbe
@@ -36357,7 +36358,7 @@
 \sf <nb="B"> 953
 \sf <nb="B"> 964
 \sf <nb="2011"> 1389
-\ph naq
+\or naq
 \ps adj
 \lc nɑ˩˥
 \sd <langue="fra"> adjectif
@@ -36386,7 +36387,7 @@
 \dt 25/Apr/2017
 
 \lx nɑ˩bɑ˧-ʁɑ˧ɭɯ#˥
-\ph Nabbahralee
+\or Nabbahralee
 \ps n
 \lc nɑ˩bɑ˧ʁɑ˧ɭɯ˧
 \sd <langue="fra"> lieu
@@ -36404,7 +36405,7 @@
 \lx nɑ˩dzi˧
 \sf <nb="B"> 757
 \sf <nb="2011"> 1136
-\ph nazzee
+\or nazzee
 \ps adv
 \lc nɑ˩dzi˥
 \sd <langue="fra"> temps
@@ -36434,7 +36435,7 @@
 \dt 09/Sep/2015
 
 \lx nɑ˧dʑi#˥
-\ph Najjie
+\or Najjie
 \ps n
 \lc nɑ˧dʑi˧
 \sd <langue="fra"> nom propre
@@ -36453,7 +36454,7 @@
 \lx nɑ˩hĩ#˥
 \sf <nb="B"> 253
 \sf <nb="2011"> 324
-\ph Nahin
+\or Nahin
 \ps n
 \lc nɑ˩hĩ˥
 \sd <langue="fra"> ethnies
@@ -36491,7 +36492,7 @@
 \dt 25/Apr/2017
 
 \lx ŋæ˧ʝi˩
-\ph ngaeyi
+\or ngaeyi
 \bw <langue="cmn"> 安逸
 \ps adj
 \lc ŋæ˧ʝi˩
@@ -36511,7 +36512,7 @@
 \lx nɑ˩kwɤ˧
 \sf <nb="B"> 2010
 \sf <nb="2011"> 3077
-\ph nagua
+\or nagua
 \ps n
 \lc nɑ˩kwɤ˥
 \sd <langue="fra"> plante
@@ -36531,7 +36532,7 @@
 \dt 25/Apr/2017
 
 \lx nɑ˩mi#˥
-\ph Nami
+\or Nami
 \ps n
 \lc nɑ˩mi˥
 \sd <langue="fra"> société
@@ -36547,7 +36548,7 @@
 \dt 21/Jun/2017
 
 \lx nɑ˧mi#˥
-\ph nami
+\or nami
 \ps n
 \lc nɑ˧mi˧
 \sd <langue="fra"> abstrait
@@ -36571,7 +36572,7 @@
 
 \lx nɑ˩mv̩˥-nɑ˩dzi˩dzi˩
 \sf <nb="2011"> 1137
-\ph namu nazzeezzee
+\or namu nazzeezzee
 \ps adj
 \ton H#-
 \lc nɑ˩mv̩˥nɑ˩dzi˩dzi˩
@@ -36592,7 +36593,7 @@
 \lx nɑ˩pv̩˧-qʰwɤ˧
 \sf <nb="B"> 365a
 \sf <nb="2011"> 405
-\ph nabukhua
+\or nabukhua
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -36617,7 +36618,7 @@
 
 \lx næ˩-qʰæ˥ʈʂʰe˩
 \sf <nb="2011"> 1390
-\ph nakhaechei
+\or nakhaechei
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -36636,7 +36637,7 @@
 \dt 13/Jun/2017
 
 \lx nɑ˩tsʰi˩
-\ph Nacee
+\or Nacee
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -36656,7 +36657,7 @@
 \dt 09/Sep/2015
 
 \lx nɑ˧ʈʂʰõ˧-õ˩di˩-pɤ˩
-\ph nachon onddibe
+\or nachon onddibe
 \ps n
 \cf lo˧tɑ˧-lo˧tɕi#˥
 \ton -L
@@ -36675,7 +36676,7 @@
 \dt 21/Jun/2017
 
 \lx nɑ˩zo#˥
-\ph Nasso
+\or Nasso
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -36693,7 +36694,7 @@
 \lx nɑ˩-ʐwɤ˥
 \sf <nb="B"> 638b
 \sf <nb="2011"> 954
-\ph Narua
+\or Narua
 \ps n
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
@@ -36711,7 +36712,7 @@
 \lx nɑ˧α
 \sf <nb="B"> 2186
 \sf <nb="2011"> 1251
-\ph na
+\or na
 \ps clf
 \lc ɖɯ˧ nɑ˧
 \sd <langue="fra"> classificateur
@@ -36735,7 +36736,7 @@
 \dt 25/Apr/2017
 
 \lx nɑ˧~nɑ˥
-\ph nana
+\or nana
 \et nɑ˩
 \ec <langue="fra"> Vraisemblablement forme rédupliquée de ‘noir, sombre, obscur'
 \ec <langue="eng"> Probably a reduplicated form of ‘black, dark'
@@ -36764,7 +36765,7 @@
 \dt 25/Apr/2017
 
 \lx ɳæ˩=ɻæ˧
-\ph nae'er
+\or nae'er
 \ps pro
 \cf ɳæ˧=ɻ̍˩, no˧=ɻ̍˩
 \sd <langue="fra"> morphosyntaxe
@@ -36782,7 +36783,7 @@
 \dt 13/Jul/2017
 
 \lx ɳæ˧=ɻ̍˩
-\ph naelae
+\or naelae
 \ps pro
 \cf ɳæ˩=ɻæ˧, no˧=ɻ̍˩
 \sd <langue="fra"> morphosyntaxe
@@ -36802,7 +36803,7 @@
 \lx ni˥
 \sf <nb="B"> 2322
 \sf <nb="2011"> 3032
-\ph ni
+\or ni
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -36821,7 +36822,7 @@
 
 \lx ɲi˩
 \hm 1
-\ph niq
+\or niq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -36846,7 +36847,7 @@
 \sf <nb="B"> 904
 \sf <nb="2011"> 1328
 \hm 2
-\ph niq
+\or niq
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -36876,7 +36877,7 @@
 \xe Who is this person?
 \xn 他是谁？
 \xf Qui est-ce?
-\xv no˧ | ɲi˩˥ | -ki˩ bi˩-pi˩, | ɖɯ˧-bæ˧ lɑ˧ ɲi˥!
+\xv no˧ | ɲi˩˥ ◊ -ki˩ bi˩-pi˩, | ɖɯ˧-bæ˧ lɑ˧ ɲi˥!
 \xe No matter where you go, it's the same everywhere!
 \xn 无论你去谁（家），都一样！
 \xf Peu importe chez qui tu vas, c'est pareil partout!
@@ -36889,7 +36890,7 @@
 \lx ɲi˧
 \sf <nb="B"> 1043
 \sf <nb="2011"> 1477
-\ph ni
+\or ni
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -36921,7 +36922,7 @@
 \lx ɲi˧˥
 \sf <nb="B"> 812
 \sf <nb="2011"> 1200
-\ph ni
+\or ni
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
@@ -36943,7 +36944,7 @@
 \sf <nb="B"> 1383
 \sf <nb="2011"> 1967
 \hm 1
-\ph ni
+\or ni
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -36978,7 +36979,7 @@
 \sf <nb="B"> 1354
 \sf <nb="2011"> 1935
 \hm 2
-\ph ni
+\or ni
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -37007,7 +37008,7 @@
 \sf <nb="B"> 1673
 \sf <nb="2011"> 2197
 \hm 3
-\ph ni
+\or ni
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -37027,7 +37028,7 @@
 \lx ɲi˥β
 \sf <nb="B"> 721
 \sf <nb="2011"> 1092
-\ph ni
+\or ni
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -37051,7 +37052,7 @@
 
 \lx ɲi˩bv̩˩
 \sf <nb="2011"> 2801
-\ph nibbu
+\or nibbu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -37077,7 +37078,7 @@
 \lx ɲi˩bv̩˩-ʂe˩sɑ˧
 \sf <nb="B"> 1843
 \sf <nb="2011"> 2799
-\ph nibbusheisa
+\or nibbusheisa
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -37099,7 +37100,7 @@
 \lx ɲi˧dʑɯ#˥
 \sf <nb="B"> 200
 \sf <nb="2011"> 267
-\ph nijji
+\or nijji
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -37120,7 +37121,7 @@
 \dt 25/Apr/2017
 
 \lx ni˧fv̩˥
-\ph nifu
+\or nifu
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -37145,7 +37146,7 @@
 \sf <nb="B"> 558
 \sf <nb="B"> 559
 \sf <nb="2011"> 793
-\ph niggebbae
+\or niggebbae
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -37168,7 +37169,7 @@
 \lx ɲi˧gɤ˧-dʑɯ˧˥
 \sf <nb="B"> 236
 \sf <nb="2011"> 166
-\ph niggejji
+\or niggejji
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -37192,7 +37193,7 @@
 \lx ɲi˧gɤ#˥
 \sf <nb="B"> 109
 \sf <nb="2011"> 164
-\ph nigge
+\or nigge
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -37215,7 +37216,7 @@
 \lx ɲi˧ɬi˧mi˧
 \sf <nb="B"> 778
 \sf <nb="2011"> 1174
-\ph nilhimi
+\or nilhimi
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -37235,7 +37236,7 @@
 \dt 09/Sep/2015
 
 \lx ɲi˩mɑ#˥
-\ph Nima
+\or Nima
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -37253,7 +37254,7 @@
 \lx ɲi˧mi˧
 \sf <nb="B"> 2a
 \sf <nb="2011"> 6
-\ph nimi
+\or nimi
 \ps n
 \sn 1
 \sd <langue="fra"> environnement naturel
@@ -37295,7 +37296,7 @@
 \lx ɲi˧mi˧dɑ˧dzɯ#˥
 \sf <nb="B"> 2b
 \sf <nb="2011"> 11
-\ph nimiddazzi
+\or nimiddazzi
 \ps n
 \lc ɲi˧mi˧dɑ˧dzɯ˧
 \sd <langue="fra"> environnement naturel
@@ -37324,7 +37325,7 @@
 \lx ɲi˧mi˧-gv̩˩
 \sf <nb="B"> 696
 \sf <nb="2011"> 1037
-\ph nimi ggu
+\or nimi ggu
 \ps n
 \lc ɲi˧mi˧gv̩˩
 \sd <langue="fra"> espace
@@ -37350,7 +37351,7 @@
 \lx ɲi˧mi˧-kʰɯ˧ʂɯ˧
 \sf <nb="B"> 3b
 \sf <nb="2011"> 7
-\ph nimi keeshi
+\or nimi keeshi
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -37373,7 +37374,7 @@
 
 \lx ɲi˧mi˧-ʈæ˧ʂɯ˧
 \sf <nb="2011"> 3074
-\ph nimidaeshi
+\or nimidaeshi
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -37393,7 +37394,7 @@
 \lx ɲi˧mi˧tʰv̩#˥
 \sf <nb="B"> 695
 \sf <nb="2011"> 1036
-\ph nimi tu
+\or nimi tu
 \ps n
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
@@ -37428,7 +37429,7 @@
 
 \lx ni˧mi#˥
 \sf <nb="2011"> 385
-\ph nimi
+\or nimi
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -37453,7 +37454,7 @@
 \lx ɲi˧nɑ˩
 \sf <nb="B"> 2051
 \sf <nb="2011"> 3165
-\ph nina
+\or nina
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -37472,7 +37473,7 @@
 \dt 09/Sep/2015
 
 \lx ɲi˧ŋwɤ˩
-\ph ningua
+\or ningua
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
@@ -37495,7 +37496,7 @@
 \dt 21/Jun/2017
 
 \lx ɲi˩pʰv̩˩
-\ph nipu
+\or nipu
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -37518,7 +37519,7 @@
 \lx ɲi˧pʰv̩˩
 \sf <nb="B"> 16
 \sf <nb="2011"> 27
-\ph nipeu
+\or nipeu
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -37546,7 +37547,7 @@
 \sf <nb="B"> 111
 \sf <nb="B"> 234
 \sf <nb="2011"> 165
-\ph nikheu
+\or nikheu
 \ps n
 \sn 1
 \sd <langue="fra"> corps
@@ -37576,7 +37577,7 @@
 \dt 09/Sep/2015
 
 \lx ɲi˧se˩
-\ph Nisei
+\or Nisei
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -37601,7 +37602,7 @@
 
 \lx ɲi˧to˧
 \sf <nb="2011"> 178
-\ph nido
+\or nido
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -37624,7 +37625,7 @@
 \dt 09/Sep/2015
 
 \lx ɲi˧tʰo˧
-\ph nito
+\or nito
 \ps n
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
@@ -37650,7 +37651,7 @@
 \dt 19/Jun/2017
 
 \lx ɲi˧-ʈʂæ˧-ʑi˧˥
-\ph nizhaexxi
+\or nizhaexxi
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -37672,7 +37673,7 @@
 \dt 25/Apr/2017
 
 \lx ɲi˩ʈʂe˩
-\ph nizhei
+\or nizhei
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -37694,7 +37695,7 @@
 \lx ɲi˧tsi˧
 \sf <nb="B"> 830
 \sf <nb="2011"> 1218
-\ph nizee
+\or nizee
 \ps num
 \ton M
 \lc ɲi˧tsi˧
@@ -37715,7 +37716,7 @@
 
 \lx ɲi˧tsi˧-ɖɯ˧˥
 \sf <nb="2011"> 1219
-\ph nizeeddee
+\or nizeeddee
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
@@ -37734,7 +37735,7 @@
 
 \lx ɲi˧tsi˧-gv̩˧
 \sf <nb="2011"> 1227
-\ph nizeeggu
+\or nizeeggu
 \ps num
 \ton M
 \lc ɲi˧tsi˧gv̩˧
@@ -37753,7 +37754,7 @@
 
 \lx ɲi˧tsi˧-hõ˧˥
 \sf <nb="2011"> 1226
-\ph nizeehon
+\or nizeehon
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
@@ -37772,7 +37773,7 @@
 
 \lx ɲi˧tsi˧-ɲi˧˥
 \sf <nb="2011"> 1220
-\ph nizeeni
+\or nizeeni
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
@@ -37792,7 +37793,7 @@
 
 \lx ɲi˧tsi˧-ŋwɤ˧
 \sf <nb="2011"> 1223
-\ph nizeengua
+\or nizeengua
 \ps num
 \ton M
 \lc ɲi˧tsi˧ŋwɤ˧
@@ -37811,7 +37812,7 @@
 
 \lx ɲi˧tsi˧-qʰv̩˧˥
 \sf <nb="2011"> 1224
-\ph nizeekheu
+\or nizeekheu
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
@@ -37831,7 +37832,7 @@
 
 \lx ɲi˧tsi˧-so˩
 \sf <nb="2011"> 1221
-\ph nizeeso
+\or nizeeso
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
@@ -37851,7 +37852,7 @@
 
 \lx ɲi˧tsi˧-ʂɯ˧
 \sf <nb="2011"> 1225
-\ph nizeeshi
+\or nizeeshi
 \ps num
 \ton M
 \lc ɲi˧tsi˧ʂɯ˧
@@ -37870,7 +37871,7 @@
 
 \lx ɲi˧tsi˧-ʐv̩˧
 \sf <nb="2011"> 1222
-\ph nizeeru
+\or nizeeru
 \ps num
 \ton M
 \lc ɲi˧tsi˧ʐv̩˧
@@ -37890,7 +37891,7 @@
 \lx ɲi˩tsɯ#˥
 \sf <nb="B"> 2202
 \sf <nb="2011"> 337
-\ph Nizi
+\or Nizi
 \ps n
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
@@ -37916,11 +37917,12 @@
 \lx ɲi˧ze˧-hæ̃˩ze˩
 \sf <nb="B"> 2292
 \sf <nb="2011"> 2671
-\ph nissei haenssei   RD Comment: Variant: haense
+\or nissei haenssei
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
 \nt <type="hist" print="n"> avant 2011: noté ɲi˧zo˧hæ̃˩dze˩
+\nt <type="hist" print="n"> RD Comment: Variant: haense
 \ton -L
 \lc ɲi˧ze˧hæ̃˩ze˩
 \so <print="n"> F4
@@ -37938,7 +37940,7 @@
 \lx ɲi˧zo#˥
 \sf <nb="B"> 1897
 \sf <nb="2011"> 2881
-\ph nisso
+\or nisso
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -37970,7 +37972,7 @@
 \sf <nb="B"> 1428
 \sf <nb="2011"> 2065
 \hm 1
-\ph niq
+\or niq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -38002,7 +38004,7 @@
 \lx ɲi˩α
 \sf <nb="2011"> 1779
 \hm 2
-\ph niq
+\or niq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -38033,7 +38035,7 @@
 \sf <nb="B"> 2164
 \sf <nb="2011"> 3373
 \hm 3
-\ph niq
+\or niq
 \ps v
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -38055,7 +38057,7 @@
 \lx ɲi˧α
 \sf <nb="B"> 2169
 \sf <nb="2011"> 1474
-\ph nee
+\or nee
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -38078,7 +38080,7 @@
 \dt 13/Jul/2017
 
 \lx ɲi˩=ɻ̍˥
-\ph ni'er
+\or ni'er
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -38097,7 +38099,7 @@
 \lx njæ˧bæ˥
 \sf <nb="B"> 108
 \sf <nb="2011"> 163
-\ph nyabbae
+\or nyabbae
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -38119,7 +38121,7 @@
 \dt 21/Jun/2017
 
 \lx njæ˩pʰv̩˧
-\ph nyapeu
+\or nyapeu
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -38139,7 +38141,7 @@
 \lx njæ˩qʰæ#˥
 \sf <nb="B"> 106
 \sf <nb="2011"> 160
-\ph nyakhae
+\or nyakhae
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -38163,7 +38165,7 @@
 
 \lx njæ˥-qv̩˩
 \sf <nb="2011"> 1755
-\ph nyagheu
+\or nyagheu
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -38192,7 +38194,7 @@
 \lx njæ˩qwæ˧˥
 \sf <nb="B"> 368
 \sf <nb="2011"> 427
-\ph nyaghuae
+\or nyaghuae
 \ps adj
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -38238,7 +38240,7 @@
 \lx njæ˧-sɯ˩kv̩˩
 \sf <nb="B"> 2244
 \sf <nb="2011"> 3396
-\ph nyasigu
+\or nyasigu
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -38268,7 +38270,7 @@
 \sf <nb="B"> 2223
 \sf <nb="B"> 102
 \sf <nb="B"> 945
-\ph nyazi
+\or nyazi
 \ps n
 \sn 1
 \sd <langue="fra"> corps
@@ -38307,7 +38309,7 @@
 \dt 09/Sep/2015
 
 \lx njæ˧=zɯ˩
-\ph nyassi
+\or nyassi
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -38330,7 +38332,7 @@
 \lx njo˩˥
 \sf <nb="B"> 150
 \sf <nb="2011"> 217
-\ph nyoq
+\or nyoq
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -38360,7 +38362,7 @@
 
 \lx njo˧
 \sf <nb="2011"> 3041
-\ph nyo
+\or nyo
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -38391,7 +38393,7 @@
 \dt 09/Sep/2015
 
 \lx njo˥
-\ph nyo
+\or nyo
 \ps n
 \sd <langue="fra"> musique
 \sd <langue="eng"> music
@@ -38413,7 +38415,7 @@
 \lx njɤ˩
 \sf <nb="B"> 2156
 \sf <nb="2011"> 3390
-\ph nya
+\or nya
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -38444,7 +38446,7 @@
 \lx njɤ˩˥
 \sf <nb="B"> 103b
 \sf <nb="2011"> 156
-\ph nyaq
+\or nyaq
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -38465,7 +38467,7 @@
 \sf <nb="B"> 1769
 \sf <nb="2011"> 2616
 \hm 1
-\ph nyaq
+\or nyaq
 \ps v
 \cf njɤ˧˥2
 \sd <langue="fra"> verbe
@@ -38493,7 +38495,7 @@
 \sf <nb="B"> 992
 \sf <nb="2011"> 1427
 \hm 2
-\ph nyaq
+\or nyaq
 \ps adj
 \cf njɤ˧˥1
 \sd <langue="fra"> adjectif
@@ -38516,7 +38518,7 @@
 \sf <nb="B"> 972
 \sf <nb="2011"> 1410
 \hm 3
-\ph nyaq
+\or nyaq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -38536,7 +38538,7 @@
 \lx njɤ˩β
 \sf <nb="B"> 1175
 \sf <nb="2011"> 2078
-\ph nyaq
+\or nyaq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -38573,7 +38575,7 @@
 \lx njo˩bi˥
 \sf <nb="B"> 149
 \sf <nb="2011"> 216
-\ph nyobbi
+\or nyobbi
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -38608,7 +38610,7 @@
 \lx njɤ˩bi˥
 \sf <nb="B"> 107
 \sf <nb="2011"> 161
-\ph nyabbi
+\or nyabbi
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -38631,7 +38633,7 @@
 \lx njo˧bi˧li˥
 \sf <nb="B"> 132
 \sf <nb="2011"> 194
-\ph nyobbili
+\or nyobbili
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -38659,7 +38661,7 @@
 
 \lx njɤ˧di˧˥
 \sf <nb="2011"> 818
-\ph nyaddi
+\or nyaddi
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -38685,7 +38687,7 @@
 \lx njɤ˩-gɤ˧lɑ˩
 \sf <nb="B"> 104
 \sf <nb="2011"> 157
-\ph nyaggela
+\or nyaggela
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -38705,7 +38707,7 @@
 \dt 25/Apr/2017
 
 \lx njo˩kæ˧-tɕi˩˥
-\ph nyogaejie
+\or nyogaejie
 \bw <langue="cmn"> 牛肝菌
 \ps n
 \cf jɤ˧qʰɑ˧-pɤ˥jɤ˩-mo˩
@@ -38724,7 +38726,7 @@
 
 \lx njɤ˩kʰi#˥
 \sf <nb="2011"> 162
-\ph nyaki
+\or nyaki
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -38746,7 +38748,7 @@
 \lx njɤ˧kv̩˩
 \sf <nb="B"> 134
 \sf <nb="2011"> 196
-\ph nyagu
+\or nyagu
 \ps n
 \cf kv̩˩kv̩˩
 \sd <langue="fra"> corps
@@ -38765,7 +38767,7 @@
 \dt 09/Sep/2015
 
 \lx njɤ˧kv̩˩-njɤ˩tsʰɤ˩
-\ph nyagu nyace
+\or nyagu nyace
 \ec <langue="fra"> Les trois composantes sont identifiées comme: “oeil", “pommette", et le |fg{cl} des feuilles et des fleurs
 \ps adj
 \cf njɤ˧kv̩˩, tsʰɤ˧˥a
@@ -38794,7 +38796,7 @@
 
 \lx njɤ˧lɑ˥
 \sf <nb="2011"> 1411
-\ph nyala
+\or nyala
 \ps adv
 \ton H#
 \lc njɤ˧lɑ˥
@@ -38821,7 +38823,7 @@
 \sf <nb="B"> 747
 \sf <nb="B"> 748
 \sf <nb="2011"> 1125
-\ph nyaleggu
+\or nyaleggu
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -38848,7 +38850,7 @@
 \lx njɤ˩ɭɯ˧
 \sf <nb="B"> 103
 \sf <nb="2011"> 155
-\ph nyalee
+\or nyalee
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -38872,7 +38874,7 @@
 \dt 09/Sep/2015
 
 \lx njɤ˧mv̩˥
-\ph nyamu
+\or nyamu
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -38893,7 +38895,7 @@
 \lx njɤ˧mv̩˥-mi˩
 \sf <nb="B"> 1908
 \sf <nb="2011"> 2893
-\ph nyamumi
+\or nyamumi
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -38925,7 +38927,7 @@
 \lx njɤ˧nɑ˩
 \sf <nb="B"> 104b
 \sf <nb="2011"> 158
-\ph nyana
+\or nyana
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -38945,7 +38947,7 @@
 \lx njo˩pɤ˩lv̩˥
 \sf <nb="B"> 1953
 \sf <nb="2011"> 2967
-\ph nyobelu
+\or nyobelu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -38968,7 +38970,7 @@
 \lx njɤ˩qʰwɤ˧˥
 \sf <nb="B"> 105
 \sf <nb="2011"> 159
-\ph nyakheu
+\or nyakheu
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -38992,7 +38994,7 @@
 \dt 09/Sep/2015
 
 \lx njɤ˩-tse˧~tse˩
-\ph nyazeizei
+\or nyazeizei
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -39011,7 +39013,7 @@
 \dt 25/Apr/2017
 
 \lx njɤ˧ʈʂɤ˥
-\ph nyazhe
+\or nyazhe
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -39030,7 +39032,7 @@
 
 \lx njɤ˩ʈʂv̩˧˥
 \sf <nb="2011"> 2770
-\ph nyazhu
+\or nyazhu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -39050,7 +39052,7 @@
 \lx no˩
 \sf <nb="B"> 2157
 \sf <nb="2011"> 3392
-\ph no
+\or no
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -39073,7 +39075,7 @@
 \dt 25/Apr/2017
 
 \lx no˩bv̩˧
-\ph Nobbu
+\or Nobbu
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -39090,7 +39092,7 @@
 \dt 09/Sep/2015
 
 \lx no˧no˧
-\ph Nono
+\or Nono
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -39108,7 +39110,7 @@
 \lx ŋɤ˩ŋɤ˩
 \sf <nb="B"> 133
 \sf <nb="2011"> 195
-\ph ngenge
+\or ngenge
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -39130,7 +39132,7 @@
 \dt 09/Sep/2015
 
 \lx no˧no˧-ɖɯ˩mɑ˩
-\ph Nono Ddeema
+\or Nono Ddeema
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -39146,7 +39148,7 @@
 \dt 25/Apr/2017
 
 \lx no˩qo˥
-\ph nogho
+\or nogho
 \ps adv
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -39164,7 +39166,7 @@
 \lx no˧-sɯ˩kv̩˩
 \sf <nb="B"> 2160
 \sf <nb="2011"> 3397
-\ph nosigu
+\or nosigu
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -39217,7 +39219,7 @@
 \dt 25/Apr/2017
 
 \lx no˩zɯ˧˥
-\ph nossi
+\or nossi
 \ps pro
 \cf no˧=zɯ˩
 \sd <langue="fra"> morphosyntaxe
@@ -39235,7 +39237,7 @@
 \dt 09/Sep/2015
 
 \lx no˩α
-\ph noq
+\or noq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -39271,7 +39273,7 @@
 \lx no˧=ɻ̍˩
 \sf <nb="B"> 2157d
 \sf <nb="2011"> 3393
-\ph nolae
+\or nolae
 \ps pro
 \cf no˧-sɯ˩kv̩˩
 \sd <langue="fra"> morphosyntaxe
@@ -39290,7 +39292,7 @@
 \lx no˧=zɯ˩
 \sf <nb="B"> 2160g
 \sf <nb="2011"> 3402
-\ph nossi
+\or nossi
 \ps pro
 \cf no˩zɯ˧˥
 \sd <langue="fra"> morphosyntaxe
@@ -39310,7 +39312,7 @@
 \lx ɳɯ˧˥
 \sf <nb="B"> 1426b
 \sf <nb="2011"> 2059
-\ph neeq
+\or neeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -39338,7 +39340,7 @@
 \lx ɳɯ˥
 \sf <nb="B"> 938a
 \sf <nb="2011"> 1360
-\ph nee
+\or nee
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -39372,7 +39374,7 @@
 \lx ɳɯ˧ɕi˩
 \sf <nb="B"> 2266
 \sf <nb="2011"> 2479
-\ph nuxie
+\or nuxie
 \ps adj
 \ton L#
 \lc ɳɯ˧ɕi˩
@@ -39395,7 +39397,7 @@
 \lx ɳɯ˧go˧˥
 \sf <nb="B"> 1088a
 \sf <nb="2011"> 1543
-\ph niggo
+\or niggo
 \ps adj
 \ton MH#
 \lc ɳɯ˧go˧˥
@@ -39422,7 +39424,7 @@
 \sf <nb="B"> 1638b
 \sf <nb="2011"> 1714
 \hm 1
-\ph nu
+\or nu
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -39457,7 +39459,7 @@
 \sf <nb="B"> 1416
 \sf <nb="2011"> 2044
 \hm 2
-\ph nu
+\or nu
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -39478,10 +39480,11 @@
 \lx ɳv̩˩˧
 \sf <nb="B"> 1828
 \sf <nb="2011"> 2780
-\ph neuq
+\or neuq
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
+\nt <type="hist" print="n"> Question raised by Roselle (2017): or do you mean the larva of this insect - in which case you should use 'moth larva'? Or do you mean 'borer' (an insect that eats tiny round holes in wood or books)? or 'silverfish' (an insect that eats clothes and, I think books)?
 \np phonétiquement, proche de: /ɳɻ/; exemple élicité pour vérifier la catégorie tonale: ɳv̩˩ ʐɤ˧-ze˧: élever des mites (+|fg{pfv}), qui indique que c'est LM
 \ton LM
 \lc ɳv̩˩˥
@@ -39493,8 +39496,6 @@
 \pdl classifier
 \pdv mi˩
 \de Moth; insect that eats into wood, books, clothes etc.
-or do you mean the larva of this insect - in which case you should use "moth larva"? Or do you mean "borer" (an insect that eats tiny round holes in wood or books) 
-or "silverfish" (an insect that eats clothes and, I think books)?  
 \ge moth
 \dn 蛀虫
 \gn 蛀虫
@@ -39506,7 +39507,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1563
 \sf <nb="B"> 1590b
 \sf <nb="2011"> 1972
-\ph neu
+\or neu
 \ps v
 \sn 1
 \sd <langue="fra"> verbe
@@ -39552,7 +39553,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ŋv̩˩
 \sf <nb="B"> 67
 \sf <nb="2011"> 114
-\ph ngu
+\or ngu
 \ps n
 \lc ŋv̩˧
 \sn 1
@@ -39586,7 +39587,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx nv̩˩dʑɯ˥
 \sf <nb="B"> 2173b
 \sf <nb="2011"> 3142
-\ph nujji
+\or nujji
 \ps n
 \lc nv̩˩dʑɯ˥
 \sd <langue="fra"> plante
@@ -39611,7 +39612,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx nv̩˩ho#˥
 \sf <nb="B"> 2173a
 \sf <nb="2011"> 3141
-\ph nuho
+\or nuho
 \ps n
 \lc nv̩˩ho˥
 \sd <langue="fra"> plante
@@ -39636,7 +39637,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx nv̩˧hṽ̩˩
 \sf <nb="B"> 2043
 \sf <nb="2011"> 3148
-\ph nuhun
+\or nuhun
 \ps n
 \lc nv̩˧hṽ̩˩
 \sd <langue="fra"> plante
@@ -39660,7 +39661,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx nv̩˧hṽ̩˩-bi˩bi˩
 \sf <nb="B"> 2040
 \sf <nb="2011"> 3147
-\ph nuhunbbibbi
+\or nuhunbbibbi
 \ps n
 \lc nv̩˧hṽ̩˩bi˩bi˩
 \sd <langue="fra"> plante
@@ -39684,7 +39685,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx nv̩˩ɭɯ˧
 \sf <nb="B"> 2038
 \sf <nb="2011"> 3139
-\ph nulee
+\or nulee
 \ps n
 \lc nv̩˩ɭɯ˥
 \sd <langue="fra"> plante
@@ -39709,7 +39710,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx nv̩˩mi˩
 \sf <nb="B"> 151
 \sf <nb="2011"> 219
-\ph numi
+\or numi
 \ps n
 \lc nv̩˩mi˩˥
 \sn 1
@@ -39766,7 +39767,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx nv̩˩mi˩-ɖɯ˩
 \sf <nb="B"> 671
 \sf <nb="2011"> 1001
-\ph numi ddeeq
+\or numi ddeeq
 \et nv̩˩mi˩; ɖɯ˩a
 \ps adj
 \lc nv̩˩mi˩ɖɯ˩˥
@@ -39796,7 +39797,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx nv̩˩mi˩-ki˧ki˩
 \sf <nb="2011"> 1516
-\ph numi gigi
+\or numi gigi
 \et nv̩˩mi˩; ki˧a
 \ps adj
 \ton L-L#
@@ -39814,7 +39815,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx nv̩˩mi˩-ʈʰi˩
 \sf <nb="2011"> 1004
-\ph numi teiq
+\or numi teiq
 \et nv̩˩mi˩; ʈʰi˩a
 \ps adj
 \sd <langue="fra"> adjectif
@@ -39833,7 +39834,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 24/Jul/2017
 
 \lx nv̩˩pi˧
-\ph nubi
+\or nubi
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -39850,7 +39851,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx nv̩˧pɤ˩
 \sf <nb="2011"> 3149
-\ph nube
+\or nube
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -39868,7 +39869,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx nv̩˩tɕʰi#˥
 \sf <nb="B"> 2147
 \sf <nb="2011"> 3291
-\ph nujie
+\or nujie
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -39891,7 +39892,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx nv̩˩tsɑ˧˥
 \sf <nb="2011"> 3292
-\ph nuza
+\or nuza
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -39911,7 +39912,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Sep/2015
 
 \lx nv̩˧tv̩˥
-\ph nudu
+\or nudu
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -39931,7 +39932,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx nv̩˩ze˧
 \sf <nb="2011"> 3145
-\ph nussei
+\or nussei
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -39953,7 +39954,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ŋv̩˩α
 \sf <nb="B"> 2195
 \sf <nb="2011"> 2604
-\ph ngu
+\or ngu
 \ps v
 \lc ŋv̩˩˥
 \sd <langue="fra"> verbe
@@ -39977,7 +39978,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ŋwæ˧qʰv̩˧
 \sf <nb="B"> 2311
 \sf <nb="2011"> 50
-\ph nguakheu
+\or nguakheu
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -40005,7 +40006,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ŋwɤ˧
 \sf <nb="B"> 815
 \sf <nb="2011"> 1203
-\ph ngua
+\or ngua
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
@@ -40027,7 +40028,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ŋwɤ˧˥
 \sf <nb="B"> 1683
 \sf <nb="2011"> 1692
-\ph nguaq
+\or nguaq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -40053,7 +40054,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ŋwɤ˧hɑ̃˩
 \sf <nb="2011"> 3312
-\ph Nguahan
+\or Nguahan
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -40076,7 +40077,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ŋwɤ˩ɬi˩mi˩
 \sf <nb="B"> 781
 \sf <nb="2011"> 1177
-\ph ngualhimi
+\or ngualhimi
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -40097,7 +40098,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ŋwɤ˩ɭɯ˧-tse˥pʰæ˩
 \sf <nb="B"> 169b
 \sf <nb="2011"> 236
-\ph ngualee zeipae
+\or ngualee zeipae
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -40118,7 +40119,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ŋwɤ˩ɬv̩˧˥
 \sf <nb="B"> 168b
 \sf <nb="2011"> 234
-\ph ngualhu
+\or ngualhu
 \ps n
 \cf ŋwɤ˧qo˥
 \sd <langue="fra"> corps
@@ -40146,7 +40147,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ŋwɤ˧pʰæ˧˥
 \sf <nb="B"> 474
 \sf <nb="2011"> 646
-\ph nguapae
+\or nguapae
 \bw <langue="cmn"> 瓦
 \ec <langue="eng"> Chinese ‘tile' plus the Na classifier for flat objects
 \ps n
@@ -40173,7 +40174,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ŋwɤ˧qo˥
 \sf <nb="B"> 168a
 \sf <nb="2011"> 233
-\ph nguagho
+\or nguagho
 \ps n
 \cf ŋwɤ˩ɬv̩˧˥
 \sd <langue="fra"> corps
@@ -40198,7 +40199,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ŋwɤ˧tsʰi˩
 \sf <nb="B"> 833
 \sf <nb="2011"> 1230
-\ph nguacee
+\or nguacee
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
@@ -40218,7 +40219,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Sep/2015
 
 \lx ŋwɤ˧ʈʂwæ˧
-\ph nguazhuae
+\or nguazhuae
 \bw <langue="cmn"> 瓦砖
 \ps n
 \ton M
@@ -40237,7 +40238,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx õ˧˥
 \sf <nb="B"> 897
 \sf <nb="2011"> 1315
-\ph onq
+\or onq
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -40328,7 +40329,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 29/Jul/2016
 
 \lx õ˧dɤ˧ɻ̍˧
-\ph ondde'er
+\or ondde'er
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
@@ -40343,7 +40344,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \gn 根本
 \df Fondement/fondamentalement.
 \gf fondement
-\xv õ˧dɤ˧ɻ̍˧-ɳɯ˧, | hĩ˧ ʈʂʰɯ˧-v̩˧ | ʈʂʰɯ˧ne˧ gv̩˧˥ | -ɲi˩!
+\xv õ˧dɤ˧ɻ̍˧-ɳɯ˧, | hĩ˧ ʈʂʰɯ˧-v̩˧ | ʈʂʰɯ˧ne˧ gv̩˧˥ ◊ -ɲi˩!
 \xe So that is how he really behaves / does! (Comment on someone whose behaviour is not respectful of good manners)
 \xn 他原来是这样做事情的！ / 他原来这么不懂事！
 \xf Voilà comment il se comporte en réalité/au fond! (Se dit de quelqu'un dont le comportement est irrespectueux des règles de savoir-vivre)
@@ -40352,7 +40353,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx õ˩dv̩˧˥
 \sf <nb="B"> 1916
 \sf <nb="2011"> 2907
-\ph onddu
+\or onddu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -40376,7 +40377,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Sep/2015
 
 \lx õ˩dv̩˧-kʰv̩˥mi˩
-\ph onddu kumi
+\or onddu kumi
 \sf <nb="B"> 1872
 \sf <nb="2011"> 2849
 \ps n
@@ -40400,7 +40401,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 04/Aug/2017
 
 \lx õ˩dv̩˧-mi˥
-\ph onddumi
+\or onddumi
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -40418,7 +40419,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 26/Apr/2017
 
 \lx õ˩dv̩˧-pʰv̩#˥
-\ph onddupu
+\or onddupu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -40436,7 +40437,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 03/Aug/2017
 
 \lx õ˩dv̩˧-zo#˥
-\ph ondeusso
+\or ondeusso
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -40452,7 +40453,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 26/Apr/2017
 
 \lx õ˧ʈʂʰɯ˧ne˧-ʝi˥
-\ph on tee niq yi
+\or on tee niq yi
 \ps adv
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -40472,7 +40473,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx õ˧ʈʂwɤ˧
 \sf <nb="B"> 1807
 \sf <nb="2011"> 2747
-\ph onzhua
+\or onzhua
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -40503,7 +40504,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx õ˧ʈʂwɤ˧-kv̩˧dʑɯ˧˥
 \sf <nb="B"> 448
 \sf <nb="2011"> 581
-\ph onzhua gujji
+\or onzhua gujji
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -40526,7 +40527,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 26/Apr/2017
 
 \lx õ˧tʰv̩˧ɲi˧
-\ph on teeni
+\or on teeni
 \ps n
 \ton M
 \lc õ˧tʰv̩˧ɲi˧
@@ -40543,7 +40544,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx pæ˧˥
 \hm 1
-\ph baeq
+\or baeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -40560,7 +40561,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx pæ˧˥
 \hm 2
-\ph baeq
+\or baeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -40574,7 +40575,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \gn 超过/错过
 \df Dépasser, outrepasser; laisser passer (une occasion).
 \gf outrepasser/laisser_passer
-\xv pæ˧˥ | -kʰɯ˩-pi˩, | mɤ˧-tsɤ˧! |
+\xv pæ˧˥ ◊ -kʰɯ˩-pi˩, | mɤ˧-tsɤ˧! |
 \xe It's not good to let (an auspicious day) slip by! / It's not good to miss the opportunity (of an auspicious days; for the building of a house, for instance)
 \xn 错过（一个吉日），不好！
 \xf Ce n'est pas bien de laisser passer (un jour propice: pour la construction d'une maison, par exemple)!
@@ -40589,7 +40590,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Sep/2015
 
 \lx pæ˥
-\ph bae
+\or bae
 \bw <langue="cmn"> 搬？
 \ps v
 \sd <langue="fra"> verbe
@@ -40607,7 +40608,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Sep/2015
 
 \lx pʰæ˧˥
-\ph paeq
+\or paeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -40635,7 +40636,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pʰæ˧β
 \sf <nb="B"> 1515
 \sf <nb="2011"> 2023
-\ph pae
+\or pae
 \ps v
 \sn 1
 \sd <langue="fra"> verbe
@@ -40676,7 +40677,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Sep/2015
 
 \lx pæ˧˥hwɤ˧
-\ph baefe
+\or baefe
 \bw <langue="cmn"> 办法
 \ps n
 \sd <langue="fra"> abstrait
@@ -40699,7 +40700,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 21/Jun/2017
 
 \lx pæ˧kʰwɤ#˥
-\ph baekua
+\or baekua
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -40731,7 +40732,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx pæ˧li˩
 \sf <nb="2011"> 3119
-\ph baeli
+\or baeli
 \bw <langue="cmn"> 板栗
 \ps n
 \sd <langue="fra"> plante
@@ -40759,7 +40760,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 451a
 \sf <nb="2011"> 585
 \hm 1
-\ph baepae
+\or baepae
 \ps n
 \sn 1
 \sd <langue="fra"> maison
@@ -40789,7 +40790,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx pæ˩pʰæ˧˥
 \hm 2
-\ph Baepae
+\or Baepae
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -40807,7 +40808,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pʰæ˧qʰwɤ˩
 \sf <nb="B"> 116
 \sf <nb="2011"> 172
-\ph paekhua
+\or paekhua
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -40831,7 +40832,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 26/Apr/2017
 
 \lx pæ˧ɻæ˩-ʈʂʰo˩
-\ph Bae'ercho
+\or Bae'ercho
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -40851,7 +40852,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 16/Jun/2017
 
 \lx pæ˧sɯ˧
-\ph baesi
+\or baesi
 \bw <langue="cmn"> 把事
 \ps n
 \sd <langue="fra"> société
@@ -40868,7 +40869,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Sep/2015
 
 \lx pʰæ˧ʂv̩˧-di˧˥
-\ph paeshuddi
+\or paeshuddi
 \ps n
 \ton MH#
 \lc pʰæ˧ʂv̩˧di˧˥
@@ -40886,7 +40887,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pʰæ˧tɕi˥
 \sf <nb="B"> 265
 \sf <nb="2011"> 344
-\ph paejie
+\or paejie
 \ps n
 \sn 1
 \sd <langue="fra"> société
@@ -40935,7 +40936,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx pɑ˧tɕɤ˧
 \sf <nb="2011"> 3116
-\ph baja
+\or baja
 \bw <langue="cmn"> 芭蕉
 \ps n
 \lc pɑ˧tɕɤ˧
@@ -40954,7 +40955,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pæ˧te˩
 \sf <nb="B"> 485b
 \sf <nb="2011"> 666
-\ph baedi
+\or baedi
 \bw <langue="cmn"> 板凳
 \ps n
 \lc pæ˧te˩
@@ -40977,7 +40978,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pʰæ˧ʈʂʰæ˧lo#˥
 \sf <nb="B"> 527
 \sf <nb="2011"> 758
-\ph paechaelo
+\or paechaelo
 \ps n
 \lc pʰæ˧ʈʂʰæ˧lo˧
 \sd <langue="fra"> objet
@@ -40998,7 +40999,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 26/Apr/2017
 
 \lx pæ˩α
-\ph baeq
+\or baeq
 \bw <langue="cmn"> 摆？
 \ps v
 \sd <langue="fra"> verbe
@@ -41020,7 +41021,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 26/Apr/2017
 
 \lx pæ˥α
-\ph bae
+\or bae
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -41038,7 +41039,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pʰæ˧˥α
 \sf <nb="B"> 2243
 \sf <nb="2011"> 1286
-\ph pae
+\or pae
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -41058,7 +41059,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 26/Apr/2017
 
 \lx pʰe˧
-\ph pei
+\or pei
 \ps intj
 \lc pʰe˧
 \sd <langue="fra"> interjection
@@ -41075,7 +41076,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Sep/2015
 
 \lx pe˧ʂe˧
-\ph beishei
+\or beishei
 \bw <langue="cmn"> 本身
 \ps adv
 \lc pe˧ʂe˧
@@ -41093,7 +41094,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx pi˩˥
 \sf <nb="2011"> 947
-\ph biq
+\or biq
 \bw <langue="cmn"> 笔
 \ps n
 \lc pi˩˥
@@ -41116,7 +41117,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pi˥
 \sf <nb="B"> 1521
 \sf <nb="2011"> 2271
-\ph bi
+\or bi
 \ps v
 \lc pi˧
 \sd <langue="fra"> verbe
@@ -41147,7 +41148,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx pʰi˩
 \bw <langue="cmn"> 平
-\ph piq
+\or piq
 \ps adj
 \lc pʰi˩˥
 \sd <langue="fra"> adjectif
@@ -41164,7 +41165,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx pʰi˧
 \sf <nb="2011"> 522
-\ph pi
+\or pi
 \ps n
 \lc pʰi˧
 \sd <langue="fra"> vêtement
@@ -41193,7 +41194,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pʰi˧˥
 \sf <nb="B"> 1168
 \sf <nb="2011"> 1660
-\ph piq
+\or piq
 \ps v
 \lc pʰi˧˥
 \sd <langue="fra"> verbe
@@ -41218,7 +41219,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx pʰi˧β
 \sf <nb="2011"> 2387
-\ph pi
+\or pi
 \ps v
 \lc pʰi˧
 \sd <langue="fra"> verbe
@@ -41246,7 +41247,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 26/Apr/2017
 
 \lx pʰi˩hæ˩
-\ph pihae
+\or pihae
 \bw <langue="cmn"> 皮 (second syllable: not identified)
 \ps n
 \lc pʰi˩hæ˩˥
@@ -41271,7 +41272,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> ancien
 \sf <nb="B"> 2063)
 \sf <nb="2011"> 3000
-\ph pigo
+\or pigo
 \bw <langue="cmn"> 苹果
 \ps n
 \lc pʰi˩ko˥
@@ -41296,7 +41297,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx pʰi˧kʰv̩˧
 \sf <nb="2011"> 677
-\ph piku
+\or piku
 \ps n
 \lc pʰi˧kʰv̩˧
 \sd <langue="fra"> objet
@@ -41316,7 +41317,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx pʰi˧kʰv̩˧
 \sf <nb="2011"> 562
-\ph piku
+\or piku
 \ps n
 \lc pʰi˧kʰv̩˧
 \sd <langue="fra"> objet
@@ -41334,7 +41335,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pʰi˧li˩
 \sf <nb="B"> 1842
 \sf <nb="2011"> 2798
-\ph pili
+\or pili
 \ps n
 \lc pʰi˧li˩
 \sd <langue="fra"> animal
@@ -41356,7 +41357,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx pi˧lv̩#˥
 \sf <nb="2011"> 1028
-\ph bilu
+\or bilu
 \ps n
 \lc pi˧lv̩˧
 \ton #H
@@ -41374,7 +41375,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 21/Jun/2017
 
 \lx pi˧mɑ˧
-\ph Bima
+\or Bima
 \ps n
 \lc pi˧mɑ˧
 \sd <langue="fra"> nom propre
@@ -41390,7 +41391,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Sep/2015
 
 \lx pi˧mɑ˧-ɬɑ˩mv̩˩
-\ph Bima Lhamu
+\or Bima Lhamu
 \ps n
 \lc pi˧mɑ˧ɬɑ˩mv̩˩
 \sd <langue="fra"> nom propre
@@ -41406,7 +41407,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 26/Apr/2017
 
 \lx pi˧mɑ˧-ɬɑ˩tsʰo˩
-\ph Bima Lhaco
+\or Bima Lhaco
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -41425,7 +41426,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 599
 \sf <nb="2011"> 866
 \hm 1
-\ph pimo
+\or pimo
 \ps n
 \cf pʰi˧mo˩2
 \sd <langue="fra"> objet
@@ -41449,7 +41450,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pʰi˧mo˩
 \sf <nb="2011"> 926
 \hm 2
-\ph pimo
+\or pimo
 \ps n
 \cf pʰi˧mo˩1
 \sd <langue="fra"> objet
@@ -41472,7 +41473,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pi˩mv̩˥
 \sf <nb="B"> 1964
 \sf <nb="2011"> 2984
-\ph bimu
+\or bimu
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -41491,7 +41492,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 21/Jun/2017
 
 \lx pi˧mv̩˥$
-\ph bimu
+\or bimu
 \ps n
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
@@ -41509,7 +41510,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pi˩ɻ̍˥
 \sf <nb="B"> 117
 \sf <nb="2011"> 173
-\ph bi'er
+\or bi'er
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -41534,7 +41535,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pʰi˩tʰɑ˩
 \sf <nb="B"> 2176
 \sf <nb="2011"> 3299
-\ph pita
+\or pita
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -41554,7 +41555,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Sep/2015
 
 \lx pi˩ti#˥
-\ph bidi
+\or bidi
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -41573,7 +41574,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Sep/2015
 
 \lx pʰi˧ʈʂæ˧
-\ph pizhae
+\or pizhae
 \bw <langue="cmn"> 披毡
 \ps v
 \sd <langue="fra"> verbe
@@ -41590,7 +41591,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Sep/2015
 
 \lx pi˧tsʰe˩-di˩
-\ph Biceiddi
+\or Biceiddi
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -41614,7 +41615,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 26/Apr/2017
 
 \lx pʰi˧tsʰo˧-ɖɯ˩ɖʐɯ˩
-\ph Pico Ddeezzhi
+\or Pico Ddeezzhi
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -41630,7 +41631,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 26/Apr/2017
 
 \lx pʰi˧tsʰo#˥
-\ph Pico
+\or Pico
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -41648,7 +41649,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pi˧˥α
 \sf <nb="B"> 938b
 \sf <nb="2011"> 1361
-\ph bi
+\or bi
 \ps clf
 \lc ɖɯ˧ pi˧˥
 \sd <langue="fra"> classificateur
@@ -41691,7 +41692,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 30/Apr/2017
 
 \lx pjɤ˥
-\ph bia
+\or bia
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -41713,7 +41714,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx po˧˥
 \sf <nb="B"> 1328
 \sf <nb="2011"> 1905
-\ph boq
+\or boq
 \ps v
 \sn 1
 \sd <langue="fra"> verbe
@@ -41772,7 +41773,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx po˥
 \sf <nb="2011"> 1595
-\ph bo
+\or bo
 \bw <langue="cmn"> 包
 \ps v
 \lc po˧
@@ -41795,7 +41796,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pɤ˧˥
 \sf <nb="B"> 1285b
 \sf <nb="2011"> 1843
-\ph beq
+\or beq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -41822,7 +41823,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Sep/2015
 
 \lx pɤ˥
-\ph be
+\or be
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -41848,7 +41849,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pɤ˥
 \sf <nb="B"> 633
 \sf <nb="2011"> 941
-\ph be
+\or be
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -41870,7 +41871,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pʰo˧˥
 \sf <nb="B"> 1286
 \sf <nb="2011"> 1844
-\ph poq
+\or poq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -41896,7 +41897,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pʰo˥
 \sf <nb="B"> 1442
 \sf <nb="2011"> 1738
-\ph po
+\or po
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -41924,7 +41925,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx pʰɤ˩˧
 \sf <nb="2011"> 2910
-\ph peq
+\or peq
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -41955,7 +41956,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx po˩β
 \sf <nb="B"> 854
 \sf <nb="2011"> 1253
-\ph bo
+\or bo
 \bw <langue="cmn"> 包
 \ps clf
 \sd <langue="fra"> classificateur
@@ -41978,7 +41979,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 26/Apr/2017
 
 \lx pɤ˩β
-\ph be
+\or be
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -41996,7 +41997,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx pɤ˥β
-\ph be
+\or be
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -42019,7 +42020,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pʰo˧β
 \sf <nb="B"> 1204
 \sf <nb="2011"> 1727
-\ph po
+\or po
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -42057,7 +42058,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pʰɤ˧bɤ˧
 \sf <nb="B"> 680
 \sf <nb="2011"> 1015
-\ph pebbe
+\or pebbe
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -42091,7 +42092,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Sep/2015
 
 \lx pɤ˧dʑɤ˩-di˩
-\ph Bejjaddi
+\or Bejjaddi
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -42113,7 +42114,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pɤ˩dʑɯ˩
 \sf <nb="B"> 64
 \sf <nb="2011"> 111
-\ph bejji
+\or bejji
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -42134,7 +42135,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx po˧ɖʐɯ#˥
 \sf <nb="B"> 351a
 \sf <nb="2011"> 410
-\ph bozzhi
+\or bozzhi
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -42161,7 +42162,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Sep/2015
 
 \lx pʰɤ˧fv̩˩
-\ph pefu
+\or pefu
 \bw <langue="cmn"> 壶？
 \ps n
 \sd <langue="fra"> nourriture
@@ -42181,7 +42182,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pɤ˩-ho˩~ho˥
 \sf <nb="B"> 94
 \sf <nb="2011"> 145
-\ph behoho
+\or behoho
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -42210,7 +42211,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pɤ˩jɤ˧˥
 \sf <nb="B"> 384b
 \sf <nb="2011"> 451
-\ph beye
+\or beye
 \ps n
 \sn 1
 \sd <langue="fra"> nourriture
@@ -42274,7 +42275,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pɤ˩jɤ˧bv̩˥-di˩
 \sf <nb="B"> 509d
 \sf <nb="2011"> 707
-\ph beye bbuddi
+\or beye bbuddi
 \ps n
 \lc pɤ˩jɤ˧bv̩˥di˩
 \sd <langue="fra"> objet
@@ -42297,7 +42298,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pɤ˧lɑ˩
 \sf <nb="B"> 633b
 \sf <nb="2011"> 942
-\ph bela
+\or bela
 \ps n
 \lc pɤ˧lɑ˩
 \sd <langue="fra"> objet
@@ -42318,7 +42319,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx pʰo˩lɑ˧˥
-\ph pola
+\or pola
 \ps v
 \lc pʰo˩lɑ˧˥
 \sd <langue="fra"> verbe
@@ -42344,7 +42345,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx po˧lo˧
 \sf <nb="B"> 1890
 \sf <nb="2011"> 2871
-\ph bolo
+\or bolo
 \ps n
 \lc po˩lo˧
 \sd <langue="fra"> animal
@@ -42374,7 +42375,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx pɤ˩lv̩˩
-\ph belu
+\or belu
 \ps n
 \cf æ˧tsɯ˥pɤ˩lv̩˩
 \lc pɤ˩lv̩˩˥
@@ -42393,7 +42394,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 24/Jun/2017
 
 \lx pɤ˩lv̩˧
-\ph belu
+\or belu
 \ps n
 \lc pɤ˩lv̩˥
 \sd <langue="fra"> maison
@@ -42410,7 +42411,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pɤ˩mi˩
 \sf <nb="B"> 1895
 \sf <nb="2011"> 2878
-\ph bemi
+\or bemi
 \ps n
 \lc pɤ˩mi˩˥
 \sd <langue="fra"> animal
@@ -42457,7 +42458,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx pʰɤ˩mi˩
-\ph pemi
+\or pemi
 \ps n
 \lc pʰɤ˩mi˩˥
 \sd <langue="fra"> animal
@@ -42477,7 +42478,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx po˧po˧
 \sf <nb="B"> 646
 \sf <nb="2011"> 966
-\ph bobo
+\or bobo
 \ps n
 \lc po˧po˧
 \sd <langue="fra"> objet
@@ -42505,7 +42506,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx po˧po˧tsʰɤ˧˥
-\ph boboce
+\or boboce
 \bw <langue="cmn"> 包包菜
 \ps n
 \lc po˧po˧tsʰɤ˧˥
@@ -42525,7 +42526,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx pɤ˩pʰv̩˩
-\ph bepu
+\or bepu
 \ps n
 \lc pɤ˩pʰv̩˩˥
 \sd <langue="fra"> animal
@@ -42543,7 +42544,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 03/Aug/2017
 
 \lx pʰɤ˧pʰv̩#˥
-\ph pepu
+\or pepu
 \ps n
 \lc pʰɤ˧pʰv̩˧
 \sd <langue="fra"> animal
@@ -42564,7 +42565,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx pɤ˧ʁɑ˧
 \sf <nb="2011"> 1293
-\ph behra
+\or behra
 \ps clf
 \lc ɖɯ˧ pɤ˧ʁɑ˧
 \sd <langue="fra"> classificateur
@@ -42592,7 +42593,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pʰɤ˩-so˩~so˥
 \sf <nb="B"> 1108
 \sf <nb="2011"> 1568
-\ph pesoso
+\or pesoso
 \ps adj
 \lc pʰɤ˩so˩so˥
 \sd <langue="fra"> verbe
@@ -42611,7 +42612,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx pɤ˩tɕɯ˧˥
-\ph beji
+\or beji
 \ps n
 \cf pɤ˩tɕɯ˧-ʁo˧ɖɯ˧˥, pɤ˩tɕɯ˧-pɤ˥mi˩
 \sd <langue="fra"> animal
@@ -42634,7 +42635,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pɤ˩tɕɯ˧-pɤ˥mi˩
 \sf <nb="B"> 1896a
 \sf <nb="2011"> 2879
-\ph beji bemi 
+\or beji bemi 
 \ps n
 \cf pɤ˩tɕɯ˧˥, pɤ˩tɕɯ˧-ʁo˧ɖɯ˧˥
 \sd <langue="fra"> animal
@@ -42658,7 +42659,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Aug/2017
 
 \lx pɤ˩tɕɯ˧-ʁo˧ɖɯ˧˥
-\ph beji woddee
+\or beji woddee
 \ps n
 \cf pɤ˩tɕɯ˧˥, pɤ˩tɕɯ˧-pɤ˥mi˩
 \sd <langue="fra"> animal
@@ -42677,7 +42678,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Aug/2017
 
 \lx pɤ˧tʰi˩
-\ph Beti
+\or Beti
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -42699,7 +42700,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pɤ˩ti#˥
 \sf <nb="B"> 485
 \sf <nb="2011"> 665
-\ph bedi
+\or bedi
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -42722,7 +42723,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 21/Jun/2017
 
 \lx pɤ˧ʈʂʰwæ˩
-\ph bechuae
+\or bechuae
 \sf <nb="B"> 1573
 \sf <nb="B"> 1110
 \sf <nb="2011"> 2630
@@ -42762,7 +42763,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx pɤ˧tv̩˥
 \sf <nb="2011"> 731
-\ph bedu
+\or bedu
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -42782,7 +42783,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Sep/2015
 
 \lx pʰɤ˩zo˩
-\ph pesso
+\or pesso
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -42803,7 +42804,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pɤ˩˧ʐv̩˩
 \sf <nb="B"> 446b
 \sf <nb="2011"> 578
-\ph beru
+\or beru
 \bw <langue="cmn"> 被褥
 \ps n
 \sd <langue="fra"> maison
@@ -42832,7 +42833,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx po˧α
-\ph bo
+\or bo
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -42849,7 +42850,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx pɤ˩α
 \sf <nb="2011"> 107
-\ph beq
+\or beq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -42886,7 +42887,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1127
 \sf <nb="B"> 1128
 \sf <nb="2011"> 1582
-\ph be
+\or be
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -42946,7 +42947,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Sep/2015
 
 \lx pɤ˥α
-\ph be
+\or be
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -42974,7 +42975,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pʰo˩α
 \sf <nb="B"> 1532
 \sf <nb="2011"> 2317
-\ph poq
+\or poq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -43005,7 +43006,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pʰo˧˥α
 \sf <nb="B"> 853
 \sf <nb="2011"> 1277
-\ph po
+\or po
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -43026,7 +43027,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pv̩˩
 \sf <nb="B"> 1378
 \sf <nb="2011"> 1734
-\ph buq
+\or buq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -43064,7 +43065,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pv̩˧
 \sf <nb="2011"> 1985
 \hm 1
-\ph bu
+\or bu
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -43092,7 +43093,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 980
 \sf <nb="2011"> 2475
 \hm 2
-\ph beu
+\or beu
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -43138,7 +43139,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1671)
 \sf <nb="2011"> 1575
 \hm 1
-\ph beuq
+\or beuq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -43168,7 +43169,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pv̩˧˥
 \sf <nb="2011"> 2174
 \hm 2
-\ph beuq
+\or beuq
 \ec <langue="fra"> Le disyllabe provient probablement d'un directionnel /gɤ˩-/ passé à /gæ˩-/ par harmonie vocalique régressive; mais en synchronie, la forme usuelle est disyllabique: /gæ˩-pv̩˧˥/; le monosyllabe n'est pas employé seul.
 \ps v
 \sd <langue="fra"> verbe
@@ -43199,7 +43200,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx pv̩˧˥
 \hm 3
-\ph bu
+\or bu
 \bw <langue="cmn"> 步
 \ps clf
 \sd <langue="fra"> classificateur
@@ -43218,7 +43219,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx pʰv̩˧
 \hm 1
-\ph pu
+\or pu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -43245,7 +43246,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx pʰv̩˧
 \hm 2
-\ph pu
+\or pu
 \ps n
 \ton M
 \lc pʰv̩˧
@@ -43258,7 +43259,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 21/Jun/2017
 
 \lx pʰv̩˧˥
-\ph puq
+\or puq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -43276,7 +43277,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx pʰv̩˧˥
 \hm 1
-\ph puq
+\or puq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -43311,7 +43312,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 2308
 \sf <nb="2011"> 1811
 \hm 2
-\ph puq
+\or puq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -43348,7 +43349,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1227
 \sf <nb="2011"> 1756
 \hm 3
-\ph puq
+\or puq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -43379,7 +43380,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1600
 \sf <nb="2011"> 2391
 \hm 1
-\ph puq
+\or puq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -43411,7 +43412,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1600
 \sf <nb="2011"> 2391
 \hm 2
-\ph puq
+\or puq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -43435,7 +43436,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pʰv̩˧ɖɯ˧˥
 \sf <nb="B"> 1012
 \sf <nb="2011"> 1444
-\ph puddee
+\or puddee
 \et pʰv̩˧ 2; ɖɯ˩a
 \ps adj
 \sd <langue="fra"> adjectif
@@ -43460,7 +43461,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx pʰv̩˧dʑo˧-hĩ#˥
 \sf <nb="2011"> 3342
-\ph Pujjohin
+\or Pujjohin
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -43476,7 +43477,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx pʰv̩˧dʑo#˥
-\ph Pujjo
+\or Pujjo
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -43499,7 +43500,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pʰv̩˧kɤ˧
 \sf <nb="B"> 447
 \sf <nb="2011"> 579
-\ph puge
+\or puge
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -43523,7 +43524,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pv̩˩ɭɯ˥
 \sf <nb="B"> 421
 \sf <nb="2011"> 532
-\ph bulee
+\or bulee
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
@@ -43549,7 +43550,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pv̩˧ɭɯ˧
 \sf <nb="B"> 1228
 \sf <nb="2011"> 1758
-\ph bulee
+\or bulee
 \ps v
 \ton M
 \lc pv̩˧ɭɯ˧
@@ -43579,7 +43580,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pʰv̩˧ɭɯ˧-ʈʰæ˧qʰwɤ˥
 \sf <nb="B"> 427
 \sf <nb="2011"> 543
-\ph pulee taekhua
+\or pulee taekhua
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
@@ -43602,7 +43603,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx pʰv̩˧ɭɯ#˥
-\ph pulee
+\or pulee
 \ps n
 \cf pv̩˧ɻ̍#˥
 \sd <langue="fra"> vêtement
@@ -43625,7 +43626,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pv̩˧lv̩˧
 \sf <nb="B"> 53
 \sf <nb="2011"> 92
-\ph beulu
+\or beulu
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -43650,7 +43651,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pv̩˩mi˩
 \sf <nb="B"> 425
 \sf <nb="2011"> 538
-\ph bumi
+\or bumi
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
@@ -43671,7 +43672,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 10/Sep/2015
 
 \lx pv̩˩pv̩˧
-\ph bubu
+\or bubu
 \ps n
 \sy tɑ˩dv̩˧˥
 \sd <langue="fra"> vêtement
@@ -43693,7 +43694,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 10/Sep/2015
 
 \lx pv̩˧qʰwɤ˥
-\ph bukhua
+\or bukhua
 \ps n
 \cf kʰɯ˩pv̩˩
 \sd <langue="fra"> vêtement
@@ -43721,7 +43722,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pv̩˧ɻ̍#˥
 \sf <nb="B"> 426
 \sf <nb="2011"> 541
-\ph bu'er
+\or bu'er
 \ps n
 \cf pʰv̩˧ɭɯ#˥
 \sd <langue="fra"> vêtement
@@ -43747,7 +43748,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx pv̩˧ʂɯ˩
 \sf <nb="2011"> 573
-\ph bushi
+\or bushi
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
@@ -43769,7 +43770,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 10/Sep/2015
 
 \lx pʰv̩˧ʂɯ˧
-\ph pushi
+\or pushi
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -43795,7 +43796,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pv̩˩tɑ˩
 \sf <nb="B"> 524d
 \sf <nb="2011"> 751
-\ph buda
+\or buda
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -43818,7 +43819,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 954c
 \sf <nb="B"> 955
 \sf <nb="2011"> 1393
-\ph peujae'er
+\or peujae'er
 \et pʰv̩˩a
 \ps adj
 \sd <langue="fra"> adjectif
@@ -43853,7 +43854,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 16/Jun/2017
 
 \lx pʰv̩˥ʈʂʰe˩
-\ph puchei
+\or puchei
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -43884,7 +43885,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pv̩˩tsɯ˧˥
 \sf <nb="B"> 425b
 \sf <nb="2011"> 539
-\ph buzi
+\or buzi
 \ps n
 \sn 1
 \sd <langue="fra"> vêtement
@@ -43916,7 +43917,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pv̩˧ʈʂɯ˩
 \sf <nb="B"> 1729
 \sf <nb="2011"> 2005
-\ph beuzhi
+\or beuzhi
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -43944,7 +43945,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pv̩˩tsɯ˧-pv̩˥mi˩
 \sf <nb="B"> 425c
 \sf <nb="2011"> 540
-\ph buzi bumi
+\or buzi bumi
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
@@ -43964,7 +43965,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 10/Sep/2015
 
 \lx pv̩˩ʈʰɯ˧
-\ph Butee
+\or Butee
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -43980,7 +43981,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 10/Sep/2015
 
 \lx pʰv̩˧tv̩˥
-\ph pudu
+\or pudu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -44009,7 +44010,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pʰv̩˧ʐo˧˥
 \sf <nb="B"> 1013
 \sf <nb="2011"> 1445
-\ph puro
+\or puro
 \et pʰv̩˧ 2; ʐo˩a
 \ps adj
 \cf pʰv̩˧2; ʐo˩a2
@@ -44034,7 +44035,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1606
 \sf <nb="2011"> 2393
 \hm 1
-\ph beuq
+\or beuq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -44059,7 +44060,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx pv̩˩α
 \hm 2
-\ph beuq
+\or beuq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -44090,7 +44091,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1503
 \sf <nb="2011"> 2194
 \hm 3
-\ph buq
+\or buq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -44120,7 +44121,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx pʰv̩˩α
 \sf <nb="B"> 954
 \sf <nb="2011"> 1391
-\ph peuq
+\or peuq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -44142,7 +44143,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 10/Sep/2015
 
 \lx pʰv̩˩α
-\ph pu
+\or pu
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -44167,7 +44168,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 393
 \sf <nb="2011"> 495
 \hm 1
-\ph ghaeq
+\or ghaeq
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -44190,7 +44191,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 577
 \sf <nb="2011"> 817
 \hm 2
-\ph ghaeq
+\or ghaeq
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -44214,7 +44215,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1711
 \sf <nb="2011"> 2245
 \hm 1
-\ph ghaeq
+\or ghaeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -44256,7 +44257,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx qæ˧˥
 \hm 2
-\ph ghaeq
+\or ghaeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -44286,7 +44287,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qæ˥
 \sf <nb="2011"> 1569
 \hm 1
-\ph ghae
+\or ghae
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -44312,7 +44313,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1307
 \sf <nb="2011"> 1875
 \hm 2
-\ph ghae
+\or ghae
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -44366,7 +44367,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1304
 \sf <nb="2011"> 1861
 \hm 3
-\ph ghae
+\or ghae
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -44394,7 +44395,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qɑ˧˥
 \sf <nb="B"> 1118
 \sf <nb="2011"> 1592
-\ph ghaq
+\or ghaq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -44429,7 +44430,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 15/Sep/2015
 
 \lx qʰæ˩
-\ph khaeq
+\or khaeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -44462,7 +44463,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 2203b
 \sf <nb="2011"> 1699
 \hm 1
-\ph khaeq
+\or khaeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -44487,7 +44488,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1141
 \sf <nb="2011"> 1784
 \hm 2
-\ph khaeq
+\or khaeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -44513,7 +44514,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1264
 \sf <nb="2011"> 1825
 \hm 3
-\ph khaeq
+\or khaeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -44532,7 +44533,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qʰæ˧˥
 \sf <nb="2011"> 2173
 \hm 4
-\ph khaeq
+\or khaeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -44563,7 +44564,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1095
 \sf <nb="2011"> 1548
 \hm 5
-\ph khaeq
+\or khaeq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -44591,7 +44592,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx qʰæ˧˥
 \hm 6
-\ph khaeq
+\or khaeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -44632,7 +44633,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1167
 \sf <nb="2011"> 1659
 \hm 1
-\ph khae
+\or khae
 \ps v
 \lc qʰæ˧
 \sd <langue="fra"> verbe
@@ -44655,7 +44656,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1024
 \sf <nb="2011"> 1454
 \hm 2
-\ph khae
+\or khae
 \ps adj
 \lc qʰæ˧
 \sd <langue="fra"> adjectif
@@ -44684,7 +44685,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qʰæ˥
 \sf <nb="2011"> 72
 \hm 3
-\ph khae
+\or khae
 \ps n
 \lc qʰæ˧
 \sd <langue="fra"> environnement naturel
@@ -44709,7 +44710,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 503
 \sf <nb="2011"> 299
 \hm 4
-\ph khae
+\or khae
 \ps n
 \sn 1
 \sd <langue="fra"> corps
@@ -44788,7 +44789,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 909b
 \sf <nb="2011"> 1336
 \hm 1
-\ph kha
+\or kha
 \ps pro
 \lc qʰɑ˧
 \cf qʰɑ˧2
@@ -44872,7 +44873,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx qʰɑ˧
 \hm 2
-\ph kha
+\or kha
 \ps adv
 \lc qʰɑ˧
 \cf qʰɑ˧1
@@ -44900,7 +44901,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qʰɑ˥
 \sf <nb="B"> 1036
 \sf <nb="2011"> 1467
-\ph kha
+\or kha
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -44921,7 +44922,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qæ˩β
 \sf <nb="B"> 1071
 \sf <nb="2011"> 1508
-\ph ghaeq
+\or ghaeq
 \ps v
 \lc qæ˩˥
 \sd <langue="fra"> verbe
@@ -44965,7 +44966,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qʰæ˧β
 \sf <nb="B"> 1238
 \sf <nb="2011"> 1774
-\ph khae
+\or khae
 \ps v
 \lc qʰæ˧
 \sd <langue="fra"> verbe
@@ -44994,7 +44995,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qʰæ˩bæ˩
 \sf <nb="B"> 514
 \sf <nb="2011"> 722
-\ph khaebbae
+\or khaebbae
 \ps n
 \lc qʰæ˩bæ˩˥
 \sd <langue="fra"> objet
@@ -45016,7 +45017,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx qæ˩di˩
 \sf <nb="2011"> 2074
-\ph ghaeddi
+\or ghaeddi
 \ps v
 \lc qæ˩di˩˥
 \sd <langue="fra"> verbe
@@ -45035,7 +45036,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qæ˧do˧
 \sf <nb="B"> 450b
 \sf <nb="2011"> 583
-\ph ghaeddo
+\or ghaeddo
 \ps n
 \lc qæ˧do˧
 \sy qæ˧ɻ̍˧
@@ -45068,7 +45069,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qʰɑ˧dze˧
 \sf <nb="B"> 1985a
 \sf <nb="2011"> 3025
-\ph khazzei
+\or khazzei
 \ps n
 \lc qʰɑ˧dze˧
 \sd <langue="fra"> plante
@@ -45112,7 +45113,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx qʰɑ˧dze˧-hwæ˩-di˩
 \sf <nb="2011"> 656
-\ph khazzei huaeddi
+\or khazzei huaeddi
 \ps n
 \lc qʰɑ˧dze˧hwæ˩di˩
 \sd <langue="fra"> maison
@@ -45131,7 +45132,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx qʰɑ˧dze˧-lv̩˧
 \sf <nb="2011"> 94
-\ph khazzeilu
+\or khazzeilu
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -45151,7 +45152,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Aug/2017
 
 \lx qæ˧dzɯ˩
-\ph Ghaezzi
+\or Ghaezzi
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -45179,7 +45180,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 909
 \sf <nb="B"> 539
 \sf <nb="2011"> 1335
-\ph khaye
+\or khaye
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -45212,7 +45213,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx qʰæ˧kʰwɤ#˥
-\ph khaekua
+\or khaekua
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -45235,7 +45236,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx qʰæ˧lo˧˥
 \sf <nb="2011"> 73
-\ph khaelo
+\or khaelo
 \ps n
 \cf qʰæ˧zo#˥
 \sd <langue="fra"> environnement naturel
@@ -45257,7 +45258,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qʰæ˧mi˧
 \sf <nb="B"> 44
 \sf <nb="2011"> 71
-\ph khaemi
+\or khaemi
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -45280,7 +45281,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx qʰæ˧mo˩
-\ph khaemo
+\or khaemo
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -45297,7 +45298,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx qʰɑ˩ne˩
 \sf <nb="2011"> 1330
-\ph khani
+\or khani
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -45338,7 +45339,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 227
 \sf <nb="B"> 503
 \sf <nb="2011"> 299
-\ph khaebe
+\or khaebe
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -45369,7 +45370,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qæ˧ɻ̍˧
 \sf <nb="B"> 450c
 \sf <nb="2011"> 584
-\ph ghae'er
+\or ghae'er
 \ps n
 \sy qæ˧do˧
 \sd <langue="fra"> maison
@@ -45393,7 +45394,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qʰæ˧ʈæ˧˥
 \sf <nb="B"> 1074b
 \sf <nb="2011"> 1517
-\ph khaedae
+\or khaedae
 \et qʰæ˩a 1
 \ps adj
 \sd <langue="fra"> adjectif
@@ -45424,7 +45425,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qʰɑ˧tɑ˧
 \sf <nb="B"> 907
 \sf <nb="2011"> 1333
-\ph khada
+\or khada
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -45449,7 +45450,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx qʰæ˧tɕʰi˧
 \sf <nb="2011"> 3322
-\ph Khaeqie
+\or Khaeqie
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -45475,7 +45476,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx qʰæ˧tɕʰi˧-ɬi˧dʑɯ˩
 \sf <nb="2011"> 3316
-\ph Khaeqie Lhijji
+\or Khaeqie Lhijji
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -45493,7 +45494,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx qʰɑ˧-ʈʂʰɤ˧~ʈʂʰɤ˥
 \sf <nb="2011"> 2476
-\ph khacheche
+\or khacheche
 \ps adj
 \ton H#
 \lc qʰɑ˧ʈʂʰɤ˧ʈʂʰɤ˥
@@ -45521,7 +45522,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qʰæ˧tv̩˧
 \sf <nb="B"> 199
 \sf <nb="2011"> 266
-\ph khaedu
+\or khaedu
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -45543,7 +45544,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qʰæ˩ʈv̩˩ɻæ˥
 \sf <nb="B"> 1094
 \sf <nb="2011"> 1556
-\ph khaedeu'er
+\or khaedeu'er
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -45579,7 +45580,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 04/Aug/2017
 
 \lx qʰæ˧zo#˥
-\ph khaesso
+\or khaesso
 \ps n
 \cf qʰæ˧lo˧˥
 \sd <langue="fra"> environnement naturel
@@ -45601,7 +45602,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qæ˩α
 \sf <nb="B"> 1302
 \sf <nb="2011"> 2576
-\ph ghaeq
+\or ghaeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -45631,7 +45632,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1721
 \sf <nb="B"> 1207b
 \sf <nb="2011"> 2406
-\ph ghaq
+\or ghaq
 \ps v
 \sn 1
 \sd <langue="fra"> verbe
@@ -45685,7 +45686,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx qɑ˩γ
 \sf <nb="2011"> 1269
-\ph gha
+\or gha
 \ps clf
 \lc ɖɯ˧ qɑ˩
 \sn 1
@@ -45721,7 +45722,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx qʰæ˩α
 \hm 1
-\ph khaeq
+\or khaeq
 \ps adj
 \lc qʰæ˩˥
 \sd <langue="fra"> adjectif
@@ -45748,7 +45749,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1061, 1030
 \sf <nb="2011"> 1492, 1458
 \hm 2
-\ph khaeq
+\or khaeq
 \ps adj
 \lc qʰæ˩˥
 \sn 1
@@ -45790,7 +45791,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qʰɑ˧‑
 \sf <nb="B"> 909b
 \sf <nb="2011"> 1336
-\ph kha
+\or kha
 \ps adv
 \lc qʰɑ˧
 \cf qʰɑ˧1
@@ -45828,7 +45829,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 22/Jun/2017
 
 \lx qi˧qi˧
-\ph ghighi
+\or ghighi
 \ps adv
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -45847,7 +45848,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1391
 \sf <nb="2011"> 1977
 \hm 1
-\ph ghu
+\or ghu
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -45870,7 +45871,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qo˥
 \sf <nb="2011"> 1549
 \hm 2
-\ph gho
+\or gho
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -45904,7 +45905,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1643
 \sf <nb="2011"> 2455
 \hm 1
-\ph khoq
+\or khoq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -45941,7 +45942,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1477
 \sf <nb="2011"> 1632
 \hm 2
-\ph khoq
+\or khoq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -45976,7 +45977,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx qʰo˩β
-\ph khoq
+\or khoq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -46025,7 +46026,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qʰo˩dv̩˧˥
 \sf <nb="B"> 570b
 \sf <nb="2011"> 809
-\ph khoddu
+\or khoddu
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -46053,7 +46054,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qo˩ho˧˥
 \sf <nb="B"> 488c
 \sf <nb="2011"> 673
-\ph ghoho
+\or ghoho
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -46074,7 +46075,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qo˧lo˩
 \sf <nb="B"> 706
 \sf <nb="2011"> 1054
-\ph gholo
+\or gholo
 \ps adv
 \cf -qo˧lo˩
 \sd <langue="fra"> espace
@@ -46096,7 +46097,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qʰo˧lo˧
 \sf <nb="B"> 545
 \sf <nb="2011"> 779
-\ph kholo
+\or kholo
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -46117,7 +46118,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qo˧lo˧ʂv̩˥
 \sf <nb="B"> 1086
 \sf <nb="2011"> 1540
-\ph gholoshu
+\or gholoshu
 \ps adj
 \ton H#
 \lc qo˧lo˧ʂv̩˥
@@ -46136,7 +46137,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx qʰo˧mo˥
-\ph khomo
+\or khomo
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -46156,7 +46157,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qʰo˩mv̩˩
 \sf <nb="B"> 424
 \sf <nb="2011"> 537
-\ph khumu
+\or khumu
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
@@ -46179,7 +46180,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx qo˧pv̩˩
 \sf <nb="2011"> 2678
-\ph ghobu
+\or ghobu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -46207,7 +46208,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qo˧pv̩˧
 \sf <nb="B"> 1394
 \sf <nb="2011"> 1997
-\ph ghopeu
+\or ghopeu
 \ps adj
 \ton M
 \lc qo˧pv̩˧
@@ -46238,7 +46239,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx qo˧pv̩˩-ʐwæ˩ɖʐæ˩
 \sf <nb="2011"> 2679
-\ph ghoburuaezzhae
+\or ghoburuaezzhae
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -46256,7 +46257,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qo˩qɑ˩
 \sf <nb="B"> 27
 \sf <nb="2011"> 36
-\ph ghogha
+\or ghogha
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -46280,7 +46281,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 11/May/2016
 
 \lx qo˩tɑ˧˥
-\ph ghoda
+\or ghoda
 \ps v
 \lc qo˩tɑ˧˥
 \sd <langue="fra"> verbe
@@ -46311,7 +46312,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qo˧tv̩˩
 \sf <nb="B"> 1970
 \sf <nb="2011"> 2994
-\ph ghodu
+\or ghodu
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -46339,7 +46340,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qʰo˩tv̩˧˥
 \sf <nb="B"> 2148
 \sf <nb="2011"> 3293
-\ph khodu
+\or khodu
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -46361,7 +46362,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx qo˩tv̩˩-lv̩˥
-\ph ghodulu
+\or ghodulu
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -46387,7 +46388,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx qo˩α
-\ph ghoq
+\or ghoq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -46403,7 +46404,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx qʰo˧α
-\ph kho
+\or kho
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -46425,7 +46426,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qv̩˩˥
 \sf <nb="B"> 512
 \sf <nb="2011"> 715
-\ph gheuq
+\or gheuq
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -46449,7 +46450,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qv̩˧˥
 \sf <nb="B"> 1570
 \sf <nb="2011"> 1855
-\ph gheuq
+\or gheuq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -46492,7 +46493,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1905
 \sf <nb="2011"> 57
 \hm 1
-\ph kheu
+\or kheu
 \ps n
 \sn 1
 \sd <langue="fra"> environnement naturel
@@ -46538,7 +46539,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1957
 \sf <nb="2011"> 2973
 \hm 2
-\ph kheu
+\or kheu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -46573,7 +46574,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1371
 \sf <nb="2011"> 1953
 \hm 1
-\ph kheuq
+\or kheuq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -46606,7 +46607,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 816
 \sf <nb="2011"> 1204
 \hm 2
-\ph kheu
+\or kheu
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
@@ -46626,7 +46627,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx qʰv̩˥
-\ph kheu
+\or kheu
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
@@ -46648,7 +46649,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx qʰv̩˩ɖɯ˩
-\ph kheuddee
+\or kheuddee
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
@@ -46669,7 +46670,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx qʰv̩˩ɖʐæ˩
 \sf <nb="2011"> 834
-\ph kheuzzhae
+\or kheuzzhae
 \ps n
 \sd <langue="fra"> agriculture
 \sd <langue="eng"> agriculture
@@ -46694,7 +46695,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qv̩˧dzi˩
 \sf <nb="B"> 2017
 \sf <nb="2011"> 3087
-\ph gheuzzee
+\or gheuzzee
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -46723,7 +46724,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qʰv̩˧dʑɯ˥$
 \sf <nb="B"> 38
 \sf <nb="2011"> 56
-\ph kheujji
+\or kheujji
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -46756,7 +46757,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qʰv̩˧ɬi˧mi#˥
 \sf <nb="B"> 782
 \sf <nb="2011"> 1178
-\ph kheulhimi
+\or kheulhimi
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -46778,7 +46779,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx qv̩˧ɻ̍#˥
-\ph Gheu'er
+\or Gheu'er
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -46799,7 +46800,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx qv̩˧tɕi˥
 \sf <nb="2011"> 306
-\ph gheujie
+\or gheujie
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -46820,7 +46821,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 130
 \sf <nb="B"> 649
 \sf <nb="2011"> 191
-\ph gheuzhae
+\or gheuzhae
 \ps n
 \sn 1
 \sd <langue="fra"> corps
@@ -46862,7 +46863,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qʰv̩˩tsʰi˧˥
 \sf <nb="B"> 834
 \sf <nb="2011"> 1231
-\ph kheucee
+\or kheucee
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
@@ -46882,7 +46883,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx qʰv̩˧tʰv̩#˥
-\ph kheutu
+\or kheutu
 \ps clf
 \cf qʰv̩˧tʰv˥$
 \sd <langue="fra"> classificateur
@@ -46903,7 +46904,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 30/Apr/2017
 
 \lx qʰv̩˧tʰv̩#˥
-\ph kheutu
+\or kheutu
 \ps n
 \cf qʰv̩˧tʰv̩#˥
 \sd <langue="fra"> objet
@@ -46934,7 +46935,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 18/Jul/2016
 
 \lx qv̩˩α
-\ph gheuq
+\or gheuq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -46963,7 +46964,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx qʰv̩˥α
-\ph kheu
+\or kheu
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -46985,7 +46986,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qʰv̩˩~qʰv̩˧˥
 \sf <nb="B"> 1220
 \sf <nb="2011"> 1706
-\ph kheukheu
+\or kheukheu
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -47014,7 +47015,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx qwæ˩˥
 \sf <nb="2011"> 176
-\ph ghuaeq
+\or ghuaeq
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -47036,7 +47037,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qwæ˧
 \sf <nb="B"> 487b
 \sf <nb="2011"> 670
-\ph ghuae
+\or ghuae
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -47063,7 +47064,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1699
 \sf <nb="2011"> 1565
 \hm 1
-\ph ghuaeq
+\or ghuaeq
 \ps v
 \sn 1
 \sd <langue="fra"> verbe
@@ -47119,7 +47120,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qwæ˧˥
 \sf <nb="2011"> 1864
 \hm 2
-\ph ghuaeq
+\or ghuaeq
 \ps v
 \lc qwæ˧˥
 \sd <langue="fra"> verbe
@@ -47149,7 +47150,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx qwæ˧˥
 \hm 3
-\ph ghuae
+\or ghuae
 \ps n
 \lc qwæ˧˥
 \cf <type="synonyme"> qwæ˧ʁo#˥
@@ -47170,7 +47171,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qʰwæ˩
 \sf <nb="B"> 482
 \sf <nb="2011"> 658
-\ph khuae
+\or khuae
 \ps n
 \lc qʰwæ˩
 \sd <langue="fra"> maison
@@ -47193,7 +47194,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qʰwæ˧
 \sf <nb="B"> 630
 \sf <nb="2011"> 935
-\ph khuae
+\or khuae
 \ps n
 \lc qʰwæ˧
 \sd <langue="fra"> objet
@@ -47228,7 +47229,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1525
 \sf <nb="2011"> 1776
 \hm 1
-\ph khuaeq
+\or khuaeq
 \ps v
 \lc qʰwæ˧˥
 \sd <langue="fra"> verbe
@@ -47253,7 +47254,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qʰwæ˧˥
 \sf <nb="2011"> 2085
 \hm 2
-\ph khuaeq
+\or khuaeq
 \ps v
 \lc qʰwæ˧˥
 \sd <langue="fra"> verbe
@@ -47284,7 +47285,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qwæ˩ɖʐæ˩
 \sf <nb="B"> 119
 \sf <nb="2011"> 175
-\ph ghuaezzhae
+\or ghuaezzhae
 \ps n
 \lc qwæ˩ɖʐæ˩˥
 \sd <langue="fra"> corps
@@ -47312,7 +47313,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx qʰwæ˩kɤ˩
-\ph khuaege
+\or khuaege
 \ps n
 \lc qʰwæ˩kɤ˩˥
 \sd <langue="fra"> plante
@@ -47334,7 +47335,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 13/Jun/2017
 
 \lx qʰwæ˧kʰwɤ#˥
-\ph khuaekua
+\or khuaekua
 \ps n
 \lc qʰwæ˧kʰwɤ˧
 \sd <langue="fra"> abstrait
@@ -47358,7 +47359,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qwæ˧lo˧˥
 \sf <nb="B"> 47d
 \sf <nb="2011"> 79
-\ph ghuaelo
+\or ghuaelo
 \ps n
 \lc qwæ˧lo˧˥
 \sd <langue="fra"> environnement naturel
@@ -47383,7 +47384,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qʰwæ˧ɭɯ˧
 \sf <nb="B"> 454
 \sf <nb="2011"> 602
-\ph khuaelee
+\or khuaelee
 \ps n
 \lc qʰwæ˧ɭɯ˧
 \sd <langue="fra"> maison
@@ -47407,7 +47408,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx qwæ˧mæ#˥
 \sf <nb="2011"> 593
-\ph ghuamae
+\or ghuamae
 \ps n
 \lc qwæ˧mæ˧
 \sd <langue="fra"> maison
@@ -47437,7 +47438,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qʰwæ˧mi#˥
 \sf <nb="B"> 629
 \sf <nb="2011"> 934
-\ph khuaemi
+\or khuaemi
 \ps n
 \lc qʰwæ˧mi˧
 \sd <langue="fra"> objet
@@ -47466,7 +47467,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx qwæ˧ʁo#˥
-\ph ghuaewo
+\or ghuaewo
 \ps n
 \lc qwæ˧ʁo˧
 \cf <type="synonyme"> qwæ˧˥3
@@ -47486,7 +47487,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx qwæ˧ʂe˧lɑ˧bv̩˥
 \sf <nb="2011"> 2744
-\ph ghuaesheilabbu
+\or ghuaesheilabbu
 \ps n
 \lc qwæ˧ʂe˧lɑ˧bv̩˥
 \sd <langue="fra"> animal
@@ -47507,7 +47508,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qwæ˧ʂe#˥
 \sf <nb="B"> 1809
 \sf <nb="2011"> 2752
-\ph ghuaeshei
+\or ghuaeshei
 \ps n
 \lc qwæ˧ʂe˥
 \sd <langue="fra"> animal
@@ -47529,7 +47530,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qwæ˩ʂv̩˧˥
 \sf <nb="B"> 549
 \sf <nb="2011"> 784
-\ph ghuaeshu
+\or ghuaeshu
 \ps n
 \lc qwæ˩ʂv̩˧˥
 \sd <langue="fra"> objet
@@ -47561,7 +47562,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> ancien
 \sf <nb="B"> 429)
 \sf <nb="2011"> 535
-\ph khuaedee
+\or khuaedee
 \ps n
 \lc qʰwæ˩ʈɯ˥
 \sd <langue="fra"> vêtement
@@ -47585,7 +47586,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx qwæ˧zo˧zo˩
-\ph ghuaessosso
+\or ghuaessosso
 \ps n
 \lc qwæ˧zo˧zo˩
 \sd <langue="fra"> objet
@@ -47604,7 +47605,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx qʰwæ˩α
 \sf <nb="2011"> 1743
-\ph khuaeq
+\or khuaeq
 \ps v
 \lc qʰwæ˩˥
 \sd <langue="fra"> verbe
@@ -47623,7 +47624,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx qʰwæ˧˥α
-\ph khuae
+\or khuae
 \ps clf
 \lc ɖɯ˧ qʰwæ˧˥
 \sd <langue="fra"> classificateur
@@ -47641,7 +47642,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qwæ˩~qwæ˧˥
 \sf <nb="B"> 1743
 \sf <nb="2011"> 2380
-\ph ghuaeghuae
+\or ghuaeghuae
 \ps v
 \lc qwæ˩qwæ˧˥
 \sd <langue="fra"> verbe
@@ -47666,7 +47667,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qwɤ˧
 \sf <nb="B"> 2253
 \sf <nb="2011"> 760
-\ph ghua
+\or ghua
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -47691,7 +47692,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx qʰwɤ˧
 \sf <nb="2011"> 1024
-\ph khua
+\or khua
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -47713,7 +47714,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 515
 \sf <nb="2011"> 724
 \hm 1
-\ph khuaq
+\or khuaq
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -47738,7 +47739,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx qʰwɤ˧˥
 \hm 2
-\ph khuaq
+\or khuaq
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
@@ -47762,7 +47763,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qʰwɤ˧bi˩
 \sf <nb="B"> 1952
 \sf <nb="2011"> 2966
-\ph khuabbi
+\or khuabbi
 \ps n
 \sn 1
 \sd <langue="fra"> animal
@@ -47806,7 +47807,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 274a
 \sf <nb="B"> 274b
 \sf <nb="2011"> 354
-\ph khuaddee
+\or khuaddee
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -47842,7 +47843,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx qwɤ˧ɭɯ#˥
-\ph ghualee
+\or ghualee
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -47862,7 +47863,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx qʰwɤ˧mi˥$
-\ph khuami
+\or khuami
 \ps n
 \cf qʰwɤ˧pɤ˥$
 \sd <langue="fra"> objet
@@ -47881,7 +47882,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qwɤ˩pi˩
 \sf <nb="B"> 118
 \sf <nb="2011"> 177
-\ph ghuabi
+\or ghuabi
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -47917,7 +47918,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx qʰwɤ˧pɤ˥$
-\ph khuabe
+\or khuabe
 \ps n
 \cf qʰwɤ˧mi˥$
 \sd <langue="fra"> objet
@@ -47937,7 +47938,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 551
 \sf <nb="B"> 1951
 \sf <nb="2011"> 788
-\ph khuashei
+\or khuashei
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -47963,7 +47964,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx qʰwɤ˧to˩
 \sf <nb="2011"> 209
-\ph khuado
+\or khuado
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -47989,7 +47990,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qʰwɤ˧tsʰi˩
 \sf <nb="B"> 142
 \sf <nb="2011"> 208
-\ph khuacee
+\or khuacee
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -48017,7 +48018,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx qʰwɤ˧tʰv̩#˥
-\ph khuatu
+\or khuatu
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -48036,7 +48037,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx qʰwɤ˧zo˥$
-\ph khuasso
+\or khuasso
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -48052,7 +48053,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx qwɤ˩α
-\ph ghuaq
+\or ghuaq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -48081,7 +48082,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qwɤ˧α
 \sf <nb="B"> 1255
 \sf <nb="2011"> 1799
-\ph ghua
+\or ghua
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -48123,7 +48124,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1067
 \sf <nb="2011"> 1503
 \hm 1
-\ph khua
+\or khua
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -48158,7 +48159,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx qʰwɤ˩α
 \hm 2
-\ph khuaq
+\or khuaq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -48208,7 +48209,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx qʰwɤ˧˥α
-\ph khua
+\or khua
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -48227,7 +48228,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx qʰwɤ˧α
 \sf <nb="B"> 1779b
 \sf <nb="2011"> 2532
-\ph khua
+\or khua
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -48251,7 +48252,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ɻ̃˧
 \sf <nb="2011"> 350
-\ph eun
+\or eun
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -48274,7 +48275,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx ɻ̃˥
-\ph eun
+\or eun
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -48323,7 +48324,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ɻ̃˥
 \sf <nb="B"> 214
 \sf <nb="2011"> 284
-\ph eun
+\or eun
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -48358,7 +48359,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 2130
 \sf <nb="2011"> 3265
 \hm 1
-\ph laeq
+\or laeq
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -48381,7 +48382,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ɻæ˩˥
 \hm 2
-\ph laeq
+\or laeq
 \ps n
 \sd <langue="fra"> agriculture
 \sd <langue="eng"> agriculture
@@ -48408,7 +48409,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx ʁæ˩˥
-\ph hraeq
+\or hraeq
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -48430,7 +48431,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁæ˧
 \sf <nb="B"> 1048
 \sf <nb="2011"> 1481
-\ph hrae
+\or hrae
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -48449,7 +48450,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʁæ˧˥
 \sf <nb="2011"> 1472
-\ph hraeq
+\or hraeq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -48469,7 +48470,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1677
 \sf <nb="2011"> 2578
 \sf <nb="2011"> 205
-\ph hrae
+\or hrae
 \ps n
 \cf ʁæ˧ŋv̩˥
 \sd <langue="fra"> corps
@@ -48492,7 +48493,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁɑ˧
 \sf <nb="2011"> 1437
 \hm 1
-\ph hra
+\or hra
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -48526,7 +48527,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʁɑ˧
 \hm 2
-\ph hra
+\or hra
 \ps v
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -48550,7 +48551,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁɑ˥
 \sf <nb="B"> 670
 \sf <nb="2011"> 1000
-\ph hra
+\or hra
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
@@ -48583,7 +48584,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʁɑ˥
 \hm 1
-\ph hra
+\or hra
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -48602,7 +48603,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1504
 \sf <nb="2011"> 2196
 \hm 2
-\ph hra
+\or hra
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -48629,7 +48630,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁɑ˧β
 \sf <nb="B"> 1610
 \sf <nb="2011"> 2398
-\ph hra
+\or hra
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -48665,7 +48666,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/May/2017
 
 \lx ʁæ˩bæ˩
-\ph hraebbae
+\or hraebbae
 \ps clf
 \ton L
 \lc ɖɯ˧ ʁæ˩bæ˩
@@ -48687,7 +48688,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁæ˧bæ˧
 \sf <nb="B"> 516
 \sf <nb="2011"> 725
-\ph hraebbae
+\or hraebbae
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -48710,7 +48711,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁɑ˧dzi˧
 \sf <nb="B"> 2018
 \sf <nb="2011"> 3088
-\ph hrazzee
+\or hrazzee
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -48734,7 +48735,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁæ˩ɖʐv̩˧
 \sf <nb="B"> 1017c
 \sf <nb="2011"> 2482
-\ph hraezzhu
+\or hraezzhu
 \ps adj
 \ton LM
 \lc ʁæ˩ɖʐv̩˥
@@ -48755,7 +48756,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʁæ˧ɭɯ˥
 \sf <nb="2011"> 928
-\ph hraelee
+\or hraelee
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -48783,7 +48784,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁɑ˧ɭɯ#˥
 \sf <nb="B"> 27
 \sf <nb="2011"> 36
-\ph hralee
+\or hralee
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -48807,7 +48808,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁæ˧mi˧
 \sf <nb="B"> 2166
 \sf <nb="2011"> 710
-\ph hraemi
+\or hraemi
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -48834,7 +48835,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁɑ˩mi˥
 \sf <nb="B"> 2233
 \sf <nb="2011"> 1476
-\ph hrami
+\or hrami
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -48859,7 +48860,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁæ˧ŋv̩˥
 \sf <nb="B"> 419
 \sf <nb="2011"> 530
-\ph hraengu
+\or hraengu
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
@@ -48884,7 +48885,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 147
 \sf <nb="B"> 148
 \sf <nb="2011"> 215
-\ph hrabu
+\or hrabu
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -48907,7 +48908,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁɑ˧pv̩˧-ɻ̃#˥
 \sf <nb="B"> 163
 \sf <nb="2011"> 230
-\ph hrabu'eun
+\or hrabu'eun
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -48930,7 +48931,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁɑ˧pʰv̩#˥
 \sf <nb="B"> 540
 \sf <nb="2011"> 770
-\ph hrapu
+\or hrapu
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -48952,7 +48953,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 22/Jun/2017
 
 \lx ʁæ˧ɻ̍˥
-\ph hrae'er
+\or hrae'er
 \ps n
 \cf ʁæ˧ʈv̩˥
 \sd <langue="fra"> corps
@@ -48971,7 +48972,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 16/Jun/2017
 
 \lx ʁɑ˥ʂe˩
-\ph hrashei
+\or hrashei
 \ps v
 \ton H.L
 \lc ʁɑ˧ʂe˩
@@ -49005,7 +49006,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ʁɑ˩ʂɯ˧
-\ph hrashi
+\or hrashi
 \ps adv
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
@@ -49024,7 +49025,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁæ˧tɑ˩
 \sf <nb="B"> 581b
 \sf <nb="2011"> 822
-\ph hraeda
+\or hraeda
 \ps n
 \sd <langue="fra"> agriculture
 \sd <langue="eng"> agriculture
@@ -49054,7 +49055,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁæ˧ʈv̩˥
 \sf <nb="B"> 140
 \sf <nb="2011"> 204
-\ph hraedeu
+\or hraedeu
 \ps n
 \cf ʁæ˧ɻ̍˥
 \sd <langue="fra"> corps
@@ -49078,7 +49079,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx ʁæ˧ʑi˧
-\ph hraexxi
+\or hraexxi
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -49102,7 +49103,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx ʁæ˧zo#˥
-\ph hraesso
+\or hraesso
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -49118,7 +49119,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx ʁɑ˧-ʐwɤ˧˥
-\ph hrarua
+\or hrarua
 \ps v
 \sd <langue="fra"> v
 \sd <langue="eng"> v
@@ -49148,7 +49149,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ɻæ˩α
 \sf <nb="B"> 1785
 \sf <nb="2011"> 2629
-\ph laeq
+\or laeq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -49179,7 +49180,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1195
 \sf <nb="2011"> 2158
 \hm 1
-\ph hraeq
+\or hraeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -49220,7 +49221,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1646
 \sf <nb="2011"> 2456
 \hm 2
-\ph hraeq
+\or hraeq
 \ps adj
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -49243,7 +49244,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʁæ˩α
 \hm 3
-\ph hraeq
+\or hraeq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -49283,7 +49284,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1017d
 \sf <nb="2011"> 2483
 \hm 4
-\ph hraeq
+\or hraeq
 \ps adj
 \cf ɖʐv̩˩a1
 \sd <langue="fra"> adjectif
@@ -49301,7 +49302,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx ɻ̃˧β
-\ph eun
+\or eun
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -49319,7 +49320,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ɻ̃˧hæ˩
 \sf <nb="B"> 216
 \sf <nb="2011"> 287
-\ph eunhae
+\or eunhae
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -49344,7 +49345,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ɻ̃˧ko˩
 \sf <nb="B"> 2218
 \sf <nb="2011"> 239
-\ph eungo
+\or eungo
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -49369,7 +49370,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx ɻ̃˧kɤ˩
-\ph eunge
+\or eunge
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -49390,7 +49391,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ɻ̃˧mi˧
 \sf <nb="B"> 2123
 \sf <nb="2011"> 3260
-\ph eunmi
+\or eunmi
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -49415,7 +49416,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx ʁo˩
-\ph woq
+\or woq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -49438,7 +49439,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1569
 \sf <nb="2011"> 2353
 \hm 1
-\ph wo
+\or wo
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -49471,7 +49472,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʁo˧
 \hm 2
-\ph wu
+\or wu
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -49497,7 +49498,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁo˧˥
 \sf <nb="B"> 566
 \sf <nb="2011"> 801
-\ph woq
+\or woq
 \ps n
 \cf ʈʂe˥
 \sd <langue="fra"> objet
@@ -49521,7 +49522,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʁo˥
 \sf <nb="2011"> 142
-\ph wo
+\or wo
 \ps n
 \sn 1
 \sd <langue="fra"> corps
@@ -49563,7 +49564,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx ʁo˩β
-\ph woq
+\or woq
 \ps v
 \lc ʁo˩˥
 \sd <langue="fra"> verbe
@@ -49588,7 +49589,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ʁo˩β
-\ph wo
+\or wo
 \ps clf
 \lc ɖɯ˧ ʁo˩
 \sd <langue="fra"> classificateur
@@ -49616,7 +49617,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁo˧bv̩˧
 \sf <nb="B"> 2154
 \sf <nb="2011"> 3296
-\ph wobbu
+\or wobbu
 \ps n
 \lc ʁo˧bv̩˧
 \sd <langue="fra"> plante
@@ -49649,7 +49650,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁo˧dɑ˧
 \sf <nb="B"> 703
 \sf <nb="2011"> 1047
-\ph wodda
+\or wodda
 \ps adv
 \lc ʁo˧dɑ˧
 \sd <langue="fra"> espace
@@ -49679,7 +49680,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁo˩di˥
 \sf <nb="B"> 1268
 \sf <nb="2011"> 437
-\ph woddi
+\or woddi
 \ps n
 \lc ʁo˩di˥
 \sd <langue="fra"> société
@@ -49703,7 +49704,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 2062
 \sf <nb="2011"> 3191
 \hm 1
-\ph woddo
+\or woddo
 \ps n
 \lc ʁo˧do˧
 \sd <langue="fra"> plante
@@ -49734,7 +49735,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 542
 \sf <nb="2011"> 775
 \hm 2
-\ph woddo
+\or woddo
 \ps n
 \lc ʁo˧do˧
 \sd <langue="fra"> objet
@@ -49756,7 +49757,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx ʁo˧ɖɯ˧˥
-\ph woddee
+\or woddee
 \ps n
 \lc ʁo˧ɖɯ˧˥
 \sd <langue="fra"> animal
@@ -49776,7 +49777,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁo˩ɖɯ˩so˥
 \sf <nb="B"> 736
 \sf <nb="2011"> 1111
-\ph woddeeso
+\or woddeeso
 \ps adv
 \ton L+H#
 \lc ʁo˩ɖɯ˩so˥
@@ -49798,7 +49799,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁo˧dzi˩
 \sf <nb="B"> 250
 \sf <nb="2011"> 316
-\ph Wozzee
+\or Wozzee
 \ps n
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
@@ -49822,7 +49823,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁo˧dzi˥
 \sf <nb="B"> 1445
 \sf <nb="2011"> 2103
-\ph wozzee
+\or wozzee
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -49847,7 +49848,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx ʁo˧dzi˩-di˩
-\ph Wozzeeddi
+\or Wozzeeddi
 \ps n
 \sn 1
 \sd <langue="fra"> lieu
@@ -49882,7 +49883,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁo˧dzi˩-tʰæ˩ɻæ˩
 \sf <nb="B"> 647
 \sf <nb="2011"> 967
-\ph Wozzee tae'er
+\or Wozzee tae'er
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -49911,7 +49912,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁo˧dʑɯ˧
 \sf <nb="B"> 547
 \sf <nb="2011"> 782
-\ph wojji
+\or wojji
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -49939,7 +49940,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁo˧gv̩#˥
 \sf <nb="B"> 445
 \sf <nb="2011"> 576
-\ph woggu
+\or woggu
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -49963,7 +49964,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 121+ancien
 \sf <nb="B"> 122
 \sf <nb="2011"> 182
-\ph woxie
+\or woxie
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -49987,7 +49988,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁo˧hṽ̩˧˥
 \sf <nb="B"> 97
 \sf <nb="2011"> 148
-\ph wohun
+\or wohun
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -50014,7 +50015,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁo˧ʝi˧
 \sf <nb="B"> 795
 \sf <nb="2011"> 1148
-\ph woyi
+\or woyi
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -50040,7 +50041,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx ʁo˧kɤ˩
-\ph woge
+\or woge
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -50058,7 +50059,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx ʁo˩kʰv̩˩
-\ph woku
+\or woku
 \ps n
 \cf tsɤ˧di˧
 \sd <langue="fra"> plante
@@ -50081,7 +50082,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʁo˧ɬi˥
 \sf <nb="2011"> 802
-\ph wolhi
+\or wolhi
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -50107,7 +50108,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʁo˧lv̩˧
 \sf <nb="2011"> 1767
-\ph wolu
+\or wolu
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -50130,7 +50131,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʁo˧mæ˧
 \sf <nb="2011"> 1600
-\ph womae
+\or womae
 \ps v
 \ton M
 \lc ʁo˧mæ˧
@@ -50171,7 +50172,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁo˧mi˧
 \sf <nb="B"> 2229
 \sf <nb="2011"> 404
-\ph womi
+\or womi
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -50201,7 +50202,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx ʁo˧mi˥$
-\ph womi
+\or womi
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -50219,7 +50220,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Oct/2015
 
 \lx ʁo˧ni˥
-\ph woni
+\or woni
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -50240,7 +50241,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁo˧pʰɤ˩-ʁo˩dv̩˩lv̩˩
 \sf <nb="B"> 2098
 \sf <nb="2011"> 3232
-\ph wope woddulu 
+\or wope woddulu 
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -50256,7 +50257,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Oct/2017
 
 \lx ʁo˥pv̩˩
-\ph wobu
+\or wobu
 \ps v
 \ton H.L
 \lc ʁo˧pv̩˩
@@ -50289,7 +50290,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁo˧qɑ˥
 \sf <nb="B"> 508
 \sf <nb="2011"> 701
-\ph wogha
+\or wogha
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -50313,7 +50314,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁo˧qʰwɤ˩
 \sf <nb="B"> 91
 \sf <nb="2011"> 141
-\ph wokhua
+\or wokhua
 \ps n
 \sn 1
 \sd <langue="fra"> corps
@@ -50358,7 +50359,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁo˧so˩
 \sf <nb="B"> 735
 \sf <nb="2011"> 1110
-\ph woso
+\or woso
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -50385,7 +50386,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁo˧ʂv̩˧
 \sf <nb="B"> 1701
 \sf <nb="2011"> 2530
-\ph woshu
+\or woshu
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -50423,7 +50424,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁo˧tɕʰɤ#˥
 \sf <nb="B"> 974
 \sf <nb="2011"> 1412
-\ph woqe
+\or woqe
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -50453,7 +50454,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁo˧ʈʂe˩
 \sf <nb="B"> 210
 \sf <nb="2011"> 278
-\ph wozhei
+\or wozhei
 \ps n
 \lc ʁo˧ʈʂe˩
 \sd <langue="fra"> corps
@@ -50485,7 +50486,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 712
 \sf <nb="B"> 92
 \sf <nb="2011"> 38
-\ph woceiwo
+\or woceiwo
 \ps n
 \lc ʁo˧tsʰe˧ʁo˧
 \sd <langue="fra"> espace
@@ -50517,7 +50518,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʁo˧ʈv̩˧ʈv̩˥
 \sf <nb="2011"> 320
-\ph Wodeudeu
+\or Wodeudeu
 \ps n
 \lc ʁo˧ʈv̩˧ʈv̩˥
 \sd <langue="fra"> ethnies
@@ -50538,7 +50539,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 22/Jun/2017
 
 \lx ʁo˧ʑi˧˥
-\ph woxxi
+\or woxxi
 \ps adv
 \lc ʁo˧ʑi˧˥
 \sd <langue="fra"> morphosyntaxe
@@ -50574,7 +50575,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ʁo˧zo#˥
-\ph wosso
+\or wosso
 \ps n
 \lc ʁo˧zo˧
 \sd <langue="fra"> objet
@@ -50592,7 +50593,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ʁo˥-ʐv̩˩
-\ph woru
+\or woru
 \ps v
 \ton H.L
 \lc ʁo˧ʐv̩˩
@@ -50618,7 +50619,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ɻ̃˧ʈʂæ˩
 \sf <nb="2011"> 241
-\ph eunzhae
+\or eunzhae
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -50639,7 +50640,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 02/Oct/2015
 
 \lx ɻ̃˧ʈʂwæ˩
-\ph eunzhuae
+\or eunzhuae
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -50662,7 +50663,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁv̩˧˥
 \sf <nb="B"> 2193
 \sf <nb="2011"> 2672
-\ph weuq
+\or weuq
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -50702,7 +50703,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1165
 \sf <nb="B"> 1166
 \sf <nb="2011"> 1658
-\ph weu
+\or weu
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -50729,7 +50730,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁv̩˧-bv̩˥
 \sf <nb="B"> 2104
 \sf <nb="2011"> 3238
-\ph weubbu
+\or weubbu
 \ps n
 \ton H#
 \lc ʁv̩˧bv̩˥
@@ -50749,7 +50750,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ʁv̩˧mi˥$
-\ph weumi
+\or weumi
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -50767,7 +50768,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 02/Oct/2015
 
 \lx ʁv̩˧pʰv̩#˥
-\ph weupu
+\or weupu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -50791,7 +50792,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 03/Aug/2017
 
 \lx ʁv̩˧zo#˥
-\ph weusso
+\or weusso
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -50817,7 +50818,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1345
 \sf <nb="B"> 1347
 \sf <nb="2011"> 1931
-\ph luae
+\or luae
 \ps v
 \sn 1
 \sd <langue="fra"> verbe
@@ -50901,7 +50902,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʁwæ˥
 \sf <nb="2011"> 1043
-\ph wae
+\or wae
 \ps n
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
@@ -50917,7 +50918,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 02/Oct/2015
 
 \lx ɻwæ˥β
-\ph luae  
+\or luae  
 \ps clf
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -50939,7 +50940,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁwæ˧gi˧dzɤ#˥
 \sf <nb="B"> 701
 \sf <nb="2011"> 1041
-\ph waeggizze
+\or waeggizze
 \ps n
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
@@ -50960,7 +50961,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʁwæ˧gi#˥
 \sf <nb="2011"> 1042
-\ph waeggi
+\or waeggi
 \ps n
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
@@ -50976,7 +50977,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 02/Oct/2015
 
 \lx ʁwæ˧lo˥
-\ph waelo
+\or waelo
 \ps n
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
@@ -50994,7 +50995,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁwæ˧ʈʂʰe˩
 \sf <nb="B"> 1153
 \sf <nb="2011"> 1649
-\ph waechei
+\or waechei
 \bw <langue="cmn"> 完成
 \ps v
 \sd <langue="fra"> verbe
@@ -51019,7 +51020,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁwæ˧tsɯ˥
 \sf <nb="B"> 435
 \sf <nb="2011"> 555
-\ph waezi
+\or waezi
 \bw <langue="cmn"> 袜子
 \ps n
 \sd <langue="fra"> vêtement
@@ -51041,7 +51042,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 28a
 \sf <nb="2011"> 37
 \hm 1
-\ph wua
+\or wua
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -51075,7 +51076,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 480a
 \sf <nb="2011"> 616
 \hm 2
-\ph wua
+\or wua
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -51108,7 +51109,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʁwɤ˧
 \hm 3
-\ph wua
+\or wua
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -51131,7 +51132,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʁwɤ˧lɑ˩-bi˩
 \sf <nb="2011"> 3328
-\ph Wualabbi
+\or Wualabbi
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -51154,7 +51155,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁwɤ˧qʰv̩˧
 \sf <nb="B"> 35
 \sf <nb="2011"> 46
-\ph wuakheu
+\or wuakheu
 \ps n
 \cf ʁwɤ˧qʰv̩˧dʑɯ#˥
 \sd <langue="fra"> environnement naturel
@@ -51179,7 +51180,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁwɤ˧qʰv̩˧dʑɯ#˥
 \sf <nb="B"> 35b
 \sf <nb="2011"> 47
-\ph wuakheujji
+\or wuakheujji
 \ps n
 \cf ʁwɤ˧qʰv̩˧
 \sd <langue="fra"> environnement naturel
@@ -51201,7 +51202,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁwɤ˩ʁo˩
 \sf <nb="B"> 29b
 \sf <nb="2011"> 41
-\ph wuawo
+\or wuawo
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -51226,7 +51227,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 02/Oct/2015
 
 \lx ʁwɤ˧tv̩˧
-\ph Wuadu
+\or Wuadu
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -51255,7 +51256,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʁwɤ˧ʐv̩#˥
 \sf <nb="2011"> 3336
-\ph Wuaru
+\or Wuaru
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -51283,7 +51284,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \xn 同上
 \xf comme ci-dessus
 \xc PROVERBE
-\xv di˩ʁo˩˥ | -dʑo˩, | gæ˧ɻæ˩! | di˩mæ˩˥ | -dʑo˩, | ʁwɤ˧ʐv̩˧! |
+\xv di˩ʁo˩˥ ◊ -dʑo˩, | gæ˧ɻæ˩! | di˩mæ˩˥ ◊ -dʑo˩, | ʁwɤ˧ʐv̩˧! |
 \xe yyyy reporter: di˩ʁo˩, di˩mæ˩
 \xn di˩ʁo˩上面, di˩mæ˩下面
 \xf Vers le haut, c'est le village de |fv{gæ˧ɻæ˩}! Vers le bas, c'est le village de |fv{ʁwɤ˧ʐv̩˧}! (Au sujet de l'orientation de la plaine de Yongning, et de la situation du hameau de Alawa.)
@@ -51294,7 +51295,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1239
 \sf <nb="B"> 1500
 \sf <nb="2011"> 2565
-\ph wua
+\or wua
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -51337,7 +51338,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʁwɤ˧α
 \sf <nb="B"> 847
 \sf <nb="2011"> 1267
-\ph wua
+\or wua
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -51359,7 +51360,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʁwɤ˧~ʁwɤ˥α
 \sf <nb="2011"> 2306
-\ph wuawua
+\or wuawua
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -51380,7 +51381,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ɻ̍˩
-\ph er
+\or er
 \ps n
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
@@ -51405,7 +51406,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ɻ̍˩β
 \sf <nb="B"> 694
 \sf <nb="2011"> 1965
-\ph erq
+\or erq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -51452,7 +51453,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 22/Jun/2017
 
 \lx ɻ̍˧bɤ˧
-\ph erbbe
+\or erbbe
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
@@ -51477,7 +51478,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 2245
 \sf <nb="B"> 2194
 \sf <nb="2011"> 110
-\ph erkheu
+\or erkheu
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -51502,7 +51503,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 02/Oct/2015
 
 \lx ɻ̍˩ɻ̍˧-lo˩
-\ph ererlo
+\or ererlo
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -51521,7 +51522,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ɻ̍˧tɑ˧
 \sf <nb="B"> 2224
 \sf <nb="2011"> 192
-\ph erda
+\or erda
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -51542,7 +51543,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 02/Oct/2015
 
 \lx ɻ̍˩ʈʂʰe˧-ɖɯ˩mɑ˩
-\ph Erchei Ddeema
+\or Erchei Ddeema
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -51558,7 +51559,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 02/Oct/2015
 
 \lx ɻ̍˩ʈʂʰe˧-tsʰɯ˩ɻ̍˩
-\ph Erchei Ci'er
+\or Erchei Ci'er
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -51574,7 +51575,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 02/Oct/2015
 
 \lx ɻ̍˩ʈʂʰe#˥
-\ph Erchei
+\or Erchei
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -51590,7 +51591,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 02/Oct/2015
 
 \lx sɑ˧˥
-\ph saq
+\or saq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -51613,7 +51614,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 2002
 \sf <nb="2011"> 3055
 \hm 1
-\ph sa
+\or sa
 \ps n
 \sn 1
 \sd <langue="fra"> plante
@@ -51650,7 +51651,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx sɑ˥
 \sf <nb="2011"> 3350
 \hm 2
-\ph sa
+\or sa
 \ps clf
 \lc ɖɯ˧ sɑ˥
 \cf so˥2
@@ -51676,7 +51677,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 922
 \sf <nb="B"> 924
 \sf <nb="2011"> 1348
-\ph shae
+\or shae
 \ps adj
 \lc ʂæ˧
 \sn 1
@@ -51714,7 +51715,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂæ˧˥
 \sf <nb="2011"> 1712
 \hm 1
-\ph shaeq
+\or shaeq
 \ps v
 \lc ʂæ˧˥
 \sd <langue="fra"> verbe
@@ -51742,7 +51743,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂæ˧˥
 \sf <nb="2011"> 3285
 \hm 2
-\ph shaeq
+\or shaeq
 \ps v
 \lc ʂæ˧˥
 \sn 1
@@ -51794,7 +51795,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Oct/2015
 
 \lx sɑ˧bo#˥
-\ph sabbo
+\or sabbo
 \ps n
 \lc sɑ˧bo˧
 \sd <langue="fra"> objet
@@ -51816,7 +51817,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 23/Jun/2017
 
 \lx ʂæ˧ɖæ#˥
-\ph shaeddae
+\or shaeddae
 \ps n
 \lc ʂæ˧ɖæ˧
 \sd <langue="fra"> abstrait
@@ -51842,7 +51843,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Oct/2015
 
 \lx ʂæ˥-ljɤ˩
-\ph shaelia
+\or shaelia
 \bw <langue="cmn"> 商量
 \ps v
 \lc ʂæ˧ljɤ˩
@@ -51859,7 +51860,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 23/Jun/2017
 
 \lx ʂæ˧-lo˩pv˩
-\ph shaelobu
+\or shaelobu
 \bw <langue="cmn"> 山萝卜
 \ps n
 \lc ʂæ˧lo˩pv˩
@@ -51879,7 +51880,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx sɑ˩mi˩
 \sf <nb="B"> 401
 \sf <nb="2011"> 3056
-\ph sami
+\or sami
 \ps n
 \lc sɑ˩mi˩˥
 \sd <langue="fra"> plante
@@ -51907,7 +51908,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʂæ˧pʰi˧
 \sf <nb="2011"> 661
-\ph shaepi
+\or shaepi
 \bw <langue="cmn"> 商品
 \ps n
 \lc ʂæ˧pʰi˧
@@ -51924,7 +51925,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx sɑ˧pʰv̩˧˥
-\ph sapeu
+\or sapeu
 \ps n
 \lc sɑ˧pʰv̩˧˥
 \sd <langue="fra"> objet
@@ -51947,7 +51948,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʂæ˩ɻ̃˩
 \sf <nb="2011"> 285
-\ph shae'eun
+\or shae'eun
 \ps n
 \lc ʂæ˩ɻ̃˩˥
 \sd <langue="fra"> corps
@@ -51966,7 +51967,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ʂæ˧ʁwɤ˩
-\ph Shaewua
+\or Shaewua
 \bw Naxi fv:/sɑ˥wɤ˧/
 \ps n
 \lc ʂæ˧ʁwɤ˩
@@ -51985,7 +51986,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx sɑ˧tɕɯ˧
 \sf <nb="B"> 201
 \sf <nb="2011"> 269
-\ph saji
+\or saji
 \ps n
 \lc sɑ˧tɕɯ˧
 \sd <langue="fra"> corps
@@ -52012,7 +52013,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx sɑ˩tsʰi˩
 \sf <nb="2011"> 128
 \hm 1
-\ph sacee
+\or sacee
 \ps n
 \lc sɑ˩tsʰi˩˥
 \cf sɑ˩tsʰi˩2
@@ -52034,7 +52035,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx sɑ˩tsʰi˩
 \sf <nb="2011"> 721
 \hm 2
-\ph sacee
+\or sacee
 \ps n
 \lc sɑ˩tsʰi˩˥
 \cf sɑ˩tsʰi˩1
@@ -52053,7 +52054,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx sæ˧tsʰɤ˩
 \bw <langue="cmn"> 酸菜
-\ph saece
+\or saece
 \ps n
 \lc sæ˧tsʰɤ˩
 \sd <langue="fra"> nourriture
@@ -52069,7 +52070,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 06/Jun/2017
 
 \lx ʂæ˧tsɯ˧
-\ph shaezi
+\or shaezi
 \ps n
 \lc ʂæ˧tsɯ˧
 \sd <langue="fra"> objet
@@ -52087,7 +52088,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx sɑ˧tsʰv̩˩
-\ph sacu
+\or sacu
 \bw <langue="cmn"> 酸醋
 \ps n
 \lc sɑ˧tsʰv̩˩
@@ -52105,7 +52106,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 20/Sep/2017
 
 \lx sɑ˧˥α
-\ph sa
+\or sa
 \ps clf
 \lc ɖɯ˧ sɑ˧˥
 \sd <langue="fra"> classificateur
@@ -52127,7 +52128,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂæ˧˥α
 \sf <nb="B"> 2137
 \sf <nb="2011"> 1268
-\ph shae
+\or shae
 \ps clf
 \lc ɖɯ˧ ʂæ˧˥
 \sd <langue="fra"> classificateur
@@ -52154,7 +52155,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx se˧
 \sf <nb="B"> 1893
 \sf <nb="2011"> 2876
-\ph sei
+\or sei
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -52175,7 +52176,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx se˥
 \sf <nb="B"> 1780
 \sf <nb="2011"> 2585
-\ph sei
+\or sei
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -52207,7 +52208,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂe˩
 \sf <nb="B"> 71b
 \sf <nb="2011"> 121
-\ph shei
+\or shei
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -52226,7 +52227,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 386
 \sf <nb="2011"> 464
 \hm 1
-\ph shei
+\or shei
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -52248,7 +52249,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʂe˥
 \hm 2
-\ph shei
+\or shei
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -52271,7 +52272,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 2237
 \sf <nb="B"> 2238b
 \sf <nb="2011"> 1661
-\ph sheiq
+\or sheiq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -52309,7 +52310,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂe˧bæ˧
 \sf <nb="B"> 439
 \sf <nb="2011"> 567
-\ph sheibbae
+\or sheibbae
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
@@ -52349,7 +52350,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂe˧bv̩#˥
 \sf <nb="B"> 1945
 \sf <nb="2011"> 484
-\ph sheibbeu
+\or sheibbeu
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -52369,7 +52370,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx se˩di˩
 \sf <nb="B"> 562
 \sf <nb="2011"> 797
-\ph seiddi
+\or seiddi
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -52407,7 +52408,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂe˧di˩
 \sf <nb="B"> 979
 \sf <nb="2011"> 2472
-\ph sheiddi
+\or sheiddi
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -52431,7 +52432,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Oct/2015
 
 \lx se˧-dʑæ˩ɻæ˩
-\ph seijjae'er
+\or seijjae'er
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -52456,7 +52457,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 16/Jun/2017
 
 \lx ʂe˧dzo#˥
-\ph sheizzo
+\or sheizzo
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -52473,7 +52474,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Oct/2015
 
 \lx se˧gi#˥
-\ph Seiggi
+\or Seiggi
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -52494,7 +52495,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx se˩gwɤ˩mi˥
 \sf <nb="2011"> 2699
-\ph seiguami
+\or seiguami
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -52531,7 +52532,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx se˧kʰɯ˩
 \sf <nb="B"> 414
 \sf <nb="2011"> 523
-\ph seikee
+\or seikee
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
@@ -52558,7 +52559,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂe˧kʰɯ˧
 \sf <nb="B"> 528
 \sf <nb="2011"> 759
-\ph sheikee
+\or sheikee
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -52582,7 +52583,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂe˩lɑ˩
 \sf <nb="B"> 353
 \sf <nb="2011"> 2087
-\ph shei laq
+\or shei laq
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -52604,7 +52605,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂe˩-lɑ˩-hĩ˥
 \sf <nb="B"> 352
 \sf <nb="2011"> 411
-\ph shei lahin
+\or shei lahin
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -52636,7 +52637,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂe˧mi˧
 \sf <nb="B"> 1846
 \sf <nb="2011"> 2749
-\ph sheimi
+\or sheimi
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -52656,7 +52657,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Oct/2015
 
 \lx se˧mi#˥
-\ph seimi
+\or seimi
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -52674,7 +52675,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Oct/2015
 
 \lx ʂe˩-mo˧˥
-\ph sheimo
+\or sheimo
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -52694,7 +52695,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂe˩mɤ˩
 \sf <nb="B"> 2212
 \sf <nb="2011"> 468
-\ph sheime
+\or sheime
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -52713,7 +52714,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂe˧mo˧
 \sf <nb="B"> 71a
 \sf <nb="2011"> 120
-\ph sheimo
+\or sheimo
 \ps n
 \cf ʂe˩
 \sd <langue="fra"> environnement naturel
@@ -52736,7 +52737,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂe˧nɑ˩
 \sf <nb="B"> 389
 \sf <nb="2011"> 467
-\ph sheina
+\or sheina
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -52758,7 +52759,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx se˧nɑ#˥
 \sf <nb="B"> 1081
 \sf <nb="2011"> 1528
-\ph seina
+\or seina
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -52786,7 +52787,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂe˧ɲi˩
 \sf <nb="B"> 529
 \sf <nb="2011"> 761
-\ph sheini
+\or sheini
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -52807,7 +52808,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Oct/2015
 
 \lx se˧pʰɤ˧
-\ph seipe
+\or seipe
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
@@ -52830,7 +52831,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʂe˧pv̩˩
 \sf <nb="2011"> 483
-\ph sheibeu
+\or sheibeu
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -52847,7 +52848,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 31/Jul/2017
 
 \lx se˧pʰv̩#˥
-\ph seipu
+\or seipu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -52868,7 +52869,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 571
 \sf <nb="B"> 572
 \sf <nb="2011"> 811
-\ph sheikheu
+\or sheikheu
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -52897,7 +52898,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂe˧sɑ˩
 \sf <nb="B"> 1939
 \sf <nb="2011"> 471
-\ph sheisa
+\or sheisa
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -52918,7 +52919,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂe˧ʂe˧
 \sf <nb="B"> 1619
 \sf <nb="2011"> 1496
-\ph sheishei
+\or sheishei
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -52941,7 +52942,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Oct/2015
 
 \lx se˧ʂɯ˩
-\ph seishi
+\or seishi
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -52963,7 +52964,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂe˧-sɯ˧sɯ˥
 \sf <nb="B"> 388
 \sf <nb="2011"> 466
-\ph shei sisi 
+\or shei sisi 
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -52986,7 +52987,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂe˩ʂv̩˩
 \sf <nb="B"> 1810
 \sf <nb="2011"> 2751
-\ph sheishu
+\or sheishu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -53007,7 +53008,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx se˧tʰo˩
 \bw <langue="cmn"> 榫头
-\ph seito
+\or seito
 \ps n
 \sd <langue="fra"> outil
 \sd <langue="eng"> tool
@@ -53032,7 +53033,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂe˧ʈʂe˩
 \sf <nb="B"> 409
 \sf <nb="2011"> 518
-\ph sheizhei
+\or sheizhei
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
@@ -53054,7 +53055,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Oct/2015
 
 \lx ʂe˧ʐe#˥
-\ph sheirei
+\or sheirei
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -53072,7 +53073,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Oct/2015
 
 \lx se˧zo#˥
-\ph seisso
+\or seisso
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -53091,7 +53092,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx se˧ʐɯ˩
 \bw <langue="cmn"> 生日
-\ph sheri
+\or sheri
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -53114,7 +53115,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1152
 \sf <nb="B"> 1153
 \sf <nb="2011"> 1647
-\ph seiq
+\or seiq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -53142,7 +53143,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \xn 没有完！
 \xf Ce n'est pas fini!
 \xc PHONO
-\xv se˩˥ | -dʑo˩, | se˩-mɤ˩-tʰɑ˩˥! | dʑɤ˩˥ | -dʑo˩, | dʑɤ˩-kʰɯ˧ tʰɑ˥!
+\xv se˩˥ ◊ -dʑo˩, | se˩-mɤ˩-tʰɑ˩˥! | dʑɤ˩˥ ◊ -dʑo˩, | dʑɤ˩-kʰɯ˧ tʰɑ˥!
 \xe A comment about linguistic documentation, summarizing an explanation provided by a student: “One cannot complete the task (=one cannot collect everything: every single word, every single turn of phrase, every single story…); but one can do nice things (=collect stories which constitute complete, interesting documents)".
 \xn （想做）完，但是没办法做完！不过最后还是可以做得很好！（情景：谈及收集语言的工作）
 \xf Parenthèse au sujet de la documentation linguistique: on ne peut pas en voir le bout (tout collecter de façon exhaustive); mais on peut réaliser de belles choses!
@@ -53151,7 +53152,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂe˧α
 \sf <nb="B"> 1592
 \sf <nb="2011"> 2376
-\ph shei
+\or shei
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -53201,7 +53202,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx si˩˥
 \sf <nb="B"> 221
 \sf <nb="2011"> 293
-\ph seeq
+\or seeq
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -53227,7 +53228,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1536
 \sf <nb="2011"> 2326
 \hm 1
-\ph seeq
+\or seeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -53263,7 +53264,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx si˧˥
 \hm 2
-\ph seeq
+\or seeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -53285,7 +53286,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx si˥
 \sf <nb="B"> 450a
 \sf <nb="2011"> 582
-\ph see
+\or see
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -53312,7 +53313,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Oct/2015
 
 \lx si˧bv̩˧
-\ph seebbu
+\or seebbu
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
@@ -53332,7 +53333,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx si˧bv̩˧-mi#˥
 \sf <nb="B"> 665
 \sf <nb="2011"> 991
-\ph seebbumi
+\or seebbumi
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
@@ -53357,7 +53358,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 23/Jun/2017
 
 \lx si˧bv̩˧-zo#˥
-\ph seebbusso
+\or seebbusso
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
@@ -53378,7 +53379,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx si˧ɕi˧˥
 \sf <nb="B"> 65
 \sf <nb="2011"> 51
-\ph seexi
+\or seexi
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -53408,7 +53409,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx si˧dzi˩
 \sf <nb="B"> 2017
 \sf <nb="2011"> 3087
-\ph seezzee
+\or seezzee
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -53432,7 +53433,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx si˧dzi˩-mv̩˩tsɯ˩
 \sf <nb="B"> 2119b
 \sf <nb="2011"> 3254
-\ph seezzee muzi
+\or seezzee muzi
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -53453,7 +53454,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx si˧dʑɯ˥
 \sf <nb="B"> 499
 \sf <nb="2011"> 687
-\ph seejji
+\or seejji
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -53475,7 +53476,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx si˧gɯ˧
 \sf <nb="B"> 1915
 \sf <nb="2011"> 2905
-\ph seiggi
+\or seiggi
 \bw <langue="bod"> seng ge
 \ps n
 \cf sɯ˧tsɯ˧
@@ -53497,7 +53498,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 24/Jul/2017
 
 \lx si˧gɯ˧-mi˩
-\ph seiggimi
+\or seiggimi
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -53515,7 +53516,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 24/Jul/2017
 
 \lx si˧gɯ˧-pʰv̩#˥
-\ph seiggipu
+\or seiggipu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -53534,7 +53535,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 03/Aug/2017
 
 \lx si˧gɯ˧-tsʰo#˥
-\ph seiggico
+\or seiggico
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -53551,7 +53552,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 24/Jul/2017
 
 \lx si˧gɯ˧-zo#˥
-\ph seiggisso
+\or seiggisso
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -53573,7 +53574,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 556
 \sf <nb="B"> 604
 \sf <nb="2011"> 3257
-\ph seege
+\or seege
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -53595,7 +53596,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Oct/2015
 
 \lx si˧kʰɯ˧-ɭɯ˧bv̩˥
-\ph seekeeleebbu
+\or seekeeleebbu
 \ps n
 \cf si˧kʰɯ#˥
 \sd <langue="fra"> plante
@@ -53615,7 +53616,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Aug/2017
 
 \lx si˧kʰɯ#˥
-\ph seekee
+\or seekee
 \ps n
 \cf si˧kʰɯ˧ɭɯ˧bv̩˥
 \sd <langue="fra"> plante
@@ -53641,7 +53642,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1170
 \sf <nb="2011"> 1674
 \bw <langue="cmn"> 吸管
-\ph siguae
+\or siguae
 \ps v
 \lc si˩kwæ˥
 \ton LM
@@ -53663,7 +53664,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 23/Jun/2017
 
 \lx si˧kwɤ˩
-\ph seegua
+\or seegua
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -53687,7 +53688,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx si˧ɭɯ#˥
 \sf <nb="B"> 450b
 \sf <nb="2011"> 583
-\ph seelee
+\or seelee
 \ps n
 \lc si˧ɭɯ˧
 \sy qæ˧ɻ̍˧
@@ -53722,7 +53723,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx si˧nɑ˥
 \sf <nb="B"> 65b
 \sf <nb="2011"> 52
-\ph seena
+\or seena
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -53743,7 +53744,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx si˩qʰɑ˩
 \sf <nb="2011"> 3175
-\ph seekha
+\or seekha
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -53765,7 +53766,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx si˧qʰwæ˩
 \sf <nb="B"> 1447
 \sf <nb="2011"> 1925
-\ph see khuaeq
+\or see khuaeq
 \ps v
 \ton L#
 \lc si˧qʰwæ˩
@@ -53791,7 +53792,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx si˧-ʁæ˧bæ˥
 \sf <nb="B"> 517
 \sf <nb="2011"> 728
-\ph seehraebbae
+\or seehraebbae
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -53813,7 +53814,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx si˧ʁo˧si˧ɭɯ#˥
 \sf <nb="B"> 1971
 \sf <nb="2011"> 2995
-\ph seewoseelee
+\or seewoseelee
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -53844,7 +53845,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx si˧ʁo#˥
 \sf <nb="2011"> 2996
-\ph seewo
+\or seewo
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -53864,7 +53865,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx si˧-sæ˥qʰv̩˩
 \sf <nb="B"> 2058
 \sf <nb="2011"> 3168
-\ph seesaekheu
+\or seesaekheu
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -53885,7 +53886,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx si˩tsʰɤ˩
 \sf <nb="B"> 2131
 \sf <nb="2011"> 3267
-\ph seece
+\or seece
 \ps n
 \sn 1
 \sd <langue="fra"> plante
@@ -53925,7 +53926,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Oct/2015
 
 \lx si˧tʰv̩#˥
-\ph seetu
+\or seetu
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
@@ -53947,7 +53948,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx si˧α
 \sf <nb="B"> 1542
 \sf <nb="2011"> 2335
-\ph see
+\or see
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -53999,7 +54000,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx so˩
 \sf <nb="B"> 813
 \sf <nb="2011"> 1201
-\ph so
+\or so
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
@@ -54022,7 +54023,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx so˧˥
 \sf <nb="B"> 24
 \sf <nb="2011"> 34
-\ph soq
+\or soq
 \ps n
 \sn 1
 \sd <langue="fra"> environnement naturel
@@ -54060,7 +54061,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx so˥
 \hm 1
-\ph so
+\or so
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
@@ -54086,7 +54087,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx so˥
 \hm 2
-\ph so
+\or so
 \ps clf
 \cf sɑ˥
 \sd <langue="fra"> classificateur
@@ -54110,7 +54111,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx sɤ˩˥
 \sf <nb="B"> 204
 \sf <nb="2011"> 273
-\ph seq
+\or seq
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -54135,7 +54136,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx sɤ˥
 \sf <nb="B"> 212
 \sf <nb="2011"> 280
-\ph se
+\or se
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -54158,7 +54159,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʂo˧
 \sf <nb="2011"> 3383
-\ph sho
+\or sho
 \ps intj
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -54178,7 +54179,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 06/Oct/2015
 
 \lx ʂo˧
-\ph sho
+\or sho
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -54206,7 +54207,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 997a
 \sf <nb="2011"> 1429
 \hm 1
-\ph shoq
+\or shoq
 \ps v
 \cf ʂo˧˥2
 \sd <langue="fra"> verbe
@@ -54250,7 +54251,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 997a
 \sf <nb="2011"> 1429
 \hm 2
-\ph shoq
+\or shoq
 \ps adj
 \cf ʂo˧˥1
 \sd <langue="fra"> verbe
@@ -54280,7 +54281,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂo˥
 \sf <nb="B"> 1497
 \sf <nb="2011"> 2572
-\ph sho
+\or sho
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -54308,7 +54309,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂɤ˧do˧˥
 \sf <nb="B"> 1080
 \sf <nb="2011"> 1526
-\ph sheddo
+\or sheddo
 \ps adj
 \lc ʂɤ˧do˧˥
 \sn 1
@@ -54346,7 +54347,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx so˧dʑɯ#˥
 \sf <nb="B"> 624
 \sf <nb="2011"> 925
-\ph sojji
+\or sojji
 \ps n
 \lc so˧dʑɯ˧
 \sd <langue="fra"> objet
@@ -54372,7 +54373,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx so˧hɑ̃˩
 \sf <nb="B"> 740
 \sf <nb="2011"> 1115
-\ph sohan
+\or sohan
 \ps adv
 \lc so˧hɑ̃˩
 \sd <langue="fra"> temps
@@ -54401,7 +54402,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 802b
 \sf <nb="B"> 802c
 \sf <nb="2011"> 1191
-\ph sohua
+\or sohua
 \ps adv
 \lc so˧hwɤ˩
 \sd <langue="fra"> temps
@@ -54422,7 +54423,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx so˧ʝi˥$
 \sf <nb="B"> 794
 \sf <nb="2011"> 1147
-\ph soyi
+\or soyi
 \ps adv
 \lc so˧ʝi˥
 \sd <langue="fra"> temps
@@ -54445,7 +54446,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx so˧ɬi˧mi˧
 \sf <nb="B"> 779
 \sf <nb="2011"> 1175
-\ph solhimi
+\or solhimi
 \ps n
 \lc so˧ɬi˧mi˧
 \sd <langue="fra"> temps
@@ -54465,7 +54466,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx so˧lo˧
-\ph solo
+\or solo
 \ps n
 \lc so˧lo˧
 \sd <langue="fra"> abstrait
@@ -54497,7 +54498,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx sɤ˧ɭɯ˩
 \sf <nb="B"> 2250
 \sf <nb="2011"> 3004
-\ph selee
+\or selee
 \ps n
 \lc sɤ˧ɭɯ˩
 \sd <langue="fra"> plante
@@ -54519,7 +54520,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx so˧ɲi˥
 \sf <nb="B"> 734
 \sf <nb="2011"> 1109
-\ph soni
+\or soni
 \ps adv
 \lc so˧ɲi˥
 \sd <langue="fra"> temps
@@ -54537,7 +54538,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ʂɤ˧ɲi#˥
-\ph sheni
+\or sheni
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
@@ -54570,7 +54571,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂɤ˩ŋɤ#˥
 \sf <nb="B"> 651
 \sf <nb="2011"> 975
-\ph shenge
+\or shenge
 \ps n
 \sd <langue="fra"> musique
 \sd <langue="eng"> music
@@ -54598,7 +54599,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂo˩qæ˩
 \sf <nb="B"> 1050
 \sf <nb="2011"> 1485
-\ph shoghae
+\or shoghae
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -54614,11 +54615,11 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \gn 很干净
 \df Tout propre.
 \gf tout_propre
-\xv ʂo˩qæ˩˥ | -gv̩˩
+\xv ʂo˩qæ˩˥ ◊ -gv̩˩
 \xe very clean
 \xn 很干净
 \xf tout propre
-\xv ɑ˩ʁo˧ | le˧-gv̩˧~gv̩˥ | ʂo˩qæ˩˥ | -gv̩˩
+\xv ɑ˩ʁo˧ | le˧-gv̩˧~gv̩˥ | ʂo˩qæ˩˥ ◊ -gv̩˩
 \xe to put the house in order, that it be very clean
 \xn 家收拾得干干净净
 \xf ranger la maison, qu'elle soit bien propre
@@ -54627,7 +54628,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx sɤ˧sɤ˧˥
 \sf <nb="B"> 1090b
 \sf <nb="2011"> 1554
-\ph sese
+\or sese
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -54655,7 +54656,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂo˧ʂo˧
 \sf <nb="B"> 1639
 \sf <nb="2011"> 1618
-\ph shosho
+\or shosho
 \ps v
 \ton M
 \lc ʂo˧ʂo˧
@@ -54677,7 +54678,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx sɤ˧tʰo˧˥
 \sf <nb="2011"> 3111
-\ph seto
+\or seto
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -54703,7 +54704,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx so˧tsʰi˧
 \sf <nb="B"> 831
 \sf <nb="2011"> 1228
-\ph socee
+\or socee
 \ps num
 \ton M
 \lc so˧tsʰi˧
@@ -54725,7 +54726,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx so˧tsʰi˥
 \sf <nb="B"> 2220
 \sf <nb="2011"> 1973
-\ph socee
+\or socee
 \ps v
 \ton H#
 \lc so˧tsʰi˥
@@ -54753,7 +54754,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx sɤ˧tsi˥
 \sf <nb="B"> 2170
 \sf <nb="2011"> 281
-\ph sezee
+\or sezee
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -54780,7 +54781,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx so˧tsʰɯ˧ɲi˧
 \sf <nb="B"> 729
 \sf <nb="2011"> 1100
-\ph soceeni
+\or soceeni
 \ps n
 \ton M
 \lc so˧tsʰɯ˧ɲi˧
@@ -54803,7 +54804,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1031b
 \sf <nb="2011"> 1462
 \hm 1
-\ph soq
+\or soq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -54822,7 +54823,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1588
 \sf <nb="2011"> 2365
 \hm 2
-\ph soq
+\or soq
 \ps v
 \sn 1
 \sd <langue="fra"> verbe
@@ -54902,7 +54903,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/May/2017
 
 \lx so˧α
-\ph so
+\or so
 \ps clf
 \lc ɖɯ˧ so˧
 \sd <langue="fra"> temps
@@ -54931,7 +54932,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1054
 \sf <nb="B"> 238
 \sf <nb="2011"> 1484
-\ph shoq
+\or shoq
 \ps adj
 \lc ʂo˩˥
 \sd <langue="fra"> adjectif
@@ -54970,7 +54971,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂɤ˩α
 \sf <nb="B"> 1524
 \sf <nb="2011"> 1781
-\ph sheq
+\or sheq
 \ps v
 \lc ʂɤ˩˥
 \sd <langue="fra"> verbe
@@ -55004,7 +55005,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx so˩~so˧˥
 \sf <nb="B"> 1190b
 \sf <nb="2011"> 2497
-\ph soso
+\or soso
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -55028,7 +55029,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂɻ̍˧˥
 \sf <nb="B"> 1652
 \sf <nb="2011"> 2328
-\ph sheuq
+\or sheuq
 \ps adj
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -55054,7 +55055,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1423
 \sf <nb="2011"> 2055
 \hm 1
-\ph si
+\or si
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -55085,7 +55086,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1590a
 \sf <nb="2011"> 2368
 \hm 2
-\ph si
+\or si
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -55110,7 +55111,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂɯ˧
 \sf <nb="B"> 817
 \sf <nb="2011"> 1205
-\ph shi
+\or shi
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
@@ -55134,7 +55135,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1582
 \sf <nb="2011"> 2204
 \hm 1
-\ph shiq
+\or shiq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -55176,7 +55177,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1007
 \sf <nb="2011"> 1434
 \hm 2
-\ph shiq
+\or shiq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -55206,7 +55207,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʂɯ˩β
 \sf <nb="2011"> 1295
-\ph shi
+\or shi
 \ps clf
 \lc ɖɯ˧ ʂɯ˩
 \sd <langue="fra"> classificateur
@@ -55226,7 +55227,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ʂɯ˧dʑi˧
-\ph shijjie
+\or shijjie
 \ps n
 \lc ʂɯ˧dʑi˧
 \sd <langue="fra"> société
@@ -55250,7 +55251,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 488a
 \sf <nb="B"> 489
 \sf <nb="2011"> 671
-\ph siggu
+\or siggu
 \ps n
 \lc sɯ˧gv̩˧
 \sd <langue="fra"> objet
@@ -55276,7 +55277,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂɯ˩ʝi#˥
 \sf <nb="B"> 793
 \sf <nb="2011"> 1144
-\ph shiyi
+\or shiyi
 \ps adv
 \lc ʂɯ˩ʝi˥
 \sd <langue="fra"> temps
@@ -55301,7 +55302,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx sɯ˧kʰɯ˩
-\ph sikee
+\or sikee
 \ps n
 \lc sɯ˧kʰɯ˩
 \sd <langue="fra"> religion
@@ -55318,7 +55319,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʂɯ˩kwæ˩ɻæ˥
 \sf <nb="2011"> 1398
-\ph shiguae'er
+\or shiguae'er
 \ps adj
 \lc ʂɯ˩kwæ˩ɻæ˥
 \sd <langue="fra"> adjectif
@@ -55352,7 +55353,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂɯ˧-ɬi˧mi˧
 \sf <nb="B"> 783
 \sf <nb="2011"> 1179
-\ph shilhimi
+\or shilhimi
 \ps n
 \lc ʂɯ˧ɬi˧mi˧
 \sd <langue="fra"> temps
@@ -55374,7 +55375,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx sɯ˧ljɤ˧˥
 \bw <langue="cmn"> 塑料
-\ph silia
+\or silia
 \ps n
 \lc sɯ˧ljɤ˧˥
 \sd <langue="fra"> objet
@@ -55392,7 +55393,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 23/Jun/2017
 
 \lx sɯ˧ljɤ˧tʰo˧˥
-\ph siliato
+\or siliato
 \ps n
 \lc sɯ˧ljɤ˧tʰo˧˥
 \sd <langue="fra"> objet
@@ -55411,7 +55412,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 23/Jun/2017
 
 \lx sɯ˧mɤ˩
-\ph sime
+\or sime
 \ps n
 \lc sɯ˧mɤ˩
 \sd <langue="fra"> plante
@@ -55441,7 +55442,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂɯ˧ɲi˥
 \sf <nb="B"> 732
 \sf <nb="2011"> 1103
-\ph shini
+\or shini
 \ps adv
 \lc ʂɯ˧ɲi˥
 \sd <langue="fra"> temps
@@ -55473,7 +55474,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx sɯ˧pʰi˧
 \sf <nb="B"> 365b
 \sf <nb="2011"> 406
-\ph sipi
+\or sipi
 \ps n
 \lc sɯ˧pʰi˧
 \sd <langue="fra"> société
@@ -55504,7 +55505,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx sɯ˧pʰi˧-zo˧
 \sf <nb="B"> 268
 \sf <nb="2011"> 348
-\ph seepisso 
+\or seepisso 
 \ps n
 \lc sɯ˧pʰi˧zo˧
 \sd <langue="fra"> société
@@ -55525,7 +55526,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 23/Jun/2017
 
 \lx sɯ˩pv̩˩
-\ph sibu
+\or sibu
 \ps n
 \lc sɯ˩pv̩˩˥
 \sd <langue="fra"> corps
@@ -55549,7 +55550,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx sɯ˧pv̩˩
 \sf <nb="B"> 226
 \sf <nb="2011"> 298
-\ph sibu
+\or sibu
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -55576,7 +55577,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx sɯ˧pv̩˩-ni˩gv̩˩
 \sf <nb="2011"> 1494
-\ph sibu niggu
+\or sibu niggu
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -55598,7 +55599,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx sɯ˧pv̩˧-sɯ˥nɑ˩
 \sf <nb="B"> 1811
 \sf <nb="2011"> 2759
-\ph sibusina
+\or sibusina
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -55621,7 +55622,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx sɯ˧ɻæ˧
 \sf <nb="B"> 484
 \sf <nb="2011"> 664
-\ph silae
+\or silae
 \ps n
 \cf ʈʂo˧tsɯ˥
 \sd <langue="fra"> objet
@@ -55647,7 +55648,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx sɯ˧ɻ̃˧mi#˥
 \sf <nb="B"> 217
 \sf <nb="2011"> 288
-\ph si'eunmi
+\or si'eunmi
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -55675,7 +55676,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx sɯ˩ɻ̍˩
 \sf <nb="2011"> 713
-\ph si'er
+\or si'er
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -55694,7 +55695,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 04/Aug/2017
 
 \lx sɯ˧ɻ̃#˥
-\ph see'eun
+\or see'eun
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -55718,7 +55719,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx sɯ˧ɻ̍˧
 \sf <nb="B"> 2226a
 \sf <nb="2011"> 570
-\ph si'er
+\or si'er
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
@@ -55742,7 +55743,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx sɯ˧sɯ˩
 \sf <nb="B"> 1006
 \sf <nb="2011"> 1431
-\ph sisi
+\or sisi
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -55771,7 +55772,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Oct/2015
 
 \lx ʂɯ˧ʂɯ˧-dzi˩
-\ph shishizzee
+\or shishizzee
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -55792,7 +55793,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx sɯ˩tʰi˩
 \sf <nb="B"> 510
 \sf <nb="2011"> 708
-\ph seeti
+\or seeti
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -55818,7 +55819,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx sɯ˩tʰi˩-kʰɯ˥ʑi˩
 \sf <nb="B"> 608
 \sf <nb="2011"> 890
-\ph seeti keexxi
+\or seeti keexxi
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -55842,7 +55843,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Oct/2017
 
 \lx ʂɯ˧tɤ˧ɻ̍#˥
-\ph shide'er
+\or shide'er
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -55869,7 +55870,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂɯ˧tsʰi˩
 \sf <nb="B"> 835
 \sf <nb="2011"> 1232
-\ph shicee
+\or shicee
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
@@ -55889,7 +55890,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx sɯ˧tsɯ˩
 \sf <nb="2011"> 3095
-\ph sizi
+\or sizi
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -55910,7 +55911,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx sɯ˧tsɯ˧
 \sf <nb="2011"> 2906
-\ph shizi
+\or shizi
 \bw <langue="cmn"> 狮子
 \ps n
 \cf si˧gɯ˧
@@ -55932,7 +55933,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂɯ˩tsɯ˧
 \sf <nb="B"> 619
 \sf <nb="2011"> 912
-\ph shizi
+\or shizi
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -55959,7 +55960,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂɯ˩tsɯ˧
 \sf <nb="B"> 1975
 \sf <nb="2011"> 3005
-\ph shizi
+\or shizi
 \bw <langue="cmn"> 柿子
 \ps n
 \sd <langue="fra"> plante
@@ -55983,7 +55984,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx sɯ˧ʈv̩˥
 \sf <nb="B"> 1959
 \sf <nb="2011"> 2978
-\ph sideu
+\or sideu
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -56017,7 +56018,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx sɯ˧zɯ#˥
 \sf <nb="B"> 274d
 \sf <nb="2011"> 357
-\ph sissi
+\or sissi
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -56053,7 +56054,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx sɯ˩α
 \sf <nb="B"> 1661
 \sf <nb="2011"> 2485
-\ph siq
+\or siq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -56082,7 +56083,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx sɯ˧α
 \sf <nb="B"> 1177
 \sf <nb="2011"> 1686
-\ph si
+\or si
 \ps v
 \sn 1
 \sd <langue="fra"> verbe
@@ -56142,7 +56143,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʂɯ˧α
 \hm 1
-\ph shi
+\or shi
 \ps v
 \lc ʂɯ˧
 \sd <langue="fra"> verbe
@@ -56170,7 +56171,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1662
 \sf <nb="2011"> 2486
 \hm 2
-\ph shi
+\or shi
 \ps v
 \lc ʂɯ˧
 \sd <langue="fra"> verbe
@@ -56207,7 +56208,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂv̩˧˥
 \sf <nb="B"> 1426a
 \sf <nb="2011"> 2058
-\ph shuq
+\or shuq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -56233,7 +56234,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Oct/2015
 
 \lx ʂv̩˥
-\ph shu
+\or shu
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -56257,7 +56258,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂv̩˧β
 \sf <nb="B"> 1700
 \sf <nb="2011"> 2523
-\ph shu
+\or shu
 \ps v
 \sn 1
 \sd <langue="fra"> verbe
@@ -56319,7 +56320,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 772
 \sf <nb="B"> 1096
 \sf <nb="2011"> 2617
-\ph shuddu
+\or shuddu
 \ps v
 \lc ʂv̩˧ɖv̩˧
 \sn 1
@@ -56418,7 +56419,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂv̩˩gv̩˩
 \sf <nb="B"> 606
 \sf <nb="2011"> 888
-\ph shuggu
+\or shuggu
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -56444,7 +56445,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʂv̩˧kʰɯ˩
 \sf <nb="2011"> 1724
-\ph shukee
+\or shukee
 \ps v
 \ton L#
 \lc ʂv̩˧kʰɯ˩
@@ -56467,7 +56468,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂv̩˩njɤ˥
 \sf <nb="B"> 2151
 \sf <nb="2011"> 3294
-\ph shunya
+\or shunya
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -56493,7 +56494,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂv̩˧ʂv̩˧˥
 \sf <nb="B"> 634
 \sf <nb="2011"> 945
-\ph shushu
+\or shushu
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -56528,7 +56529,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂwæ˩˥
 \sf <nb="B"> 589
 \sf <nb="2011"> 832
-\ph shuaeq
+\or shuaeq
 \ps n
 \sd <langue="fra"> agriculture
 \sd <langue="eng"> agriculture
@@ -56578,7 +56579,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂwæ˧
 \sf <nb="B"> 915
 \sf <nb="2011"> 1343
-\ph shuae
+\or shuae
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -56613,7 +56614,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂwæ˧
 \sf <nb="B"> 1904
 \sf <nb="2011"> 2886
-\ph shuae
+\or shuae
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -56641,7 +56642,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂwæ˧˥
 \sf <nb="B"> 2238
 \sf <nb="2011"> 1662
-\ph shuaeq
+\or shuaeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -56664,7 +56665,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂwæ˧bæ˩
 \sf <nb="B"> 2109
 \sf <nb="2011"> 3184
-\ph shuaebbae
+\or shuaebbae
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -56696,7 +56697,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Oct/2015
 
 \lx ʂwæ˩gv̩˩
-\ph shuaeggu
+\or shuaeggu
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -56715,7 +56716,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʂwæ˧gv̩#˥
 \sf <nb="2011"> 3311
-\ph Shuaeggu
+\or Shuaeggu
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -56737,7 +56738,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂwæ˧pɤ˧tʰe˧
 \sf <nb="B"> 280
 \sf <nb="2011"> 367
-\ph shuaebetei
+\or shuaebetei
 \bw <langue="cmn"> 双胞胎
 \ps n
 \lc ʂwæ˧pɤ˧tʰe˧
@@ -56756,7 +56757,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʂwæ˧ɻæ˧
 \sf <nb="2011"> 431
-\ph shuae'er
+\or shuae'er
 \ps adj
 \ton M
 \lc ʂwæ˧ɻæ˧
@@ -56776,7 +56777,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 16/Jun/2017
 
 \lx ʂwæ˧si#˥
-\ph shuaesee
+\or shuaesee
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -56794,7 +56795,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂwæ˧tsɯ˥
 \sf <nb="B"> 493
 \sf <nb="2011"> 678
-\ph shuaezi
+\or shuaezi
 \bw <langue="cmn"> 刷子
 \ps n
 \sd <langue="fra"> objet
@@ -56818,7 +56819,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂwæ˩α
 \sf <nb="B"> 1591
 \sf <nb="2011"> 2252
-\ph shuaeq
+\or shuaeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -56845,7 +56846,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʂwæ˧α
 \sf <nb="B"> 2217
 \sf <nb="2011"> 2231
-\ph shuae
+\or shuae
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -56878,7 +56879,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Oct/2015
 
 \lx ʂwɤ˧ljɤ˧-kwɤ˩
-\ph shualiagua
+\or shualiagua
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -56898,7 +56899,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɑ˧˥
 \sf <nb="B"> 1552
 \sf <nb="2011"> 2341
-\ph daq
+\or daq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -56921,7 +56922,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 23/Jun/2017
 
 \lx tɑ˥
-\ph da
+\or da
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -56949,7 +56950,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Oct/2015
 
 \lx tʰɑ˩˥
-\ph taq
+\or taq
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -56970,7 +56971,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 975
 \sf <nb="2011"> 1413
 \hm 1
-\ph taq
+\or taq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -56990,7 +56991,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tʰɑ˧˥
 \hm 2
-\ph taq
+\or taq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -57020,7 +57021,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʰæ˧˥
 \sf <nb="B"> 1161
 \sf <nb="2011"> 1654
-\ph taeq
+\or taeq
 \ps v
 \sn 1
 \sd <langue="fra"> verbe
@@ -57062,7 +57063,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈæ˧bɤ˧
 \sf <nb="B"> 355
 \sf <nb="2011"> 412
-\ph daebbe
+\or daebbe
 \ps n
 \lc ʈæ˧bɤ˧
 \sd <langue="fra"> société
@@ -57096,7 +57097,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 23/Jun/2017
 
 \lx ʈæ˩ɖɯ˧
-\ph daeddee
+\or daeddee
 \ps adj
 \lc ʈæ˩ɖɯ˥
 \sd <langue="fra"> adjectif
@@ -57126,7 +57127,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɑ˩dv̩˧˥
 \sf <nb="B"> 422b
 \sf <nb="2011"> 534
-\ph daddu
+\or daddu
 \ps n
 \lc tɑ˩dv̩˧˥
 \sd <langue="fra"> vêtement
@@ -57149,7 +57150,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tɑ˧dzi˩
-\ph Dazzee
+\or Dazzee
 \ps n
 \lc tɑ˧dzi˩
 \sd <langue="fra"> lieu
@@ -57169,7 +57170,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 23/Jun/2017
 
 \lx tɑ˩ɖʐo˧dzi˧˥
-\ph dazzhozzee
+\or dazzhozzee
 \ps n
 \lc tɑ˩ɖʐo˧dzi˧˥
 \sd <langue="fra"> religion
@@ -57187,7 +57188,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tɑ˩dʑɤ#˥
-\ph Dajja
+\or Dajja
 \ps n
 \lc tɑ˩dʑɤ˥
 \sd <langue="fra"> nom propre
@@ -57204,7 +57205,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tɑ˩˥fv˩˥
 \bw <langue="cmn"> 大粪
-\ph dafu
+\or dafu
 \ps n
 \ton LH.LH
 \lc tɑ˩˥fv˩˥
@@ -57222,7 +57223,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tɑ˧gɤ˩
 \sf <nb="2011"> 2467
-\ph dagge
+\or dagge
 \ps adj
 \lc tɑ˧gɤ˩
 \sd <langue="fra"> verbe
@@ -57242,7 +57243,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tɑ˧ho˧
-\ph daho
+\or daho
 \ps adv
 \lc tɑ˧ho˧
 \sd <langue="fra"> morphosyntaxe
@@ -57270,7 +57271,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tɑ˩hwɤ˩
-\ph dahua
+\or dahua
 \bw <langue="cmn"> 打发？
 \ec <langue="fra"> Peut-être emprunt chinois ancien fn:发: celui-ci est emprunté comme fv:/hwɤ/ dans ‘méthode', fn:办法
 \ps v
@@ -57328,7 +57329,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʈʰæ˩ki˩
 \sf <nb="2011"> 1992
-\ph taegi
+\or taegi
 \ps v
 \lc ʈʰæ˩ki˩˥
 \sd <langue="fra"> verbe
@@ -57350,7 +57351,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɑ˩kɤ˧
 \sf <nb="B"> 1558
 \sf <nb="2011"> 2593
-\ph dage
+\or dage
 \ps v
 \lc tɑ˩kɤ˥
 \sd <langue="fra"> verbe
@@ -57368,7 +57369,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɑ˧ko˩
 \sf <nb="B"> 1206
 \sf <nb="2011"> 1742
-\ph dago
+\or dago
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -57396,7 +57397,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Oct/2015
 
 \lx tɑ˧ko˧
-\ph dago
+\or dago
 \bw <langue="cmn"> 打工
 \ps v
 \sd <langue="fra"> verbe
@@ -57419,7 +57420,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈæ˧kwæ˧˥
 \sf <nb="B"> 1116
 \sf <nb="2011"> 1523
-\ph daeguae
+\or daeguae
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -57442,7 +57443,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Oct/2015
 
 \lx tɑ˩li˥
-\ph Dali
+\or Dali
 \bw <langue="cmn"> 大理
 \ps n
 \sd <langue="fra"> lieu
@@ -57459,7 +57460,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Oct/2015
 
 \lx tʰɑ˩lo˧
-\ph Talo
+\or Talo
 \bw <langue="bod"> thar lam
 \ps n
 \sd <langue="fra"> lieu
@@ -57484,7 +57485,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 23/Jun/2017
 
 \lx ʈʰæ˧mi˧-ɳɯ˩
-\ph taemi nee
+\or taemi nee
 \ps adv
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -57506,7 +57507,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 29/Jul/2017
 
 \lx tʰɑ˩mi#˥
-\ph tami
+\or tami
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -57534,7 +57535,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɑ˥mo˩
 \sf <nb="B"> 640
 \sf <nb="2011"> 958
-\ph damo
+\or damo
 \ps v
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
@@ -57561,7 +57562,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʰæ˧-mɤ˧-ʝi#˥
 \sf <nb="B"> 2290
 \sf <nb="2011"> 1488
-\ph tae meyi
+\or tae meyi
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -57589,7 +57590,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɑ˩mv̩˩
 \sf <nb="B"> 640
 \sf <nb="2011"> 958
-\ph damu
+\or damu
 \ps v
 \sd <langue="fra"> langage
 \sd <langue="eng"> language
@@ -57618,7 +57619,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɑ˧nɑ˩
 \sf <nb="B"> 620
 \sf <nb="2011"> 917
-\ph dana
+\or dana
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -57640,7 +57641,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Oct/2015
 
 \lx tʰɑ˧-ni˥-ni˩-gv̩˩
-\ph tani niggu
+\or tani niggu
 \ps adv
 \ton -H.L-
 \lc tʰɑ˧ni˥ni˩gv̩˩
@@ -57658,7 +57659,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tɑ˧pi˧
 \hm 1
-\ph dabi
+\or dabi
 \ps adj
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -57699,7 +57700,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Oct/2015
 
 \lx tɑ˧pi˧
-\ph dabi
+\or dabi
 \hm 2
 \bw <langue="cmn"> 打比
 \ps v
@@ -57724,7 +57725,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 23/Jun/2017
 
 \lx tɑ˧pi˧
-\ph dabi
+\or dabi
 \hm 3
 \bw <langue="cmn"> 打比
 \ps n
@@ -57749,7 +57750,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tɑ˧pʰi˩
 \sf <nb="2011"> 3280
-\ph dapi
+\or dapi
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -57767,7 +57768,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Oct/2015
 
 \lx tæ˧pv̩˩
-\ph daebeu
+\or daebeu
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -57802,7 +57803,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈæ˧pv̩˩
 \sf <nb="B"> 1656
 \sf <nb="2011"> 2466
-\ph dabeu
+\or dabeu
 \ps adj
 \cf tɑ˧gɤ˩
 \sd <langue="fra"> verbe
@@ -57824,7 +57825,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 31/Jul/2017
 
 \lx tʰɑ˩pʰv̩#˥
-\ph tapu
+\or tapu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -57843,7 +57844,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʈæ˧qo˧
 \sf <nb="2011"> 1071
-\ph daegho
+\or daegho
 \ps adv
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
@@ -57876,7 +57877,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʰæ˧qʰwɤ˧
 \sf <nb="B"> 428
 \sf <nb="2011"> 545
-\ph taekhua
+\or taekhua
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
@@ -57901,7 +57902,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 129
 \sf <nb="B"> 131
 \sf <nb="2011"> 193
-\ph dae'er
+\or dae'er
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -57925,7 +57926,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tʰæ˧ɻæ˩
 \sf <nb="B"> 631
 \sf <nb="2011"> 936
-\ph tae'er
+\or tae'er
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -57951,7 +57952,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Oct/2015
 
 \lx tɑ˩so˩kʰo˥
-\ph dasoko
+\or dasoko
 \ps adv
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -57971,7 +57972,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Oct/2015
 
 \lx ʈæ˧ʂɯ˧
-\ph Daeshi
+\or Daeshi
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -57987,7 +57988,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Oct/2015
 
 \lx ʈæ˧ʂɯ˧-ɖɯ˩mɑ˩
-\ph Daeshi Ddeema
+\or Daeshi Ddeema
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -58004,7 +58005,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ʈæ˧ʂɯ˧-ɬɑ˩mv̩˩
-\ph Daeshi Lhamu
+\or Daeshi Lhamu
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -58022,7 +58023,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ʈæ˧ʂɯ˧-pæ˩pʰæ˩
-\ph Daeshi Baepae
+\or Daeshi Baepae
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -58038,7 +58039,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ʈæ˧ʂɯ˧-ʈæ˩ʈv̩˩
-\ph Daeshi Daedeu
+\or Daeshi Daedeu
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -58054,7 +58055,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ʈæ˧ʂɯ˧-tsʰi˩ti˩
-\ph Daeshi Ceedi
+\or Daeshi Ceedi
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -58071,7 +58072,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tʰɑ˩tʰɑ˩
 \sf <nb="2011"> 2675
-\ph tata
+\or tata
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -58095,7 +58096,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʈæ˩tsʰo#˥
 \hm 1
-\ph daeco
+\or daeco
 \ps n
 \cf ʈæ˩tsʰo#˥2
 \sd <langue="fra"> religion
@@ -58119,7 +58120,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʈæ˩tsʰo#˥
 \hm 2
-\ph daeco
+\or daeco
 \ps clf
 \cf ʈæ˩tsʰo#˥1
 \sd <langue="fra"> classificateur
@@ -58142,7 +58143,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tʰæ˩tsɯ˧
 \sf <nb="2011"> 740
-\ph taezi
+\or taezi
 \bw <langue="cmn"> 坛子
 \ps n
 \sd <langue="fra"> objet
@@ -58159,7 +58160,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Oct/2015
 
 \lx ʈæ˩ʈv̩#˥
-\ph Daedeu
+\or Daedeu
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -58175,11 +58176,12 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Oct/2015
 
 \lx tʰɑ˧v̩˥
-\ph tawu XXX Borrowing spelling
+\or tawu
 \bw <langue="cmn"> 堂屋
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
+\nt <type="hist" print="n"> RD comment: this is a special spelling for borrowings.
 \ton H#
 \lc tʰɑ˧v̩˥
 \so <print="n"> F4
@@ -58194,7 +58196,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Oct/2017
 
 \lx tʰɑ˩zo#˥
-\ph tasso
+\or tasso
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -58213,7 +58215,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tʰɑ˩-ʐwæ˧mi˧
 \sf <nb="B"> 1924
-\ph taruaemi
+\or taruaemi
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -58231,7 +58233,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tɑ˩α
-\ph da
+\or da
 \ps clf
 \lc ɖɯ˧ tɑ˩
 \sd <langue="fra"> classificateur
@@ -58257,7 +58259,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 910
 \sf <nb="B"> 2251
 \sf <nb="2011"> 1312
-\ph da
+\or da
 \ps clf
 \lc ɖɯ˧ tɑ˧˥
 \sd <langue="fra"> classificateur
@@ -58289,7 +58291,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɑ˧α
 \sf <nb="B"> 1510b
 \sf <nb="2011"> 2236
-\ph da
+\or da
 \ps v
 \lc tɑ˧
 \sd <langue="fra"> verbe
@@ -58311,7 +58313,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tʰɑ˧‑
 \sf <nb="2011"> 3371
-\ph ta
+\or ta
 \ps pref
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -58338,7 +58340,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈæ˩α
 \sf <nb="B"> 1294
 \sf <nb="2011"> 1730
-\ph daeq
+\or daeq
 \ps v
 \lc ʈæ˩˥
 \sn 1
@@ -58391,7 +58393,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="2011"> 1440
 \sf <nb="2011"> 1511
 \hm 1
-\ph dada
+\or dada
 \ps adj
 \cf tɑ˧~tɑ˧2
 \sd <langue="fra"> adjectif
@@ -58424,7 +58426,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tɑ˧~tɑ˧
 \hm 2
-\ph dada
+\or dada
 \ps adv
 \cf tɑ˧~tɑ˧1
 \sd <langue="fra"> morphosyntaxe
@@ -58451,7 +58453,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʰæ˩~ʈʰæ˧˥
 \sf <nb="B"> 1595
 \sf <nb="2011"> 2382
-\ph taetae
+\or taetae
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -58475,7 +58477,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tɕæ˧hæ˩
-\ph jaehae
+\or jaehae
 \bw <langue="cmn"> 胶+？
 \ps n
 \sd <langue="fra"> objet
@@ -58501,7 +58503,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕæ˧pʰv̩˩
 \sf <nb="B"> 954b
 \sf <nb="2011"> 1392
-\ph jaepeu
+\or jaepeu
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -58525,7 +58527,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 23/Jun/2017
 
 \lx tɕæ˧ɻæ˩
-\ph jae'er
+\or jae'er
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -58554,7 +58556,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 16/Jun/2017
 
 \lx tɕæ˧tsʰe˩
-\ph Jaecei
+\or Jaecei
 \ps n
 \cf tsʰe˧di˧
 \sd <langue="fra"> lieu
@@ -58573,7 +58575,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕi˩˥
 \sf <nb="B"> 546a
 \sf <nb="2011"> 780
-\ph jieq
+\or jieq
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -58602,7 +58604,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1034
 \sf <nb="2011"> 1465
 \hm 1
-\ph jie
+\or jie
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -58638,7 +58640,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 623
 \sf <nb="2011"> 924
 \hm 2
-\ph jie
+\or jie
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -58664,7 +58666,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tɕi˧˥
 \sf <nb="2011"> 1812
-\ph jieq
+\or jieq
 \ps v
 \ton MH
 \lc tɕi˧˥
@@ -58687,7 +58689,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1212b
 \sf <nb="B"> 1601
 \sf <nb="2011"> 2419
-\ph jie
+\or jie
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -58724,7 +58726,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕʰi˥
 \sf <nb="B"> 2132
 \sf <nb="2011"> 3269
-\ph qie
+\or qie
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -58748,7 +58750,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕʰi˩β
 \sf <nb="B"> 1159
 \sf <nb="2011"> 1653
-\ph qie
+\or qie
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -58788,7 +58790,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕʰi˧β
 \sf <nb="B"> 1418
 \sf <nb="2011"> 2046
-\ph qie
+\or qie
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -58812,7 +58814,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕi˧do˩
 \sf <nb="B"> 2306
 \sf <nb="2011"> 3007
-\ph jieddo
+\or jieddo
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -58832,7 +58834,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 24/Jul/2017
 
 \lx tɕʰi˧ɖv̩#˥
-\ph Qiddeu
+\or Qiddeu
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -58849,7 +58851,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 23/Jun/2017
 
 \lx tɕi˧-dʑɯ˩
-\ph jiejji
+\or jiejji
 \ps n
 \sn 1
 \sd <langue="fra"> nourriture
@@ -58878,7 +58880,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕi˧kwɤ˧
 \sf <nb="B"> 2009
 \sf <nb="2011"> 3076
-\ph jigua
+\or jigua
 \ps n
 \lc tɕi˧kwɤ˧
 \sd <langue="fra"> plante
@@ -58908,7 +58910,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tɕʰi˧nɑ˥
 \sf <nb="2011"> 3305
-\ph qiena
+\or qiena
 \ps n
 \lc tɕʰi˧nɑ˧
 \sd <langue="fra"> plante
@@ -58936,7 +58938,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕi˩nv̩˧˥
 \sf <nb="B"> 546b
 \sf <nb="2011"> 781
-\ph jienu
+\or jienu
 \ps n
 \lc tɕi˩nv̩˧˥
 \sd <langue="fra"> objet
@@ -58962,7 +58964,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕi˩qɑ˥
 \sf <nb="B"> 2196
 \sf <nb="2011"> 575
-\ph jiegha
+\or jiegha
 \ps n
 \lc tɕi˩qɑ˥
 \sd <langue="fra"> maison
@@ -58982,7 +58984,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tɕi˧sɯ˧pɤ˧
-\ph jiesibe
+\or jiesibe
 \ps n
 \lc tɕi˧sɯ˧pɤ˧
 \sd <langue="fra"> nourriture
@@ -59019,7 +59021,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tɕi˧tɕi˧ | læ˩sæ˧-dzi˩
-\ph jiejie laesaezzee  
+\or jiejie laesaezzee  
 \ps n
 \lc tɕi˧tɕi˧læ˩sæ˧dzi˩
 \sd <langue="fra"> plante
@@ -59035,7 +59037,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 16/Aug/2017
 
 \lx tɕʰi˩tɕʰɤ˩
-\ph qiqe
+\or qiqe
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -59053,7 +59055,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tɕʰĩ˩tsʰɤ˩
 \sf <nb="2011"> 3075
-\ph qince  
+\or qince  
 \ps n
 \ton L
 \lc tɕʰĩ˩tsʰɤ˩˥
@@ -59069,7 +59071,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Oct/2017
 
 \lx tɕʰi˧ʈʂʰɤ˥
-\ph qiche
+\or qiche
 \bw <langue="cmn"> 汽车
 \ps n
 \lc tɕʰi˧ʈʂʰɤ˥
@@ -59091,7 +59093,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕʰi˩tsɯ˧
 \sf <nb="B"> 2012
 \sf <nb="2011"> 3080
-\ph qiezi
+\or qiezi
 \bw <langue="cmn"> 茄子
 \ps n
 \lc tɕʰi˧tsɯ˥
@@ -59113,7 +59115,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 916
 \sf <nb="B"> 1784
 \sf <nb="2011"> 1344
-\ph jieq
+\or jieq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -59144,7 +59146,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕi˧α
 \sf <nb="B"> 886
 \sf <nb="2011"> 1365
-\ph jie
+\or jie
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -59171,7 +59173,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕo˥
 \sf <nb="B"> 710b
 \sf <nb="2011"> 1074
-\ph jo
+\or jo
 \ps n
 \lc tɕo˧
 \sd <langue="fra"> espace
@@ -59205,7 +59207,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tɕɤ
-\ph ja
+\or ja
 \ps intj
 \lc tɕɤ!
 \sd <langue="fra"> interjection
@@ -59221,7 +59223,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tɕɤ˩
-\ph jaq
+\or jaq
 \bw <langue="cmn"> 架？
 \ps v
 \ton L
@@ -59244,7 +59246,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕɤ˧˥
 \sf <nb="B"> 1505
 \sf <nb="2011"> 2207
-\ph jaq
+\or jaq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -59281,7 +59283,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕɤ˥
 \sf <nb="B"> 1580
 \sf <nb="2011"> 2358
-\ph ja
+\or ja
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -59305,7 +59307,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tɕʰo˩
 \sf <nb="2011"> 3382
-\ph qo
+\or qo
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -59332,7 +59334,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕʰo˩˧
 \sf <nb="B"> 513
 \sf <nb="2011"> 717
-\ph qoq
+\or qoq
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -59355,7 +59357,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx tɕʰo˧˥
-\ph qoq
+\or qoq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -59377,7 +59379,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕʰɤ˧˥
 \sf <nb="B"> 1455
 \sf <nb="2011"> 2111
-\ph qeq
+\or qeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -59417,7 +59419,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tɕo˩ɕjo˧
 \sf <nb="2011"> 1645
-\ph joxo
+\or joxo
 \ps n
 \sd <langue="fra"> musique
 \sd <langue="eng"> music
@@ -59438,7 +59440,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx tɕɤ˧fv̩˩
-\ph jafu
+\or jafu
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -59458,7 +59460,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tɕɤ˧ho˩pæ˧
 \bw <langue="cmn"> 胶合板
-\ph jahobae
+\or jahobae
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> home
@@ -59477,7 +59479,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕɤ˩ho˩tsɯ˥
 \sf <nb="B"> 1455b
 \sf <nb="2011"> 2113
-\ph jahozi
+\or jahozi
 \ps n
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -59500,7 +59502,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Oct/2015
 
 \lx tɕɤ˧jo˩
-\ph jaeyu
+\or jaeyu
 \bw <langue="cmn"> 监狱
 \ps n
 \ton L#
@@ -59527,7 +59529,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tɕʰɤ˩lv̩˩
 \sf <nb="2011"> 3305
-\ph qelu
+\or qelu
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -59561,7 +59563,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx tɕʰo˩mi#˥
-\ph qomi
+\or qomi
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -59580,7 +59582,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx tɕo˩mv̩˧
-\ph jomu
+\or jomu
 \bw <langue="cmn"> 舅
 \ps n
 \sd <langue="fra"> société
@@ -59601,7 +59603,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕʰɤ˧ɲi˧-ne˧-ʝi˥
 \sf <nb="B"> 889
 \sf <nb="2011"> 1304
-\ph qenini yi
+\or qenini yi
 \ps adv
 \ton H#
 \lc tɕʰɤ˧ɲi˧ne˧ʝi˥
@@ -59623,7 +59625,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 23/Jun/2017
 
 \lx tɕʰɤ˧pɤ˧-mi#˥
-\ph Qebemi
+\or Qebemi
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -59645,7 +59647,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕɤ˧qʰɑ#˥
 \sf <nb="B"> 2066
 \sf <nb="2011"> 3197
-\ph jakha
+\or jakha
 \ps n
 \cf ho˧ʈʂɯ˧
 \sd <langue="fra"> plante
@@ -59668,7 +59670,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tɕʰo˩qʰwɤ˧
 \sf <nb="2011"> 719
-\ph qokhua
+\or qokhua
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -59691,7 +59693,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕʰɤ˧ʂo#˥
 \sf <nb="B"> 2169
 \sf <nb="2011"> 137
-\ph qesho
+\or qesho
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
@@ -59715,7 +59717,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕɤ˧tɑ˧
 \sf <nb="B"> 581c
 \sf <nb="2011"> 823
-\ph jada
+\or jada
 \bw <langue="cmn"> 夹担
 \ps n
 \sd <langue="fra"> agriculture
@@ -59745,7 +59747,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕɤ˧tɑ˧-bæ˩
 \sf <nb="B"> 584
 \sf <nb="2011"> 825
-\ph jadabbae
+\or jadabbae
 \et tɕɤ˧tɑ˧; bæ˩
 \ps n
 \sd <langue="fra"> agriculture
@@ -59773,7 +59775,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tɕʰɤ˧tɕo˩
 \bw <langue="cmn"> 牵锯？
-\ph qejo
+\or qejo
 \ps n
 \sd <langue="fra"> outil
 \sd <langue="eng"> tool
@@ -59790,7 +59792,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 23/Jun/2017
 
 \lx tɕʰɤ˧tɕʰɤ˧˥
-\ph qeqe
+\or qeqe
 \ps adv
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -59810,7 +59812,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 87a
 \sf <nb="2011"> 133
 \so <print="n"> F4
-\ph qedi
+\or qedi
 \ps n
 \ton #H
 \lc tɕʰɤ˧ti˧
@@ -59845,7 +59847,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕʰɤ˩ʈʂv̩˧
 \sf <nb="B"> 522b
 \sf <nb="2011"> 746
-\ph qezhu
+\or qezhu
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -59873,7 +59875,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tɕʰo˩zo#˥
-\ph qosso
+\or qosso
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -59892,7 +59894,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx tɕʰo˩α
-\ph qoq
+\or qoq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -59917,7 +59919,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx tɕɤ˧~tɕɤ˧
-\ph jaja
+\or jaja
 \bw <langue="cmn"> 将将
 \ps adv
 \sd <langue="fra"> morphosyntaxe
@@ -59938,7 +59940,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕɯ˩˥
 \sf <nb="B"> 233
 \sf <nb="2011"> 307
-\ph jiq
+\or jiq
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -59959,7 +59961,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕɯ˧
 \sf <nb="B"> 8
 \sf <nb="2011"> 17
-\ph ji
+\or ji
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -59994,7 +59996,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \xe The sky is cloudy!
 \xn 天上有云！
 \xf le ciel est nuageux!
-\xv tɕɯ˧pʰv̩˩; tɕɯ˧ | pʰv̩˩tɕæ˩˥ | -gv̩˩
+\xv tɕɯ˧pʰv̩˩; tɕɯ˧ | pʰv̩˩tɕæ˩˥ ◊ -gv̩˩
 \xe white cloud
 \xn 白云、白色的云
 \xf nuage blanc
@@ -60008,7 +60010,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1554
 \sf <nb="2011"> 1588
 \hm 1
-\ph ji
+\or ji
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -60042,7 +60044,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1815
 \sf <nb="2011"> 2764
 \hm 2
-\ph jiq
+\or jiq
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -60069,7 +60071,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1819
 \sf <nb="2011"> 2767
 \hm 3
-\ph jiq
+\or jiq
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -60110,7 +60112,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 533
 \sf <nb="2011"> 765
 \hm 4
-\ph jiq
+\or jiq
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -60135,7 +60137,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕɯ˥
 \sf <nb="B"> 1260
 \sf <nb="2011"> 1611
-\ph ji
+\or ji
 \ps v
 \sn 1
 \sd <langue="fra"> verbe
@@ -60192,7 +60194,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕʰɯ˩˥
 \sf <nb="B"> 1911
 \sf <nb="2011"> 2897
-\ph qi
+\or qi
 \ps n
 \lc tɕʰɯ˧
 \sd <langue="fra"> animal
@@ -60223,7 +60225,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕʰɯ˧˥
 \sf <nb="B"> 2274
 \sf <nb="2011"> 696
-\ph qiq
+\or qiq
 \bw <langue="cmn"> 漆
 \ps n
 \lc tɕʰɯ˧˥
@@ -60245,7 +60247,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tɕʰɯ˧˥
 \hm 1
-\ph qiq
+\or qiq
 \ps v
 \lc tɕʰɯ˧˥
 \sd <langue="fra"> verbe
@@ -60268,7 +60270,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 2239
 \sf <nb="2011"> 1669
 \hm 2
-\ph qiq
+\or qiq
 \ps v
 \lc tɕʰɯ˧˥
 \sd <langue="fra"> verbe
@@ -60289,7 +60291,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1638
 \sf <nb="2011"> 1631
 \hm 3
-\ph qiq
+\or qiq
 \ps v
 \lc tɕʰɯ˧˥
 \sd <langue="fra"> verbe
@@ -60317,7 +60319,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tɕʰɯ˧˥
 \hm 4
-\ph qiq
+\or qiq
 \ps adj
 \lc tɕʰɯ˧˥
 \sd <langue="fra"> adjectif
@@ -60338,7 +60340,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tɕʰɯ˧˥
 \hm 5
-\ph qiq
+\or qiq
 \ps adj
 \lc tɕʰɯ˧˥
 \sd <langue="fra"> adjectif
@@ -60369,7 +60371,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tɕʰɯ˥
 \sf <nb="2011"> 1693
-\ph qi
+\or qi
 \ps v
 \lc tɕʰɯ˧
 \sd <langue="fra"> verbe
@@ -60395,7 +60397,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tɕɯ˧β
 \sf <nb="2011"> 2420
-\ph ji
+\or ji
 \ps v
 \lc tɕɯ˧
 \sd <langue="fra"> verbe
@@ -60419,7 +60421,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕʰɯ˧bo˧˥
 \sf <nb="B"> 1025
 \sf <nb="2011"> 1455
-\ph qibbo
+\or qibbo
 \ps adj
 \lc tɕʰɯ˧bo˧˥
 \sd <langue="fra"> adjectif
@@ -60437,7 +60439,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tɕʰɯ˩di˩
-\ph qiddi
+\or qiddi
 \ps v
 \lc tɕʰɯ˩di˩˥
 \cf tɕʰɯ˩˥, di˧˥1
@@ -60456,7 +60458,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tɕʰɯ˩di˩kʰv̩˩
 \sf <nb="2011"> 2850
-\ph qiddiku
+\or qiddiku
 \ps n
 \lc tɕʰɯ˩di˩kʰv̩˩˥
 \sd <langue="fra"> animal
@@ -60483,7 +60485,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tɕʰɯ˧lo#˥
 \sf <nb="2011"> 727
-\ph qilo
+\or qilo
 \ps n
 \lc tɕʰɯ˧lo˧
 \sd <langue="fra"> objet
@@ -60502,7 +60504,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tɕɯ˩ɭɯ˩
 \sf <nb="2011"> 2682
-\ph jilee
+\or jilee
 \ps n
 \lc tɕɯ˩ɭɯ˩˥
 \sd <langue="fra"> animal
@@ -60520,7 +60522,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 23/Jun/2017
 
 \lx tɕɯ˧ɭɯ˧
-\ph jilee
+\or jilee
 \ps v
 \lc tɕɯ˧ɭɯ˧
 \sd <langue="fra"> verbe
@@ -60540,7 +60542,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tɕɯ˩ɭɯ˩-qʰæ˥bæ˩
-\ph jileekhaebbae
+\or jileekhaebbae
 \ps n
 \lc tɕɯ˩ɭɯ˩qʰæ˥bæ˩
 \cf tɕɯ˩ɭɯ˩; qʰæ˩bæ˩
@@ -60562,7 +60564,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tɕɯ˩lv̩˩ho˥
 \sf <nb="2011"> 900
-\ph jiluho
+\or jiluho
 \ps n
 \lc tɕɯ˩lv̩˩ho˥
 \sd <langue="fra"> objet
@@ -60582,7 +60584,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tɕɯ˩mi˥
 \sf <nb="2011"> 2711
-\ph jimi
+\or jimi
 \ps n
 \lc tɕɯ˩mi˥
 \sd <langue="fra"> animal
@@ -60616,7 +60618,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx tɕɯ˧mi˥$
-\ph jimi
+\or jimi
 \ps n
 \lc tɕɯ˧mi˥
 \sd <langue="fra"> objet
@@ -60633,7 +60635,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 30/Jun/2017
 
 \lx tɕʰɯ˩mi#˥
-\ph qimi
+\or qimi
 \ps n
 \lc tɕʰɯ˩mi˥
 \sd <langue="fra"> animal
@@ -60653,7 +60655,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tɕɯ˧pv̩˧
 \sf <nb="2011"> 1547
-\ph jibu
+\or jibu
 \ps adj
 \ton M
 \lc tɕɯ˧pv̩˧
@@ -60677,7 +60679,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tɕʰɯ˩pʰv̩#˥
-\ph qipu
+\or qipu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -60696,7 +60698,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 03/Aug/2017
 
 \lx tɕʰɯ˩-ʁo˩-tɕʰɯ˥
-\ph qiwoqi
+\or qiwoqi
 \ps adv
 \sd <langue="fra"> expression toute faite
 \sd <langue="eng"> set phrase
@@ -60713,7 +60715,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tɕʰɯ˧si˩-dʑɤ˩pv̩˩
-\ph qiseejjabu
+\or qiseejjabu
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -60735,7 +60737,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕɯ˧sɯ˧˥
 \sf <nb="B"> 9
 \sf <nb="2011"> 19
-\ph jisi
+\or jisi
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -60766,7 +60768,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕʰɯ˧sɯ˥
 \sf <nb="B"> 1096b
 \sf <nb="2011"> 1557
-\ph qisi
+\or qisi
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -60783,7 +60785,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx tɕɯ˧wɤ˧
-\ph ji'ua
+\or ji'ua
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -60803,7 +60805,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx tɕɯ˧zo˥$
-\ph jisso
+\or jisso
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -60819,7 +60821,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 30/Jun/2017
 
 \lx tɕʰɯ˩zo#˥
-\ph qisso
+\or qisso
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -60841,7 +60843,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1303
 \sf <nb="B"> 1589
 \sf <nb="2011"> 1859
-\ph jiq
+\or jiq
 \ps v
 \lc tɕɯ˩˥
 \sd <langue="fra"> verbe
@@ -60891,7 +60893,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 859
 \sf <nb="2011"> 1259
 \hm 1
-\ph ji
+\or ji
 \ps clf
 \lc ɖɯ˧ tɕɯ˧˥
 \sd <langue="fra"> classificateur
@@ -60914,7 +60916,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 865
 \sf <nb="2011"> 1265
 \hm 2
-\ph ji
+\or ji
 \bw <langue="cmn"> 斤
 \ps clf
 \lc ɖɯ˧ tɕɯ˧˥
@@ -60941,7 +60943,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕʰɯ˩α
 \sf <nb="B"> 1035
 \sf <nb="2011"> 1466
-\ph qiq
+\or qiq
 \ps adj
 \lc tɕʰɯ˩˥
 \sd <langue="fra"> adjectif
@@ -60960,7 +60962,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tɕʰɯ˧α
 \hm 1
-\ph qi
+\or qi
 \ps v
 \lc tɕʰɯ˧
 \sd <langue="fra"> verbe
@@ -60991,7 +60993,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tɕʰɯ˧α
 \hm 2
-\ph qi
+\or qi
 \ps v
 \lc tɕʰɯ˧
 \sn 1
@@ -61038,7 +61040,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tɕʰɯ˩~tɕʰɯ˧˥
 \sf <nb="B"> 1519
 \sf <nb="2011"> 1676
-\ph qiqi
+\or qiqi
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -61062,7 +61064,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ti˧
-\ph di
+\or di
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -61090,7 +61092,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx ti˧˥
-\ph diq
+\or diq
 \bw <langue="cmn"> 定
 \ps v
 \sd <langue="fra"> verbe
@@ -61110,7 +61112,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 564
 \sf <nb="2011"> 799
 \hm 1
-\ph tiq
+\or tiq
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -61135,7 +61137,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tʰi˩˥
 \sf <nb="2011"> 3380
 \hm 2
-\ph tiq
+\or tiq
 \ps disc.PTCL
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -61152,7 +61154,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx tʰi˧
-\ph ti
+\or ti
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -61181,7 +61183,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx ti˧ɖo˥
-\ph Diddeo
+\or Diddeo
 \ps n
 \lc ti˧ɖo˥
 \sd <langue="fra"> nom propre
@@ -61197,7 +61199,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 16/Jun/2017
 
 \lx tʰi˩mi#˥
-\ph timi
+\or timi
 \ps n
 \lc tʰi˩mi˥
 \sd <langue="fra"> objet
@@ -61218,7 +61220,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ti˩pʰo˩
 \sf <nb="B"> 471
 \sf <nb="2011"> 641
-\ph dipo
+\or dipo
 \ps n
 \lc ti˩pʰo˩˥
 \sd <langue="fra"> maison
@@ -61240,7 +61242,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ti˧pʰv̩#˥
-\ph dipu
+\or dipu
 \ps n
 \lc ti˧pʰv̩˧
 \sd <langue="fra"> objet
@@ -61258,7 +61260,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 03/Aug/2017
 
 \lx ti˩tje˧
-\ph didia
+\or didia
 \bw <langue="cmn"> 对待
 \ps v
 \lc ti˩tje˧
@@ -61278,7 +61280,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ti˧tsɯ˥
 \sf <nb="B"> 488b
 \sf <nb="2011"> 672
-\ph dizi
+\or dizi
 \ps n
 \lc ti˧tsɯ˥
 \sd <langue="fra"> objet
@@ -61303,7 +61305,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ti˧ʈʂʰɯ˩
 \sf <nb="B"> 570a
 \sf <nb="2011"> 807
-\ph dichi
+\or dichi
 \ps n
 \lc ti˧ʈʂʰɯ˩
 \sd <langue="fra"> objet
@@ -61322,7 +61324,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tʰi˩zo#˥
-\ph tisso
+\or tisso
 \ps n
 \lc tʰi˧zo˥
 \sd <langue="fra"> objet
@@ -61345,7 +61347,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1241
 \sf <nb="B"> 1457
 \sf <nb="2011"> 2076
-\ph diq
+\or diq
 \ps v
 \sn 1
 \sd <langue="fra"> verbe
@@ -61404,7 +61406,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx ti˧˥α
-\ph di
+\or di
 \ps clf
 \lc ɖɯ˧ ti˧˥
 \sd <langue="fra"> classificateur
@@ -61426,7 +61428,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tʰi˩α
 \sf <nb="B"> 1126
 \sf <nb="2011"> 1601
-\ph tiq
+\or tiq
 \ps v
 \lc tʰi˩˥
 \sd <langue="fra"> verbe
@@ -61466,7 +61468,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tʰi˧‑
 \sf <nb="B"> 2248
 \sf <nb="2011"> 3367
-\ph tee-
+\or tee-
 \ps pref
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -61493,7 +61495,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈi˩α
 \sf <nb="B"> 1459
 \sf <nb="2011"> 2120
-\ph deiq
+\or deiq
 \ps v
 \lc ʈi˩˥
 \sd <langue="fra"> verbe
@@ -61545,7 +61547,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 871
 \sf <nb="B"> 872
 \sf <nb="2011"> 1281
-\ph dei
+\or dei
 \ps clf
 \lc ɖɯ˧ ʈi˥
 \sd <langue="fra"> classificateur
@@ -61569,7 +61571,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1027
 \sf <nb="B"> 1060
 \sf <nb="2011"> 1999
-\ph teiq
+\or teiq
 \ps adj
 \lc ʈʰi˩˥
 \sd <langue="fra"> verbe
@@ -61601,7 +61603,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 24/Jul/2017
 
 \lx tjɤ˧hwɑ˧˥
-\ph diahua
+\or diahua
 \bw <langue="cmn"> 电话
 \ps n
 \lc tjɤ˧hwɑ˧˥
@@ -61626,7 +61628,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tjɤ˧po˧
 \sf <nb="B"> 477b
 \sf <nb="2011"> 619
-\ph diabo
+\or diabo
 \bw <langue="cmn"> 碉堡
 \ps n
 \lc tjɤ˧po˧
@@ -61646,7 +61648,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tjɤ˩˥ʂɯ˧
 \bw <langue="cmn"> 电视
-\ph diashi
+\or diashi
 \ps n
 \lc tjɤ˩˥ʂɯ˧
 \sd <langue="fra"> morphosyntaxe
@@ -61675,7 +61677,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 29
 \sf <nb="B"> 30
 \sf <nb="2011"> 39
-\ph doq
+\or doq
 \ps n
 \lc to˩˥
 \sd <langue="fra"> environnement naturel
@@ -61704,7 +61706,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʈʰɤ˧˥
 \sf <nb="2011"> 2034
-\ph teq
+\or teq
 \ps v
 \lc ʈʰɤ˧˥
 \sd <langue="fra"> verbe
@@ -61727,7 +61729,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx to˩bi˩
 \sf <nb="2011"> 738
-\ph dobbi
+\or dobbi
 \ps clf
 \lc ɖɯ˧ to˩bi˩
 \sd <langue="fra"> classificateur
@@ -61751,7 +61753,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx to˩bi#˥
 \sf <nb="2011"> 738
-\ph dobbi
+\or dobbi
 \ps n
 \lc to˩bi˥
 \sd <langue="fra"> objet
@@ -61774,7 +61776,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx to˧bɤ#˥
 \sf <nb="B"> 935
 \sf <nb="2011"> 1356
-\ph dobbe
+\or dobbe
 \ps adj
 \lc to˧bɤ˧
 \sd <langue="fra"> adjectif
@@ -61806,7 +61808,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tʰo˧ɕi˩
-\ph toxi
+\or toxi
 \bw <langue="cmn"> 通信
 \ps n
 \lc tʰo˧ɕi˩
@@ -61825,7 +61827,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Jul/2017
 
 \lx tʰo˧ɕi˧˥
-\ph toxi
+\or toxi
 \ps n
 \lc tʰo˧ɕi˧˥
 \sd <langue="fra"> environnement naturel
@@ -61845,7 +61847,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tʰo˧dzi˩
 \sf <nb="B"> 2021
 \sf <nb="2011"> 3099
-\ph tozzee
+\or tozzee
 \ps n
 \lc tʰo˧dzi˩
 \sd <langue="fra"> plante
@@ -61868,7 +61870,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tʰo˧dzi˩-hwæ˩tsɯ˩
 \sf <nb="B"> 2300
 \sf <nb="2011"> 2959
-\ph tozzeehuaezi
+\or tozzeehuaezi
 \ps n
 \lc tʰo˧dzi˩hwæ˩tsɯ˩
 \sd <langue="fra"> animal
@@ -61884,7 +61886,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Aug/2017
 
 \lx tʰo˧fv̩˧
-\ph tofu
+\or tofu
 \bw <langue="cmn"> 土匪
 \ps n
 \lc tʰo˧fv̩˧
@@ -61904,7 +61906,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx to˧kɤ˧-qʰæ˩di˩ | bæ˩bæ˩˥
 \sf <nb="B"> 2177
 \sf <nb="2011"> 3300
-\ph doge khaeddi bbaebbae
+\or doge khaeddi bbaebbae
 \ps n
 \ton -L|L
 \lc to˧kɤ˧qʰæ˩di˩bæ˩bæ˩˥
@@ -61929,7 +61931,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 101
 \sf <nb="B"> 669
 \sf <nb="2011"> 152
-\ph doge
+\or doge
 \ps n
 \sn 1
 \sd <langue="fra"> corps
@@ -61971,7 +61973,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx to˩kʰv̩˩mi˥
 \sf <nb="B"> 1867b
 \sf <nb="2011"> 2843
-\ph dokumi
+\or dokumi
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -61993,7 +61995,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tõ˧kwɤ˧
 \sf <nb="2011"> 3009
 \bw <langue="cmn"> 冬瓜
-\ph dogua
+\or dogua
 \ps n
 \lc tõ˧kwɤ˧
 \ton M
@@ -62009,7 +62011,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Jul/2017
 
 \lx tʰo˧lɑ˧tɕi˧
-\ph tolaji
+\or tolaji
 \bw <langue="cmn"> 拖拉机
 \ps n
 \sd <langue="fra"> objet
@@ -62035,7 +62037,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tʰo˧li˧
 \sf <nb="B"> 1899
 \sf <nb="2011"> 2882
-\ph toli
+\or toli
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -62058,7 +62060,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \hm 1
 \sf <nb="B"> 763
 \sf <nb="2011"> 1158
-\ph toliku
+\or toliku
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -62079,7 +62081,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tʰo˧li˧-kʰv̩˧˥
 \hm 2
-\ph toli kuq
+\or toli kuq
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -62094,7 +62096,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 16/Jun/2017
 
 \lx tʰo˧li˧-mi˩
-\ph tolimi
+\or tolimi
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -62112,7 +62114,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tʰo˧li˧-pʰv̩#˥
-\ph tolipu
+\or tolipu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -62130,7 +62132,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 03/Aug/2017
 
 \lx tʰo˧li˧-zo#˥
-\ph tolisso
+\or tolisso
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -62148,7 +62150,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tʰo˩lo˧
-\ph tolo
+\or tolo
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -62168,7 +62170,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 462
 \sf <nb="2011"> 626
 \hm 1
-\ph domi
+\or domi
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -62195,7 +62197,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx to˩mi˩
 \hm 2
-\ph domi
+\or domi
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -62211,7 +62213,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx tʰo˧-mo˩
-\ph tomo
+\or tomo
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -62229,7 +62231,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx to˩pi˩
 \sf <nb="B"> 894
 \sf <nb="2011"> 1311
-\ph dobi
+\or dobi
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -62253,7 +62255,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 30/Apr/2017
 
 \lx to˩pv̩˧
-\ph dobu
+\or dobu
 \bw <langue="bod">?
 \ps adv
 \sd <langue="fra"> temps
@@ -62268,7 +62270,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \gn 最初
 \df Au début, pour commencer.
 \gf pour_commencer
-\xv ʁo˧dɑ˧ | to˩pv˥ | so˩˥, | ɖɯ˧-pi˧˥ | hw̃ɤ˩˥! | gɯ˩-ʝi˥ gɯ˩-dʑo˩ | ɖɯ˧-pi˧˥ | le˧-ʈʂʰwæ˩-ze˩! | ɖɯ˧-pi˧˥ | le˧-kv˧˥ | -dʑo˩, | le˧-ʈʂʰwæ˩-ze˩!
+\xv ʁo˧dɑ˧ | to˩pv˥ | so˩˥, | ɖɯ˧-pi˧˥ | hw̃ɤ˩˥! | gɯ˩-ʝi˥ gɯ˩-dʑo˩ | ɖɯ˧-pi˧˥ | le˧-ʈʂʰwæ˩-ze˩! | ɖɯ˧-pi˧˥ | le˧-kv˧˥ ◊ -dʑo˩, | le˧-ʈʂʰwæ˩-ze˩!
 \xe Before, at first, (your) learning (Mosuo) was a little slow. (Now,) it is really getting a bit faster! You know some (Mosuo, and so) it gets faster!
 \xn 以前，最初的时候，（你）学习（摩梭话）有一点慢！（到了现在，）真的有一点快了！因为你会一些（摩梭话），所以快起来了！
 \xf Autrefois, au début, ton apprentissage, c'était un peu lent! Vrai de vrai, ça devient un peu plus rapide! Comme tu connais maintenant un peu (la langue), (le travail de transcription) va plus vite!' (Commentaire de F4 en 2017, au sujet des progrès dans le travail de transcription de textes.)
@@ -62277,7 +62279,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tʰo˩pʰv̩˧tɕʰɤ˧
 \sf <nb="B"> 609
 \sf <nb="2011"> 896
-\ph topuqe
+\or topuqe
 \bw <langue="cmn"> ？
 \ps n
 \sd <langue="fra"> objet
@@ -62302,7 +62304,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Jul/2017
 
 \lx to˧qɑ˧
-\ph dogha
+\or dogha
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -62320,7 +62322,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Jul/2017
 
 \lx to˩qo˧˥
-\ph dogho
+\or dogho
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -62351,7 +62353,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx to˩qo˩lv̩˥
 \sf <nb="B"> 940
 \sf <nb="2011"> 1367
-\ph dogholu
+\or dogholu
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -62381,7 +62383,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tʰo˩ʁæ˩
 \sf <nb="B"> 2144
 \sf <nb="2011"> 3263
-\ph tohrae
+\or tohrae
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -62403,7 +62405,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tʰo˧ɻæ˥
 \sf <nb="2011"> 3289
-\ph tolae
+\or tolae
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -62424,7 +62426,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tʰo˩ʂv̩˩
 \sf <nb="B"> 2305
 \sf <nb="2011"> 3264
-\ph toshu
+\or toshu
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -62446,7 +62448,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tʰo˩tɕi˧˥
 \sf <nb="B"> 473
 \sf <nb="2011"> 645
-\ph tojie
+\or tojie
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -62469,7 +62471,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tʰo˧tɕo˧
 \sf <nb="2011"> 1051
-\ph tojo
+\or tojo
 \ps adv
 \ton M
 \lc tʰo˧tɕo˧
@@ -62494,7 +62496,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx to˩to˧mi˥
-\ph dodomi
+\or dodomi
 \ps adv
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -62529,7 +62531,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tʰo˧tsʰe˧-ʁwɤ#˥
-\ph Toceiwua
+\or Toceiwua
 \ps n
 \lc tʰo˧tsʰe˧ʁwɤ˧
 \sd <langue="fra"> lieu
@@ -62558,7 +62560,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx to˩ʈɯ˩
 \sf <nb="2011"> 1345
-\ph dodee
+\or dodee
 \ps adj
 \lc to˩ʈɯ˩˥
 \sd <langue="fra"> adjectif
@@ -62581,7 +62583,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tʰo˧ʈɯ#˥
 \sf <nb="2011"> 3321
-\ph Todee
+\or Todee
 \ps n
 \lc tʰo˧ʈɯ˧
 \sd <langue="fra"> lieu
@@ -62602,7 +62604,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx to˩zo˩
-\ph dosso
+\or dosso
 \ps n
 \lc to˩zo˩˥
 \sd <langue="fra"> environnement naturel
@@ -62620,7 +62622,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tʰo˧ʐv̩˥
 \sf <nb="B"> 1794
 \sf <nb="2011"> 2652
-\ph toru
+\or toru
 \ps n
 \lc tʰo˧ʐv̩˥
 \sd <langue="fra"> animal
@@ -62661,7 +62663,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1512
 \sf <nb="2011"> 2254
 \hm 1
-\ph doq
+\or doq
 \ps v
 \lc to˩˥
 \sd <langue="fra"> verbe
@@ -62688,7 +62690,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx to˩α
 \hm 2
-\ph doq
+\or doq
 \ps v
 \lc to˩˥
 \sd <langue="fra"> verbe
@@ -62709,7 +62711,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx to˩α
 \hm 3
-\ph doq
+\or doq
 \ps v
 \lc to˩˥
 \sd <langue="fra"> verbe
@@ -62733,7 +62735,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx to˥α
-\ph do
+\or do
 \ps clf
 \lc ɖɯ˧ to˥
 \sd <langue="fra"> classificateur
@@ -62755,7 +62757,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tʰo˩α
 \sf <nb="B"> 1389
 \sf <nb="2011"> 2009
-\ph toq
+\or toq
 \ps v
 \lc tʰo˩˥
 \sd <langue="fra"> verbe
@@ -62789,7 +62791,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Jul/2017
 
 \lx tʰo˥α
-\ph to
+\or to
 \bw <langue="cmn"> 套
 \ps clf
 \lc ɖɯ˧ tʰo˥
@@ -62807,7 +62809,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tʰo˥α
-\ph to
+\or to
 \ps clf
 \lc ɖɯ˧ tʰo˥
 \sd <langue="fra"> classificateur
@@ -62830,7 +62832,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈɤ˧α
 \sf <nb="B"> 1397
 \sf <nb="2011"> 2000
-\ph de
+\or de
 \ps v
 \lc ʈɤ˧
 \sd <langue="fra"> verbe
@@ -62861,7 +62863,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 862
 \sf <nb="B"> 2190
 \sf <nb="2011"> 1261
-\ph te
+\or te
 \ps clf
 \lc ɖɯ˧ ʈʰɤ˥
 \sd <langue="fra"> classificateur
@@ -62885,7 +62887,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1676
 \sf <nb="B"> 1674
 \sf <nb="2011"> 2577
-\ph dodo
+\or dodo
 \ps v
 \lc to˧to˧
 \sd <langue="fra"> verbe
@@ -62909,7 +62911,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsɑ˩
 \sf <nb="B"> 1378
 \sf <nb="2011"> 1734
-\ph zaq
+\or zaq
 \ps v
 \lc tsɑ˩˥
 \cf tsɯ˩pʰɤ˩
@@ -62949,7 +62951,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsɑ˧
 \sf <nb="B"> 1046
 \sf <nb="2011"> 1480
-\ph za
+\or za
 \ps adj
 \lc tsɑ˧
 \sd <langue="fra"> adjectif
@@ -62978,7 +62980,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1534
 \sf <nb="2011"> 2320
 \hm 1
-\ph zaq
+\or zaq
 \ps v
 \lc tsɑ˧˥
 \sn 1
@@ -63026,7 +63028,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tsɑ˧˥
 \hm 2
-\ph zaq
+\or zaq
 \ps v
 \lc tsɑ˧˥
 \sd <langue="fra"> verbe
@@ -63050,7 +63052,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1360
 \sf <nb="2011"> 2426
 \hm 1
-\ph zhaeq
+\or zhaeq
 \ps v
 \lc ʈʂæ˧˥
 \sd <langue="fra"> verbe
@@ -63087,7 +63089,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1435
 \sf <nb="2011"> 2091
 \hm 2
-\ph zhaeq
+\or zhaeq
 \ps v
 \lc ʈʂæ˧˥
 \sd <langue="fra"> verbe
@@ -63114,7 +63116,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʈʂæ˧˥
 \hm 3
-\ph zhaeq
+\or zhaeq
 \ps v
 \lc ʈʂæ˧˥
 \sd <langue="fra"> verbe
@@ -63145,7 +63147,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 170
 \sf <nb="2011"> 237
 \hm 4
-\ph zhaeq
+\or zhaeq
 \ps n
 \lc ʈʂæ˧˥
 \sn 1
@@ -63175,7 +63177,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1863
 \sf <nb="2011"> 2837
 \hm 1
-\ph chaeq
+\or chaeq
 \ps n
 \lc ʈʂʰæ˧˥
 \sd <langue="fra"> animal
@@ -63198,7 +63200,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1181
 \sf <nb="2011"> 1696
 \hm 2
-\ph chae
+\or chae
 \ps clf
 \lc ɖɯ˧ ʈʂʰæ˧˥
 \sd <langue="fra"> verbe
@@ -63220,7 +63222,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1568
 \sf <nb="B"> 1771
 \sf <nb="2011"> 2346
-\ph chae
+\or chae
 \ps v
 \lc ʈʂʰæ˧
 \sd <langue="fra"> verbe
@@ -63270,7 +63272,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 56
 \sf <nb="B"> 383
 \sf <nb="2011"> 445
-\ph zabbe
+\or zabbe
 \bw <langue="bod"> rtsam pa
 \ps n
 \lc tsɑ˧bɤ˧
@@ -63357,7 +63359,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tsʰɑ˧bo#˥
-\ph cabbo
+\or cabbo
 \ps n
 \lc tsʰɑ˧bo˧
 \sd <langue="fra"> société
@@ -63382,7 +63384,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʈʂæ˩do#˥
 \sf <nb="2011"> 733
-\ph zhaeddo
+\or zhaeddo
 \ps n
 \lc ʈʂæ˩do˥
 \sd <langue="fra"> objet
@@ -63402,7 +63404,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂʰæ˧ɣɯ˧-ki˩-hĩ˩-hĩ˩
 \sf <nb="B"> 348
 \sf <nb="2011"> 402
-\ph chaehree gihin hin
+\or chaehree gihin hin
 \ps n
 \lc ʈʂʰæ˧ɣɯ˧ki˩hĩ˩hĩ˩
 \sd <langue="fra"> société
@@ -63430,7 +63432,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂʰæ˧ɣɯ#˥
 \sf <nb="B"> 404
 \sf <nb="2011"> 510
-\ph chaehree
+\or chaehree
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -63459,7 +63461,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx tsʰɑ˧kv̩˩
-\ph cagu
+\or cagu
 \bw <langue="cmn"> 仓库
 \ps n
 \sd <langue="fra"> maison
@@ -63478,7 +63480,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂʰɑ˧lɑ˧
 \sf <nb="B"> 1407
 \sf <nb="2011"> 2283
-\ph chala
+\or chala
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -63512,7 +63514,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʈʂʰɑ˧lɑ˧-mv̩˧lɑ˩
 \sf <nb="2011"> 2285
-\ph chalamula
+\or chalamula
 \ps v 
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -63536,7 +63538,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Aug/2017
 
 \lx ʈʂʰæ˧mi˥$
-\ph chaemi
+\or chaemi
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -63554,7 +63556,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx ʈʂæ˧mo#˥
-\ph zhaemo
+\or zhaemo
 \ps n
 \sy kʰi˧tɕʰɯ˩-mo˩
 \sd <langue="fra"> plante
@@ -63575,7 +63577,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx ʈʂʰæ˧nɑ˥
-\ph chaena
+\or chaena
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -63595,7 +63597,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx ʈʂʰɑ˧nɑ˥
-\ph Chana
+\or Chana
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -63622,7 +63624,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰɑ˩pʰɑ˩lɑ˥
 \sf <nb="B"> 2325
 \sf <nb="2011"> 3035
-\ph capala
+\or capala
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -63646,7 +63648,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 2004
 \sf <nb="2011"> 3062
 \bw <langue="cmn"> 菜
-\ph cepeu
+\or cepeu
 \ps n
 \cf v̩˩tsʰɤ˧-pʰv̩˥
 \sd <langue="fra"> plante
@@ -63665,7 +63667,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 06/Jun/2017
 
 \lx ʈʂʰæ˧pʰv̩#˥
-\ph chaepu
+\or chaepu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -63685,7 +63687,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsæ˧qæ˥
 \sf <nb="B"> 1287
 \sf <nb="2011"> 812
-\ph zaeghae
+\or zaeghae
 \ps n
 \sn 1
 \sd <langue="fra"> objet
@@ -63720,7 +63722,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʈʂʰæ˧qʰv̩˥$
 \sf <nb="2011"> 2976
-\ph chaekheu
+\or chaekheu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -63742,7 +63744,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂʰæ˧sɯ˩
 \sf <nb="B"> 1096c
 \sf <nb="2011"> 1559
-\ph chaesi
+\or chaesi
 \ps adv
 \ton L#
 \lc ʈʂʰæ˧sɯ˩
@@ -63766,7 +63768,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂɑ˧tɑ˥
 \sf <nb="B"> 628
 \sf <nb="2011"> 933
-\ph zheda
+\or zheda
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -63795,7 +63797,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx tsɑ˩tɕi˩
-\ph zajie
+\or zajie
 \bw <langue="cmn"> 杂菌
 \ps n
 \sd <langue="fra"> plante
@@ -63816,7 +63818,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx tsʰɑ˧tɕɤ˧˥
-\ph caja
+\or caja
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -63832,7 +63834,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx ʈʂæ˧ʈʂɯ˧
-\ph zhaezhi
+\or zhaezhi
 \ps adv
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
@@ -63850,7 +63852,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂæ˧wɤ˩
 \sf <nb="B"> 350a
 \sf <nb="2011"> 409
-\ph zhae'ua
+\or zhae'ua
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -63871,7 +63873,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsɑ˧ʐo˩
 \sf <nb="B"> 1082
 \sf <nb="2011"> 1509
-\ph zaro
+\or zaro
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -63888,7 +63890,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx ʈʂʰæ˧zo#˥
-\ph chaesso
+\or chaesso
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -63909,7 +63911,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂæ˧˥α
 \sf <nb="B"> 2142
 \sf <nb="2011"> 1270
-\ph zhae
+\or zhae
 \ps clf
 \lc ɖɯ˧ ʈʂæ˧˥
 \sd <langue="fra"> classificateur
@@ -63935,7 +63937,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ʈʂʰæ˧~ʈʂʰæ˧
-\ph chaechae
+\or chaechae
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -63954,7 +63956,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tse˩˥
 \sf <nb="B"> 575
 \sf <nb="2011"> 815
-\ph zeiq
+\or zeiq
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -63982,7 +63984,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰe˧
 \sf <nb="B"> 820
 \sf <nb="2011"> 1208
-\ph cei
+\or cei
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
@@ -64007,7 +64009,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 57
 \sf <nb="2011"> 99
 \hm 1
-\ph zhei
+\or zhei
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -64040,7 +64042,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 566
 \sf <nb="2011"> 801
 \hm 2
-\ph zhei
+\or zhei
 \ps n
 \cf ʁo˧˥
 \sd <langue="fra"> objet
@@ -64059,7 +64061,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Jul/2017
 
 \lx tsʰe˩β
-\ph cei
+\or cei
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -64079,7 +64081,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰe˩β
 \sf <nb="B"> 874
 \sf <nb="2011"> 1284
-\ph cei
+\or cei
 \bw <langue="cmn"> 寸
 \ps clf
 \sd <langue="fra"> classificateur
@@ -64100,7 +64102,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂʰe˧β
 \sf <nb="B"> 1486
 \sf <nb="2011"> 2178
-\ph zhei
+\or zhei
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -64140,7 +64142,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tse˧bæ˥
 \sf <nb="B"> 496
 \sf <nb="2011"> 684
-\ph zeibbae
+\or zeibbae
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -64164,7 +64166,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tse˧bo#˥
 \sf <nb="B"> 655
 \sf <nb="2011"> 980
-\ph zeibbo
+\or zeibbo
 \ps n
 \sd <langue="fra"> musique
 \sd <langue="eng"> music
@@ -64187,7 +64189,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂe˧dɑ˥
 \sf <nb="B"> 456
 \sf <nb="2011"> 610
-\ph zheidda
+\or zheidda
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -64208,7 +64210,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx tse˧di˧
-\ph zeiddi
+\or zeiddi
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -64228,7 +64230,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/May/2017
 
 \lx tsʰe˧di˧
-\ph Ceiddi
+\or Ceiddi
 \ps n
 \cf tɕæ˧tsʰe˩
 \sd <langue="fra"> lieu
@@ -64249,7 +64251,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 06/Jun/2017
 
 \lx tsʰe˧do˧˥
-\ph ceiddo
+\or ceiddo
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -64304,7 +64306,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰe˧ɖɯ˧
 \sf <nb="B"> 821
 \sf <nb="2011"> 1209
-\ph ceiddee
+\or ceiddee
 \ps num
 \ton M
 \lc tsʰe˧ɖɯ˧
@@ -64324,7 +64326,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ʈʂe˧gi˥$
-\ph zheiggi
+\or zheiggi
 \ps adv
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
@@ -64346,7 +64348,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰe˩gv̩˩
 \sf <nb="B"> 829
 \sf <nb="2011"> 1217
-\ph ceiggu
+\or ceiggu
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
@@ -64368,7 +64370,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰe˩hõ˩
 \sf <nb="B"> 828
 \sf <nb="2011"> 1216
-\ph ceihon
+\or ceihon
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
@@ -64390,7 +64392,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰe˧hṽ̩˧˥
 \sf <nb="B"> 2059
 \sf <nb="2011"> 3104
-\ph ceihun
+\or ceihun
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -64420,7 +64422,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx tsʰe˧jɤ˧mi˥
-\ph ceiyemi
+\or ceiyemi
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -64444,7 +64446,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tse˧kʰo˩
 \sf <nb="B"> 87b
 \sf <nb="2011"> 134
-\ph zeiko
+\or zeiko
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
@@ -64464,7 +64466,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʈʂʰe˩ko˧
 \bw <langue="cmn"> 成功
-\ph cheigo 
+\or cheigo 
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -64482,7 +64484,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Jul/2017
 
 \lx ʈʂe˩kʰɯ˩
-\ph zheikee
+\or zheikee
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -64502,7 +64504,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰe˧kʰv̩˧
 \sf <nb="B"> 1202
 \sf <nb="2011"> 1667
-\ph ceiku
+\or ceiku
 \ps v
 \ton M
 \lc tsʰe˧kʰv̩˧
@@ -64523,7 +64525,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰe˧ɬi˧mi˧
 \sf <nb="B"> 786
 \sf <nb="2011"> 1182
-\ph ceilhimi
+\or ceilhimi
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -64544,7 +64546,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tse˧lv̩˥
 \sf <nb="B"> 495
 \sf <nb="2011"> 681
-\ph zeilu
+\or zeilu
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -64564,7 +64566,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tse˧mi˥
 \sf <nb="B"> 497
 \sf <nb="2011"> 685
-\ph zeimi
+\or zeimi
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -64588,7 +64590,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 22/Jun/2017
 
 \lx tse˧mi˥-dʑɯ˩ʁo˩
-\ph Zeimi Jjiwo
+\or Zeimi Jjiwo
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -64606,7 +64608,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰe˧ɲi˧
 \sf <nb="B"> 822
 \sf <nb="2011"> 1210
-\ph ceini
+\or ceini
 \ps num
 \ton M
 \lc tsʰe˧ɲi˧
@@ -64628,7 +64630,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰe˩ŋwɤ˩
 \sf <nb="B"> 825
 \sf <nb="2011"> 1213
-\ph ceingua
+\or ceingua
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
@@ -64650,7 +64652,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰe˩ŋwɤ˩ɲi˩
 \sf <nb="B"> 727
 \sf <nb="2011"> 1098
-\ph ceinguani
+\or ceinguani
 \ps n
 \ton L
 \lc tsʰe˩ŋwɤ˩ɲi˩˥
@@ -64672,7 +64674,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tse˩pʰæ˧˥
 \sf <nb="B"> 537
 \sf <nb="2011"> 767
-\ph zeipae
+\or zeipae
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -64698,7 +64700,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tsʰe˧qʰɑ˩
 \sf <nb="2011"> 1469
-\ph ceikha
+\or ceikha
 \ps adj
 \cf tsʰe˧so˧˥
 \sd <langue="fra"> adjectif
@@ -64721,7 +64723,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰe˩qʰv̩˩
 \sf <nb="B"> 826
 \sf <nb="2011"> 1214
-\ph ceikheu
+\or ceikheu
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
@@ -64743,7 +64745,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰe˩qʰv̩˩ɲi˩
 \sf <nb="B"> 728
 \sf <nb="2011"> 1099
-\ph ceikheuni
+\or ceikheuni
 \ps n
 \ton L
 \lc tsʰe˩qʰv̩˩ɲi˩˥
@@ -64771,7 +64773,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tse˩qwæ˧˥
 \sf <nb="B"> 576
 \sf <nb="2011"> 816
-\ph zeighuae
+\or zeighuae
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -64795,7 +64797,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰe˧so˧
 \sf <nb="B"> 823
 \sf <nb="2011"> 1211
-\ph ceiso
+\or ceiso
 \ps num
 \ton M
 \lc tsʰe˧so˧
@@ -64817,7 +64819,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰe˧so˧˥
 \sf <nb="B"> 1037
 \sf <nb="2011"> 1468
-\ph ceiso
+\or ceiso
 \ps adj
 \cf tsʰe˧qʰɑ˩
 \sd <langue="fra"> adjectif
@@ -64838,7 +64840,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰe˧ʂɯ˧
 \sf <nb="B"> 827
 \sf <nb="2011"> 1215
-\ph ceishi
+\or ceishi
 \ps num
 \ton M
 \lc tsʰe˧ʂɯ˧
@@ -64859,7 +64861,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʈʂe˩ʂwæ˧˥
 \sf <nb="2011"> 97
-\ph zheishuae
+\or zheishuae
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -64882,7 +64884,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tse˩tɑ˧˥
 \sf <nb="B"> 573
 \sf <nb="2011"> 813
-\ph zeida
+\or zeida
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -64904,7 +64906,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx tsʰe˧ʈʂæ˧
-\ph ceizhae
+\or ceizhae
 \bw <langue="cmn"> 村长
 \ps n
 \sd <langue="fra"> société
@@ -64922,7 +64924,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tse˩ʈʂʰv̩˩
 \sf <nb="2011"> 2852
-\ph zeichu
+\or zeichu
 \ps n
 \cf tse˩ʈʂʰv̩˩-kʰv̩˥
 \sd <langue="fra"> animal
@@ -64941,7 +64943,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tse˩ʈʂʰv̩˩-kʰv̩˥
 \sf <nb="2011"> 2851
-\ph zeichu ku
+\or zeichu ku
 \ps n
 \cf tse˩ʈʂʰv̩˩
 \sd <langue="fra"> animal
@@ -64966,7 +64968,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 239
 \sf <nb="B"> 243
 \sf <nb="2011"> 309
-\ph ceitu
+\or ceitu
 \ps n
 \sn 1
 \sd <langue="fra"> corps
@@ -65007,7 +65009,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰe˩ʐv̩˩
 \sf <nb="B"> 824
 \sf <nb="2011"> 1212
-\ph ceiru
+\or ceiru
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
@@ -65030,7 +65032,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1638c
 \sf <nb="2011"> 1715
 \hm 1
-\ph zeiq
+\or zeiq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -65058,7 +65060,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1608
 \sf <nb="2011"> 2396
 \hm 2
-\ph zeiq
+\or zeiq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -65097,7 +65099,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1529
 \sf <nb="2011"> 1732
 \hm 3
-\ph zeiq
+\or zeiq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -65122,7 +65124,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰe#˥
 \sf <nb="B"> 78
 \sf <nb="2011"> 125
-\ph cei
+\or cei
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -65150,7 +65152,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> d'après
 \sf <nb="B"> F4)
 \sf <nb="2011"> 1691
-\ph zheiq
+\or zheiq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -65183,7 +65185,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx ʈʂʰe˧~ʈʂʰe˧
-\ph zheizhei
+\or zheizhei
 \et ʈʂʰe˧b
 \ec <langue="eng">Probably from the verb ‘to stretch'
 \ps clf
@@ -65206,7 +65208,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 449
 \sf <nb="2011"> 623
 \sf <nb="2011"> 1785
-\ph zee
+\or zee
 \ps n
 \sn 1
 \cf tsi˧gi˥$
@@ -65255,7 +65257,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1021
 \sf <nb="2011"> 1450
 \hm 1
-\ph cee
+\or cee
 \ps adj
 \cf tsʰi˧2
 \sd <langue="fra"> adjectif
@@ -65281,7 +65283,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tsʰi˧
 \hm 2
-\ph cee
+\or cee
 \ps adj
 \cf tsʰi˧1
 \sd <langue="fra"> verbe
@@ -65309,7 +65311,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1457d
 \sf <nb="2011"> 2118
 \hm 1
-\ph ceeq
+\or ceeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -65334,7 +65336,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1179
 \sf <nb="2011"> 1688
 \hm 2
-\ph ceeq
+\or ceeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -65359,7 +65361,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1708b
 \sf <nb="2011"> 2243
 \hm 3
-\ph ceeq
+\or ceeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -65393,7 +65395,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰi˧˥
 \sf <nb="2011"> 1954
 \hm 4
-\ph ceeq
+\or ceeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -65422,7 +65424,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tsʰi˧˥
 \hm 5
-\ph ceeq
+\or ceeq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -65443,7 +65445,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx tsi˧β
-\ph zee
+\or zee
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -65476,7 +65478,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰi˧β
 \sf <nb="B"> 1205b
 \sf <nb="2011"> 1741
-\ph cee
+\or cee
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -65499,7 +65501,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰi˧bv̩˩
 \sf <nb="B"> 1063
 \sf <nb="2011"> 1499
-\ph ceebbu
+\or ceebbu
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -65520,7 +65522,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tsi˧gi˥$
 \sf <nb="2011"> 624
-\ph zeeggi
+\or zeeggi
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -65553,7 +65555,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰi˧ʝi#˥
 \sf <nb="B"> 791
 \sf <nb="2011"> 1142
-\ph ceeyi
+\or ceeyi
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -65578,7 +65580,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx tsi˩ɭɯ˩
-\ph zeelee
+\or zeelee
 \ps n
 \sd <langue="fra"> animal je mets un commentaire
 \sd <langue="eng"> animal
@@ -65598,7 +65600,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tsi˩ɭɯ˩-bv̩˥ | -qʰæ˩bæ˩˥
 \sf <nb="2011"> 3275
-\ph zeelee bbu khaebbae
+\or zeelee bbu khaebbae
 \ps n
 \ton L+H#|L
 \lc tsi˩ɭɯ˩bv̩˥qʰæ˩bæ˩˥
@@ -65616,7 +65618,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Aug/2017
 
 \lx tsʰi˩mv̩˩tʰv̩˩
-\ph ceemutu
+\or ceemutu
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -65634,7 +65636,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰi˧ɲi#˥
 \sf <nb="B"> 730
 \sf <nb="2011"> 1101
-\ph ceeni
+\or ceeni
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -65658,7 +65660,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx tsʰi˧qʰæ˧˥
-\ph ceekhae
+\or ceekhae
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -65674,7 +65676,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx tsʰi˧si˩-dʑɤ˩pv̩˩
-\ph ceeseejjabu
+\or ceeseejjabu
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
@@ -65690,7 +65692,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 01/Aug/2017
 
 \lx tsʰi˧ti#˥
-\ph Ceedi
+\or Ceedi
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -65708,7 +65710,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰi˩tsʰi˩
 \sf <nb="B"> 2041
 \sf <nb="2011"> 3150
-\ph ceecee
+\or ceecee
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -65732,7 +65734,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰi˩tv̩˩
 \sf <nb="B"> 215
 \sf <nb="2011"> 286
-\ph ceedu
+\or ceedu
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -65757,7 +65759,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰi˧zi˧-ɻ̃#˥
 \sf <nb="B"> 1997
 \sf <nb="2011"> 3047
-\ph ceessee'eun
+\or ceessee'eun
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -65779,7 +65781,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰi˧zi#˥
 \sf <nb="B"> 1979
 \sf <nb="2011"> 3014
-\ph ceessee
+\or ceessee
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -65809,7 +65811,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsi˩α
 \sf <nb="B"> 1104
 \sf <nb="2011"> 2209
-\ph zeeq
+\or zeeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -65850,7 +65852,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsi˧α
 \sf <nb="B"> 1660
 \sf <nb="2011"> 2484
-\ph zee
+\or zee
 \ps adj
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -65875,7 +65877,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰi˩α
 \sf <nb="B"> 912
 \sf <nb="2011"> 1340
-\ph ceeq
+\or ceeq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -65909,7 +65911,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 08/Oct/2015
 
 \lx tsʰi˥α
-\ph cee
+\or cee
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -65937,7 +65939,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 805
 \sf <nb="B"> 806
 \sf <nb="2011"> 1195
-\ph cee
+\or cee
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -65959,7 +65961,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1133b
 \sf <nb="2011"> 1873
 \hm 1
-\ph ze
+\or ze
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -65974,7 +65976,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \gn 变成
 \df Se transformer, créer, devenir; être.
 \gf devenir/être
-\xv sɯ˧pv̩˧-sɯ˥nɑ˩-ʈʂʰɯ˩ | ə˧dzɤ˧~dzɤ˥-zo˩ | pʰi˧li˩ tsɤ˩-ɲi˩-kv̩˩-tsɯ˩ | -mv̩˩!
+\xv sɯ˧pv̩˧-sɯ˥nɑ˩-ʈʂʰɯ˩ | ə˧dzɤ˧~dzɤ˥-zo˩ | pʰi˧li˩ tsɤ˩-ɲi˩-kv̩˩-tsɯ˩ ◊ -mv̩˩!
 \xe The caterpillar gradually becomes a butterfly, doesn't it!
 \xn 毛虫能慢慢变成蝴蝶，不是吗？
 \xf la chenille devient peu à peu papillon!
@@ -65988,7 +65990,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 685
 \sf <nb="2011"> 1378
 \hm 2
-\ph ze
+\or ze
 \ps adj
 \cf hɤ˧hwi˥
 \sd <langue="fra"> adjectif
@@ -66046,7 +66048,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 914
 \sf <nb="2011"> 1341
 \hm 3
-\ph ze
+\or ze
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -66069,7 +66071,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tsɤ˧
 \hm 4
-\ph ze
+\or ze
 \ps adj
 \cf tsɤ˧ʁo˧-tsʰi˧ʁo˥
 \sd <langue="fra"> adjectif
@@ -66086,7 +66088,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx tsʰo˩
-\ph co
+\or co
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -66102,7 +66104,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx tsʰo˧˥
-\ph coq
+\or coq
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
@@ -66123,7 +66125,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx tsʰo˥
-\ph co
+\or co
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -66154,7 +66156,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 2319
 \sf <nb="2011"> 1817
 \hm 1
-\ph ceq
+\or ceq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -66180,7 +66182,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tsʰɤ˧˥
 \hm 2
-\ph ceq
+\or ceq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -66197,7 +66199,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tsʰɤ˧˥
 \hm 3
-\ph ceq
+\or ceq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -66216,7 +66218,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1145
 \sf <nb="2011"> 1638
 \hm 4
-\ph ceq
+\or ceq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -66234,7 +66236,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx ʈʂo˩
-\ph zho
+\or zho
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -66262,7 +66264,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ʈʂʰo˥
-\ph cho
+\or cho
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -66290,7 +66292,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1544
 \sf <nb="B"> 1768
 \sf <nb="2011"> 2337
-\ph co
+\or co
 \ps v
 \lc tsʰo˧
 \sd <langue="fra"> verbe
@@ -66319,7 +66321,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂʰo˧β
 \sf <nb="B"> 1522
 \sf <nb="2011"> 2304
-\ph cho
+\or cho
 \ps v
 \lc ʈʂʰo˧
 \sd <langue="fra"> verbe
@@ -66356,7 +66358,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 457
 \sf <nb="B"> 459
 \sf <nb="2011"> 612
-\ph zhobbo
+\or zhobbo
 \ps n
 \lc ʈʂo˩bo˩˥
 \sd <langue="fra"> maison
@@ -66382,7 +66384,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ʈʂʰo˧bɤ#˥
-\ph chobbe
+\or chobbe
 \ps n
 \lc ʈʂʰo˧bɤ˧
 \sd <langue="fra"> objet
@@ -66401,7 +66403,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʈʂʰo˧bv̩˩
 \sf <nb="2011"> 3279
-\ph chobbu
+\or chobbu
 \ps n
 \lc ʈʂʰo˧bv̩˩
 \sd <langue="fra"> plante
@@ -66420,7 +66422,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tsɤ˧di˧
-\ph ceddi
+\or ceddi
 \ps n
 \lc tsɤ˧di˧
 \cf ʁo˩kʰv˩
@@ -66444,7 +66446,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʈʂʰo˧do˩
 \sf <nb="2011"> 591
-\ph choddo
+\or choddo
 \ps n
 \lc ʈʂʰo˧do˩
 \sd <langue="fra"> maison
@@ -66464,7 +66466,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsɤ˧ɖɯ˧
 \sf <nb="B"> 1693
 \sf <nb="2011"> 2513
-\ph zeddee
+\or zeddee
 \ps v
 \lc tsɤ˧ɖɯ˧
 \sd <langue="fra"> verbe
@@ -66490,7 +66492,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tsʰo˧ɖɯ˩
-\ph coddee
+\or coddee
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -66512,7 +66514,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰo˧ɖwæ#˥
 \sf <nb="B"> 475
 \sf <nb="2011"> 647
-\ph codduae
+\or codduae
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -66536,7 +66538,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂʰɤ˩ho˥
 \sf <nb="B"> 521
 \sf <nb="2011"> 743
-\ph cheho
+\or cheho
 \bw fn:茶壶
 \ps n
 \sd <langue="fra"> objet
@@ -66561,7 +66563,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tsʰo˧ko˧
 \sf <nb="2011"> 3157
-\ph cogo
+\or cogo
 \bw fn:草果
 \ps n
 \sd <langue="fra"> plante
@@ -66585,7 +66587,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 522
 \sf <nb="B"> 523
 \sf <nb="2011"> 744
-\ph chege
+\or chege
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -66607,7 +66609,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx ʈʂo˧kʰɯ˩
-\ph zhokee
+\or zhokee
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
@@ -66625,7 +66627,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tso˧kʰwɤ#˥
 \sf <nb="B"> 2213
 \sf <nb="2011"> 843
-\ph zokua
+\or zokua
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -66646,7 +66648,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tso˧lo˧-mv̩˥tso˩
 \sf <nb="B"> 560
 \sf <nb="2011"> 794
-\ph zolomuzo
+\or zolomuzo
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -66671,7 +66673,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂʰo˧lo#˥
 \sf <nb="B"> 506b
 \sf <nb="2011"> 702
-\ph cholo
+\or cholo
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -66692,7 +66694,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂo˧ɭɯ˧ʈʂo˧˥
 \sf <nb="B"> 1814
 \sf <nb="2011"> 2763
-\ph zholeezho
+\or zholeezho
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -66714,7 +66716,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂo˧ɭɯ#˥
 \sf <nb="B"> 600
 \sf <nb="2011"> 867
-\ph zholee
+\or zholee
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -66741,7 +66743,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx tsʰo˩mo˩
-\ph como
+\or como
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -66759,7 +66761,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂo˩mv̩˩
 \sf <nb="B"> 55
 \sf <nb="2011"> 96
-\ph zhomu
+\or zhomu
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -66779,7 +66781,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx tsʰo˧pæ#˥
-\ph cobae
+\or cobae
 \bw <langue="bod"> tshong pa “merchant"
 \ps n
 \sd <langue="fra"> société
@@ -66799,7 +66801,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰo˧pjɤ˧
 \sf <nb="B"> 490
 \sf <nb="2011"> 674
-\ph cobia
+\or cobia
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -66826,7 +66828,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx tsɤ˩pʰv̩˧-tsɤ˥li˩
-\ph zepuzeli
+\or zepuzeli
 \ps v
 \ton LM+#H-
 \lc tsɤ˩pʰv̩˧tsɤ˥li˩
@@ -66857,7 +66859,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 29/Jul/2017
 
 \lx ʈʂʰɤ˩qo˧
-\ph chegho
+\or chegho
 \ps n
 \sd <langue="fra"> abstrait
 \sd <langue="eng"> abstract
@@ -66889,7 +66891,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx tso˩qʰv̩˩ɻ̍˥
-\ph zokheu'er
+\or zokheu'er
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -66907,7 +66909,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tso˧qwɤ˧
-\ph zoghua
+\or zoghua
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -66927,7 +66929,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰo˧qʰwɤ˩
 \sf <nb="B"> 739
 \sf <nb="2011"> 1114
-\ph ceekhua
+\or ceekhua
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -66955,7 +66957,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰo˧qʰwɤ˧mi˧-bæ˥bæ˩
 \sf <nb="B"> 2079
 \sf <nb="2011"> 3211
-\ph ceekhuami bbaebbae
+\or ceekhuami bbaebbae
 \ps n
 \cf tsʰo˧qʰwɤ˧mi#˥
 \sd <langue="fra"> plante
@@ -66974,7 +66976,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰo˧qʰwɤ˧mi#˥
 \sf <nb="B"> 662
 \sf <nb="2011"> 987
-\ph ceekhuami
+\or ceekhuami
 \ps n
 \cf tsʰo˧qʰwɤ˧zo#˥
 \sd <langue="fra"> religion
@@ -66999,7 +67001,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx tsʰo˧qʰwɤ˧zo#˥
-\ph ceekhuasso
+\or ceekhuasso
 \ps n
 \cf tsʰo˧qʰwɤ˧mi#˥
 \sd <langue="fra"> société
@@ -67016,7 +67018,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx tsɤ˧ʁo˧-tsʰi˧ʁo˥
-\ph zewo ceewo
+\or zewo ceewo
 \ps adj
 \cf tsɤ˧4
 \sd <langue="fra"> adjectif
@@ -67037,7 +67039,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tsʰo˧ʁo#˥
-\ph cowo
+\or cowo
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -67056,7 +67058,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʈʂo˧ʂɯ#˥
 \sf <nb="2011"> 3319
-\ph Zhoshi
+\or Zhoshi
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -67077,7 +67079,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx tso˧tɕɤ˩
-\ph zoja
+\or zoja
 \bw <langue="cmn"> 宗教
 \ps lnk
 \sd <langue="fra"> société
@@ -67095,7 +67097,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 06/Jun/2017
 
 \lx ʈʂʰɤ˩tɕʰɯ˩
-\ph cheqi
+\or cheqi
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -67113,7 +67115,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰo˩tsɯ˧
 \sf <nb="B"> 563
 \sf <nb="2011"> 798
-\ph cozi
+\or cozi
 \bw <langue="cmn"> 锉子
 \ps n
 \sd <langue="fra"> objet
@@ -67136,7 +67138,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 2005
 \sf <nb="B"> 2008
 \sf <nb="2011"> 3067
-\ph cozi
+\or cozi
 \bw <langue="cmn"> 葱子
 \ps n
 \sd <langue="fra"> plante
@@ -67158,7 +67160,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx ʈʂo˧tsɯ˥
-\ph zhozi
+\or zhozi
 \bw <langue="cmn"> 桌子
 \ps n
 \cf sɯ˧ɻæ˧
@@ -67179,7 +67181,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʈʂʰɤ˧tsɯ˧
 \bw <langue="cmn"> 车子
-\ph chezi
+\or chezi
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -67196,7 +67198,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tsɤ˧ʑi˧
 \sf <nb="2011"> 2512
-\ph zexxi
+\or zexxi
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -67212,7 +67214,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx ʈʂʰɤ˧zo˥-ʈʂʰɤ˩mv̩˩
-\ph chessochemu
+\or chessochemu
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -67238,7 +67240,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tso˩α
 \sf <nb="B"> 1457
 \sf <nb="2011"> 2115
-\ph zoq
+\or zoq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -67279,7 +67281,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx tso˩γ
-\ph zo
+\or zo
 \ps clf
 \lc ɖɯ˧ tso˩
 \sd <langue="fra"> classificateur
@@ -67302,7 +67304,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰɤ˩α
 \sf <nb="B"> 99
 \sf <nb="2011"> 2446
-\ph ceq
+\or ceq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -67335,7 +67337,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 06/Jun/2017
 
 \lx tsʰɤ˧˥α
-\ph ce
+\or ce
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -67358,7 +67360,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1764
 \sf <nb="B"> 1766
 \sf <nb="2011"> 2608
-\ph zhe
+\or zhe
 \ps v
 \sn 1
 \sd <langue="fra"> verbe
@@ -67503,7 +67505,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 19/Aug/2014
 
 \lx ʈʂʰɤ˩α
-\ph cheq
+\or cheq
 \ps v
 \lc ʈʂʰɤ˩˥
 \sd <langue="fra"> verbe
@@ -67523,7 +67525,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tso˩~tso˧˥
-\ph zozo
+\or zozo
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -67541,7 +67543,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂʰɤ˩~ʈʂʰɤ˧˥
 \sf <nb="B"> 1422
 \sf <nb="2011"> 2049
-\ph cheche
+\or cheche
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -67576,7 +67578,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> ancien
 \sf <nb="B"> 2167)
 \sf <nb="2011"> 662
-\ph zozo
+\or zozo
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -67632,7 +67634,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx ʈʂʰɻ̍
-\ph cheu
+\or cheu
 \ps ideophone
 \ton --
 \lc ʈʂʰɻ!
@@ -67650,7 +67652,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂɻ̍˥
 \sf <nb="B"> 1393
 \sf <nb="2011"> 1996
-\ph zheu
+\or zheu
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -67676,7 +67678,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂʰɻ̍˧
 \sf <nb="B"> 579
 \sf <nb="2011"> 820
-\ph cheu
+\or cheu
 \ps n
 \sd <langue="fra"> agriculture
 \sd <langue="eng"> agriculture
@@ -67705,7 +67707,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1750
 \sf <nb="2011"> 2570
 \hm 1
-\ph cheuq
+\or cheuq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -67746,7 +67748,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 219
 \sf <nb="2011"> 292
 \hm 2
-\ph cheuq
+\or cheuq
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -67770,7 +67772,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx ʈʂʰɻ̍˧˥α
-\ph cheu
+\or cheu
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -67789,7 +67791,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \hm 1
 \sf <nb="B"> 627
 \sf <nb="2011"> 932
-\ph zi
+\or zi
 \bw <langue="cmn"> 字
 \ps n
 \sd <langue="fra"> objet
@@ -67807,7 +67809,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 02/May/2017
 
 \lx tsɯ˧˥
-\ph ziq
+\or ziq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -67838,7 +67840,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tsɯ˧˥
 \sf <nb="2011"> 3359
-\ph ziq
+\or ziq
 \ps disc.PTCL
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -67861,7 +67863,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1218
 \sf <nb="2011"> 2020
 \hm 1
-\ph zi
+\or zi
 \ps v
 \sn 1
 \sd <langue="fra"> verbe
@@ -67923,7 +67925,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsɯ˥
 \sf <nb="2011"> 2517
 \hm 2
-\ph zi
+\or zi
 \ps v
 \lc tsɯ˧
 \sd <langue="fra"> verbe
@@ -67942,7 +67944,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1341
 \sf <nb="2011"> 1918
 \hm 1
-\ph ciq
+\or ciq
 \ps v
 \lc tsʰɯ˧˥
 \sd <langue="fra"> verbe
@@ -67977,7 +67979,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1885
 \sf <nb="2011"> 2862
 \hm 2
-\ph ciq
+\or ciq
 \ps n
 \lc tsʰɯ˧˥
 \sd <langue="fra"> animal
@@ -68002,7 +68004,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂɯ˧
 \sf <nb="B"> 1960
 \sf <nb="2011"> 2979
-\ph zhi
+\or zhi
 \ps n
 \lc ʈʂɯ˧
 \cf kv̩˧ʈʂɯ˧˥
@@ -68027,7 +68029,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂɯ˧˥
 \sf <nb="B"> 1478
 \sf <nb="2011"> 2168
-\ph zhiq
+\or zhiq
 \ps v
 \lc ʈʂɯ˧˥
 \sd <langue="fra"> verbe
@@ -68056,7 +68058,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ʈʂʰɯ˧
-\ph tee
+\or tee
 \ps suff
 \lc ʈʂʰɯ˧
 \cf ʈʂʰɯ˥1
@@ -68067,16 +68069,16 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \so <print="n"> F4
 \de Topic marker; grammaticalized from the proximal demonstrative.
 \ge |fg{top}(|fg{dem_prox})
-\dn 主题(指示.近指)
-\gn 主题(指示.近指)
-\df Focalisateur; grammaticalisé à partir du démonstratif proximal.
+\dn 主题(来自近指指示代词的语法化)
+\gn 主题
+\df Topicalisateur; grammaticalisé à partir du démonstratif proximal.
 \gf |fg{top}(|fg{dem_prox})
 \dt 27/Apr/2017
 
 \lx ʈʂʰɯ˥
 \sf <nb="2011"> 3394
 \hm 1
-\ph tee
+\or tee
 \ps pro
 \lc ʈʂʰɯ˧
 \cf ʈʂʰɯ˥2
@@ -68121,7 +68123,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 899a
 \sf <nb="2011"> 3394
 \hm 2
-\ph tee
+\or tee
 \ps pro
 \lc ʈʂʰɯ˧
 \cf ʈʂʰɯ˥1
@@ -68154,7 +68156,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʈʂɯ˧dzi˩
 \sf <nb="2011"> 3097
-\ph zhizzee
+\or zhizzee
 \ps n
 \lc ʈʂɯ˧dzi˩
 \sd <langue="fra"> plante
@@ -68172,7 +68174,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ʈʂɯ˧fv̩#˥
-\ph zheifu
+\or zheifu
 \bw <langue="cmn"> 知府
 \ps n
 \lc ʈʂɯ˧fv̩˧
@@ -68199,7 +68201,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂʰɯ˧gi#˥
 \sf <nb="B"> 902
 \sf <nb="2011"> 1322
-\ph teeggi
+\or teeggi
 \ps adv
 \lc ʈʂʰɯ˧gi˧
 \cf ʈʂʰɯ˧-gɤ˧
@@ -68217,7 +68219,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx ʈʂʰɯ˧-gɤ˧
-\ph teegge
+\or teegge
 \ps adv
 \lc ʈʂʰɯ˧gɤ˧
 \cf ʈʂʰɯ˧gi#˥
@@ -68236,7 +68238,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰɯ˧hṽ̩˥$
 \sf <nb="B"> 1892
 \sf <nb="2011"> 2875
-\ph cihun
+\or cihun
 \ps n
 \lc tsʰɯ˧hṽ̩˥
 \sd <langue="fra"> animal
@@ -68260,7 +68262,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tsʰɯ˧mi˧-to˧qɑ˥$
 \sf <nb="2011"> 2866
-\ph cimi dogha  
+\or cimi dogha  
 \ps n
 \lc tsʰɯ˧mi˧to˧qɑ˥
 \sd <langue="fra"> animal
@@ -68284,7 +68286,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰɯ˧mi˥$
 \sf <nb="B"> 1886b
 \sf <nb="2011"> 2867
-\ph cimi
+\or cimi
 \ps n
 \lc tsʰɯ˧mi˥
 \sd <langue="fra"> animal
@@ -68308,7 +68310,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Jul/2017
 
 \lx ʈʂɯ˧mɤ˩
-\ph zhime
+\or zhime
 \bw <langue="cmn"> 芝麻
 \ps n
 \lc ʈʂɯ˧mɤ˩
@@ -68330,7 +68332,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʈʂʰɯ˧ne˧-ʝi˥
 \sf <nb="2011"> 3379
-\ph tee niq yi
+\or tee niq yi
 \ps adv
 \ton H#
 \lc ʈʂʰɯ˧ne˧ʝi˥
@@ -68361,7 +68363,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsɯ˩pʰɤ˩
 \sf <nb="B"> 1378
 \sf <nb="2011"> 1734
-\ph zipe
+\or zipe
 \ps v
 \lc tsɯ˩pʰɤ˩˥
 \sn 1
@@ -68412,7 +68414,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tsʰɯ˧pʰv̩#˥
-\ph cipu
+\or cipu
 \ps n
 \lc tsʰɯ˧pʰv̩˧
 \sd <langue="fra"> animal
@@ -68430,7 +68432,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 03/Aug/2017
 
 \lx ʈʂʰɯ˧qɑ˧
-\ph teegha
+\or teegha
 \ps adv
 \lc ʈʂʰɯ˧qɑ˧
 \sd <langue="fra"> morphosyntaxe
@@ -68447,7 +68449,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂʰɯ˧-qo˧
 \sf <nb="B"> 901
 \sf <nb="2011"> 1321
-\ph teegho
+\or teegho
 \ps adv
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
@@ -68466,7 +68468,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tsʰɯ˧ɻ̍˧-ɖɯ˩mɑ˩
-\ph Ci'er Ddeema
+\or Ci'er Ddeema
 \ps n
 \ton tsʰɯ˧ɻ̍˧ɖɯ˩mɑ˩
 \sd <langue="fra"> nom propre
@@ -68482,7 +68484,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tsʰɯ˧ɻ̍˧-ɬɑ˩mv̩˩
-\ph Ci'er Lhamu
+\or Ci'er Lhamu
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -68500,7 +68502,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tsʰɯ˧ɻ̍˧-pʰi˩tsʰo˩
-\ph Ci'er Pico
+\or Ci'er Pico
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -68516,7 +68518,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx tsʰɯ˧ɻ̍#˥
-\ph Ci'er
+\or Ci'er
 \ps n
 \sd <langue="fra"> nom propre
 \sd <langue="eng"> given name
@@ -68536,7 +68538,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂʰɯ˧ʂo˧
 \sf <nb="B"> 744
 \sf <nb="2011"> 1123
-\ph teesho
+\or teesho
 \ps adv
 \ton M
 \lc ʈʂʰɯ˧ʂo˧
@@ -68558,7 +68560,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂʰɯ˧-sɯ˩-kv̩˩
 \sf <nb="B"> 2161
 \sf <nb="2011"> 3398
-\ph teesigu
+\or teesigu
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -68585,7 +68587,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰɯ˧ʂwæ˥
 \sf <nb="B"> 1885b
 \sf <nb="2011"> 2865
-\ph cishuae
+\or cishuae
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -68608,7 +68610,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂʰɯ˧tɕi˩
 \sf <nb="B"> 2161c
 \sf <nb="2011"> 3400
-\ph teejie
+\or teejie
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -68626,7 +68628,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tsʰɯ˧-to˧qɑ˥
 \sf <nb="2011"> 2864
-\ph cidogha
+\or cidogha
 \ps n
 \cf tsʰɯ˧zo˥$
 \sd <langue="fra"> animal
@@ -68648,7 +68650,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰɯ˩tsʰɯ˩ɻ̃˩
 \sf <nb="B"> 2042
 \sf <nb="2011"> 3152
-\ph cici'eun
+\or cici'eun
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -68676,7 +68678,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰɯ˧zo#˥
 \sf <nb="B"> 1888
 \sf <nb="2011"> 2869
-\ph cisso
+\or cisso
 \ps n
 \cf tsʰɯ˧-to˧qɑ˥
 \sd <langue="fra"> animal
@@ -68705,7 +68707,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsɯ˩α
 \sf <nb="B"> 1233
 \sf <nb="2011"> 1769
-\ph ziq
+\or ziq
 \ps v
 \lc tsɯ˩˥
 \sd <langue="fra"> verbe
@@ -68725,7 +68727,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tsɯ˧α
 \hm 1
-\ph zi
+\or zi
 \ps n
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -68748,7 +68750,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰɯ˩α
 \sf <nb="B"> 1311
 \sf <nb="2011"> 1885
-\ph cee
+\or cee
 \ps v
 \lc tsʰɯ˩˥
 \sd <langue="fra"> verbe
@@ -68781,7 +68783,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂʰɯ˧=zɯ˩
 \sf <nb="B"> 2161g
 \sf <nb="2011"> 3403
-\ph teessi
+\or teessi
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -68799,7 +68801,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tsʰv̩˩˥
 \sf <nb="B"> 2215
 \sf <nb="2011"> 503
-\ph cuq
+\or cuq
 \bw <langue="cmn"> 醋
 \ps n
 \cf sɑ˧tsʰv̩˩, tɕi˧-dʑɯ˩
@@ -68822,7 +68824,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx ʈʂv̩˩
-\ph zhuq
+\or zhuq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -68844,7 +68846,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂv̩˩˥
 \sf <nb="B"> 231
 \sf <nb="2011"> 303
-\ph zhuq
+\or zhuq
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -68872,7 +68874,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1143
 \sf <nb="2011"> 1810
 \hm 1
-\ph chuq
+\or chuq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -68900,7 +68902,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʈʂʰv̩˩
 \hm 2
-\ph chuq
+\or chuq
 \ec <langue="fra"> Le mot évoque le chinois fn:除 ‘se débarrasser de; à part…'; mais il n'est pas perçu par la locutrice comme un emprunt
 \ps v
 \sd <langue="fra"> verbe
@@ -68928,7 +68930,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 745
 \sf <nb="B"> 746
 \sf <nb="2011"> 1124
-\ph chu
+\or chu
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -68958,7 +68960,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂʰv̩˧˥
 \sf <nb="B"> 1143
 \sf <nb="2011"> 1810
-\ph chuq
+\or chuq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -68985,7 +68987,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx ʈʂv̩˧di˧˥
-\ph Zhuddi
+\or Zhuddi
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -69002,7 +69004,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʈʂv̩˩dʑɯ˥
 \sf <nb="2011"> 304
-\ph zhujji
+\or zhujji
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -69024,7 +69026,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 952
 \sf <nb="B"> 952b
 \sf <nb="2011"> 694
-\ph chujji
+\or chujji
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -69054,7 +69056,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx ʈʂʰv̩˧mi˧
-\ph chumi
+\or chumi
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -69074,7 +69076,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂv̩˧pɤ˩
 \sf <nb="B"> 2285
 \sf <nb="2011"> 714
-\ph zhube
+\or zhube
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -69095,7 +69097,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂʰv̩˧ɻ̍˧qʰv̩#˥
 \sf <nb="B"> 1823
 \sf <nb="2011"> 2774
-\ph chu'erkheu
+\or chu'erkheu
 \ps n
 \cf ʈʂʰv̩˧ɻ̍˥$
 \sd <langue="fra"> animal
@@ -69125,7 +69127,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂʰv̩˧ɻ̍˥$
 \sf <nb="B"> 1821
 \sf <nb="2011"> 2772
-\ph chu'er
+\or chu'er
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -69155,7 +69157,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂv̩˧tɕɯ˥
 \sf <nb="B"> 232
 \sf <nb="2011"> 305
-\ph zhuji
+\or zhuji
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -69177,7 +69179,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1182
 \sf <nb="2011"> 1697
 \hm 1
-\ph zhuq
+\or zhuq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -69213,7 +69215,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʈʂv̩˩α
 \hm 2
-\ph zhuq
+\or zhuq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -69231,7 +69233,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂʰv̩˩α
 \sf <nb="B"> 1464
 \sf <nb="2011"> 2131
-\ph chuq
+\or chuq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -69265,7 +69267,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂʰv̩˩~ʈʂʰv̩˩˧
 \sf <nb="B"> 1679
 \sf <nb="2011"> 2495
-\ph chuchu
+\or chuchu
 \ps v
 \ton MH
 \lc ʈʂʰv̩˩ʈʂʰv̩˩˧
@@ -69302,7 +69304,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 2301
 \sf <nb="2011"> 1564
 \hm 1
-\ph zhuaeq
+\or zhuaeq
 \bw <langue="cmn"> 装？
 \ps v
 \sn 1
@@ -69372,7 +69374,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʈʂwæ˧˥
 \hm 2
-\ph zhuaeq
+\or zhuaeq
 \ps v
 \lc ʈʂwæ˧˥
 \sd <langue="fra"> verbe
@@ -69412,7 +69414,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx ʈʂʰwæ˩˧
-\ph chuaeq
+\or chuaeq
 \bw <langue="cmn"> 船
 \ps n
 \lc ʈʂʰwæ˩˥
@@ -69434,7 +69436,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1680
 \sf <nb="2011"> 1761
 \hm 1
-\ph chuaeq
+\or chuaeq
 \ps v
 \lc ʈʂʰwæ˧˥
 \sd <langue="fra"> verbe
@@ -69454,7 +69456,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1682
 \sf <nb="2011"> 1689
 \hm 2
-\ph chuaeq
+\or chuaeq
 \ps v
 \lc ʈʂʰwæ˧˥
 \sd <langue="fra"> verbe
@@ -69474,7 +69476,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂʰwæ˧-bv̩˧nv̩#˥
 \sf <nb="B"> 1039
 \sf <nb="2011"> 1470
-\ph chuae bbunu
+\or chuae bbunu
 \ps adj
 \lc ʈʂʰwæ˧bv̩˧nv̩˧
 \sd <langue="fra"> adjectif
@@ -69499,7 +69501,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂwæ˩ho˧ɻ̍˧
 \sf <nb="B"> 569
 \sf <nb="2011"> 806
-\ph zhuaeho'er
+\or zhuaeho'er
 \bw <langue="cmn"> 钻
 \ps n
 \lc ʈʂwæ˧ho˧ɻ̍˧
@@ -69520,7 +69522,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʈʂʰwæ˧kɯ˧
 \sf <nb="2011"> 835
-\ph chuaegee
+\or chuaegee
 \ps n
 \lc ʈʂʰwæ˧kɯ˧
 \sd <langue="fra"> agriculture
@@ -69545,7 +69547,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂʰwæ˧pi#˥
 \sf <nb="B"> 396
 \sf <nb="2011"> 500
-\ph chuaebi
+\or chuaebi
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -69562,7 +69564,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʈʂwæ˧tʰo˩
 \bw <langue="cmn"> 砖头
-\ph zhuaeto
+\or zhuaeto
 \ps n
 \lc ʈʂwæ˧tʰo˩
 \cf tʰo˩tɕi˧˥
@@ -69579,7 +69581,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 06/Jun/2017
 
 \lx ʈʂʰwæ˩tsʰɯ˩
-\ph chuaeci
+\or chuaeci
 \bw <langue="cmn"> 创造
 \ps v
 \lc ʈʂʰwæ˩tsʰɯ˩˥
@@ -69598,7 +69600,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂʰwæ˧tsɯ˧
 \sf <nb="B"> 461
 \sf <nb="2011"> 625
-\ph chuaezi
+\or chuaezi
 \bw <langue="cmn"> 窗子
 \ps n
 \lc ʈʂʰwæ˧tsɯ˧
@@ -69622,7 +69624,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂʰwæ˧ʈʂʰwæ˧
 \sf <nb="B"> 652b
 \sf <nb="2011"> 977
-\ph chuaechuae
+\or chuaechuae
 \ps n
 \lc ʈʂʰwæ˧ʈʂʰwæ˧
 \sd <langue="fra"> musique
@@ -69643,7 +69645,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx ʈʂwæ˥α
-\ph zhuae
+\or zhuae
 \ps clf
 \lc ɖɯ˧ ʈʂwæ˥
 \sd <langue="fra"> classificateur
@@ -69667,7 +69669,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 969b
 \sf <nb="B"> 970
 \sf <nb="2011"> 1407
-\ph chuaeq
+\or chuaeq
 \ps adj
 \lc ʈʂʰwæ˩˥
 \sd <langue="fra"> adjectif
@@ -69698,7 +69700,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1275
 \sf <nb="2011"> 1464
 \hm 1
-\ph chuae
+\or chuae
 \ps v
 \lc ʈʂʰwæ˧
 \sd <langue="fra"> verbe
@@ -69734,7 +69736,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1585
 \sf <nb="2011"> 2361
 \hm 2
-\ph chuae
+\or chuae
 \ps v
 \lc ʈʂʰwæ˧
 \sd <langue="fra"> verbe
@@ -69764,7 +69766,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx ʈʂwæ˩~ʈʂwæ˧˥
-\ph zhuaezhuae
+\or zhuaezhuae
 \ps v
 \lc ʈʂwæ˩ʈʂwæ˧˥
 \sd <langue="fra"> verbe
@@ -69790,7 +69792,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂwæ˧~ʈʂwæ˧
 \sf <nb="B"> 1318
 \sf <nb="2011"> 1890
-\ph zhuaezhuae
+\or zhuaezhuae
 \ps v
 \lc ʈʂwæ˧ʈʂwæ˧
 \sd <langue="fra"> verbe
@@ -69808,7 +69810,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ʈʂwɑ˧~ʈʂwɑ˧-nɑ˧~nɑ#˥
-\ph zhuazhuanana
+\or zhuazhuanana
 \ps adj
 \lc ʈʂwɑ˧ʈʂwɑ˧nɑ˧nɑ˧
 \sd <langue="fra"> adjectif
@@ -69834,7 +69836,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂʰwɤ˩
 \sf <nb="B"> 755
 \sf <nb="2011"> 1133
-\ph chua
+\or chua
 \ps n
 \lc ʈʂʰwɤ˧
 \sd <langue="fra"> temps
@@ -69869,7 +69871,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂʰwɤ˧tsʰi˧˥
 \sf <nb="B"> 928
 \sf <nb="2011"> 1352
-\ph chuacee
+\or chuacee
 \ps adj
 \lc ʈʂʰwɤ˧tsʰi˧˥
 \sd <langue="fra"> adjectif
@@ -69892,7 +69894,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂwɤ˧α
 \sf <nb="B"> 1635
 \sf <nb="2011"> 2452
-\ph zhua
+\or zhua
 \ps v
 \lc ʈʂwɤ˧
 \sd <langue="fra"> verbe
@@ -69918,7 +69920,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʂwɤ˧α
 \sf <nb="B"> 858
 \sf <nb="2011"> 1257
-\ph zhua
+\or zhua
 \ps clf
 \lc ɖɯ˧ ʈʂwɤ˧
 \sd <langue="fra"> classificateur
@@ -69939,7 +69941,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ʈʂwɤ˥~ʈʂwɤ˩
-\ph zhuazhua
+\or zhuazhua
 \ps v
 \lc ʈʂwɤ˧ʈʂwɤ˩
 \sd <langue="fra"> verbe
@@ -69962,7 +69964,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ʈɯ˧˥
-\ph deeq
+\or deeq
 \ps v
 \lc ʈɯ˧˥
 \sd <langue="fra"> verbe
@@ -70000,7 +70002,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʰɯ˩β
 \sf <nb="B"> 1169
 \sf <nb="2011"> 1670
-\ph teeq
+\or teeq
 \ps v
 \lc ʈʰɯ˩˥
 \sd <langue="fra"> verbe
@@ -70072,7 +70074,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈɯ˧ʈʰæ#˥
 \sf <nb="B"> 436b
 \sf <nb="2011"> 557
-\ph deetae
+\or deetae
 \ps n
 \lc ʈɯ˧ʈʰæ˧
 \sd <langue="fra"> vêtement
@@ -70108,7 +70110,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ʈɯ˧α
-\ph dee
+\or dee
 \ps v
 \lc ʈɯ˧
 \sd <langue="fra"> verbe
@@ -70136,7 +70138,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈʰɯ˩α
 \sf <nb="B"> 1201
 \sf <nb="2011"> 1666
-\ph teeq
+\or teeq
 \ps v
 \lc ʈʰɯ˩˥
 \sd <langue="fra"> verbe
@@ -70163,7 +70165,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1685
 \sf <nb="2011"> 2505
 \hm 1
-\ph duq
+\or duq
 \ps v
 \lc tv̩˧˥
 \sd <langue="fra"> verbe
@@ -70182,7 +70184,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tv̩˧˥
 \hm 2
-\ph duq
+\or duq
 \ps v
 \lc tv̩˧˥
 \sd <langue="fra"> verbe
@@ -70207,7 +70209,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1535
 \sf <nb="2011"> 2321
 \hm 1
-\ph tuq
+\or tuq
 \ps v
 \lc tʰv̩˧˥
 \sd <langue="fra"> verbe
@@ -70248,7 +70250,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tʰv̩˧˥
 \hm 2
-\ph tuq
+\or tuq
 \ps v
 \lc tʰv̩˧˥
 \sd <langue="fra"> verbe
@@ -70268,7 +70270,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 899b
 \sf <nb="2011"> 3394
 \hm 1
-\ph tu
+\or tu
 \ps pro
 \lc tʰv̩˧
 \cf tʰv̩˥2
@@ -70308,7 +70310,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 899a
 \sf <nb="2011"> 3394
 \hm 2
-\ph tee
+\or tee
 \ps pro
 \lc tʰv̩˧
 \cf tʰv̩˥1
@@ -70340,7 +70342,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx -tʰv̩˥
 \hm 3
-\ph tee
+\or tee
 \ps suff
 \lc tʰv̩˧
 \cf tʰv̩˥1
@@ -70359,7 +70361,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʈv̩˩
 \sf <nb="2011"> 927
-\ph deu
+\or deu
 \ps n
 \lc ʈv̩˧
 \sd <langue="fra"> objet
@@ -70385,7 +70387,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx tʰv̩˩β
-\ph tu
+\or tu
 \ps clf
 \lc ɖɯ˧ tʰv̩˩
 \sd <langue="fra"> classificateur
@@ -70413,7 +70415,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tʰv̩˧β
 \sf <nb="B"> 1355
 \sf <nb="2011"> 1936
-\ph tu
+\or tu
 \ps v
 \lc tʰv̩˧
 \sd <langue="fra"> verbe
@@ -70437,7 +70439,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈv̩˩β
 \sf <nb="B"> 864
 \sf <nb="2011"> 1272
-\ph deu
+\or deu
 \ps clf
 \lc ɖɯ˧ ʈv̩˩
 \sd <langue="fra"> classificateur
@@ -70458,7 +70460,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tv̩˧ɕi˩
 \sf <nb="B"> 1806
 \sf <nb="2011"> 2746
-\ph duxie
+\or duxie
 \ps n
 \lc tv̩˧ɕi˩
 \sd <langue="fra"> animal
@@ -70479,7 +70481,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tʰv̩˧gi˧
 \sf <nb="2011"> 1324
-\ph teeggi
+\or teeggi
 \ps adv
 \ton M
 \lc tʰv̩˧gi˧
@@ -70496,7 +70498,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tv̩˩ɭɯ˧˥
 \sf <nb="2011"> 842
-\ph dulee
+\or dulee
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -70519,7 +70521,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx tʰv̩˧ne˧-ʝi˥
-\ph tee niq yi
+\or tee niq yi
 \ps adv
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -70537,7 +70539,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tʰv̩˧ɲi#˥
 \sf <nb="2011"> 1108
-\ph teeni
+\or teeni
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -70556,7 +70558,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tv̩˧po˩
 \sf <nb="B"> 1197
 \sf <nb="2011"> 1723
-\ph dubo
+\or dubo
 \bw <langue="cmn"> 赌博
 \ps v
 \sd <langue="fra"> verbe
@@ -70577,7 +70579,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx tʰv̩˧qo˧
 \sf <nb="2011"> 1323
-\ph teegho
+\or teegho
 \ps pro
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -70595,7 +70597,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 13/Jul/2017
 
 \lx tv̩˧qʰv̩˧
-\ph dukheu
+\or dukheu
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -70612,7 +70614,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʈv̩˩qʰv̩˩
 \sf <nb="2011"> 927
-\ph deukheu
+\or deukheu
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -70638,7 +70640,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx tʰv̩˧-se˩-gɤ˩
-\ph tee sei gge
+\or tee sei gge
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -70654,7 +70656,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 13/Jul/2017
 
 \lx tʰv̩˧-si˥
-\ph tusee
+\or tusee
 \ps adv
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -70677,7 +70679,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tʰv̩˧-sɯ˩kv̩˩
 \sf <nb="B"> 2161b
 \sf <nb="2011"> 3399
-\ph teesigu
+\or teesigu
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -70697,7 +70699,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 717
 \sf <nb="B"> 718
 \sf <nb="2011"> 1083
-\ph duci
+\or duci
 \ps n
 \sn 1
 \sd <langue="fra"> temps
@@ -70760,7 +70762,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tv̩˧tsʰɯ˧li˧di˩
 \sf <nb="B"> 759
 \sf <nb="2011"> 1140
-\ph duci liddi
+\or duci liddi
 \ps n
 \ton L#
 \lc tv̩˧tsʰɯ˧li˧di˩
@@ -70784,7 +70786,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tv̩˩tv̩˩
 \sf <nb="B"> 1547
 \sf <nb="2011"> 1385
-\ph dudu
+\or dudu
 \ps adj
 \sn 1
 \sd <langue="fra"> adjectif
@@ -70822,7 +70824,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> ancien
 \sf <nb="B"> 430)
 \sf <nb="2011"> 536
-\ph dudu
+\or dudu
 \ps n
 \lc tv̩˧tv̩˥
 \sd <langue="fra"> vêtement
@@ -70846,7 +70848,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx tv̩˧α
 \sf <nb="B"> 1633
 \sf <nb="2011"> 2448
-\ph du
+\or du
 \ps v
 \lc tv̩˧
 \sd <langue="fra"> verbe
@@ -70877,7 +70879,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 839
 \sf <nb="2011"> 1236
 \hm 1
-\ph du
+\or du
 \ps clf
 \lc ɖɯ˧ tv̩˧
 \sd <langue="fra"> classificateur
@@ -70912,7 +70914,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 876
 \sf <nb="2011"> 1288
 \hm 2
-\ph du
+\or du
 \ps clf
 \lc ɖɯ˧ tv̩˧
 \sd <langue="fra"> classificateur
@@ -70935,7 +70937,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 883
 \sf <nb="B"> 884
 \sf <nb="2011"> 1292
-\ph tu
+\or tu
 \ps clf
 \lc ɖɯ˧ tʰv̩˧˥
 \sd <langue="fra"> classificateur
@@ -70965,7 +70967,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1480
 \sf <nb="2011"> 1698
 \hm 1
-\ph tu
+\or tu
 \ps v
 \lc tʰv̩˧
 \sn 1
@@ -71055,7 +71057,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1480
 \sf <nb="2011"> 1698
 \hm 2
-\ph tu
+\or tu
 \ps v
 \lc tʰv̩˧
 \sd <langue="fra"> verbe
@@ -71090,7 +71092,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈv̩˩α
 \sf <nb="2011"> 2445
 \hm 1
-\ph deuq
+\or deuq
 \ps v
 \lc ʈv̩˩˥
 \sd <langue="fra"> verbe
@@ -71123,7 +71125,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1431a
 \sf <nb="2011"> 2153
 \hm 2
-\ph deuq
+\or deuq
 \ps v
 \lc ʈv̩˩˥
 \sd <langue="fra"> verbe
@@ -71156,7 +71158,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈwæ˧˥
 \sf <nb="B"> 1219
 \sf <nb="2011"> 2542
-\ph duaeq
+\or duaeq
 \ps v
 \lc ʈwæ˧˥
 \sd <langue="fra"> verbe
@@ -71178,7 +71180,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʈwæ˩α
 \sf <nb="B"> 1222
 \sf <nb="2011"> 1752
-\ph duaeq
+\or duaeq
 \ps v
 \lc ʈwæ˩˥
 \sd <langue="fra"> verbe
@@ -71211,7 +71213,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʈwɤ˧α
 \sf <nb="2011"> 1933
-\ph dua
+\or dua
 \ps v
 \lc ʈwɤ˧
 \sd <langue="fra"> verbe
@@ -71233,7 +71235,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx u˧
-\ph o
+\or o
 \ps pro
 \lc u˧
 \sd <langue="fra"> morphosyntaxe
@@ -71268,7 +71270,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 09/Oct/2017
 
 \lx v̩˩
-\ph vuq
+\or vuq
 \ps v
 \lc v̩˩˥
 \sd <langue="fra"> verbe
@@ -71298,7 +71300,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx v̩˧
 \sf <nb="B"> 2182
 \sf <nb="2011"> 1247
-\ph vu
+\or vu
 \ps clf
 \lc ɖɯ˧ v̩˧
 \ton M *
@@ -71354,7 +71356,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx v̩˥
 \sf <nb="B"> 506
 \sf <nb="2011"> 698
-\ph vu
+\or vu
 \ps n
 \lc v̩˧
 \sd <langue="fra"> objet
@@ -71375,7 +71377,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx v̩˥β
-\ph vu
+\or vu
 \ps clf
 \lc ɖɯ˧ v̩˥
 \sd <langue="fra"> classificateur
@@ -71393,7 +71395,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx v̩˩dze˩
 \sf <nb="B"> 1788
 \sf <nb="2011"> 2639
-\ph vuzzei
+\or vuzzei
 \ps n
 \lc v̩˩dze˩˥
 \sd <langue="fra"> animal
@@ -71439,7 +71441,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx v̩˩dze˩-kʰv̩˩
 \sf <nb="B"> 1906
 \sf <nb="2011"> 2888
-\ph vuzzeiku
+\or vuzzeiku
 \ps n
 \lc v̩˩dze˩-kʰv̩˩˥
 \sd <langue="fra"> animal
@@ -71467,7 +71469,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx v̩˧dʑo#˥
 \sf <nb="2011"> 3339
-\ph Vujjo
+\or Vujjo
 \ps n
 \lc v̩˧dʑo˧
 \sd <langue="fra"> lieu
@@ -71485,7 +71487,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx v̩˩dʑɯ˩
 \sf <nb="B"> 395
 \sf <nb="2011"> 499
-\ph wujji
+\or wujji
 \ps n
 \lc v̩˩dʑɯ˩˥
 \sd <langue="fra"> nourriture
@@ -71515,12 +71517,13 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx v̩˧ko˧
 \sf <nb="B"> 1851
 \sf <nb="2011"> 2810
-\ph wugo  XXX Borrowing spelling
+\or wugo
 \bw <langue="cmn"> 乌龟
 \ps n
 \lc v̩˧ko˧
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
+\nt <type="hist" print="n"> RD comment: this is a special spelling for borrowings.
 \ton M
 \so <print="n"> F4
 \vf n'existe pas ici
@@ -71535,7 +71538,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx v̩˧lɑ˩-ʝi˩
 \sf <nb="B"> 1650
 \sf <nb="2011"> 2047
-\ph vula yi
+\or vula yi
 \ps v
 \lc v̩˧lɑ˩ʝi˩
 \sd <langue="fra"> verbe
@@ -71557,7 +71560,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx v̩˧lɑ˩-ʝi˩-hĩ˩-hĩ˩
 \sf <nb="B"> 347
 \sf <nb="2011"> 401
-\ph vula yihin hin
+\or vula yihin hin
 \ps n
 \lc v̩˧lɑ˩ʝi˩hĩ˩hĩ˩
 \sd <langue="fra"> société
@@ -71586,7 +71589,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx v̩˧mi#˥
-\ph vumi
+\or vumi
 \ps n
 \lc v̩˧mi˧
 \sd <langue="fra"> objet
@@ -71605,7 +71608,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx v̩˩tsʰɤ˧˥
 \sf <nb="B"> 2003
 \sf <nb="2011"> 3060
-\ph wuce
+\or wuce
 \ps n
 \lc v̩˩tsʰɤ˧˥
 \sd <langue="fra"> plante
@@ -71636,7 +71639,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx v̩˩tsʰɤ˧-bv̩#˥
 \sf <nb="B"> 1812
-\ph wucebbu
+\or wucebbu
 \ps n
 \lc v̩˩tsʰɤ˧bv̩˧
 \sd <langue="fra"> animal
@@ -71657,7 +71660,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx v̩˩tsʰɤ˧-pʰv̩˥
 \sf <nb="B"> 2004
 \sf <nb="2011"> 3062
-\ph wuce peuq
+\or wuce peuq
 \ps n
 \lc v̩˩tsʰɤ˧pʰv̩˥
 \cf <type="synonyme"> tsʰæ˧pʰv˧˥
@@ -71679,7 +71682,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx v̩˩tsʰɤ˧-v̩˥ɲi˩
 \sf <nb="2011"> 3061
-\ph wuce wuni
+\or wuce wuni
 \ps n
 \lc v̩˩tsʰɤ˧v̩˥ɲi˩
 \sd <langue="fra"> plante
@@ -71699,7 +71702,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 13/Jul/2017
 
 \lx v̩˧zo#˥
-\ph vusso
+\or vusso
 \ps n
 \lc v̩˧zo˧
 \sd <langue="fra"> objet
@@ -71719,7 +71722,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1162
 \sf <nb="B"> 1259
 \sf <nb="2011"> 1655
-\ph vuvu
+\or vuvu
 \ps v
 \lc v̩˧v̩˧
 \sd <langue="fra"> verbe
@@ -71751,7 +71754,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1618
 \sf <nb="B"> 1634
 \sf <nb="2011"> 1493
-\ph uaen
+\or uaen
 \ps v
 \lc w̃æ˧
 \sd <langue="fra"> verbe
@@ -71779,7 +71782,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx wo˩˥
-\ph uoq
+\or uoq
 \ps n
 \lc wo˩˥
 \sd <langue="fra"> plante
@@ -71812,7 +71815,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1226
 \sf <nb="B"> 1636
 \sf <nb="2011"> 1754
-\ph uoq
+\or uoq
 \ps v
 \lc wo˧˥
 \sd <langue="fra"> verbe
@@ -71863,7 +71866,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 988
 \sf <nb="B"> 1004
 \sf <nb="2011"> 1422
-\ph uo
+\or uo
 \ps adj
 \lc wo˧
 \sd <langue="fra"> adjectif
@@ -71890,7 +71893,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx wɤ˩˥
 \sf <nb="B"> 2171
 \sf <nb="2011"> 1300
-\ph uaq
+\or uaq
 \ps adv
 \lc wɤ˩˥
 \sd <langue="fra"> temps
@@ -71916,7 +71919,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 350b
 \sf <nb="2011"> 408
 \hm 1
-\ph ua
+\or ua
 \ps n
 \lc wɤ˧
 \sd <langue="fra"> société
@@ -71939,7 +71942,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx wɤ˧
 \hm 2
-\ph ua
+\or ua
 \ps disc.PTCL
 \lc wɤ˧
 \sd <langue="fra"> morphosyntaxe
@@ -71958,7 +71961,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx wo˩β
 \sf <nb="B"> 557
 \sf <nb="B"> 873
-\ph uo
+\or uo
 \ps clf
 \lc ɖɯ˧ wo˩
 \sd <langue="fra"> classificateur
@@ -71985,7 +71988,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx wɤ˩β
 \sf <nb="B"> 1543
-\ph ua
+\or ua
 \ps clf
 \lc ɖɯ˧ wɤ˩
 \sd <langue="fra"> classificateur
@@ -72017,7 +72020,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx wo˩kɤ#˥
 \sf <nb="2011"> 659
-\ph uoge
+\or uoge
 \ps n
 \lc wo˩kɤ˥
 \sd <langue="fra"> maison
@@ -72044,7 +72047,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx wɤ˩α
-\ph uaq
+\or uaq
 \ps v
 \lc wɤ˩˥
 \sd <langue="fra"> verbe
@@ -72070,7 +72073,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx wɤ˩~wɤ˩
 \sf <nb="B"> 1614
 \sf <nb="2011"> 2403
-\ph ua'ua
+\or ua'ua
 \ps v
 \lc wɤ˩wɤ˩˥
 \sd <langue="fra"> verbe
@@ -72115,7 +72118,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ʐ
-\ph rrr
+\or rrr
 \ps ideophone
 \lc ʐ!
 \sd <langue="fra"> morphosyntaxe
@@ -72132,7 +72135,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Jul/2017
 
 \lx zɑ˥
-\ph ssa
+\or ssa
 \ps adj
 \lc zɑ˧
 \sd <langue="fra"> morphosyntaxe
@@ -72155,7 +72158,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐæ˩˥
 \sf <nb="B"> 1914
 \sf <nb="2011"> 2902
-\ph raeq
+\or raeq
 \ps n
 \lc ʐæ˩˥
 \sd <langue="fra"> animal
@@ -72186,7 +72189,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ʐæ˧
-\ph rae
+\or rae
 \ps adj
 \lc ʐæ˧
 \sd <langue="fra"> adjectif
@@ -72220,7 +72223,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐæ˩β
 \sf <nb="B"> 1637
 \sf <nb="2011"> 2454
-\ph raeq
+\or raeq
 \ps v
 \lc ʐæ˩˥
 \sd <langue="fra"> verbe
@@ -72244,7 +72247,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx zɑ˩-bɑ˧lɑ˩
-\ph ssabbala
+\or ssabbala
 \ps n
 \lc zɑ˩bɑ˧lɑ˩
 \sn 1
@@ -72271,7 +72274,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx zɑ˧ɭɯ˧
-\ph ssalee
+\or ssalee
 \ps n
 \lc zɑ˧ɭɯ˧
 \sd <langue="fra"> animal
@@ -72290,7 +72293,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ʐæ˩mi#˥
-\ph raemi
+\or raemi
 \ps n
 \lc ʐæ˩mi˥
 \sd <langue="fra"> animal
@@ -72312,7 +72315,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx zɑ˩ɲi˥-ʂɤ˩
-\ph ssanishe
+\or ssanishe
 \ps n
 \lc zɑ˩ɲi˥ʂɤ˩
 \sd <langue="fra"> société
@@ -72328,7 +72331,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ʐæ˩pʰv̩˧
-\ph raepu
+\or raepu
 \ps n
 \lc ʐæ˩pʰv̩˥
 \sd <langue="fra"> animal
@@ -72350,7 +72353,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 03/Aug/2017
 
 \lx ʐæ˩ʂæ˧
-\ph reshae
+\or reshae
 \ps adj
 \lc ʐæ˩ʂæ˥
 \sd <langue="fra"> espace
@@ -72374,7 +72377,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐæ˩sɯ˩
 \sf <nb="B"> 415b
 \sf <nb="2011"> 524
-\ph raesi
+\or raesi
 \ps n
 \lc ʐæ˩sɯ˩˥
 \sd <langue="fra"> vêtement
@@ -72399,7 +72402,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐæ˩sɯ˩-kʰwæ˩ɻæ˧
 \sf <nb="B"> 415c
 \sf <nb="2011"> 525
-\ph raesi khuae'er
+\or raesi khuae'er
 \ps n
 \lc ʐæ˩sɯ˩kʰwæ˩ɻæ˥
 \sd <langue="fra"> vêtement
@@ -72421,7 +72424,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐæ˩tsɯ˧˥
 \sf <nb="B"> 47b
 \sf <nb="2011"> 78
-\ph rezi
+\or rezi
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -72446,7 +72449,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐæ˧v̩˩-tʰv̩˩
 \sf <nb="B"> 641
 \sf <nb="2011"> 2592
-\ph raevu tu
+\or raevu tu
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -72477,7 +72480,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx zɑ˧zɑ˧
 \sf <nb="B"> 1072
 \sf <nb="2011"> 1510
-\ph ssassa
+\or ssassa
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -72497,7 +72500,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx ʐæ˩zo#˥
-\ph raesso
+\or raesso
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -72521,7 +72524,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx zɑ˩α
 \sf <nb="2011"> 2069
-\ph ssaq
+\or ssaq
 \ps v
 \lc zɑ˩˥
 \sd <langue="fra"> verbe
@@ -72555,7 +72558,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1584
 \sf <nb="B"> 2234
 \sf <nb="2011"> 2589
-\ph rae
+\or rae
 \ps v
 \lc ʐæ˧
 \sn 1
@@ -72610,7 +72613,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ze˩
-\ph sseiq
+\or sseiq
 \ps adj
 \ton L
 \lc ze˩˥
@@ -72630,7 +72633,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ze˩
-\ph sseiq
+\or sseiq
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -72646,7 +72649,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx ʐe˥
-\ph rei
+\or rei
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -72665,7 +72668,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 622
 \sf <nb="2011"> 919
 \hm 1
-\ph rei
+\or rei
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -72694,7 +72697,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 804
 \sf <nb="2011"> 1192
 \hm 2
-\ph rei
+\or rei
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -72713,7 +72716,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ze˩bæ˩
 \sf <nb="B"> 13
 \sf <nb="2011"> 24
-\ph sseibbae
+\or sseibbae
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -72740,7 +72743,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \xe There has been a flash of lightning!
 \xn 打闪电了！
 \xf il y a eu un éclair!
-\xv ze˩bæ˩˥ | -dʑo˩!
+\xv ze˩bæ˩˥ ◊ -dʑo˩!
 \xe There are flashes of lightning!
 \xn 打着闪电！
 \xf il y a des éclairs!
@@ -72748,7 +72751,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ze˩bæ˧
 \sf <nb="2011"> 1331
-\ph sseibbae
+\or sseibbae
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -72769,7 +72772,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx ze˩gɤ˧
-\ph sseigge
+\or sseigge
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -72787,7 +72790,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ze˩mi˩
 \sf <nb="B"> 284
 \sf <nb="2011"> 375
-\ph sseimi
+\or sseimi
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -72810,7 +72813,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐe˧ʈæ˥-ɬi˩
 \sf <nb="B"> 787
 \sf <nb="2011"> 1183
-\ph reidaelhi
+\or reidaelhi
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -72832,7 +72835,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ze˩v̩˩
 \sf <nb="B"> 283
 \sf <nb="2011"> 374
-\ph sseivu
+\or sseivu
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -72858,7 +72861,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> ancien
 \sf <nb="B"> 282)
 \sf <nb="2011"> 376
-\ph sseivu sseimi
+\or sseivu sseimi
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -72878,7 +72881,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʐe˧v̩#˥
 \sf <nb="2011"> 2918
-\ph reivu
+\or reivu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -72897,7 +72900,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx ʐe˩ʐe˧-bæ˩bæ˩
-\ph reirei bbaebbae  
+\or reirei bbaebbae  
 \ps n
 \cf je˩ʐe˧
 \sd <langue="fra"> plante
@@ -72916,7 +72919,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Jul/2017
 
 \lx ʐe˩ʐe˧-læ˧tsɯ˥
-\ph reirei laezi
+\or reirei laezi
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -72932,7 +72935,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx ʐe˧zo#˥
-\ph reisso
+\or reisso
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -72955,7 +72958,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 82a
 \sf <nb="2011"> 349
 \hm 2
-\ph xxi
+\or xxi
 \ps clf
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -72991,7 +72994,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʑi˩˥
 \sf <nb="B"> 1912
 \sf <nb="2011"> 2899
-\ph xxiq
+\or xxiq
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -73026,7 +73029,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1517
 \sf <nb="2011"> 2264
 \hm 1
-\ph xxiq
+\or xxiq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -73073,7 +73076,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʑi˥
 \sf <nb="2011"> 3387
-\ph xxi
+\or xxi
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -73097,7 +73100,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1739
 \sf <nb="B"> 2199
 \sf <nb="2011"> 2568
-\ph xxiq
+\or xxiq
 \ps v
 \lc ʑi˩˥
 \sn 1
@@ -73152,7 +73155,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʑi˧dv̩˧
 \sf <nb="B"> 452
 \sf <nb="2011"> 587
-\ph xxiddu
+\or xxiddu
 \ps n
 \lc ʑi˧dv̩˧
 \sn 1
@@ -73201,7 +73204,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʑi˧dv̩˧ʝi˧-hĩ#˥
 \sf <nb="B"> 366
 \sf <nb="2011"> 441
-\ph xxiddu yihin  
+\or xxiddu yihin  
 \ps n
 \lc ʑi˧dv̩˧ʝi˧hĩ˧
 \sd <langue="fra"> société
@@ -73219,7 +73222,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʑi˩hṽ̩#˥
 \sf <nb="2011"> 151
-\ph xxihun
+\or xxihun
 \ps n
 \lc ʑi˩hṽ̩˥
 \sd <langue="fra"> corps
@@ -73243,7 +73246,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \hm 1
 \sf <nb="B"> 768
 \sf <nb="2011"> 1163
-\ph xxiku
+\or xxiku
 \ps n
 \lc ʑi˩kʰv̩˧˥
 \sd <langue="fra"> temps
@@ -73264,7 +73267,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʑi˩-kʰv̩˧˥
 \hm 2
-\ph xxiq kuq
+\or xxiq kuq
 \ps adj
 \lc ʑi˩kʰv̩˧˥
 \sd <langue="fra"> société
@@ -73281,7 +73284,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʑi˧kv̩˧wo˧
 \sf <nb="B"> 472
 \sf <nb="2011"> 642
-\ph xxigowo
+\or xxigowo
 \ps n
 \lc ʑi˧kv̩˧wo˧
 \sd <langue="fra"> maison
@@ -73305,7 +73308,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʑi˧mi˧
 \sf <nb="2011"> 3286
-\ph xximi
+\or xximi
 \ps n
 \lc ʑi˧mi˧
 \sn 1
@@ -73331,7 +73334,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx ʑi˩mi#˥
-\ph xximi
+\or xximi
 \ps n
 \lc ʑi˩mi˥
 \sd <langue="fra"> animal
@@ -73351,7 +73354,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʑi˧mv̩˧˥
 \sf <nb="B"> 693
 \sf <nb="2011"> 1033
-\ph xximu
+\or xximu
 \ps n
 \lc ʑi˧mv̩˧˥
 \sd <langue="fra"> abstrait
@@ -73390,7 +73393,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʑi˧ŋɤ˥
 \sf <nb="B"> 1200
 \sf <nb="2011"> 2267
-\ph xxinge
+\or xxinge
 \ps v
 \lc ʑi˧ŋɤ˥
 \sd <langue="fra"> verbe
@@ -73418,7 +73421,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1517b
 \sf <nb="B"> 1395
 \sf <nb="2011"> 2265
-\ph xxingu
+\or xxingu
 \ps v
 \lc ʑi˧ŋv̩˥
 \sd <langue="fra"> verbe
@@ -73445,7 +73448,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx ʑi˩pʰv̩#˥
-\ph xxipu
+\or xxipu
 \ps n
 \lc ʑi˩pʰv̩˥
 \sd <langue="fra"> animal
@@ -73465,7 +73468,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʑi˧qʰwɤ˧
 \sf <nb="B"> 453
 \sf <nb="2011"> 588
-\ph xxikhua
+\or xxikhua
 \ps n
 \lc ʑi˧qʰwɤ˧
 \sd <langue="fra"> maison
@@ -73511,7 +73514,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ʑi˧ʁæ˥$
-\ph xxihrae
+\or xxihrae
 \ps n
 \lc ʑi˧ʁæ˥
 \sd <langue="fra"> maison
@@ -73536,7 +73539,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʑi˧ʁo˥$
 \sf <nb="B"> 487
 \sf <nb="2011"> 668
-\ph xxiwo
+\or xxiwo
 \ps n
 \lc ʑi˧ʁo˥
 \sd <langue="fra"> objet
@@ -73557,7 +73560,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx ʑi˩zo#˥
-\ph xxisso
+\or xxisso
 \ps n
 \lc ʑi˩zo˥
 \sd <langue="fra"> animal
@@ -73577,7 +73580,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʑi˧α
 \sf <nb="B"> 1408
 \sf <nb="2011"> 2033
-\ph xxi
+\or xxi
 \ps v
 \sn 1
 \sd <langue="fra"> verbe
@@ -73623,7 +73626,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 290
 \sf <nb="B"> 264
 \sf <nb="2011"> 363
-\ph sso
+\or sso
 \ps n
 \sn 1
 \sd <langue="fra"> société
@@ -73658,7 +73661,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐo˩
 \sf <nb="B"> 750
 \sf <nb="2011"> 1128
-\ph roq
+\or roq
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -73683,7 +73686,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʐɤ˩˧
 \sf <nb="2011"> 77
-\ph req
+\or req
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -73721,7 +73724,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐɤ˧β
 \sf <nb="B"> 1599
 \sf <nb="2011"> 2389
-\ph re
+\or re
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -73748,7 +73751,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx zo˧bæ˩
 \sf <nb="B"> 373
 \sf <nb="2011"> 1505
-\ph ssobbae
+\or ssobbae
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -73779,7 +73782,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx zo˩bv̩˥li˩
-\ph ssobbuli
+\or ssobbuli
 \bw <langue="bod">? (Lidz 2010: 108)
 \ps n
 \ton L.H.L
@@ -73803,7 +73806,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx zo˧ɖɯ#˥
-\ph ssoddee
+\or ssoddee
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -73827,7 +73830,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 752
 \sf <nb="B"> 753
 \sf <nb="2011"> 1127
-\ph roq zzi
+\or roq zzi
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -73857,7 +73860,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx zo˧hṽ̩˧˥
 \sf <nb="B"> 290b
 \sf <nb="2011"> 364
-\ph ssohun
+\or ssohun
 \ps n
 \sn 1
 \sd <langue="fra"> société
@@ -73891,7 +73894,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx zo˧hṽ̩˧-mv̩˥zo˩
 \sf <nb="2011"> 366
-\ph ssohun musso
+\or ssohun musso
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -73913,7 +73916,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐɤ˩mi˩
 \sf <nb="B"> 47a
 \sf <nb="2011"> 76
-\ph remi
+\or remi
 \ps n
 \sd <langue="fra"> environnement naturel
 \sd <langue="eng"> natural environment
@@ -73943,7 +73946,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 259
 \sf <nb="B"> 293
 \sf <nb="2011"> 339
-\ph ssomu
+\or ssomu
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -73971,7 +73974,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐɤ˩ni˧˥
 \sf <nb="B"> 925
 \sf <nb="2011"> 1350
-\ph reni
+\or reni
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -74001,7 +74004,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 800c
 \sf <nb="B"> 720
 \sf <nb="2011"> 1188
-\ph ssono
+\or ssono
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -74029,7 +74032,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx zo˩qo˧
 \sf <nb="B"> 906
 \sf <nb="2011"> 1332
-\ph ssogho
+\or ssogho
 \ps pro
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -74067,7 +74070,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʐɤ˩qo˩
 \sf <nb="2011"> 2922
-\ph regho
+\or regho
 \ps n
 \sn 1
 \sd <langue="fra"> animal
@@ -74096,7 +74099,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx zo˧ʂv̩˧kʰv̩˥-ɲi˩tʰv̩˩
 \sf <nb="B"> 380
 \sf <nb="2011"> 443
-\ph ssoshuku nitu
+\or ssoshuku nitu
 \ps n
 \ton H#-
 \lc zo˧ʂv̩˧kʰv̩˥ɲi˩tʰv̩˩
@@ -74115,7 +74118,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Aug/2017
 
 \lx zo˧tɕi˥
-\ph ssojie
+\or ssojie
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -74135,7 +74138,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx zo˧tʰi˧
-\ph ssoti
+\or ssoti
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -74160,7 +74163,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx zo˧tʰi˧
-\ph ssoti
+\or ssoti
 \ps n
 \ton M
 \lc zo˧tʰi˧
@@ -74177,7 +74180,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx zo˧tv̩˧-mv̩˥tv̩˩
-\ph ssodu mudu
+\or ssodu mudu
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -74193,7 +74196,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx zo˧tv̩#˥
-\ph ssodu
+\or ssodu
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -74220,7 +74223,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐɤ˩ʐɤ˧˥
 \sf <nb="B"> 632
 \sf <nb="2011"> 939
-\ph rere
+\or rere
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -74253,7 +74256,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx zo˧ʐɤ#˥
-\ph ssore
+\or ssore
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -74271,7 +74274,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx zo˧α
 \sf <nb="B"> 1602
 \sf <nb="2011"> 2135
-\ph sso
+\or sso
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -74302,7 +74305,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1513
 \sf <nb="2011"> 2255
 \hm 1
-\ph roq
+\or roq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -74338,7 +74341,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 967
 \sf <nb="2011"> 1406
 \hm 2
-\ph roq
+\or roq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -74365,7 +74368,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1050b
 \sf <nb="B"> 1054b
 \sf <nb="2011"> 1487
-\ph req
+\or req
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -74390,7 +74393,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx ʐɤ˩γ
-\ph re
+\or re
 \ps clf
 \sd <langue="fra"> classificateur
 \sd <langue="eng"> classifier
@@ -74407,7 +74410,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʐo˩~ʐo˧˥
 \sf <nb="2011"> 2256
-\ph roro
+\or roro
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -74425,7 +74428,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx zo˧~zo˧-mv̩˧~mv̩˥  
-\ph ssossomumu
+\or ssossomumu
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -74444,7 +74447,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx zɯ˧
 \sf <nb="B"> 882
 \sf <nb="2011"> 314
-\ph ssi
+\or ssi
 \ps n
 \cf zɯ˧b
 \sd <langue="fra"> corps
@@ -74478,7 +74481,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx zɯ˥
 \sf <nb="B"> 2135
 \sf <nb="2011"> 3273
-\ph ssi
+\or ssi
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -74500,7 +74503,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐɯ˧
 \sf <nb="B"> 396
 \sf <nb="2011"> 500
-\ph ri
+\or ri
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -74526,7 +74529,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 966
 \sf <nb="B"> 1562
 \sf <nb="2011"> 1405
-\ph ri
+\or ri
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -74552,7 +74555,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx zɯ˧β
 \sf <nb="B"> 203
 \sf <nb="2011"> 272
-\ph ssi
+\or ssi
 \ps clf
 \cf zɯ˧
 \sd <langue="fra"> classificateur
@@ -74576,7 +74579,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐɯ˩dzi˥
 \sf <nb="B"> 2024
 \sf <nb="2011"> 3102
-\ph rizzee
+\or rizzee
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -74601,7 +74604,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1782
 \sf <nb="B"> 354
 \sf <nb="2011"> 127
-\ph riggu
+\or riggu
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -74630,7 +74633,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx zɯ˧hṽ̩˩
 \sf <nb="B"> 960
 \sf <nb="2011"> 1399
-\ph ssihun
+\or ssihun
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -74660,7 +74663,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐɯ˧ɭɯ˧
 \sf <nb="B"> 1210
 \sf <nb="2011"> 1745
-\ph relu
+\or relu
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -74685,7 +74688,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 07/Oct/2015
 
 \lx ʐɯ˩-mo˧˥
-\ph rimo
+\or rimo
 \ps n
 \cf ʐɯ˩dzi˥
 \sd <langue="fra"> plante
@@ -74709,7 +74712,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐɯ˧nɑ˩
 \sf <nb="B"> 396c
 \sf <nb="2011"> 502
-\ph rina
+\or rina
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -74727,7 +74730,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx zɯ˧pv̩˩
 \sf <nb="B"> 1998
 \sf <nb="2011"> 3048
-\ph ssibeu
+\or ssibeu
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -74749,7 +74752,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx zɯ˧-qʰɑ˧mi#˥
 \sf <nb="2011"> 3276
-\ph ssikhami
+\or ssikhami
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -74770,7 +74773,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx zɯ˧ɻ̍#˥
 \sf <nb="2011"> 174
-\ph ssi'er
+\or ssi'er
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -74795,7 +74798,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐɯ˩tse˧
 \sf <nb="B"> 661
 \sf <nb="2011"> 986
-\ph rizei
+\or rizei
 \ps n
 \sd <langue="fra"> religion
 \sd <langue="eng"> religion
@@ -74818,7 +74821,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐɯ˩tse˧-mæ˧ʂæ˩
 \sf <nb="B"> 2302
 \sf <nb="2011"> 2698
-\ph rizei maeshae 
+\or rizei maeshae 
 \ps n
 \cf ʐɯ˩tse˧
 \sd <langue="fra"> animal
@@ -74837,7 +74840,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Jul/2017
 
 \lx ʐɯ˩tsɯ˧
-\ph rizi
+\or rizi
 \bw <langue="cmn"> 日子
 \ps n
 \sd <langue="fra"> temps
@@ -74860,7 +74863,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐɯ˩tsɯ˧-mɤ˩ʈʂʰɤ˩
 \sf <nb="B"> 446a
 \sf <nb="2011"> 577
-\ph rizimeche
+\or rizimeche
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -74884,7 +74887,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx zɯ˩~zɯ˩
 \sf <nb="B"> 1412
 \sf <nb="2011"> 2040
-\ph ssissi
+\or ssissi
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -74917,7 +74920,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx zɯ˧~zɯ˧
 \sf <nb="B"> 247
 \sf <nb="2011"> 313
-\ph ssissi
+\or ssissi
 \ps n
 \sd <langue="fra"> corps
 \sd <langue="eng"> body
@@ -74948,7 +74951,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐv̩˧
 \sf <nb="B"> 814
 \sf <nb="2011"> 1202
-\ph ru
+\or ru
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
@@ -74970,7 +74973,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐv̩˧˥
 \sf <nb="B"> 1269
 \sf <nb="2011"> 1828
-\ph ruq
+\or ruq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -74992,7 +74995,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1901
 \sf <nb="B"> 1902
 \sf <nb="2011"> 2883
-\ph rubbae
+\or rubbae
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -75018,7 +75021,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʐv̩˧bæ˧-bv̩˧-hɑ#˥
 \sf <nb="2011"> 3349
-\ph rubbae bbuha
+\or rubbae bbuha
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -75038,7 +75041,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 16/Aug/2017
 
 \lx ʐv̩˧bæ˧-mi˩
-\ph rubbaemi
+\or rubbaemi
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -75057,7 +75060,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ʐv̩˧bæ˧-pʰv̩#˥
-\ph rubbaepu
+\or rubbaepu
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -75075,7 +75078,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 03/Aug/2017
 
 \lx ʐv̩˧bæ˧-zo#˥
-\ph rubbaesso
+\or rubbaesso
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -75095,7 +75098,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐv̩˧bæ˧-ʐv̩˧qʰɑ#˥
 \sf <nb="B"> 2091
 \sf <nb="2011"> 3224
-\ph rubbaerukha
+\or rubbaerukha
 \ps n
 \ton #H
 \lc ʐv̩˧bæ˧ʐv̩˧qʰɑ˧
@@ -75112,7 +75115,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʐv̩˧bɤ#˥
 \sf <nb="2011"> 328
-\ph Rubbe
+\or Rubbe
 \ps n
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
@@ -75131,7 +75134,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 06/Oct/2015
 
 \lx ʐv̩˧di˧˥
-\ph ruddi
+\or ruddi
 \ps n
 \sd <langue="fra"> lieu
 \sd <langue="eng"> place name
@@ -75149,7 +75152,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐv̩˧dzi˩
 \sf <nb="B"> 2025
 \sf <nb="2011"> 3105
-\ph ruzzee
+\or ruzzee
 \ps n
 \sd <langue="fra"> plante
 \sd <langue="eng"> plant
@@ -75172,7 +75175,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʐv̩˧hĩ#˥
 \sf <nb="2011"> 327
-\ph Ruhin
+\or Ruhin
 \ps n
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
@@ -75194,7 +75197,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐv̩˩-ɬi˩mi˩
 \sf <nb="B"> 780
 \sf <nb="2011"> 1176
-\ph rulhimi
+\or rulhimi
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -75215,7 +75218,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʐv̩˩ɭɯ˥
 \sf <nb="2011"> 631
-\ph rulee
+\or rulee
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -75237,7 +75240,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐv̩˩mi˩
 \sf <nb="B"> 621
 \sf <nb="2011"> 918
-\ph rumi
+\or rumi
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -75259,7 +75262,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐv̩˧mi#˥
 \sf <nb="B"> 285b
 \sf <nb="2011"> 378
-\ph rumi
+\or rumi
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -75285,7 +75288,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʐv̩˧mv̩˧lɑ˧di˧˥
 \sf <nb="2011"> 326
-\ph Rumuladdi
+\or Rumuladdi
 \ps n
 \sd <langue="fra"> ethnies
 \sd <langue="eng"> ethnic groups
@@ -75312,7 +75315,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐv̩˧-ɲi˧-ʁo˧tʰo˥
 \sf <nb="B"> 737
 \sf <nb="2011"> 1112
-\ph runi woto
+\or runi woto
 \ps adv
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -75334,7 +75337,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐv̩˧ɻ̍˥
 \sf <nb="B"> 939
 \sf <nb="2011"> 1366
-\ph ru'er
+\or ru'er
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -75365,7 +75368,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐv̩˧-tsʰi˩
 \sf <nb="B"> 832
 \sf <nb="2011"> 1229
-\ph rucee
+\or rucee
 \ps num
 \sd <langue="fra"> nombre
 \sd <langue="eng"> number
@@ -75387,7 +75390,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐv̩˧v̩˥-ʐv̩˩mi˩
 \sf <nb="B"> 285c
 \sf <nb="2011"> 379
-\ph ruvu rumi
+\or ruvu rumi
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -75412,7 +75415,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐv̩˧v̩#˥
 \sf <nb="B"> 285a
 \sf <nb="2011"> 377
-\ph ruvu
+\or ruvu
 \ps n
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -75438,7 +75441,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 06/Oct/2015
 
 \lx ʐv̩˧-zo#˥
-\ph russo
+\or russo
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -75459,7 +75462,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1472
 \sf <nb="2011"> 2228, 1372
 \hm 1
-\ph ruq
+\or ruq
 \ps v
 \sn 1
 \sd <langue="fra"> verbe
@@ -75514,7 +75517,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1033
 \sf <nb="2011"> 1461
 \hm 2
-\ph ruq
+\or ruq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -75534,7 +75537,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐwæ˩
 \sf <nb="B"> 2304
 \sf <nb="2011"> 3374
-\ph ruaeq
+\or ruaeq
 \ps adv
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -75560,7 +75563,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐwæ˧˥
 \sf <nb="B"> 1106
 \sf <nb="2011"> 1566
-\ph ruaeq
+\or ruaeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -75600,7 +75603,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐwæ˥
 \sf <nb="B"> 1858
 \sf <nb="2011"> 2823
-\ph ruae
+\or ruae
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -75629,7 +75632,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʐwæ˧bv̩˧˥
 \sf <nb="2011"> 606
-\ph ruaebbu
+\or ruaebbu
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -75650,7 +75653,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʐwæ˧-hɑ#˥
 \sf <nb="2011"> 515
-\ph ruaeha
+\or ruaeha
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -75670,7 +75673,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \hm 1
 \sf <nb="B"> 766
 \sf <nb="2011"> 1161
-\ph ruaeku
+\or ruaeku
 \ps n
 \sd <langue="fra"> temps
 \sd <langue="eng"> time
@@ -75691,7 +75694,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʐwæ˧-kʰv̩˩
 \hm 2
-\ph ruae kuq
+\or ruae kuq
 \ps adj
 \sd <langue="fra"> société
 \sd <langue="eng"> society
@@ -75708,7 +75711,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐwæ˧-ɭɯ#˥
 \sf <nb="B"> 407
 \sf <nb="2011"> 514
-\ph ruaelee
+\or ruaelee
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -75730,7 +75733,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐwæ˩mi˩
 \sf <nb="B"> 1860
 \sf <nb="2011"> 2832
-\ph ruaemi
+\or ruaemi
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -75762,7 +75765,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʐwæ˧pʰæ˧di˧˥
 \sf <nb="2011"> 2932
-\ph ruae paeddi
+\or ruae paeddi
 \ps n
 \sd <langue="fra"> objet
 \sd <langue="eng"> object
@@ -75783,7 +75786,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʐwæ˧-qʰæ#˥
 \sf <nb="2011"> 853
-\ph ruaekhae
+\or ruaekhae
 \ps n
 \sd <langue="fra"> agriculture
 \sd <langue="eng"> agriculture
@@ -75804,7 +75807,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐwæ˧ʁo˩
 \sf <nb="B"> 1861
 \sf <nb="2011"> 2833
-\ph ruaewo
+\or ruaewo
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -75827,7 +75830,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐwæ˧sɯ˩
 \sf <nb="B"> 1859
 \sf <nb="2011"> 2831
-\ph ruaesi
+\or ruaesi
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -75863,7 +75866,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐwæ˧zo#˥
 \sf <nb="B"> 1862
 \sf <nb="2011"> 2834
-\ph ruaesso
+\or ruaesso
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -75890,7 +75893,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʐwæ˧-zɯ#˥
 \sf <nb="2011"> 516
-\ph ruaessi
+\or ruaessi
 \ps n
 \sd <langue="fra"> nourriture
 \sd <langue="eng"> food
@@ -75907,7 +75910,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ʐwæ˩α
 \hm 1
-\ph ruaeq
+\or ruaeq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -75929,7 +75932,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐwæ˩α
 \sf <nb="2011"> 1502
 \hm 2
-\ph ruaeq
+\or ruaeq
 \ps adj
 \sd <langue="fra"> adjectif
 \sd <langue="eng"> adjective
@@ -75956,7 +75959,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐwæ˧α
 \sf <nb="B"> 1150
 \sf <nb="2011"> 1646
-\ph ruae
+\or ruae
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -76002,7 +76005,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 1113
 \sf <nb="B"> 1369
 \sf <nb="2011"> 1609
-\ph ruaeruae
+\or ruaeruae
 \ps v
 \sn 1
 \sd <langue="fra"> verbe
@@ -76043,7 +76046,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ʐwɤ˧
 \sf <nb="B"> 1041a
 \sf <nb="2011"> 1473
-\ph rua
+\or rua
 \ps adj
 \lc ʐwɤ˧
 \sd <langue="fra"> adjectif
@@ -76071,7 +76074,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \sf <nb="B"> 375
 \sf <nb="B"> 1314
 \sf <nb="2011"> 2282
-\ph ruaq
+\or ruaq
 \ps v
 \lc ʐwɤ˩˥
 \sd <langue="fra"> verbe
@@ -76140,7 +76143,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 04/May/2017
 
 \lx ʐwɤ˧mv̩˧
-\ph ruamu
+\or ruamu
 \et ʐwɤ˩b
 \ps n
 \lc ʐwɤ˧mv̩˧
@@ -76177,7 +76180,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ‑bi
-\ph bbi
+\or bbi
 \ps cnj
 \lc --
 \sd <langue="fra"> morphosyntaxe
@@ -76202,7 +76205,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ‑bi˧α
 \sf <nb="2011"> 3368
-\ph bbi
+\or bbi
 \ps suff
 \lc bi˧
 \sd <langue="fra"> morphosyntaxe
@@ -76220,7 +76223,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx =bv̩˧
 \sf <nb="2011"> 3362
-\ph bbu
+\or bbu
 \ps clitic
 \lc bv̩˧
 \sd <langue="fra"> morphosyntaxe
@@ -76237,7 +76240,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ‑di˩
 \sf <nb="2011"> 3351
-\ph ddi
+\or ddi
 \ps suff
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -76258,7 +76261,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Jul/2017
 
 \lx †dze˩˧
-\ph zzeiq
+\or zzeiq
 \ps n
 \sd <langue="fra"> animal
 \sd <langue="eng"> animal
@@ -76275,7 +76278,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ‑dʑo˧
 \sf <nb="2011"> 3376
-\ph jjo
+\or jjo
 \ps suff
 \lc dʑo˧
 \sd <langue="fra"> morphosyntaxe
@@ -76293,7 +76296,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ‑dʑo˥
 \sf <nb="2011"> 3363
-\ph jjo
+\or jjo
 \ps suff
 \lc dʑo˧
 \sd <langue="fra"> morphosyntaxe
@@ -76310,7 +76313,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Jul/2017
 
 \lx ‑dʑɯ˧α
-\ph jji
+\or jji
 \ps suff
 \lc dʑɯ˧  
 \sd <langue="fra"> morphosyntaxe
@@ -76327,7 +76330,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Jul/2017
 
 \lx ‑gi˧˥
-\ph ggi  
+\or ggi  
 \ps postp
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -76395,7 +76398,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Jul/2017
 
 \lx ‑gɤ˧
-\ph gge
+\or gge
 \ps n  RDCOMMENT: You can this a noun, but you mark it as ‑gɤ...
 \lc gɤ˧
 \sn 1
@@ -76451,7 +76454,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ‑gɤ˧bi#˥
 \sf <nb="B"> 710
 \sf <nb="2011"> 1059
-\ph ggebbi
+\or ggebbi
 \ps postp
 \lc gɤ˧bi˧
 \sd <langue="fra"> espace
@@ -76476,7 +76479,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ‑hĩ˥
 \sf <nb="2011"> 3352
-\ph hin
+\or hin
 \ps suff
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -76493,7 +76496,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Jul/2017
 
 \lx †hi˧
-\ph xie
+\or xie
 \ps adj
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -76526,7 +76529,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ‑ho˩
 \sf <nb="2011"> 3356
-\ph ho
+\or ho
 \ps suff
 \lc ho˩˥
 \sd <langue="fra"> morphosyntaxe
@@ -76566,7 +76569,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ‑ki˧
 \sf <nb="2011"> 3361
-\ph gi
+\or gi
 \ps suff
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -76596,7 +76599,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ‑kʰi˧~kʰi˧
 \sf <nb="2011"> 1056
-\ph kiki
+\or kiki
 \ps postp
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
@@ -76630,7 +76633,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 03/Sep/2015
 
 \lx ‑kv̩˧˥
-\ph guq
+\or guq
 \ps suff
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -76647,7 +76650,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Jul/2017
 
 \lx ‑kwɤ
-\ph gua
+\or gua
 \ps cnj
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -76665,7 +76668,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ‑kwɤ˧tɕɯ˥
 \sf <nb="2011"> 3384
-\ph gua ji
+\or gua ji
 \ps cnj
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -76701,7 +76704,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Aug/2017
 
 \lx ‑læ˧
-\ph lae
+\or lae
 \ps suff
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -76731,7 +76734,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ‑lɑ˩tɑ˩
 \sf <nb="2011"> 1057
-\ph lada
+\or lada
 \ps postp
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
@@ -76749,7 +76752,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 04/Sep/2015
 
 \lx ‑mæ˧mæ˥
-\ph maemae
+\or maemae
 \ps postp
 \ton H#
 \lc mæ˧mæ˥
@@ -76773,7 +76776,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ‑mæ˧qo˩
-\ph maegheu
+\or maegho
 \ps postp
 \lc mæ˧qo˩
 \cf mæ˧qo˩
@@ -76790,7 +76793,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 24/Jul/2017
 
 \lx ‑mi˩˧
-\ph mi
+\or mi
 \ps suff
 \sn 1
 \sd <langue="fra"> morphosyntaxe
@@ -76821,7 +76824,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 04/Sep/2015
 
 \lx ‑ne
-\ph niq
+\or niq
 \ps suff
 \ton 0?
 \lc --
@@ -76879,7 +76882,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Jul/2017
 
 \lx ‑ɲi˩
-\ph niq
+\or niq
 \ps disc.PTCL
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -76898,7 +76901,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ‑ni˧gv̩˧˥
 \sf <nb="B"> 1073
 \sf <nb="2011"> 3378
-\ph niggu
+\or niggu
 \ps adv
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -76951,7 +76954,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 06/Oct/2015
 
 \lx ‑no˧˥
-\ph noq
+\or noq
 \ps disc.PTCL
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -76978,7 +76981,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ‑ɳɯ
 \hm 2
-\ph nee
+\or nee
 \ps cnj
 \ton 0?
 \lc --
@@ -76996,7 +76999,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ‑ɳɯ˧
 \sf <nb="2011"> 3360
 \hm 1
-\ph nee
+\or nee
 \ps postp
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -77013,7 +77016,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 06/Oct/2015
 
 \lx ‑pʰæ˥di˩
-\ph paeddi
+\or paeddi
 \ps adv
 \ton H.L
 \lc pʰæ˧di˩
@@ -77034,7 +77037,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ‑pɤ˧to˩
-\ph bedo
+\or bedo
 \ps adv
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -77072,7 +77075,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ‑qɑ˧˥
 \hm 1
-\ph gha
+\or gha
 \ps postp
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -77105,7 +77108,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ‑qɑ˧˥
 \hm 2
-\ph gha 
+\or gha 
 \ps postp
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -77144,7 +77147,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ‑qo˧
 \sf <nb="B"> 706
 \sf <nb="2011"> 1054
-\ph gho
+\or gho
 \ps postp
 \cf -qo˧lo˩
 \sd <langue="fra"> espace
@@ -77166,7 +77169,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ‑qo˧lo˩
 \sf <nb="B"> 706
 \sf <nb="2011"> 1054
-\ph gholo
+\or gholo
 \ps postp
 \cf qo˧lo˩
 \sd <langue="fra"> espace
@@ -77191,7 +77194,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx =ɻæ˩
 \sf <nb="2011"> 3357
-\ph lae
+\or lae
 \ps clitic
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -77213,7 +77216,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 16/Jun/2017
 
 \lx ‑ʁo
-\ph wo
+\or wo
 \ps postp
 \ton 0?
 \lc --
@@ -77230,7 +77233,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ‑ʁo˧to˩
 \sf <nb="2011"> 1070
-\ph wodo
+\or wodo
 \ps postp
 \sn 1
 \sd <langue="fra"> espace
@@ -77298,7 +77301,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ‑ʁo˧tʰo˩
 \sf <nb="B"> 704
 \sf <nb="2011"> 1048
-\ph woto
+\or woto
 \ps postp
 \lc ʁo˧tʰo˩
 \sd <langue="fra"> espace
@@ -77331,7 +77334,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx †ʁwɤ˩α
 \sf <nb="B"> 1523
 \sf <nb="2011"> 2305
-\ph wuaq
+\or wuaq
 \ps v
 \sd <langue="fra"> verbe
 \sd <langue="eng"> verb
@@ -77350,7 +77353,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ‑ɻ̍˩
-\ph er
+\or er
 \ps suff
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -77367,7 +77370,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 06/Oct/2015
 
 \lx =ɻ̍˩
-\ph er
+\or er
 \ps clitic
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -77390,7 +77393,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 06/Oct/2015
 
 \lx ‑se
-\ph sei
+\or sei
 \ps disc.PTCL
 \ton 0?
 \lc --
@@ -77408,7 +77411,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ‑se˩
 \sf <nb="2011"> 3366
-\ph sei
+\or sei
 \ps suff
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -77435,7 +77438,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Jul/2017
 
 \lx ‑ʂo˧~ʂo˩
-\ph shosho
+\or shosho
 \ps suff
 \ton L#
 \lc --
@@ -77492,7 +77495,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ‑sɯ˧
-\ph see
+\or see
 \ps suff
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -77556,7 +77559,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ‑ʂv̩˧ɖv̩˧
 \sf <nb="2011"> 3355
-\ph shuddu
+\or shuddu
 \ps suff
 \ton M
 \lc ʂv̩˧ɖv̩˧
@@ -77572,7 +77575,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx †ʈʰæ˩
-\ph tae
+\or tae
 \ps n
 \sd <langue="fra"> vêtement
 \sd <langue="eng"> clothing
@@ -77596,7 +77599,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ‑ʈʰæ˧qo˩
-\ph taegheu
+\or taegheu
 \ps postp
 \sd <langue="fra"> espace
 \sd <langue="eng"> space
@@ -77612,7 +77615,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 24/Jul/2017
 
 \lx ‑tɑ.kɤ
-\ph dage
+\or dage
 \ps suff
 \ton ?
 \lc --
@@ -77652,7 +77655,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 05/Jul/2017
 
 \lx ‑tɕɯ
-\ph ji
+\or ji
 \ps suff
 \ton ?
 \lc --
@@ -77682,7 +77685,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ‑tsæ˧α
-\ph zhae
+\or zhae
 \ps suff
 \lc tsæ˧
 \sd <langue="fra"> morphosyntaxe
@@ -77708,7 +77711,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 06/Oct/2015
 
 \lx ‑tso
-\ph zo
+\or zo
 \ps suff
 \ton ?
 \lc --
@@ -77750,7 +77753,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx ‑tso˧α
-\ph zo
+\or zo
 \ps suff
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -77780,7 +77783,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ‑tʰv̩˧
 \hm 1
-\ph tu
+\or tu
 \ps postp
 \lc tʰv̩˧
 \sd <langue="fra"> morphosyntaxe
@@ -77798,7 +77801,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \lx ‑tʰv̩˧
 \sf <nb="B"> 1706b
 \hm 2
-\ph tu
+\or tu
 \ps suff
 \lc tʰv̩˧
 \sd <langue="fra"> morphosyntaxe
@@ -77819,7 +77822,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ‑ze˧β
 \sf <nb="2011"> 3354
-\ph ssei
+\or ssei
 \ps suff
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax
@@ -77836,7 +77839,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 \dt 27/Apr/2017
 
 \lx †ʑi˩˧
-\ph xxi
+\or xxi
 \ps n
 \sd <langue="fra"> maison
 \sd <langue="eng"> house
@@ -77873,7 +77876,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ‑zo
 \sf <nb="2011"> 3370
-\ph sso
+\or sso
 \ps suff
 \ton ?
 \lc --
@@ -77914,7 +77917,7 @@ or "silverfish" (an insect that eats clothes and, I think books)?
 
 \lx ‑zo˧α
 \sf <nb="2011"> 3369
-\ph sso
+\or sso
 \ps suff
 \sd <langue="fra"> morphosyntaxe
 \sd <langue="eng"> morphosyntax

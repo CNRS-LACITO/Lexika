@@ -6,6 +6,7 @@ import logging
 import lxml.etree
 import lxml.html
 import os
+import regex
 
 
 class GénérateurXML:
@@ -35,7 +36,9 @@ class GénérateurXML:
     def créer_éléments(self, entité, élément_parent):
         if isinstance(entité, lexika.outils.Entité):
             if self.format == "α":
-                nom = self.convertir_nom(self.traduire(entité.nom_classe))
+                if "Homonyme" in entité.nom_classe:
+                    print(entité.nom_classe, self.traduire(entité.nom))
+                nom = self.convertir_nom(self.traduire(entité.nom))
                 attributs = {self.convertir_nom(self.traduire(clef)): self.traduire(valeur) for clef, valeur in entité.caractéristiques.items()}
                 if entité.spécial and "texte enrichi" in entité.spécial.get("drapeaux", {}):
                     élément_actuel = lxml.etree.XML(f"<{nom}>{entité.valeur}</{nom}>", parser=lxml.etree.XMLParser(recover=True))
@@ -50,7 +53,7 @@ class GénérateurXML:
                     self.créer_éléments(enfant, élément_actuel)
 
     def convertir_nom(self, nom):
-        return nom.replace(" ", "_").replace("’", "ʼ")
+        return "".join([segment[0].upper() + segment[1:] for segment in regex.compile(r"[\s’]+").split(nom.replace(" ", "_").replace("’", "ʼ"))])
 
 
 class GénérateurLatex:
