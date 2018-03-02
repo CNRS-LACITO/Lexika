@@ -1,6 +1,6 @@
 ﻿formats:
     entrée:
-        MDF Alex:
+        MDF Isabelle:
             parent: MDF
             modèles:
                 ligne: ^\\(?P<balise>\w*)\s*(?P<métadonnées><([\w\s]+=[\w\"\s]+)+>)?\s*(?P<données>.*)
@@ -8,52 +8,42 @@
                 style: (?P<ensemble>(?P<style>fl|fv|fn|fr|fe|fs|fi):(?P<texte>[\w,.;:!?/\[\]\(\){}\~‘’'–_*+-]+))|(?P<ensemble>\\|(?P<style>fl|fv|fn|fr|fe|fs|fi){(?P<texte>[\w\s\[\],.;:!?/\[\]\(\){}\~‘’'–_*+-]+)})
             balises:
                 # Balises principales.
+                is:
+                    abstraction: domaine thématique
+                dialx:
+                    abstraction: région
+                ve: 
+                    abstraction: région de variante
                 lf:
                     abstraction: type de relation sémantique
                     drapeaux:
                         factorisation: lv
                 wr:
                     abstraction: nom de groupe
+                # Balises liées aux sens.
+                at:
+                    abstraction: glose de relation sémantique
                 # Balises liées aux définitions.
-                we:
-                    abstractions: 
-                        - nom: type d’étiquette
-                          valeur: syntaxe
-                          caractéristiques:
-                              langue: cible 1
-                        - nom: étiquette
-                          caractéristiques:
-                              langue: cible 1
-                    drapeaux:
-                        antéposition: de
-                wn:
-                    abstractions: 
-                        - nom: type de note
-                          valeur: syntax
-                          caractéristiques:
-                              langue: cible 2
-                        - nom: note
-                          caractéristiques:
-                              langue: cible 2
-                    drapeaux:
-                        antéposition: dn
-                he:
-                    abstraction: étiquette sémantique
+                dn:
+                    abstraction: définition
                     caractéristiques:
                         langue: cible 1
-#                    drapeaux:
-#                        antéposition: de
-                hn:
-                    abstraction: étiquette sémantique
+                # Balises liées aux exemples.
+                xn:
+                    abstraction: traduction d’exemple
                     caractéristiques:
-                        langue: cible 2
-#                    drapeaux:
-#                        antéposition: dn
-
-
+                        langue: cible 1
+                # Balises liées aux sous-entrées.
+                sge:
+                    abstraction: glose de sous-entrée
+                    caractéristiques:
+                        langue: cible 1
+                # Balises liées aux étymologies.
+                ea:
+                    abstraction: auteur d’étymologie
 
     sortie:
-        LMF Alex:
+        LMF Isabelle:
             parent: LMF
             modèles:
                 renvoi: ^(?P<entrée_lexicale>[\w\s~\[\].,\p{Spacing Modifier Letters}#$-]+?)(?P<numéro_dʼhomonyme>[\d]*)$"
@@ -91,6 +81,26 @@
                     spécial:
                         drapeaux: 
                             - renvoyable
+                domaine thématique:
+                    entité:
+                        nom: domaine thématique
+                    parent:
+                        nom:
+                            - entrée lexicale
+                            - sous-entrée lexicale
+                            - groupe     
+                région:
+                    entité: 
+                        nom: région
+                    parent:
+                        nom: 
+                            - lemme
+                            - exemple
+                région de variante:
+                    entité:
+                        nom: région
+                    parent:
+                        nom: variante
                 # Abstractions directement liées aux entrées.
                 classe grammaticale:
                     entité:
@@ -102,7 +112,16 @@
                             - groupe        
                     spécial:
                         drapeaux:
-                            - correspondance                
+                            - correspondance   
+                # Abstractions directement liées aux sous-entrées.   
+                glose de sous-entrée:
+                    entité:
+                        nom: glose
+                    parent:
+                        nom: sens
+                    préabstraction:
+                        nom: sens      
+                        voie: contextuelle    
                 # Abstractions directement liées aux sens.
                 sens:
                     entité:
@@ -115,4 +134,15 @@
                         conditions:
                             entité:
                                 nom: sous-entrée lexicale
-                                état: absent                
+                                état: absent         
+                glose de relation sémantique:
+                    entité:
+                        nom: glose
+                    parent:
+                        nom: relation sémantique     
+                # Abstractions directement liées aux étymologies.    
+                auteur d’étymologie:
+                    entité:
+                        nom: auteur
+                    parent:
+                        nom: étymon

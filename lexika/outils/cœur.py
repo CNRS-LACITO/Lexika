@@ -33,8 +33,7 @@ class Configuration:
                 if type_format in informations_linguistiques_supplémentaires["formats"]:
                     for nom_format, informations in informations_linguistiques_supplémentaires["formats"][type_format].items():
                         for sous_information in ["modèles", "balises", "abstractions", "identifiants", "abréviations"]:
-                            if informations.get(sous_information):
-                                informations[sous_information] = {**informations_linguistiques["formats"][type_format][informations["parent"]][sous_information], **informations[sous_information]}
+                            informations[sous_information] = {**informations_linguistiques["formats"][type_format][informations["parent"]].get(sous_information, {}), **informations.get(sous_information, {})}
                         informations_linguistiques["formats"][type_format].update(informations_linguistiques_supplémentaires["formats"][type_format])
         except KeyError as exception:
             logging.critical(_(f"Erreur dans le format de surdéfinition : clef de dictionnaire inconnue."))

@@ -169,7 +169,7 @@ class FormateurAmélioré(logging.Formatter):
         return f"[{self.traductions[enregistrement.levelname]}]\t{enregistrement.msg}"
 
 
-def créer_journalisation(nom_fichier):
+def créer_journalisation(nom_fichier, seuil):
     colorama.init(autoreset=True)
 
     with lexika.outils.OuvrirFichier(nom_fichier, 'w'):
@@ -183,7 +183,7 @@ def créer_journalisation(nom_fichier):
 
     journalisateur.setLevel(10)
     gestionnaire_fichier.setLevel(20)
-    gestionnaire_console.setLevel(50)
+    gestionnaire_console.setLevel(seuil)
 
     gestionnaire_fichier.setFormatter(formateur)
     gestionnaire_console.setFormatter(formateur)

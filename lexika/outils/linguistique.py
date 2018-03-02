@@ -74,13 +74,17 @@ class ConvertisseurDeTexteEnrichi:
     """
     Classe gérant la conversion des textes enrichis selon la configuration des balises (liens et styles divers).
     """
-    def __init__(self, modèles: list, structure: dict, source: dict, anéantir: bool = False):
-        self.modèle_style = regex.compile(modèles["style"])
-        self.modèle_lien = regex.compile(modèles["lien"])
-        self.format_style = "<style type=\"\g<style>\">\g<texte></style>" if not anéantir else "\g<texte>"    
-        self.source = {identifiant: entité for entité, identifiant in source.items()}        
-        self.constantes = {informations["ascendant"]: informations["constante"] for abstraction, informations in structure.items() if informations.get("type") != "facultatif"}
-        self.constantes_facultatives = {informations["ascendant"]: informations["constante"] for abstraction, informations in structure.items() if informations.get("type") == "facultatif"}
+    def __init__(self, modèles: list, structure: dict, source: dict):
+        self.convertisseur_expressions_rationnelles = ConvertisseurDʼExpressionsRationnelles()
+        self.modèles_lien, self.modèles_style, self.modèles_relation = self.préparer_modèles(modèles)
+        self.modèle_groupe = regex.compile(r"(?P<ensemble>\\g<(?P<clef>.+?)>)")
+        self.source = source
+        self.structure = structure
+        
+    def préparer_modèles(self, modèles):
+        for modèle in modèles:
+            modèle["origine"] = regex.compile(self.convertisseur_expressions_rationnelles.inconvertir(modèle["origine"]), flags=regex.V1)
+        return [[modèle for modèle in modèles if modèle["type"] == type] for type in ["lien", "style", "relation"]]
 
     def convertir_texte(self, texte: str) -> str:
         """
@@ -88,47 +92,59 @@ class ConvertisseurDeTexteEnrichi:
         """
         return self.convertir_styles(self.convertir_liens(texte))
     
-    def convertir_liens(self,  texte: str) -> str:
+    def convertir_liens(self, texte: str) -> str:
         """
         Convertit les différents liens en balises XML.
         """
-        return self.modèle_lien.sub(self.remplacer_par_identifiant, texte)  
+        for modèle in self.modèles_lien:
+            texte = modèle["origine"].sub(lambda bilan, modèle=modèle: self.convertir_lien_intra_expression(bilan, modèle), texte)
+        return texte   
     
     def convertir_styles(self, texte: str) -> str:
         """
         Convertit les différents styles en balises XML.
         """  
-        return self.modèle_style.sub(self.format_style, texte)        
+        for modèle in self.modèles_style:
+            texte = modèle["origine"].sub(modèle["but"], texte)
+        return texte     
 
-    def trouver_cible(self, texte: str, entités: list) -> str:
+    def trouver_cible(self, texte: str) -> str:
         """
-        Tente de trouver la cible d'un lien dans la source.
+        Tente de trouver la cible d'un lien dans la source, d'abord par recherche directe, puis par inférence d’identifiant.
         """
-        if entités:
-            for candidat in self.créer_candidats(texte, entités):
-                if candidat in self.source:
-                    return candidat
-        return None
+        résultat = self.source.get(texte)
+        if not résultat:
+            for candidat in self.créer_candidats(texte):
+                if candidat in self.source.values():
+                    résultat = candidat
+                    break
+        return résultat
     
-    def créer_candidats(self, texte: str, entités: list) -> list:
+    def créer_candidats(self, texte: str) -> list:
         """
-        Crée des identifiants de candidats potentiels selon les types d'entité.
+        Crée des identifiants de candidats potentiels.
         """
-        candidats = [f"{self.constantes[entité]}{texte}" for entité in entités]
-        candidats += [f"{self.constantes[entité]}{texte}{self.constantes_facultatives[entité]}1" for entité in entités if entité in self.constantes_facultatives]
+        candidats = []
+        for modèle in self.modèles_relation:
+            bilan = modèle["origine"].match(texte)
+            if bilan:
+                éléments = bilan.groupdict()
+                meilleur_candidat = ""
+                for élément in éléments:
+                    élément = self.convertisseur_expressions_rationnelles.exconvertir(élément)
+                    if élément in self.structure and bilan.group(self.convertisseur_expressions_rationnelles.inconvertir(élément)):
+                        meilleur_candidat += f"{self.structure[élément]['constante']}{bilan.group(self.convertisseur_expressions_rationnelles.inconvertir(élément))}"
+                candidats.append(meilleur_candidat)
         return candidats
     
-    def remplacer_par_identifiant(self, bilan):
+    def convertir_lien_intra_expression(self, bilan, modèle: dict):
         """
-        Crée le texte enrichi associé à un lien (trouvé ou non).
+        Convertit les liens dans les expressions rationnelles de remplacement.
         """
-        cible = self.trouver_cible(bilan.group("entrée"), ["entrée lexicale"])
-        if cible:
-            résultat = f"<lien cible=\"{cible}\">{bilan.group('entrée')}</lien>"
-        else:
-            résultat = f"<lien>{bilan.group('entrée')}</lien>"
-        return résultat
-
+        cible = self.trouver_cible(bilan.group(modèle["cible"]))
+        remplacements = {clef: valeur for clef, valeur in {**bilan.groupdict(), "cible": cible}.items() if valeur}
+        return self.modèle_groupe.sub(lambda bilan, remplacements=remplacements: remplacements.get(bilan.group("clef"), ""), modèle["but"] if cible else modèle["défaut"])
+        
         
 class ConvertisseurDʼAbréviations:
     """
@@ -144,6 +160,30 @@ class ConvertisseurDʼAbréviations:
         Convertit un terme d'une catégorie selon le dictionnaire interne dérivé de la configuration s'il est présent, le renvoie tel quel sinon.
         """
         return self.dictionnaire.get(catégorie, {}).get(terme, terme)
+    
+
+class ConvertisseurDʼExpressionsRationnelles:
+    """
+    Classe qui convertit les noms de groupe des expressions rationnelle pour les rendre compatibles avec la bibliothèque « regex ».
+    """
+    def __init__(self):
+        self.caractères = {" ": "_", "’": "ʼ"}
+        
+    def inconvertir(self, expression: str):
+        """
+        Convertit l’expression rationnelle de la réalité vers la norme de la bibliothèque.
+        """
+        for ancien_caractère, nouveau_caractère in self.caractères.items():
+            expression = expression.replace(ancien_caractère, nouveau_caractère)
+        return expression
+    
+    def exconvertir(self, expression: str):
+        """
+        Convertit l’expression rationnelle de la norme de la bibliothèque vers la réalité.
+        """
+        for nouveau_caractère, ancien_caractère in self.caractères.items():
+            expression = expression.replace(ancien_caractère, nouveau_caractère)
+        return expression
     
 
 

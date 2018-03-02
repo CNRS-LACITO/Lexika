@@ -3,13 +3,48 @@
         MDF Alexis:
             parent: MDF
             modèles:
-                ligne: ^\\(?P<balise>\w*)\s*(?P<métadonnées><([\w\s]+=[\w\"\s]+)+>)?\s*(?P<données>.*)
-                métadonnées: ([\w]+)=[\"\']?([\w\s]+)[\"\']?
-                style: (?P<ensemble>(?P<style>fl|fv|fn|fr|fe|fs|fi):(?P<texte>[\w,.;:!?/\[\]\(\){}\~‘’'–_*+-]+))|(?P<ensemble>\\|(?P<style>fl|fv|fn|fr|fe|fs|fi){(?P<texte>[\w\s\[\],.;:!?/\[\]\(\){}\~‘’'–_*+-]+)})
+                texte enrichi:
+                    - type: style
+                      origine: (?P<ensemble>(?P<style>fl|fn|fg|fr|fe|fs|fi|ax|vl):(?P<texte>.+?)(?P<fin>[\s\p{Punctuation}]))|(?P<ensemble>\|(?P<style>fl|fn|fg|fr|fe|fs|fi|ax|vl){(?P<texte>.+?)})
+                      but: <style type="\g<style>">\g<texte></style>\g<fin>
+                    - type: lien
+                      origine: (?P<ensemble>fv:/(?P<vedette>.+?)/)|(?P<ensemble>\|fv{/(?P<vedette>.+?)/})
+                      but: <lien cible="\g<cible>">\g<vedette></lien>
+                      défaut: <lien statut="brisé">\g<vedette></lien>
+                      cible: vedette
+                    - type: lien
+                      origine: (?P<ensemble>fv:(?P<vedette>.+?)(?P<fin>[[\s\p{Punctuation}]--[-]]))|(?P<ensemble>\|fv{(?P<vedette>.+?)})
+                      but: <lien cible="\g<cible>">\g<vedette></lien>
+                      défaut: <lien statut="brisé">\g<vedette></lien>
+                      cible: vedette
+                    - type: relation
+                      origine: (?P<ensemble>(?P<vedette>[^\d]+)(?P<numéro_dʼhomonyme>[\d]+)*)   
             balises:
                 # Balises liée à l'entrée.
                 ton:
                     abstraction: ton
+                # Balises liées aux sens.
+                cf:
+                    abstractions:
+                        - nom: cible de relation sémantique
+                        - nom: type de relation sémantique
+                          valeur: renvoi
+                    drapeaux:
+                        antéposition: de
+                sy:
+                    abstractions:
+                        - nom: cible de relation sémantique
+                        - nom: type de relation sémantique
+                          valeur: synonyme
+                    drapeaux:
+                        antéposition: de
+                an:
+                    abstractions:
+                        - nom: cible de relation sémantique
+                        - nom: type de relation sémantique
+                          valeur: antonyme
+                    drapeaux:
+                        antéposition: de
                 # Balises liées aux définitions.
                 df:
                     abstraction: définition
@@ -48,16 +83,14 @@
                     abstraction: traduction d’exemple
                     caractéristiques:
                         langue: cible 3
+                xc:
+                    abstraction: commentaire d’exemple
     sortie:
         LMF Alexis:
             parent: LMF
             modèles:
                 renvoi: ^(?P<entrée_lexicale>[\w\s~\[\].,\p{Spacing Modifier Letters}#$-]+?)(?P<numéro_dʼhomonyme>[\d]*)$"
             trieur: na
-            identifiants:
-                nom de groupe:
-                    constante: ⓖ
-                    ascendant: groupe
             abréviations:
                 classe grammaticale:
                     nom: n
@@ -77,11 +110,9 @@
                         nom: ton
                     parent:
                         nom: lemme      
-                classe grammaticale:
+                commentaire d’exemple:
                     entité:
-                        nom: classe grammaticale
+                        nom: commentaire d’exemple
                     parent:
-                        nom:
-                            - entrée lexicale
-                            - sous-entrée lexicale
+                        nom: exemple
 

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import lexika.outils
+import logging
 import regex
 
 
@@ -158,7 +159,6 @@ class NébuleuseDʼOrion:
         """
         self.témoin.nom_abstraction = abstraction.nom
         self.témoin.nom_abstraction_appelante = abstraction.appelants[-1].nom if abstraction.appelants else None        
-#        print(abstraction.appelants)
         # Cas singulier (racine, impérativement vers le début).
         if "racine" in abstraction.spécial.get("drapeaux", {}):
             self.racine = self.créer_entité(abstraction, None)
@@ -173,7 +173,7 @@ class NébuleuseDʼOrion:
                 if abstraction.préabstraction.get("voie") == "impérieuse":
                     self.témoin.information(_(f"Abstraction impérieuse à analyser au préalable : « {abstraction.préabstraction['nom']} »."))
                     self.analyser_abstraction(self.créateur_abstractions.créer_abstraction(noms_préabstractions[0], appelants=abstraction.appelants + [abstraction]))
-                # Voie hiérarchique : création selon les potentiels parents de l'ascendance.
+                # Voie contextuelle : création selon les potentiels parents de l'ascendance.
                 elif abstraction.préabstraction.get("voie") == "contextuelle":
                     préabstraction = abstraction.préabstraction["nom"][0]
                     noms_parents_potentiels = abstraction.parent["nom"] + self.créateur_abstractions.créer_abstraction(préabstraction, appelants=abstraction.appelants + [abstraction]).parent["nom"]
@@ -219,7 +219,6 @@ class NébuleuseDʼOrion:
             else:
                 self.déposer_abstraction(self.famille_actuelle[0], abstraction)
                 self.témoin.erreur(_(f"L’entité « {abstraction.entité['nom']} » de l’abstraction « {abstraction.nom} » ne semble pas avoir de parent adéquat « {abstraction.parent['nom']} » et a donc été entreposée."))
-
 
     def mettre_à_jour_entité(self, abstraction: lexika.outils.Abstraction, parent: lexika.outils.Entité):
         parent.caractéristiques[abstraction.entité["nom"]] = abstraction.entité["valeur"]
@@ -312,6 +311,7 @@ class NébuleuseDʼOrion:
         if not entités:
             entités = [entité for entité in (self.ascendance_actuelle[-2].descendance if len(self.ascendance_actuelle) > 1 and hasattr(self.ascendance_actuelle[-2], "descendance") else []) if entité.nom in noms]
 #            famille = list({entité.nom: entité for entité in self.famille_actuelle if entité.nom in noms}.values())
+        
         return entités
     
     def déposer_abstraction(self, entrée: lexika.outils.Entité, abstraction: lexika.outils.Abstraction):
@@ -367,22 +367,34 @@ class NébuleuseDʼOrion:
         identifiant_parent = parent[0].caractéristiques["identifiant"] if parent else ""
         identifiant = f"{identifiant_parent}{informations_identifiant['constante']}{abstraction.entité['valeur']}"
         entité.caractéristiques["identifiant"] = identifiant
-        if "renvoyable" in abstraction.spécial.get("drapeaux", []):
-            self.identifiants[entité] = identifiant
             
     def connecter_liens(self):
         """
-        Connecte les liens.
+        Connecte les liens (cibles avec identifiant).
         """
-        self.convertisseur_texte_enrichi = lexika.outils.ConvertisseurDeTexteEnrichi(self.configuration.informations_entrée["modèles"], self.configuration.informations_sortie["identifiants"], self.identifiants)
+        self.rapatrier_renvois(self.racine)
+        self.convertisseur_texte_enrichi = lexika.outils.ConvertisseurDeTexteEnrichi(self.configuration.informations_entrée["modèles"]["texte enrichi"], self.configuration.informations_sortie["identifiants"], self.identifiants)
         self.connecter_lien(self.racine)
+        
+    def rapatrier_renvois(self, entité: lexika.outils.Entité, identifiant: str = None):
+        """
+        Rapatrie tous les éléments susceptibles d’être renvoyés pour des liens.
+        """   
+        identifiant = entité.caractéristiques.get("identifiant", identifiant)
+        if hasattr(entité, "spécial") and "renvoyable" in entité.spécial.get("drapeaux", {}):
+            if entité.valeur in self.identifiants:
+                logging.warning(_(f"Le renvoi « {entité.valeur} » est déjà présent dans la liste des identifiants en tant que « {self.identifiants[entité.valeur]} » et ne sera pas remplacé par « {identifiant} »."))
+            self.identifiants[entité.valeur] = self.identifiants.get(entité.valeur, identifiant)
+        if hasattr(entité, "descendance"):
+            for enfant in entité.descendance:
+                self.rapatrier_renvois(enfant, identifiant)
     
     def connecter_lien(self, entité: lexika.outils.Entité):
         """
         Connecte récursivement les liens (directs ou inclus dans des texte enrichis).
         """
-        if hasattr(entité, "structure") and entité.structure.get("lien"):
-            cible = self.convertisseur_texte_enrichi.trouver_cible(entité.valeur, entité.structure["lien"])
+        if hasattr(entité, "spécial") and "lien" in entité.spécial.get("drapeaux", {}):
+            cible = self.convertisseur_texte_enrichi.trouver_cible(entité.valeur)
             if cible:
                 entité.caractéristiques["cible"] = cible
         if hasattr(entité, "spécial") and "texte enrichi" in entité.spécial.get("drapeaux", {}):

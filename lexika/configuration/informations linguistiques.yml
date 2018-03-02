@@ -4,8 +4,18 @@
             modèles:
                 ligne: ^\\(?P<balise>\w*)\s*(?P<métadonnées><([\w\s]+=[\w\"\s]+)+>)?\s*(?P<données>.*)
                 métadonnées: ([\w]+)=[\"\']?([\w\s]+)[\"\']?
-                style: (?P<ensemble>(?P<style>fl|fv|fn|fr|fe|fs|fi|ax|vl):(?P<texte>[\w,.;:!?/\[\]\(\){}\~‘’'–_*+-]+))|(?P<ensemble>\\|(?P<style>fl|fv|fn|fr|fe|fs|fi|ax|vl){(?P<texte>[\w\s\[\],.;:!?/\[\]\(\){}\~‘’'–_*+-]+)})
-                lien: (?P<ensemble>(fv:(?P<entrée>[\w\~-]+))+(\|hm{(?P<homonyme>[\d]+)})*)
+                texte enrichi:
+                    # Par ordre de priorité décroissante.
+                    - type: style
+                      origine: (?P<ensemble>(?P<style>fl|fn|fg|fr|fe|fs|fi|ax|vl):(?P<texte>.+?)(?P<fin>[\s\p{Punctuation}]))|(?P<ensemble>\|(?P<style>fl|fn|fg|fr|fe|fs|fi|ax|vl){(?P<texte>.+?)})
+                      but: <style type="\g<style>">\g<texte></style>\g<fin>
+                    - type: lien
+                      origine: (?P<ensemble>fv:(?P<vedette>.+?)(?P<fin>[[\s\p{Punctuation}]--[-]]))|(?P<ensemble>\|fv{(?P<vedette>.+?)})
+                      but: <lien cible="\g<cible>">\g<vedette></lien>\g<fin>
+                      défaut: <lien statut="brisé">\g<vedette></lien>\g<fin>
+                      cible: vedette
+                    - type: relation
+                      origine: (?P<ensemble>(?P<vedette>[^\d]+)(?P<numéro_dʼhomonyme>[\d]+)*)            
             balises:
                 # Balises générales.
                 _sh:
@@ -18,6 +28,8 @@
                 se:
                     abstraction: sous-vedette
                 # Balises liées aux entrées.
+                va: 
+                    abstraction: variante lexicale
                 hm:
                     abstraction: numéro d’homonyme
                 la:
@@ -57,19 +69,19 @@
                     abstraction: domaine sémantique
                 cf:
                     abstractions:
+                        - nom: cible de relation sémantique
                         - nom: type de relation sémantique
                           valeur: renvoi
-                        - nom: cible de relation sémantique
                 sy:
                     abstractions:
+                        - nom: cible de relation sémantique
                         - nom: type de relation sémantique
                           valeur: synonyme
-                        - nom: cible de relation sémantique
                 an:
                     abstractions:
+                        - nom: cible de relation sémantique
                         - nom: type de relation sémantique
                           valeur: antonyme
-                        - nom: cible de relation sémantique
                 lf:
                     abstraction: type de relation sémantique
                 lv:
@@ -107,6 +119,8 @@
                     abstraction: traduction littérale
                     caractéristiques:
                         langue: cible 2
+                sc:
+                    abstraction: nom scientifique
                 # Balises liées aux exemples.
                 xv:
                     abstraction: exemple
@@ -143,13 +157,15 @@
                     abstraction: date de début d’étymon
                 edf: 
                     abstraction: date de fin d’étymon
+                bw:
+                    abstraction: emprunt
                 # Balises diverses.
                 rf:
                     abstraction: référence
     sortie:
         LMF:
             modèles:
-                renvoi: ^(?P<entrée_lexicale>[\w\s~\[\].,\p{Spacing Modifier Letters}#$-]+?)(?P<numéro_dʼhomonyme>[\d]*)$"
+                renvoi: ^(?P<entrée_lexicale>[\w\s~\[\].,\p{Spacing Modifier Letters}#$-]+?)(?P<numéro_d’homonyme>[\d]*)$"
             identifiants:
                 vedette:
                     constante: ⓔ
@@ -244,6 +260,9 @@
                 vedette:
                     entité:
                         nom: forme écrite
+                        spécial:
+                            drapeaux: 
+                                - renvoyable
                     parent:
                         nom: lemme
                     préabstraction:
@@ -251,11 +270,13 @@
                         voie: impérieuse
                     spécial:
                         drapeaux: 
-                            - renvoyable
                             - identifiant
                 sous-vedette:
                     entité:
                         nom: forme écrite
+                        spécial:
+                            drapeaux: 
+                                - renvoyable
                     parent:
                         nom: lemme
                     préabstraction:
@@ -263,7 +284,6 @@
                         voie: impérieuse
                     spécial:
                         drapeaux:
-                            - renvoyable
                             - identifiant
                 # Abstractions directement liées aux entrées.
                 lemme:
@@ -288,6 +308,19 @@
                     spécial:
                         drapeaux:
                             - bloc
+                bloc variante:
+                    entité:
+                        nom: variante
+                    parent:
+                        nom: lemme
+                variante lexicale:
+                    entité:
+                        nom: représentation de forme
+                    parent:
+                        nom: variante
+                    préabstraction:
+                        nom: bloc variante
+                        voie: impérieuse
                 numéro d’homonyme:
                     entité:
                         nom: numéro d’homonyme
@@ -295,11 +328,13 @@
                         nom: entrée lexicale
                     spécial:
                         drapeaux:
-                            - renvoyable
                             - identifiant
                 forme de citation:
                     entité:
                         nom: forme de citation
+                        spécial:
+                            drapeaux: 
+                                - renvoyable
                     parent:
                         nom: lemme
                 forme de surface:
@@ -400,10 +435,9 @@
                 cible de relation sémantique:
                     entité:
                         nom: cible
-                        structure:
-                            lien:
-                                - entrée lexicale
-                                - sous-entrée lexicale
+                        spécial:
+                            drapeaux:
+                                - lien
                     parent:
                         nom: relation sémantique
                         conditions:
@@ -439,7 +473,7 @@
                         nom: représentation de texte
                         spécial:
                             drapeaux:
-                                - texte enrichi                            
+                                - texte enrichi                      
                     parent:
                         nom: définition
                     préabstraction:
@@ -496,6 +530,14 @@
                             caractéristiques:
                                 égalité:
                                     - langue
+                nom scientifique:
+                    entité:
+                        nom: nom scientifique
+                    parent:
+                        nom: sens
+                    préabstraction:
+                        nom: sens
+                        voie: contextuelle
                 # Abstractions directement liées aux exemples.
                 bloc exemple:
                     entité:
@@ -568,6 +610,11 @@
                         nom: étymon
                         conditions:
                             entité: absente
+                emprunt:
+                    entité:
+                        nom: emprunt
+                    parent:
+                        nom: entrée lexicale
                 # Abstractions diverses
                 référence:
                     entité:

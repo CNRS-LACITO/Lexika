@@ -6,14 +6,14 @@
     <xsl:variable name="majuscules" select="'ABCDEĒFGHIJKLMM̄N̄NOŌPQRSTUVWXYZ'" />
     
     <xsl:param name="racine"/>
-    <xsl:param name="languen"/>
+    <xsl:param name="languev"/>
     <xsl:param name="langue1"/>
     <xsl:param name="langue2"/>
     <xsl:param name="langue3"/>
     <xsl:param name="caractère" select="'*'"/>
 
     <xsl:variable name="langues">
-        <langue><xsl:value-of select="$languen"/></langue>
+        <langue><xsl:value-of select="$languev"/></langue>
         <langue><xsl:value-of select="$langue1"/></langue>
         <langue><xsl:value-of select="$langue2"/></langue>
         <langue><xsl:value-of select="$langue3"/></langue>
@@ -90,7 +90,7 @@
                             <xsl:attribute name="class">nav-link</xsl:attribute>
                             <xsl:attribute name="href">
                                 <xsl:call-template name="adresse">
-                                    <xsl:with-param name="languen" select="'mlv'"/>
+                                    <xsl:with-param name="languev" select="'mlv'"/>
                                     <xsl:with-param name="langue1" select="'bis'"/>
                                     <xsl:with-param name="langue2" select="'fra'"/>
                                     <xsl:with-param name="langue3" select="'eng'"/>
@@ -105,7 +105,7 @@
                             <xsl:attribute name="class">nav-link</xsl:attribute>
                             <xsl:attribute name="href">
                                 <xsl:call-template name="adresse">
-                                    <xsl:with-param name="languen" select="'mlv'"/>
+                                    <xsl:with-param name="languev" select="'mlv'"/>
                                     <xsl:with-param name="langue1" select="'bis'"/>
                                     <xsl:with-param name="langue2" select="'eng'"/>
                                     <xsl:with-param name="langue3" select="'fra'"/>
@@ -120,7 +120,7 @@
                             <xsl:attribute name="class">nav-link</xsl:attribute>
                             <xsl:attribute name="href">
                                 <xsl:call-template name="adresse">
-                                    <xsl:with-param name="languen" select="'mlv'"/>
+                                    <xsl:with-param name="languev" select="'mlv'"/>
                                     <xsl:with-param name="langue1" select="'fra'"/>
                                     <xsl:with-param name="caractère" select="$caractère"/>
                                 </xsl:call-template>
@@ -133,7 +133,7 @@
                             <xsl:attribute name="class">nav-link</xsl:attribute>
                             <xsl:attribute name="href">
                                 <xsl:call-template name="adresse">
-                                    <xsl:with-param name="languen" select="'mlv'"/>
+                                    <xsl:with-param name="languev" select="'mlv'"/>
                                     <xsl:with-param name="langue1" select="'eng'"/>
                                     <xsl:with-param name="caractère" select="$caractère"/>
                                 </xsl:call-template>
@@ -151,7 +151,7 @@
                             <xsl:attribute name="class">nav-link</xsl:attribute>
                             <xsl:attribute name="href">
                                 <xsl:call-template name="adresse">
-                                    <xsl:with-param name="languen" select="'mlv'"/>
+                                    <xsl:with-param name="languev" select="'mlv'"/>
                                     <xsl:with-param name="langue1" select="'fra'"/>
                                     <xsl:with-param name="langue2" select="'eng'"/>
                                     <xsl:with-param name="caractère" select="$caractère"/>
@@ -202,8 +202,7 @@
         </form>
     </xsl:template>
         
-    <xsl:template name="sélecteur_langue">                
-
+    <xsl:template name="sélecteur_langue">
     </xsl:template>
 
     <xsl:template name="index">
@@ -631,32 +630,35 @@
     </xsl:template>
 
     <xsl:template match="lien">
-        <xsl:element name="a">
-<!--            <xsl:attribute name="target">
-                <xsl:text>_blank</xsl:text>
-            </xsl:attribute>-->
-		<xsl:attribute name="class">
-                <xsl:text>lien_ok</xsl:text>
-            </xsl:attribute>
-            <xsl:attribute name="href">
-                <xsl:call-template name="adresse">
-                    <xsl:with-param name="languen" select="$languen"/>
-                    <xsl:with-param name="langue1" select="$langue1"/>
-                    <xsl:with-param name="langue2" select="$langue2"/>
-                    <xsl:with-param name="langue3" select="$langue3"/>
-                    <xsl:with-param name="caractère" select="substring(@cible, 2, 1)"/>
-                </xsl:call-template>
-                <xsl:text>#</xsl:text>
-                <xsl:value-of select="@cible"/>
-            </xsl:attribute>
-            <xsl:value-of select="."/>
-        </xsl:element>
-    </xsl:template>
-
-    <xsl:template match="non_lien">
-        <span class="lien_brisé">
-            <xsl:value-of select="."/>
-        </span>
+        <xsl:choose>
+            <xsl:when test="not(@statut = 'brisé')">
+                <xsl:element name="a">
+        <!--            <xsl:attribute name="target">
+                        <xsl:text>_blank</xsl:text>
+                    </xsl:attribute>-->
+            		<xsl:attribute name="class">
+                        <xsl:text>lien_ok</xsl:text>
+                    </xsl:attribute>
+                    <xsl:attribute name="href">
+                        <xsl:call-template name="adresse">
+                            <xsl:with-param name="languev" select="$languev"/>
+                            <xsl:with-param name="langue1" select="$langue1"/>
+                            <xsl:with-param name="langue2" select="$langue2"/>
+                            <xsl:with-param name="langue3" select="$langue3"/>
+                            <xsl:with-param name="caractère" select="substring(@cible, 2, 1)"/>
+                        </xsl:call-template>
+                        <xsl:text>#</xsl:text>
+                        <xsl:value-of select="@cible"/>
+                    </xsl:attribute>
+                    <xsl:value-of select="."/>
+                </xsl:element>
+            </xsl:when>
+            <xsl:otherwise>
+                <span class="lien_brisé">
+                    <xsl:value-of select="."/>
+                </span>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
 
     <xsl:template match="style">
@@ -677,21 +679,21 @@
             <xsl:when test="$code = $langue2">
                 <xsl:value-of select="'langue2'"/>
             </xsl:when>
-            <xsl:when test="$code = $languen">
-                <xsl:value-of select="'languen'"/>
+            <xsl:when test="$code = $languev">
+                <xsl:value-of select="'languev'"/>
             </xsl:when>
         </xsl:choose>
     </xsl:template>
     
     <xsl:template name="adresse">
-        <xsl:param name="languen"/>
+        <xsl:param name="languev"/>
         <xsl:param name="langue1"/>
         <xsl:param name="langue2"/>
         <xsl:param name="langue3"/>
         <xsl:param name="caractère"/>
         <xsl:value-of select="$racine"/>
-        <xsl:text>?languen=</xsl:text>
-        <xsl:value-of select="$languen"/>
+        <xsl:text>?languev=</xsl:text>
+        <xsl:value-of select="$languev"/>
         <xsl:text>&amp;langue1=</xsl:text>
         <xsl:value-of select="$langue1"/>
         <xsl:if test="$langue2">

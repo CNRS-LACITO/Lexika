@@ -9,12 +9,13 @@ général:
   nom: Essai d’un dictionnaire
   auteur: Isabelle Bril
   commentaire: LMF-α
-  ordre lexicographique: [a, b, d, e, ē, g, h, i, k, l, m, m̄, n, [̄n, n̄], o, ō, q, r, s, t, u, v, w, y]
+  ordre lexicographique: 
+    - [[a, ã], b, bw, c, ç, ch, d, dr, [e, è, ẽ, ê], f, fh, g, h, [i, î], j, k, kh, l, lh, m, mh, ń, n, ńh, nh, [o, ò, õ, ô], p, ph, r, rh, s, sh, t, tr, th, thr, [u, û], v, vh, vw, w, wh, x, y, yh, z, zh]
 langues:
   nua:
       type de caractères: latin
-      autoglossonyme: yuanga
-      glossonyme: yuanga
+      autoglossonyme: yuanga-zuanga
+      glossonyme: yuanga-zuanga
       statut: source
   fra:
       type de caractères: latin
@@ -25,11 +26,6 @@ langues:
       type de caractères: latin
       autoglossonyme: English
       glossonyme: anglais
-      statut: cible
-  bis:
-      type de caractères: latin
-      autoglossonyme: Bislama
-      glossonyme: bichelamar
       statut: cible
 XML:
   chemin cible: exemples/yuanga/yuanga.xml

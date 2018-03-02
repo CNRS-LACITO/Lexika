@@ -1,4 +1,2 @@
-Voir si cela vaut le coup de permettre à une entité de pouvoir exister en tant qu'enfant d'elle-même (objet de type Sens comprenant des objets identiques) : difficulté de trouver le bon parent à cause de l'ambiguïté...
+
 Permettre des attributs listes
-améliorer la recherche de parents (conditions, etc.)
-transformer en yml les normes anglaises

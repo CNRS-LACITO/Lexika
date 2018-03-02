@@ -5,7 +5,22 @@
             modèles:
                 ligne: ^\\(?P<balise>\w*)\s*(?P<métadonnées><([\w\s]+=[\w\"\s]+)+>)?\s*(?P<données>.*)
                 métadonnées: ([\w]+)=[\"\']?([\w\s]+)[\"\']?
-                style: (?P<ensemble>(?P<style>fl|fv|fn|fr|fe|fs|fi|vl|ax):(?P<texte>[\w,.;:!?/\[\]\(\){}\~‘’'–_*+-]+))|(?P<ensemble>\|(?P<style>fl|fv|fn|fr|fe|fs|fi|vl|ax){(?P<texte>[\w\s\[\],.;:!?/\[\]\(\){}\~‘’'–_*+-]+)})
+                texte enrichi:
+                    - type: style
+                      origine: (?P<ensemble>(?P<style>fl|fn|fg|fr|fe|fs|fi|ax):(?P<texte>.+?)(?P<fin>[\s\p{Punctuation}]))|(?P<ensemble>\|(?P<style>fl|fn|fg|fr|fe|fs|fi|ax){(?P<texte>.+?)})
+                      but: <style type="\g<style>">\g<texte></style>\g<fin>
+                    - type: lien
+                      origine: (?P<ensemble>(fv|vl):(?P<vedette>.+?)(?P<fin>[[\s\p{Punctuation}]--[-]]))|(?P<ensemble>\|(fv|vl){(?P<vedette>.+?)})
+                      but: <lien cible="\g<cible>">\g<vedette></lien>\g<fin>
+                      défaut: <lien statut="brisé">\g<vedette></lien>\g<fin>
+                      cible: vedette
+                    - type: lien
+                      origine: (?P<ensemble><(?P<type>phrasème(?!.<variante>)|variante)>(?P<vedette>.+?)</(?P=type)>)
+                      but: <\g<type>><lien cible="\g<cible>">\g<vedette></lien></\g<type>>
+                      défaut: <\g<type>><lien statut="brisé">\g<vedette></lien></\g<type>>
+                      cible: vedette
+                    - type: relation
+                      origine: (?P<ensemble>(?P<vedette>[^\d]+)(?P<numéro_dʼhomonyme>[\d]+)*)   
             balises:
                 # Balises principales.
                 lf:
@@ -78,12 +93,6 @@
                         langue: cible 2
                 rft:
                     abstraction: référence de tableau
-
-                
-                
-
-
-
     sortie:
         LMF Alex:
             parent: LMF
@@ -122,7 +131,7 @@
                         voie: impérieuse
                     spécial:
                         drapeaux: 
-                            - renvoyable
+                            - identifiant
                 # Abstractions directement liées aux entrées.
                 classe grammaticale:
                     entité:

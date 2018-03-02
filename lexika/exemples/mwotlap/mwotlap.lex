@@ -4288,13 +4288,13 @@ faire) / ça convient parfaitement!
 \tie Les jeux de cartes
 \tin Playing cards
 \tiv na-mlekat
-\con <groupe><phraseme>na-kat</phraseme><tradf>cartes à jouer</tradf><trada>playing cards</trada></groupe>
-<groupe><phraseme>belemle</phraseme><tradf>jouer aux cartes</tradf><trada>play cards</trada></groupe>
-<groupe><phraseme>na-hat</phraseme><tradf>cœur</tradf><trada>heart</trada></groupe>
-<groupe><phraseme>na-taēman</phraseme><tradf>carreau</tradf><trada>diamonds</trada></groupe>
-<groupe><phraseme><variante>ni-bik</variante><variante>nē-sbēit</variante></phraseme><tradf>pique</tradf><trada>spades</trada></groupe>
-<groupe><phraseme>na-kalap</phraseme><tradf>trèfle</tradf><trada>clubs</trada></groupe>
-<groupe><phraseme>na-las</phraseme><tradf>as</tradf><trada>ace</trada></groupe>
+\con <groupe><phrasème>na-kat</phrasème><tradf>cartes à jouer</tradf><trada>playing cards</trada></groupe>
+<groupe><phrasème>belemle</phrasème><tradf>jouer aux cartes</tradf><trada>play cards</trada></groupe>
+<groupe><phrasème>na-hat</phrasème><tradf>cœur</tradf><trada>heart</trada></groupe>
+<groupe><phrasème>na-taēman</phrasème><tradf>carreau</tradf><trada>diamonds</trada></groupe>
+<groupe><phrasème><variante>ni-bik</variante><variante>nē-sbēit</variante></phrasème><tradf>pique</tradf><trada>spades</trada></groupe>
+<groupe><phrasème>na-kalap</phrasème><tradf>trèfle</tradf><trada>clubs</trada></groupe>
+<groupe><phrasème>na-las</phrasème><tradf>as</tradf><trada>ace</trada></groupe>
 \nt
 \nq
 \dc 21/Dec/2003
@@ -8261,17 +8261,17 @@ cocotiers en forêt, puis un ou deux jours plus tard passent les relever.
 \tie Lexique du chant
 \tin The lexicon of singing
 \tiv n-eh
-\con <groupe><phraseme>n-eh</phraseme><tradf>chant, chanson</tradf><trada>song, singing</trada></groupe>
-<groupe><phraseme>na-he~2</phraseme><tradf>chant en l'honneur de qqn</tradf><trada>song about s.o.</trada></groupe>
-<groupe><phraseme>tow</phraseme><tradf>composer</tradf><trada>compose</trada></groupe>
-<groupe><phraseme>se2</phraseme><tradf>chanter [†]</tradf><trada>sing [†]</trada></groupe>
-<groupe><phraseme>qētlen̄</phraseme><tradf>chanter [‡]</tradf><trada>sing [‡]</trada></groupe>
-<groupe><phraseme>hēgeg</phraseme><tradf>entonner</tradf><trada>*start singing*</trada></groupe>
-<groupe><phraseme>nō-tōti eh</phraseme><tradf>incipit; genre</tradf><trada>incipit, genre</trada></groupe>
-<groupe><phraseme>na-vasig</phraseme><tradf>couplet</tradf><trada>stanza</trada></groupe>
-<groupe><phraseme>ēleg goy</phraseme><tradf>chanter la coda</tradf><trada>sing the coda</trada></groupe>
-<groupe><phraseme>til kal</phraseme><tradf>monter vers les aigus</tradf><trada>go up to treble</trada></groupe>
-<groupe><phraseme>til tēqēl</phraseme><tradf>descendre vers les graves</tradf><trada>go down to bass notes</trada></groupe>
+\con <groupe><phrasème>n-eh</phrasème><tradf>chant, chanson</tradf><trada>song, singing</trada></groupe>
+<groupe><phrasème>na-he~2</phrasème><tradf>chant en l'honneur de qqn</tradf><trada>song about s.o.</trada></groupe>
+<groupe><phrasème>tow</phrasème><tradf>composer</tradf><trada>compose</trada></groupe>
+<groupe><phrasème>se2</phrasème><tradf>chanter [†]</tradf><trada>sing [†]</trada></groupe>
+<groupe><phrasème>qētlen̄</phrasème><tradf>chanter [‡]</tradf><trada>sing [‡]</trada></groupe>
+<groupe><phrasème>hēgeg</phrasème><tradf>entonner</tradf><trada>*start singing*</trada></groupe>
+<groupe><phrasème>nō-tōti eh</phrasème><tradf>incipit; genre</tradf><trada>incipit, genre</trada></groupe>
+<groupe><phrasème>na-vasig</phrasème><tradf>couplet</tradf><trada>stanza</trada></groupe>
+<groupe><phrasème>ēleg goy</phrasème><tradf>chanter la coda</tradf><trada>sing the coda</trada></groupe>
+<groupe><phrasème>til kal</phrasème><tradf>monter vers les aigus</tradf><trada>go up to treble</trada></groupe>
+<groupe><phrasème>til tēqēl</phrasème><tradf>descendre vers les graves</tradf><trada>go down to bass notes</trada></groupe>
 \nt |{tab}|fv{ni-titi}  |{tab}refrain  =  ???
 \nt won-eh, yon̄-eh... G4-94
 \se n-eh liwo
@@ -8711,24 +8711,24 @@ fv:den): |fl{d'où} recouvrir, cacher; faire obstacle
 \tie Lexique du feu
 \tin The lexicon of fire
 \tiv n-ep
-\con <groupe><phraseme>vahn̄ēt n-ep</phraseme>  <tradf>préparer un feu</tradf> <trada>prepare fire</trada></groupe>
-<groupe><phraseme>galeg n-ep</phraseme>  <tradf>faire un feu</tradf> <trada>make a fire</trada></groupe>
-<groupe><phraseme>ti n-ep</phraseme>  <tradf>allumer un feu</tradf> <trada>light a fire</trada></groupe>
-<groupe><phraseme><variante>seswo-ep</variante><variante>hoh n-ep</variante></phraseme>  <tradf>frotter le feu</tradf> <trada>rub [sticks to make] fire</trada></groupe>
-<groupe><phraseme>hit n-ep</phraseme>  <tradf>transporter le feu</tradf> <trada>carry fire on torch</trada></groupe>
-<groupe><phraseme>weyeh n-ep</phraseme>  <tradf>attiser le feu</tradf> <trada>fan fire</trada></groupe>
-<groupe><phraseme>bē n-ep hiy</phraseme>  <tradf>mettre le feu à</tradf> <trada>set s.th. alight</trada></groupe>
-<groupe><phraseme>n-ep ni-gen</phraseme>  <tradf>le feu prend</tradf> <trada>‹fire› catch</trada></groupe>
-<groupe><phraseme>n-ep ni-lawlaw</phraseme>  <tradf>le feu brûle</tradf> <trada>‹fire› be alight</trada></groupe>
-<groupe><phraseme>n-ep ni-lal</phraseme>  <tradf>le feu couve</tradf> <trada>‹fire› smoulder</trada></groupe>
-<groupe><phraseme>na-gayme ep</phraseme>  <tradf>les flammes</tradf> <trada>flames</trada></groupe>
-<groupe><phraseme>ne-sew ne ep</phraseme>  <tradf>la chaleur du feu</tradf> <trada>heat of fire</trada></groupe>
-<groupe><phraseme>nē-gēmlaw ne ep</phraseme>  <tradf>la lueur du feu</tradf> <trada>glow of fire</trada></groupe>
-<groupe><phraseme>ne-bemyowyow</phraseme>  <tradf>les étincelles</tradf> <trada>sparks of fire</trada></groupe>
-<groupe><phraseme>na-lēt</phraseme>  <tradf>le bois à brûler</tradf> <trada>firewood</trada></groupe>
-<groupe><phraseme>na-qan̄ye masn̄ēt</phraseme>  <tradf>le tison</tradf> <trada>fire brand</trada></groupe>
-<groupe><phraseme>na-hō</phraseme>  <tradf>la fumée</tradf> <trada>smoke</trada></groupe>
-<groupe><phraseme>nō-wōwō</phraseme>  <tradf>les cendres</tradf> <trada>ashes</trada></groupe>
+\con <groupe><phrasème>vahn̄ēt n-ep</phrasème>  <tradf>préparer un feu</tradf> <trada>prepare fire</trada></groupe>
+<groupe><phrasème>galeg n-ep</phrasème>  <tradf>faire un feu</tradf> <trada>make a fire</trada></groupe>
+<groupe><phrasème>ti n-ep</phrasème>  <tradf>allumer un feu</tradf> <trada>light a fire</trada></groupe>
+<groupe><phrasème><variante>seswo-ep</variante><variante>hoh n-ep</variante></phrasème>  <tradf>frotter le feu</tradf> <trada>rub [sticks to make] fire</trada></groupe>
+<groupe><phrasème>hit n-ep</phrasème>  <tradf>transporter le feu</tradf> <trada>carry fire on torch</trada></groupe>
+<groupe><phrasème>weyeh n-ep</phrasème>  <tradf>attiser le feu</tradf> <trada>fan fire</trada></groupe>
+<groupe><phrasème>bē n-ep hiy</phrasème>  <tradf>mettre le feu à</tradf> <trada>set s.th. alight</trada></groupe>
+<groupe><phrasème>n-ep ni-gen</phrasème>  <tradf>le feu prend</tradf> <trada>‹fire› catch</trada></groupe>
+<groupe><phrasème>n-ep ni-lawlaw</phrasème>  <tradf>le feu brûle</tradf> <trada>‹fire› be alight</trada></groupe>
+<groupe><phrasème>n-ep ni-lal</phrasème>  <tradf>le feu couve</tradf> <trada>‹fire› smoulder</trada></groupe>
+<groupe><phrasème>na-gayme ep</phrasème>  <tradf>les flammes</tradf> <trada>flames</trada></groupe>
+<groupe><phrasème>ne-sew ne ep</phrasème>  <tradf>la chaleur du feu</tradf> <trada>heat of fire</trada></groupe>
+<groupe><phrasème>nē-gēmlaw ne ep</phrasème>  <tradf>la lueur du feu</tradf> <trada>glow of fire</trada></groupe>
+<groupe><phrasème>ne-bemyowyow</phrasème>  <tradf>les étincelles</tradf> <trada>sparks of fire</trada></groupe>
+<groupe><phrasème>na-lēt</phrasème>  <tradf>le bois à brûler</tradf> <trada>firewood</trada></groupe>
+<groupe><phrasème>na-qan̄ye masn̄ēt</phrasème>  <tradf>le tison</tradf> <trada>fire brand</trada></groupe>
+<groupe><phrasème>na-hō</phrasème>  <tradf>la fumée</tradf> <trada>smoke</trada></groupe>
+<groupe><phrasème>nō-wōwō</phrasème>  <tradf>les cendres</tradf> <trada>ashes</trada></groupe>
 \se n-ep yayah
 \ps n
 \gr majis
@@ -9054,13 +9054,13 @@ they like you?]
 \tie Marqueurs de négation
 \tin Negation markers
 \tiv et-3
-\con <groupe><phraseme>et- V te</phraseme>  <tradf>ne fait pas ~ n'a pas fait</tradf> <trada>doesn't do ~ hasn't done</trada></groupe>
-<groupe><phraseme>et- V qete</phraseme>  <tradf>n'a pas encore fait</tradf> <trada>hasn't done yet</trada></groupe>
-<groupe><phraseme>et- V si te</phraseme>  <tradf>ne fait plus</tradf> <trada>does no more</trada></groupe>
-<groupe><phraseme>tit- V te</phraseme>  <tradf>ne fera pas</tradf> <trada>won't do</trada></groupe>
-<groupe><phraseme>tit- V vēste</phraseme>  <tradf>ne peut pas faire</tradf> <trada>can't do</trada></groupe>
-<groupe><phraseme>taple V</phraseme>  <tradf>qu'il ne fasse pas</tradf> <trada>so he doesn't do</trada></groupe>
-<groupe><phraseme>nitog V</phraseme>  <tradf>ne fais pas !</tradf> <trada>don't do!</trada></groupe>
+\con <groupe><phrasème>et- V te</phrasème>  <tradf>ne fait pas ~ n'a pas fait</tradf> <trada>doesn't do ~ hasn't done</trada></groupe>
+<groupe><phrasème>et- V qete</phrasème>  <tradf>n'a pas encore fait</tradf> <trada>hasn't done yet</trada></groupe>
+<groupe><phrasème>et- V si te</phrasème>  <tradf>ne fait plus</tradf> <trada>does no more</trada></groupe>
+<groupe><phrasème>tit- V te</phrasème>  <tradf>ne fera pas</tradf> <trada>won't do</trada></groupe>
+<groupe><phrasème>tit- V vēste</phrasème>  <tradf>ne peut pas faire</tradf> <trada>can't do</trada></groupe>
+<groupe><phrasème>taple V</phrasème>  <tradf>qu'il ne fasse pas</tradf> <trada>so he doesn't do</trada></groupe>
+<groupe><phrasème>nitog V</phrasème>  <tradf>ne fais pas !</tradf> <trada>don't do!</trada></groupe>
 \tb §TIT§ fb:Morphèmes_discontinus_de_négation
   fv:et V fv:te2|{tab}je ne fais pas / je n'ai pas fait
   fv:et V fv:qete|{tab}je n'ai pas encore fait
@@ -10113,15 +10113,15 @@ house.
 \tie Les parties de la maison
 \tin Main parts of a house
 \tiv n-ēm̄
-\con <groupe><phraseme>no-yot</phraseme> <tradf>toit de feuilles</tradf> <trada>thatch roof</trada></groupe>
-<groupe><phraseme>ni-vinhe</phraseme> <tradf>bambou (des murs)</tradf> <trada>bamboo</trada></groupe>
-<groupe><phraseme>nē-bēyih</phraseme> <tradf>parois latérales</tradf> <trada>wall, walling</trada></groupe>
-<groupe><phraseme>ni-didin</phraseme> <tradf>parois intérieures</tradf> <trada>interior partition</trada></groupe>
-<groupe><phraseme>na-m̄ag</phraseme> <tradf>façade</tradf> <trada>façade</trada></groupe>
-<groupe><phraseme><variante>n-aqut ēm̄</variante><variante>na-kye ēm̄</variante></phraseme> <tradf>arrière de la maison</tradf> <trada>rear of house</trada></groupe>
-<groupe><phraseme>na-mte-ēm̄</phraseme> <tradf>l’entrée</tradf> <trada>entrance, doorway</trada></groupe>
-<groupe><phraseme>na-mtēgtap</phraseme> <tradf>la porte</tradf> <trada>door</trada></groupe>
-<groupe><phraseme>na-mte-len̄</phraseme> <tradf>la fenêtre</tradf> <trada>window</trada></groupe>
+\con <groupe><phrasème>no-yot</phrasème> <tradf>toit de feuilles</tradf> <trada>thatch roof</trada></groupe>
+<groupe><phrasème>ni-vinhe</phrasème> <tradf>bambou (des murs)</tradf> <trada>bamboo</trada></groupe>
+<groupe><phrasème>nē-bēyih</phrasème> <tradf>parois latérales</tradf> <trada>wall, walling</trada></groupe>
+<groupe><phrasème>ni-didin</phrasème> <tradf>parois intérieures</tradf> <trada>interior partition</trada></groupe>
+<groupe><phrasème>na-m̄ag</phrasème> <tradf>façade</tradf> <trada>façade</trada></groupe>
+<groupe><phrasème><variante>n-aqut ēm̄</variante><variante>na-kye ēm̄</variante></phrasème> <tradf>arrière de la maison</tradf> <trada>rear of house</trada></groupe>
+<groupe><phrasème>na-mte-ēm̄</phrasème> <tradf>l’entrée</tradf> <trada>entrance, doorway</trada></groupe>
+<groupe><phrasème>na-mtēgtap</phrasème> <tradf>la porte</tradf> <trada>door</trada></groupe>
+<groupe><phrasème>na-mte-len̄</phrasème> <tradf>la fenêtre</tradf> <trada>window</trada></groupe>
 \rft charpente
 \se n-ēm̄ gom
 \ps n
@@ -21177,15 +21177,15 @@ certains fruits pour le rouge (fv:ne-me).
 \tie Les couleurs
 \tin Colours
 \tiv n-ilil
-\con <groupe><phraseme>qagqag</phraseme><tradf>blanc</tradf><trada>white</trada></groupe>
-<groupe><phraseme>mēlēmlēg</phraseme><tradf>noir</tradf><trada>black</trada></groupe>
-<groupe><phraseme>lawlaw</phraseme><tradf>rouge</tradf><trada>red</trada></groupe>
-<groupe><phraseme>m̄al</phraseme><tradf>bleu, vert</tradf><trada>blue, green</trada></groupe>
-<groupe><phraseme>n̄oyn̄oy</phraseme><tradf>jaune</tradf><trada>yellow</trada></groupe>
-<groupe><phraseme>wōwō</phraseme><tradf>gris, brun</tradf><trada>grey, brown</trada></groupe>
-<groupe><phraseme>mey</phraseme><tradf>rose, orangé</tradf><trada>rose, orange</trada></groupe>
-<groupe><phraseme>keleklen</phraseme><tradf>noir & blanc</tradf><trada>black & white</trada></groupe>
-<groupe><phraseme>valakas</phraseme><tradf>bigarré</tradf><trada>variegated</trada></groupe>
+\con <groupe><phrasème>qagqag</phrasème><tradf>blanc</tradf><trada>white</trada></groupe>
+<groupe><phrasème>mēlēmlēg</phrasème><tradf>noir</tradf><trada>black</trada></groupe>
+<groupe><phrasème>lawlaw</phrasème><tradf>rouge</tradf><trada>red</trada></groupe>
+<groupe><phrasème>m̄al</phrasème><tradf>bleu, vert</tradf><trada>blue, green</trada></groupe>
+<groupe><phrasème>n̄oyn̄oy</phrasème><tradf>jaune</tradf><trada>yellow</trada></groupe>
+<groupe><phrasème>wōwō</phrasème><tradf>gris, brun</tradf><trada>grey, brown</trada></groupe>
+<groupe><phrasème>mey</phrasème><tradf>rose, orangé</tradf><trada>rose, orange</trada></groupe>
+<groupe><phrasème>keleklen</phrasème><tradf>noir & blanc</tradf><trada>black & white</trada></groupe>
+<groupe><phrasème>valakas</phrasème><tradf>bigarré</tradf><trada>variegated</trada></groupe>
 \nt
 \nq
 \dc 20/Dec/2003
@@ -21442,16 +21442,16 @@ quand elle apparaît à la surface de la mer
 \tie Autour de ‘boire’
 \tin Words of drinking
 \tiv in
-\con <groupe><phraseme>na-matheg bē</phraseme> <tradf>la soif</tradf><trada>thirst</trada></groupe>
-<groupe><phraseme>n-inin</phraseme> <tradf>la boisson</tradf><trada>a drink</trada></groupe>
-<groupe><phraseme>ma~</phraseme> <tradf>Classificateur des boissons</tradf><trada>Drink classifier</trada></groupe>
-<groupe><phraseme>sey</phraseme> <tradf>verser un liquide</tradf><trada>pour a liquid</trada></groupe>
-<groupe><phraseme>tam</phraseme> <tradf>lever le coude</tradf><trada>lift a glass</trada></groupe>
-<groupe><phraseme>dol</phraseme> <tradf>avaler</tradf><trada>swallow</trada></groupe>
-<groupe><phraseme>dolm̄eg</phraseme> <tradf>boire (‡)</tradf><trada>drink (‡)</trada></groupe>
-<groupe><phraseme>in mah</phraseme> <tradf>boire cul-sec</tradf><trada>drink it all</trada></groupe>
-<groupe><phraseme>in tokosm̄eg</phraseme> <tradf>boire à l'excès</tradf><trada>drink too much</trada></groupe>
-<groupe><phraseme><variante>taleg</variante><variante>toron̄</variante></phraseme> <tradf>se saoûler</tradf><trada>get drunk</trada></groupe>
+\con <groupe><phrasème>na-matheg bē</phrasème> <tradf>la soif</tradf><trada>thirst</trada></groupe>
+<groupe><phrasème>n-inin</phrasème> <tradf>la boisson</tradf><trada>a drink</trada></groupe>
+<groupe><phrasème>ma~</phrasème> <tradf>Classificateur des boissons</tradf><trada>Drink classifier</trada></groupe>
+<groupe><phrasème>sey</phrasème> <tradf>verser un liquide</tradf><trada>pour a liquid</trada></groupe>
+<groupe><phrasème>tam</phrasème> <tradf>lever le coude</tradf><trada>lift a glass</trada></groupe>
+<groupe><phrasème>dol</phrasème> <tradf>avaler</tradf><trada>swallow</trada></groupe>
+<groupe><phrasème>dolm̄eg</phrasème> <tradf>boire (‡)</tradf><trada>drink (‡)</trada></groupe>
+<groupe><phrasème>in mah</phrasème> <tradf>boire cul-sec</tradf><trada>drink it all</trada></groupe>
+<groupe><phrasème>in tokosm̄eg</phrasème> <tradf>boire à l'excès</tradf><trada>drink too much</trada></groupe>
+<groupe><phrasème><variante>taleg</variante><variante>toron̄</variante></phrasème> <tradf>se saoûler</tradf><trada>get drunk</trada></groupe>
 \rft verser
 \rft boissons
 \nq
@@ -21516,17 +21516,17 @@ coup’).
 \tie Les boissons
 \tin Drinks
 \tiv n-inin
-\con <groupe><phraseme>nē-bē </phraseme> <tradf>eau douce</tradf><trada>fresh water</trada></groupe>
-<groupe><phraseme>nō-wōh </phraseme> <tradf>jus de coco</tradf><trada>coconut juice</trada></groupe>
-<groupe><phraseme>na-ga</phraseme> <tradf>kava </tradf><trada>kava</trada></groupe>
-<groupe><phraseme><variante>nē-bē sewsew</variante><variante>ni-ti</variante></phraseme> <tradf>thé </tradf><trada>tea</trada></groupe>
-<groupe><phraseme>nē-bē maymay</phraseme> <tradf>alcool </tradf><trada>alcohol</trada></groupe>
-<groupe><phraseme><variante>na-waēn</variante><variante>n-inin</variante></phraseme> <tradf>vin, alcool</tradf><trada>wine, booze</trada></groupe>
-<groupe><phraseme>n-alkōl</phraseme> <tradf>alcool à brûler </tradf><trada>methylated spirit</trada></groupe>
-<groupe><phraseme>n-is</phraseme> <tradf>levure; alcool fermenté</tradf><trada>yeast; homemade alcohol</trada></groupe>
-<groupe><phraseme>nu-jus</phraseme> <tradf>sirop </tradf><trada>syrup, artificial juice</trada></groupe>
-<groupe><phraseme>nē-tēnge</phraseme> <tradf>potion</tradf><trada>potion</trada></groupe>
-<groupe><phraseme>ni-sis</phraseme> <tradf>lait maternel</tradf><trada>mother’s milk</trada></groupe>
+\con <groupe><phrasème>nē-bē </phrasème> <tradf>eau douce</tradf><trada>fresh water</trada></groupe>
+<groupe><phrasème>nō-wōh </phrasème> <tradf>jus de coco</tradf><trada>coconut juice</trada></groupe>
+<groupe><phrasème>na-ga</phrasème> <tradf>kava </tradf><trada>kava</trada></groupe>
+<groupe><phrasème><variante>nē-bē sewsew</variante><variante>ni-ti</variante></phrasème> <tradf>thé </tradf><trada>tea</trada></groupe>
+<groupe><phrasème>nē-bē maymay</phrasème> <tradf>alcool </tradf><trada>alcohol</trada></groupe>
+<groupe><phrasème><variante>na-waēn</variante><variante>n-inin</variante></phrasème> <tradf>vin, alcool</tradf><trada>wine, booze</trada></groupe>
+<groupe><phrasème>n-alkōl</phrasème> <tradf>alcool à brûler </tradf><trada>methylated spirit</trada></groupe>
+<groupe><phrasème>n-is</phrasème> <tradf>levure; alcool fermenté</tradf><trada>yeast; homemade alcohol</trada></groupe>
+<groupe><phrasème>nu-jus</phrasème> <tradf>sirop </tradf><trada>syrup, artificial juice</trada></groupe>
+<groupe><phrasème>nē-tēnge</phrasème> <tradf>potion</tradf><trada>potion</trada></groupe>
+<groupe><phrasème>ni-sis</phrasème> <tradf>lait maternel</tradf><trada>mother’s milk</trada></groupe>
 \rft boire
 \sn 2
 \he spéc
@@ -25777,15 +25777,15 @@ objet dur, tatouer’)
 \tie Les noms des vents à Motalava
 \tin Names of winds on Motalava
 \tiv ne-len̄
-\con <groupe><phraseme>Kēyēbē</phraseme> <tradf>ouest</tradf><trada>West</trada></groupe>
-<groupe><phraseme>Towle</phraseme> <tradf>nord-ouest</tradf><trada>Northwest…</trada></groupe>
-<groupe><phraseme>Wōvet</phraseme> <tradf>nord-est</tradf><trada>Northeast</trada></groupe>
-<groupe><phraseme>Len̄ye-Plōw</phraseme> <tradf>est-nord-est</tradf><trada>Eastnortheast</trada></groupe>
-<groupe><phraseme>Nagōn Metelo</phraseme> <tradf>est</tradf><trada>East</trada></groupe>
-<groupe><phraseme>Nē-lēn̄hey</phraseme> <tradf>sud-est</tradf><trada>Southeast</trada></groupe>
-<groupe><phraseme>Len̄ye-Qo</phraseme> <tradf>sud</tradf><trada>South</trada></groupe>
-<groupe><phraseme>Namsalap</phraseme> <tradf>sud-sud-ouest</tradf><trada>Southsouthwest</trada></groupe>
-<groupe><phraseme>Nagdō</phraseme> <tradf>sud-ouest</tradf><trada>Southwest</trada></groupe>
+\con <groupe><phrasème>Kēyēbē</phrasème> <tradf>ouest</tradf><trada>West</trada></groupe>
+<groupe><phrasème>Towle</phrasème> <tradf>nord-ouest</tradf><trada>Northwest…</trada></groupe>
+<groupe><phrasème>Wōvet</phrasème> <tradf>nord-est</tradf><trada>Northeast</trada></groupe>
+<groupe><phrasème>Len̄ye-Plōw</phrasème> <tradf>est-nord-est</tradf><trada>Eastnortheast</trada></groupe>
+<groupe><phrasème>Nagōn Metelo</phrasème> <tradf>est</tradf><trada>East</trada></groupe>
+<groupe><phrasème>Nē-lēn̄hey</phrasème> <tradf>sud-est</tradf><trada>Southeast</trada></groupe>
+<groupe><phrasème>Len̄ye-Qo</phrasème> <tradf>sud</tradf><trada>South</trada></groupe>
+<groupe><phrasème>Namsalap</phrasème> <tradf>sud-sud-ouest</tradf><trada>Southsouthwest</trada></groupe>
+<groupe><phrasème>Nagdō</phrasème> <tradf>sud-ouest</tradf><trada>Southwest</trada></groupe>
 \rft
 \el PNCV
 \et *laŋi
@@ -25948,12 +25948,12 @@ du poète.
 \tie Quelques verbes de bruits
 \tin Some verbs of noise
 \tiv l[e]n̄e~
-\con <groupe><phraseme>n̄eyn̄ey</phraseme>  <tradf>grincer, couiner</tradf> <trada>shriek, squeak</trada></groupe>
-<groupe><phraseme>laskoy</phraseme>  <tradf>bruire, faire un bruit de frottement</tradf> <trada>rustle, swish</trada></groupe>
-<groupe><phraseme>doydoy</phraseme>  <tradf>cliqueter, faire un bruit d'entrechoc</tradf> <trada>rattle, jingle</trada></groupe>
-<groupe><phraseme>didi</phraseme>  <tradf>claquer contre une surface</tradf> <trada>pound, bang on a surface</trada></groupe>
-<groupe><phraseme><variante>taqal</variante><variante>ētqal</variante></phraseme>  <tradf>éclater d'un coup sec</tradf> <trada>bang, clang</trada></groupe>
-<groupe><phraseme>towoh</phraseme>  <tradf>bruit d'explosion sourde</tradf> <trada>thump, thud</trada></groupe>
+\con <groupe><phrasème>n̄eyn̄ey</phrasème>  <tradf>grincer, couiner</tradf> <trada>shriek, squeak</trada></groupe>
+<groupe><phrasème>laskoy</phrasème>  <tradf>bruire, faire un bruit de frottement</tradf> <trada>rustle, swish</trada></groupe>
+<groupe><phrasème>doydoy</phrasème>  <tradf>cliqueter, faire un bruit d'entrechoc</tradf> <trada>rattle, jingle</trada></groupe>
+<groupe><phrasème>didi</phrasème>  <tradf>claquer contre une surface</tradf> <trada>pound, bang on a surface</trada></groupe>
+<groupe><phrasème><variante>taqal</variante><variante>ētqal</variante></phrasème>  <tradf>éclater d'un coup sec</tradf> <trada>bang, clang</trada></groupe>
+<groupe><phrasème>towoh</phrasème>  <tradf>bruit d'explosion sourde</tradf> <trada>thump, thud</trada></groupe>
 \el POc
 \et *qaliŋa-
 \eg voice
@@ -26117,13 +26117,13 @@ déplacer ‹qqch›
 \tie Verbes de déplacement
 \tin Verbs of relocation
 \tiv lep
-\con <groupe><phraseme>lep bat</phraseme> <tradf>faire entrer qqch</tradf><trada>…</trada></groupe>
-<groupe><phraseme>lep lō</phraseme> <tradf>(faire) sortir qqch</tradf><trada>…</trada></groupe>
-<groupe><phraseme>lep kal</phraseme> <tradf>(faire) monter qqch</tradf><trada>…</trada></groupe>
-<groupe><phraseme>lep hiy</phraseme> <tradf>(faire) descendre qqch</tradf><trada>…</trada></groupe>
-<groupe><phraseme>lep tēqēl</phraseme> <tradf>(faire) descendre qqch</tradf><trada>…</trada></groupe>
-<groupe><phraseme>lep m̄ōl</phraseme> <tradf>rapporter qqch</tradf><trada>…</trada></groupe>
-<groupe><phraseme>lep yak</phraseme> <tradf>ôter, enlever qqch</tradf><trada>…</trada></groupe>
+\con <groupe><phrasème>lep bat</phrasème> <tradf>faire entrer qqch</tradf><trada>…</trada></groupe>
+<groupe><phrasème>lep lō</phrasème> <tradf>(faire) sortir qqch</tradf><trada>…</trada></groupe>
+<groupe><phrasème>lep kal</phrasème> <tradf>(faire) monter qqch</tradf><trada>…</trada></groupe>
+<groupe><phrasème>lep hiy</phrasème> <tradf>(faire) descendre qqch</tradf><trada>…</trada></groupe>
+<groupe><phrasème>lep tēqēl</phrasème> <tradf>(faire) descendre qqch</tradf><trada>…</trada></groupe>
+<groupe><phrasème>lep m̄ōl</phrasème> <tradf>rapporter qqch</tradf><trada>…</trada></groupe>
+<groupe><phrasème>lep yak</phrasème> <tradf>ôter, enlever qqch</tradf><trada>…</trada></groupe>
 \sn 6
 \he cour
 \we +Directionnel personnel (vl:me, vl:van)
@@ -31004,11 +31004,11 @@ dans l'île voisine Vanua Lava (fv:Apnōlap).
 \tie Les stades de la maturité
 \tin
 \tiv mata
-\con <groupe><phraseme>mata</phraseme> <tradf>en cours de maturation</tradf><trada>…</trada></groupe>
-<groupe><phraseme>men</phraseme> <tradf>(fruit) bien mûr, tendre et sucré</tradf><trada>…</trada></groupe>
-<groupe><phraseme>met</phraseme> <tradf>(noix) mûr, dur et foncé</tradf><trada>…</trada></groupe>
-<groupe><phraseme>yan̄</phraseme> <tradf>(tubercule) arrivé à maturité</tradf><trada>…</trada></groupe>
-<groupe><phraseme>saq</phraseme> <tradf>trop mûr, pourri</tradf><trada>…</trada></groupe>
+\con <groupe><phrasème>mata</phrasème> <tradf>en cours de maturation</tradf><trada>…</trada></groupe>
+<groupe><phrasème>men</phrasème> <tradf>(fruit) bien mûr, tendre et sucré</tradf><trada>…</trada></groupe>
+<groupe><phrasème>met</phrasème> <tradf>(noix) mûr, dur et foncé</tradf><trada>…</trada></groupe>
+<groupe><phrasème>yan̄</phrasème> <tradf>(tubercule) arrivé à maturité</tradf><trada>…</trada></groupe>
+<groupe><phrasème>saq</phrasème> <tradf>trop mûr, pourri</tradf><trada>…</trada></groupe>
 \rft
 \nq autre mot pour trop mûr?  +  ajouter ici l'anglais
 \sn 2
@@ -32344,15 +32344,15 @@ tirées au lance-pierres; balles tirées à l'arme à feu)
 \tie Le lexique des oiseaux
 \tin The lexicon of birds
 \tiv ne-men
-\con <groupe><phraseme>na-n̄ye  X</phraseme> <tradf>bec</tradf><trada>beak, bill</trada></groupe>
-<groupe><phraseme>n-ili  X</phraseme> <tradf>plumes</tradf><trada>feathers</trada></groupe>
-<groupe><phraseme>ni-tli  X</phraseme> <tradf>œuf(s)</tradf><trada>egg(s)</trada></groupe>
-<groupe><phraseme>nō-bōlbōlte  X</phraseme> <tradf>panache du coq</tradf><trada>rooster’s panache</trada></groupe>
-<groupe><phraseme>gap</phraseme> <tradf>voler</tradf><trada>fly, flap wings</trada></groupe>
-<groupe><phraseme>hal</phraseme> <tradf>planer</tradf><trada>glide, hover</trada></groupe>
-<groupe><phraseme>tey</phraseme> <tradf>picorer</tradf><trada>peck</trada></groupe>
-<groupe><phraseme>ni-tinignig</phraseme> <tradf>petit nid</tradf><trada>small nest</trada></groupe>
-<groupe><phraseme>na-hgēy</phraseme> <tradf>grand nid</tradf><trada>large nest</trada></groupe>
+\con <groupe><phrasème>na-n̄ye  X</phrasème> <tradf>bec</tradf><trada>beak, bill</trada></groupe>
+<groupe><phrasème>n-ili  X</phrasème> <tradf>plumes</tradf><trada>feathers</trada></groupe>
+<groupe><phrasème>ni-tli  X</phrasème> <tradf>œuf(s)</tradf><trada>egg(s)</trada></groupe>
+<groupe><phrasème>nō-bōlbōlte  X</phrasème> <tradf>panache du coq</tradf><trada>rooster’s panache</trada></groupe>
+<groupe><phrasème>gap</phrasème> <tradf>voler</tradf><trada>fly, flap wings</trada></groupe>
+<groupe><phrasème>hal</phrasème> <tradf>planer</tradf><trada>glide, hover</trada></groupe>
+<groupe><phrasème>tey</phrasème> <tradf>picorer</tradf><trada>peck</trada></groupe>
+<groupe><phrasème>ni-tinignig</phrasème> <tradf>petit nid</tradf><trada>small nest</trada></groupe>
+<groupe><phrasème>na-hgēy</phrasème> <tradf>grand nid</tradf><trada>large nest</trada></groupe>
 \sn 2
 \sd Ins
 \de nom générique des petits insectes volants: cigales, sauterelles, cousins
@@ -34544,19 +34544,19 @@ then reopened them.
 \tie Les mots du sommeil
 \tin The words of sleep
 \tiv mitiy
-\con <groupe><phraseme>na-matmayge</phraseme> <tradf>l’envie de dormir</tradf><trada>sleepiness</trada></groupe>
-<groupe><phraseme><variante>na-tamge</variante><variante>na-tno tamge</variante></phraseme> <tradf>natte pour dormir, lit</tradf><trada>sleeping mat, bed</trada></groupe>
-<groupe><phraseme>na-tnē-k</phraseme> <tradf>mon lit, ma place</tradf><trada>my bed</trada></groupe>
-<groupe><phraseme>ne-qe</phraseme> <tradf>le lit (surélevé)</tradf><trada>(high) bed</trada></groupe>
-<groupe><phraseme>nē-qēthēlēn̄</phraseme> <tradf>repose-tête, oreiller</tradf><trada>headrest, pillow</trada></groupe>
-<groupe><phraseme>en hiy</phraseme> <tradf>s'allonger</tradf><trada>lie down</trada></groupe>
-<groupe><phraseme>m̄ōkheg</phraseme> <tradf>se reposer</tradf><trada>take rest</trada></groupe>
-<groupe><phraseme>mitiy</phraseme> <tradf>s'endormir, dormir</tradf><trada>fall asleep, sleep</trada></groupe>
-<groupe><phraseme>n̄oyn̄oy</phraseme> <tradf>ronfler</tradf><trada>snore</trada></groupe>
-<groupe><phraseme>qoyqoy</phraseme> <tradf>rêver</tradf><trada>dream</trada></groupe>
-<groupe><phraseme>mitiy taq</phraseme> <tradf>dormir profondément</tradf><trada>sleep soundly, lie in</trada></groupe>
-<groupe><phraseme>matyak</phraseme> <tradf>s'éveiller</tradf><trada>wake up, be awake</trada></groupe>
-<groupe><phraseme>hatig</phraseme> <tradf>se lever</tradf><trada>rise</trada></groupe>
+\con <groupe><phrasème>na-matmayge</phrasème> <tradf>l’envie de dormir</tradf><trada>sleepiness</trada></groupe>
+<groupe><phrasème><variante>na-tamge</variante><variante>na-tno tamge</variante></phrasème> <tradf>natte pour dormir, lit</tradf><trada>sleeping mat, bed</trada></groupe>
+<groupe><phrasème>na-tnē-k</phrasème> <tradf>mon lit, ma place</tradf><trada>my bed</trada></groupe>
+<groupe><phrasème>ne-qe</phrasème> <tradf>le lit (surélevé)</tradf><trada>(high) bed</trada></groupe>
+<groupe><phrasème>nē-qēthēlēn̄</phrasème> <tradf>repose-tête, oreiller</tradf><trada>headrest, pillow</trada></groupe>
+<groupe><phrasème>en hiy</phrasème> <tradf>s'allonger</tradf><trada>lie down</trada></groupe>
+<groupe><phrasème>m̄ōkheg</phrasème> <tradf>se reposer</tradf><trada>take rest</trada></groupe>
+<groupe><phrasème>mitiy</phrasème> <tradf>s'endormir, dormir</tradf><trada>fall asleep, sleep</trada></groupe>
+<groupe><phrasème>n̄oyn̄oy</phrasème> <tradf>ronfler</tradf><trada>snore</trada></groupe>
+<groupe><phrasème>qoyqoy</phrasème> <tradf>rêver</tradf><trada>dream</trada></groupe>
+<groupe><phrasème>mitiy taq</phrasème> <tradf>dormir profondément</tradf><trada>sleep soundly, lie in</trada></groupe>
+<groupe><phrasème>matyak</phrasème> <tradf>s'éveiller</tradf><trada>wake up, be awake</trada></groupe>
+<groupe><phrasème>hatig</phrasème> <tradf>se lever</tradf><trada>rise</trada></groupe>
 
 \se mitiy taq
 \ps vi
@@ -35412,16 +35412,16 @@ au harpon (fv:kay, fv:daeva), à la liane de pêche (fv:gey_hay), etc.
 \tie Les parties du poisson
 \tin Parts of fish
 \tiv nō-mōmō
-\con <groupe><phraseme>ni-hiy ne  X</phraseme> <tradf>arête</tradf><trada>fishbone</trada></groupe>
-<groupe><phraseme>nē-vēyn̄ih ne  X</phraseme> <tradf>écailles</tradf><trada>scales</trada></groupe>
-<groupe><phraseme>n-ēye  X</phraseme> <tradf>ouïes</tradf><trada>gills</trada></groupe>
-<groupe><phraseme>nē-dēlse  X</phraseme> <tradf>mucus sur les écailles</tradf><trada>mucus on scales</trada></groupe>
-<groupe><phraseme>na-gban ne  X</phraseme> <tradf>grande nageoire dorsale</tradf><trada>first dorsal fin</trada></groupe>
-<groupe><phraseme>ni-hyi  X</phraseme> <tradf>nageoire dorsale</tradf><trada>second dorsal fin</trada></groupe>
-<groupe><phraseme>nē-dēln̄e  X</phraseme> <tradf>nageoire pectorale</tradf><trada>pectoral fin</trada></groupe>
-<groupe><phraseme>n-ēphog ne  X</phraseme> <tradf>chair</tradf><trada>flesh</trada></groupe>
-<groupe><phraseme>n-ētna ne  X</phraseme> <tradf>viscères</tradf><trada>guts</trada></groupe>
-<groupe><phraseme>na-wlas ne  X</phraseme> <tradf>vessie natatoire</tradf><trada>air bladder</trada></groupe>
+\con <groupe><phrasème>ni-hiy ne  X</phrasème> <tradf>arête</tradf><trada>fishbone</trada></groupe>
+<groupe><phrasème>nē-vēyn̄ih ne  X</phrasème> <tradf>écailles</tradf><trada>scales</trada></groupe>
+<groupe><phrasème>n-ēye  X</phrasème> <tradf>ouïes</tradf><trada>gills</trada></groupe>
+<groupe><phrasème>nē-dēlse  X</phrasème> <tradf>mucus sur les écailles</tradf><trada>mucus on scales</trada></groupe>
+<groupe><phrasème>na-gban ne  X</phrasème> <tradf>grande nageoire dorsale</tradf><trada>first dorsal fin</trada></groupe>
+<groupe><phrasème>ni-hyi  X</phrasème> <tradf>nageoire dorsale</tradf><trada>second dorsal fin</trada></groupe>
+<groupe><phrasème>nē-dēln̄e  X</phrasème> <tradf>nageoire pectorale</tradf><trada>pectoral fin</trada></groupe>
+<groupe><phrasème>n-ēphog ne  X</phrasème> <tradf>chair</tradf><trada>flesh</trada></groupe>
+<groupe><phrasème>n-ētna ne  X</phrasème> <tradf>viscères</tradf><trada>guts</trada></groupe>
+<groupe><phrasème>na-wlas ne  X</phrasème> <tradf>vessie natatoire</tradf><trada>air bladder</trada></groupe>
 
 \nt
 \nq
@@ -38237,16 +38237,16 @@ naw... ; nanaw lôqôvên ; yow lenaw
 \tie Les avatars de la mer
 \tin Shapes of the sea
 \tiv na-naw
-\con <groupe><phraseme>na-lam</phraseme> <tradf>la haute mer, le large</tradf><trada>deep sea, ocean</trada></groupe>
-<groupe><phraseme>na-naw</phraseme> <tradf>le lagon; l'eau salée; la vague</tradf><trada>lagoon; salt water; wave</trada></groupe>
-<groupe><phraseme>ne-yey</phraseme> <tradf>le courant</tradf><trada>current</trada></groupe>
-<groupe><phraseme>ne-met</phraseme> <tradf>la marée</tradf><trada>tide</trada></groupe>
-<groupe><phraseme>nē-yēm</phraseme> <tradf>la vague</tradf><trada>wave, surf</trada></groupe>
-<groupe><phraseme>ni-lilip</phraseme> <tradf>le raz-de-marée</tradf><trada>tidal wave</trada></groupe>
-<groupe><phraseme>goy2</phraseme> <tradf>(mer) déferler</tradf><trada>(wave) surf in</trada></groupe>
-<groupe><phraseme>malat</phraseme> <tradf>(mer) se briser</tradf><trada>(wave) break</trada></groupe>
-<groupe><phraseme>nawnaw</phraseme> <tradf>(mer) agitée</tradf><trada>(sea) rough</trada></groupe>
-<groupe><phraseme>tay1</phraseme> <tradf>(mer) calme, bonace</tradf><trada>(sea) calm</trada></groupe>
+\con <groupe><phrasème>na-lam</phrasème> <tradf>la haute mer, le large</tradf><trada>deep sea, ocean</trada></groupe>
+<groupe><phrasème>na-naw</phrasème> <tradf>le lagon; l'eau salée; la vague</tradf><trada>lagoon; salt water; wave</trada></groupe>
+<groupe><phrasème>ne-yey</phrasème> <tradf>le courant</tradf><trada>current</trada></groupe>
+<groupe><phrasème>ne-met</phrasème> <tradf>la marée</tradf><trada>tide</trada></groupe>
+<groupe><phrasème>nē-yēm</phrasème> <tradf>la vague</tradf><trada>wave, surf</trada></groupe>
+<groupe><phrasème>ni-lilip</phrasème> <tradf>le raz-de-marée</tradf><trada>tidal wave</trada></groupe>
+<groupe><phrasème>goy2</phrasème> <tradf>(mer) déferler</tradf><trada>(wave) surf in</trada></groupe>
+<groupe><phrasème>malat</phrasème> <tradf>(mer) se briser</tradf><trada>(wave) break</trada></groupe>
+<groupe><phrasème>nawnaw</phrasème> <tradf>(mer) agitée</tradf><trada>(sea) rough</trada></groupe>
+<groupe><phrasème>tay1</phrasème> <tradf>(mer) calme, bonace</tradf><trada>(sea) calm</trada></groupe>
 
 \nt 
 |{tab}|fv{na-myomyos}|{tab}écume
@@ -39135,10 +39135,10 @@ tableau)
 \tie Les classificateurs possessifs
 \tin Possessive classifiers
 \tiv
-\con <groupe><phraseme>ma~</phraseme> <tradf>bu par</tradf><trada>drunk by</trada></groupe>
-<groupe><phraseme>ga~</phraseme> <tradf>mangé par</tradf><trada>eaten by</trada></groupe>
-<groupe><phraseme>mu~</phraseme> <tradf>détenu par</tradf><trada>held by</trada></groupe>
-<groupe><phraseme>no~</phraseme> <tradf>appartenant à</tradf><trada>belonging to</trada></groupe>
+\con <groupe><phrasème>ma~</phrasème> <tradf>bu par</tradf><trada>drunk by</trada></groupe>
+<groupe><phrasème>ga~</phrasème> <tradf>mangé par</tradf><trada>eaten by</trada></groupe>
+<groupe><phrasème>mu~</phrasème> <tradf>détenu par</tradf><trada>held by</trada></groupe>
+<groupe><phrasème>no~</phrasème> <tradf>appartenant à</tradf><trada>belonging to</trada></groupe>
 \rft
 \sn 2
 \he spéc
@@ -43124,21 +43124,21 @@ climbing plants)
 \tie Les parties de l’arbre
 \tin Parts of trees
 \tiv nē-qētēnge
-\con <groupe><phraseme>nō-gōygōyi  X</phraseme> <tradf>racines</tradf><trada>…</trada></groupe>
-<groupe><phraseme>nō-tōti  X</phraseme> <tradf>pied, tronc</tradf><trada>…</trada></groupe>
-<groupe><phraseme>na-taqm̄ē  X</phraseme> <tradf>tronc</tradf><trada>…</trada></groupe>
-<groupe><phraseme>n-ēto  X</phraseme> <tradf>cœur tendre</tradf><trada>…</trada></groupe>
-<groupe><phraseme>na-mnas</phraseme> <tradf></phraseme> <tradf>bois dur</tradf><trada>…</trada></groupe>
-<groupe><phraseme>nē-phog</phraseme> <tradf></phraseme> <tradf>chair, aubier</tradf><trada>…</trada></groupe>
-<groupe><phraseme>ni-pni  X</phraseme> <tradf>écorce</tradf><trada>…</trada></groupe>
-<groupe><phraseme>na-ptōy</phraseme> <tradf></phraseme> <tradf>nœud</tradf><trada>…</trada></groupe>
-<groupe><phraseme><variante>na-mnē  X</variante> <variante>nē-wti  X</variante></phraseme> <tradf>branche</tradf><trada>…</trada></groupe>
-<groupe><phraseme>nē-wtiwti  X</phraseme> <tradf>rameaux</tradf><trada>…</trada></groupe>
-<groupe><phraseme>ni-n̄li  X</phraseme> <tradf>jeune pousse</tradf><trada>…</trada></groupe>
-<groupe><phraseme>na-yo  X</phraseme> <tradf>feuilles</tradf><trada>…</trada></groupe>
-<groupe><phraseme>na-tawhi  X</phraseme> <tradf>fleurs</tradf><trada>…</trada></groupe>
-<groupe><phraseme>n-ēwe  X</phraseme> <tradf>fruits</tradf><trada>…</trada></groupe>
-<groupe><phraseme>n-ulsi  X</phraseme> <tradf>sommet</tradf><trada>…</trada></groupe>
+\con <groupe><phrasème>nō-gōygōyi  X</phrasème> <tradf>racines</tradf><trada>…</trada></groupe>
+<groupe><phrasème>nō-tōti  X</phrasème> <tradf>pied, tronc</tradf><trada>…</trada></groupe>
+<groupe><phrasème>na-taqm̄ē  X</phrasème> <tradf>tronc</tradf><trada>…</trada></groupe>
+<groupe><phrasème>n-ēto  X</phrasème> <tradf>cœur tendre</tradf><trada>…</trada></groupe>
+<groupe><phrasème>na-mnas</phrasème> <tradf></phrasème> <tradf>bois dur</tradf><trada>…</trada></groupe>
+<groupe><phrasème>nē-phog</phrasème> <tradf></phrasème> <tradf>chair, aubier</tradf><trada>…</trada></groupe>
+<groupe><phrasème>ni-pni  X</phrasème> <tradf>écorce</tradf><trada>…</trada></groupe>
+<groupe><phrasème>na-ptōy</phrasème> <tradf></phrasème> <tradf>nœud</tradf><trada>…</trada></groupe>
+<groupe><phrasème><variante>na-mnē  X</variante> <variante>nē-wti  X</variante></phrasème> <tradf>branche</tradf><trada>…</trada></groupe>
+<groupe><phrasème>nē-wtiwti  X</phrasème> <tradf>rameaux</tradf><trada>…</trada></groupe>
+<groupe><phrasème>ni-n̄li  X</phrasème> <tradf>jeune pousse</tradf><trada>…</trada></groupe>
+<groupe><phrasème>na-yo  X</phrasème> <tradf>feuilles</tradf><trada>…</trada></groupe>
+<groupe><phrasème>na-tawhi  X</phrasème> <tradf>fleurs</tradf><trada>…</trada></groupe>
+<groupe><phrasème>n-ēwe  X</phrasème> <tradf>fruits</tradf><trada>…</trada></groupe>
+<groupe><phrasème>n-ulsi  X</phrasème> <tradf>sommet</tradf><trada>…</trada></groupe>
 \rft
 \sn 2
 \he
@@ -43920,9 +43920,9 @@ ta-vav qiyig, ba talôw
 \tie Évolution des dents de porc
 \tin The growth of pig tusks
 \tiv nē-lwo qo
-\con <groupe><phraseme>nē-lwon na-kalō</phraseme>  <tradf>début du cercle</tradf> <trada>start of circle</trada></groupe>
-<groupe><phraseme>nē-lwon ne-wey</phraseme>  <tradf>cercle quasi complet</tradf> <trada>circle almost complete</trada></groupe>
-<groupe><phraseme>nē-lwon na-vah</phraseme>  <tradf>cercle achevé</tradf> <trada>circle complete</trada></groupe>
+\con <groupe><phrasème>nē-lwon na-kalō</phrasème>  <tradf>début du cercle</tradf> <trada>start of circle</trada></groupe>
+<groupe><phrasème>nē-lwon ne-wey</phrasème>  <tradf>cercle quasi complet</tradf> <trada>circle almost complete</trada></groupe>
+<groupe><phrasème>nē-lwon na-vah</phrasème>  <tradf>cercle achevé</tradf> <trada>circle complete</trada></groupe>
 \se no-qo nagōm
 \ps expr
 \ge
@@ -47090,15 +47090,15 @@ immédiat : fl:opp. fv:vdin, stocker (un liquide) dans un contenant qui sera fer
 \tie Manières de verser un liquide
 \tin Pouring a liquid
 \tiv sey
-\con <groupe><phraseme>sey</phraseme> <tradf>verser en un récipient ouvert</tradf><trada>…</trada></groupe>
-<groupe><phraseme>lēw</phraseme> <tradf>servir une boisson</tradf><trada>…</trada></groupe>
-<groupe><phraseme>lin̄</phraseme> <tradf>transvaser, verser doucement</tradf><trada>…</trada></groupe>
-<groupe><phraseme>tiy</phraseme> <tradf>faire couler goutte à goutte</tradf><trada>…</trada></groupe>
-<groupe><phraseme>ki</phraseme> <tradf>ffaire couler d'un robinet</tradf><trada>…</trada></groupe>
-<groupe><phraseme>vidin</phraseme> <tradf>stocker, mettre en bouteille</tradf><trada>…</trada></groupe>
-<groupe><phraseme>ha</phraseme> <tradf>puiser avec un petit récipient</tradf><trada>…</trada></groupe>
-<groupe><phraseme>yeh</phraseme> <tradf>écoper, puiser pour enlever</tradf><trada>…</trada></groupe>
-<groupe><phraseme>luwyeg</phraseme> <tradf>déverser, jeter un liquide</tradf><trada>…</trada></groupe>
+\con <groupe><phrasème>sey</phrasème> <tradf>verser en un récipient ouvert</tradf><trada>…</trada></groupe>
+<groupe><phrasème>lēw</phrasème> <tradf>servir une boisson</tradf><trada>…</trada></groupe>
+<groupe><phrasème>lin̄</phrasème> <tradf>transvaser, verser doucement</tradf><trada>…</trada></groupe>
+<groupe><phrasème>tiy</phrasème> <tradf>faire couler goutte à goutte</tradf><trada>…</trada></groupe>
+<groupe><phrasème>ki</phrasème> <tradf>ffaire couler d'un robinet</tradf><trada>…</trada></groupe>
+<groupe><phrasème>vidin</phrasème> <tradf>stocker, mettre en bouteille</tradf><trada>…</trada></groupe>
+<groupe><phrasème>ha</phrasème> <tradf>puiser avec un petit récipient</tradf><trada>…</trada></groupe>
+<groupe><phrasème>yeh</phrasème> <tradf>écoper, puiser pour enlever</tradf><trada>…</trada></groupe>
+<groupe><phrasème>luwyeg</phrasème> <tradf>déverser, jeter un liquide</tradf><trada>…</trada></groupe>
 
 \nt ajouter? tam - in - dol - suwsuw - bus - keh (éclabousser) - yeh (écoper) - 
 \nt    |fv{lon̄}  |{tab}couler, s'écouler
@@ -47435,12 +47435,12 @@ fv:seg, fv:yop)
 \tie Mesurer la monnaie
 \tin Measuring shellmoney
 \tiv nē-sēm
-\con <groupe><phraseme>seg nē-sēm</phraseme>  <tradf>mesurer la monnaie</tradf> <trada>measure shellmoney</trada></groupe>
-<groupe><phraseme>yop togotgo</phraseme>  <tradf>une toise, bras étendus</tradf> <trada>a fathom, with arms extended</trada></groupe>
-<groupe><phraseme>it m̄ēt</phraseme>  <tradf>une demi-toise, un bras entier</tradf> <trada>half a fathom, one arm</trada></groupe>
-<groupe><phraseme>yop malhibē</phraseme>  <tradf>une coudée</tradf> <trada>a cubit</trada></groupe>
-<groupe><phraseme>nē-tēltēl sēm</phraseme>  <tradf>écheveau de monnaie</tradf> <trada>a skein of money</trada></groupe>
-<groupe><phraseme>nē-sēy sēm</phraseme>  <tradf>boucle de monnaie</tradf> <trada>a loop of money</trada></groupe>
+\con <groupe><phrasème>seg nē-sēm</phrasème>  <tradf>mesurer la monnaie</tradf> <trada>measure shellmoney</trada></groupe>
+<groupe><phrasème>yop togotgo</phrasème>  <tradf>une toise, bras étendus</tradf> <trada>a fathom, with arms extended</trada></groupe>
+<groupe><phrasème>it m̄ēt</phrasème>  <tradf>une demi-toise, un bras entier</tradf> <trada>half a fathom, one arm</trada></groupe>
+<groupe><phrasème>yop malhibē</phrasème>  <tradf>une coudée</tradf> <trada>a cubit</trada></groupe>
+<groupe><phrasème>nē-tēltēl sēm</phrasème>  <tradf>écheveau de monnaie</tradf> <trada>a skein of money</trada></groupe>
+<groupe><phrasème>nē-sēy sēm</phrasème>  <tradf>boucle de monnaie</tradf> <trada>a loop of money</trada></groupe>
 \so AF-AG1-46b > 47b
 \se nē-sēm ti-mi-gēn
 \ps n
@@ -48001,20 +48001,20 @@ flotteur (ax:cf. vl:vil)
 \tie Les éléments de la pirogue
 \tin Parts of a canoe
 \tiv ni-siok
-\con <groupe><phraseme>na-taqn̄ē-n</phraseme> <tradf>coque</tradf><trada>hull (fl:lit. its body)</trada></groupe>
-<groupe><phraseme>na-tqa-n</phraseme> <tradf>coque (fl:litt. son corps)</tradf><trada>hull (fl:lit. its belly)</trada></groupe>
-<groupe><phraseme>na-n̄ye qēt-ok</phraseme> <tradf>proue</tradf><trada>prow, bow</trada></groupe>
-<groupe><phraseme>ni-sdi ok</phraseme> <tradf>poupe</tradf><trada>stern</trada></groupe>
-<groupe><phraseme>na-sam</phraseme> <tradf>balancier, flotteur</tradf><trada>outrigger float</trada></groupe>
-<groupe><phraseme>nē-wtē</phraseme> <tradf>jougs entre coque et flotteur</tradf><trada>outrigger booms</trada></groupe>
-<groupe><phraseme>nē-mtot</phraseme> <tradf>chevilles fixant le flotteur</tradf><trada>connective sticks attaching float</trada></groupe>
-<groupe><phraseme>na-gavilvil</phraseme> <tradf>liens fixant les chevilles</tradf><trada>ropes tying sticks on float</trada></groupe>
-<groupe><phraseme>ni-tiyge</phraseme> <tradf>mât central</tradf><trada>mast</trada></groupe>
-<groupe><phraseme>na-wdē</phraseme> <tradf>bôme</tradf><trada>boom of sail</trada></groupe>
-<groupe><phraseme>na-gban</phraseme> <tradf>voile</tradf><trada>sail</trada></groupe>
-<groupe><phraseme>na-gban</phraseme> <tradf>voile</tradf><trada>sail</trada></groupe>
-<groupe><phraseme>no-woh</phraseme> <tradf>pagaie</tradf><trada>oar, paddle</trada></groupe>
-<groupe><phraseme>ne-vetlēg</phraseme> <tradf>ancre</tradf><trada>anchor</trada></groupe>
+\con <groupe><phrasème>na-taqn̄ē-n</phrasème> <tradf>coque</tradf><trada>hull (fl:lit. its body)</trada></groupe>
+<groupe><phrasème>na-tqa-n</phrasème> <tradf>coque (fl:litt. son corps)</tradf><trada>hull (fl:lit. its belly)</trada></groupe>
+<groupe><phrasème>na-n̄ye qēt-ok</phrasème> <tradf>proue</tradf><trada>prow, bow</trada></groupe>
+<groupe><phrasème>ni-sdi ok</phrasème> <tradf>poupe</tradf><trada>stern</trada></groupe>
+<groupe><phrasème>na-sam</phrasème> <tradf>balancier, flotteur</tradf><trada>outrigger float</trada></groupe>
+<groupe><phrasème>nē-wtē</phrasème> <tradf>jougs entre coque et flotteur</tradf><trada>outrigger booms</trada></groupe>
+<groupe><phrasème>nē-mtot</phrasème> <tradf>chevilles fixant le flotteur</tradf><trada>connective sticks attaching float</trada></groupe>
+<groupe><phrasème>na-gavilvil</phrasème> <tradf>liens fixant les chevilles</tradf><trada>ropes tying sticks on float</trada></groupe>
+<groupe><phrasème>ni-tiyge</phrasème> <tradf>mât central</tradf><trada>mast</trada></groupe>
+<groupe><phrasème>na-wdē</phrasème> <tradf>bôme</tradf><trada>boom of sail</trada></groupe>
+<groupe><phrasème>na-gban</phrasème> <tradf>voile</tradf><trada>sail</trada></groupe>
+<groupe><phrasème>na-gban</phrasème> <tradf>voile</tradf><trada>sail</trada></groupe>
+<groupe><phrasème>no-woh</phrasème> <tradf>pagaie</tradf><trada>oar, paddle</trada></groupe>
+<groupe><phrasème>ne-vetlēg</phrasème> <tradf>ancre</tradf><trada>anchor</trada></groupe>
 \nt
 \nq
 \dc 2003
@@ -49710,17 +49710,17 @@ chevrons (fv:nō-qōs).
 \tie Les éléments de la charpente
 \tin Structural components of a house
 \tiv no-sosowolō ne ēm̄
-\con <groupe><phraseme>na-han̄</phraseme> <tradf>pilier</tradf> <trada>house post</trada></groupe>
-<groupe><phraseme>na-salwolwol</phraseme> <tradf>entrait</tradf> <trada>crossbeam</trada></groupe>
-<groupe><phraseme>na-han̄m̄ēt</phraseme> <tradf>poinçon</tradf> <trada>…</trada></groupe>
-<groupe><phraseme>no-soso</phraseme> <tradf>sablière</tradf> <trada>purlin</trada></groupe>
-<groupe><phraseme>no-sosogal</phraseme> <tradf>panne</tradf> <trada>…</trada></groupe>
-<groupe><phraseme>nē-kēybē</phraseme> <tradf>liteau, voligeage</tradf> <trada>…</trada></groupe>
-<groupe><phraseme>nē-hgēn</phraseme> <tradf>lien de faîtage</tradf> <trada>…</trada></groupe>
-<groupe><phraseme>nō-qōs</phraseme> <tradf>chevron</tradf> <trada>rafter</trada></groupe>
-<groupe><phraseme>na-pyet</phraseme> <tradf>panne inférieure</tradf> <trada>…</trada></groupe>
-<groupe><phraseme>nē-qēthōn</phraseme> <tradf>faîte, faîtage</tradf> <trada>ridgepole</trada></groupe>
-<groupe><phraseme>nē-qēthōngal</phraseme> <tradf>surfaîtage</tradf> <trada>…</trada></groupe>
+\con <groupe><phrasème>na-han̄</phrasème> <tradf>pilier</tradf> <trada>house post</trada></groupe>
+<groupe><phrasème>na-salwolwol</phrasème> <tradf>entrait</tradf> <trada>crossbeam</trada></groupe>
+<groupe><phrasème>na-han̄m̄ēt</phrasème> <tradf>poinçon</tradf> <trada>…</trada></groupe>
+<groupe><phrasème>no-soso</phrasème> <tradf>sablière</tradf> <trada>purlin</trada></groupe>
+<groupe><phrasème>no-sosogal</phrasème> <tradf>panne</tradf> <trada>…</trada></groupe>
+<groupe><phrasème>nē-kēybē</phrasème> <tradf>liteau, voligeage</tradf> <trada>…</trada></groupe>
+<groupe><phrasème>nē-hgēn</phrasème> <tradf>lien de faîtage</tradf> <trada>…</trada></groupe>
+<groupe><phrasème>nō-qōs</phrasème> <tradf>chevron</tradf> <trada>rafter</trada></groupe>
+<groupe><phrasème>na-pyet</phrasème> <tradf>panne inférieure</tradf> <trada>…</trada></groupe>
+<groupe><phrasème>nē-qēthōn</phrasème> <tradf>faîte, faîtage</tradf> <trada>ridgepole</trada></groupe>
+<groupe><phrasème>nē-qēthōngal</phrasème> <tradf>surfaîtage</tradf> <trada>…</trada></groupe>
 \rft maison
 \nt mais P9-68 = no-wososolô = les outils de la verrerie
 \nq
@@ -59976,15 +59976,15 @@ missionnaires.
 \tie Les mots de la guerre
 \tin Words of war
 \tiv na-pgal
-\con <groupe><phraseme>na-pgal</phraseme> <tradf>guerre</tradf><trada>war</trada></groupe>
-<groupe><phraseme>nē-vēytitit</phraseme> <tradf>bagarre, combat</tradf><trada>struggle, fight</trada></groupe>
-<groupe><phraseme>na-qtag</phraseme> <tradf>sagaie</tradf><trada>assegai</trada></groupe>
-<groupe><phraseme>ni-yin̄yin̄ vagal</phraseme> <tradf>arsenal de guerre</tradf><trada>war paraphernalia</trada></groupe>
-<groupe><phraseme>ōl taw</phraseme> <tradf>pousser le cri au combat</tradf><trada>battle cry</trada></groupe>
-<groupe><phraseme>na-mtewot</phraseme> <tradf>blessure</tradf><trada>wound</trada></groupe>
-<groupe><phraseme>na-tvale</phraseme> <tradf>ennemi</tradf><trada>enemy, foe</trada></groupe>
-<groupe><phraseme>taghiy</phraseme> <tradf>se réconcilier</tradf><trada>make peace</trada></groupe>
-<groupe><phraseme>na-tm̄at</phraseme> <tradf>paix</tradf><trada>peace</trada></groupe>
+\con <groupe><phrasème>na-pgal</phrasème> <tradf>guerre</tradf><trada>war</trada></groupe>
+<groupe><phrasème>nē-vēytitit</phrasème> <tradf>bagarre, combat</tradf><trada>struggle, fight</trada></groupe>
+<groupe><phrasème>na-qtag</phrasème> <tradf>sagaie</tradf><trada>assegai</trada></groupe>
+<groupe><phrasème>ni-yin̄yin̄ vagal</phrasème> <tradf>arsenal de guerre</tradf><trada>war paraphernalia</trada></groupe>
+<groupe><phrasème>ōl taw</phrasème> <tradf>pousser le cri au combat</tradf><trada>battle cry</trada></groupe>
+<groupe><phrasème>na-mtewot</phrasème> <tradf>blessure</tradf><trada>wound</trada></groupe>
+<groupe><phrasème>na-tvale</phrasème> <tradf>ennemi</tradf><trada>enemy, foe</trada></groupe>
+<groupe><phrasème>taghiy</phrasème> <tradf>se réconcilier</tradf><trada>make peace</trada></groupe>
+<groupe><phrasème>na-tm̄at</phrasème> <tradf>paix</tradf><trada>peace</trada></groupe>
 \rft
 \nt
 \nq
@@ -69258,18 +69258,18 @@ lune
 \tie Le calendrier traditionnel
 \tin The traditional calendar
 \tiv nō-wōl
-\con <groupe><phraseme>nē-wētgoy</phraseme> <tradf>janvier</tradf><trada>January</trada></groupe>
-<groupe><phraseme>lam̄heg towowoh</phraseme> <tradf>février</tradf><trada>February</trada></groupe>
-<groupe><phraseme>tētnawon</phraseme> <tradf>mars</tradf><trada>March</trada></groupe>
-<groupe><phraseme>lam̄heg doydoy</phraseme> <tradf>avril</tradf><trada>April</trada></groupe>
-<groupe><phraseme><variante>bōlbōltētdot</variante><variante>wōlta</variante></phraseme> <tradf>mai</tradf><trada>May</trada></groupe>
-<groupe><phraseme><variante>wuyvegsa</variante><variante>tētmalet</variante></phraseme> <tradf>juin</tradf><trada>June</trada></groupe>
-<groupe><phraseme>napdum̄ōl</phraseme> <tradf>juillet</tradf><trada>July</trada></groupe>
-<groupe><phraseme>takle in-gon</phraseme> <tradf>août</tradf><trada>August</trada></groupe>
-<groupe><phraseme>n-in-gon</phraseme> <tradf>septembre</tradf><trada>September</trada></groupe>
-<groupe><phraseme>n-in-yig</phraseme> <tradf>octobre</tradf><trada>October</trada></groupe>
-<groupe><phraseme>n-in-lap</phraseme> <tradf>novembre</tradf><trada>November</trada></groupe>
-<groupe><phraseme>n-in-wey</phraseme> <tradf>décembre</tradf><trada>December</trada></groupe>
+\con <groupe><phrasème>nē-wētgoy</phrasème> <tradf>janvier</tradf><trada>January</trada></groupe>
+<groupe><phrasème>lam̄heg towowoh</phrasème> <tradf>février</tradf><trada>February</trada></groupe>
+<groupe><phrasème>tētnawon</phrasème> <tradf>mars</tradf><trada>March</trada></groupe>
+<groupe><phrasème>lam̄heg doydoy</phrasème> <tradf>avril</tradf><trada>April</trada></groupe>
+<groupe><phrasème><variante>bōlbōltētdot</variante><variante>wōlta</variante></phrasème> <tradf>mai</tradf><trada>May</trada></groupe>
+<groupe><phrasème><variante>wuyvegsa</variante><variante>tētmalet</variante></phrasème> <tradf>juin</tradf><trada>June</trada></groupe>
+<groupe><phrasème>napdum̄ōl</phrasème> <tradf>juillet</tradf><trada>July</trada></groupe>
+<groupe><phrasème>takle in-gon</phrasème> <tradf>août</tradf><trada>August</trada></groupe>
+<groupe><phrasème>n-in-gon</phrasème> <tradf>septembre</tradf><trada>September</trada></groupe>
+<groupe><phrasème>n-in-yig</phrasème> <tradf>octobre</tradf><trada>October</trada></groupe>
+<groupe><phrasème>n-in-lap</phrasème> <tradf>novembre</tradf><trada>November</trada></groupe>
+<groupe><phrasème>n-in-wey</phrasème> <tradf>décembre</tradf><trada>December</trada></groupe>
 \rm Anas: 
 \xm Mars = tētnam̄ot ; May = le-pnō dudum̄ōl ; July = Bolboltetdot (?) ; Aout = Taktakle ingon
 \ee Auj., les noms des mois sont empruntés à l'anglais, et sont généralement précédés du mot
@@ -69923,18 +69923,18 @@ contondant ; |fl{en gén.} terme générique pour ‘frapper’
 \tie Manières de frapper
 \tin Ways to hit
 \tiv wuh
-\con <groupe><phraseme>woh</phraseme> <tradf>gifler avec la main ouverte</tradf><trada>slap with open hand</trada></groupe>
-<groupe><phraseme>tit</phraseme> <tradf>cogner avec le poing</tradf><trada>punch with fist</trada></groupe>
-<groupe><phraseme>wuh</phraseme> <tradf>rosser avec bâton lourd</tradf><trada>hit with heavy object</trada></groupe>
-<groupe><phraseme>lem̄eh</phraseme> <tradf>rosser avec bâton léger</tradf><trada>hit with stick</trada></groupe>
-<groupe><phraseme>lam̄heg</phraseme> <tradf>fouetter avec objet souple</tradf><trada>whip, lash using flexible stick</trada></groupe>
-<groupe><phraseme>tēq</phraseme> <tradf>lancer une flèche assommante; tirer une balle</tradf><trada>throw stunning arrow; fire a bullet at</trada></groupe>
-<groupe><phraseme>kay</phraseme> <tradf>décocher une flèche pointue</tradf><trada>shoot pointy arrow at</trada></groupe>
-<groupe><phraseme>es</phraseme> <tradf>suriner</tradf><trada>stab, holding weapon with one hand</trada></groupe>
-<groupe><phraseme>gon</phraseme> <tradf>transpercer des deux mains</tradf><trada>stab, holding weapon with both hands</trada></groupe>
-<groupe><phraseme>tuqul</phraseme> <tradf>lancer un bâton sur</tradf><trada>stun by throwing a stick at</trada></groupe>
-<groupe><phraseme>yim</phraseme> <tradf>lapider, assommer à coups de pierres</tradf><trada>throw stones at</trada></groupe>
-<groupe><phraseme>bōl</phraseme> <tradf>fracasser avec une pierre</tradf><trada>smash with a stone</trada></groupe>
+\con <groupe><phrasème>woh</phrasème> <tradf>gifler avec la main ouverte</tradf><trada>slap with open hand</trada></groupe>
+<groupe><phrasème>tit</phrasème> <tradf>cogner avec le poing</tradf><trada>punch with fist</trada></groupe>
+<groupe><phrasème>wuh</phrasème> <tradf>rosser avec bâton lourd</tradf><trada>hit with heavy object</trada></groupe>
+<groupe><phrasème>lem̄eh</phrasème> <tradf>rosser avec bâton léger</tradf><trada>hit with stick</trada></groupe>
+<groupe><phrasème>lam̄heg</phrasème> <tradf>fouetter avec objet souple</tradf><trada>whip, lash using flexible stick</trada></groupe>
+<groupe><phrasème>tēq</phrasème> <tradf>lancer une flèche assommante; tirer une balle</tradf><trada>throw stunning arrow; fire a bullet at</trada></groupe>
+<groupe><phrasème>kay</phrasème> <tradf>décocher une flèche pointue</tradf><trada>shoot pointy arrow at</trada></groupe>
+<groupe><phrasème>es</phrasème> <tradf>suriner</tradf><trada>stab, holding weapon with one hand</trada></groupe>
+<groupe><phrasème>gon</phrasème> <tradf>transpercer des deux mains</tradf><trada>stab, holding weapon with both hands</trada></groupe>
+<groupe><phrasème>tuqul</phrasème> <tradf>lancer un bâton sur</tradf><trada>stun by throwing a stick at</trada></groupe>
+<groupe><phrasème>yim</phrasème> <tradf>lapider, assommer à coups de pierres</tradf><trada>throw stones at</trada></groupe>
+<groupe><phrasème>bōl</phrasème> <tradf>fracasser avec une pierre</tradf><trada>smash with a stone</trada></groupe>
 \se wuh mat
 \ps vt
 \gr
@@ -70544,14 +70544,14 @@ for harvest…
 \tie La pêche à la ligne
 \tin Words of angling
 \tiv yap
-\con <groupe><phraseme>yapyap</phraseme><tradf>pêcher à la ligne</tradf><trada>go angling</trada></groupe>
-<groupe><phraseme>nē-tēhēl</phraseme><tradf>la canne à pêche</tradf><trada>the fishing rod</trada></groupe>
-<groupe><phraseme>ne-ge</phraseme><tradf>l’hameçon</tradf><trada>the hook</trada></groupe>
-<groupe><phraseme>na-gagal</phraseme><tradf>la ligne, le fil de pêche</tradf><trada>the fishing line</trada></groupe>
-<groupe><phraseme>no-wobebe</phraseme><tradf>l’appât</tradf><trada>the bait</trada></groupe>
-<groupe><phraseme>lam̄heg</phraseme><tradf>lancer la ligne</tradf><trada>cast the line</trada></groupe>
-<groupe><phraseme>wot</phraseme><tradf>mordre à l’hameçon</tradf><trada>bite the hook</trada></groupe>
-<groupe><phraseme>tam̄las</phraseme><tradf>lâcher l’hameçon</tradf><trada>let go of hook</trada></groupe>
+\con <groupe><phrasème>yapyap</phrasème><tradf>pêcher à la ligne</tradf><trada>go angling</trada></groupe>
+<groupe><phrasème>nē-tēhēl</phrasème><tradf>la canne à pêche</tradf><trada>the fishing rod</trada></groupe>
+<groupe><phrasème>ne-ge</phrasème><tradf>l’hameçon</tradf><trada>the hook</trada></groupe>
+<groupe><phrasème>na-gagal</phrasème><tradf>la ligne, le fil de pêche</tradf><trada>the fishing line</trada></groupe>
+<groupe><phrasème>no-wobebe</phrasème><tradf>l’appât</tradf><trada>the bait</trada></groupe>
+<groupe><phrasème>lam̄heg</phrasème><tradf>lancer la ligne</tradf><trada>cast the line</trada></groupe>
+<groupe><phrasème>wot</phrasème><tradf>mordre à l’hameçon</tradf><trada>bite the hook</trada></groupe>
+<groupe><phrasème>tam̄las</phrasème><tradf>lâcher l’hameçon</tradf><trada>let go of hook</trada></groupe>
 \sn 5
 \ge
 \re
