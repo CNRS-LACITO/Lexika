@@ -18,7 +18,7 @@
                       défaut: <lien statut="brisé">\g<vedette></lien>
                       cible: vedette
                     - type: relation
-                      origine: (?P<ensemble>(?P<vedette>[^\d]+)(?P<numéro_dʼhomonyme>[\d]+)*)   
+                      origine: (?P<ensemble>(?P<vedette>[^\d]+)(?P<numéro_dʼhomonyme>[\d]+)*)
             balises:
                 # Balises liée à l'entrée.
                 ton:

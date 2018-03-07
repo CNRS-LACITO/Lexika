@@ -12,17 +12,17 @@ class NébuleuseDʼOrion:
     """
     def __init__(self, configuration: dict):
         self.configuration = configuration
-        
+
         self.racine = None
-        self.dictionnaire = None        
+        self.dictionnaire = None
         self.identifiants = {}
-        
+
         self.lignes_mémorisées = {"factorisation": None, "antéposition": []}
-        
+
         self.famille_actuelle = []
         self.ascendance_actuelle = []
         self.informations_entités = {}
-        
+
         self.dépôt = {}
         self.appels_dépôt = []
 
@@ -43,7 +43,7 @@ class NébuleuseDʼOrion:
             self.analyser_abstraction(self.créateur_abstractions.créer_abstraction(nom))
             if élément_spécial == "métainformations":
                 self.récupérer_métainformations(nom, informations["entité"]["données"])
-    
+
     def récupérer_métainformations(self, nom_parent: str, informations: dict):
         """
         Récupère les métainformations diverses.
@@ -77,7 +77,7 @@ class NébuleuseDʼOrion:
                 entité = lexika.outils.Entité(**{"nom": nom})
                 parent.descendance.append(entité)
                 self.récupérer_métainformation(entité, valeur)
-        
+
     def lire_données(self, bloc_données: list):
         """
         Lit le bloc de données.
@@ -120,7 +120,7 @@ class NébuleuseDʼOrion:
                             if self.lignes_mémorisées["factorisation"]["actif"]:
                                 self.analyser_ligne_données(self.lignes_mémorisées["factorisation"]["ligne"], True)
                             else:
-                                self.lignes_mémorisées["factorisation"]["actif"] = True  
+                                self.lignes_mémorisées["factorisation"]["actif"] = True
                         # Traitement normal.
                         if informations_balise.get("abstraction") or informations_balise.get("abstractions"):
                             proabstractions = [informations_balise["abstraction"]] if informations_balise.get("abstraction") else informations_balise.get("abstractions")
@@ -158,7 +158,7 @@ class NébuleuseDʼOrion:
         Il s'agit de la fonction centrale de le triade principale, qui gère uniquement les abstractions avec des récursions possibles et les différentes conditions.
         """
         self.témoin.nom_abstraction = abstraction.nom
-        self.témoin.nom_abstraction_appelante = abstraction.appelants[-1].nom if abstraction.appelants else None        
+        self.témoin.nom_abstraction_appelante = abstraction.appelants[-1].nom if abstraction.appelants else None
         # Cas singulier (racine, impérativement vers le début).
         if "racine" in abstraction.spécial.get("drapeaux", {}):
             self.racine = self.créer_entité(abstraction, None)
@@ -199,7 +199,7 @@ class NébuleuseDʼOrion:
                     self.mettre_à_jour_entité(abstraction, parent)
                 else:
                     entité = self.créer_entité(abstraction, parent)
-                    est_nouvelle = "entrée" in abstraction.spécial.get("drapeaux", {})          
+                    est_nouvelle = "entrée" in abstraction.spécial.get("drapeaux", {})
                     self.mettre_à_jour_famille(entité, est_nouvelle)
                     self.mettre_à_jour_informations_entité(entité, abstraction, est_nouvelle)
                     self.mettre_à_jour_ascendance(parent, entité)
@@ -260,7 +260,7 @@ class NébuleuseDʼOrion:
             self.témoin.information(_(f"L’abstraction « {abstraction.nom} » n’a aucun parent."))
             parent = None
         return parent
-    
+
     def tester_parenté(self, abstraction: lexika.outils.Abstraction, parents: list) -> lexika.outils.Entité:
         """
         Teste chaque parent potentiel (fonction intermédiaire de recherche de parenté).
@@ -311,9 +311,9 @@ class NébuleuseDʼOrion:
         if not entités:
             entités = [entité for entité in (self.ascendance_actuelle[-2].descendance if len(self.ascendance_actuelle) > 1 and hasattr(self.ascendance_actuelle[-2], "descendance") else []) if entité.nom in noms]
 #            famille = list({entité.nom: entité for entité in self.famille_actuelle if entité.nom in noms}.values())
-        
+
         return entités
-    
+
     def déposer_abstraction(self, entrée: lexika.outils.Entité, abstraction: lexika.outils.Abstraction):
         """
         Dépose une abstraction non résolue en attente d'une analyse au moment opportun défini par le nom de l'entité parente manquante.
@@ -339,7 +339,7 @@ class NébuleuseDʼOrion:
             self.famille_actuelle.clear()
         self.famille_actuelle.append(entité)
         self.témoin.information(_(f"Ajout de l'entité « {entité.nom} » dans la famille actuelle"))
-        
+
     def mettre_à_jour_ascendance(self, parent: lexika.outils.Entité, entité: lexika.outils.Entité):
         """
         Met à jour l'ascendance qui garde une trace de tous les parents de l'entité en cours, ce qui permet de garder en mémoire les différents environnements auxquels une abstraction en cours d'analyse a accès (donc le parent direct et ses parents successifs), ce qui cloisonne les environnements pour éviter qu'une entité puisse se rattacher à une entité inadéquate (typiquement, les sens, les sous-entrées, etc.) ; visibilité verticale.
@@ -367,7 +367,7 @@ class NébuleuseDʼOrion:
         identifiant_parent = parent[0].caractéristiques["identifiant"] if parent else ""
         identifiant = f"{identifiant_parent}{informations_identifiant['constante']}{abstraction.entité['valeur']}"
         entité.caractéristiques["identifiant"] = identifiant
-            
+
     def connecter_liens(self):
         """
         Connecte les liens (cibles avec identifiant).
@@ -375,20 +375,22 @@ class NébuleuseDʼOrion:
         self.rapatrier_renvois(self.racine)
         self.convertisseur_texte_enrichi = lexika.outils.ConvertisseurDeTexteEnrichi(self.configuration.informations_entrée["modèles"]["texte enrichi"], self.configuration.informations_sortie["identifiants"], self.identifiants)
         self.connecter_lien(self.racine)
-        
+
     def rapatrier_renvois(self, entité: lexika.outils.Entité, identifiant: str = None):
         """
         Rapatrie tous les éléments susceptibles d’être renvoyés pour des liens.
-        """   
+        """
         identifiant = entité.caractéristiques.get("identifiant", identifiant)
+        if identifiant not in self.identifiants:
+            self.identifiants[identifiant] = []
         if hasattr(entité, "spécial") and "renvoyable" in entité.spécial.get("drapeaux", {}):
             if entité.valeur in self.identifiants:
                 logging.warning(_(f"Le renvoi « {entité.valeur} » est déjà présent dans la liste des identifiants en tant que « {self.identifiants[entité.valeur]} » et ne sera pas remplacé par « {identifiant} »."))
-            self.identifiants[entité.valeur] = self.identifiants.get(entité.valeur, identifiant)
+            self.identifiants[self.identifiants.get(entité.valeur, identifiant)].append(entité.valeur)
         if hasattr(entité, "descendance"):
             for enfant in entité.descendance:
                 self.rapatrier_renvois(enfant, identifiant)
-    
+
     def connecter_lien(self, entité: lexika.outils.Entité):
         """
         Connecte récursivement les liens (directs ou inclus dans des texte enrichis).
@@ -402,4 +404,4 @@ class NébuleuseDʼOrion:
         if hasattr(entité, "descendance"):
             for enfant in entité.descendance:
                 self.connecter_lien(enfant)
-        
+

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0" xmlns:exslt="http://exslt.org/common">
     <xsl:output method="html" doctype-public="-//W3C//DTD HTML 5 Transitional//EN" encoding="utf-8" indent="yes"/>
-    
+
     <xsl:variable name="minuscules" select="'abcdeēfghijklmm̄n̄noōpqrstuvwxyz'" />
     <xsl:variable name="majuscules" select="'ABCDEĒFGHIJKLMM̄N̄NOŌPQRSTUVWXYZ'" />
-    
+
     <xsl:param name="racine"/>
     <xsl:param name="languev"/>
     <xsl:param name="langue1"/>
@@ -17,8 +17,8 @@
         <langue><xsl:value-of select="$langue1"/></langue>
         <langue><xsl:value-of select="$langue2"/></langue>
         <langue><xsl:value-of select="$langue3"/></langue>
-    </xsl:variable>   
-             
+    </xsl:variable>
+
     <xsl:template match="RessourceLexicale">
         <!--<html>
             <head>
@@ -39,10 +39,10 @@
                     <div class="row">
                         <nav id="gouvernail" class="navbar navbar-expand-lg navbar-light bg-light justify-content-between fixed-top">
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#barre-navigation" aria-controls="barre-navigation" aria-expanded="false" aria-label="Basculer navigation">
-                                <span class="navbar-toggler-icon"></span>                     
+                                <span class="navbar-toggler-icon"></span>
                             </button>
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#index" aria-controls="index«" aria-expanded="false" aria-label="Basculer navigation">
-                                <span class="navbar-toggler-icon"></span>                     
+                                <span class="navbar-toggler-icon"></span>
                             </button>
                             <xsl:element name="a">
                                 <xsl:attribute name="class">nav-link</xsl:attribute>
@@ -63,11 +63,11 @@
                                 <xsl:call-template name="sélecteur_langue"/>
                             </div>
                         </nav>
-                    </div>           
+                    </div>
                     <div class="row">
                         <div id="index" class="fixed-top col col-lg-1">
                             <xsl:call-template name="index"/>
-                        </div>                    
+                        </div>
                         <div id="corps" class="col col-lg-11">
                             <xsl:call-template name="dictionnaire"/>
                         </div>
@@ -76,10 +76,10 @@
             <!--</body>
         </html>-->
     </xsl:template>
-    
+
     <xsl:template match="InformationsGlobales">
     </xsl:template>
-    
+
     <xsl:template name="dictionnaires">
         <a class="dropdown-toggle nav-link" data-toggle="dropdown">Dictionnaires <span class="caret"></span></a>
         <ul id="menu-dictionnaires" class="dropdown-menu">
@@ -184,8 +184,13 @@
                         <xsl:element name="a">
                             <xsl:attribute name="class">nav-link</xsl:attribute>
                             <xsl:attribute name="href">
-                                <xsl:text>?caractère=</xsl:text>
-                                <xsl:value-of select="$lettrine"/>
+                                <xsl:call-template name="adresse">
+                                    <xsl:with-param name="languev" select="$languev"/>
+                                    <xsl:with-param name="langue1" select="$langue1"/>
+                                    <xsl:with-param name="langue2" select="$langue2"/>
+                                    <xsl:with-param name="langue3" select="$langue3"/>
+                                    <xsl:with-param name="caractère" select="$lettrine"/>
+                                </xsl:call-template>
                             </xsl:attribute>
                             <xsl:value-of select="$lettrine"/>
                         </xsl:element>
@@ -194,14 +199,14 @@
             </xsl:for-each>
         </ul>
     </xsl:template>
-    
-    <xsl:template name="recherche">                
+
+    <xsl:template name="recherche">
         <form class="form-inline my-2 my-lg-0">
             <input class="form-control mr-sm-2" type="search" placeholder="Tapez quelque chose…" aria-label="Recherche" lang="fr"/>
             <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Recherchez</button>
         </form>
     </xsl:template>
-        
+
     <xsl:template name="sélecteur_langue">
     </xsl:template>
 
@@ -238,7 +243,7 @@
                     <span class="vedette">
                         <xsl:apply-templates select="Lemme/FormeÉcrite"/>
                     </span>
-                    <xsl:if test="NuméroDHomonyme">                        
+                    <xsl:if test="NuméroDHomonyme">
                         <xsl:apply-templates select="NuméroDHomonyme"/>
                     </xsl:if>
                     <xsl:if test="Lemme/FormeDeCitation">
@@ -264,11 +269,12 @@
                 <xsl:apply-templates select="Groupe|Sens|Sous-entrée"/>
                 <xsl:apply-templates select="Encadré"/>
                 <xsl:apply-templates select="Tableau"/>
+                <xsl:apply-templates select="Image"/>
                 <xsl:apply-templates select="Étymologie"/>
             </div>
         </xsl:if>
     </xsl:template>
-    
+
     <xsl:template match="Sous-entréeLexicale">
         <div class="sous-entrée">
             <xsl:attribute name="id">
@@ -278,7 +284,7 @@
                 <span class="vedette">
                     <xsl:apply-templates select="Lemme/FormeÉcrite"/>
                 </span>
-                <xsl:if test="NuméroDHomonyme">                        
+                <xsl:if test="NuméroDHomonyme">
                     <xsl:apply-templates select="NuméroDHomonyme"/>
                 </xsl:if>
                 <xsl:if test="Lemme/FormeDeCitation">
@@ -296,7 +302,7 @@
             <xsl:apply-templates select="Tableau"/>
             <xsl:apply-templates select="Étymologie"/>
         </div>
-    </xsl:template>  
+    </xsl:template>
 
     <xsl:template match="Groupe">
         <div class="groupe">
@@ -310,7 +316,7 @@
             <xsl:apply-templates select="Sens|Sous-entrée"/>
         </div>
     </xsl:template>
-    
+
     <xsl:template match="Sens">
         <div class="sens">
             <xsl:attribute name="id">
@@ -318,8 +324,8 @@
             </xsl:attribute>
             <xsl:apply-templates select="NuméroDeSens"/>
             <xsl:variable name="parent" select="."/>
-            <xsl:for-each select="exslt:node-set($langues)/langue">  
-                <xsl:variable name="langue" select="node()"/>  
+            <xsl:for-each select="exslt:node-set($langues)/langue">
+                <xsl:variable name="langue" select="node()"/>
                 <xsl:choose>
                     <xsl:when test="$parent/Définition">
                         <xsl:apply-templates select="$parent/Définition[ReprésentationDeTexte[@langue=$langue]]"/>
@@ -327,14 +333,15 @@
                     <xsl:when test="$parent/Glose">
                         <xsl:apply-templates select="$parent/Glose[@langue=$langue]"/>
                     </xsl:when>
-                </xsl:choose>   
-            </xsl:for-each>         
+                </xsl:choose>
+            </xsl:for-each>
             <xsl:apply-templates select="Exemple"/>
+            <xsl:apply-templates select="RelationSémantique"/>
             <xsl:apply-templates select="Sous-entréeLexicale"/>
             <xsl:apply-templates select="Sens"/>
         </div>
     </xsl:template>
-    
+
     <xsl:template match="Glose">
         <span class="glose">
             <span>
@@ -345,9 +352,9 @@
                 </xsl:attribute>
                 <xsl:value-of select="node()"/>
             </span>
-        </span>        
+        </span>
     </xsl:template>
-    
+
     <xsl:template match="Définition">
         <span class="définition">
             <xsl:apply-templates select="Étiquette[Type='syntaxe']"/>
@@ -355,25 +362,43 @@
             <xsl:apply-templates select="ReprésentationDeTexte"/>
         </span>
     </xsl:template>
-    
+
     <xsl:template match="Exemple">
         <div class="exemple">
             <xsl:variable name="parent" select="."/>
             <xsl:for-each select="exslt:node-set($langues)/langue">
-                <xsl:variable name="langue" select="node()"/>       
+                <xsl:variable name="langue" select="node()"/>
                 <span class="traduction_exemple">
-                    <xsl:apply-templates select="$parent/ReprésentationDeTexte[@langue=$langue]"/> 
-                </span>      
+                    <xsl:apply-templates select="$parent/ReprésentationDeTexte[@langue=$langue]"/>
+                </span>
             </xsl:for-each>
         </div>
     </xsl:template>
-    
+
+    <xsl:template match="RelationSémantique">
+        <div class="relation_sémantique">
+            <span>
+                <xsl:attribute name="class">
+                    <xsl:text>type_relation_sémantique </xsl:text>
+                    <xsl:value-of select="$langue1"/>
+                </xsl:attribute>
+                <xsl:call-template name="traduction">
+                    <xsl:with-param name="langue" select="$langue1"/>
+                    <xsl:with-param name="expression" select="Type"/>
+                </xsl:call-template>
+            </span>
+            <span class="cible_relation_sémantique">
+                <xsl:apply-templates select="Cible"/>
+            </span>
+        </div>
+    </xsl:template>
+
     <xsl:template match="Étymologie">
         <div class="étymologie">
             <xsl:apply-templates select="Étymon"/>
         </div>
     </xsl:template>
-    
+
     <xsl:template match="Étymon">
         <span class="étymon">
             <xsl:apply-templates select="Langue"/>
@@ -383,70 +408,70 @@
             <xsl:apply-templates select="Glose"/>
         </span>
     </xsl:template>
-    
+
     <xsl:template match="Langue">
         <span class="langue">
             <xsl:value-of select="node()"/>
         </span>
     </xsl:template>
-    
+
     <xsl:template match="Glose[name(..)='Étymon']">
         <span class="glose_étymon">
             <xsl:value-of select="node()"/>
-        </span>       
+        </span>
     </xsl:template>
-    
+
     <xsl:template match="FormeÉcrite">
         <xsl:value-of select="node()"/>
     </xsl:template>
-    
+
     <xsl:template match="NuméroDHomonyme">
         <span class="homonyme">
             <xsl:value-of select="node()"/>
         </span>
     </xsl:template>
-    
+
     <xsl:template match="FormeDeCitation">
         <span class="forme_citation">
             (<xsl:value-of select="node()"/>)
         </span>
     </xsl:template>
- 
+
     <xsl:template match="FormePhonétique">
         <span class="forme_phonétique">
             <xsl:value-of select="node()"/>
         </span>
-    </xsl:template>  
+    </xsl:template>
 
     <xsl:template match="ClasseGrammaticale">
         <span class="classe_grammaticale">
             <xsl:value-of select="node()"/>
         </span>
     </xsl:template>
-    
+
     <xsl:template match="NomDeGroupe">
         <span class="nom_groupe">
             <xsl:value-of select="node()"/>
         </span>
-    </xsl:template>  
-    
+    </xsl:template>
+
     <xsl:template match="NuméroDeSens">
         <span class="numéro_sens">
             <xsl:value-of select="node()"/>
         </span>
     </xsl:template>
-    
+
     <xsl:template match="Étiquette[Type='syntaxe']">
-        (<span class="étiquette_syntaxique">
+        <span class="étiquette_syntaxique">
             <xsl:apply-templates select="ReprésentationDeTexte"/>
-        </span>)
+        </span>
     </xsl:template>
-    
+
     <xsl:template match="TraductionLittérale">
         <span>
             <xsl:attribute name="class">
                 <xsl:text>traduction_littérale </xsl:text>
-                <xsl:value-of select="@langue"/><xsl:text> </xsl:text>  
+                <xsl:value-of select="@langue"/><xsl:text> </xsl:text>
                 <xsl:call-template name="statut_langue">
                     <xsl:with-param name="code" select="@langue"/>
                 </xsl:call-template>
@@ -455,92 +480,16 @@
         </span>
     </xsl:template>
 
-    <xsl:template match="DomaineSémantique">
-        <span class="domaine_sémantique">
-            <xsl:text>&lt;</xsl:text><xsl:value-of select="caractéristique[@attribut='domaine']/@valeur"/><xsl:text>&gt;</xsl:text>
-        </span>
-    </xsl:template>
-
-    <xsl:template match="noms_scientifiques">
-        <xsl:for-each select="NomScientifique">
-            <p class="nom_scientifique">
-                <xsl:text>☘ </xsl:text>
-		<xsl:element name="a">
-                    <xsl:attribute name="href">
-                        <xsl:value-of select="concat('http://www.google.com/images?q=', caractéristique[@attribut='nom']/@valeur)"/>
-                    </xsl:attribute>
-                    <xsl:attribute name="target">
-						<xsl:text>_blank</xsl:text>
-					</xsl:attribute>
-                    <xsl:choose>
-                        <xsl:when test="caractéristique/contenu">
-                            <xsl:apply-templates select="caractéristique/contenu"/>
-                        </xsl:when>
-                        <xsl:otherwise>
-                            <xsl:value-of select="caractéristique[@attribut='nom']/@valeur"/>
-                        </xsl:otherwise>
-                    </xsl:choose>
-                </xsl:element>
-            </p>
-        </xsl:for-each>
-    </xsl:template>
-
-
-    <xsl:template match="commentaires">
-        <span class="commentaireDexemple">
-            [<xsl:value-of select="CommentaireDexemple/caractéristique[@attribut='commentaire']/@valeur"/>]
-        </span>
-    </xsl:template>
-
-    <xsl:template match="relations_sémantiques">
-        <p>
-            <xsl:for-each select="RelationSémantique">
-                <span class="relation_sémantique">
-                    <span class="type">
-                        <xsl:value-of select="caractéristique[@attribut='type']/@valeur"/>
-                        <xsl:text> : </xsl:text>
-                    </span>
-                    <xsl:apply-templates select="node()"/>
-                </span>
-            </xsl:for-each>
-        </p>
-    </xsl:template>
-
-    <xsl:template match="Note[caractéristique[@attribut='type' and @valeur='syntaxique']]">
-        <span class="syntax">
-            [<xsl:value-of select="caractéristique[@attribut='note']/@valeur"/>]
-        </span>
-    </xsl:template>
-   <xsl:template match="Note[caractéristique[@attribut='type' and @valeur='usage']]">
-        <span class="sujet">
-            (<xsl:value-of select="caractéristique[@attribut='note']/@valeur"/>)
-        </span>
-    </xsl:template>
-
     <xsl:template match="Image">
         <figure>
-            <xsl:element name="img">
+            <img>
                 <xsl:attribute name="src">
-		    <xsl:text>./img/</xsl:text>
-                    <xsl:value-of select="caractéristique[@attribut='chemin']/@valeur"/>
+                    <xsl:value-of select="CheminDAccès"/>
                 </xsl:attribute>
-		<xsl:attribute name="class">
-                    <xsl:text>figure</xsl:text>
-		</xsl:attribute>
-		 <xsl:attribute name="max-width">
-                    <xsl:text>200</xsl:text>
-		</xsl:attribute>
-            </xsl:element>
-            <xsl:element name="figcaption">
-                <xsl:choose>
-                    <xsl:when test="caractéristique/contenu">
-                        <xsl:apply-templates select="caractéristique/contenu"/>
-                    </xsl:when>
-                    <xsl:otherwise>
-                        <xsl:value-of select="caractéristique[@attribut='légende']/@valeur"/>
-                    </xsl:otherwise>
-                </xsl:choose>
-            </xsl:element>
+            </img>
+            <caption>
+                <xsl:apply-templates select="Légende"/>
+            </caption>
         </figure>
     </xsl:template>
 
@@ -584,7 +533,7 @@
             </table>
         </div>
     </xsl:template>
-    
+
     <xsl:template match="Encadré">
         <div class="encadré">
             <xsl:apply-templates select="Titre"/>
@@ -603,7 +552,7 @@
             </xsl:for-each>
         </div>
     </xsl:template>
-    
+
     <xsl:template match="Titre">
         <span class="titre">
             <span>
@@ -629,13 +578,18 @@
         </span>
     </xsl:template>
 
-    <xsl:template match="lien">
+    <xsl:template match="Cible|lien">
         <xsl:choose>
-            <xsl:when test="not(@statut = 'brisé')">
-                <xsl:element name="a">
-        <!--            <xsl:attribute name="target">
+            <xsl:when test="@statut = 'brisé' or not(@cible)">
+                <span class="lien_brisé">
+                    <xsl:value-of select="."/>
+                </span>
+            </xsl:when>
+            <xsl:otherwise>
+                <a>
+                    <xsl:attribute name="target">
                         <xsl:text>_blank</xsl:text>
-                    </xsl:attribute>-->
+                    </xsl:attribute>
             		<xsl:attribute name="class">
                         <xsl:text>lien_ok</xsl:text>
                     </xsl:attribute>
@@ -651,13 +605,9 @@
                         <xsl:value-of select="@cible"/>
                     </xsl:attribute>
                     <xsl:value-of select="."/>
-                </xsl:element>
-            </xsl:when>
-            <xsl:otherwise>
-                <span class="lien_brisé">
-                    <xsl:value-of select="."/>
-                </span>
+                </a>
             </xsl:otherwise>
+
         </xsl:choose>
     </xsl:template>
 
@@ -684,7 +634,7 @@
             </xsl:when>
         </xsl:choose>
     </xsl:template>
-    
+
     <xsl:template name="adresse">
         <xsl:param name="languev"/>
         <xsl:param name="langue1"/>
@@ -706,5 +656,80 @@
         </xsl:if>
         <xsl:text>&amp;caractère=</xsl:text>
         <xsl:value-of select="$caractère"/>
+    </xsl:template>
+
+    <xsl:template name="traduction">
+        <xsl:param name="langue"/>
+        <xsl:param name="expression"/>
+        <xsl:choose>
+            <xsl:when test="$langue='fra'">
+                <xsl:choose>
+                    <xsl:when test="$expression='synonyme'">
+                        <xsl:text>syn</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="$expression='antonyme'">
+                        <xsl:text>ant</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="$expression='renvoi'">
+                        <xsl:text>cf</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="$expression='emprunt'">
+                        <xsl:text>empr</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="$expression='homonyme'">
+                        <xsl:text>hom</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="$expression='classificateur possessif'">
+                        <xsl:text>clpos</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="$expression='intensificateur'">
+                        <xsl:text>intsf</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="$expression='emphase'">
+                        <xsl:text>emph</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="$expression='inattestation'">
+                        <xsl:text>†</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="$expression='inattestation sévère'">
+                        <xsl:text>‡</xsl:text>
+                    </xsl:when>
+                </xsl:choose>
+            </xsl:when>
+            <xsl:when test="$langue='eng'">
+                <xsl:choose>
+                    <xsl:when test="$expression='synonyme'">
+                        <xsl:text>syn</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="$expression='antonyme'">
+                        <xsl:text>ant</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="$expression='renvoi'">
+                        <xsl:text>cf</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="$expression='emprunt'">
+                        <xsl:text>empr</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="$expression='homonyme'">
+                        <xsl:text>hom</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="$expression='classificateur possessif'">
+                        <xsl:text>clpos</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="$expression='intensificateur'">
+                        <xsl:text>intsf</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="$expression='emphase'">
+                        <xsl:text>emph</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="$expression='inattestation'">
+                        <xsl:text>†</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="$expression='inattestation sévère'">
+                        <xsl:text>‡</xsl:text>
+                    </xsl:when>
+                </xsl:choose>
+            </xsl:when>
+        </xsl:choose>
     </xsl:template>
 </xsl:stylesheet>

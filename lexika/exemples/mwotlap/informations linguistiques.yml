@@ -20,7 +20,9 @@
                       défaut: <\g<type>><lien statut="brisé">\g<vedette></lien></\g<type>>
                       cible: vedette
                     - type: relation
-                      origine: (?P<ensemble>(?P<vedette>[^\d]+)(?P<numéro_dʼhomonyme>[\d]+)*)   
+                      origine: (?P<ensemble>(?P<vedette>[^\d]+)(?P<numéro_dʼhomonyme>[\d]+)*)
+                    - type: floutage de lien
+                      origine: ([\[\]])
             balises:
                 # Balises principales.
                 lf:
@@ -31,7 +33,7 @@
                     abstraction: nom de groupe
                 # Balises liées aux définitions.
                 we:
-                    abstractions: 
+                    abstractions:
                         - nom: type d’étiquette
                           valeur: syntaxe
                           caractéristiques:
@@ -42,7 +44,7 @@
                     drapeaux:
                         antéposition: de
                 wn:
-                    abstractions: 
+                    abstractions:
                         - nom: type d’étiquette
                           valeur: syntaxe
                           caractéristiques:
@@ -93,6 +95,11 @@
                         langue: cible 2
                 rft:
                     abstraction: référence de tableau
+                # Balises liées aux images.
+                pc:
+                    abstraction: chemin d’accès d’image
+                lg:
+                    abstraction: légende d’image
     sortie:
         LMF Alex:
             parent: LMF
@@ -107,13 +114,20 @@
                     nom: n
                     interjection: intj
                     préfixe: pf
-                    préposition: prep                  
+                    préposition: prep
                     particule: ptc
                     locatif: loc
                 type de relation sémantique:
                     synonyme: [Syn., Syn]
                     antonyme: [Ant., Ant]
                     renvoi: Cf.
+                    emprunt: Empr.
+                    inattestation: †
+                    inattestation sévère: ‡
+                    homonyme: Hom.
+                    classificateur possessif: ClPos
+                    intensificateur: Intsf.
+                    emphase: Emph.
             abstractions:
                 # Abstractions principales.
                 groupe:
@@ -130,7 +144,7 @@
                         nom: groupe
                         voie: impérieuse
                     spécial:
-                        drapeaux: 
+                        drapeaux:
                             - identifiant
                 # Abstractions directement liées aux entrées.
                 classe grammaticale:
@@ -140,10 +154,10 @@
                         nom:
                             - entrée lexicale
                             - sous-entrée lexicale
-                            - groupe        
+                            - groupe
                     spécial:
                         drapeaux:
-                            - correspondance                
+                            - correspondance
                 # Abstractions directement liées aux sens.
                 sens:
                     entité:
@@ -156,10 +170,10 @@
                         conditions:
                             entité:
                                 nom: sous-entrée lexicale
-                                état: absent       
+                                état: absent
                 # Abstractions liées aux tableaux et encadrés.
                 tableau:
-                    entité: 
+                    entité:
                         nom: tableau
                     parent:
                         nom:
@@ -167,13 +181,13 @@
                             - sous-entrée lexicale
                             - groupe
                 encadré:
-                    entité: 
+                    entité:
                         nom: encadré
                     parent:
                         nom:
                             - entrée lexicale
                             - sous-entrée lexicale
-                            - groupe            
+                            - groupe
                 nom de tableau:
                     entité:
                         nom: nom
@@ -194,7 +208,7 @@
                     entité:
                         nom: titre
                     parent:
-                        nom: 
+                        nom:
                             - tableau
                             - encadré
                 contenu structuré:
@@ -218,7 +232,34 @@
                         nom: référence
                     parent:
                         nom: tableau
-                        
-                    
-                    
-                                         
+                image:
+                    entité:
+                        nom: image
+                    parent:
+                        nom: entrée lexicale
+                chemin d’accès d’image:
+                    entité:
+                        nom: chemin d’accès
+                    parent:
+                        nom: image
+                    préabstraction:
+                        nom: image
+                bloc légende d’image:
+                    entité:
+                        nom: légende
+                    parent:
+                        nom: image
+                légende d’image:
+                    entité:
+                        nom: représentation de texte
+                        spécial:
+                            drapeaux:
+                                - texte enrichi
+                    parent:
+                        nom: légende
+                    préabstraction:
+                        nom: bloc légende d’image
+
+
+
+

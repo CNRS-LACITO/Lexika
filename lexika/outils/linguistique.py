@@ -2,8 +2,10 @@
 # -*- coding: utf-8 -*-
 
 import copy
+import logging
 import lxml.etree
 from typing import Union
+import pprint
 import regex
 
 
@@ -50,10 +52,10 @@ class Entité:
         self.spécial = spécial
         self.données = données
         self.nom_classe = convertir_nom_classe(nom)
-        
+
     def __repr__(self):
         return _(f"<entité {self.nom_classe} à {hex(id(self))}>")
-    
+
 
 class CréateurDʼAbstractions:
     """
@@ -76,50 +78,86 @@ class ConvertisseurDeTexteEnrichi:
     """
     def __init__(self, modèles: list, structure: dict, source: dict):
         self.convertisseur_expressions_rationnelles = ConvertisseurDʼExpressionsRationnelles()
-        self.modèles_lien, self.modèles_style, self.modèles_relation = self.préparer_modèles(modèles)
+        self.modèles_lien, self.modèles_style, self.modèles_relation, self.modèles_floutage_lien = self.préparer_modèles(modèles)
         self.modèle_groupe = regex.compile(r"(?P<ensemble>\\g<(?P<clef>.+?)>)")
         self.source = source
         self.structure = structure
-        
+        self.source_inverse = self.créer_source_inversée(self.source)
+        logging.info(_(f"Identifiants pour les renvois :\n {pprint.pformat(self.source_inverse)}\n"))
+
     def préparer_modèles(self, modèles):
+        """
+        Prépare les différents modèles d’expression rationnelle.
+        """
         for modèle in modèles:
             modèle["origine"] = regex.compile(self.convertisseur_expressions_rationnelles.inconvertir(modèle["origine"]), flags=regex.V1)
-        return [[modèle for modèle in modèles if modèle["type"] == type] for type in ["lien", "style", "relation"]]
+        return [[modèle for modèle in modèles if modèle["type"] == type] for type in ["lien", "style", "relation", "floutage de lien"]]
+
+    def créer_source_inversée(self, source: dict):
+        """
+        Crée la source inversée permettant de manière exhaustive de retrouver l’identifiant à partir d’une expression simplifiée.
+        """
+        source_inversée = {}
+        for identifiant, renvois in self.source.items():
+            if identifiant:
+                source_inversée[identifiant] = identifiant
+                for identifiant_simplifié in self.créer_identifiants_simplifiés(identifiant):
+                    if identifiant_simplifié not in source_inversée:
+                        source_inversée[identifiant_simplifié] = identifiant
+            for renvoi in renvois:
+                if renvoi not in source_inversée:
+                    source_inversée[renvoi] = identifiant
+        return source_inversée
+
+    def créer_identifiants_simplifiés(self, identifiant: str):
+        """
+        Crée des identifiants simplifiés (sans aucune constante d’identifiant d’entité, sans aucun caractère facultatif, etc.).
+        """
+        identifiants = []
+        correspondances = str.maketrans({élément["constante"]: "" for élément in self.structure.values()})
+        identifiant = identifiant.translate(correspondances)
+        identifiants.append(identifiant)
+        for modèle in self.modèles_floutage_lien:
+            identifiant = modèle["origine"].sub("", identifiant)
+            identifiants.append(identifiant)
+        return identifiants
 
     def convertir_texte(self, texte: str) -> str:
         """
         Convertit un texte enrichi en XML (styles et liens).
         """
         return self.convertir_styles(self.convertir_liens(texte))
-    
+
     def convertir_liens(self, texte: str) -> str:
         """
         Convertit les différents liens en balises XML.
         """
         for modèle in self.modèles_lien:
             texte = modèle["origine"].sub(lambda bilan, modèle=modèle: self.convertir_lien_intra_expression(bilan, modèle), texte)
-        return texte   
-    
+        return texte
+
     def convertir_styles(self, texte: str) -> str:
         """
         Convertit les différents styles en balises XML.
-        """  
+        """
         for modèle in self.modèles_style:
             texte = modèle["origine"].sub(modèle["but"], texte)
-        return texte     
+        return texte
 
     def trouver_cible(self, texte: str) -> str:
         """
         Tente de trouver la cible d'un lien dans la source, d'abord par recherche directe, puis par inférence d’identifiant.
         """
-        résultat = self.source.get(texte)
+        résultat = self.source_inverse.get(texte)
+        if not résultat:
+            résultat = self.source_inverse.get(texte)
         if not résultat:
             for candidat in self.créer_candidats(texte):
-                if candidat in self.source.values():
+                if candidat in self.source_inverse:
                     résultat = candidat
                     break
         return résultat
-    
+
     def créer_candidats(self, texte: str) -> list:
         """
         Crée des identifiants de candidats potentiels.
@@ -136,7 +174,7 @@ class ConvertisseurDeTexteEnrichi:
                         meilleur_candidat += f"{self.structure[élément]['constante']}{bilan.group(self.convertisseur_expressions_rationnelles.inconvertir(élément))}"
                 candidats.append(meilleur_candidat)
         return candidats
-    
+
     def convertir_lien_intra_expression(self, bilan, modèle: dict):
         """
         Convertit les liens dans les expressions rationnelles de remplacement.
@@ -144,8 +182,8 @@ class ConvertisseurDeTexteEnrichi:
         cible = self.trouver_cible(bilan.group(modèle["cible"]))
         remplacements = {clef: valeur for clef, valeur in {**bilan.groupdict(), "cible": cible}.items() if valeur}
         return self.modèle_groupe.sub(lambda bilan, remplacements=remplacements: remplacements.get(bilan.group("clef"), ""), modèle["but"] if cible else modèle["défaut"])
-        
-        
+
+
 class ConvertisseurDʼAbréviations:
     """
     Classe qui convertit les abréviations pour les informations de type liste fermée.
@@ -154,13 +192,13 @@ class ConvertisseurDʼAbréviations:
         self.dictionnaire = {}
         for catégorie, correspondances in dictionnaire.items():
             self.dictionnaire[catégorie] = {abréviation: terme for terme, abréviations in correspondances.items() for abréviation in (abréviations if isinstance(abréviations, list) else [abréviations])}
-        
+
     def convertir(self, catégorie: str, terme: str) -> str:
         """
         Convertit un terme d'une catégorie selon le dictionnaire interne dérivé de la configuration s'il est présent, le renvoie tel quel sinon.
         """
         return self.dictionnaire.get(catégorie, {}).get(terme, terme)
-    
+
 
 class ConvertisseurDʼExpressionsRationnelles:
     """
@@ -168,7 +206,7 @@ class ConvertisseurDʼExpressionsRationnelles:
     """
     def __init__(self):
         self.caractères = {" ": "_", "’": "ʼ"}
-        
+
     def inconvertir(self, expression: str):
         """
         Convertit l’expression rationnelle de la réalité vers la norme de la bibliothèque.
@@ -176,7 +214,7 @@ class ConvertisseurDʼExpressionsRationnelles:
         for ancien_caractère, nouveau_caractère in self.caractères.items():
             expression = expression.replace(ancien_caractère, nouveau_caractère)
         return expression
-    
+
     def exconvertir(self, expression: str):
         """
         Convertit l’expression rationnelle de la norme de la bibliothèque vers la réalité.
@@ -184,6 +222,6 @@ class ConvertisseurDʼExpressionsRationnelles:
         for nouveau_caractère, ancien_caractère in self.caractères.items():
             expression = expression.replace(ancien_caractère, nouveau_caractère)
         return expression
-    
+
 
 
