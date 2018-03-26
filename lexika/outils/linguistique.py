@@ -2,10 +2,8 @@
 # -*- coding: utf-8 -*-
 
 import copy
-import logging
 import lxml.etree
 from typing import Union
-import pprint
 import regex
 
 
@@ -83,7 +81,6 @@ class ConvertisseurDeTexteEnrichi:
         self.source = source
         self.structure = structure
         self.source_inverse = self.créer_source_inversée(self.source)
-        logging.info(_(f"Identifiants pour les renvois :\n {pprint.pformat(self.source_inverse)}\n"))
 
     def préparer_modèles(self, modèles):
         """

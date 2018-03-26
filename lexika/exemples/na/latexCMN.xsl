@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0" xmlns:exslt="http://exslt.org/common">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0" xmlns:exslt="http://exslt.org/common" xmlns:regexp="http://exslt.org/regular-expressions">
     <xsl:output method="text" encoding="utf-8" indent="yes"/>
     
     <xsl:variable name="languev">nru</xsl:variable>
@@ -76,9 +76,11 @@
         \newenvironment{sous-entrée}[3]{\par\hypertarget{#3}{}\phantomsection\addcontentsline{toc}{subsubsection}{#1 \homonyme{#2}}\begin{adjustwidth}{0.3cm}{}\pprin{■} \textbf{\Large\pnru{#1\homonyme{#2}}}}{\end{adjustwidth}}
         \newcommand{\homonyme}[1]{#1}
         \newcommand{\formedesurface}[1]{\hspace{0.5cm}/\pnru{#1}/\hspace{0.5cm}}
+        \newcommand{\orthographe}[1]{\hspace{0.5cm}\pprin{#1}\hspace{0.5cm}}
         \newcommand{\formephonétique}[1]{\pnru{\textit{#1}}}
         \newcommand{\ton}[1]{\pcmn{声调类：}\prin{#1}\hspace{0.5cm}}
         \newcommand{\classe}[1]{\pcmn{\textcolor{PineGreen}{#1}}}
+        \newcommand{\usage}[1]{\pcmn{#1}}
         \newcommand{\commentaire}[1]{\pcmn{（{#1}）}}
         \newcommand{\paradigme}[2]{\pcmn{【#1】}\pnru{#2}}
         \newcommand{\relationsémantique}[2]{\pcmn{【#1】}\pnru{#2}}
@@ -92,17 +94,18 @@
         \newcommand{\antonyme}[1]{\pcmn{~【反义词】~\pnru{#1}}}
         \newcommand{\confer}[1]{\pcmn{~【参考】~\pnru{#1}}}
         \newcommand{\emprunt}[1]{\pcmn{~【借词】~#1}}
-        \newcommand{\étymologie}[1]{\pcmn{~【词源】~#1}}
+        \newcommand{\étymologie}[1]{\pcmn{~【词源】~\pnru{#1}}}
         \newcommand{\utilisation}[1]{\pcmn{~【用法】#1}}
         \newcommand{\grammaire}[1]{\textsc{#1}}
+        \newcommand{\lien}[2]{\hyperlink{#1}{\pnru{#2}}}
         \newcommand{\stylefv}[1]{\pnru{#1}}
         \newcommand{\stylefn}[1]{\pcmn{#1}}
         \newcommand{\stylefi}[1]{\textit{#1}}
         \newcommand{\stylefg}[1]{\textsc{#1}}
         \XeTeXlinebreaklocale "zh"
         \XeTeXlinebreakskip = 0pt plus 1pt
-         % Code spécial pour la gestion générique des césures applicable aux formes de surface
         \ExplSyntaxOn
+        % Code spécial pour la gestion générique des césures applicable aux formes de surface
         \RenewDocumentCommand{\formedesurface}{m}
         {
             % nouvelle variable « expression »
@@ -169,6 +172,9 @@
         <xsl:if test="Lemme/FormePhonétique">                        
             <xsl:apply-templates select="Lemme/FormePhonétique"/>
         </xsl:if>
+        <xsl:if test="Lemme/Orthographe">                        
+            <xsl:apply-templates select="Lemme/Orthographe"/>
+        </xsl:if>
         <xsl:text>\newline</xsl:text>
         <xsl:if test="ClasseGrammaticale">                   
             <xsl:apply-templates select="ClasseGrammaticale"/>
@@ -176,6 +182,9 @@
         </xsl:if>
         <xsl:if test="Lemme/Ton">
             <xsl:apply-templates select="Lemme/Ton"/>
+        </xsl:if>
+        <xsl:if test="ÉtiquetteDUsage">                   
+            <xsl:apply-templates select="ÉtiquetteDUsage"/>
         </xsl:if>
         <xsl:apply-templates select="Sens"/>
         <xsl:apply-templates select="Paradigme"/>
@@ -193,9 +202,9 @@
         <xsl:value-of select="."/>
         <xsl:text>}</xsl:text>
     </xsl:template>
-            
-    <xsl:template match="FormePhonétique">
-        <xsl:text>\formephonétique{</xsl:text>
+    
+    <xsl:template match="Orthographe">
+        <xsl:text>\orthographe{</xsl:text>
         <xsl:value-of select="."/>
         <xsl:text>}</xsl:text>
     </xsl:template>
@@ -210,7 +219,17 @@
         
     <xsl:template match="Ton">
         <xsl:text>\ton{</xsl:text>
-        <xsl:value-of select="."/>
+        <xsl:call-template name="remplacer_grec">
+            <xsl:with-param name="expression" select="."/>
+        </xsl:call-template>
+        <xsl:text>}</xsl:text>
+    </xsl:template>
+    
+    <xsl:template match="ÉtiquetteDUsage">
+        <xsl:text>&#10;\usage{</xsl:text>
+        <xsl:call-template name="traduction">
+            <xsl:with-param name="expression" select="."/>
+        </xsl:call-template>
         <xsl:text>}</xsl:text>
     </xsl:template>
                     
@@ -252,7 +271,7 @@
             <xsl:text>\p</xsl:text>
             <xsl:value-of select="@langue"/>
             <xsl:text>{</xsl:text>
-            <xsl:value-of select="."/>
+            <xsl:apply-templates select="."/>
             <xsl:text>}</xsl:text>
             <xsl:if test="not(position() = last())">
                 <xsl:text>\hspace{5pt}</xsl:text>
@@ -287,18 +306,38 @@
             <xsl:with-param name="expression" select="Type"/>
         </xsl:call-template>
         <xsl:text>}{</xsl:text>
-            <xsl:value-of select="Cible"/>
+            <xsl:value-of select="translate(Cible, $nombres, $indices)"/>
         <xsl:text>}</xsl:text>
     </xsl:template>
     
-    <xsl:template match="lien">
-        <xsl:text>\hyperlink{</xsl:text>
-        <xsl:value-of select="@cible|@target"/>
-        <xsl:text>}{</xsl:text>
-        <xsl:value-of select="."/>
-        <xsl:text>}</xsl:text>
+    <xsl:template match="Étymologie">
+        <xsl:text>\étymologie{</xsl:text> 
+            <xsl:apply-templates select="Étymon"/>
+        <xsl:text>}</xsl:text> 
     </xsl:template>
 
+    <xsl:template match="Étymon">
+        <xsl:apply-templates select="FormeÉcrite"/>
+    </xsl:template>
+
+    <xsl:template match="FormeÉcrite">
+        <xsl:call-template name="remplacer_grec">
+            <xsl:with-param name="expression" select="."/>
+        </xsl:call-template>
+    </xsl:template>
+    
+    <xsl:template name="remplacer_grec">
+        <xsl:param name="expression"/>
+        <xsl:value-of select="regexp:replace(regexp:replace(regexp:replace($expression, 'α', 'g', '\\textsubscript{a}'), 'β', 'g', '\\textsubscript{b}'), 'γ', 'g', '\\textsubscript{c}')"/>
+    </xsl:template>
+    
+    <xsl:template match="lien">
+        <xsl:text>\lien{</xsl:text>
+        <xsl:value-of select="@cible|@target"/>
+        <xsl:text>}{</xsl:text>
+        <xsl:value-of select="translate(., $nombres, $indices)"/>
+        <xsl:text>}</xsl:text>
+    </xsl:template>
 
     <xsl:template match="style">
         <xsl:text>\style</xsl:text>
@@ -329,7 +368,7 @@
             <xsl:when test="$expression='disc.PTCL'">
                 <xsl:text>语气助词</xsl:text>
             </xsl:when>
-            <xsl:when test="$expression='ideo'">
+            <xsl:when test="$expression='ideophone'">
                 <xsl:text>状貌词</xsl:text>
             </xsl:when>
             <xsl:when test="$expression='intj'">
@@ -375,7 +414,7 @@
                 <xsl:text>谚语</xsl:text>
             </xsl:when>
             <xsl:when test="$expression='archaic'">
-                <xsl:text>古语</xsl:text>
+                <xsl:text>古词</xsl:text>
             </xsl:when>
             <xsl:when test="$expression='renvoi'">
                 <xsl:text>参考</xsl:text>
@@ -386,8 +425,12 @@
             <xsl:when test="$expression='antonyme'">
                 <xsl:text>反义词</xsl:text>
             </xsl:when>
+            <xsl:otherwise>
+                <xsl:value-of select="$expression"/>
+            </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
+    
 
 
 </xsl:stylesheet>

@@ -18,7 +18,7 @@ class NébuleuseDʼOméga:
         self.créateur = lexika.NébuleuseDʼOrion(self.configuration)  
         self.nombre_cœurs = multiprocessing.cpu_count()
         self.gestionnaire = multiprocessing.Manager()
-        self.résultats = self.gestionnaire.dict({"entrées": self.gestionnaire.dict(), "identifiants": self.gestionnaire.dict()})
+        self.résultats = self.gestionnaire.dict({"entrées": self.gestionnaire.dict(), "identifiants": self.gestionnaire.dict(), "balises": self.gestionnaire.dict()})
         self.informations_processus = {}
 
     def commencer_accrétion(self, nombre_cœurs):
@@ -34,7 +34,9 @@ class NébuleuseDʼOméga:
             self.lecteur.lire_source(balise_bloc)
             self.lecteur.partitionner(nombre_cœurs)
             if "en-tête" in self.lecteur.données:
-                self.créateur.lire_données(self.lecteur.données["en-tête"])   
+                self.créateur.lire_données(self.lecteur.données["en-tête"])
+                en_tête = {clef: valeur for clef, valeur in self.créateur.balises.items()}
+                self.créateur.balises.clear()
             for index, bloc_données in enumerate(self.lecteur.données["corps"]):
                 processus = multiprocessing.Process(target=self.analyser_bloc_données, args=(bloc_données, index, self.résultats))
                 self.informations_processus[index] = processus
@@ -43,6 +45,8 @@ class NébuleuseDʼOméga:
                 processus.join()
             self.créateur.dictionnaire.descendance = [entrée for position, entrées in sorted(self.résultats["entrées"].items()) for entrée in entrées]
             self.créateur.identifiants = {entité: identifiant for position, identifiants in sorted(self.résultats["identifiants"].items()) for entité, identifiant in identifiants.items()}
+            occurrences_balises = {**en_tête, **{balise: sum([balises.get(balise, 0) for balises in self.résultats["balises"].values()]) for balises in self.résultats["balises"].values() for balise in balises.keys()}}
+            self.créateur.balises = {clef: occurrences_balises[clef] for clef in sorted(occurrences_balises, key=occurrences_balises.get, reverse=True)}
             
     @lexika.outils.Chronométrer(_("analyse du bloc"))
     def analyser_bloc_données(self, bloc_données: list, index: int, résultats: multiprocessing.managers.DictProxy):
@@ -52,6 +56,7 @@ class NébuleuseDʼOméga:
         self.créateur.lire_données(bloc_données)
         résultats["entrées"][index] = self.créateur.dictionnaire.descendance
         résultats["identifiants"][index] = self.créateur.identifiants
+        résultats["balises"][index] = self.créateur.balises
         
     def connecter_liens(self):
         self.créateur.connecter_liens()

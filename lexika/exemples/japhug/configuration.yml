@@ -1,19 +1,38 @@
-chemin source: exemples/japhug/japhug.lex
-format entrée: MDF Guillaume
-format sortie: LMF - Relation sémantique avec classe grammaticale
-sens: direct
-type: normal
-hiérarchie: normale
-identifiant: dictionnaire japhug
-dictionnaire:
-  nom: Essai d'un dictionnaire japhug
+configuration:
+  chemin source: exemples/japhug/informations linguistiques.yml
+base:
+  chemin source: exemples/japhug/japhug.lex
+  format d’entrée: MDF Guillaume
+  format de sortie: LMF Guillaume
+  identifiant: japhug
+général:
+  nom: 嘉绒-汉-法词典
   auteur: Guillaume Jacques
-  commentaire: Test LMF Lexika
+  commentaire: Test LMF-α
+  ordre lexicographique: 
+      - [a, ɤ, b, β, c, ɕ, d, e, f, g, ɣ, ɢ, h, i, j, ɟ, k, l, ɬ, m, n, ɲ, ŋ, ɴ, o, p, q, r, ʁ, s, ʂ, t, ɯ, w, x, χ, z, ʑ, ʐ]
+langues:
+  jya:
+      type de caractères: latin
+      autoglossonyme: japhug
+      glossonyme: japhug
+      statut: source
+  fra:
+      type de caractères: latin
+      autoglossonyme: français
+      glossonyme: français
+      statut: cible
+  cmn:
+      type de caractères: hanzi
+      autoglossonyme: 普通话
+      glossonyme: chinois
+      statut: cible
 XML:
-  format: structure sans listes
-  langue: eng
+  chemin cible: exemples/japhug/japhug.xml
+  format: α #αβγ
+  langue: fra
   XSL: style.xsl
-  chemin cible: exemples/japhug/résultats/japhug.xml
+  tri: normal
 Latex:
   format: standard
   gabarit: exemples/japhug/latex.xsl
@@ -21,38 +40,5 @@ Latex:
   chemin cible: exemples/japhug/résultats/japhug.tex
   fichiers annexes:
     introduction: exemples/japhug/introduction.tex
-    tableaux: Oui
-Audio:
-  chemin audio: exemples/japhug/résultats/AudioJaphug
-  format audio: wav
-ordre lexicographique: [a, ɤ, b, β, c, ɕ, d, e, f, g, ɣ, h, ɦ, i, j, ɟ, k, l, ɬ, m, n, ɲ, ŋ, ɴ, o, p, q, r, ʁ, s, ʂ, t, ɯ, w, x, χ, z, ʑ, [¹, ², ³, ⁴]]
-tri: normal
-langues:
-- identifiant: fra
-  type caractères: latin
-  sens lecture: gauche à droite
-  autoglossonyme: français
-  glossonyme: français
-  statut: cible
-- identifiant: jya
-  type caractères: latin
-  sens lecture: gauche à droite
-  autoglossonyme: ja phug
-  glossonyme: japhug
-  statut: source
-- identifiant: cmn
-  type caractères: hanzi
-  sens lecture: gauche à droite
-  autoglossonyme: 普通话
-  glossonyme: chinois
-  statut: cible
-- identifiant: nep
-  type caractères: devanagari
-  sens lecture: gauche à droite
-  autoglossonyme: नेपाली
-  glossonyme: népali
-  statut: cible
-tâches:
-  initial:
-  - joindre lignes coupées
-  final:
+
+

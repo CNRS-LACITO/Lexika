@@ -429,7 +429,6 @@
 
 \lx ãbaa-
 \hm 2
-\poc
 \et *apə
 \ea Lynch
 \is parenté
@@ -4540,7 +4539,7 @@ l'esprit d'un vivant de celui d'un mort
 \ge martin-pêcheur
 \sc Halcyon Sanctus canacorum
 \re
-\gb Sacred Kingfisher
+\gn Sacred Kingfisher
 \dt 23/Jan/2018
 
 \lx bwaadu
@@ -4938,7 +4937,7 @@ la tarodière sèche  'penu' ; la tarodière 'bwala' est de taille supérieure �
 \ge Aigle pêcheur ; Balbuzard pêcheur ; Aigle siffleur
 \sc Haliastur sphenurus
 \re
-\gb Whistling Eagle-Kite
+\gn Whistling Eagle-Kite
 \dt 23/Jan/2018
 
 \lx bwaòle
@@ -4991,7 +4990,7 @@ la tarodière sèche  'penu' ; la tarodière 'bwala' est de taille supérieure �
 \ge "Collier blanc" ; pigeon à gorge blanche
 \sc Columba vitiensis hypoenochroa
 \re
-\gb White-throated Pigeon
+\gn White-throated Pigeon
 \dt 23/Jan/2018
 
 \lx bwaroe
@@ -5607,7 +5606,7 @@ la tarodière sèche  'penu' ; la tarodière 'bwala' est de taille supérieure �
 \ge roussette
 \sc Pteropus sp.
 \re
-\gb fruit-bat
+\gn fruit-bat
 \dt 30/Jan/2018
 
 \lx bwò
@@ -8349,7 +8348,7 @@ dans le processus dont l'un est celui qui coupe)
 \ge Lève-queue ; passereau
 \sc Rhipidura spilodera verreauxi
 \re
-\gb Streaked Fantail
+\gn Streaked Fantail
 \sn 2
 \ge messager du grand-chef 
 \re
@@ -9309,10 +9308,10 @@ Se déguste de préférence sucré.
 \ps n
 \ge 'cardinal' ; rouge-gorge (Diamant psittaculaire)
 \sc Erythrura psittacea (Estrildidés)
-\gb Red-throated Parrotfinch
+\gn Red-throated Parrotfinch
 \ge colibri (Sucrier écarlate)
 \sc Myzomela cardinalis et Myzomela dibapha
-\gb New Caledoniant Myzomela
+\gn New Caledoniant Myzomela
 \dt 23/Jan/2018
 
 \lx dra
@@ -9810,7 +9809,7 @@ Se déguste de préférence sucré.
 \sc Accipiter fasciatus vigilax (,Accipitridés)
 \sc ou Circus approximans approximans
 \re
-\gb Brown Goshawk ou Swamp Harrier
+\gn Brown Goshawk ou Swamp Harrier
 \dt 23/Jan/2018
 
 \lx drõbö 
@@ -9981,7 +9980,7 @@ Se déguste de préférence sucré.
 \ps n
 \ge brède à feuilles comestibles ; Morelle noire
 \re
-\gb Black nightshade
+\gn Black nightshade
 \sc Solanum nigrum L. (Solanacées)
 \dt 23/Jan/2018
 
@@ -12475,7 +12474,7 @@ Se déguste de préférence sucré.
 \ps n
 \ge plante
 \sc Triumphetta rhomboïdea
-\gb thistle
+\gn thistle
 \dt 24/Aug/2015
 
 \lx gòrui
@@ -12518,7 +12517,7 @@ Se déguste de préférence sucré.
 queue, taches pourpres sur le ventre)
 \sc Drepanoptila holosericea, Columbidés
 \re
-\gb green pigeon
+\gn green pigeon
 \dt 24/Jan/2018
 
 \lx gu
@@ -13242,7 +13241,7 @@ queue, taches pourpres sur le ventre)
 \ps n
 \ge balancier de pirogue
 \re
-\gb outrigger boom
+\gn outrigger boom
 \dt 24/Jan/2018
 
 \lx halalaò
@@ -13470,7 +13469,7 @@ l'enclos et emportent alors les dons ; ne se pratique que pour les personnes de 
 \ge bois de rose (pousse au bord de mer ; fleurs jaunes semblables à celles du bourao)
 \sc Thespesia populnea (Malvacées)
 \re
-\gb Umbrella tree
+\gn Umbrella tree
 \dt 30/Jan/2018
 
 \lx havwò
@@ -13498,7 +13497,7 @@ l'enclos et emportent alors les dons ; ne se pratique que pour les personnes de 
 \ps ASP
 \ge quand ; au moment où  ;              ?????(ne faire que  ; ne plus (avec négation))
 \re
-\gb
+\gn
 \rgb
 \xv haxa kòi-je mwã na êna
 \xn il n'est plus là maintenant
@@ -14672,7 +14671,7 @@ l'enclos et emportent alors les dons ; ne se pratique que pour les personnes de 
 \ge palétuvier gris (court)
 \sc Avicennia marina (Verbénacées)
 \re
-\gb mangrove tree
+\gn mangrove tree
 \dt 24/Jan/2018
 
 \lx hivwi
@@ -17352,7 +17351,7 @@ des berceaux pour les nourrissons et l'armature des épuisettes à crevette
 \ge "siffleur", échenilleur calédonien
 \sc Coracina caledonica caledonica (Campéphagidés)
 \re
-\gb Melanesian Cuckoo-shrike
+\gn Melanesian Cuckoo-shrike
 \dt 25/Jan/2018
 
 \lx jo
@@ -17460,7 +17459,7 @@ des premiers occupants, des maîtres de la terre et des soutiens de la chefferie
 \ge Grive perlée (Méliphage barré)
 \sc Phylidonyris undulata
 \re
-\gb Barred Honeyeater
+\gn Barred Honeyeater
 \dt 25/Jan/2018
 
 \lx jòòwe
@@ -18124,7 +18123,7 @@ des premiers occupants, des maîtres de la terre et des soutiens de la chefferie
 \ge Emouchet bleu  ; faucon ; buse blanche et noire 
 \sc Accipiter haplochrous (Accipitridés)
 \re
-\gb White-bellied Goshawk 
+\gn White-bellied Goshawk 
 \dt 25/Jan/2018
 
 \lx kacia
@@ -18409,7 +18408,7 @@ des premiers occupants, des maîtres de la terre et des soutiens de la chefferie
 \ge Coucou à éventail, Gammier (noir, petit)
 \sc Cacomantis pyrrhophanus pyrrhophanus
 \re
-\gb Fan-tailed Cuckoo
+\gn Fan-tailed Cuckoo
 \dt 25/Jan/2018
 
 \lx kala
@@ -18738,7 +18737,7 @@ des premiers occupants, des maîtres de la terre et des soutiens de la chefferie
 \ge dawa
 \sc Naso unicornis
 \re
-\gb unicorn fish
+\gn unicorn fish
 \cf PEO taRa (Geraghty)
 \dt 30/Jan/2018
 
@@ -18959,7 +18958,7 @@ des premiers occupants, des maîtres de la terre et des soutiens de la chefferie
 \is grammaire_conjonction
 \ps CNJ
 \ge tandis que ; pendant
-\sg kage novu
+\se kage novu
 \sge pendant que
 \dt 25/Jan/2018
 
@@ -19071,7 +19070,7 @@ des premiers occupants, des maîtres de la terre et des soutiens de la chefferie
 \ps n
 \ge cadet  ; frères ou soeurs plus jeunes qu'ego
 \re
-\gb all younger siblings but the youngest
+\gn all younger siblings but the youngest
 \re
 \xv kazi-nu
 \dialx GO
@@ -19820,7 +19819,7 @@ des premiers occupants, des maîtres de la terre et des soutiens de la chefferie
 \ge perroquet  ; Loriquet calédonien
 \sc Trichoglossus haematodus (Psittacidés)
 \re
-\gb Rainbow Lorikeet
+\gn Rainbow Lorikeet
 \dt 25/Jan/2018
 
 \lx kèxi
@@ -20114,7 +20113,7 @@ des premiers occupants, des maîtres de la terre et des soutiens de la chefferie
 \ps v
 \ge bruit aigu (qui vrille les oreilles)
 \re
-\xe e kîî kii-nu
+\xv e kîî kii-nu
 \xn ça me vrille les oreilles
 \dt 22/Feb/2018
 
@@ -22134,7 +22133,7 @@ des premiers occupants, des maîtres de la terre et des soutiens de la chefferie
 \ge frère cadet (tous les frères plus jeunes que l'aîné)
 \ge cousin (fille de frère de père ; fils/fille de soeur de mère)
 \re
-\gb all older siblings except the oldest
+\gn all older siblings except the oldest
 \xv kò-wiò-nu
 \xn mon frère cadet (plus jeune)
 \cf ebiigi
@@ -24096,7 +24095,7 @@ appuyer avec la main ou le pied
 \ge Hirondelle des grottes
 \sc Collocalia 
 \re
-\rgb Glossy Swiftlet
+\gn Glossy Swiftlet
 \dt 26/Jan/2018
 
 \lx kha-cimwî
@@ -25337,7 +25336,7 @@ appuyer avec la main ou le pied
 \ge emouchet bleu (à ventre blanc)
 \sc Accipiter haplochrous
 \re
-\gb White-bellied Goshawk
+\gn White-bellied Goshawk
 \dt 26/Jan/2018
 
 \lx khööjo
@@ -26058,12 +26057,12 @@ appuyer avec la main ou le pied
 \ge oiseau 'lunette'
 \sc Zosterops sp.
 \re
-\gb Silver-eye, Green-backed White-eye
+\gn Silver-eye, Green-backed White-eye
 \sn 2
 \ge fauvette à ventre jaune  ; fauvette gobe-mouche
 \sc Gerygone Flavolateralis Flavolateralis
 \re
-\gb Fan-tailed Gerygone
+\gn Fan-tailed Gerygone
 \dt 20/Feb/2018
 
 \lx mãã
@@ -26218,7 +26217,7 @@ appuyer avec la main ou le pied
 \ge gobe-mouche
 \sc Myiagra caledonica (Monarchidés)
 \re
-\gb New Caledonian Flycatcher
+\gn New Caledonian Flycatcher
 \dt 26/Jan/2018
 
 \lx maayèè
@@ -26907,7 +26906,7 @@ et qui sont offerts au clan maternel (à l'oncle maternel)
 \sn 1
 \ge fermer les yeux [GO(s) WEM WE]
 \re
-\gb to close eyes (to pray)
+\gn to close eyes (to pray)
 \se ba-mãxim
 \sge geste pour fermer les yeux (coutumes de deuil)
 \sn 2
@@ -26967,7 +26966,7 @@ et qui sont offerts au clan maternel (à l'oncle maternel)
 \ps v
 \ge démanger ; gratter ; piquant (sur la peau)
 \re
-\gb itch
+\gn itch
 \xv e mãyo bwa-nu
 \xn ma tête me démange
 \dt 26/Jan/2018
@@ -27463,7 +27462,7 @@ qu'elles posaient sur la femme assise (la soeur la défunte ou celle qui a pris 
 \ge Rossignol à ventre jaune
 \sc Eopsaltria flaviventris (Eopsaltriidés)
 \re
-\gb Yellow-bellied Robin
+\gn Yellow-bellied Robin
 \dt 26/Jan/2018
 
 \lx me-mwa
@@ -27558,7 +27557,7 @@ qu'elles posaient sur la femme assise (la soeur la défunte ou celle qui a pris 
 \ge merle des Moluques
 \sc Acridotheres tristis
 \re
-\gb Commeon Myna
+\gn Commeon Myna
 \dt 26/Jan/2018
 
 \lx menixe
@@ -27697,7 +27696,7 @@ qu'elles posaient sur la femme assise (la soeur la défunte ou celle qui a pris 
 \ge bengali à bec rouge (ainsi nommé car est toujours en groupe)
 \sc Estrilda astrild (Estrildidés)
 \re
-\gb Common Waxbill
+\gn Common Waxbill
 \dt 26/Jan/2018
 
 \lx mè-wô
@@ -27864,7 +27863,6 @@ qu'elles posaient sur la femme assise (la soeur la défunte ou celle qui a pris 
 \dt 26/Jan/2018
 
 \lx mõ
-\poc
 \et *ma-masa
 \eg sec, marée basse
 \el POc
@@ -28462,7 +28460,7 @@ qu'elles posaient sur la femme assise (la soeur la défunte ou celle qui a pris 
 \ps n
 \ge benjamin
 \re
-\gb youngest sibling
+\gn youngest sibling
 \dt 27/Jan/2018
 
 \lx mõ-tri
@@ -29259,7 +29257,7 @@ qu'elles posaient sur la femme assise (la soeur la défunte ou celle qui a pris 
 \ps n
 \ge chouette
 \sc Tyto alba lifuensis
-\gb Barn Owl
+\gn Barn Owl
 \dt 26/Jan/2018
 
 \lx mweau
@@ -35259,7 +35257,7 @@ naissance de l'enfant
 \ge même équipe
 \re
 \xv pe-a-bala-bi
-\xe nous sommes tous deux dans la même équipe
+\xn nous sommes tous deux dans la même équipe
 \xv mõ pe-a-bala ?
 \dialx GO
 \xn sommes-nous tous trois dans la même équipe?
@@ -41447,7 +41445,6 @@ Dubois : 1 pobwanu de 5 m vaut 10 fr). Hiérarchie  des valeurs : yòò > weem >
 \dt 27/Jan/2018
 
 \lx phãgoo
-\poc
 \et *papa-qau  *qau
 \eg milieu
 \el PNNC (proto nord neo-calédonien)
@@ -48128,7 +48125,7 @@ l'enclos et emportent alors les dons ; ne se pratique que pour les personnes de 
 \ge auriculaire
 \re
 \se thiri-a kò-n
-\de petit orteil
+\sge petit orteil
 \dt 22/Jan/2018
 
 \lx tho
@@ -48799,7 +48796,6 @@ l'enclos et emportent alors les dons ; ne se pratique que pour les personnes de 
 \dt 27/Jan/2018
 
 \lx thraa
-\poc
 \et *(n)saqa(t)
 \el POc
 \is caract.objet
@@ -50276,8 +50272,8 @@ l'enclos et emportent alors les dons ; ne se pratique que pour les personnes de 
 \xv i udale orop u Kaavwo 
 \dialx PA
 \xn Kaavo a mis sa robe
-\cf thai hõbò
-\ce enfiler, mettre 
+\sy thai hõbò
+\st enfiler, mettre 
 \an udi
 \at enlever
 \dt 20/Feb/2018

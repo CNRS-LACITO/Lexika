@@ -17,6 +17,7 @@ class NébuleuseDʼOrion:
         self.dictionnaire = None
         self.identifiants = {}
 
+        self.balises = {}
         self.lignes_mémorisées = {"factorisation": None, "antéposition": []}
 
         self.famille_actuelle = []
@@ -28,7 +29,7 @@ class NébuleuseDʼOrion:
 
         self.modèle_ligne = regex.compile(self.configuration.informations_entrée["modèles"]["ligne"])
         self.modèle_métadonnées = regex.compile(self.configuration.informations_entrée["modèles"]["métadonnées"])
-        self.balises = self.configuration.informations_entrée["balises"]
+        self.informations_balises = self.configuration.informations_entrée["balises"]
 
         self.créateur_abstractions = lexika.outils.CréateurDʼAbstractions(self.configuration.informations_sortie["abstractions"])
         self.convertisseur_abréviations = lexika.outils.ConvertisseurDʼAbréviations(self.configuration.informations_sortie["abréviations"])
@@ -101,9 +102,10 @@ class NébuleuseDʼOrion:
             balise = bilan.group("balise")
             données = bilan.group("données")
             métadonnées = bilan.group("métadonnées") if "métadonnées" in bilan.groupdict() else None
+            self.balises[balise] = self.balises.get(balise, 0) + 1
             self.témoin.débogage(_(f"Ligne décomposée en cours : balise = « {balise} » – données = « {données} » – métadonnées = « {métadonnées} »"))
-            if balise in self.balises:
-                informations_balise = self.balises[balise]
+            if balise in self.informations_balises:
+                informations_balise = self.informations_balises[balise]
                 if données:
                     if informations_balise:
                         # Traitements spécifiques pour des balises ayant une syntaxe particulière.

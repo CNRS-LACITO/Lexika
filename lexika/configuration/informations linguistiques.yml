@@ -48,6 +48,8 @@
                     abstraction: catégorie paradigmatique
                 pdv:
                     abstraction: forme paradigmatique
+                mr:
+                    abstraction: composant morphologique
                 # Balises liées aux sens.
                 sn:
                     abstraction: numéro de sens
@@ -121,6 +123,10 @@
                         langue: cible 2
                 sc:
                     abstraction: nom scientifique
+                ue:
+                    abstraction: étiquette d’usage
+                un:
+                    abstraction: note d’usage                       
                 # Balises liées aux exemples.
                 xv:
                     abstraction: exemple
@@ -146,6 +152,11 @@
                     abstraction: note
                     caractéristiques:
                         langue: cible 2
+                ng:
+                    abstraction: note
+                    caractéristiques:
+                        type: grammaire
+                        langue: cible 1
                 # Balises liées aux étymologies.
                 et:
                     abstraction: étymon
@@ -180,22 +191,22 @@
                 numéro de sens:
                     constante: ⓢ
                     ascendant: sens
-            abréviations:
-                classe grammaticale:
-                    nom: n
-                    verbe: v
-                    adjectif: adj
-                    adverbe: adv
-                    pronom: pro
-                    déterminant: det
-                    préposition: prep
-                    conjonction: conj
-                    interjection: intj
-                    onomatopée: onom
-                type de relation sémantique:
-                    renvoi: cf
-                    synonyme: sy, syn
-                    antonyme: an, ant
+#            abréviations:
+#                classe grammaticale:
+#                    nom: n
+#                    verbe: v
+#                    adjectif: adj
+#                    adverbe: adv
+#                    pronom: pro
+#                    déterminant: det
+#                    préposition: prep
+#                    conjonction: conj
+#                    interjection: intj
+#                    onomatopée: onom
+#                type de relation sémantique:
+#                    renvoi: cf
+#                    synonyme: sy, syn
+#                    antonyme: an, ant
             abstractions:
                 # Abstractions générales.
                 ressource lexicale:
@@ -361,7 +372,9 @@
                     entité: 
                         nom: paradigme
                     parent:
-                        nom: entrée lexicale
+                        nom: 
+                            - entrée lexicale
+                            - sous-entrée lexicale
                 forme paradigmatique:
                     entité:
                         nom: représentation de forme
@@ -380,7 +393,21 @@
                         nom: paradigme
                     spécial:
                         drapeaux:
-                            - correspondance       
+                            - correspondance  
+                morphologie:
+                    entité:
+                        nom: morphologie
+                    parent:
+                        nom:
+                            - entrée lexicale
+                            - sous-entrée lexicale
+                composant morphologique:
+                    entité:
+                        nom: composant
+                    parent:
+                        nom: morphologie
+                    préabstraction:
+                        nom: morphologie
                 # Abstractions directement liées aux sens.
                 sens:
                     entité:
@@ -399,7 +426,6 @@
                 numéro de sens:
                     entité:
                         nom: numéro de sens
-#                        type: caractéristique
                     parent:
                         nom: sens
                     préabstraction:
@@ -512,6 +538,24 @@
                                 - texte enrichi
                     parent:
                         nom: étiquette
+                étiquette d’usage:
+                    entité:
+                        nom: étiquette d’usage
+                    parent:
+                        nom: définition
+                        conditions:
+                            caractéristiques:
+                                égalité:
+                                    - langue
+                note d’usage:
+                    entité:
+                        nom: note d’usage
+                    parent:
+                        nom: définition
+                        conditions:
+                            caractéristiques:
+                                égalité:
+                                    - langue
                 étiquette sémantique:
                     entité:
                         nom: étiquette sémantique

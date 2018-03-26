@@ -23,6 +23,8 @@
                 # Balises liée à l'entrée.
                 ton:
                     abstraction: ton
+                or:
+                    abstraction: orthographe
                 # Balises liées aux sens.
                 cf:
                     abstractions:
@@ -90,29 +92,37 @@
             parent: LMF
             modèles:
                 renvoi: ^(?P<entrée_lexicale>[\w\s~\[\].,\p{Spacing Modifier Letters}#$-]+?)(?P<numéro_dʼhomonyme>[\d]*)$"
-            trieur: na
-            abréviations:
-                classe grammaticale:
-                    nom: n
-                    interjection: intj
-                    préfixe: pf
-                    préposition: prep                  
-                    particule: ptc
-                    locatif: loc
-                type de relation sémantique:
-                    synonyme: [Syn., Syn]
-                    antonyme: [Ant., Ant]
-                    renvoi: Cf.
             abstractions:
                 # Abstractions directement liées aux entrées.
                 ton:
                     entité:
                         nom: ton
                     parent:
-                        nom: lemme      
+                        nom: lemme
+                orthographe:
+                    entité:
+                        nom: orthographe
+                    parent:
+                        nom: lemme
+                étiquette d’usage:
+                    entité:
+                        nom: étiquette d’usage
+                    parent:
+                        nom: entrée lexicale
+                paradigme:
+                    entité: 
+                        nom: paradigme
+                    parent:
+                        nom: 
+                            - entrée lexicale
+                            - sens   
+                # Abstractions directement liées aux exemples.
                 commentaire d’exemple:
                     entité:
                         nom: commentaire d’exemple
+                        spécial:
+                            drapeaux:
+                                - texte enrichi
                     parent:
                         nom: exemple
 

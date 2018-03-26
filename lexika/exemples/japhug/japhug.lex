@@ -7,18 +7,19 @@
 \ge interjection qui exprime que l'on revient sur ce que l'on vient de dire
 \gn 对刚才说的话表示反悔
 \xv aɕi, nɯ ma-tɤ-tɯ-ste
-\xn 算了，你不要那么做
+\xn 算了，你不要那么做 
 \xv aɕi ma-jɤ-tɯ-ɕe tɕe, kɤ-nɯ-rɤʑi!
 \xn 算了，不要走了，留在这里吧
 \xv aɕi, a-mɤ-tɤ-tɯ-qhe je
 \xn （我收回刚才说的话），你不要放在心上
-\dt 04/Mar/2017
+\dt 08/Dec/2017
 
 \lx aj 
 \ps pro 
 \ge moi 
 \gn 我 
 \cf aʑo
+\dt 22/Aug/2017
 
 \lx akarɯ
 \ps n
@@ -52,7 +53,7 @@
 \dt 18/Mar/2015
 
 \lx akɯchoʁle
-\wav8 8_akuchoRle
+\wav8 akuchoRle
 \ps n
 \ge vent du nord
 \gn 北风
@@ -99,10 +100,10 @@
 \hm 2
 \ps adv
 \ge certainement 
-\gn 肯定；必然 
+\gn 肯定；必然；不出意料
 \xv nɯ ɲɯ-ti ri amɯmi ɕti ma nɯ fse ŋgrɤl
 \xn 他那样说就肯定是那样的了
-\dt 30/Jan/2015
+\dt 03/Jan/2018
 
 \lx amɯrga
 \ps n
@@ -111,7 +112,7 @@
 \dt 19/Apr/2013
 
 \lx anamana
-\wav8 8_anamana
+\wav8 anamana
 \ps adv
 \ge identique
 \gn 一模一样
@@ -241,7 +242,7 @@
 \xn 他把石头不顾一切地扔下去了
 \se ɣɤbɤbɤβ
 \wav vi-GAbAbAB
-\wav8 8_GAbAbAB
+\wav8 GAbAbAB
 \ps vs
 \ge être bruyant
 \gn 发出很响的声音
@@ -249,7 +250,14 @@
 \xn 风发出很响的声音
 \xv tɯrme ʁnɯz ɲɯ-rɯɕmi-ndʑi tɕe, ɲɯ-ɣɤbɤbɤβ-ndʑi
 \xn 两个人在说话，很吵，听不清楚他们在讲什么
-\dt 18/Jul/2016
+\dt 08/Dec/2017
+
+\lx βdaʁmu
+\ps n
+\ge maîtresse de la maison
+\gn 女主人
+\et bdag.mo
+\dt 06/Feb/2018
 
 \lx βdaʁ,βzu
 \wav n-BdaR
@@ -463,7 +471,7 @@
 \lx βɣɤru
 \ps n
 \ge meunier
-\gn 守磨坊的用人
+\gn 守磨坊的佣人
 \dv βɣa ɯ-kɯ-rɯru tɯrme
 \cf rɯru
 \cf βɣa
@@ -616,7 +624,7 @@
 
 \lx boʁ
 \wav ideo-boR
-\wav8 8_boRboR
+\wav8 boRboR
 \ps idph.1
 \ge d'un seul coup tous ensemble
 \gn 一下子全部
@@ -663,7 +671,7 @@
 \gn 粗糙，长满了小点点
 
 \lx brɯzbrɯz
-\wav8 8_brWzbrWz
+\wav8 brWzbrWz
 \ps idph.2
 \ge couvert de petits boutons
 \gn 粗糙，长满了小点点
@@ -748,7 +756,7 @@
 
 \lx βzaʁlu
 \ps n
-\ge personne qui agit ou parle sans tenir compte de la situation
+\ge personne qui agit ou parle de façon frivole
 \gn 说话不严谨的人
 \dt 11/Jul/2016
 \cf ɣɤβzaʁlaʁ
@@ -803,6 +811,14 @@
 \gn 老鼠 
 \hbf animal 
 \dt 29/Dec/2011
+
+\lx βʑɯjme
+\ps n
+\ge encoche pour farine (meule)
+\gn 面粉槽（磨）
+\cf tɤ-jme
+\cf βʑɯ
+\dt 08/Dec/2017
 
 \lx βʑɯlu
 \ps n
@@ -1016,7 +1032,7 @@
 
 \lx chɤlɤnnɤ
 \wav adv-chAlAnnA
-\wav8 8_chAlAnnA
+\wav8 chAlAnnA
 \ps adv
 \ge peut-être 
 \gn 也许 
@@ -1056,13 +1072,22 @@
 \dt 20/Aug/2016
 
 \lx chɤtpa
-\wav8 8_chAtpa
+\wav8 chAtpa
 \ps n
 \ge différence
 \gn 区别；差别
 \xv ɕɤxɕo ndɤre ɯ-tɯ-mɯɕtaʁ kɯ, qartsɯ cho chɤtpa maŋe 
 \xn 最近很难冷，跟冬天没有什么区别
 \dt 11/Aug/2016
+
+\lx chɤtshi
+\ps n
+\ge fait de boire beaucoup
+\gn 喝很多酒
+\cf cha2
+\cf tshi1
+\cf ɣɯchɤtshi
+\dt 10/Nov/2011
 
 \lx chɤzwa
 \ps n
@@ -1214,7 +1239,7 @@
 \xv ci nɯ kɯ nɯra to-nɯ-ndo qhe nɯ jo-nɯ-ɕe
 \xn 另外那个（人）把那些（东西）拿走了
 \se ci nɤ
-\wav8 8_cinA
+\wav8 cinA
 \ge pas (même) un
 \gn 连……也
 \xv ɯ-kɤrme tɯ-ldʑa ci nɤ a-mɤ-jɤ-tɯ-ɕɣɤz ma mɤ-jɤɣ
@@ -1452,8 +1477,8 @@
 \dt 18/May/2014
 
 \lx cɯɣɬaj
-\wav8 8_cWGlhAj
-\wav8 8_cWGlhAj2
+\wav8 cWGlhAj
+\wav8 cWGlhAj2
 \ps n
 \ge symptôme dans lequel la muqueuse buccale devient blanche
 \gn 口腔内膜变白（症状）
@@ -1463,7 +1488,7 @@
 
 \lx cɯmbɤrom
 \wav n-cWmbArom
-\wav8 8_cWmbArom
+\wav8 cWmbArom
 \ps n
 \ge ampoule 
 \gn 水疱 
@@ -1474,7 +1499,7 @@
 \dt 04/Feb/2013
 
 \lx cɯmcɯm
-\wav8 8_pjAxtsW_cWmcWm
+\wav8 pjAxtsW_cWmcWm
 \ps idph.2
 \ge brisé en mille morceaux
 \gn 玻璃被砸碎
@@ -1503,8 +1528,8 @@
 \dt 15/Jul/2016
 
 \lx cɯŋcɯŋ
-\wav8 8_caNcaN
-\wav8 8_caNcaN2
+\wav8 caNcaN
+\wav8 caNcaN2
 \ps idph.2
 \ge radieux, ensoleillé
 \gn 阳光强烈，普照大地
@@ -1521,8 +1546,8 @@
 \dt 29/Dec/2011
 
 \lx cɯphɯt
-\wav8 8_cWphWt
-\wav8 8_cW_phWt
+\wav8 cWphWt
+\wav8 cW_phWt
 \ps n
 \ge ramassage de pierres 
 \gn 捡石头（庄稼地） 
@@ -1538,7 +1563,8 @@
 \ge tas de pierre 
 \gn 石头堆 
 \cf cɯ3
-\cf tɯ-rmbɯ
+\cf tɯ-tɤrmbɯ
+\cf rmbɯ
 \dt 07/Aug/2014
 
 \lx cɯrndʑi
@@ -1626,7 +1652,7 @@
 \lx ɕaŋpa
 \ps adv
 \ge d'ici jusqu'en bas 
-\gn 从这里一直往下 
+\gn 从这里一直往下 ；以下
 \hbf 732
 
 \lx ɕaŋpɕi
@@ -1645,7 +1671,7 @@
 \lx ɕaŋtaʁ
 \ps adv
 \ge au plus 
-\gn 最多
+\gn 最多；以上
 \xv tɯ-sŋi tɯ-ɣjɤn ɕaŋtaʁ smɤn kɤ-ndza mɯ́j-ra 
 \xn 一天不要吃药超过一次
 \dt 18/Jul/2014
@@ -1689,7 +1715,7 @@
 \dt 07/Aug/2014
 
 \lx ɕaʁwɯ
-\wav8 8_def-CaRwu
+\wav8 def-CaRwu
 \ps n
 \ge navet séché 
 \gn 干了的芜菁根 
@@ -1697,7 +1723,7 @@
 \dt 03/Sep/2015
 
 \lx ɕaχpu
-\wav8 8_CaXpu
+\wav8 CaXpu
 \ps n
 \ge ami
 \gn 朋友
@@ -1879,6 +1905,8 @@
 \ps n
 \ge clou en fer 
 \gn 铁钉
+\cf ɕom
+\cf tɤtshoʁ
 
 \lx ɕɤmɯɣdɯ
 \wav n-CAmWGdW
@@ -2002,7 +2030,7 @@
 \dt 11/Oct/2014
 
 \lx ɕɣaʁɕɣaʁ
-\wav8 8_CGaRCGaR
+\wav8 CGaRCGaR
 \ps idph.2
 \ge pointus et brillants (crocs)
 \gn 形容獠牙等尖而光滑的样子
@@ -2275,7 +2303,7 @@
 
 \lx ɕlaŋɕlaŋ
 \wav ideo-ClaN2-b
-\wav8 8_ClaNClaN
+\wav8 ClaNClaN
 \ps idph.2
 \ge rond et lisse
 \gn 又圆又光滑（发光）
@@ -2448,7 +2476,7 @@
 \dt 19/May/2014
 
 \lx ɕɲɯɣ
-\wav8 8_CYWG
+\wav8 CYWG
 \ps idph.1
 \ge douleur ressentie lorsqu'on se foule la cheville
 \gn 崴脚的痛感
@@ -2585,7 +2613,7 @@
 \dt 12/Aug/2012
 
 \lx ɕoŋphu
-\wav8 8_CoNphu
+\wav8 CoNphu
 \ps n
 \ge arbre fruitier
 \gn 果树
@@ -2655,7 +2683,7 @@
 \lx ɕpɤrɕpɤr
 \a ɕpɤɕpɤr
 \wav ideo-CpAr-b
-\wav8 8_CpArCpAr
+\wav8 CpArCpAr
 \ps idph.2
 \ge rond et large
 \gn 形容又圆又大的样子（难看） 
@@ -2736,7 +2764,7 @@
 \dt 07/Nov/2011
 
 \lx ɕphɤrɕphɤr
-\wav8 8_CphAr
+\wav8 CphAr
 \ps idph.2
 \ge large et mou
 \gn 形容宽而柔软，向下垂的样子
@@ -2796,8 +2824,8 @@
 \dt 20/May/2014
 
 \lx ɕqɤt
-\wav8 8_CqAt
-\wav8 8_CqAt2
+\wav8 CqAt
+\wav8 CqAt2
 \ps idph.1
 \sn 1
 \ge bruit d'une pierre jetée contre une surface dure
@@ -2899,9 +2927,9 @@
 \dt 19/Jul/2016
 
 \lx ɕtraŋɕtraŋ
-\wav8 8_CtraNnACtraN
-\wav8 8_CtrWNWCtraNi
-\wav8 8_CtrWNWCtraNi2
+\wav8 CtraNnACtraN
+\wav8 CtrWNWCtraNi
+\wav8 CtrWNWCtraNi2
 \ps idph.2
 \ge mou et long
 \gn 形容又软又长的样子
@@ -3017,7 +3045,7 @@
 \xv andi tɯrme ci jo-ɣi tɕe, ɕɯ ci ku-nnɯ-ŋu kɯma?
 \xn 那边来了人，是谁呢？
 \se ɕɯmɤɕɯ
-\wav8 8_CWmACW
+\wav8 CWmACW
 \ge qui que ce soit
 \gn 无论谁都……
 \xv (ɯ-xtsa) ɲɯ-nɯrge tɕe ɕɯmɤɕɯ ʑo tu-sɯrtoʁ ŋu.
@@ -3033,6 +3061,12 @@
 \xv ɕɯchapaja ʑo jo-phɣo-nɯ
 \xn 他们争先恐后地逃了
 \dt 27/Aug/2015
+
+\lx ɕɯdo
+\ps n
+\ge bol en bois
+\gn 木碗
+\dt 18/Aug/2017
 
 \lx ɕɯɣɕɯɣ
 \ps idph.2
@@ -3070,7 +3104,7 @@
 \lx ɕɯmɕɯm
 \wav ideo-CWm-b
 \wav ideo-CWm-g
-\wav8 8_CWmCWm
+\wav8 CWmCWm
 \ps idph.2
 \sn 1
 \ge formant une couche fine 
@@ -3133,7 +3167,7 @@
 
 \lx ɕɯŋgɯ
 \hm 1
-\wav8 8_CWNGW
+\wav8 CWNGW
 \ps postp
 \ge avant
 \gn 之前
@@ -3152,7 +3186,7 @@
 
 \lx ɕɯrɕɯr
 \wav ideo-CWr-b
-\wav8 8_CWrCWr
+\wav8 CWrCWr
 \ps idph.2
 \ge calme
 \gn 形容静悄悄的，一点声音也没有
@@ -3283,7 +3317,7 @@
 
 \lx drɤβdrɤβ
 \wav ideo-drAB-b
-\wav8 8_drABdrAB
+\wav8 drABdrAB
 \ps idph.2
 \ge plein de saleté (eau) 
 \gn 形容浑浊、装满渣滓、没有搅匀的样子 
@@ -3398,7 +3432,7 @@
 \dt 27/Aug/2015
 
 \lx dzoŋdzoŋ
-\wav8 8_dzoNnAdzoN
+\wav8 dzoNnAdzoN
 \ps idph.2
 \ge ébouriffé
 \gn 形容毛发蓬松、竖起来的样子
@@ -3496,7 +3530,7 @@
 
 \lx dʑɤrdʑɤr
 \wav ideo-dZAr-b
-\wav8 8_dZArnAdZAr
+\wav8 dZArnAdZAr
 \ps idph.2
 \ge debout tout droit 
 \gn 站得很直；身子又细又高；看起来很单薄又孤零零的样子
@@ -3513,7 +3547,7 @@
 \dt 21/Apr/2013
 
 \lx dʑɯβdʑɯβ
-\wav8 8_dZWBdZWB
+\wav8 dZWBdZWB
 \ps idph.2
 \ge rugueux et pointu
 \gn 形容粗糙、尖而密的样子
@@ -3537,6 +3571,16 @@
 \xn 你不要总是胡说八道
 \cf fɕɤt1
 \dt 18/Jul/2016
+
+\lx fɕɤtpa
+\wav n-fCAtpa
+\ps n
+\ge fanfaronnade
+\gn 大话
+\xv fɕɤtpa khro ma-pɯ-tɯ-lɤt, ɯ-ma nɯ tɤ-nɤme
+\xv fɕɤtpa ɯ-tshɤt pɯ-lɤt tɕe ɯ-ma nɯ tɤ-nɤme
+\xn 少说大话，多办实事
+\dt 03/Aug/2012
 
 \lx fka
 \hm 2
@@ -3582,7 +3626,7 @@
 \hbf maison
 
 \lx fsaŋkhɯ
-\wav8 8_fsaNkhW
+\wav8 fsaNkhW
 \ps n
 \ge fumigation
 \gn 拜神的烟子
@@ -3629,7 +3673,7 @@
 \hbf 782
 
 \lx fsɤndi
-\wav8 8_fsAndi
+\wav8 fsAndi
 \wav adv-fsAndi
 \ps adv
 \ge après demain 
@@ -3746,7 +3790,7 @@
 
 \lx ftɕɤfkɤt
 \wav n-ftCAfkAt
-\wav8 8_nWftCAfkAt_toCAt
+\wav8 nWftCAfkAt_toCAt
 \ps n
 \sn 1
 \ge organisation
@@ -3833,7 +3877,7 @@
 \dt 06/May/2014
 
 \lx gaŋgaŋ
-\wav8 8_wxti_gaNgaN
+\wav8 wxti_gaNgaN
 \ps idph.2
 \ge haut et imposant
 \gn 形容高而大的样子
@@ -4006,8 +4050,11 @@
 \lx ɣɤltshɤltshɤt
 \cf sɤltshɤltshɤt
 
+\lx ɣɤmɲɤt
+\cf mɲɤt
+
 \lx ɣɤrɣɤr
-\wav8 8_GArGAr
+\wav8 GArGAr
 \ps idph.2
 \ge bête
 \gn 发呆
@@ -4137,6 +4184,18 @@
 \hbf bovidé
 \dt 29/Dec/2011
 
+\lx ɣlɯtɕɤt
+\wav8 GlWtCAt
+\ps n
+\ge action de retirer le purin de l'étable
+\gn 出圈粪
+\xv ɣlɯtɕɤt wuma ʑo ɴqa
+\xn 出圈是很辛苦的
+\cf tɯ-ɣli
+\cf tɕɤt
+\cf ɣɯɣlɯtɕɤt
+\dt 10/Nov/2011
+
 \lx ɣnɤsqi
 \ps num
 \ge vingt 
@@ -4146,7 +4205,7 @@
 
 \lx ɣndʑɤβ
 \wav n-GndZAB
-\wav8 8_GndZAB
+\wav8 GndZAB
 \ps n
 \ge feu, incendie
 \gn 损坏性的火 
@@ -4160,7 +4219,7 @@
 \dt 20/May/2013
 
 \lx ɣndʑɤβta
-\wav8 8_GndZABta
+\wav8 GndZABta
 \ps n
 \ge feu
 \gn 火
@@ -4318,12 +4377,12 @@
 \lx ɣʑɤndza
 \wav n-GZAndza
 \ps n
-\ge Elshotzia sp. 
+\ge Agastache rugosa
 \gn 藿香 
 \hbf plante 
 \xv ɣʑɤndza nɯ sɯjno ŋu, mɤ-mbro, tɤ-rɤku ɯ-rchɤβ kɤ-ɬoʁ rga ɯ-mdoʁ kɯ-ɤrŋi ɯ-ŋgɯz kɯnɤ kɯ-ɤɲaʁndzɯm tsa ŋu, ɯ-rtaʁ dɤn, ɯ-mɯntoʁ nɯ phaʁrzi ɯ-tshɯɣa kɯ-fse tu, kɯ-ɤlɯlju ɯ-tshɯɣa tu, mɯntoʁ dɤn, ɣʑo wuma ʑo rga tɕe ɣʑɤndza rmi, ɯ-di wuma ʑo χɕɤβ 
 \xn 藿香是一种植物，长得不高，生长在田地之间，绿色里面带有暗绿色，很多枝桠，花的形状像牙刷，是圆柱形的，花很多，蜜蜂特别喜欢，所以叫|fv{ɣʑɤndza}（蜜蜂的食物），味道很浓。
-\dt 29/Dec/2011
+\dt 03/Jan/2018
 
 \lx ɣʑɤzga
 \wav n-GZAzga
@@ -4451,7 +4510,7 @@
 \et fn:洋炮
 
 \lx japa
-\wav8 8_japa
+\wav8 japa
 \ps adv
 \ge l'année dernière 
 \gn 去年 
@@ -4601,8 +4660,8 @@
 \lx jɤrjɤr
 \wav ideo-jAr-b
 \wav vi-sAfCi
-\wav8 8_jArjArZo
-\wav8 8_nAjArjAr
+\wav8 jArjArZo
+\wav8 nAjArjAr
 \ps idph.2
 \ge allure de qqn portant une lourde charge
 \gn 形容背着很重的东西，很难受的样子；歪歪斜斜的样子
@@ -4647,8 +4706,8 @@
 
 \lx jɤznɤ
 \ps post
-\ge à partir de, pendant 
-\gn 从……一直到；在……的时候
+\ge pendant 
+\gn 在……的时候
 \xv andi kɤ-ɣe-a jɤznɤ tɯ-mɯ pɯ-a<nɯ>sɯ-lɤt ɕti
 \xn 我从那边来到这里一直都在下雨
 \xv jɯfɕɯr jɤznɤ tɯ-mɯ pɯ-asɯ-lɤt tɕe tham to-stat
@@ -4748,6 +4807,13 @@
 \gn 背篼 
 \dt 29/Dec/2011
 
+\lx jlɤmtshi
+\ps n
+\ge action de mener un yak hybride
+\gn 牵犏牛
+\cf nɯjlɤmtshi
+\dt 09/Sep/2015
+
 \lx jlɤndʐi
 \ps n
 \ge peau de yak hybride
@@ -4790,8 +4856,16 @@
 \gn 形容柔软的样子
 \dt 13/Nov/2013
 
+\lx jmɤlu
+\wav n-jmAlu
+\ps n
+\ge sans queue 
+\gn 没有尾巴（的动物）
+\cf tɤ-jme
+\dt 15/Oct/2017
+
 \lx jmɤrtaʁ
-\n
+\ps n
 \ge espèce d'insecte
 \gn 虫子的一种
 \cf tɤ-jme
@@ -4814,7 +4888,7 @@
 \dt 15/Jul/2016
 
 \lx joʁβzɯr
-\wav8 8_joRBzWr
+\wav8 joRBzWr
 \ps n
 \ge rangement
 \gn 收拾
@@ -4954,7 +5028,7 @@
 \dt 19/May/2014
 
 \lx jwajwa
-\wav8 8_jwajwa-def
+\wav8 jwajwa-def
 \ps idph.2
 \ge très fin
 \gn 形容薄的样子
@@ -5059,7 +5133,7 @@
 \lx ɟɯɣɟɯɣ
 \wav ideo-JWG-b
 \wav ideo-JWG-2
-\wav8 8_JWGnAJWG
+\wav8 JWGnAJWG
 \ps idph.2
 \sn 1
 \ge meuble (terre), déluré 
@@ -5145,7 +5219,7 @@
 \ge une espèce d'arbrisseau 
 \gn 灌木的一种 
 \hbf plante 
-\xv kaldʐa nɯ si mɤ-jpum ri kɯ-mbro ci ŋu, zgoku kɯ-mbro tɕe, si kɯ-wxti ra nɯ-rca tu-ɬoʁ ŋu. ɯ-ru nɯ ɲaʁ, ɯ-jwaʁ nɯ kɯ-ɤrtɯm kɯ-zri tsa tɕe kɯ-ndɯ-ndɯβ ʑo ŋu. ɯ-mɯntoʁ kɯ-wɣrum ɲɯ-lɤt tɕe, ɯ-mɯntoʁ ɯ-jɯ nɯ zri tsa tɕe, tɯ-ɣnɤsqi jamar tɯtɯrca ku-ndzoʁ ŋu. ɯ-mat thɯ-tɯt tɕe, kɯ-ɣrɯ-wɣrum ŋu, spaχpɯ kɯ-jndʐɤz ʑo fse, ɯ-si nɯ wuma ʑo ngɯt tɕe laʁdɯn ɯ-jɯ ɯ-spa wuma ʑo pe. 
+\xv kaldʐa nɯ si mɤ-jpum ri kɯ-mbro ci ŋu, zgoku kɯ-mbro tɕe, si kɯ-wxti ra nɯ-rca tu-ɬoʁ ŋu. ɯ-ru nɯ ɲaʁ, ɯ-jwaʁ nɯ kɯ-ɤrtɯm kɯ-zri tsa tɕe kɯ-ndɯ-ndɯβ ʑo ŋu. ɯ-mɯntoʁ kɯ-wɣrum ɲɯ-lɤt tɕe, ɯ-mɯntoʁ ɯ-jɯ nɯ zri tsa tɕe, tɯ-ɣnɤsqi jamar tɯtɯrca ku-ndzoʁ ŋu. ɯ-mat thɯ-tɯt tɕe, kɯ-ɣrɯ-wɣrum ŋu, staχpɯ kɯ-jndʐɤz ʑo fse, ɯ-si nɯ wuma ʑo ngɯt tɕe laʁdɯn ɯ-jɯ ɯ-spa wuma ʑo pe. 
 \xn |fv{kaldʐa}是长得不粗但很高的树种，生长在高山的乔木林里。树干是黑色的，叶子是椭圆形的，很小。花是白色的，花梗比较长，一、二十朵长在一起。果实成熟后也是白色的，很像大豌豆，木质结实，是作农具把子的好材料。
 \dt 30/Dec/2011
 
@@ -5255,7 +5329,7 @@
 \dt 15/Jan/2015
 
 \lx kɤlɯmlɯm
-\wav8 8_kAlWmlWm
+\wav8 kAlWmlWm
 \ps adv
 \ge ensemble
 \gn 一起；完整地
@@ -5278,7 +5352,7 @@
 \dt 13/Jul/2016
 
 \lx kɤmɲɯ
-\wav8 8_kAmYW
+\wav8 kAmYW
 \ps n
 \ng n.lieu
 \ge Kamnyu
@@ -5316,6 +5390,7 @@
 \ge amis
 \gn 朋友
 \sy kɤndʑɯβzaŋsa
+\sy kɤndʑɯɣɯfsu
 \cf ɕaχpu
 \dt 13/Aug/2012
 
@@ -5328,6 +5403,14 @@
 \xv a-ɣe cho tɕiʑo kɤndʑɯɣe
 \cf tɤ-ɣe
 \dt 08/Dec/2010
+
+\lx kɤndʑɯɣɯfsu
+\ps n
+\ge amis
+\gn 朋友
+\sy kɤndʑɯβzaŋsa
+\sy kɤndʑɯɕaχpu
+\cf ɣɯfsu
 
 \lx kɤndʑɯkɯmdza
 \ps n
@@ -5352,12 +5435,12 @@
 \gn 马和骑手
 \dt 03/Jul/2016
 
-\lx kɤndʑɯmu
-\wav n-kAndZWmu
+\lx kɤndʑɯme
 \ps n
 \ge mère et fille
 \gn 母女
 \hbf famille2
+\cf tɯ-me
 \dt 10/Sep/2011
 
 \lx kɤndʑɯɲi
@@ -5377,6 +5460,13 @@
 \hbf famille2
 \cf tɤ-mdɯ
 \dt 08/Dec/2010
+
+\lx kɤndʑɯrpɯftsa
+\ps n
+\ge oncle et neveu
+\gn 舅舅和外甥子
+\cf tɤ-rpɯ
+\cf tɤ-ftsa
 
 \lx kɤndʑɯʁi
 \wav n-kAndZWRi
@@ -5568,7 +5658,7 @@
 \ge une espèce de champignon 
 \gn 一种蘑菇 
 \hbf champignon 
-\xv kɤrŋi jmɤɣ to-ɬoʁ
+\xv kɤrŋijmɤɣ to-ɬoʁ
 \xn 蓝菌长出来了
 \xv kɤrŋijmɤɣ nɯ tɤjmɤɣ ci ŋu stɤmku ri tu-ɬoʁ tɕe arɤkhɯmkhɤl, kɤrŋijmɤɣ ɯ-sɤ-ɬoʁ stɤmku nɯ kɯroz ʑo arŋi, kɯ-ɤrqhi ʑo ju-kɯ-ru tɕe saχsɤl, kɤrŋijmɤɣ ɯʑo kɯnɤ kɯ-ɤrŋi tsa kɯ-ndɯ-ndɯβ ʑo ŋu, kɤ-ndza wuma ʑo mɯm 
 \xn 蓝菌是长在草地上的蘑菇，不是所有的草地都有，它生长的地方的草特别绿，从很远的地方都可以看到。蓝菌自己带有一点蓝色，长得很小，好吃。
@@ -5667,7 +5757,7 @@
 \hm 1
 \a kɤtipa
 \wav n-kAtWpa
-\wav8 8_kAtipa
+\wav8 kAtipa
 \ps n
 \ge chicanerie 
 \gn 计较
@@ -5709,8 +5799,6 @@
 \ge gris clair 
 \gn 灰白色 
 \et kʰam.pa
-
-\lx khamba
 
 \lx khambalawa
 \ps n
@@ -5898,7 +5986,7 @@
 \dt 05/May/2014
 
 \lx khɤjlɤn
-\wav8 8_khAjlAn
+\wav8 khAjlAn
 \ps n
 \ge vœux 
 \gn 许愿 
@@ -5914,7 +6002,7 @@
 \ge cuisine, premier étage 
 \gn 藏式房屋的第二楼（厨房） 
 \hbf maison 
-\xv jiʑo kɯrɯ kha ɣɯ khɤjmu ɯ-ŋgɯ sɤ-ɤmdzɯ ʑakastaka tu tɕe khɤɕkhɤr kɤ-ti ci tu tɕe, nɯ tɕu tɤ-tɕɯ ra cho kɯ-ŋgro ra ku-omdzɯ-nɯ ŋu, ɕaŋlo kɤ-ti ci tu tɕe, nɯ tɕu rgɤrgɯn ra cho smi ɯ-kɯ-βlɯ ra ku-omdzɯ-nɯ ŋu, khɤdi nɯ tɕu tɕheme kɯ-nɯkhamu cho kha tɤ-mu nɯ ku-kɯ-ɤmdzɯ ŋu, tɕe nɯ sqhi nɯ pjɯ́-wɣ-nɤkhar ŋu, saŋdi kɤ-ti ci tu tɕe, nɯ ɯ-pɕoʁ nɯ tɕu si kɤ-βlɯ ɯ-spa ɯ-sɤ-ta ŋu, nɯ ɯ-pɕoʁ nɯ tɕu tɯrme kɯ-ɤmdzɯ me. kɤ-βlɯ ɯ-spa ɯ-sɤ-ta ŋu, nɯ ɯ-pɕoʁ nɯ tɕu tɯrme kɯ-ɤmdzɯ me. 
+\xv jiʑo kɯrɯ kha ɣɯ khɤjmu ɯ-ŋgɯ sɤ-ɤmdzɯ ʑakastaka tu tɕe khɤɕkhɤr kɤ-ti ci tu tɕe, nɯ tɕu tɤ-tɕɯ ra cho kɯ-ŋgro ra ku-omdzɯ-nɯ ŋu, ɕaŋlo kɤ-ti ci tu tɕe, nɯtɕu rgɤrgɯn ra cho smi ɯ-kɯ-βlɯ ra ku-omdzɯ-nɯ ŋu, khɤdi nɯ tɕu tɕheme kɯ-nɯkhamu cho kha tɤ-mu nɯ ku-kɯ-ɤmdzɯ ŋu, tɕe nɯ sqhi nɯ pjɯ́-wɣ-nɤkhar ŋu, saŋdi kɤ-ti ci tu tɕe, nɯ ɯ-pɕoʁ nɯ tɕu si kɤ-βlɯ ɯ-spa ɯ-sɤ-ta ŋu, nɯ ɯ-pɕoʁ nɯ tɕu tɯrme kɯ-ɤmdzɯ me. kɤ-βlɯ ɯ-spa ɯ-sɤ-ta ŋu, nɯ ɯ-pɕoʁ nɯ tɕu tɯrme kɯ-ɤmdzɯ me. 
 \xn 我们藏族的厨房里有各种座位，一种叫|fv{khɤɕkhɤr}，是男人和贵宾的座位，一种叫|fv{ɕaŋlo}，是老年人和烧火的人的座位，一种叫|fv{khɤdi}，是做饭的女子和家庭主妇的座位，这样围着火上的三脚，另一种是|fv{saŋdi}，是放烧火柴的地方，没有人在那里坐。 
 \cf nɯkhɤrŋgɯ
 \dt 08/Jul/2016
@@ -6015,7 +6103,7 @@
 \dt 11/Nov/2014
 
 \lx khɤpa
-\wav8 8_khApa
+\wav8 khApa
 \ps n
 \ge rez de chaussée 
 \gn 一楼 
@@ -6101,7 +6189,7 @@
 \ge ulcère sur la bouche 
 \gn 嘴上的疮 
 \hbf maladie 
-\xv tɯ-mtɕhi ʑmbɤr nɯ khɤrɯm
+\dv tɯ-mtɕhi ʑmbɤr nɯ khɤrɯm
 \xv tɯ-ʑo staʁ kɯ-χtso ra nɯ-khɯ-tsa kú-wɣ-ntɕhoz tɕe, tɯ-mtɕhi maŋtaʁ nɯ tɕu khɤrɯm ɲɯ-ɬoʁ, tɯ-ʑo staʁ kɯ-χtso ra nɯ-khɯtsa kú-wɣ-ntɕhoz tɕe, tɯ-mtɕhi maŋpa nɯ tɕu khɤrɯm ɲɯ-ɬoʁ ŋu, tɯ-ʑo cho kɯ-naχtɕɯɣ ra nɯ-khɯtsa kú-wɣ-ntɕhoz tɕe, tɯ-mtɕhi ɯ-rkɯ nɯ tɕu khɤrɯm ɲɯ-ɬoʁ ŋu tu-kɯ-ti ɲɯ-ŋu 
 \xn 人家说，当你用别人的碗时，就会染上|fv{khɤrɯm}这种病，如果拥有碗的那个人比你干净，痘痘长在嘴唇的上面；比你脏，痘痘就会长在嘴唇的下面；跟你一样干净，就会长在嘴唇的两边 
 \xv kɯmaʁ tɯrme ra nɯ-khɯtsa kú-wɣ-tɕhoz tɕe tɯ-mtɕhi ɯ-taʁ zmbɤr ɲɯ-ɬoʁ ŋgrɤl tɕe, nɯ ʑmbɤr nɯ khɤrɯm rmi 
@@ -6334,8 +6422,8 @@
 \cf nɯkhramba
 \cf rɯkhramba
 \se khramba,βzu
-\wav8 8_khrambanAre
-\wav8 8_khrambaGAwu
+\wav8 khrambanAre
+\wav8 khrambaGAwu
 \ge faire semblant
 \gn 假装
 \xv khramba-nɤre ɲɤ-βzu
@@ -6351,7 +6439,7 @@
 \dt 24/Apr/2013
 
 \lx khrambaqe
-\wav8 8_def-khrambaqe
+\wav8 def-khrambaqe
 \ps n
 \ge menteur, personne malhonnête
 \gn 骗子
@@ -6527,7 +6615,7 @@
 \ge une plante 
 \gn 植物的一种 
 \hbf plante 
-\xv khɯdi nɯ ruŋgu kɯ-mbro tu-kɯ-ɬoʁ sɯjno kɯ-xtɕi ci ŋu, ɯ-jwaʁ nɯ kɯ-zri tɕe kɯ-ɤmtɕoʁ ci ŋu, ɯ-jwaʁ ɯ-qhu nɯ wɣrum, ɯ-jwaʁ mpɕu, ɯ-ru nɯ jima ɯ-ru ʑo fse, ɣɯrni, tɯ-rtsɤɣ tɯ-rtsɤɣ lu-ɬoʁ ŋu. ɯ-mɯntoʁ nɯ ɯ-ru ɯ-kɤχcɤl lu-ɬoʁ ɲɯ-lɤt ŋu. ɯ-mɯntoʁ wɣrum. pɯ-ŋgra tɕe, jima ɯ-mat kɯ-fse ɲɯ-βze ŋu, tɕeri jima kɯ-fse ɯ-rqhu me, kɯ-ɣɯrni ŋu. khɯdi nɯ tɤ-χpɯm ɯ-fsu ɕaŋtaʁ tu-mbro mɤ-cha. ɯ-qa nɯ tɤ-pɤtso ɯ-ŋgo kɯ-phɤn ɲɯ-ŋu khi. 
+\xv khɯdi nɯ rɯŋgu kɯ-mbro tu-kɯ-ɬoʁ sɯjno kɯ-xtɕi ci ŋu, ɯ-jwaʁ nɯ kɯ-zri tɕe kɯ-ɤmtɕoʁ ci ŋu, ɯ-jwaʁ ɯ-qhu nɯ wɣrum, ɯ-jwaʁ mpɕu, ɯ-ru nɯ jima ɯ-ru ʑo fse, ɣɯrni, tɯ-rtsɤɣ tɯ-rtsɤɣ lu-ɬoʁ ŋu. ɯ-mɯntoʁ nɯ ɯ-ru ɯ-kɤχcɤl lu-ɬoʁ ɲɯ-lɤt ŋu. ɯ-mɯntoʁ wɣrum. pɯ-ŋgra tɕe, jima ɯ-mat kɯ-fse ɲɯ-βze ŋu, tɕeri jima kɯ-fse ɯ-rqhu me, kɯ-ɣɯrni ŋu. khɯdi nɯ tɯ-χpɯm ɯ-fsu ɕaŋtaʁ tu-mbro mɤ-cha. ɯ-qa nɯ tɤ-pɤtso ɯ-ŋgo kɯ-phɤn ɲɯ-ŋu khi. 
 \xn |fv{khɯdi}是长在很高的草地上的小草。叶子长而尖，叶子背面是白色的，叶子光滑。茎像玉米的茎一样，是红色的，是一节一节长出来的。花开在茎的顶端，是白色的。花凋谢后，果实像玉米的一样，但是没有像玉米棒子一样的皮裹着，是红色的。|fv{khɯdi}只能长到人的膝盖那么高。根对孩子的病有疗效。
 \dt 27/Aug/2012
 
@@ -6547,8 +6635,8 @@
 
 \lx khɯɣɲɟɯ
 \wav n-khWGYJW
-\wav8 8_kApata2
-\wav8 8_YWsAGru
+\wav8 kApata2
+\wav8 YWsAGru
 \ps n
 \ge fenêtre 
 \gn 窗户 
@@ -6581,7 +6669,7 @@
 \lx khɯlu
 \wav n-khWlu
 \ps n
-\ge une plante 
+\ge Euphorbia helioscopia
 \gn 五朵云
 \hbf plante 
 \xv khɯlu nɯ sɯjno ci ŋu, ɯ-ru kɯ-ɣɯrni ŋu, ɯ-jwaʁ tɯ-tɯ-rdoʁ ma me, ɯ-ru mpɯ, ɯ-kɤχcɤl tɕe ɯ-mɯntoʁ ɲɯ-lɤt ŋu, ɯ-mɯntoʁ dɤn. ɯ-mɯntoʁ tɯ-rdoʁ tɕe, ɯ-mat ʁnɯ-rdoʁ ntsɯ ɲɯ-βze ŋu. pjɯ́-wɣ-qlɯt tɕe, ɯ-lu tu, sɤndɤɣ. ɯ-lu nɯ tɯ-βri nɯ-ɤtɕaʁ tɕe ʑmbɤr ɲɯ-tɕɤt cha. 
@@ -6612,11 +6700,11 @@
 
 \lx khɯnajme
 \ps n
-\ge une plante 
+\ge setaria viridis
 \gn 狗尾巴草 
 \hbf plante 
-\xv khɯna-jme nɯ sɯjno mɤ-mbro, ɯ-jwaʁ nɯ xsɤrɯ ɯ-jwaʁ fse ri xtɯt, tɯ-ji ɯ-rkɯ aʁɤndɯndɤt tu-ɬoʁ ɕti. ɯ-mat kɯɕnom fse, ɯ-rme ɯ-tshɯɣa nɯ ra xsɤrɯ ɯ-mat fse, xsɤrɯ ɣɯ ɯ-mat pjɯ-ŋgɤɣ ŋu, khɯna-jme ɯ-mat nɯ tu-ndzur kɯ-fse ɕti ma pjɯ-ŋgɤɣ mɤ-cha, pakuku tu-ɬoʁ cha. ɯ-kɯɕnom khɯna-jme fse. 
-\xn |fv{khɯna-jme}是一种小草，叶子像|fv{xsɤrɯ}的叶子，但短一些。在地边随处生长。果实像麦穗，穗上的毛像|fv{xsɤrɯ}的果实一样。|fv{xsɤrɯ}的果实往下弯，而|fv{khɯna-jme}的果实是立着的，不弯。年年生长。穗像狗的尾巴一样。
+\xv khɯnajme nɯ sɯjno mɤ-mbro, ɯ-jwaʁ nɯ xsɤrɯ ɯ-jwaʁ fse ri xtɯt, tɯ-ji ɯ-rkɯ aʁɤndɯndɤt tu-ɬoʁ ɕti. ɯ-mat kɯɕnom fse, ɯ-rme ɯ-tshɯɣa nɯ ra xsɤrɯ ɯ-mat fse, xsɤrɯ ɣɯ ɯ-mat pjɯ-ŋgɤɣ ŋu, khɯna-jme ɯ-mat nɯ tu-ndzur kɯ-fse ɕti ma pjɯ-ŋgɤɣ mɤ-cha, pakuku tu-ɬoʁ cha. ɯ-kɯɕnom khɯnajme fse. 
+\xn 狗尾巴草是一种小草，叶子像|fv{xsɤrɯ}的叶子，但短一些。在地边随处生长。果实像麦穗，穗上的毛像|fv{xsɤrɯ}的果实一样。|fv{xsɤrɯ}的果实往下弯，而|fv{khɯnajme}的果实是立着的，不弯。年年生长。穗像狗的尾巴一样。
 
 \lx khɯnalu
 \ps n
@@ -6654,6 +6742,7 @@
 \hbf plante 
 \xv khɯrtshɤz nɯ sɯjno ci ŋu, tu-mbro mɤ-cha, ɯ-ru kɯ-ɣɯrni ŋu, ɯ-jwaʁ kɯ-ɤrŋi ŋu, ɯ-mɯntoʁ kɯ-ɣɯrni ŋu, tɤ-rɤku rca kɤ-ɬoʁ rga, paʁ kɤ-mbi sna 
 \xn |fv{khɯrtshɤz}是一种植物，长得不高，茎红色，叶子绿色，花红色，一般生长在庄稼地里，可以喂猪。
+\cf tɯ-rtshɤz
 \dt 30/May/2013
 
 \lx khɯrwum
@@ -6669,7 +6758,7 @@
 
 \lx khɯtsa
 \wav n-khWtsa
-\wav8 8_tCikhWtsa
+\wav8 tCikhWtsa
 \ps n
 \ge bol 
 \gn 碗 
@@ -6679,7 +6768,20 @@
 \cf khɯmŋu
 \cf arɯkhɯtsa
 \cf somo khɯtsa
-\dt 02/Jul/2016
+\se tɯ-khɯtsa
+\ps clf
+\ge un bol 
+\gn 一碗 
+
+\lx khɯtshoʁ
+\wav8 khWtshOR
+\ps n
+\ge chasse avec des chiens
+\gn 狩猎（牵着狗）
+\xv aʑo khɯtshoʁ rga
+\xn 我喜欢打猎
+\cf ɣɯkhɯtshoʁ
+\dt 08/Nov/2011
 
 \lx khɯwɯsi
 \ps n
@@ -6840,8 +6942,8 @@
 \dt 30/Aug/2012
 
 \lx kóʁmɯz
-\wav8 8_koRmWz
-\wav8 8_nWkoRmWz2
+\wav8 koRmWz
+\wav8 nWkoRmWz2
 \ps adv
 \sn 1
 \ge à l'instant
@@ -6870,12 +6972,6 @@
 \ps n
 \ge sac en peau que l'on porte à l'épaule 
 \gn 毛皮子缝成的挎包
-
-\lx kota
-\ps n
-\ge petit sac de cuir
-\gn 皮子做的小口袋
-\dt 15/Apr/2012
 
 \lx kowa
 \ps n
@@ -6936,7 +7032,7 @@
 \ge serviteur
 \gn 仆人
 \xv βlama mɤ-χsɤl, kropa χsɤl
-\xn 喇嘛糊涂，用人清楚
+\xn 喇嘛糊涂，仆人清楚
 \dt 11/May/2014
 
 \lx krɯβthoβ
@@ -6953,6 +7049,8 @@
 \hbf champignon 
 \xv kuɣrummɤɣ nɯ ɕkrɤz kɯ-xtɕi ɯ-ŋgɯ tu-ɬoʁ ŋu, kɯ-wɣrum ʁɟa ʑo ŋu, kɤ-ndza wuma ʑo mɯm. ftɕar tɕe tu-ɬoʁ ŋu. 
 \xn |fv{kuɣrummɤɣ}长在比较矮小的青冈树林里，均呈白色。很好吃，一般在夏天生长。 
+\cf tɤjmɤɣ
+\cf wɣrum
 \dt 18/Mar/2015
 
 \lx kumbrɤl
@@ -6980,6 +7078,8 @@
 \ge poulet 
 \gn 鸡 
 \hbf oiseau
+\cf kɯm
+\cf pɣa
 \dt 30/Dec/2011
 
 \lx kumpɣalu
@@ -7050,6 +7150,7 @@
 \ps n
 \ge matsutake
 \gn 松茸 
+\cf tɤjmɤɣ
 \hbf champignon
 
 \lx kupaŋga
@@ -7110,7 +7211,7 @@
 \gn 连词
 \sn 4
 \ge marque du comparé dans la construction comparative
-\gn 比较句中表示比较主体
+\gn 差比句中表示比较主体
 \xv ɯ-ʁi sɤz ɯ-pi nɯ kɯ mpɕɤr
 \xn 姐姐比妹妹漂亮
 \dt 18/Mar/2015
@@ -7149,7 +7250,7 @@
 \dt 26/Sep/2011
 
 \lx kɯchu
-\wav8 8_kWchu
+\wav8 kWchu
 \ps adv
 \ge à l'est
 \gn 在东边
@@ -7206,8 +7307,6 @@
 \xn 旱獭生活在高山的洞穴里。大的有二十来斤，是红色的，外貌有点像獾。冬天长肥了的时候，就会在洞穴冬眠。据说要冬眠时，它拱着手祈祷：“今年冬天不希望有独角公鹿来睡在我的上面”，因为它在冬天很肥，独角公鹿很大，热量高，会让旱獭融化掉，所以旱獭要祈祷。猎人们数着旱獭洞口贴着的泥球就知道洞穴里住着多少只旱獭。放牧人说它是牲畜的象征，所以讨厌猎捕。旱獭繁殖比较多的地方在牧区。
 
 \lx kɯɕte
-\wav adv-kWCte
-\wav adv-kWCte2
 \ps adv
 \ge autre
 \gn 另外；其他
@@ -7345,6 +7444,8 @@
 \xn （我们）又离题了
 \xv kɯmaʁ tɯrme
 \xn 另一个人
+\xv a-me kɯ a-@dianhua kɯmaʁ ta-χtɯ
+\xn 我女儿给我买了一部新手机
 \cf maʁ1
 \dt 30/Mar/2015
 
@@ -7425,7 +7526,7 @@
 \ps n
 \ge Triratna 
 \gn 三宝 
-\et kun.mtɕʰog.gsum
+\et dkon.mtɕʰog.gsum
 \dt 22/Oct/2013
 
 \lx kɯmtɕhɯ
@@ -7462,7 +7563,7 @@
 \xn 他是借住的，居然还有那么多要求
 
 \lx kɯndzarmɯ
-\wav8 8_kWndzarmW2
+\wav8 kWndzarmW2
 \ps n
 \ge ondée
 \gn 阵雨（以后不再下雨的预兆）
@@ -7491,7 +7592,7 @@
 \ge une espèce d'arbrisseau 
 \gn 灌木的一种 
 \hbf plante 
-\xv kɯngɯt tɤrqhɤɴɢaʁ nɯ si kɯ-mbro tsa ci ŋu, ɯ-mdoʁ kɯ-pɣi tsa ci ŋu, ɯ-ru ɣɯ ɯ-rqhu pjɤ-ɴɢaʁ nɤ pjɤ-ɴɢaʁ ŋu, wuma ʑo mɤ-mbro tɕe kɤ-ntɕhoz kɯ-sna tu-βze mɤ-cha. ɲɯ́-wɣ-phɯt tɕe, kɤ-nɯ-βlɯ sna. ɯ-rqhu kɯ-dɤn núndʐa, kɯngɯt tɤrqhɤɴɢaʁ ɲɯ-rmi. 
+\xv kɯngɯt tɤrqhɤɴɢaʁ nɯ si kɯ-mbro tsa ci ŋu, ɯ-mdoʁ kɯ-pɣi tsa ci ŋu, ɯ-ru ɣɯ ɯ-rqhu pjɯ-ɴɢaʁ nɤ pjɯ-ɴɢaʁ ŋu, wuma ʑo mɤ-mbro tɕe kɤ-ntɕhoz kɯ-sna tu-βze mɤ-cha. ɲɯ́-wɣ-phɯt tɕe, kɤ-nɯ-βlɯ sna. ɯ-rqhu kɯ-dɤn núndʐa, kɯngɯt tɤrqhɤɴɢaʁ ɲɯ-rmi. 
 \xn |fv{kɯngɯt tɤrqhɤɴɢaʁ}是一种长的不高的树，颜色是土灰色的，树干的树皮不断的脱落。因为树长得不高，不能用来做什么。砍下后可以用来烧火。因为树皮多，所以叫|fv{kɯngɯt tɤrqhɤɴɢaʁ}（脱了九层皮）
 \dt 30/Apr/2014
 
@@ -7500,7 +7601,7 @@
 \ge Leonurus sp. 
 \gn 益母草 
 \hbf plante 
-\xv kɯngɯt tɤrtsɤɣ nɯ sɯjno ɯ-rtaʁ mɤ-kɯ-dɤn, mɤ-kɯ-mbro tsa ci ŋu. ɯ-ru nɯ kɯ-ɤβʑɯrdu tu-ɬoʁ ŋu, ɯ-rtsɤɣ tu-oʑɯrja ŋu, ɯ-rtsɤɣ raŋri nɯ tɕu ɯ-jwaʁ kɯ-xtɕɯ-xtɕi ɲɯ-βze tɕe, ɯ-rca nɯ tɕu ɯ-mɯntoʁ kɯ-dɯ-dɤn ʑo ko-fskɤr, tɕe ɯ-mat chɯ-βze ŋu. kɯ-ɕɯŋgɯ tɕe, tɤ-mu ra kɯ kɯngɯt tɤrtsɤɣ ɲɯ-phɯt-nɯ tɕe, tɤ-lu kɤ-kɤ-z-rɤɕom ɯ-taʁ nɯ tɕu ɲɯ-ta-nɯ tɕe, tɤlɤɕom kɯ-jaʁ ku-te cha tu-ti-nɯ pɯ-ŋu. kɯngɯt tɤrtsɤɣ nɯ kha kɯngɯ-rtsɤɣ kɤ-ti ɲɯ-ŋu. 
+\xv kɯngɯt tɤrtsɤɣ nɯ sɯjno ɯ-rtaʁ mɤ-kɯ-dɤn, mɤ-kɯ-mbro tsa ci ŋu. ɯ-ru nɯ kɯ-ɤβʑɯrdu tu-ɬoʁ ŋu, ɯ-rtsɤɣ tu-oʑɯrja ŋu, ɯ-rtsɤɣ raŋri nɯtɕu ɯ-jwaʁ kɯ-xtɕɯ-xtɕi ɲɯ-βze tɕe, ɯ-rca nɯ tɕu ɯ-mɯntoʁ kɯ-dɯ-dɤn ʑo ku-ofskɤr, tɕe ɯ-mat chɯ-βze ŋu. kɯ-ɕɯŋgɯ tɕe, tɤ-mu ra kɯ kɯngɯt tɤrtsɤɣ ɲɯ-phɯt-nɯ tɕe, tɤ-lu kɤ-kɤ-z-rɤɕom ɯ-taʁ nɯ tɕu ɲɯ-ta-nɯ tɕe, tɤlɤɕom kɯ-jaʁ ku-te cha tu-ti-nɯ pɯ-ŋu. kɯngɯt tɤrtsɤɣ nɯ kha kɯngɯ-rtsɤɣ kɤ-ti ɲɯ-ŋu. 
 \xn 益母草是没有很多枝桠，长得不高的草。茎是四方形的，是由几节组成的，在每一节上，茎的一周长出小叶子，然后长出小花，最后结果。以前，大娘们把它扯一根，放在凉着结奶皮的牛奶上，据说这样可以使奶皮结得好一些。 |fv{kɯngɯt tɤrtsɤɣ} 是“九层楼”的意思。
 
 \lx kɯni
@@ -7647,7 +7748,7 @@
 \cf kɯrɯ
 
 \lx kɯsɤɣru
-\wav8 8_kWsAGru_WNgW
+\wav8 kWsAGru_WNgW
 \ps n
 \ge miroir
 \gn 镜子
@@ -7778,7 +7879,7 @@
 \dt 18/May/2014
 
 \lx laloŋ
-\wav8 8_laloN
+\wav8 laloN
 \ps adv
 \ge partout
 \gn 统统；到处
@@ -8045,20 +8146,29 @@
 \et la.pʰug
 \dt 19/Sep/2015
 
+\lx lɤqhɤtɤmbɤt
+\ps n
+\ge (distance de) plusieurs montagnes
+\gn 几座山 （的距离）
+\xv ji-pɤrthɤβ lɤqhɤtɤmbɤt tu
+\xn 我们之间相隔着几座山
+
 \lx lɤsɤr
 \wav n-lAsAr
 \wav n-lAsAr2
-\wav8 8_lAsAr
+\wav8 lAsAr
 \ps n
 \ge nouvel an 
 \gn 新年 
 \hbf 795 
 \et lo.gsar
 \xv lɤsɤr a-pɯ-tɯ-scit-nɯ 
-\xn 新年快樂
+\xn 新年快乐
+\xv lɤsɤr βzaŋ
+\xn 新年快乐
 \xv @eryue @sanhao tɕe ji-lɤsɤr ɲɯ-ŋu, kɯrɯlɤsɤr
 \xn 我们的新年是二月三号
-\dt 01/Jan/2012
+\dt 22/Feb/2018
 
 \lx lɤsɤr cito
 \ps n
@@ -8104,7 +8214,7 @@
 
 \lx lbjɯlbjɯɣ
 \wav ideo-lbjWG-b
-\wav8 8_lbjWG-def
+\wav8 lbjWG-def
 \ps idph.2
 \ge qui pend en grand nombre, mou
 \gn 形容又多又柔软的样子，往下垂吊
@@ -8116,7 +8226,7 @@
 
 \lx lchɤlchɤt
 \wav ideo-lchAt-b
-\wav8 8_lchAlchAt
+\wav8 lchAlchAt
 \ps idph.2
 \sn 1
 \ge petit (homme)
@@ -8168,7 +8278,7 @@
 
 \lx lcɯɣlcɯɣ
 \wav ideo-lcWG-b
-\wav8 8_lcWGlcWG
+\wav8 lcWGlcWG
 \ps idph.2
 \ge trempé
 \gn 湿透
@@ -8289,7 +8399,7 @@
 
 \lx lɣɤβlɣɤβ
 \wav ideo-lGAB-b
-\wav8 8_lGABlGAB
+\wav8 lGABlGAB
 \ps idph.2
 \ge épais (vêtements)
 \gn 沉重；厚实（衣服）
@@ -8327,7 +8437,7 @@
 \dt 25/Dec/2012
 
 \lx ljɤɣljɤɣ
-\wav8 8_ljAGljAG
+\wav8 ljAGljAG
 \ps idph.2
 \ge épais et long
 \gn 形容粗而长，看上去蓬松，但摸起来有些硬的样子
@@ -8336,8 +8446,8 @@
 \dt 30/Nov/2013
 
 \lx ljulju
-\wav8 8_ljulju_def
-\wav8 8_ljulju_def2
+\wav8 ljulju_def
+\wav8 ljulju_def2
 \ps idph.2
 \ge cylindrique
 \gn 圆柱形
@@ -8600,14 +8710,15 @@
 \xn 他病了，在那里很软弱，没有精神的样子
 \se lthɯmɯmi 
 \ps idph.7
-\ge qui vient sans qu'on s'en rende compte
+\ge qui vient sans qu'on s'en rende compte (sommeil)
 \gn 不知不觉地，产生了睡意（很舒服的感觉）
 \xv a-ʑɯβ lthɯmɯmi ʑo pɯ-ɣe
 \xn 我不知不觉地睡着了
-\dt 29/Oct/2011
+\cf ɬɯmɬɯm
+\dt 08/Dec/2017
 
 \lx ltshɤltshɤt
-\wav8 8_ltshAnAltshAt
+\wav8 ltshAnAltshAt
 \ps idph.2
 \ge petit et faible
 \gn 形容瘦而小的东西竖立着的样子
@@ -8744,7 +8855,7 @@
 \dt 30/Aug/2015
 
 \lx lwɤrlwɤr
-\wav8 8_kuxti_lwArlwAr
+\wav8 kuxti_lwArlwAr
 \ps idph.2
 \ge énorme
 \gn 形容大块的样子
@@ -8826,7 +8937,7 @@
 \dt 14/Jul/2016
 
 \lx ɬɤɬɤt
-\wav8 8_lhAlhAt
+\wav8 lhAlhAt
 \ps idph.2
 \ge de bonne humeur
 \gn 形容心情很舒畅的样子
@@ -8894,6 +9005,28 @@
 \xn 猪没有死，它肚子还在动（表示它在呼吸）
 \dt 28/Aug/2012
 
+\lx ɬɯmɬɯm
+\ps idph.2
+\sn 1
+\ge chaud
+\gn 形容天气暖的感觉
+\xv jisŋi ɲɯ-mpja ɬɯmɬɯm ʑo
+\xn 今天天气很暖
+\sn 2
+\ge sommeil agréable
+\gn 形容舒服的睡眠
+\xv a-ʑɯβ ɬɯmɬɯm ʑo pɯ-ɣe
+\xn 我不知不觉地睡着了
+\se ɬɯmɯmi 
+\ps idph.7
+\ge qui vient sans qu'on s'en rende compte (sommeil)
+\gn 不知不觉地，产生了睡意（很舒服的感觉）
+\xv a-ʑɯβ ɬɯmɯmi ʑo ɲɯ-ɣi
+\xn 不知不觉地就产生了睡意
+\cf lthɯmlthɯm
+\cf tɯ-ɬɯm
+\dt 08/Dec/2017
+
 \lx ma
 \a mɯma
 \ps postp 
@@ -8915,9 +9048,9 @@
 \dt 31/Aug/2015
 
 \lx maka
-\wav8 8_8_maka_me
-\wav8 8_makakWtume
-\wav8 8_WkAnWfse
+\wav8 maka_me
+\wav8 makakWtume
+\wav8 WkAnWfse
 \ps adv
 \ge pas du tout
 \gn 根本
@@ -8951,8 +9084,8 @@
 \dt 01/Jan/2012
 
 \lx maŋe
-\wav8 8_mataNe
-\wav8 8_mataNe2
+\wav8 mataNe
+\wav8 mataNe2
 \ps vi 
 \ge ne pas avoir (sensoriel)
 \gn 没有（亲验）
@@ -8998,8 +9131,8 @@
 \dt 24/Aug/2015
 
 \lx masɤmdɤla
-\wav8 8_masAmdala
-\wav8 8_masAmdala2
+\wav8 masAmdala
+\wav8 masAmdala2
 \ps adv
 \ge en avance
 \gn 提前
@@ -9018,8 +9151,8 @@
 \dt 25/Nov/2014
 
 \lx matɕi
-\wav8 8_matCi
-\wav8 8_WkWtsa
+\wav8 matCi
+\wav8 WkWtsa
 \ps cnj
 \ge sinon, parce que 
 \gn 不然，因为 
@@ -9039,7 +9172,7 @@
 \dt 07/Jul/2016
 
 \lx maχtɕɯ
-\wav8 8_maXtCW
+\wav8 maXtCW
 \ps intj
 \ge je te l'avais bien dit
 \gn 本来应该这样 
@@ -9052,8 +9185,8 @@
 
 \lx mɤɕtʂa
 \wav n-mACtsxa
-\wav8 8_mACtsxa
-\wav8 8_nWmACtsxa
+\wav8 mACtsxa
+\wav8 nWmACtsxa
 \ps adv
 \sn 1
 \ge jusqu'à
@@ -9086,7 +9219,7 @@
 
 \lx mɤkɯftshi
 \wav n-mAkWftshi
-\wav8 8_mAkWftshi
+\wav8 mAkWftshi
 \ps adv
 \ge forcer 
 \gn 逼迫 
@@ -9127,12 +9260,6 @@
 \ps adv
 \ge je ne sais pas (expression toute faite, emprunt au situ) 
 \gn 我不知道（四土话借词）
-
-\lx mɤŋi
-\ps n
-\ng n.lieu
-\ge Mangi (village de Gdongbrgyad)
-\gn 蒙岩村
 
 \lx mɤpɕoʁ
 \ps n
@@ -9215,8 +9342,8 @@
 \dt 07/Jul/2016
 
 \lx mɤʑɯ
-\wav8 8_mAZW
-\wav8 8_maZW2
+\wav8 mAZW
+\wav8 maZW2
 \ps adv
 \ge encore 
 \gn 还有 
@@ -9358,7 +9485,7 @@
 \ge partie de la charrue 
 \gn 犁把 
 \hbf charrue 
-\xv mbɣorna nɯ mbɣopɤl ɯ-ku ɯ-taʁ ku-ndzoʁ tɕe kɯ-ɕlu ɣɯ ɯ-jaʁ sɯ-ndo spa ŋu 
+\xv mbɣorna nɯ mbɣopɤl ɯ-ku ɯ-taʁ ku-ndzoʁ tɕe kɯ-ɕlu ɣɯ ɯ-jaʁ sɤ-ndo ɯ-spa ŋu 
 \xn 犁把是装在犁头上，供耕地人掌握方向的把手
 
 \lx mbɣɯrloʁ
@@ -9368,7 +9495,7 @@
 \ge tonnerre 
 \gn 雷 
 \hbf 8 <2> 1248 
-\et mbrug.glog
+\et ⁿbrug.glog
 \xv mbɣɯrloʁ to-βzu 
 \xn 打雷了
 \dt 01/Jan/2012
@@ -9384,7 +9511,7 @@
 \dt 01/Jan/2012
 
 \lx mboʁkhɯr
-\wav8 8_mboRkhWr
+\wav8 mboRkhWr
 \ps n
 \ge paquet
 \gn 包裹（用正方形的布）
@@ -9513,6 +9640,12 @@
 \gn 马蹄，马的脚 
 \hbf animal2
 
+\lx mbroʁkɕi
+\ps n
+\ge chien tibétain
+\gn 藏獒
+\dt 31/Aug/2015
+
 \lx mbrosta
 \ps n
 \ge écurie 
@@ -9520,12 +9653,6 @@
 \sy rtakhaŋ
 \hbf maison
 \dt 04/Sep/2015
-
-\lx mbroχkɕi
-\ps n
-\ge chien tibétain
-\gn 藏獒
-\dt 31/Aug/2015
 
 \lx mbroχpa
 \ps n
@@ -9606,15 +9733,15 @@
 \et mkʰʲen.pa
 \dt 08/Sep/2015
 
-\lx mcɯphɯt
+\lx mciphɯt
 \wav n-mCiphWt
 \wav n-mCiphWt2
 \ps n
 \ge crachat 
 \gn （吐的）口水 
-\xv mcɯphɯt thɯ-lat-a 
+\xv mciphɯt thɯ-lat-a 
 \xn 我吐了口水
-\cf sɯmcɯphɯt
+\cf sɯmciphɯt
 \dt 27/Aug/2015
 
 \lx mcɯrɯβrɯβ
@@ -9629,8 +9756,8 @@
 \dt 27/Aug/2015
 
 \lx mdandzɯn
-\wav8 8_mdzandzWn
-\wav8 8_mdzandzWn2
+\wav8 mdzandzWn
+\wav8 mdzandzWn2
 \ps n
 \ge grosse perle du chapelet
 \gn 玛尼珠最大的珠子
@@ -9784,7 +9911,7 @@
 \dt 30/Aug/2012
 
 \lx mkhoŋ
-\wav8 8_mkhoN-def
+\wav8 mkhoN-def
 \ps n
 \ge abri à bestiaux (dans les pâturages)
 \gn （牧场上的）牛棚
@@ -9989,7 +10116,7 @@
 \hbf animal
 
 \lx moʁmoʁ
-\wav8 8_moRmoR
+\wav8 moRmoR
 \ps idph.2
 \ge très fine (poudre)
 \gn 形容粉末极细，或者土壤软而看起来肥沃的样子
@@ -10021,7 +10148,7 @@
 \dt 11/May/2014
 
 \lx mphɣaʁmphɣaʁ
-\wav8 8_mphGaRmphGaR
+\wav8 mphGaRmphGaR
 \ps idph.2
 \ge très serré
 \gn 形容紧的样子
@@ -10085,8 +10212,8 @@
 \dt 18/Nov/2011
 
 \lx mtɕhɤnmbrɯ
-\wav8 8_mtChAmbrW
-\wav8 8_fsaN
+\wav8 mtChAmbrW
+\wav8 fsaN
 \ps n
 \ge grains destinés aux monastères
 \gn 供神的粮食
@@ -10281,6 +10408,7 @@
 \ps n
 \ge plage
 \gn 海边
+\cf mtshu
 \dt 18/May/2014
 
 \lx mtshɤri
@@ -10408,6 +10536,12 @@
 \et me.tog.gser.tɕan
 \dt 05/May/2014
 
+\lx mɯŋi
+\ps n
+\ng n.lieu
+\ge Mangi (village de Gdongbrgyad)
+\gn 蒙岩村
+
 \lx mɯɴɢɯ
 \ps n
 \ge Ligularia fischeria 
@@ -10496,7 +10630,7 @@
 \et naŋ.ma
 
 \lx naŋrzoŋ
-\wav8 8_naNrzoN
+\wav8 naNrzoN
 \ps n
 \ge rénovation (habitation)
 \gn 装修
@@ -10507,7 +10641,7 @@
 
 \lx naŋʁɯ
 \wav n-naNRW
-\wav8 8_naNRW
+\wav8 naNRW
 \ps n
 \ge chemise
 \gn 衬衣
@@ -10605,23 +10739,11 @@
 \et nor.bu
 \dt 12/Apr/2012
 
-\lx nɤʁarphɤβ
-\ps vt
-\pdl dir
-\pdv pɯ-
-\ng incorp
-\ge frapper avec ses ailes
-\gn 用翅膀拍打
-\xv qaliaʁ kɯ paʁtsa pjɤ-nɤʁarphɤβ 
-\xn 老鹰用翅膀拍打了小猪
-\cf ʁarphɤβ
-\dt 19/Aug/2015
-
 \lx nɤsɤjloʁ
 \cf sɤjloʁ
 
 \lx nɤsnɯndo
-\wav8 8_kAnAsnWndota
+\wav8 kAnAsnWndota
 \ps vt
 \pdl dir
 \pdv kɤ-
@@ -10636,7 +10758,7 @@
 \cf ndo
 
 \lx nɤtsa
-\wav8 8_nAtsa
+\wav8 nAtsa
 \ps n
 \ge maladie
 \gn 病痛
@@ -10683,7 +10805,7 @@
 \dt 03/Nov/2013
 
 \lx ndɣɤndɣɤt
-\wav8 8_ndGAnGAt_Zo_pjAta
+\wav8 ndGAnGAt_Zo_pjAta
 \ps idph.2
 \ge (bois) entassé, très haut
 \gn 形容柴堆得很高的样子
@@ -10846,7 +10968,7 @@
 \dt 09/Jan/2012
 
 \lx ndʐa
-\wav8 8_ndzxa
+\wav8 ndzxa
 \ps n
 \ge cause
 \gn 原因
@@ -10856,7 +10978,7 @@
 
 \lx ndʐuwa
 \wav n-ndzxuwa
-\wav8 8_ndzxuwa
+\wav8 ndzxuwa
 \ps n
 \ge hôte 
 \gn 客人 
@@ -10998,7 +11120,7 @@
 \dt 09/Jan/2012
 
 \lx nétɕi
-\wav8 8_netCi
+\wav8 netCi
 \ps part
 \ge non ?
 \gn 吧
@@ -11035,7 +11157,7 @@
 \gn 跳神时穿的服装
 
 \lx ntoʁntoʁ
-\wav8 8_ntoRntoR
+\wav8 ntoRntoR
 \ps idph.2
 \ge petit, rond et dur
 \gn 形容小、圆而硬的样子
@@ -11070,7 +11192,7 @@
 \hbf 942
 
 \lx nɯdrɯβ
-\wav8 8_nWdrWB
+\wav8 nWdrWB
 \ps vt
 \ge encorner à de nombreuses reprises
 \gn 一次又一次地顶
@@ -11080,8 +11202,8 @@
 \dt 15/May/2012
 
 \lx nɯfse 
-\wav8 8_nWfse_Zo
-\wav8 8_def-nWfse
+\wav8 nWfse_Zo
+\wav8 def-nWfse
 \hm 2
 \ps adv
 \sn 1
@@ -11190,16 +11312,6 @@
 \ge à ce moment-là
 \gn 在那个时候
 
-\lx nɯtɯtɕhɯ
-\ps vt
-\pdl dir
-\pdv tɤ-
-\ge poignarder
-\gn 刺杀
-\xv tshjencɯ kɯ to-znɯtɯtɕhɯ tɕe pjɤ-sat
-\xn 用短刀把他刺杀了
-\dt 20/Aug/2015
-
 \lx nɯxtshi
 \ps adv
 \ge cette fois-là 
@@ -11220,7 +11332,7 @@
 \dt 13/Aug/2012
 
 \lx ɲaɲa
-\wav8 8_YaYa
+\wav8 YaYa
 \ps n
 \ge agneau 
 \gn 绵羊羔 
@@ -11236,7 +11348,7 @@
 \gn 一拃（大拇指和中指之间的距离） 
 \hbf 902 
 \xv ɲaʁtɣi tɯ-tɣa 
-\xn
+\xn 一拃
 \dt 09/Jan/2012
 
 \lx ɲawa
@@ -11341,7 +11453,7 @@
 \dt 26/Apr/2014
 
 \lx ɲchɤɲchɤr
-\wav8 8_YchAYchAr
+\wav8 YchAYchAr
 \ps idph.2
 \ge dilué
 \gn 形容流体稀
@@ -11358,7 +11470,7 @@
 \dt 09/Jan/2012
 
 \lx ɲchɣaʁʑɤr
-\wav8 8_YchGaRZAr
+\wav8 YchGaRZAr
 \ps n
 \ge verglas
 \gn 冰雪路
@@ -11440,8 +11552,8 @@
 
 \lx ɲɯɣɲɯɣ
 \wav ideo-YWG-b
-\wav8 8_YWGYWG
-\wav8 8_YWGnAYWG
+\wav8 YWGYWG
+\wav8 YWGnAYWG
 \ps idph.2
 \ge objets granulaires entassés
 \gn 形容粉状的东西堆得很高、很软的样子
@@ -11460,19 +11572,19 @@
 \cf lɲɯɣlɲɯɣ
 \dt 29/Aug/2015
 
-\lx ŋɤɣlitɕaʁmbɯm
-\wav8 8_NAGlitCaRmbWm
-\ps n
-\ge bousier 
-\gn 蜣螂【牛屎虫】 
-\hbf animal 
-\dt 12/Jan/2012
-
 \lx ŋɤjɕtsa
 \ps n
 \ge chef de village
 \gn 村长
 \dt 08/Jul/2016
+
+\lx ŋɤlitɕaʁmbɯm
+\wav8 NAGlitCaRmbWm
+\ps n
+\ge bousier 
+\gn 蜣螂【牛屎虫】 
+\hbf animal 
+\dt 12/Jan/2012
 
 \lx ŋɤnŋɤt
 \ps idph.2
@@ -11542,6 +11654,7 @@
 \lf Component 2
 \lv khɯ
 \ps vs
+\cf ŋotɕu
 \dt 21/Aug/2015
 
 \lx ŋgɤjpɤn
@@ -11589,8 +11702,25 @@
 \hbf bovidé
 \dt 09/Jan/2012
 
-\lx ŋgumdʑɯɣpa
-\cf ŋgumdʑɯɣpa
+\lx ŋgumdʑɯɣ
+\wav n-NgumdZWG
+\ps n
+\ge chef 
+\gn 领导 
+\xv aʑo nɯ-ŋgumdʑɯɣ ŋu-a
+\xn 我是你们的领导
+\et ⁿgo.mdʑug
+\cf nɯŋgɯdʑɯɣ
+\se ŋgumdʑɯxpa
+\ng n
+\ge chef
+\gn 领导人
+\xv ŋgumdʑɯxpa to-ndo
+\xn 他当了领导
+\dt 07/Jul/2016
+
+\lx ŋgumdʑɯxpa
+\cf ŋgumdʑɯɣ
 \dt 07/Jul/2016
 
 \lx ŋgurtɕaʁ
@@ -11666,7 +11796,7 @@
 
 \lx ŋkhrɯli
 \wav n-NkhrWli
-\wav8 8_NkhrWli
+\wav8 NkhrWli
 \ps n
 \ge vis 
 \gn 螺丝 
@@ -11675,7 +11805,7 @@
 \dt 19/Feb/2014
 
 \lx ŋoj
-\wav8 8_Noj
+\wav8 Noj
 \ps pro
 \ge où 
 \gn 哪里 
@@ -11999,12 +12129,6 @@
 \gn 苹果 
 \hbf plante
 
-\lx paʁɕi
-\ps n
-\ge pomme 
-\gn 苹果 
-\hbf plante
-
 \lx paʁɟu
 \wav n-paRJu
 \ps n
@@ -12015,7 +12139,7 @@
 
 \lx paʁkɤjlɤβ
 \wav n-paRkAjlAB
-\wav8 8_paRkAjlAB
+\wav8 paRkAjlAB
 \ps n
 \ge tête de cochon 
 \gn 猪头（把骨头取出而剩下的皮肉缝成筒形，两只耳朵各一头，鼻子在中间） 
@@ -12150,8 +12274,8 @@
 \dt 26/Jan/2015
 
 \lx pɤjkhu
-\wav8 8_pAjkhu
-\wav8 8_pAjkhumWthWnWGe
+\wav8 pAjkhu
+\wav8 pAjkhumWthWnWGe
 \ps adv
 \ge encore 
 \gn 还；先；暂时
@@ -12277,7 +12401,7 @@
 
 \lx pɕintɕɤt
 \ps adv
-\ge à partir de ce moment là 
+\ge à partir de (ce moment là)
 \gn 从此以后
 \xv nɯ ɯ-qhu pɕintɕɤt tɕe
 \xn 从此以后
@@ -12309,7 +12433,7 @@
 
 \lx pɕɯɣ
 \wav ideo-pCWG-a
-\wav8 8_GApCWlWG
+\wav8 GApCWlWG
 \ps idph.1
 \ge bruit de l'eau qu'on jette, bruit d'une vague qui se brise sur le bord du fleuve 
 \gn 泼水的声音、波浪撞水边的声音 
@@ -12339,7 +12463,7 @@
 \ge espèce de rapace 
 \gn 猛禽的一种 
 \hbf oiseau 
-\xv pɣa tɤ-ste nɯ qale kɯ-tshi cho naχtɕɯɣ, qajdo sɤznɤ xtɕi, ɯ-βri kɯ-pɣi ŋu, rɯdaʁ kɯ-xtɕi ra tu-ndze ŋgrɤl, tɤ-rɤku tu-ndze mɤ-ŋgrɤl. 
+\xv pɣatɤste nɯ qale kɯtshi cho naχtɕɯɣ, qajdo sɤznɤ xtɕi, ɯ-βri kɯ-pɣi ŋu, rɯdaʁ kɯ-xtɕi ra tu-ndze ŋgrɤl, tɤ-rɤku tu-ndze mɤ-ŋgrɤl. 
 \xn |fv{pɣatɤste}和|fv{qalekɯtshi}相似，比乌鸦小，身子是灰色的，吃小动物，不吃粮食。
 
 \lx pɣɤjmɤt
@@ -12620,6 +12744,18 @@
 \et bum.bu
 \dt 15/Apr/2012
 
+\lx phoŋ
+\ps n
+\ge bouteille 
+\gn 瓶 
+\se tɯ-phoŋ
+\ps clf
+\ge une bouteille 
+\gn 一瓶 
+\hbf 891 
+\xv cha tɯ-phoŋ 
+\xn 一瓶酒
+
 \lx phoŋnɤphoŋ
 \ps idph.3
 \ge bruit de morceaux de bois qui s'entrechoquent
@@ -12726,7 +12862,7 @@
 
 \lx phɯrɤm
 \wav n-phWrAm
-\wav8 8_phWrAm
+\wav8 phWrAm
 \ps n
 \ge herse 
 \gn 耙 
@@ -12838,7 +12974,7 @@
 \dt 09/Jul/2016
 
 \lx plaʁplaʁ
-\wav8 8_plaRplaR_Zo_kosWGrum
+\wav8 plaRplaR_Zo_kosWGrum
 \ps idph.2
 \sn 1
 \ge doux au toucher 
@@ -12913,6 +13049,12 @@
 \ge planche en bois recouvrant le mur dans la cuisine
 \gn 【墙裙】贴在墙壁上的木板，大概只有一米高
 \dt 03/Aug/2012
+
+\lx pot
+\ps n
+\ge Tibet central
+\gn 西藏
+\et bod
 
 \lx poxco
 \wav n-poxco
@@ -13390,10 +13532,10 @@
 
 \lx qajɯstoʁ
 \ps n
-\ge un insecte 
-\gn 昆虫是一种 
+\ge une espèce d'insecte 
+\gn 昆虫的一种 
 \hbf animal 
-\xv qajɯ stoʁ nɯ qajɯ kɯ-ɲaʁ ci ŋu, ɯ-ʁar ɯ-rqhu nɯ kɯ-rkɯ-rko ci ŋu, tɕe nɤmbju, ɯ-xtu fka, ɯ-smɤt tɕe chɯ-ɤmtɕoʁ ŋu, ɯ-ku kɯ-xtɕɯ-xtɕi ŋu, ɯ-mtɕhi amtɕoʁ, ɯ-mɤlɤjaʁ kɯtʂɤ-ldʑa tu, zndɤrchɤβ, soʁma ɯ-rchɤβ, aʁɤndɯndɤt kɯ-ɴqhi nɯ ra ku-rɤʑi ŋu. 
+\xv qajɯstoʁ nɯ qajɯ kɯ-ɲaʁ ci ŋu, ɯ-ʁar ɯ-rqhu nɯ kɯ-rkɯ-rko ci ŋu, tɕe nɤmbju, ɯ-xtu fka, ɯ-smɤt tɕe chɯ-ɤmtɕoʁ ŋu, ɯ-ku kɯ-xtɕɯ-xtɕi ŋu, ɯ-mtɕhi amtɕoʁ, ɯ-mɤlɤjaʁ kɯtʂɤ-ldʑa tu, zndɤrchɤβ, soʁma ɯ-rchɤβ, aʁɤndɯndɤt kɯ-ɴqhi nɯ ra ku-rɤʑi ŋu. 
 \xn |fv{qajɯ stoʁ}是一种黑色的虫，翅膀的壳很硬，有光泽，肚子很胀，尾部是尖的，头部很小，嘴很尖，有六只脚，生活所有脏的地方，比如在墙壁缝和干草堆
 \dt 05/May/2014
 
@@ -13546,7 +13688,7 @@
 \wav n-qame
 \ps n
 \ge grain de beauté 
-\gn 黑痔 
+\gn 黑痣 
 \hbf 122 
 \dt 17/Apr/2012
 
@@ -13694,10 +13836,12 @@
 \dt 17/Apr/2012
 
 \lx qapɤtɯm
+\a qapɯtɯm
 \wav n-qapAtWm
 \ps n
 \ge silex arrondi 
 \gn 圆形的燧石 
+\cf qapi1
 \dt 17/Apr/2012
 
 \lx qapɣɤmtɯmtɯ
@@ -13726,6 +13870,7 @@
 \hbf 536 
 \xv qapi nɯ rdɤstaʁ kɯ-wɣrum ŋu, kha znde ɣɯ ɯ-kɤχcɤl kɯ-ɤmtɕoʁ zɯ ɲɯ́-wɣ-ta ŋgrɤl tɕe βzɯrtɕoʁ ɲɯ-rmi. tɯ-ji kɯ-wxti ɣɯ ɯ-χcɤl ɲɯ́-wɣ-ta ɲɯ-ŋgrɤl tɕe, nɯ tɕu tɕe ʑaŋɬa ɲɯ-rmi. tɕe qapi nɯ ɯ-taʁ tɕaʁmɤr pjɯ́-wɣ-lɤt tɕe smɯtɕɣom tu-ɬoʁ ŋgrɤl tɕe kɯɕɯŋgɯ βʁɯz smi ɯ-sɤ-sɯ-mɟa nɯ qapi cho tɕaʁmɤr ni kɯ tú-wɣ-sɯ-βzu-nɯ pjɤ-ŋu. smi kɯ-me tɕe tɯrme tɯ-ndzɤtshi kɤ-βzu mɤ-khɯ tɕe kɯɕɯŋgɯ qapi nɯ wuma ʑo kɯ-ʁzi pjɤ-ɕti. 
 \xn |fv{qapi}是一种白石头，这种石头放在屋顶的四角上，这时候叫|fv{βzɯrtɕoʁ}。有人会把它放在最大的田地中间，这时候叫|fv{ʑaŋɬa}。在白石头上打火镰就会迸出火星。过去，引燃火绒的就是白石头和火镰。没有火，人们就不能做饭，所以过去白石头是非常重要的一个东西。 
+\cf qapɤtɯm
 \dt 17/Apr/2012
 
 \lx qapi
@@ -13794,7 +13939,7 @@
 \ge une composée 
 \gn 【剪刀菜】 
 \hbf plante 
-\xv qapri mdʑu nɯ sɯjno ɯ-zrɤm ra kɯ-xtɕi ci ŋu, ɯ-ru cho ɯ-jwaʁ nɯ ra kɯ-ɤrŋi ɯ-ŋgɯz kɯ-pɣi ŋu, ɯ-jwaʁ nɯ qapri mdʑu ɯ-tshɯɣa ɲɯ-fse, ɯ-mɯntoʁ nɤmkha mdoʁ ŋu, pjɯ́-wɣ-qlɯt tɕe ɯ-lu tu. fsapaʁ ra kɤ-ndza rga-nɯ, tɯrme kɤ-ndza mɤ-sna. 
+\xv qaprimdʑu nɯ sɯjno ɯ-zrɤm ra kɯ-xtɕi ci ŋu, ɯ-ru cho ɯ-jwaʁ nɯ ra kɯ-ɤrŋi ɯ-ŋgɯz kɯ-pɣi ŋu, ɯ-jwaʁ nɯ qapri mdʑu ɯ-tshɯɣa ɲɯ-fse, ɯ-mɯntoʁ nɤmkha mdoʁ ŋu, pjɯ́-wɣ-qlɯt tɕe ɯ-lu tu. fsapaʁ ra kɤ-ndza rga-nɯ, tɯrme kɤ-ndza mɤ-sna. 
 \xn 剪刀菜是根部不发达的植物，茎和叶子绿里带有灰色，叶子的形状像蛇的舌头，花是天蓝色的。折断的时候有乳汁。牲畜喜欢吃，人不能吃。
 \dt 17/Apr/2012
 
@@ -13894,7 +14039,7 @@
 \ge cerf 
 \gn 鹿 
 \hbf animal 
-\xv qartshaz nɯ ruŋgu ku-rɤʑi ŋu, sŋo ɯ-ŋgɯ zɯ ku-rɤʑi, mbro kɯ-fse kɯ-wxti ŋu, ɯ-rme nɯ kɯ-ɤɣɯrnɯɕɯr kɯ-qarŋe kɯ-fse ŋu, kɯ-wxti ɕasca nɯ ɯ-ʁrɯ sqarcɤt kɯ-tu tu ɲɯ-ŋgrɤl, mɤʑɯ ɯ-ʁrɯ tɯ-ldʑa ma kɯ-me tu ɲɯ-ŋgrɤl, nɤrwɯ ŋu tu-kɯ-ti ɲɯ-ŋgrɤl, nɯnɯ qartshaz ɕawu rambɯm ŋu tu-kɯ-ti ɲɯ-ŋgrɤl, ma kɤ-mto rkɯn. kɯ-xtɕi kɯ tʂɯɣlaʁ nɯ dɤn, zgo zɯ ʁɟa ku-rɤʑi, kɯ-rɯndzɤtshi cho tɯ-rmɯkha rndzɤkɤŋe kɤ-ɣe tɕe ku-ɬoʁ ɲɯ-ŋgrɤl, wuma ʑo ku-rɯndzaŋspa, sɯjno tɯ-tɯkɯr ɲɯ-nɯ-phɯt tɕe, ci ɲɯ-nɤrɯra ku-ŋgrɤl, ɯ-qataʁrɯ nɯ nɯŋa ɯ-qataʁrɯ fse. ɯ-mɤlɤjaʁ nɯ mbro ɯ-mɤlɤjaʁ fse, ɯ-jme kɯ-xtɕɯ-xtɕi ma me, ɯ-rna nɯ nɯŋa ɯ-rna fse, ɯ-mtɕhi nɯ nɯŋa ɯ-mtɕhi tsa fse. ɕɤŋɯ raŋ tɕe qartshaz phu nɯ zgo kɯ-mbro zɯ tu-ɕe tɕe nɯ tɕu chɯ-ɣɤwu tɕe, kɯ-kɯ-ɤmɯmtshɤm ɣɯ qartshaz mu nɯ ju-ɣi-nɯ ra ɲɯ-ŋgrɤl, tɕe nɯ thɯ-awɤwum-nɯ tɕe qartshaz ɕaphu nɯ kɯ pjɯ-fskɤr tɕe nɯ tɕu ku-je tɕe tɯ-ci tɯ-mɯm mɯ-pjɤ-sɯ-tshi ɲɯ-ŋgrɤl, nɯ tɕu tɕe ɯ-sŋi kɤrtsi ʑo ku-z-rɤʑi, tɕe qartshaz mu nɯ ra ɲɯ-ɕpaʁ-nɯ, tɕe tɯ-ci tshi ɯ-raŋ nɯ ku-naχthɤβ tɕe tu-nɯphu ŋu tu-kɯ-ti ɲɯ-ŋgrɤl. ɯ-ʁrɯ nɯ smɤn ŋu, tu-ɕaŋ ɕɯŋgɯ tɕe, ɯ-rme sɯβ-sɯβ tu raŋ tɕe mpɯ, tɤ-ɕaŋ tɕe kɯ-rkɯ-rko ŋu, staχpɯ kɤ-phɯt ɯ-raŋ tɕe ʁrɯ tu-ɕaŋ ŋu, tɕe lu-nɯ-βde ŋu tu-kɯ-ti ɲɯ-ŋgrɤl, ɯ-ʁrɯ na-nɯ-βde tɕe, tɯ-rdoʁ ɲɯ-nɯ-βde ma tɯ-tɕha tɯtɯrca ɲɯ-nɯ-βde mɯ́j-ŋgrɤl. ɯ-sni ɯ-se nɯ smɤn stu kɯ-ʑru ŋu tu-kɯ-ti ɲɯ-ŋgrɤl. 
+\xv qartshaz nɯ ruŋgu ku-rɤʑi ŋu, sŋo ɯ-ŋgɯ zɯ ku-rɤʑi, mbro kɯ-fse kɯ-wxti ŋu, ɯ-rme nɯ kɯ-ɤɣɯrnɯɕɯr kɯ-qarŋe kɯ-fse ŋu, kɯ-wxti ɕasca nɯ ɯ-ʁrɯ sqarcɤt kɯ-tu tu ɲɯ-ŋgrɤl, mɤʑɯ ɯ-ʁrɯ tɯ-ldʑa ma kɯ-me tu ɲɯ-ŋgrɤl, nɤrwɯ ŋu tu-kɯ-ti ɲɯ-ŋgrɤl, nɯnɯ qartshaz ɕawu rambɯm ŋu tu-kɯ-ti ɲɯ-ŋgrɤl, ma kɤ-mto rkɯn. kɯ-xtɕi kɯ tʂɯɣlaʁ nɯ dɤn, zgo zɯ ʁɟa ku-rɤʑi, kɯ-rɯndzɤtshi cho tɯ-rmɯkha rndzɤkɤŋe kɤ-ɣe tɕe ku-ɬoʁ ɲɯ-ŋgrɤl, wuma ʑo ku-rɯndzaŋspa, sɯjno tɯ-tɯkɯr ɲɯ-nɯ-phɯt tɕe, ci ɲɯ-nɤrɯra ku-ŋgrɤl, ɯ-qataʁrɯ nɯ nɯŋa ɯ-qataʁrɯ fse. ɯ-mɤlɤjaʁ nɯ mbro ɯ-mɤlɤjaʁ fse, ɯ-jme kɯ-xtɕɯ-xtɕi ma me, ɯ-rna nɯ nɯŋa ɯ-rna fse, ɯ-mtɕhi nɯ nɯŋa ɯ-mtɕhi tsa fse. ɕɤŋɯ raŋ tɕe qartshaz phu nɯ zgo kɯ-mbro zɯ tu-ɕe tɕe nɯ tɕu chɯ-ɣɤwu tɕe, kɯ-kɯ-ɤmɯmtshɤm ɣɯ qartshaz mu nɯ ju-ɣi-nɯ ra ɲɯ-ŋgrɤl, tɕe nɯ thɯ-awɤwum-nɯ tɕe qartshaz ɕaphu nɯ kɯ pjɯ-fskɤr tɕe nɯ tɕu ku-je tɕe tɯ-ci tɯ-mɯm mɯ-pjɤ-sɯ-tshi ɲɯ-ŋgrɤl, nɯ tɕu tɕe ɯ-sŋi kɤrtsi ʑo ku-z-rɤʑi, tɕe qartshaz mu nɯ ra ɲɯ-ɕpaʁ-nɯ, tɕe tɯ-ci tshi ɯ-raŋ nɯ ku-naχthɤβ tɕe tu-nɯphu ŋu tu-kɯ-ti ɲɯ-ŋgrɤl. ɯ-ʁrɯ nɯ smɤn ŋu, tu-ɕaŋ ɕɯŋgɯ tɕe, ɯ-rme sɯβ-sɯβ tu raŋ tɕe mpɯ, tɤ-ɕaŋ tɕe kɯ-rkɯ-rko ŋu, staχpɯ kɤ-phɯt ɯ-raŋ tɕe ɯ-ʁrɯ tu-ɕaŋ ŋu, tɕe lu-nɯ-βde ŋu tu-kɯ-ti ɲɯ-ŋgrɤl, ɯ-ʁrɯ na-nɯ-βde tɕe, tɯ-rdoʁ ɲɯ-nɯ-βde ma tɯ-tɕha tɯtɯrca ɲɯ-nɯ-βde mɯ́j-ŋgrɤl. ɯ-sni ɯ-se nɯ smɤn stu kɯ-ʑru ŋu tu-kɯ-ti ɲɯ-ŋgrɤl. 
 \xn 鹿生活在高山上，在高山羊角花的树林里，有马那么大，毛是红里带黄的。大公鹿有的长十八支叉形角，还有的只有一只角的。据说（十八支角）是宝贝，叫作|fv{ɕawu rambɯm}，很罕见。一般小鹿有十二支角，这种比较多。鹿一直生活在高山上，到了黄昏，太阳落山（阴影出现）的时候，它就出来觅食和进行其它活动。它非常谨慎，每吃一口草就要左右张望一下。蹄子像牛蹄子一样，四肢像马的一样，只有很小的尾巴，耳朵和嘴巴像牛的一样。发情的时候，公鹿到山的最高处，在那边叫喊，所能听到叫声的母鹿就会往它的方向来。在它们聚集以后，公鹿就会在它们周围绕一圈，不让它们离开，而且一口水都不让它们喝，让它们在那里待数天。母鹿很渴，喝水时公鹿就乘机交配。鹿角是药材，老了之前，毛茸茸的时候，是软的，老了就变硬。据说在割豌豆时鹿角就会老掉，鹿角掉落时，每次只掉一只，不会同时掉一对。据说鹿心脏的血是一种很有疗效的药材。 
 \dt 01/Nov/2012
 
@@ -13952,6 +14097,7 @@
 \ps n
 \ge hiver très froid 
 \gn 寒冬腊月 
+\cf ɲaʁ
 \dt 18/Apr/2012
 
 \lx qartsɯχtu
@@ -14018,7 +14164,7 @@
 \ge plante grimpante 
 \gn 藤子 
 \hbf plante 
-\xv qaʑmbri nɯ tɯ-mbri kɯ-fse kɯ-rɲɟɯ-rɲɟi tɕe ɯ-rtsɤɣ raŋri ɯ-mɯntoʁ cho ɯ-jwaʁ ku-ndzoʁ ŋu. ɯ-jwaʁ ɯ-mdoʁ ldʑaŋnaʁ ŋu. ɯ-mɯntoʁ tshanlaŋ kɯ-fse kɯ-qarŋe ŋu 
+\xv qaʑmbri nɯ tɯmbri kɯ-fse kɯ-rɲɟɯ-rɲɟi tɕe ɯ-rtsɤɣ raŋri ɯ-mɯntoʁ cho ɯ-jwaʁ ku-ndzoʁ ŋu. ɯ-jwaʁ ɯ-mdoʁ ldʑaŋnaʁ ŋu. ɯ-mɯntoʁ tshanlaŋ kɯ-fse kɯ-qarŋe ŋu 
 \xn 藤子长得像绳子一样，很长，分节长叶开花。叶子呈深绿色，花像铃铛一样，呈黄色
 \dt 18/Apr/2012
 
@@ -14194,8 +14340,8 @@
 
 \lx qhlɯqhlu
 \a qhluqhlu
-\wav8 8_qhlWqhlu
-\wav8 8_def-qhlWqhlu
+\wav8 qhlWqhlu
+\wav8 def-qhlWqhlu
 \ps idph.2 
 \ge un peu laiteux
 \gn 形容带有一点乳白色的（液体）
@@ -14221,10 +14367,10 @@
 \lx qhuj
 \wav n-qhui
 \ps n
-\ge ce soir 
-\gn 今天晚上（到了晚上就不能用这个词了） 
+\ge ce soir, cet après-midi
+\gn 今天下午；今天晚上
 \hbf 745
-\dt 20/Apr/2012
+\dt 08/Dec/2017
 
 \lx qlaqla
 \wav ideo-qla-b
@@ -14288,7 +14434,7 @@
 \dt 19/Jul/2016
 
 \lx qoʁmɢlɤcit
-\wav8 8_qoRmGlAcit
+\wav8 qoRmGlAcit
 \ps n
 \ge faire son premier pas (enfant)
 \gn 会走路（婴儿）
@@ -14369,24 +14515,31 @@
 \ge violet 
 \gn 紫色 
 \et mdog
+\cf qro1
+\cf tɯ-mke
+\cf ɯ-mdoʁ
 
 \lx qroɲaʁ
 \ps n
 \ge petite fourmi 
 \gn 小蚂蚁 
 \hbf animal
+\cf qro2
 
 \lx qrormbɯ
 \ps n
 \ge fourmilière 
 \gn 蚂蚁巢 
 \hbf animal
+\cf qro2
 
 \lx qrorni
 \ps n
 \ge fourmi 
 \gn 蚂蚁 
 \hbf animal
+\cf qro2
+\cf ɣɯrni
 
 \lx qrose
 \wav n-qrose
@@ -14409,7 +14562,7 @@
 \dt 01/Sep/2013
 
 \lx qrubu
-\wav8 8_qrubu
+\wav8 qrubu
 \ps n
 \ge coquillage
 \gn 贝壳
@@ -14436,7 +14589,7 @@
 \ge coucou 
 \gn 杜鹃【布谷鸟】 
 \hbf oiseau 
-\xv qusput nɯ pɣa ci ŋu, khro mɤ-wxti, ɯ-phoŋbu nɯ ra kɯ-pɣi ci ŋu, ɯ-mtsioʁ ɲaʁ, ɯ-jme rɲɟi tsa, phaʁzla sqaptɯɣ tɕe ju-ɣi ŋu, tɕe ``phaʁzla sqaptɯɣ tɕe mɯ-mɤ-jɤ-azɣɯt-a nɤ pɯ-si-a ra ŋu" tu-ti ɲɯ-ŋgrɤl, qusput tɤ-mbri tɕe ɯ-jme kundi ju-sɯxɕe pɯ-pɯ-ŋu nɤ, ɣɯjpa taχpa nɤkɤro kɤ-ti ɲɯ-ŋu, qusput tɤ-mbri tɕe ɯ-jme taʁki tu-sɯ-khɤt pɯ-pɯ-ŋu nɤ taχpa wuma ʑo pe tu-kɯ-ti ɲɯ-ŋgrɤl ma kundi ku-ɕe tɕe tɤtɤɣ ɯ-mŋu fsu ma me tu-kɯ-ti ɲɯ-ŋu, taʁki tu-βze pɯ-pɯ-ŋu nɤ tɤtɤɣ pjɯ-ɣnde ŋu tu-kɯ-ti ɲɯ-ŋu. 
+\xv qusput nɯ pɣa ci ŋu, khro mɤ-wxti, ɯ-phoŋbu nɯ ra kɯ-pɣi ci ŋu, ɯ-mtsioʁ ɲaʁ, ɯ-jme rɲɟi tsa, phaʁzla sqaptɯɣ tɕe ju-ɣi ŋu, tɕe ``phaʁzla sqaptɯɣ tɕe mɯ-mɤ-jɤ-azɣɯt-a nɤ pɯ-si-a ra ŋu" tu-ti ɲɯ-ŋgrɤl, qusput tɤ-mbri tɕe ɯ-jme kundi ju-sɯxɕe pɯ-pɯ-ŋu nɤ, ɣɯjpa taχpa nɤkɤro kɤ-ti ɲɯ-ŋu, qusput tɤ-mbri tɕe ɯ-jme taʁki tu-sɯ-khɤt pɯ-pɯ-ŋu nɤ taχpa wuma ʑo pe tu-kɯ-ti ɲɯ-ŋgrɤl ma kundi ku-ɕe tɕe tɤtɤɣ ɯ-mŋu ɯ-fsu ma me tu-kɯ-ti ɲɯ-ŋu, taʁki tu-βze pɯ-pɯ-ŋu nɤ tɤtɤɣ pjɯ-ɣnde ŋu tu-kɯ-ti ɲɯ-ŋu. 
 \xn 杜鹃是一种鸟，长得不大，身子是灰色的，嘴是黑色的，尾巴有点长。它五月十一号就到（开始叫），据说“如果我五月十一号还没有到的话，那就是我死了的兆头”。杜鹃叫的时候，如果把尾巴左右摆动，今年的庄稼收成基本可以，如果是上下摆动的话今年的收成特别好，因为如果尾巴左右摆动的话就说明粮食只能装到柜子的口边，如果是上下摆动的话，就说明它在把柜子里的粮食捶得很紧（粮食柜很满）。 
 \dt 20/Apr/2012
 
@@ -14498,14 +14651,14 @@
 
 \lx raŋ
 \hm 2
-\wav8 8_raN1
-\wav8 8_raN2
+\wav8 raN1
+\wav8 raN2
 \ps n
 \ge soi-même 
 \gn 自己 
 \hbf 940 
 \et raŋ
-\xv nɤʑo tu-tɯ-ti mɤ-ra ma aʑo raŋ tu-nɯti-a jɤɣ
+\xv nɤʑo tu-tɯ-ti mɤ-ra ma aʑo raŋ tu-nɯ-ti-a jɤɣ
 \xn 不用你说，我自己说
 \xv kɯki laχtɕha ki aʑo raŋ ɣɯ pɯ-kɯ-nɯ-tɯ-tu ɕti
 \xn 这个东西是我自己曾经有过的
@@ -14513,7 +14666,7 @@
 
 \lx raŋri
 \wav n-roNri
-\wav8 8_roNri
+\wav8 roNri
 \ps adv
 \ge chacun 
 \gn 每个 
@@ -14572,7 +14725,7 @@
 \dt 20/Jul/2014
 
 \lx raʁraʁ
-\wav8 8_raRraR
+\wav8 raRraR
 \ps idph.2
 \ge noir comme du charbon
 \gn 形容极黑
@@ -14745,7 +14898,7 @@
 \dt 05/May/2014
 
 \lx rca
-\wav8 8_rca
+\wav8 rca
 \ps interj
 \ge expression d'une surprise, (oui, bien sûr)
 \gn 表示惊叹语气
@@ -14806,12 +14959,15 @@
 \et rkʲal.pa
 
 \lx rcɤmbeŋga
-\wav8 8_tWrcu_Wmbe_WkWNga
+\wav8 tWrcu_Wmbe_WkWNga
 \ps n
 \ge personne qui porte une veste usée 
 \gn 穿破旧皮袄的人
 \ev tɯrcu ɯ-mbe ɯ-kɯ-ŋga
-\dt 08/Jan/2012
+\cf tɯ-rcɤmbe
+\cf tɯ-rcu
+\cf tɤ-mbe
+\dt 21/Sep/2017
 
 \lx rcharcha
 \a rcarca
@@ -14872,16 +15028,15 @@
 \gn 异口同声
 \xv ɲɤ-nɯrchɯrchɯɣ-ndʑi ʑo tɕe "aʑo ɲɯ-ɣɤŋgi" ɲɯ-ti-ndʑi
 \xn 她们俩异口同声地说我是对的
-\wav vt-sArchWGlWG
-\ps idph.4
-\ge bruit de deux objets durs qui s'entrechoquent 
-\gn 形容硬的东西相撞时发出的声音 
 \se sɤrchɯɣlɯɣ
+\wav vt-sArchWGlWG
 \ps vt
 \pdl dir 
 \pdv tɤ-
+\ge entrechoquer en faisant du bruit (objets durs) 
+\gn 使硬的东西相碰发出声音 
 \xv ɕɤrɯ ra ɲɯ-sɤrchɯɣlɯɣ-nɯ ntsɯ
-\xn 不停地令骨头相撞发出声音ɣ
+\xn 不停地令骨头相撞发出声音
 \se ɣɤrchɯɣrchɯɣ
 \wav vi-GArchWGrchWG
 \ps vt
@@ -14927,7 +15082,7 @@
 \dt 10/May/2013
 
 \lx rda
-\wav8 8_Wrda_tulAtnW
+\wav8 Wrda_tulAtnW
 \ps n
 \ge signe 
 \gn 信号；兆头 
@@ -14942,7 +15097,7 @@
 \wav n-rdArdWl
 \ps n
 \ng n.rdpl
-\ge poussière 
+\ge poussières 
 \gn 灰尘 
 \cf rdɯl
 \dt 26/Aug/2014
@@ -15186,9 +15341,9 @@
 \hbf bovidé
 
 \lx rɣɤβrɣɤβ
-\wav8 8_rGABrGAB
-\wav8 8_GArGABrGAB
-\wav8 8_rGABrGAB2
+\wav8 rGABrGAB
+\wav8 GArGABrGAB
+\wav8 rGABrGAB2
 \ps idph.2
 \ge transparent
 \gn 形容透明而光亮的样子
@@ -15207,7 +15362,7 @@
 \dt 15/Nov/2011
 
 \lx rɣurɣu
-\wav8 8_rGurGu
+\wav8 rGurGu
 \ps idph.2
 \ge semblable à une ampoule 
 \gn 形容物体像水泡的样子
@@ -15270,8 +15425,8 @@
 \lx rjɤrjɤt
 \wav ideo-rjAt-b
 \wav ideo-rjAt-c
-\wav8 8_rjArjAt
-\wav8 8_stArjAt_Zo
+\wav8 rjArjAt
+\wav8 stArjAt_Zo
 \ps idph.2
 \sn 1
 \ge long et fin
@@ -15362,13 +15517,12 @@
 \hbf 32 
 \et rgʲa.mtsʰo
 
-\lx rɟanatɕaʁri
-\wav n-rJanatCaRri
+\lx rɟanaʁtɕaʁri
 \ps n
 \ge la grande muraille de chine 
 \gn 万里长城；一种佛教图纹 
 \et rgʲa.nag ltɕags.ri
-\dt 07/Jan/2015
+
 
 \lx rɟandzi
 \ps n
@@ -15431,7 +15585,7 @@
 \dt 21/Apr/2012
 
 \lx rɟɤɕi
-\wav8 8_rJACi
+\wav8 rJACi
 \ps n
 \ge embauchoir
 \gn 楦头
@@ -15440,7 +15594,7 @@
 
 \lx rɟɤdoʁ
 \wav n-rJAdoR
-\wav8 8_rJAdoR
+\wav8 rJAdoR
 \ps n
 \ge fibres de chanvre 
 \gn 大麻皮（用来织麻布的纬线和经线，编绳子） 
@@ -15483,6 +15637,13 @@
 \gn 国家 
 \et rgʲal.kʰab
 \dt 17/Jul/2014
+
+\lx rɟɤlpu
+\ps n
+\ge roi
+\gn 土司
+\et rgʲal.po
+\dt 06/Feb/2018
 
 \lx rɟɤlsa
 \wav n-rJAlsa
@@ -15597,7 +15758,7 @@
 \dt 21/Apr/2012
 
 \lx rɟɯma
-\wav8 8_rJWma
+\wav8 rJWma
 \ps n
 \ge vis
 \gn 螺丝
@@ -15734,7 +15895,7 @@
 
 \lx rlaŋrlaŋ
 \wav ideo-rlaN-b
-\wav8 8_rlaNrlaN
+\wav8 rlaNrlaN
 \ps idph.2
 \ge rond
 \gn 圆形（又圆又大）
@@ -15792,7 +15953,7 @@
 \lx rloʁrloʁ
 \wav ideo-rloR-b
 \wav ideo-rloR-c
-\wav8 8_rloRnArloR
+\wav8 rloRnArloR
 \ps idph.2
 \ge sphérique 
 \gn 球形（比较小） 
@@ -15855,10 +16016,10 @@
 \wav adv-rmWrmi
 \ps adv
 \ge tous sans exception
-\gn 每一个，一个都不漏
+\gn 每一个，一个都不漏；每一种
 \xv kɯmdza rmɯrmi nɯ jo-ɣi-nɯ
 \xn 每一个亲戚都到了
-\dt 20/Aug/2015
+\dt 22/Feb/2018
 
 \lx rnɤβʑi
 \wav n-rnABZi
@@ -15982,7 +16143,7 @@
 \dt 19/Aug/2015
 
 \lx rŋɤβrŋɤβ
-\wav8 8_rNABrNAB
+\wav8 rNABrNAB
 \ps idph.2
 \ge haut et fin 
 \gn 形容细而高的样子
@@ -16457,7 +16618,7 @@
 \dt 27/Aug/2015
 
 \lx rtsɤmkɯɣ
-\wav8 8_rtsAmkWG
+\wav8 rtsAmkWG
 \ps n
 \ge sac à rtsampa
 \gn 糌粑口袋
@@ -16603,8 +16764,8 @@
 
 \lx rɯβnɤrɯβ
 \wav ideo-rWB-c
-\wav8 8_rWwWrawi
-\wav8 8_rWwWrawi2
+\wav8 rWwWrawi
+\wav8 rWwWrawi2
 \ps idph.3
 \ge qui coule sans s'arrêter goute à goute
 \gn 不停地漏出来；不停地滴出来
@@ -16911,8 +17072,8 @@
 
 \lx ʁdɯn
 \ps n
-\ge malheur 
-\gn 邪恶 
+\ge mal 
+\gn 邪气
 \et gdon
 
 \lx ʁdɯrɟɤt
@@ -16947,8 +17108,8 @@
 \dt 03/Oct/2011
 
 \lx ʁdɯxpa
-\wav8 8_RdWxpa
-\wav8 8_RdWxpa2
+\wav8 RdWxpa
+\wav8 RdWxpa2
 \ps n
 \ge empêchement, gêne
 \gn 障碍；坏处
@@ -16968,7 +17129,7 @@
 \dt 09/Dec/2013
 
 \lx ʁejlɤɕkɤr
-\wav8 8_n-RejleCkAr
+\wav8 n-RejleCkAr
 \ps n
 \ge gaucher 
 \gn 左撇子（贬义） 
@@ -17165,8 +17326,8 @@
 
 \lx ʁjɯʁji
 \wav ideo-Rji-b
-\wav8 8_RjWRji
-\wav8 8_RjWRji-def
+\wav8 RjWRji
+\wav8 RjWRji-def
 \ps idph.2
 \sn 1
 \ge peu foncé 
@@ -17200,19 +17361,13 @@
 \gn 一直；总是
 \xv @kaihui kɯ-fse tɤ-ra tɕe, kɤ-ŋke ʁɟa ʑo ju-kɯ-ɕe pɯ-ra 
 \xn （以前交通不方便），要开会的时候，一直是走路去的
+\et gja.ma
 \cf aʁɟa
 
 \dt 21/Apr/2012
 
-\lx ʁɟoʁɟe
-\wav n-RJoRJe
-\ps n
-\ge vin ou lait dilué dans l'eau 
-\gn 掺了水的酒或者牛奶 
-\dt 21/Apr/2012
-
 \lx ʁɟɯβʁɟɯβ
-\wav8 8_RJWBRJWB
+\wav8 RJWBRJWB
 \ps idph.2
 \ge gros
 \gn 形容人全身都胖的样子
@@ -17221,7 +17376,7 @@
 \dt 10/Nov/2011
 
 \lx ʁɟɯʁɟri
-\wav8 8_RJri
+\wav8 RJri
 \ps idph.2
 \sn 1
 \ge gras et mou
@@ -17511,7 +17666,7 @@
 \dt 26/Jan/2015
 
 \lx ʁɲɟiʁɲɟi
-\wav8 8_RYJiTYJi
+\wav8 RYJiTYJi
 \ps idph.2
 \ge énorme
 \gn 形容粗壮高大的样子
@@ -17557,7 +17712,7 @@
 \et gɲis.pa
 
 \lx ʁŋaftɕɤt
-\wav8 8_RNaftCAt
+\wav8 RNaftCAt
 \ps n
 \ge dernier jour du jeune
 \gn 禁食斋的最后一天
@@ -17595,7 +17750,7 @@
 
 \lx ʁrɯrpu
 \ps n
-\ge coup de corne
+\ge coup de corne (pas avec la pointe)
 \gn 用角打
 \xv jla kɯ a-taʁ ʁrɯrpu ta-lɤt
 \xn 犏牛用角打了我
@@ -17721,7 +17876,8 @@
 \dt 13/Jul/2016
 
 \lx sala,zrɯ
-\wav8 8_sala_YWtWzri wav8 sala_kWzrW
+\wav8 sala_YWtWzri
+wav8 sala_kWzrW
 \pdl dir 
 \pdv kɤ-
 \ge prendre de la place, gêner
@@ -17748,7 +17904,7 @@
 \dt 29/Apr/2012
 
 \lx saloŋ
-\wav8 8_saloN
+\wav8 saloN
 \ps adv
 \ge partout
 \gn 到处
@@ -17790,7 +17946,7 @@
 \ge abricot 
 \gn 杏 
 \hbf plante 
-\xv sarsi nɯ zgo kɯ-mbɤr tu-ɬoʁ ŋu, si mbro ɯ-rtaʁ dɤn, ɯ-βri nɯ kɯ-pɣi ŋu, ɯ-jwaʁ nɯ qaɕti ɯ-jwaʁ cho naχtɕɯɣ, ɯ-mɯntoʁ kɯ-ɣɯrni ɯ-ŋgɯz kɯnɤ kɯ-wɣrum tsa ŋu. ɯ-jwaʁ ɲɯ-lɤt ɕɯŋgɯ ɯ-mɯntoʁ ɲɯ-lɤt ŋu. ɯ-mat thɯ-aβzu tɕe, qaɕti tsa fse ri ndɯβ. thɯ-tɯt tɕe, ɯ-phaʁ ntsi ɣɯrni, ɯ-phaʁ ntsi qarŋe, tú-wɣ-ndza qaɕti sɤz mɯm ma chi tɕe, kɤ́rqhɯrqhu kɤ-ndza sna. sarsi nɯ kha ɯ-rkɯ pɯ-kɤ-nɯ-ji tɕi tu, ɕɯŋgɯ zɯ ɯʑo tu-kɯ-nɯ-ɬoʁ tɕi tu. 
+\xv sarsi nɯ zgo kɯ-mbɤr tu-ɬoʁ ŋu, si mbro ɯ-rtaʁ dɤn, ɯ-βri nɯ kɯ-pɣi ŋu, ɯ-jwaʁ nɯ qaɕti ɯ-jwaʁ cho naχtɕɯɣ, ɯ-mɯntoʁ kɯ-ɣɯrni ɯ-ŋgɯz kɯnɤ kɯ-wɣrum tsa ŋu. ɯ-jwaʁ ɲɯ-lɤt ɕɯŋgɯ ɯ-mɯntoʁ ɲɯ-lɤt ŋu. ɯ-mat thɯ-aβzu tɕe, qaɕti tsa fse ri ndɯβ. thɯ-tɯt tɕe, ɯ-phaʁ ntsi ɣɯrni, ɯ-phaʁ ntsi qarŋe, tú-wɣ-ndza qaɕti sɤz mɯm ma chi tɕe, kɤ́-rqhɯ-rqhu kɤ-ndza sna. sarsi nɯ kha ɯ-rkɯ pɯ-kɤ-nɯ-ji tɕi tu, ɕɯŋgɯ zɯ ɯʑo tu-kɯ-nɯ-ɬoʁ tɕi tu. 
 \xn 杏树生长在下半山上，长得很高，枝桠多，树皮是灰色的，叶子和桃树的叶子一样，花是粉红色的。在长叶子之前就开花。结果像桃子，但小一些。成熟，半边是黄色，半边是红色的。吃起来比桃子好吃，因为很甜，可以连皮一起吃。杏树，有的种在房子旁边，也有自己生长在野外的。
 \cf nɯsarsi
 \dt 14/Aug/2012
@@ -17806,8 +17962,8 @@
 \lx saχsɯ
 \hm 1
 \wav n-saXsW
-\wav8 8_saXsW
-\wav8 8_saXsW2
+\wav8 saXsW
+\wav8 saXsW2
 \ps n
 \ge repas de midi 
 \gn 中午饭，午饭 
@@ -17960,9 +18116,9 @@
 \lx sɤŋɤβdi
 \ps n
 \ge mauvaise odeur
-\gn 臭味
+\gn 臭味；霉气
 \xv sɤŋɤβdi ʑo ɲɯ-mnɤm
-\xn 有臭味
+\xn （房间里）有霉气
 \cf tɤ-di
 \dt 28/Aug/2012
 
@@ -18000,12 +18156,20 @@
 \dt 03/Jul/2016
 
 \lx sɤrlɤn
-\wav8 8_sArlAn
+\wav8 sArlAn
 \ps n
 \ge trou humide
 \gn 潮湿地
 \et sa.rlon
 \dt 23/Jul/2015
+
+\lx sɤrma
+\ps adv
+\ge bonsoir
+\gn 晚安
+\xv sɤrma-ndʑi je
+\xn （你们俩）晚安！
+\dt 21/Aug/2017
 
 \lx sɤrndzo
 \ps n
@@ -18023,7 +18187,7 @@
 
 \lx sɤrwa
 \wav n-sArwa
-\wav8 8_serwa
+\wav8 serwa
 \ps n
 \ge grêle 
 \gn 冰雹 
@@ -18132,7 +18296,7 @@
 \cf ɣɤzjaŋlaŋ
 
 \lx sɤznɤ
-\wav8 8_sAznA
+\wav8 sAznA
 \ps adv
 \ge par rapport à
 \gn 比
@@ -18434,7 +18598,7 @@
 \dt 01/Sep/2012
 
 \lx skɤnɲɟɯr
-\wav8 8_skAnYJWr
+\wav8 skAnYJWr
 \ps n
 \ge mélodie 
 \gn 曲调
@@ -18565,7 +18729,7 @@
 
 \lx slama
 \wav n-slama
-\wav8 8_slama
+\wav8 slama
 \ps n
 \ge étudiant 
 \gn 学生 
@@ -18575,6 +18739,14 @@
 \xv slama tu-dɤn tɕe kɤ-sɤsɯxɕɤt mɤ-mbat ma
 \xn 学生很多的话，不容易教
 \dt 29/Apr/2012
+
+\lx slamaχti
+\ps n
+\ge camarade de classe
+\gn 同学
+\cf slama
+\cf tɯ-χti
+
 
 \lx slaŋslaŋ
 \wav ideo-slaN-b
@@ -18704,7 +18876,7 @@
 
 \lx smɤn
 \wav n-smAn
-\wav8 8_smAn
+\wav8 smAn
 \ps n
 \ge médicament 
 \gn 药 
@@ -18750,7 +18922,7 @@
 \lx smi
 \hm 2
 \wav n-smi
-\wav8 8_smi
+\wav8 smi
 \ps n
 \ge feu 
 \gn 火 
@@ -18825,7 +18997,7 @@
 
 \lx smɯŋgɯ
 \wav n-smWNgW
-\wav8 8_smWNgW
+\wav8 smWNgW
 \ps n
 \ge milieu du feu
 \gn 火中间
@@ -18851,7 +19023,7 @@
 \dt 06/May/2014
 
 \lx smɯʁjoʁ
-\wav8 8_smWRjoR
+\wav8 smWRjoR
 \ps n
 \ge crochet de cheminée 
 \gn 火钩 
@@ -18930,7 +19102,7 @@
 \dt 02/May/2012
 
 \lx snɯɲaʁ
-\wav8 8_snWYaR
+\wav8 snWYaR
 \ps n
 \ge fait de causer du tort
 \gn 害人（的阴谋）
@@ -18953,7 +19125,7 @@
 \dt 26/Jan/2015
 
 \lx sɲaʁsɲaʁ
-\wav8 8_sYaRsYaR
+\wav8 sYaRsYaR
 \ps idph.2
 \ge très pointu
 \gn 形容很尖
@@ -18964,7 +19136,7 @@
 \dt 24/Apr/2013
 
 \lx sɲɤβnɤlɤβ
-\wav8 8_sYABnAlAB
+\wav8 sYABnAlAB
 \ps idph.4
 \ge titubant
 \gn 形容走路摇晃不稳
@@ -18973,7 +19145,7 @@
 \dt 29/Dec/2014
 
 \lx sɲɤɣsɲɤɣ
-\wav8 8_sYAGsYAG
+\wav8 sYAGsYAG
 \ps idph.2
 \sn 1
 \ge grand et gros (corps)
@@ -19051,6 +19223,14 @@
 \et sŋa.rabs
 \dt 29/Apr/2012
 
+\lx sŋarɯ
+\wav n-sNarW
+\ps n
+\ge avant de la selle 
+\gn 前鞍桥
+\et sŋa.ru
+\dt 20/Feb/2018
+
 \lx sŋaʁ
 \hm 2
 \wav n-sNaR
@@ -19073,13 +19253,10 @@
 \et sŋags.pa
 \dt 02/May/2012
 
-\lx sŋɤrɯ
-\wav n-sNarW
-\ps n
-\ge avant de la selle 
-\gn 前鞍桥
-\et sŋa.ru
-\dt 29/Apr/2012
+\lx sŋɤsŋɤt
+\ps idph.2
+\ge lourdaud
+\gn 形容呆头呆脑的样子
 
 \lx sŋi
 \wav n-sNi
@@ -19166,7 +19343,8 @@
 \ge tous les matins 
 \gn 每天早上 
 \hbf 925
-\dt 02/May/2012
+\cf soz
+\dt 08/Dec/2017
 
 \lx soχpu
 \ps n
@@ -19183,7 +19361,7 @@
 
 \lx sozdɯmtɕi
 \a sostɯmtɕi
-\wav8 8_sozdWmtCi
+\wav8 sozdWmtCi
 \ps n
 \ge au point du jour
 \gn 清早
@@ -19766,7 +19944,8 @@
 \gn 秋天 
 \hbf 793 
 \et ston.ka
-\dt 05/May/2012 l
+\dt 05/May/2012
+l
 
 \lx stoŋtsu
 \wav n-stoNtsu
@@ -19880,6 +20059,13 @@
 \sy stɤjstɤj
 \dt 16/Jul/2016
 
+\lx stɯsti
+\ps adv
+\ge seul
+\gn 独自一个人
+\cf ɯʑo-sti
+\dt 12/Nov/2017
+
 \lx suwa
 \wav n-suwa
 \ps n
@@ -19905,6 +20091,8 @@
 \ps n
 \ge sciure 
 \gn 锯末
+\cf tɯ-βɣi
+\cf si1
 
 \lx sɯβɟɤt
 \cf βɟɤt
@@ -19912,7 +20100,7 @@
 
 \lx sɯβsɯβ
 \wav ideo-sWB-c
-\wav8 8_sWBsWB-def
+\wav8 sWBsWB-def
 \ps idph.2
 \ge recouvert de poils fins 
 \gn 形容毛茸茸的样子 
@@ -20047,7 +20235,7 @@
 \dt 05/May/2012
 
 \lx sɯmciphɯt
-\wav8 8_nWmciphWt
+\wav8 nWmciphWt
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -20297,8 +20485,8 @@
 \lx sɯrna
 \hm 1
 \ps n
-\ge figurine en glaise 
-\gn 泥巴捏成的偶像
+\ge figurine en argile 
+\gn 泥偶
 
 \lx sɯrna
 \hm 2
@@ -20319,8 +20507,8 @@
 \hbf animal
 
 \lx sɯrsɯr
-\wav8 8_YArtWM_sWrsWr
-\wav8 8_sWrsWr_Zo_kortWmnW
+\wav8 YArtWM_sWrsWr
+\wav8 sWrsWr_Zo_kortWmnW
 \ps idph.2
 \ge rond
 \gn 形容圆形
@@ -20401,8 +20589,8 @@
 \lx sɯxtsu
 \a sɯtsu
 \hm 1
-\wav8 8_YWwGsWtsuanW
-\wav8 8_juGia_jAG
+\wav8 YWwGsWtsuanW
+\wav8 juGia_jAG
 \ps vt
 \ng caus
 \ge laisser du temps
@@ -20438,7 +20626,7 @@
 
 \lx ʂaʁ,ta
 \wav n-sxaR
-\wav8 8_sxaR
+\wav8 sxaR
 \pdl dir
 \pdv kɤ-
 \ge marquer au fer rouge
@@ -20467,7 +20655,7 @@
 \xn 珍珠透明发亮
 \xv tɤ-tsrɯ ɯ-taʁ tɤʑri ʂɣɤlʂɣɤl ɲɯ-pa
 \xn 萌芽上有透明发亮的露珠
-\xv kɯ-wxti ra kɯ tu-ti-nɯ, ftɕar tɤ-tsrɯ to-ɬoʁ tɕe, tɤ-tsrɯ ɯ-ku ɯ-taʁ zɯ tɤʑri ʂɣɤlʂɣɤl rɯri ɣɯ tɯka tu tɕe, tɯrme tɯ-fsonam nɯ, nɯ kɯ-fse, rɯri tɯkaka tɯ-fsonam nɯ nɯ fse tu-ti-nɯ tu-raχpi-nɯ ɲɯ-ŋgrɤl
+\xv kɯ-wxti ra kɯ tu-ti-nɯ, ftɕar tɤ-tsrɯ tɤ-ɬoʁ tɕe, tɤ-tsrɯ ɯ-ku ɯ-taʁ zɯ tɤʑri ʂɣɤlʂɣɤl rɯri ɣɯ tɯka tu tɕe, tɯrme tɯ-fsonam nɯ, nɯ kɯ-fse, rɯri tɯkaka tɯ-fsonam nɯ nɯ fse tu-ti-nɯ tu-raχpi-nɯ ɲɯ-ŋgrɤl
 \xn 老年人说，夏天萌芽长出来的时候，每个萌芽上面有透明的露珠，代表着每个人的运气
 \xv ɯ-jaʁ ɯ-taʁ cimbɤrom ʂɣɤlʂɣɤl ʑo to-rku 
 \xn 他手上起了透明的水疱 
@@ -20557,8 +20745,8 @@
 \xv mbro ɯ-ɕna ʂχɯʂχi to-stu, tɕe ndʐoʁ ɯβrɤ-ŋu ma
 \xn 马把鼻孔张大了，是不是要调皮了
 \se ʂχɯwɯʂχawi
-\wav8 8_sxXWwWsxXawi
-\wav8 8_sxXWwWsxXawi2
+\wav8 sxXWwWsxXawi
+\wav8 sxXWwWsxXawi2
 \ps idph.8
 \ge qui a des trous partout
 \gn 到处都是洞
@@ -20646,6 +20834,7 @@
 \gn 针 
 \hbf 578 
 \cf rasqaβ
+\cf arɯtaqaβ
 \dt 05/May/2014
 
 \lx taqaβrna
@@ -20675,7 +20864,7 @@
 \hbf 722
 
 \lx ta-ʁa
-\wav8 8_aRa
+\wav8 aRa
 \ps np
 \ge temps libre 
 \gn 空的时间 
@@ -20892,7 +21081,7 @@
 
 \lx tatpa
 \wav n-tatpa
-\wav8 8_tatpa
+\wav8 tatpa
 \ps n
 \ge foi 
 \gn 信仰 
@@ -20911,7 +21100,7 @@
 
 \lx taχpa
 \wav n-taXpa
-\wav8 8_tAxpa
+\wav8 tAxpa
 \ps n
 \ge récolte d'un an 
 \gn 一年的庄稼 
@@ -21166,8 +21355,8 @@
 \dt 15/Jul/2016
 
 \lx tɤ-ɕqhe
-\wav8 8_tACqhe
-\wav8 8_nACqhe
+\wav8 tACqhe
+\wav8 nACqhe
 \ps np
 \ge toux
 \gn 咳嗽
@@ -21190,6 +21379,8 @@
 \xn 他耍了诡计就赢了
 \xv ɯʑo kɯ tɤɕqraʁ ntsɯ tu-βze ŋgrɤl
 \xn 他总是耍聪明
+\xv tɤɕqraʁ ma-tɤ-tɯ-βze
+\xn 不要耍聪明
 \an tɤkhe
 \cf ɕqraʁ
 \dt 30/Aug/2015
@@ -21215,6 +21406,7 @@
 \cf ɯ-dɯɕŋaʁ
 \cf ɯ-dɯχɯn
 \cf kɯɲidi
+\cf sɤŋɤβdi
 
 \lx tɤ-fkaβ
 \wav n-tAfkAB
@@ -21296,6 +21488,7 @@
 \hbf famille 
 \xv a-ftsa
 \xn 我的外甥
+\cf kɤndʑɯrpɯftsa
 \dt 10/May/2012
 
 \lx tɤɣ
@@ -21378,16 +21571,20 @@
 
 \lx tɤ-ɣmbaj
 \ps np
-\ge face d'une montagne 
-\gn 山的一面 
-\hbf 840 
+\sn 1
+\ge une face, surface
+\gn 一面 
+\hbf 840
+\sn 2
+\ge une page
+\gn 一页 
 \xv jɯɣi tɯ-tɤ-ɣmbaj pɯ-sthɯt-a 
-\xn 我写完了一页书 
-\dt 20/May/2013
+\xn 我写完了一页
+\dt 27/Aug/2017
 
 \lx tɤɣro
 \wav n-tAGro
-\wav8 8_tAGRo
+\wav8 tAGRo
 \ps n
 \ge jeu 
 \gn 游戏 
@@ -21533,8 +21730,8 @@
 
 \lx tɤjpa
 \wav n-tAjpa
-\wav8 8_tAjpa
-\wav8 8_gaishang_mWpasAzGWt
+\wav8 tAjpa
+\wav8 gaishang_mWpasAzGWt
 \ps n
 \ge neige 
 \gn 雪 
@@ -21559,7 +21756,7 @@
 
 \lx tɤjpɣom
 \wav n-tAjpGom
-\wav8 8_tAjpGom
+\wav8 tAjpGom
 \ps n
 \ge glace 
 \gn 冰 
@@ -21692,8 +21889,8 @@
 \ps n
 \ge imbécile 
 \gn 傻瓜 
-\an tɤɕqraʁ
 \hbf 208
+\cf khe
 \dt 30/Aug/2015
 
 \lx tɤkhepɣɤtɕɯ
@@ -21726,7 +21923,7 @@
 \lx tɤ-khɯ
 \wav n-tAkhW
 \wav n-tAkhW2
-\wav8 8_tAkhW
+\wav8 tAkhW
 \ps np
 \ge fumée 
 \gn 烟 
@@ -21748,7 +21945,7 @@
 
 \lx tɤkhɯrɲɯl
 \wav takhWrYWl
-\wav8 8_tAkhWrYWl
+\wav8 tAkhWrYWl
 \ps n
 \ge fumée qui ne se dissipe pas
 \gn 驱散不了；在山腰停留的烟子（人为的烟子、炊烟）
@@ -21920,6 +22117,13 @@
 \hbf famille 
 \dt 12/May/2012
 
+\lx tɤmbɤt
+\ps n
+\ge montagne 
+\gn 山 
+\sy zgo
+\cf lɤqhɤtɤmbɤt
+
 \lx tɤ-mbe
 \wav n-tAmbe
 \ps np
@@ -21968,8 +22172,8 @@
 \dt 09/Jun/2013
 
 \lx tɤ-mbrɯ,ŋgɯ
-\wav8 8_WmbrW
-\wav8 8_taCWNgW
+\wav8 WmbrW
+\wav8 taCWNgW
 \pdl dir 
 \pdv tɤ-
 \ge s'énerver 
@@ -22018,6 +22222,7 @@
 \hbf famille
 \xv a-mdɯ
 \xn 我的侄子
+\cf kɤndʑɯpɤmdɯ
 \dt 10/May/2012
 
 \lx tɤmdzɤqaqa
@@ -22088,7 +22293,7 @@
 
 \lx tɤmtɕhoʁ
 \wav n-tAmtChoR
-\wav8 8_tAmtChoR
+\wav8 tAmtChoR
 \ps n
 \ge écharde 
 \gn 木刺（插入皮肉） 
@@ -22107,7 +22312,7 @@
 \dt 12/May/2012
 
 \lx tɤmtshɤr
-\wav8 8_tAmtshAr
+\wav8 tAmtshAr
 \ps n
 \ge chose étrange
 \gn 怪事
@@ -22159,7 +22364,7 @@
 
 \lx tɤmtɯɲaʁ
 \ps n
-\ge nœud 
+\ge nœud de vache
 \gn 死结 
 \dt 13/Nov/2014
 
@@ -22431,7 +22636,7 @@
 
 \lx tɤ-ŋkɯ
 \wav n-tANkW
-\wav8 8_tANkW
+\wav8 tANkW
 \ps np
 \ge couenne 
 \gn 猪皮 
@@ -22607,7 +22812,8 @@
 \xv aʑo nɤ-tɤpra tu-βze-a jɤɣ
 \xn 我可以当你的使者
 \cf ɣɤxpra
-\dt 14/May/2014
+\cf nɤpra
+\dt 16/May/2017
 
 \lx tɤ-prɤm
 \wav n-tAprAm
@@ -22722,10 +22928,11 @@
 \ge prince, jeune maître de maison
 \gn 少爷 
 \hbf famille
+\cf tɤ-ru1
 \dt 10/Nov/2014
 
 \lx tɤ-rca
-\wav8 8_arcacinaGAme
+\wav8 arcacinaGAme
 \ps np
 \ge avec, en suivant
 \gn 跟……一起 
@@ -22770,15 +22977,15 @@
 \dt 12/May/2012
 
 \lx tɤ-re
-\wav8 8_are_matWtCAt
+\wav8 are_matWtCAt
 \ps np
 \ge rire 
 \gn 笑 
 \xv a-re ma-tɯ-tɕɤt
 \xn 你不要让我耻笑你（你小看我了，我不是那种人）
-\xv tɤ-re sɤ-tɕɯ-tɕɤt 
+\xv tɤre sɤtɕɯtɕɤt 
 \xn 当笑话
-\xv tɤ-re sɤ-tɕɯ-tɕɤt ma-tɤ-kɯ-sɯβzu-a 
+\xv tɤre sɤtɕɯtɕɤt ma-tɤ-kɯ-sɯβzu-a 
 \xn 你不要取笑我
 \cf tɤre tɤɟaʁ
 \cf nɤre
@@ -22786,7 +22993,7 @@
 \dt 27/Apr/2014
 
 \lx tɤre tɤɟaʁ
-\wav8 8_tAretAJaR
+\wav8 tAretAJaR
 \ps n
 \ge plaisanteries
 \gn 说说笑笑
@@ -22795,7 +23002,7 @@
 
 \lx tɤresɤpɯpa
 \wav n-tAresApWpa
-\wav8 8_tAresApWpa
+\wav8 tAresApWpa
 \ps n
 \ge moquerie
 \gn 取笑人
@@ -22935,9 +23142,9 @@
 
 \lx tɤrkoz
 \wav n-tArkoz
-\wav8 8_tArkoz
-\wav8 8_tArkoz2
-\wav8 8_tArkoz3
+\wav8 tArkoz
+\wav8 tArkoz2
+\wav8 tArkoz3
 \ps n
 \ge exprès, de force 
 \gn 故意，强迫 
@@ -23064,8 +23271,8 @@
 \dt 27/Sep/2014
 
 \lx tɤ-ro
-\wav8 8_tAro
-\wav8 8_ro
+\wav8 tAro
+\wav8 ro
 \ps np
 \sn 1
 \ge en trop
@@ -23108,6 +23315,7 @@
 \hbf famille
 \xv a-rpɯ
 \xn 我的舅舅
+\cf kɤndʑɯrpɯftsa
 \dt 13/May/2012
 
 \lx tɤ-rqhioʁ
@@ -23118,7 +23326,7 @@
 \dt 13/Nov/2013
 
 \lx tɤ-rqhu
-\wav8 8_tArqhu
+\wav8 tArqhu
 \ps np
 \sn 1
 \ge enveloppe, coquille, carapace
@@ -23244,7 +23452,7 @@
 
 \lx tɤ-rtsi
 \wav n-tArtsi
-\wav8 8_tArtsi-def
+\wav8 tArtsi-def
 \ps np
 \ge huile de porc 
 \gn 猪油 
@@ -23283,6 +23491,7 @@
 \hbf 182
 \xv a-ru
 \xn 先生（对别人的尊称）
+\cf tɤrɤze
 \dt 06/Jul/2016
 
 \lx tɤ-rʑaβ
@@ -23305,8 +23514,8 @@
 \se tɤ-rʑaʁ
 \wav n-tArZaR2
 \wav n-tArZaR3
-\wav8 8_WrZaR_YWzri
-\wav8 8_WrZaR_mWjzri
+\wav8 WrZaR_YWzri
+\wav8 WrZaR_mWjzri
 \hm 2
 \ps np
 \ge temps
@@ -23352,17 +23561,13 @@
 \lx tɤ-ʁar
 \wav n-tARar
 \ps np
-\sn 1
 \ge ailes 
 \gn 翅膀 
-\sn 2
-\ge longueur d'un bras
-\gn 人的一只手那么长
 \hbf oiseau2
-\dt 05/May/2014
+\cf tɯ-ʁar
 
 \lx tɤ-ʁarndzom
-\wav8 8_WRarndzom
+\wav8 WRarndzom
 \ps np
 \ge os des ailes
 \gn 翅膀的骨头
@@ -23370,7 +23575,7 @@
 \dt 04/Jul/2016
 
 \lx tɤʁaʁ
-\wav8 8_tARaR
+\wav8 tARaR
 \ps n
 \ge fête, réunion
 \gn 聚会
@@ -23514,8 +23719,8 @@
 \xv mbro ɯ-sno thɯ-ta-t-a
 \xn 我给马装上了鞍子
 \se tɤ-sno ɯ-jaʁ
-\wav8 8_tAsno_WjaR
-\wav8 8_tAsno_WjaR2
+\wav8 tAsno_WjaR
+\wav8 tAsno_WjaR2
 \ps n
 \ge partie inférieure de la selle en contact avec le dos du cheval, faite en laine
 \gn 马鞍垫；鞍鞯
@@ -23566,7 +23771,7 @@
 \dt 25/Jul/2013
 
 \lx tɤ-spa
-\wav8 8_kAmbi_Wspa
+\wav8 kAmbi_Wspa
 \ps np
 \sn 1
 \ge matériau
@@ -23629,6 +23834,7 @@
 \ge vessie 
 \gn 膀胱 
 \hbf 150
+\cf tɯcɯste
 \dt 13/May/2012
 
 \lx tɤsthoʁsi
@@ -23697,7 +23903,7 @@
 
 \lx tɤ-tɕhɤz
 \wav n-tChAz
-\wav8 8_GABlWBlWG
+\wav8 GABlWBlWG
 \ps np
 \ge franges colorées
 \gn 吊边布（衣服边缘的彩色布料）
@@ -23809,6 +24015,7 @@
 \ge clou 
 \gn 钉子 
 \hbf 580
+\cf ɕɤmtshoʁ
 
 \lx tɤ-tshɯɣ
 \wav n-tAtshWG
@@ -23989,7 +24196,7 @@
 \dt 20/Jul/2016
 
 \lx tɤχtɯχtɤt
-\wav8 8_tAXtWXtAt
+\wav8 tAXtWXtAt
 \ps n
 \ge avis, information 
 \gn 通知 
@@ -24012,7 +24219,7 @@
 \dt 07/Aug/2016
 
 \lx tɤ-zgra
-\wav8 8_tazgra
+\wav8 tazgra
 \ps np
 \ge son
 \gn 声音；噪音
@@ -24036,7 +24243,7 @@
 
 \lx tɤzɲɟoʁ
 \wav n-tAzYJoR
-\wav8 8_tAzYJoR
+\wav8 tAzYJoR
 \ps n
 \ge branche flexible utilisée pour fouetter les animaux 
 \gn 用来打牲畜的木条 
@@ -24220,7 +24427,7 @@
 \dt 05/Feb/2014
 
 \lx tɕɤkɯ
-\wav8 8_tCAkW
+\wav8 tCAkW
 \ps adv
 \ge à l'est
 \gn 在东边
@@ -24280,6 +24487,12 @@
 \gn 女人在额头上辫的小辫子 
 \dt 06/May/2012
 
+\lx tɕe
+\ps cnj
+\ge ensuite
+\gn 然后
+\dt 06/Feb/2018
+
 \lx tɕendɤre
 \ps cnj
 \ge ensuite
@@ -24302,9 +24515,9 @@
 
 \lx tɕɣɤrtɕɣɤr
 \wav ideo-tCGAr-b
-\wav8 8_GAtCGArtCGAr
-\wav8 8_tCGArnAtCGAr
-\wav8 8_sAtCGartCGar
+\wav8 GAtCGArtCGAr
+\wav8 tCGArnAtCGAr
+\wav8 sAtCGartCGar
 \ps idph.2
 \ge rouge vif 
 \gn 形容（颜色）红艳艳
@@ -24539,7 +24752,7 @@
 \xn 我们俩约了时间
 
 \lx tɕhɤtpa
-\wav8 8_nAtChAtpa
+\wav8 nAtChAtpa
 \ps n
 \ge punition
 \gn 惩罚
@@ -24604,8 +24817,8 @@
 
 \lx tɕhi
 \hm 1
-\wav8 8_tChi_kWra
-\wav8 8_tChi_skAt
+\wav8 tChi_kWra
+\wav8 tChi_skAt
 \ps pro
 \ge quoi 
 \gn 什么 
@@ -24627,13 +24840,7 @@
 \hbf 520
 \dt 25/Dec/2012
 
-\lx tɕhi napapa
-\ps adv
-\ge quoi qu'il arrive
-\gn 不顾一切，不管发生什么
-\xv tɕhi napapa ʑo kɤ-nɤɕqa ɬoʁ
-\xn 不管发生什么都要坚持
-\dt 31/Aug/2015
+ 
 
 \lx tɕhindʐa
 \ps pro
@@ -24683,7 +24890,7 @@
 
 \lx tɕhoʁtɕhoʁ
 \a ftɕhoʁftɕhoʁ
-\wav8 8_tChoRtChoR
+\wav8 tChoRtChoR
 \ps idph.2
 \ge les deux oreilles dressées
 \gn 形容两只耳朵立起来，看起来很灵活的样子
@@ -24784,7 +24991,7 @@
 
 \lx tɕhɯkɤɣar
 \wav n-tChWkAGar
-\wav8 8_tChWkAGar
+\wav8 tChWkAGar
 \ps n
 \ge bord de l'eau
 \gn 水边
@@ -25083,7 +25290,7 @@
 \dt 20/May/2013
 
 \lx tɕhɯʑaŋ
-\wav8 8_tChWZaN
+\wav8 tChWZaN
 \ps n
 \ge irrigation 
 \gn 灌溉 
@@ -25145,7 +25352,7 @@
 \dt 06/May/2014
 
 \lx tɕʁɯznɤtɕʁɯz
-\wav8 8_tCRWznAtCRWz
+\wav8 tCRWznAtCRWz
 \ps idph.3
 \ge croquant
 \gn 形容食物脆
@@ -25186,7 +25393,7 @@
 \dt 01/Oct/2013
 
 \lx thamaka
-\wav8 8_thamaka
+\wav8 thamaka
 \ps n
 \ge tabac 
 \gn 烟 
@@ -25339,7 +25546,7 @@
 
 \lx thɤjtɕu
 \wav pro-thAjtCu
-\wav8 8_thAJtCu
+\wav8 thAJtCu
 \ps pro
 \ge quand 
 \gn 什么时候 
@@ -25583,8 +25790,8 @@
 \pdv tɤ-
 \ge implorer la miséricorde
 \gn 求饶
-\xv nɤ-ɕki thɯrʑi tu-nɯʑi-a
-\xn 我向求饶
+\xv aʑo ju-ɕe-a tɕe thɯrʑi ɕ-tu-ʑi-a ɲɯ-ntshi
+\xn 我要去求饶
 \lf Component 1
 \lv thɯrʑi
 \ps n
@@ -25756,7 +25963,7 @@
 \ps n
 \ge impressions sur argile
 \gn （用模型印出来的）小泥像
-\et tsha.tsha
+\et tsʰa.tsʰa
 \cf tshɤcɯm
 \cf tshɤrkɯ
 \dt 04/Sep/2015
@@ -25775,6 +25982,7 @@
 \ge petite maison où l'on met les tshatsha
 \gn 装泥像用的小房子
 \cf tshatsha
+\et tsʰa.kʰʲim?
 \dt 04/Sep/2015
 
 \lx tshɤdɯɣ
@@ -25825,7 +26033,7 @@
 
 \lx tshɤɲcɤnɯ
 \wav n-tshAYcAnW
-\wav8 8_tshAYcAnW
+\wav8 tshAYcAnW
 \ps n
 \ge une espèce de champignon 
 \gn 【刷把菌】 
@@ -25999,7 +26207,7 @@
 \dt 15/May/2012
 
 \lx tshɯmɕtʂat
-\wav8 8_tshWmCtsxat_WkWBzu
+\wav8 tshWmCtsxat_WkWBzu
 \ps n
 \ge capacité à économiser 
 \gn 节约开支
@@ -26035,7 +26243,7 @@
 
 \lx tshɯrɟɯn
 \ps adv
-\wav8 8_tshWrJWn
+\wav8 tshWrJWn
 \ge souvent 
 \gn 经常 
 \et tsʰe.rgʲun
@@ -26075,7 +26283,7 @@
 \lx tslɯɣtslɯɣ
 \wav ideo-tslWG-b
 \wav tslWGtslWG_Zo_YArku
-\wav8 8_tslWGtslWG
+\wav8 tslWGtslWG
 \ps idph.2
 \sn 1
 \ge envelopper complètement
@@ -26340,7 +26548,7 @@
 \lx tʂhɤt
 \hm 2
 \wav ideo-tsxhAt-c
-\wav8 8_tWftsaR
+\wav8 tWftsaR
 \ps idph.1
 \ge bruit de gouttes qui tombent 
 \gn 滴水的声音 
@@ -26444,12 +26652,20 @@
 \cf tʂu
 \dt 22/Mar/2011
 
-\lx tɯβɣi
+\lx tɯ-βɣi
 \wav n-tWBGi
-\ps n
+\ps np
+\sn 1
+\ge poudre 
+\gn 粉末
+\sn 2
+\ge cendres 
+\gn 灰（烧成……）
+\sn 3
 \ge balle 
 \gn 糠 
 \hbf plante2
+\cf sɯβɣi
 \dt 16/May/2012
 
 \lx tɯ-βlɤz
@@ -26540,7 +26756,7 @@
 
 \lx tɯ-ci
 \ps np
-\wav8 8_tWci_kAlAt
+\wav8 tWci_kAlAt
 \sn 1
 \ge eau 
 \gn 水 
@@ -26651,7 +26867,7 @@
 
 \lx tɯ-ɕɣa
 \wav n-tWCGa
-\wav8 8_tWCGa_qajW
+\wav8 tWCGa_qajW
 \ps np
 \ge dent 
 \gn 牙齿 
@@ -26801,7 +27017,7 @@
 
 \lx tɯ-ɕnɤmtsrɯɣ
 \wav n-CnaBmtsrWG
-\wav8 8_tWCnAmtsrWG
+\wav8 tWCnAmtsrWG
 \ps np
 \ge morve liquide 
 \gn 湿鼻涕 
@@ -26919,7 +27135,7 @@
 
 \lx tɯ-fɕɤt
 \hm 2
-\wav8 8_tWfCAt
+\wav8 tWfCAt
 \ps clf
 \ge un brin
 \gn 一股；一根
@@ -26961,7 +27177,7 @@
 \dt 20/Nov/2011
 
 \lx tɯftsaʁ
-\wav8 8_tWftsaR
+\wav8 tWftsaR
 \ps n
 \ge eau qui coule dans la maison lorsqu'il pleut 
 \gn 下雨的时候，房子里漏水 
@@ -27046,7 +27262,7 @@
 
 \lx tɯ-ɣmbɤβ
 \ps np
-\ge ulcère 
+\ge pustule 
 \gn 脓包
 
 \lx tɯ-ɣmɯr
@@ -27071,7 +27287,7 @@
 \cf ɣndʑɯr
 
 \lx tɯ-ɣɲi
-\wav8 8_aGYi
+\wav8 aGYi
 \ps np
 \ge ami, allié
 \gn 朋友；友人
@@ -27279,7 +27495,7 @@
 \dt 29/May/2013
 
 \lx tɯjno
-\wav8 8_tWjno
+\wav8 tWjno
 \ps n
 \ge légume 
 \gn 蔬菜 
@@ -27380,6 +27596,8 @@
 \ge traits du visage 
 \gn 面容的五官 
 \cf tɯ-mɤlɤjaʁ
+\cf tɯ-ku
+\cf tɯ-mɲaʁ
 \dt 02/Jul/2016
 
 \lx tɯ-kɤpɤla
@@ -27422,8 +27640,8 @@
 \cf arɤkhɯmkhɤl
 
 \lx tɯ-khi
-\wav8 8_jikhi_pWNgW
-\wav8 8_nAkhi_YWNgW
+\wav8 jikhi_pWNgW
+\wav8 nAkhi_YWNgW
 \ps np
 \ge chance 
 \gn 运气
@@ -27546,7 +27764,7 @@
 
 \lx tɯ-laz
 \hm 2
-\wav8 8_nAlaz
+\wav8 nAlaz
 \ps np
 \ge karma 
 \gn 运气 
@@ -27596,12 +27814,9 @@
 \xn 一根草
 \xv tɯ-ci tɯ-ldʑa 
 \xn 一条河
-\xv qapri tɯ-ldʑa
-\xn 一条蛇
-\xv qaɟy tɯ-ldʑa
-\xn 一条鱼
 \xv ɯ-mi tɯ-ldʑa
 \xn 一只脚
+\dt 04/Nov/2017
 
 \lx tɯ-lpɤɣ
 \wav cl-tWlpAG
@@ -27687,12 +27902,16 @@
 \gn 四肢，手脚 
 \hbf corps
 \cf tɯ-kɤlɤmɲaʁ
+\cf tɯ-mi
+\cf tɯ-jaʁ
 
 \lx tɯ-mɤmke
 \ps np
 \ge partie de la jambe entre le mollet et la cheville 
 \gn 小腿和踝骨节相连的部分 
 \hbf corps
+\cf tɯ-mi
+\cf tɯ-mke
 
 \lx tɯ-mɤmɲaʁ
 \ps np
@@ -27826,7 +28045,7 @@
 \xv tɯ-mci thɯ́-wɣ-βde ɯ-qhu kɤ-nɯɕɣɤz mɤ-khɯ 
 \xn 吐出了口水不能收回去（你送出的礼物不能拿回来）
 \cf mcɯrɯβrɯβ
-\cf mcɯphɯt
+\cf mciphɯt
 \dt 27/Aug/2015
 
 \lx tɯmda
@@ -27835,13 +28054,6 @@
 \gn 土枪 
 \hbf objet traditionel 
 \et mda
-
-\lx tɯmdi
-\ps adv
-\ge tout le monde 
-\gn 大家 
-\hbf 939
-\dt 20/Jan/2015
 
 \lx tɯ-mdzɤɣ
 \ps np
@@ -28027,6 +28239,7 @@
 \ge œil 
 \gn 眼睛 
 \hbf 79
+\cf tɯ-kɤlɤmɲaʁ
 
 \lx tɯ-mɲaʁfkaβ
 \ps np
@@ -28158,7 +28371,7 @@
 \hbf 86
 
 \lx tɯ-mtɕhi,χo
-\wav8 8_WmtChi_YWXo
+\wav8 WmtChi_YWXo
 \pdl dir
 \pdv tɤ-
 \ge fanfaronner
@@ -28269,7 +28482,7 @@
 \dt 08/Sep/2015
 
 \lx tɯmu
-\wav8 8_tWmu
+\wav8 tWmu
 \ps n
 \ge peur
 \gn 害怕
@@ -28440,7 +28653,7 @@
 \dt 18/May/2014
 
 \lx tɯ-nŋa
-\wav8 8_tWnNa
+\wav8 tWnNa
 \ps np
 \ge dette 
 \gn 债 
@@ -28586,7 +28799,7 @@
 \gn 羊毛布（尚未缝成衣服）
 
 \lx tɯŋgɤmbe
-\wav8 8_tWNgAmbe
+\wav8 tWNgAmbe
 \ps n
 \ge vêtements abîmés
 \gn 破旧的衣服
@@ -28698,7 +28911,7 @@
 \dt 20/Aug/2012
 
 \lx tɯpɤr
-\wav8 8_nAtWpAr
+\wav8 nAtWpAr
 \ps n
 \ge dessin 
 \gn 画，照片 
@@ -28709,7 +28922,7 @@
 \dt 23/Jun/2013
 
 \lx tɯ-pɤrme
-\wav8 8_thWtAzGWt
+\wav8 thWtAzGWt
 \ps clf
 \ge année 
 \gn 一岁（年龄） 
@@ -28727,8 +28940,8 @@
 \hbf plante
 
 \lx tɯ-pɕoʁ
-\wav8 8_tWpCoR_ci_pjWphAn
-\wav8 8_WpCoR
+\wav8 tWpCoR_ci_pjWphAn
+\wav8 WpCoR
 \ps n
 \ge côté, direction 
 \gn 方向 
@@ -28771,17 +28984,8 @@
 \gn 丈夫；伴侣 
 \hbf famille
 
-\lx tɯ-phoŋ
-\ps clf
-\ge bouteille 
-\gn 一瓶 
-\hbf 891 
-\et bum-pa
-\xv cha tɯ-phoŋ 
-\xn 一瓶酒
-
 \lx tɯ-phoŋbu
-\wav8 8_mapWtWsWxCe
+\wav8 mapWtWsWxCe
 \ps np
 \ge corps 
 \gn 身体 
@@ -28849,7 +29053,7 @@
 \lx tɯ-po
 \ps clf
 \ge unité de mesure 
-\gn 斗 
+\gn 一斗 
 \hbf 571 
 \et ⁿbo
 \dt 15/May/2014
@@ -28889,8 +29093,8 @@
 \dt 20/Aug/2012
 
 \lx tɯ-qa
-\wav8 8_Wqa_Zo_tunWlhoR_naRzia
-\wav8 8_Wqa_Zo_pjWnWlhoR
+\wav8 Wqa_Zo_tunWlhoR_naRzia
+\wav8 Wqa_Zo_pjWnWlhoR
 \ps np
 \sn 1
 \ge racine
@@ -28919,13 +29123,13 @@
 \cf tɤ-qaʁrɯ
 \dt 01/Jul/2016
 
-\lx tɯ-qartsɯ
+\lx tɯqartsɯ
 \wav n-tWqartsW
-\ps clf
+\ps n
 \ge coup de pied 
 \gn 踢一脚 
 \hbf 1667 
-\xv tɯ-qartsɯ ta-lɤt 
+\xv tɯqartsɯ ta-lɤt 
 \xn 它踢了一脚
 \cf sɯqartsɯ
 \dt 15/Jun/2013
@@ -29031,6 +29235,14 @@
 \gn 字体 
 \cf rɤt
 \dt 26/May/2013
+
+\lx tɯ-rcɤmbe
+\ps np
+\ge vieille veste
+\gn 旧皮袄
+\cf tɯ-rcu
+\cf tɤ-mbe
+\dt 21/Sep/2017
 
 \lx tɯ-rcu
 \wav n-tWrcu
@@ -29148,7 +29360,7 @@
 \dt 30/Mar/2015
 
 \lx tɯrɟaʁ
-\wav8 8_tWrJaR_korACinW
+\wav8 tWrJaR_korACinW
 \ps n
 \ge danse 
 \gn 舞蹈 
@@ -29200,7 +29412,7 @@
 
 \lx tɯrma
 \wav n-tWrma
-\wav8 8_tWrma
+\wav8 tWrma
 \ps n
 \ge vie quotidienne; tâches quotidiennes 
 \gn 过日子；日常生活 
@@ -29223,16 +29435,6 @@
 \gn 尿 
 \hbf 152
 
-\lx tɯ-rmbɯ
-\ps clf
-\ge tas 
-\gn 一堆 
-\hbf 855 
-\xv tɯ-ɣli tɯ-tɯ-rmbɯ 
-\xn 一堆粪
-\cf rmbɯ
-\dt 07/Jul/2013
-
 \lx tɯrme
 \ps n
 \sn 1
@@ -29247,7 +29449,7 @@
 \dt 23/Nov/2011
 
 \lx tɯrmɯ
-\wav8 8_tWrmW
+\wav8 tWrmW
 \ps n
 \ge après midi 
 \gn 下午 
@@ -29355,7 +29557,7 @@
 \dt 29/Aug/2015
 
 \lx tɯrŋɤt
-\wav8 8_tWrNAt
+\wav8 tWrNAt
 \ps n
 \ge piège 
 \gn 陷阱 
@@ -29411,7 +29613,7 @@
 \et pʰrag
 
 \lx tɯ-rpɣo
-\wav8 8_tWrpGo_def
+\wav8 tWrpGo_def
 \ps np
 \ge sur les cuisses (lorsqu'on est assis en tailleur)
 \gn 盘着坐时，腿上的部位
@@ -29431,7 +29633,7 @@
 \dt 23/Jul/2015
 
 \lx tɯ-rqo
-\wav8 8_tWrqo
+\wav8 tWrqo
 \ps np
 \ge gorge 
 \gn 喉咙 
@@ -29512,7 +29714,7 @@
 \et rtsa
 
 \lx tɯ-rtsɤɣ
-\wav8 8_tWrtsAG-def
+\wav8 tWrtsAG-def
 \ps clf
 \ge une section, un étage, une toise 
 \gn 一节；一层楼；一丈 
@@ -29522,6 +29724,7 @@
 \ps np
 \ge poumon 
 \gn 肺 
+\cf khɯrtshɤz
 \hbf 143
 
 \lx tɯ-rtsi
@@ -29549,7 +29752,7 @@
 \ge articulation 
 \gn 关节 
 \hbf corps 
-\et tsʰigs
+\cf tɯ-tshɯɣ 
 
 \lx tɯ-rɯxpa
 \ps np
@@ -29597,6 +29800,12 @@
 \gn 未婚妻 
 \hbf famille
 
+\lx tɯ-ʁar
+\ps clf
+\ge longueur d'un bras
+\gn 一只手臂的长度
+\cf tɯ-ʁar
+
 \lx tɯ-ʁɤjtshɯz
 \ps np
 \ge avoir une utilité
@@ -29641,7 +29850,7 @@
 \hbf 105
 
 \lx tɯ-ʁnoŋ
-\wav8 8_nARnoN
+\wav8 nARnoN
 \ps np
 \ge remords 
 \gn 内疚 
@@ -29821,7 +30030,7 @@
 \dt 25/Nov/2014
 
 \lx tɯ-sŋɯro
-\wav8 8_asNWro
+\wav8 asNWro
 \ps np
 \ge souffle 
 \gn 气（一口） 
@@ -29961,7 +30170,7 @@
 
 \lx tɯ-sta
 \wav n-tWsta
-\wav8 8_Wsta
+\wav8 Wsta
 \ps np
 \sn 1
 \ge lit
@@ -29984,7 +30193,7 @@
 \dt 20/Jul/2016
 
 \lx tɯ-staʁ
-\wav8 8_tWstaR
+\wav8 tWstaR
 \ps clf
 \ge une poêlée 
 \gn 一锅，炒出一锅糌粑的时间
@@ -30006,7 +30215,7 @@
 \dt 11/Aug/2014
 
 \lx tɯ-sɯm
-\wav8 8_nAsWm_pjWtu_ra
+\wav8 nAsWm_pjWtu_ra
 \ps np
 \ge état d'esprit 
 \gn 性情 
@@ -30058,7 +30267,7 @@
 \dt 24/Aug/2015
 
 \lx tɯ-sɯso
-\wav8 8_asWso
+\wav8 asWso
 \ps np
 \ge souvenir, pensée
 \gn 记忆；思维
@@ -30097,7 +30306,7 @@
 \dt 26/May/2013
 
 \lx tɯtaχte
-\wav8 8_tWtaXte
+\wav8 tWtaXte
 \ps n
 \ge méthode de tissage 
 \gn 织布的方法，四根线交错着【斜纹子】 
@@ -30172,14 +30381,6 @@
 \ge un tour de corde (enroulée en cercle)
 \gn 一圈绳子
 
-\lx tɯtɤmda
-\ps adv
-\ge chaque fois 
-\gn 每次 
-\hbf 925
-\cf mda
-\dt 26/Jan/2015
-
 \lx tɯ-tɤmphrɯm
 \wav cl-tWtAmphrWm
 \ps clf
@@ -30205,6 +30406,16 @@
 \hbf 884
 \cf tɤ-ri
 
+\lx tɯ-tɤrmbɯ
+\ps clf
+\ge tas 
+\gn 一堆 
+\hbf 855 
+\xv tɯ-ɣli tɯ-tɤrmbɯ 
+\xn 一堆粪
+\cf rmbɯ
+\dt 07/Jul/2013
+
 \lx tɯ-tɤrtsɯɣ
 \ps clf
 \ge pile 
@@ -30226,7 +30437,7 @@
 \ps clf
 \ge une partie 
 \gn 一份 
-\xv χsɯ-tɤsɯm ɯ-ŋgɯ zɯ tɯ-tɯsɯm 
+\xv χsɯ-tɤsɯm ɯ-ŋgɯ zɯ tɯ-tɤsɯm 
 \xn 三分之一
 \sy tɯ-tɯcɯr
 \dt 17/Jan/2015
@@ -30234,7 +30445,9 @@
 \lx tɯ-tɤtɕhɯ
 \ps clf
 \ge un coup de bêche 
-\gn 挖一锄头
+\gn （挖）一锄头
+\xv qaʁ tɯ-tɤtɕhɯ ta-lɤt 
+\xn 他挖了一锄头
 
 \lx tɯ-tɤxɯr
 \ps clf
@@ -30256,27 +30469,31 @@
 \lx tɯ-tɕha
 \hm 1
 \wav n-tWtCha
-\wav8 8_tWtCha_kho
-\wav8 8_tWtCHa_sAzgWt
+\wav8 tWtCHa_sAzgWt
 \ps np
-\ge information 
-\gn 消息
+\ge nouvelles
+\gn 消息；回音
 \hbf 680 
-\un |fv{a-tɕha}可以表示“关于我的消息”，也可以表示“我需要的消息”
-\xv a-tɕha nɯ-khɤm 
-\xn 你要给我做解答
+\xv a-tɕha ku-me
+\xn 我没有得到（他的）消息
 \xv tɯ-tɕha na-tsɯm
 \xn 他带了消息
-\xv tɯ-tɕha ja-ɣɯt
-\xn 他把消息带给我了
-\xv tɕe tɤ-tɯ-ʑɣɤsɯrtoʁ tɕe, ɯ-ɲɯ́-tɯ-mna nɤ, a-tɕha a-kɤ-tɯ-khɤm
-\xn 你看了病以后，如果病好的话，你要告诉我
-\xv nɤ-kɯ-mŋɤm ɯ-ɲɯ́-mna nɯra a-tɕha a-kɤ-tɯ-khɤm
-\xn 你病好的消息要告诉我
 \xv tɯ-tɕha ja-sɤzɣɯt
 \xn 他把消息带到了
 \cf ɣɯtɕha
-\dt 16/Jul/2016
+\se tɯ-tɕha,kho
+\wav8 tWtCha_kho
+\wav8 tWtCha_kho2
+\wav8 atCha_mWnakho
+\ge répondre
+\gn 答复；给……回音；转告；告诉
+\xv a-tɕɯ kɯ a-tɕha mɯ-na-kho
+\xn 我儿子没有给我回音
+\xv nɤ-kɯ-mŋɤm ɯ-ɲɯ́-mna nɯra a-tɕha a-kɤ-tɯ-khɤm
+\xn 你病好的消息要告诉我
+\xv tɕe tɤ-tɯ-ʑɣɤsɯrtoʁ tɕe, ɯ-ɲɯ́-tɯ-mna nɤ, a-tɕha a-kɤ-tɯ-khɤm
+\xn 你看了病以后，如果病好的话，你要告诉我
+\dt 03/Jan/2018
 
 \lx tɯ-tɕha
 \hm 2
@@ -30305,14 +30522,7 @@
 \xn 我没有双眼皮
 \dt 22/Nov/2014
 
-\lx tɯtɕhɯ
-\ps n
-\ge assassinat
-\gn 刺杀
-\xv tɯtɕhɯ to-lɤt
-\xn 他刺杀了人
-\cf nɯtɯtɕhɯ
-\dt 07/Jul/2016
+ 
 
 \lx tɯ-tɕɯlɤβ
 \ps clf
@@ -30370,7 +30580,7 @@
 \cf ntsɣe
 
 \lx tɯtshi
-\wav8 8_tWtshi
+\wav8 tWtshi
 \ps n
 \ge gruau de riz
 \gn 粥；稀饭
@@ -30383,9 +30593,9 @@
 
 \lx tɯtshot
 \ps n
-\wav8 8_tWtshot
-\wav8 8_tWtshot2
-\wav8 8_tArtoRa
+\wav8 tWtshot
+\wav8 tWtshot2
+\wav8 tArtoRa
 \ge heure 
 \gn 钟 
 \hbf 662 
@@ -30410,6 +30620,17 @@
 \gn 一套
 \dt 04/May/2014
 
+\lx tɯ-tshɯɣ 
+\ps np
+\sn 1
+\ge articulation 
+\gn 关节 
+\sn 2
+\ge sens (parole)
+\gn 本意
+\et tsʰigs
+\sy tɯ-rɯrtsɤɣ
+
 \lx tɯ-tsi
 \ps np
 \ge longévité 
@@ -30421,7 +30642,7 @@
 
 \lx tɯtʂaŋ
 \ps n
-\ge impartialité
+\ge justice
 \gn 公道
 \xv tɕi-tɯtʂaŋ ci nɯ-lɤt
 \xn 给我们讨个公道
@@ -30437,9 +30658,9 @@
 \dt 18/Jul/2016
 
 \lx tɯ-tun
-\wav8 8_sAntChoz
-\wav8 8_Wtun
-\wav8 8_Wti-Wtun
+\wav8 sAntChoz
+\wav8 Wtun
+\wav8 Wti-Wtun
 \ps np
 \ge but, sens
 \gn 目的；意思
@@ -30462,8 +30683,8 @@
 \dt 30/Oct/2014
 
 \lx tɯ-tɯcɯr
-\wav8 8_tWtWcWr1
-\wav8 8_kWmNutWcWr
+\wav8 tWtWcWr1
+\wav8 kWmNutWcWr
 \ps clf
 \ge une partie 
 \gn 一份 
@@ -30709,24 +30930,20 @@
 \ge cuisse 
 \gn 大腿 
 \hbf 100 
-\et bʲin.pa
 
 \lx tɯ-χpɯm
-\wav8 8_aXpWm_pWtshoRa
+\wav8 aXpWm_pWtshoRa
 \ps np
 \ge genou 
 \gn 膝盖 
 \hbf 101 <2> 1360 
 \xv a-χpɯm pɯ-tshoʁ-a (lɤ-tshoʁ-a)
 \xn 我跪下了
+\xv tɯ-χpɯm ɯ-rna
+\xn 膝盖骨 
 \cf tɯ-χpɯm,tshoʁ
 \dt 24/Apr/2013
-
-\lx tɯ-χpɯmɯrna
-\ps np
-\ge os du genou 
-\gn 膝盖骨 
-\hbf corps
+ 
 
 \lx tɯ-χsɯmχsoz
 \a tɯ-χsoŋχsɤz
@@ -30839,7 +31056,7 @@
 \gn 自己（泛指的人称代词）
 
 \lx tɯʑo-sɯso
-\wav8 8_aZosWso
+\wav8 aZosWso
 \ps np
 \ge n'en faire qu'à sa tête
 \gn 随心所欲
@@ -30899,7 +31116,7 @@
 \dt 04/Mar/2017
 
 \lx ɯ-βraʁ
-\wav8 8_WBraR_Nu
+\wav8 WBraR_Nu
 \ps np
 \ge symbole, signe
 \gn 象征；预兆
@@ -30976,7 +31193,7 @@
 \dt 26/Aug/2015
 
 \lx ɯ-ɕpɯz
-\wav8 8_WCpWz
+\wav8 WCpWz
 \ps np
 \ge imitation, dessin 
 \gn 模样；假冒
@@ -31027,7 +31244,7 @@
 \dt 21/Oct/2012
 
 \lx ɯ-dɯχɯn
-\wav8 8_tAnAmnama
+\wav8 tAnAmnama
 \ps np
 \ge bonne odeur 
 \gn 香味 
@@ -31056,16 +31273,27 @@
 \ge raison 
 \gn 理由；规律；条理
 \et gral
+\cf nɯgrɤl
+\se ɯ-grɤl,me 
+\sn 1
+\ge être en désordre, n'importe comment
+\gn 没有条理；随便
 \xv laχtɕha ɯ-grɤl kɯ-me ʑo ɲɤ-ta
 \xn 东西放得没有条理
+\xv si nɯ ɯ-grɤl kɯ-me ma-thɯ́-wɣ-phɯt ra ma tɕe chɯ-ɤrɕo ɕti
+\xn 不能随便砍树，不然（树林）就会被砍光
+\sn 2
+\ge être discourtois
+\gn 没有分寸，没有礼貌
 \xv nɤ-grɤl ɯ-tɯ-me 
 \xn 你无法无天，没有分寸，没有礼貌
-\cf nɯgrɤl
-\dt 18/Aug/2015
+\sn 3
+\ge innombrable 
+\gn 无数 
 
 \lx ɯ-ɣɲaʁ
 \wav WGYaR_YACe
-\wav8 8_mAGrAznA_WGYaR_YACe
+\wav8 mAGrAznA_WGYaR_YACe
 \ps np
 \ge résultat désastreux (que l'on se cause à soi-même)
 \gn 恶果（自己给自己带来的）
@@ -31221,7 +31449,7 @@
 \dt 25/Aug/2015
 
 \lx ɯ-khon
-\wav8 8_fso_GW_Wkhon
+\wav8 fso_GW_Wkhon
 \ps np
 \ge au cas où 
 \gn 以防万一 
@@ -31383,14 +31611,21 @@
 \dt 11/Jan/2015
 
 \lx ɯ-mdoʁ
-\wav8 8_WmdoR
+\wav8 WmdoR
 \ps np
+\sn 1
 \ge couleur 
 \gn 颜色 
 \hbf 702 
 \et mdog
 \xv qromke ɯ-mdoʁ asɯ-ndo
 \xn 带有紫色
+\sn 2
+\ge il semble que
+\gn 看起来 
+\xv jɯɣmɯr mɤʑɯ tɤjpa lɤt ɲɯ-ŋu ɯ-mdoʁ
+\xn 看起来今天晚上可能还会下下雪
+\cf nɯmdoʁ
 \dt 12/Sep/2013
 
 \lx ɯ-mdʑɯɣ
@@ -31403,8 +31638,12 @@
 
 \lx ɯ-mnɯ
 \ps np
-\ge pousse, petite branche, pousse de bambou 
-\gn 树木新发出来的枝条；笋 
+\sn 1
+\ge pousse, petite branche
+\gn 树木新发出来的枝条
+\sn 2
+\ge pousse de bambou 
+\gn 笋 
 \hbf plante2
 \dt 30/May/2013
 
@@ -31455,10 +31694,28 @@
 \gn ……以后 
 \xv ɯ-mphru pjɯ-ʑe-a tɕe pjɯ-ndɯn-a ŋu nɤ
 \xn 我从头开始读
+\et ⁿpʰro (deɦi.ⁿpʰror)
+\se ɯ-mphru,mɟa
+\pdl dir
+\pdv pɯ-
+\pdl dir
+\pdv nɯ-
+\lf Component 1
+\lv ɯ-mphru
+\ps n
+\lf Component 2
+\lv mɟa
+\ps vt
+\sn 1
+\ge continuer
+\gn 继续
 \xv saχsɯ ɯ-qhu tɕe ɯ-mphru nɯ-mɟa-tɕi
 \xn 我们午后再继续
-\et ⁿpʰro (deɦi.ⁿpʰror)
-\dt 04/Aug/2012
+\sn 2
+\ge prendre la relève, remplacer
+\gn 接班
+\xv ci nɯ kɯ ɯʑo ɯ-mphru pjɤ-mɟa
+\xn 那个人接过了他的班
 
 \lx ɯ-mphɯsku
 \ps np
@@ -31501,7 +31758,7 @@
 \dt 27/Aug/2015
 
 \lx ɯ-ndaŋ,lɤt
-\wav8 8_ndaN
+\wav8 ndaN
 \ps np
 \ge penser à
 \gn (为某人)着想
@@ -31630,23 +31887,6 @@
 \cf nɯŋgu
 \dt 11/Oct/2013
 
-\lx ɯ-ŋgumdʑɯɣ
-\wav n-NgumdZWG
-\ps np
-\ge chef 
-\gn 领导 
-\xv aʑo nɯ-ŋgumdʑɯɣ ŋu-a
-\xn 我是你们的领导
-\et ⁿgo.mdʑug
-\cf nɯŋgɯdʑɯɣ
-\se ŋgumdʑɯɣpa
-\ng n
-\ge chef
-\gn 领导人
-\xv ŋgumdʑɯɣpa to-ndo
-\xn 他当了领导
-\dt 07/Jul/2016
-
 \lx ɯ-ŋgɯ
 \ps n
 \ge dedans 
@@ -31657,8 +31897,8 @@
 \dt 31/Jul/2016
 
 \lx ɯ-ŋgɯmɤpɕi
-\ps adv
-\ge à l'intérieur et à l'extérieur
+\ps np
+\ge l'intérieur et l'extérieur
 \gn 里里外外
 \cf ɯ-pɕi
 \dt 11/Dec/2012
@@ -31735,7 +31975,7 @@
 \dt 26/Jan/2015
 
 \lx ɯ-pɕi
-\wav8 8_qale_GAZu
+\wav8 qale_GAZu
 \ps n
 \ge dehors 
 \gn 外面 
@@ -31803,17 +32043,8 @@
 \hbf corps
 \dt 26/Jan/2015
 
-\lx ɯ-qaɕɯqa
-\ps np
-\ge le fond
-\gn 最深处
-\xv rɟɤmtshu ɯ-qaɕɯqa nɯtɕu zɯ
-\xn 在海的最深处
-\nq qɤ
-\dt 09/Oct/2015
-
 \lx ɯ-qhɤchu
-\wav8 8_qhAchu
+\wav8 qhAchu
 \ps adv
 \ge arrière
 \gn 背面，后面
@@ -31847,8 +32078,8 @@
 \cf qharu
 \cf tɕhɯqhu
 \se ɯ-qhu,βzu
-\wav8 8_qhu_Bzu
-\wav8 8_aqhu_tABze
+\wav8 qhu_Bzu
+\wav8 aqhu_tABze
 \pdl dir
 \pdv tɤ-
 \pdl dir
@@ -31945,13 +32176,17 @@
 
 \lx ɯ-rɟɤŋgo
 \ps np
+\sn 1
+\ge douleur irradiante 
+\gn 放射痛
+\sn 2
 \ge complication (maladie)
 \gn 并发症
 
 \lx ɯ-rkarkɯ
 \ps np
 \ng n.rdpl
-\ge bord 
+\ge environs 
 \gn 边缘 
 \sy ɯ-zarzɯr
 \cf ɯ-rkɯ
@@ -32014,7 +32249,7 @@
 \dt 20/May/2013
 
 \lx ɯ-rozre
-\wav8 8_Wrozre
+\wav8 Wrozre
 \ps np
 \ge reste
 \gn 剩余的；余留的残渣
@@ -32177,7 +32412,7 @@
 \dt 20/Aug/2015
 
 \lx ɯ-ʁjoʁ
-\wav8 8_tWNgaWRjoR
+\wav8 tWNgaWRjoR
 \ps np
 \ge partie extérieure des vêtements
 \gn 衣服的外层
@@ -32186,6 +32421,13 @@
 \an naŋɕa
 \cf sɯʁjoʁ
 \dt 20/Dec/2012
+
+\lx ɯ-ʁɟoʁɟe
+\ps np
+\ge vin ou lait dilué dans l'eau 
+\gn 掺了水的酒或者牛奶 
+\cf ʁɟo
+\dt 22/Feb/2018
 
 \lx ɯ-ʁlɤt
 \ps np
@@ -32290,14 +32532,14 @@
 
 \lx ɯ-scawa
 \ps np
-\ge pitoyable 
-\gn 可怜，无奈 
+\ge pauvre de ...
+\gn 倒霉 
 \xv nɤ-scawa ɲɯ-saχaʁ 
-\xn 你很可怜
+\xn 你很倒霉
 \et skʲo.ba
 
 \lx ɯ-sci
-\wav8 8_asci
+\wav8 asci
 \ps np
 \ge à la place de 
 \gn 替 
@@ -32373,7 +32615,7 @@
 
 \lx ɯ-sta
 \wav Wsta_naBzu
-\wav8 8_WstaZotofse
+\wav8 WstaZotofse
 \ps np
 \ge habitude
 \gn 习惯
@@ -32399,16 +32641,6 @@
 \cf ɯ-stu2
 \dt 21/Aug/2014
 
-\lx ɯ-sti
-\wav8 8_aZosti
-\ps np
-\ge seul
-\gn 孤单
-\xv aʑo-sti ma me-a
-\xn 只有我一个人
-\cf mɯsti
-\cf nɯstɤraʁndo
-
 \lx ɯ-stu
 \hm 1
 \ps np
@@ -32421,9 +32653,9 @@
 
 \lx ɯ-stu
 \hm 2
-\wav8 8_nAstutAfse
-\wav8 8_astututia
-\wav8 8_Wstututi
+\wav8 nAstutAfse
+\wav8 astututia
+\wav8 Wstututi
 \ps np
 \ge vrai 
 \gn 真心，准确，实话
@@ -32626,7 +32858,7 @@
 \dt 01/Sep/2012
 
 \lx ɯ-tsa
-\wav8 8_Wtsa_YWBze
+\wav8 Wtsa_YWBze
 \ps np
 \ge qui convient 
 \gn 适合别人的东西 
@@ -32637,7 +32869,7 @@
 \dt 25/Aug/2012
 
 \lx ɯ-tshɤt
-\wav8 8_WtshAt
+\wav8 WtshAt
 \ps np
 \sn 1
 \ge à la place de
@@ -32647,8 +32879,9 @@
 \xv a-tshɤt ɣɯ-tu-βze ɲɯ-ŋu 
 \xn 他来替代我
 \sn 2
-\ge tout juste 
+\ge tout juste, correctement
 \gn 刚好
+\dt 01/Jan/2018
 
 \lx ɯ-tshot
 \wav n-Wtshot2
@@ -32663,9 +32896,9 @@
 \dt 28/Aug/2012
 
 \lx ɯ-tshɯɣa
-\wav8 8_tshWGa
-\wav8 8_tshWGa2
-\wav8 8_ndZitWrWndzAtshi
+\wav8 tshWGa
+\wav8 tshWGa2
+\wav8 ndZitWrWndzAtshi
 \ps np
 \sn 1
 \ge forme 
@@ -32722,7 +32955,7 @@
 \dt 01/Sep/2015
 
 \lx ɯ-tʂɯmpɤri
-\wav8 8_tsxWmpAri
+\wav8 tsxWmpAri
 \ps n
 \ge lanière du tablier
 \gn 围裙的带子
@@ -32788,7 +33021,7 @@
 \dt 17/Sep/2011
 
 \lx ɯ-χpoʁ
-\wav8 8_WXpoR
+\wav8 WXpoR
 \ps np
 \ge chapeau (champignon)
 \gn 菌盖
@@ -32798,7 +33031,7 @@
 \dt 16/May/2013
 
 \lx ɯ-χsɤr
-\wav8 8_WXsAr_kondo
+\wav8 WXsAr_kondo
 \ps np
 \ge calcul
 \gn 数数
@@ -32857,7 +33090,7 @@
 \dt 01/Jul/2016
 
 \lx ɯ-zarzɯr
-\wav8 8_WzarzWr
+\wav8 WzarzWr
 \ps np
 \ng n.rdpl
 \ge environs
@@ -32865,11 +33098,12 @@
 \xv tɯji ɯ-zarzɯr ra sɯjno dɤn 
 \xn 地边杂草多
 \sy ɯ-rkarkɯ
+\cf ɯ-zɯr
 \dt 26/Aug/2014
 
 \lx ɯ-zbroŋ
 \ps np
-\ge dessin sur le bord des pains
+\ge motifs sur le bord des pains
 \gn 馍馍边缘的花纹
 \xv qajɣi ɯ-zbroŋ kɯ-tu nɯ mpɕɤr
 \xn 有花纹的馍馍好看
@@ -32890,7 +33124,7 @@
 \dt 01/Jul/2016
 
 \lx ɯ-zgɯr
-\wav8 8_WzgWr_GAZu
+\wav8 WzgWr_GAZu
 \ps np
 \ge partie recourbée
 \gn 卷起来的部分
@@ -32910,6 +33144,7 @@
 \ps np
 \ge le plus au bord
 \gn 最边缘
+\cf ɯ-zarzɯr
 \dt 01/Jul/2016
 
 \lx ɯ-ʑat
@@ -32951,6 +33186,18 @@
 \xv ɯʑo ʑo
 \xn 他自己
 
+\lx ɯʑo-sti
+\wav8 aZosti
+\ps np
+\ge seul
+\gn 独自一个人
+\xv aʑo-sti ma me-a
+\xn 只有我一个人
+\cf mɯsti
+\cf nɯstɤraʁndo
+\cf stɯsti
+\dt 11/Nov/2017
+
 \lx ɯʑoz
 \ps adv
 \ge à part 
@@ -32966,14 +33213,14 @@
 \ge en même temps que 
 \gn 一边……一边
 
-\lx waji
+\lx wajɯ
 \ps n
 \ge petit de yak 
 \gn 牦牛犊 
 \hbf bovidé
 
 \lx waɟɯ
-\wav8 8_waJW_YAnmu
+\wav8 waJW_YAnmu
 \ps n
 \ge tremblement de terre 
 \gn 地震 
@@ -33052,7 +33299,7 @@
 \et ɦu.lag
 
 \lx wuma 
-\wav8 8_wuma_tANu
+\wav8 wuma_tANu
 \ps adv
 \sn 1
 \ge très
@@ -33227,7 +33474,7 @@
 \xn 黄鼠狼的头像猫，耳朵也像猫，脚上有爪子，身体是淡红色的，尾巴粗而长，身子的粗细长短与尾巴相同。不吃粮食，但是吃比自己小的鸟、老鼠等。有时候还会咬猫，咬伤和抓伤婴儿，是比较坏的动物。
 
 \lx xɕɯβ
-\wav8 8_YAxCWB
+\wav8 YAxCWB
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -33299,7 +33546,7 @@
 \lx xʂɤxʂɤt
 \wav ideo-xsxAt-b
 \wav ideo-xsxAt-b2
-\wav8 8_xsxAxsxAt
+\wav8 xsxAxsxAt
 \ps idph.2
 \ge long et fin, flexible
 \gn 形容苗条、纤细、柔软的样子
@@ -33484,8 +33731,8 @@
 \wav ideo-xWB-b
 \wav ideo-xWB-b2
 \wav ideo-xWB-c
-\wav8 8_xWB
-\wav8 8_GAxWBxWB
+\wav8 xWB
+\wav8 GAxWBxWB
 \ps idph.2
 \sn 1
 \ge rose
@@ -33563,7 +33810,7 @@
 \lx xɯrxɯr
 \wav ideo-xWr-b
 \wav vi-GAxWrxWr
-\wav8 8_xWrinAxWri
+\wav8 xWrinAxWri
 \ps idph.2
 \ge rond 
 \gn 圆形 
@@ -33654,8 +33901,8 @@
 \lx χɤlχɤl
 \ps idph.2
 \sn 1
-\wav8 8_XAlXAl
-\wav8 8_XAlXAl2
+\wav8 XAlXAl
+\wav8 XAlXAl2
 \ge relâché, guéri, rassuré
 \gn 形容捆绑以后解开的宽松感、痊愈、放心的感觉
 \xv khapa fsapaʁ pɯ-rɤʑi-nɯ ɕti tɕe, ɕɯ-nam-a pɯ-ŋu ri, khapa pɯ-azɣɯt-a tɕe, χɤlχɤl ʑo jo-ɕe-nɯ
@@ -33690,7 +33937,7 @@
 
 \lx χɤnχɤn
 \wav ideo-XAn-b
-\wav8 8_XAnXAn
+\wav8 XAnXAn
 \ps idph.2
 \ge large et vide 
 \gn 形容又大又空的样子 
@@ -33744,7 +33991,7 @@
 
 \lx χcrɯχcri
 \a χcɯχcri
-\wav8 8_XcrWXcri
+\wav8 XcrWXcri
 \ps idph.2
 \ge dilué, peu épais 
 \gn 形容流体稀
@@ -33841,9 +34088,9 @@
 \dt 09/Sep/2015
 
 \lx χinɤχi
-\wav8 8_XinAXi
-\wav8 8_XinAXi_Zo_jazGWt
-\wav8 8_def_XinAXi
+\wav8 XinAXi
+\wav8 XinAXi_Zo_jazGWt
+\wav8 def_XinAXi
 \ps idph.3
 \ge éssouflé 
 \gn 形容气喘吁吁的样子
@@ -33863,8 +34110,8 @@
 \dt 11/May/2014
 
 \lx χɲɤχɲɤr
-\wav8 8_XYArXYAr
-\wav8 8_XYArXYAr2
+\wav8 XYArXYAr
+\wav8 XYArXYAr2
 \ps idph.2
 \ge mou et humide
 \gn 形容软而潮湿的样子
@@ -33950,8 +34197,8 @@
 \dt 21/Jul/2016
 
 \lx χploʁploʁ
-\wav8 8_XploRploR
-\wav8 8_XploRploR2
+\wav8 XploRploR
+\wav8 XploRploR2
 \ps idph.2
 \ge en boule
 \gn 形容球形
@@ -33998,12 +34245,6 @@
 \ge moine qui garde la chapelle 
 \gn 守佛堂的和尚 
 \et gsol.ka.ba
-
-\lx χsɤltɕhɯ
-\ps n
-\ge eau (honorifique) 
-\gn 水（敬语） 
-\et gsol.tɕʰu
 
 \lx χsɤltɕhɯ
 \a ʑɤβtɕhɯ
@@ -34137,7 +34378,7 @@
 \lx χʂɤχʂɤt
 \wav ideo-XsxAt2
 \wav id-XsxAXsxAt
-\wav8 8_XsxAXsxAt2
+\wav8 XsxAXsxAt2
 \ps idph.2
 \sn 1
 \ge léger (habit) 
@@ -34162,7 +34403,7 @@
 \dt 18/May/2014
 
 \lx χtɕɤt
-\wav8 8_XtCAt_palAt
+\wav8 XtCAt_palAt
 \ps n
 \ge exorcisme 
 \gn 驱妖的仪式；咒经
@@ -34341,9 +34582,9 @@
 
 \lx zɤjzɤj
 \ps idph.2
-\wav8 8_zɤjzɤj
-\wav8 8_zɤjzɤj2
-\wav8 8_zɤjzɤj-def
+\wav8 zɤjzɤj
+\wav8 zɤjzɤj2
+\wav8 zɤjzɤj-def
 \ge si petit qu'on a peine à le voir
 \gn 形容小而难以看见的样子
 \xv tɕetu zgoku ri tɯrme ci zɤjzɤj ʑo ɲɯ-ndzur
@@ -34439,7 +34680,7 @@
 
 \lx zdɯmkhɤtɕhɯ
 \wav n-zdWmkhAtChW
-\wav8 8_zdWmkhAtChW
+\wav8 zdWmkhAtChW
 \ps n
 \ge humidité de la brume
 \gn 早上起雾时的水分
@@ -34479,9 +34720,9 @@
 \dt 23/Mar/2014
 
 \lx zdɯzdu
-\wav8 8_zdWzdu
-\wav8 8_zdWzdu2
-\wav8 8_zdWzdu_def
+\wav8 zdWzdu
+\wav8 zdWzdu2
+\wav8 zdWzdu_def
 \ps idph.2
 \ge petit, rond et dur
 \gn 形容圆、硬而小的感觉
@@ -34534,6 +34775,7 @@
 \ge montagne 
 \gn 山 
 \hbf 23
+\sy tɤmbɤt
 
 \lx zgoco
 \ps n
@@ -34603,7 +34845,7 @@
 \et sgrog
 
 \lx zgrɯtɕhɯ
-\wav8 8_zgrWtChW
+\wav8 zgrWtChW
 \ps n
 \ge coup de coude
 \gn 一肘（打）
@@ -34665,7 +34907,7 @@
 
 \lx zjaŋzjaŋ
 \wav ideo-zjaN-b
-\wav8 8_zjaNzjaN_Zo_kWpa
+\wav8 zjaNzjaN_Zo_kWpa
 \ps idph.2
 \ge haut
 \gn 身子高（比其他人高）
@@ -34677,24 +34919,24 @@
 \xn 他骑上了马，就往上游去了，显得很高
 \un 双数形式表示马和骑马的人在一起
 \se phɯzjaŋ
-\wav8 8_phWzjaN_Zo_tAndzur
-\wav8 8_phWzjaN_Zo2
+\wav8 phWzjaN_Zo_tAndzur
+\wav8 phWzjaN_Zo2
 \ps idph.5
 \xv phɯzjaŋ ʑo tɤ-ndzur
 \xn 他突然间站起来了，显得比别人高
 \se mɤlɤzjaŋ
-\wav8 8_mAlAzjaN_Zo_thaBzu
+\wav8 mAlAzjaN_Zo_thaBzu
 \ps idph.6
 \xv a-ɣe mɤlɤzjaŋ ʑo thɯ-aβzu (=zjaŋzjaŋ ʑo kɯ-pa thɯ-aβzu)
 \xn 我的孙子战法得很高了
 \se zjaŋɯŋi
-\wav8 8_zjaNWNi
+\wav8 zjaNWNi
 \ps idph.7
 \xv zjaŋɯŋi ʑo jɤ-ari
 \xn 他慢慢地走了（身子很高的人）
 \se zjɯŋɯzjaŋi
-\wav8 8_zjWNWzjaNi
-\wav8 8_zjWNWzjaNi2
+\wav8 zjWNWzjaNi
+\wav8 zjWNWzjaNi2
 \ps idph.8
 \xv zjɯŋɯzjaŋi ɲɯ-xcat
 \xn 很多人在一起，高矮不一
@@ -34950,6 +35192,9 @@
 \gn 公山羊
 \dt 06/Aug/2012
 
+\lx zrɤβzjoz
+\cf rɤβzjoz
+
 \lx zrɤntɕɯ
 \ps n
 \ge haricot 
@@ -35105,7 +35350,7 @@
 \dt 24/Aug/2014
 
 \lx zwaʁnɤzwaʁ
-\wav8 8_zwaRnAzwaR
+\wav8 zwaRnAzwaR
 \ps idph.3
 \ge mou, pas ferme
 \gn 形容物体绵软
@@ -35163,17 +35408,14 @@
 \dt 13/May/2014
 
 \lx ʑaka
-\wav8 8_Zaka
+\wav8 Zaka
 \ps n
 \ge chacun 
 \gn 各自 
-\xv ʑaka tu-nɯsaχsɯ-tɕi ɕti
-\xv ʑaka kɤ-nɯ-βzu mɯ-rtaʁ-tɕi 
-\xn
 
 \lx ʑakastaka
 \ps n
-\ge par soi-même, chacun dans son coin 
+\ge chacun le sien
 \gn 各自各地 
 \xv mɯntoʁ ʑakastaka ɯ-mdoʁ xcat ʑo ɕti
 \xn 花有各种各样的颜色 
@@ -35242,7 +35484,7 @@
 \xn 三个白天
 
 \lx ʑatsa
-\wav8 8_Zatsa
+\wav8 Zatsa
 \ps n
 \ge bientôt 
 \gn 快要 
@@ -35329,7 +35571,7 @@
 \dt 05/Jul/2016
 
 \lx ʑdɯɣʑdɯɣ
-\wav8 8_ZdWGZdWG
+\wav8 ZdWGZdWG
 \ps idph.2
 \ge compact, solide
 \gn 形容物体紧凑或牢固
@@ -35358,7 +35600,7 @@
 \dt 30/Apr/2014
 
 \lx ʑgrɤɣʑgrɤɣ
-\wav8 8_ZgrAGZgrAG
+\wav8 ZgrAGZgrAG
 \ps idph.2
 \ge dur et froid (sensation lorsqu'on s'allonge sur le sol) 
 \gn 形容躺在地上又没有衣服盖的感觉，又冷又硬的感觉。
@@ -35451,7 +35693,7 @@
 \xn 苦苣菜是一年生的植物，茎是空心的，撇断的时候是嫩的，有乳汁。是很好的饲草。花黄色，喇叭形。
 
 \lx ʑmbrɯ
-\wav8 8_ZmbrW_kAlata
+\wav8 ZmbrW_kAlata
 \ps n
 \ge bateau 
 \gn 船 
@@ -35564,7 +35806,7 @@
 \lx ʑɯβʑɯβ
 \a ʑɯpʑɯp 
 \wav ideo-ZWB-b
-\wav8 8_ZWBZWB
+\wav8 ZWBZWB
 \ps idph.2
 \ge beaucoup de chose dressées, beaucoup de gens debout 
 \gn 形容很多人、东西、动物等密密麻麻地站着的样子
@@ -35604,7 +35846,7 @@
 \dt 20/Aug/2015
 
 \lx ʑɯnmar
-\wav8 8_ZWnmar_def
+\wav8 ZWnmar_def
 \ps n
 \ge beurre clarifié
 \gn 融酥（净化黄油）
@@ -35658,7 +35900,7 @@
 \xn 你不要指手画脚，规矩一点
 \dt 01/Jul/2016
 
-\lx aβdɤβde
+\lx _aβdɤβde
 \ps vi
 \pdl dir
 \pdv thɯ-
@@ -35683,7 +35925,7 @@
 \xn 你要按规定的时间和数量吃药，不然就没有效果。
 \dt 06/Sep/2015
 
-\lx aβdoʁβdi
+\lx _aβdoʁβdi
 \wav vi-aBdoRBdi
 \ps vs
 \ge aller bien
@@ -35694,34 +35936,34 @@
 \cf ɣɤβdi
 \dt 19/Jul/2016
 
-\lx aβdoʁdi
+\lx _aβdoʁdi
 \cf ɣɤβdi
 \dt 15/Dec/2012
 
-\lx aboʁboʁ
+\lx _aboʁboʁ
 \ps vs
 \pdl dir
 \pdv kɤ-
 \ge se blottir ensemble
 \gn 集中在一起；缩成一团
-\xv khɤzɤpɯ ra nɯ-mu ɯ-ɕki ko-k-ɤboʁboʁ-nɯ-ci ma ɲɯ-nɤndʐo-nɯ
+\xv khɯzɤpɯ ra nɯ-mu ɯ-ɕki ko-k-ɤboʁboʁ-nɯ-ci ma ɲɯ-nɤndʐo-nɯ
 \xn 因为冷，狗崽子们集拢在妈妈身边
 \cf nɤboʁboʁ
 \cf boʁ
 \dt 04/Jul/2016
 
-\lx aβraʁ
+\lx _aβraʁ
 \cf βraʁ
 \dt 25/Aug/2012
 
-\lx abrɤlbrɤl
+\lx _abrɤlbrɤl
 \a abrabrɤl
 \wav vi-abrAlbrAl
 \ps vs
 \ge espacé, clairsemé
 \gn 稀疏不密（树）
 \se sɤbrabrɤl
-\wav8 8_sAbrAbrAl
+\wav8 sAbrAbrAl
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -35733,7 +35975,7 @@
 \xn 放东西的时候，要放开一点，不然就会粘在一起
 \dt 22/Aug/2015
 
-\lx aβrdaβrdoŋ
+\lx _aβrdaβrdoŋ
 \wav vi-aBrdaBrdoN
 \ps vs
 \pdl dir
@@ -35745,15 +35987,15 @@
 \sy jpumqa
 \dt 07/Jul/2016
 
-\lx aβʁum
+\lx _aβʁum
 \cf βʁum
 \dt 09/Sep/2010
 
-\lx aβzdoʁβzdɯ
+\lx _aβzdoʁβzdɯ
 \cf βzdɯ
 \dt 30/Sep/2010
 
-\lx aβzu
+\lx _aβzu
 \ps vi
 \ng pass
 \sn 1
@@ -35779,14 +36021,14 @@
 \cf βzu1
 \dt 22/Aug/2015
 
-\lx aβzɯrχsɯm
+\lx _aβzɯrχsɯm
 \ps vs
 \ge triangulaire
 \gn 三角形
 \et bzur.gsum
 \dt 26/Jan/2015
 
-\lx aβʑɯrdu
+\lx _aβʑɯrdu
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -35800,7 +36042,7 @@
 \xn 这块石头是方形的
 \dt 12/Feb/2014
 
-\lx acɤrlu
+\lx _acɤrlu
 \wav vi-acArlu
 \ps vi
 \pdl dir 
@@ -35822,7 +36064,7 @@
 \sy atʂoʁloʁ
 \dt 19/Apr/2013
 
-\lx achala
+\lx _achala
 \wav vi-achala
 \ps vi
 \ge capable 
@@ -35838,11 +36080,11 @@
 \xn 我很能干，我会做
 \dt 18/Jul/2016
 
-\lx achale
+\lx _achale
 \cf achala
 \dt 06/Jun/2011
 
-\lx achɤt
+\lx _achɤt
 \wav vi-achAt
 \ps vs
 \pdl dir 
@@ -35856,7 +36098,7 @@
 \xn 我们之间相隔一天的路
 \dt 12/Feb/2014
 
-\lx achɯcha
+\lx _achɯcha
 \ps vs
 \pdl dir
 \pdv tɤ-
@@ -35866,7 +36108,7 @@
 \xn 他变得有才能了
 \dt 22/Aug/2015
 
-\lx achɯrʁu
+\lx _achɯrʁu
 \wav vi-achWrRu
 \ps vs
 \pdl dir 
@@ -35887,7 +36129,7 @@
 \xn 他皱了眉毛（脸）
 \dt 19/Apr/2013
 
-\lx aci
+\lx _aci
 \wav vi-aci
 \ps vi
 \pdl dir 
@@ -35913,7 +36155,7 @@
 \xn 浴帽
 \dt 12/Feb/2014
 
-\lx acilaj
+\lx _acilaj
 \wav vi-acilej
 \ps vi
 \pdl dir 
@@ -35930,17 +36172,17 @@
 \xn 我的手很湿
 \dt 04/May/2014
 
-\lx acu
+\lx _acu
 \cf cu
 \dt 06/Jul/2016
 
-\lx acɯfkri
+\lx _acɯfkri
 \ps vs
 \ge être sale, humide et en désordre
 \gn 又脏又湿又乱
 \dt 16/May/2014
 
-\lx aɕɤl
+\lx _aɕɤl
 \wav vi-aCAl
 \ps vi
 \pdl dir 
@@ -35956,7 +36198,7 @@
 \en 眼珠变白，看不见。
 \dt 23/Dec/2014
 
-\lx aɕɤrɣi
+\lx _aɕɤrɣi
 \wav vi-aCArGi
 \ps vs
 \ge être rapide
@@ -35975,7 +36217,7 @@
 \xn 他说话说得快
 \dt 18/Aug/2015
 
-\lx aɕɣa
+\lx _aɕɣa
 \wav vi-aCGa
 \ps vi
 \ge être du même âge 
@@ -35989,13 +36231,14 @@
 \cf tɯ-ɕɣa
 \dt 06/Jun/2011
 
-\lx aɕi
+\lx _aɕi
 \hm 2
 \ps vs
+\un 古语
 \ge être mélangé dans
 \gn 掺在一起；和在一起
-\xv ki smɤn ki ɯ-ŋgɯ pɤjmu aɕi tɕe aɣɯsmɤn
-\xn 贝母是这种药的其中一个成分，这样药才有效
+\xv ma-pɯ-tɯ-nɯci ma nɤ-pa ɯ-se aɕi
+\xn 你别喝（湖里的水），里面掺着你父亲的血
 \sy acu
 \se sɤɕi
 \ps vt
@@ -36007,7 +36250,7 @@
 \sy cu
 \dt 06/Jul/2016
 
-\lx aɕkala
+\lx _aɕkala
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -36022,7 +36265,7 @@
 \cf ɕkala
 \dt 01/Sep/2014
 
-\lx aɕoʁri
+\lx _aɕoʁri
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -36030,9 +36273,9 @@
 \gn 来回走动穿梭
 \dt 01/Sep/2012
 
-\lx aɕoχɕi
-\wav8 8_kACoXCi
-\wav8 8_YAsWsACoXCi
+\lx _aɕoχɕi
+\wav8 kACoXCi
+\wav8 YAsWsACoXCi
 \ps vi
 \ge inspirer et expirer
 \gn 吸气和呼气
@@ -36048,7 +36291,7 @@
 \xn 他在呼吸
 \dt 16/Oct/2014
 
-\lx aɕpala
+\lx _aɕpala
 \wav vi-aCpala
 \wav ideo-rRoR-b2
 \ps vi
@@ -36061,7 +36304,7 @@
 \sy aphala
 \dt 12/Feb/2014
 
-\lx aɕprɯm
+\lx _aɕprɯm
 \wav vi-aCprWm
 \ps vi
 \pdl dir 
@@ -36097,11 +36340,11 @@
 \xn 他把衣服将就缝了一下
 \dt 13/Feb/2014
 
-\lx aɕprɯmtsɯ
+\lx _aɕprɯmtsɯ
 \cf aɕprɯm
 \dt 08/Jun/2011
 
-\lx aɕpɯɕpa
+\lx _aɕpɯɕpa
 \wav vi-aCpWCpa
 \wav vi-aCpWCpa2
 \ps vs
@@ -36128,10 +36371,10 @@
 \xn 我把它弄扁了
 \dt 12/Feb/2014
 
-\lx aɕqhe
+\lx _aɕqhe
 \wav vi-aCqhe
-\wav8 8_aCqhe
-\wav8 8_amAtusACqhWCqhe
+\wav8 aCqhe
+\wav8 amAtusACqhWCqhe
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -36153,7 +36396,7 @@
 \cf tɤ-ɕqhe
 \se sɤɕqhe
 \wav vt-sACqhe
-\wav8 8_sACqhe
+\wav8 sACqhe
 \ps vt
 \ng caus
 \ge faire tousser
@@ -36164,7 +36407,7 @@
 \xn 我一闻到烟味就会咳嗽
 \dt 12/Feb/2014
 
-\lx aɕqhlu
+\lx _aɕqhlu
 \ps vs
 \ge concave
 \gn 凹
@@ -36177,7 +36420,7 @@
 \sy arɴɢlɯm
 \dt 18/Jul/2016
 
-\lx aɕquwa
+\lx _aɕquwa
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -36189,11 +36432,11 @@
 \cf ɕquwa
 \dt 08/May/2014
 
-\lx aɕtɯɕte
+\lx _aɕtɯɕte
 \cf ɕte
 \dt 19/Apr/2013
 
-\lx adaʁlu
+\lx _adaʁlu
 \ps vs
 \pdl dir 
 \pdv thɯ-
@@ -36202,7 +36445,7 @@
 \xv chɤ-k-ɤdaʁlu-ci
 \dt 12/Feb/2014
 
-\lx adrɤt
+\lx _adrɤt
 \ps vs
 \pdl dir
 \pdv pɯ-
@@ -36224,7 +36467,7 @@
 \cf nɤqadrɤt
 \dt 29/Aug/2015
 
-\lx adʑɯgli
+\lx _adʑɯgli
 \wav vi-adZWgli
 \ps vi
 \pdl dir
@@ -36236,7 +36479,7 @@
 \cf glinɤgli
 \dt 01/Jul/2016
 
-\lx afɕɤra
+\lx _afɕɤra
 \ps vs
 \pdl dir
 \pdv nɯ-
@@ -36249,11 +36492,11 @@
 \cf sɤfɕɤra
 \dt 18/Aug/2015
 
-\lx afɕɤt
+\lx _afɕɤt
 \cf fɕɤt1
 \dt 26/Apr/2014
 
-\lx afɕu
+\lx _afɕu
 \wav vi-afCu
 \wav vi-afCu2
 \ps vi
@@ -36317,9 +36560,9 @@
 \xn 你累了，休息一下
 \dt 30/Aug/2015
 
-\lx afkrɤχsɤl
+\lx _afkrɤχsɤl
 \wav vi-afkraXsAl
-\wav8 8_afraXsAl
+\wav8 afraXsAl
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -36333,7 +36576,7 @@
 \xn 变清晰了
 \dt 12/Feb/2014
 
-\lx afsoʁŋgi
+\lx _afsoʁŋgi
 \wav vi-afsoRNgi
 \ps vs
 \pdl dir 
@@ -36348,7 +36591,7 @@
 \xn 颜色很浅
 \dt 13/Feb/2014
 
-\lx afsuja
+\lx _afsuja
 \ps vs
 \ge être de même taille
 \gn 一样大；一样长；平等
@@ -36357,7 +36600,7 @@
 \cf sɤfsuja
 \dt 27/Apr/2014
 
-\lx afsujɯja
+\lx _afsujɯja
 \ps vi
 \ge être de même longueur
 \gn 长短一致
@@ -36365,7 +36608,7 @@
 \cf afsɯfsu
 \dt 13/Nov/2013
 
-\lx afsɯfsu
+\lx _afsɯfsu
 \wav vi-afsWfsu
 \ps vs
 \ge être égal
@@ -36376,14 +36619,14 @@
 \cf afsujɯja
 \dt 13/Nov/2013
 
-\lx aftɕaka
+\lx _aftɕaka
 \ps vs
 \ge avoir les ornements et vêtements au complet
 \gn 服饰齐全
 \cf ftɕaka
 \dt 11/Jul/2016
 
-\lx aɣɤmphɯmphri
+\lx _aɣɤmphɯmphri
 \a amphɯmphri
 \wav vi-aGAmphWmphri
 \ps vi
@@ -36401,22 +36644,22 @@
 \ev ci ɯ-qhu ci ʑo kɯ-tu nɯ kɤ-ti ŋu
 \dt 19/Aug/2012
 
-\lx aɣɤŋɯŋoʁ
+\lx _aɣɤŋɯŋoʁ
 \cf ɣɤŋoʁ
 \dt 15/Jul/2014
 
-\lx aɣɤrlɯrlaʁ
+\lx _aɣɤrlɯrlaʁ
 \cf ɣɤrlaʁ
 \dt 21/Aug/2011
 
-\lx aɣɤtɯɣ
+\lx _aɣɤtɯɣ
 \cf ɣɤtɯɣ
 \dt 06/Sep/2015
 
-\lx aɣɤzdɯzda
+\lx _aɣɤzdɯzda
 \cf ɣɤzda
 
-\lx aɣndɯɣnda
+\lx _aɣndɯɣnda
 \wav vi-aGndWGnda
 \ps vs
 \ge devenu ferme après avoir été piétinée (terre)
@@ -36425,14 +36668,14 @@
 \xn 他们虽然种了地，但是因为踩在上面把地踩紧了
 \dt 20/Jul/2016
 
-\lx aɣrɤɣrum
+\lx _aɣrɤɣrum
 \ps vs
 \ge être blanchâtre
 \gn 微白的
 \cf wɣrum
 \dt 30/Mar/2015
 
-\lx aɣro
+\lx _aɣro
 \wav vi-aGro
 \ps vi
 \pdl dir 
@@ -36475,14 +36718,14 @@
 \gn 逗弄
 \dt 06/Oct/2013
 
-\lx aɣɯβlu
+\lx _aɣɯβlu
 \ps vs
 \ge rusé
 \gn 足智多谋，狡猾
 \cf ɯ-βlu
 \dt 04/Mar/2017
 
-\lx aɣɯci
+\lx _aɣɯci
 \ps vs
 \ng denom
 \ge qui a du jus
@@ -36490,12 +36733,12 @@
 \cf tɯ-ci
 \dt 08/Jan/2014
 
-\lx aɣɯɕa
+\lx _aɣɯɕa
 \ps vs
 \pdl dir 
 \pdv thɯ-
 \ng denom
-\ge qui a beaucoup de chair
+\ge qui a beaucoup de chair, charnu
 \gn 肉多
 \xv ki paʁ ki ɲɯ-ɤɣɯɕa
 \xn 这只猪肉很多
@@ -36503,7 +36746,7 @@
 \xn 你长得很胖啊
 \dt 07/Aug/2012
 
-\lx aɣɯɕɤrɯ
+\lx _aɣɯɕɤrɯ
 \ps vs
 \ng denom
 \ge qui a la peau sur les os
@@ -36512,11 +36755,11 @@
 \cf ɕɤrɯ
 \dt 07/Aug/2012
 
-\lx aɣɯɕkat
+\lx _aɣɯɕkat
 \cf ɣɯɕkat
 \dt 31/Aug/2015
 
-\lx aɣɯɕnɯɕna
+\lx _aɣɯɕnɯɕna
 \ps vs
 \ng denom
 \ge qui a le sens de l'odorat
@@ -36526,7 +36769,7 @@
 \cf tɯ-ɕna
 \dt 07/Aug/2012
 
-\lx aɣɯɕnɯɕnaβ
+\lx _aɣɯɕnɯɕnaβ
 \ps vs
 \ng denom
 \ge être visqueux
@@ -36534,7 +36777,7 @@
 \cf tɯ-ɕnaβ
 \dt 27/Oct/2013
 
-\lx aɣɯdɯχɯn
+\lx _aɣɯdɯχɯn
 \wav vi-aGWdWXWn
 \ps vi
 \ng denom
@@ -36552,7 +36795,7 @@
 \cf ɯ-dɯχɯn
 \dt 18/Apr/2013
 
-\lx aɣɯɣli
+\lx _aɣɯɣli
 \ps vs
 \ng denom
 \ge qui produit beaucoup de purin
@@ -36560,7 +36803,7 @@
 \cf tɯ-ɣli
 \dt 26/Apr/2014
 
-\lx aɣɯɣu
+\lx _aɣɯɣu
 \wav vi-aGWGu
 \ps vi
 \pdl dir 
@@ -36585,7 +36828,7 @@
 \xn 他准备去呷脚
 \dt 10/Dec/2014
 
-\lx aɣɯjaʁ
+\lx _aɣɯjaʁ
 \a aɣɯjɯjaʁ
 \hm 2
 \ps vs
@@ -36609,7 +36852,7 @@
 \cf tɯ-jaʁ
 \dt 07/Aug/2012
 
-\lx aɣɯjɯjaʁ
+\lx _aɣɯjɯjaʁ
 \hm 1
 \wav vi-aGWjWjaR
 \ps vi
@@ -36624,7 +36867,7 @@
 \cf tɯ-jaʁ
 \dt 18/Apr/2013
 
-\lx aɣɯjwaʁ
+\lx _aɣɯjwaʁ
 \wav vi-aGWjwaR
 \ps vi
 \ng denom
@@ -36641,7 +36884,7 @@
 \xn 莴笋跟以前不一样，现在长出很多叶子
 \dt 19/Apr/2013
 
-\lx aɣɯli
+\lx _aɣɯli
 \ps vs
 \pdl dir
 \pdv tɤ-
@@ -36653,7 +36896,7 @@
 \xn 你很有耐性，这样很好
 \dt 12/Jul/2016
 
-\lx aɣɯlu
+\lx _aɣɯlu
 \ps vi
 \ng denom
 \ge qui a beaucoup de lait
@@ -36663,7 +36906,7 @@
 \cf tɤ-lu
 \dt 07/Aug/2012
 
-\lx aɣɯlɯtshɤt
+\lx _aɣɯlɯtshɤt
 \ps vs
 \ge à peu près du même âge
 \gn 跟自己年龄差不多的
@@ -36672,7 +36915,7 @@
 \cf ɯ-lɯtshɤt
 \dt 09/Oct/2015
 
-\lx aɣɯmar
+\lx _aɣɯmar
 \ps vi
 \ng denom
 \ge qui peut produire beaucoup de beurre
@@ -36682,7 +36925,7 @@
 \cf ta-mar
 \dt 07/Aug/2012
 
-\lx aɣɯmat
+\lx _aɣɯmat
 \wav vi-aGWmat
 \ps vi
 \ng denom
@@ -36699,7 +36942,7 @@
 \xn 今年我们家的花椒结的果子比以前多
 \dt 03/Mar/2014
 
-\lx aɣɯmdoʁ
+\lx _aɣɯmdoʁ
 \wav vi-aGWmdoR
 \ps vi
 \ng denom
@@ -36714,7 +36957,7 @@
 \cf ɯ-mdoʁ
 \dt 30/Aug/2015
 
-\lx aɣɯmɲaʁ
+\lx _aɣɯmɲaʁ
 \ps vs
 \ng denom
 \sn 1
@@ -36728,7 +36971,7 @@
 \cf tɯ-mɲaʁ
 \dt 07/Aug/2012
 
-\lx aɣɯmphɯmphru
+\lx _aɣɯmphɯmphru
 \wav vi-aGWmphWmphru
 \ps vi
 \pdl dir 
@@ -36748,7 +36991,7 @@
 \cf ɯ-mphru
 \dt 17/Jan/2015
 
-\lx aɣɯmtɕhi
+\lx _aɣɯmtɕhi
 \ps vs
 \ng denom
 \ge bavard
@@ -36758,7 +37001,7 @@
 \cf tɯ-mtɕhi
 \dt 07/Aug/2012
 
-\lx aɣɯmɯmi
+\lx _aɣɯmɯmi
 \ps vs
 \ng denom
 \ge qui a beaucoup de pattes
@@ -36767,7 +37010,7 @@
 \cf tɯ-mi
 \dt 18/Aug/2012
 
-\lx aɣɯndzɣi
+\lx _aɣɯndzɣi
 \ps vs
 \ng denom
 \ge qui a des crocs
@@ -36777,7 +37020,7 @@
 \cf tɯ-ndzɣi
 \dt 07/Aug/2012
 
-\lx aɣɯndzrɯ
+\lx _aɣɯndzrɯ
 \ps vs
 \ng denom
 \ge qui a des griffes
@@ -36787,10 +37030,10 @@
 \cf tɯ-ndzrɯ
 \dt 07/Aug/2012
 
-\lx aɣɯndʑɯɣ
+\lx _aɣɯndʑɯɣ
 \wav vi-aGWndZWG
-\wav8 8_def-YAGWndZWG
-\wav8 8_YAGWndZWG
+\wav8 def-YAGWndZWG
+\wav8 YAGWndZWG
 \ps vs
 \ng denom
 \pdl dir 
@@ -36812,13 +37055,13 @@
 \cf tɤ-ndʑɯɣ
 \dt 07/Oct/2011
 
-\lx aɣɯntɤβ
+\lx _aɣɯntɤβ
 \ps vs
 \ge qui a des bulles, moussant
 \gn 泡沫多的
 \cf tɤntɤβ
 
-\lx aɣɯɲchaz
+\lx _aɣɯɲchaz
 \wav vi-AGWYchaz
 \ps vi
 \ge identique
@@ -36827,7 +37070,7 @@
 \xn 士兵操练发出整齐，动作一致好像只有一个人一样
 \dt 14/Jul/2016
 
-\lx aɣɯŋgɤr
+\lx _aɣɯŋgɤr
 \ps vs
 \ng denom
 \ge qui a beaucoup de lard
@@ -36836,9 +37079,9 @@
 \xn 这只猪膘很多
 \dt 07/Aug/2012
 
-\lx aɣɯŋgɯŋgɯ
+\lx _aɣɯŋgɯŋgɯ
 \wav vi-aGWNgWNgW
-\wav8 8_aGWNgWNgW
+\wav8 aGWNgWNgW
 \ps vi
 \pdl dir 
 \pdv thɯ-
@@ -36865,7 +37108,7 @@
 \xn 在那里放了一个碗，上面又放了另外一个碗，把两个碗套起来放。
 \dt 19/Jul/2016
 
-\lx aɣɯŋkɯ
+\lx _aɣɯŋkɯ
 \ps vs
 \ng denom
 \ge qui a la couenne épaisse
@@ -36875,7 +37118,7 @@
 \cf tɤ-ŋkɯ
 \dt 07/Aug/2012
 
-\lx aɣɯpɤrtsaβ
+\lx _aɣɯpɤrtsaβ
 \wav vi-aGWpArtsAB
 \ps vi
 \pdl dir 
@@ -36889,7 +37132,7 @@
 \xn 他工作比以前勤快很多
 \dt 18/Jul/2016
 
-\lx aɣɯpharɤβ
+\lx _aɣɯpharɤβ
 \wav vi-aGWpharAB
 \ps vi
 \pdl dir 
@@ -36902,7 +37145,7 @@
 \xn 他对吃的东西舍得花钱
 \dt 28/Nov/2010
 
-\lx aɣɯpɯpɯ
+\lx _aɣɯpɯpɯ
 \ps vs
 \ng denom
 \ge qui a beaucoup de petits
@@ -36910,7 +37153,7 @@
 \cf tɤ-pɯ
 \dt 07/Aug/2012
 
-\lx aɣɯqe
+\lx _aɣɯqe
 \ps vs
 \ng denom
 \ge qui produit beaucoup d'excréments
@@ -36920,7 +37163,7 @@
 \cf tɯ-qe
 \dt 07/Aug/2012
 
-\lx aɣɯrɟit
+\lx _aɣɯrɟit
 \ps vs
 \ng denom
 \ge qui a beaucoup d'enfants
@@ -36928,7 +37171,7 @@
 \cf tɤ-rɟit
 \dt 07/Aug/2012
 
-\lx aɣɯrkɯrkɯ
+\lx _aɣɯrkɯrkɯ
 \wav vi-AGWrkWrkW
 \ps vi
 \pdl dir 
@@ -36952,7 +37195,7 @@
 \sy rɤlkɯɣ
 \dt 19/Jul/2016
 
-\lx aɣɯrmbi
+\lx _aɣɯrmbi
 \ps vs
 \ng denom
 \ge qui urine souvent
@@ -36962,7 +37205,7 @@
 \cf tɯ-rmbi
 \dt 07/Aug/2012
 
-\lx aɣɯrme
+\lx _aɣɯrme
 \wav vi-aGWrme
 \ps vs
 \ng denom
@@ -36977,7 +37220,7 @@
 \cf tɤ-rme
 \dt 19/Nov/2011
 
-\lx aɣɯrna
+\lx _aɣɯrna
 \ps vs
 \ng denom
 \ge qui a des oreilles
@@ -36987,7 +37230,7 @@
 \cf tɯ-rna
 \dt 07/Aug/2012
 
-\lx aɣɯrnɯɕɯr
+\lx _aɣɯrnɯɕɯr
 \wav vi-aGWrnWCWr
 \ps vi
 \pdl dir 
@@ -37001,7 +37244,7 @@
 \cf ɣɯrni
 \dt 28/Nov/2010
 
-\lx aɣɯrŋa
+\lx _aɣɯrŋa
 \ps vs
 \ng denom
 \ge se ressembler
@@ -37012,7 +37255,7 @@
 \cf tɯ-rŋa
 \dt 01/May/2014
 
-\lx aɣɯrŋɯl
+\lx _aɣɯrŋɯl
 \ps vs
 \ng denom
 \ge qui a beaucoup d'argent
@@ -37020,7 +37263,7 @@
 \cf rŋɯl
 \dt 22/Aug/2015
 
-\lx aɣɯrpaʁ
+\lx _aɣɯrpaʁ
 \wav vi-AGWrpaR
 \ps vi
 \ng denom
@@ -37032,7 +37275,7 @@
 \cf tɯ-rpaʁ
 \dt 05/Jan/2011
 
-\lx aɣɯrqhu
+\lx _aɣɯrqhu
 \ps vs
 \ng denom
 \ge qui a une écorce épaisse
@@ -37042,7 +37285,7 @@
 \cf tɤ-rqhu
 \dt 07/Aug/2012
 
-\lx aɣɯrtsi
+\lx _aɣɯrtsi
 \ps vs
 \pdl dir 
 \pdv thɯ-
@@ -37054,7 +37297,7 @@
 \cf tɤ-rtsi
 \dt 07/Aug/2012
 
-\lx aɣɯrtsɯrtsɤɣ
+\lx _aɣɯrtsɯrtsɤɣ
 \wav vi-aGWrtswrtsAG
 \ps vs
 \pdl dir 
@@ -37069,7 +37312,7 @@
 \cf tɯ-rtsɤɣ
 \dt 16/May/2014
 
-\lx aɣɯrtɯrtaʁ
+\lx _aɣɯrtɯrtaʁ
 \wav vi-aGWrtWrtaR
 \wav vi-aGWrtWrtaR2
 \ps vi
@@ -37088,7 +37331,7 @@
 \cf tɤ-rtaʁ
 \dt 18/May/2014
 
-\lx aɣɯrɯru
+\lx _aɣɯrɯru
 \hm 1
 \ps vs
 \ge que l'on peut faire en même temps que quelque chose d'autre
@@ -37103,7 +37346,7 @@
 \xn 可以顺道做的事情，不要专门耽误时间就会更方便
 \dt 20/May/2014
 
-\lx aɣɯrɯru
+\lx _aɣɯrɯru
 \hm 2
 \ps vs
 \ng denom
@@ -37114,7 +37357,7 @@
 \cf ɯ-ru
 \dt 20/May/2014
 
-\lx aɣɯrɯz
+\lx _aɣɯrɯz
 \ps vs
 \ng denom
 \ge hériter (d'un trait)
@@ -37127,7 +37370,7 @@
 \xn 我遗传你，我有双眼皮
 \dt 01/Sep/2014
 
-\lx aɣɯrʑɯrʑɯɣ
+\lx _aɣɯrʑɯrʑɯɣ
 \wav vi-aGWrZWrZWG
 \ps vi
 \pdl dir 
@@ -37145,7 +37388,7 @@
 \cf tɤ-rʑɯɣ
 \dt 30/Mar/2013
 
-\lx aɣɯsmɤɣ
+\lx _aɣɯsmɤɣ
 \ps vs
 \pdl dir 
 \pdv thɯ-
@@ -37157,7 +37400,7 @@
 \cf smɤɣ
 \dt 07/Aug/2012
 
-\lx aɣɯsmɤn
+\lx _aɣɯsmɤn
 \wav vi-aGWsmAn
 \ps vi
 \ng denom
@@ -37170,7 +37413,7 @@
 \cf smɤn
 \dt 19/Mar/2014
 
-\lx aɣɯsɯm
+\lx _aɣɯsɯm
 \wav vi-aGWsWm2
 \ps vi
 \ng denom
@@ -37190,7 +37433,7 @@
 \cf tɯ-sɯm
 \dt 19/Jul/2016
 
-\lx aɣɯʂwaŋ
+\lx _aɣɯʂwaŋ
 \wav vi-aGWsxwaN
 \ps vs
 \pdl dir 
@@ -37203,7 +37446,7 @@
 \xn 话要说得前后一致
 \dt 03/Aug/2012
 
-\lx aɣɯtɕha
+\lx _aɣɯtɕha
 \wav vi-aGWtCha
 \ps vi
 \pdl dir 
@@ -37223,7 +37466,7 @@
 \cf tɯ-tɕha1
 \dt 19/Jul/2016
 
-\lx aɣɯtʂɤm
+\lx _aɣɯtʂɤm
 \ps vs
 \pdl dir 
 \pdv thɯ-
@@ -37234,7 +37477,7 @@
 \xn 这只猪的油很多
 \dt 07/Aug/2012
 
-\lx aɣɯtʂɯn
+\lx _aɣɯtʂɯn
 \wav vi-aGWtsxWn
 \ps vi
 \ng denom
@@ -37250,7 +37493,7 @@
 \cf tɯ-tʂɯn
 \dt 29/Nov/2010
 
-\lx aɣɯtɯɣ
+\lx _aɣɯtɯɣ
 \wav vi-aGWtWG
 \ps vs
 \ng denom
@@ -37270,7 +37513,7 @@
 \xn 前几天农药毒性不够大，这一次他多加了一些，现在就有毒性了
 \dt 20/Jan/2015
 
-\lx aɣɯxɕɤt
+\lx _aɣɯxɕɤt
 \ps vs
 \ng denom
 \ge efficace
@@ -37279,7 +37522,7 @@
 \xn 这种药很有效
 \dt 06/Aug/2012
 
-\lx aɣɯzɤrŋɤn
+\lx _aɣɯzɤrŋɤn
 \wav vi-aGWzArNAn
 \ps vi
 \ge manger tout seul
@@ -37291,7 +37534,7 @@
 \sy rɯndzɤqhɤjɯ
 \dt 19/Jul/2016
 
-\lx aɣɯzda
+\lx _aɣɯzda
 \ps vi
 \pdl dir 
 \pdv kɤ-
@@ -37302,7 +37545,7 @@
 \xn 他们俩互相陪伴了
 \dt 24/Aug/2012
 
-\lx aɣɯzrɯɣ
+\lx _aɣɯzrɯɣ
 \ps vs
 \ng denom
 \ge qui a beaucoup de poux
@@ -37310,7 +37553,7 @@
 \cf zrɯɣ
 \dt 08/Jul/2016
 
-\lx aɣɯʑɤzdaŋ
+\lx _aɣɯʑɤzdaŋ
 \wav vi-aGWZAzdaN
 \ps vi
 \ng denom
@@ -37324,7 +37567,7 @@
 \xn 他以前不妒忌别人，现在就很妒忌
 \dt 28/Dec/2010
 
-\lx aɣɯʑɯʑat
+\lx _aɣɯʑɯʑat
 \ps vs
 \pdl dir
 \pdv tɤ-
@@ -37334,11 +37577,11 @@
 \xn 我的弟弟很调皮
 \dt 02/Jan/2015
 
-\lx aja
+\lx _aja
 \cf ja1
 \dt 20/Nov/2014
 
-\lx ajɤr
+\lx _ajɤr
 \wav vi-ajAr
 \ps vi 
 \pdl dir 
@@ -37368,7 +37611,31 @@
 \xn 他走路的时候是斜着身子的
 \dt 25/Aug/2012
 
-\lx ajŋgɯɣ
+\lx _ajɤzjɯ
+\wav8 atAjAzjW
+\ps vi
+\pdl dir
+\pdv tɤ-
+\ge être rajouté
+\gn 增加一点
+\xv kɯki mɤʑɯ tɤ-ndɤm tɕe a-tɤ-ɤjɤzjɯ
+\xn 多拿一点
+\se sɤjɤzjɯ
+\wav8 tosAjAzjW
+\ps vt
+\pdl dir
+\pdv tɤ-
+\sn 1
+\ge rajouter
+\gn 加一点；填充一点
+\xv to-sɤjɤzjɯ
+\xn 他多加了一点
+\sn 2
+\ge rajouter (des ennuis)
+\gn 添麻烦；火上加油
+\dt 15/May/2017
+
+\lx _ajŋgɯɣ
 \ps vs
 \ge courbé
 \gn 弯着
@@ -37378,7 +37645,7 @@
 \cf ajʁu
 \dt 27/Aug/2015
 
-\lx ajpomxtshɯm
+\lx _ajpomxtshɯm
 \wav vi-ajpomxtshWm
 \ps vs
 \pdl dir 
@@ -37400,7 +37667,7 @@
 \cf jpumxtshɯm
 \dt 19/Jul/2016
 
-\lx ajʁu
+\lx _ajʁu
 \wav vi-ajRu
 \ps vi
 \pdl dir 
@@ -37435,13 +37702,13 @@
 \sy kɤɣ
 \dt 19/Jul/2016
 
-\lx ajtshi
+\lx _ajtshi
 \cf jtshi
 \dt 09/May/2013
 
-\lx ajtɯ
+\lx _ajtɯ
 \wav vi-ajtW
-\wav8 8_ajtW
+\wav8 ajtW
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -37483,7 +37750,7 @@
 \cf ndɯ2
 \dt 15/Sep/2013
 
-\lx ajχoʁ
+\lx _ajχoʁ
 \wav vi-ajXoR
 \ps vi
 \pdl dir 
@@ -37498,11 +37765,11 @@
 \cf ɲchoʁ
 \dt 30/Mar/2015
 
-\lx akɤlɤt
-\wav8 8_akAlAt
-\wav8 8_akAlAt2
-\wav8 8_akAlAt3
-\wav8 8_akAlAt4
+\lx _akɤlɤt
+\wav8 akAlAt
+\wav8 akAlAt2
+\wav8 akAlAt3
+\wav8 akAlAt4
 \ps vi
 \pdl dir 
 \pdv thɯ-
@@ -37520,7 +37787,7 @@
 \xn 你把衣服补一下，不然就会脱成两半
 \se sɤkɤlɤt
 \ps vt
-\wav8 8_sAkAlAt
+\wav8 sAkAlAt
 \pdl dir 
 \pdv nɯ-
 \pdl dir 
@@ -37534,7 +37801,7 @@
 \xv sporɟɤlɯla nɯ-sɤkɤlat-a
 \xn 我把四脚蛇弄脱节了
 
-\lx akɤmtɕoʁ
+\lx _akɤmtɕoʁ
 \wav vi-akAmtCoR
 \wav vi-akAmtCoR2
 \ps vs
@@ -37553,7 +37820,7 @@
 \cf amtɕoʁ
 \dt 06/Sep/2015
 
-\lx akɤtɕɤβ
+\lx _akɤtɕɤβ
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -37569,7 +37836,7 @@
 \cf aqɤtʂha
 \dt 25/Aug/2012
 
-\lx akhar
+\lx _akhar
 \wav vi-akhar
 \ps vi
 \pdl dir 
@@ -37584,7 +37851,7 @@
 \cf nɤkhar
 \dt 18/Jul/2016
 
-\lx akhɤzŋga
+\lx _akhɤzŋga
 \wav vi-akhAzNga
 \ps vi
 \pdl dir 
@@ -37602,7 +37869,7 @@
 \cf nɤkhɤzŋga
 \dt 18/Jan/2011
 
-\lx akhra
+\lx _akhra
 \wav vi-akhra
 \ps vi
 \pdl dir 
@@ -37623,15 +37890,15 @@
 \cf akhrala
 \dt 19/Jul/2016
 
-\lx akhrɤla
+\lx _akhrɤla
 \ps vs
 \ge bariolé
 \gn 花的（颜色）
 \dt 01/Sep/2015
 
-\lx akhrɤlɯla
+\lx _akhrɤlɯla
 \a akhrɤlɯlu
-\wav8 8_YAkhralWla
+\wav8 YAkhralWla
 \ps vs
 \ge bariolé, aux couleurs bigarrées et voyantes
 \gn 花花绿绿
@@ -37640,9 +37907,9 @@
 \cf akhra
 \dt 13/Apr/2014
 
-\lx akhu
+\lx _akhu
 \wav vi-akhu
-\wav8 8_akhu
+\wav8 akhu
 \ps vi
 \pdl dir 
 \pdv jɤ-
@@ -37659,7 +37926,7 @@
 \cf nɤkhɤzŋga
 \dt 16/Jul/2013
 
-\lx akundi
+\lx _akundi
 \ps vi
 \pdl dir 
 \pdv kɤ-
@@ -37677,7 +37944,7 @@
 \xn 我把东西排成一左一右
 \dt 22/Aug/2012
 
-\lx ala
+\lx _ala
 \wav vi-ala
 \ps vi
 \pdl dir 
@@ -37705,7 +37972,7 @@
 \xn 他熬了茶
 \dt 19/Apr/2013
 
-\lx alɤɣɯ
+\lx _alɤɣɯ
 \wav vi-alAgW
 \ps vi
 \pdl dir 
@@ -37719,11 +37986,11 @@
 \cf sɤlɤɣɯ
 \dt 19/Jun/2011
 
-\lx alɤt
+\lx _alɤt
 \cf lɤt1
 \dt 28/Apr/2014
 
-\lx alɟɣi
+\lx _alɟɣi
 \ps vi
 \ge bouger (dent)
 \gn 摇动（牙齿）
@@ -37731,8 +37998,8 @@
 \xn 我的牙齿松动了，很痛
 \dt 10/May/2014
 
-\lx alothi
-\wav8 8_lAlothindZi
+\lx _alothi
+\wav8 lAlothindZi
 \ps vi
 \pdl dir 
 \pdv lɤ-
@@ -37752,7 +38019,7 @@
 \xn 我只好把东西排得一上一下
 \dt 09/May/2013
 
-\lx alpɯm
+\lx _alpɯm
 \ps vs
 \ge en commun
 \gn 共同的
@@ -37767,10 +38034,10 @@
 \xn 把我们的东西都装在一起
 \dt 22/Aug/2015
 
-\lx aluj 
+\lx _aluj 
 \cf luj
 
-\lx alɯlɤt
+\lx _alɯlɤt
 \wav vi-alWlAt
 \wav vi-alWlAt2
 \ps vi
@@ -37791,7 +38058,7 @@
 \cf lɤt1
 \dt 07/Sep/2015
 
-\lx alɯlju
+\lx _alɯlju
 \wav vi-alWlju
 \ps vs
 \pdl dir 
@@ -37802,7 +38069,7 @@
 \xn （这只笔）是圆柱形的
 \dt 01/Apr/2013
 
-\lx alxaj
+\lx _alxaj
 \wav vi-alxAj
 \ps vi
 \pdl dir 
@@ -37815,7 +38082,7 @@
 \xn 他的衣服乱了（他没有发觉）
 \dt 07/Dec/2010
 
-\lx aɬɯt
+\lx _aɬɯt
 \wav vi-alhWt
 \ps vi
 \pdl dir 
@@ -37842,19 +38109,19 @@
 \sy sɤtʂoʁloʁ
 \dt 14/Jun/2011
 
-\lx amar
+\lx _amar
 \cf mar
 
-\lx amɤʁu
+\lx _amɤʁu
 \ps vs
-\ge souffrir de rachitisme, avoir les jambe courbée
+\ge souffrir de rachitisme, avoir les jambes courbées
 \gn 患佝偻病（弯着脚）
 \ng incorp
 \cf tɯ-mi
 \cf jʁu
 \dt 19/Jul/2016
 
-\lx ambɤldʑɤm
+\lx _ambɤldʑɤm
 \ps vs
 \pdl dir
 \pdv nɯ-
@@ -37874,11 +38141,11 @@
 \xn 他们在打架，我劝了他们，解决了他们的矛盾
 \dt 26/Aug/2015
 
-\lx ambi
+\lx _ambi
 \cf mbi
 \dt 12/Oct/2011
 
-\lx amboʁ
+\lx _amboʁ
 \wav vi-amboR
 \ps vi
 \pdl dir 
@@ -37896,7 +38163,7 @@
 \cf stoʁmboʁ
 \dt 18/Jul/2016
 
-\lx ambrɤqɤt
+\lx _ambrɤqɤt
 \wav vi-ambrAqAt
 \wav vi-ambrAqAt2
 \ps vs
@@ -37914,11 +38181,11 @@
 \cf sɤmbrɤqɤt
 \dt 18/Jul/2016
 
-\lx ambɯmbi
+\lx _ambɯmbi
 \cf mbi
 \dt 31/Aug/2012
 
-\lx amdzɯ
+\lx _amdzɯ
 \a amdzɯt
 \wav vi-amdzW
 \ps vi
@@ -37947,7 +38214,7 @@
 \cf nɤmdzɯ
 \dt 06/Sep/2015
 
-\lx amdʑɯβ
+\lx _amdʑɯβ
 \wav vi-amdZWB
 \ps vi
 \pdl dir 
@@ -37967,7 +38234,7 @@
 \gn 夹得很紧；使密封
 \dt 18/Jul/2016
 
-\lx amgri
+\lx _amgri
 \wav vi-amgri
 \ps vi
 \pdl dir 
@@ -37985,7 +38252,7 @@
 \cf arɤmgrɯndɯr
 \dt 06/Dec/2010
 
-\lx amɟɤkho
+\lx _amɟɤkho
 \ps vi
 \pdl dir
 \ng comp
@@ -37998,7 +38265,7 @@
 \cf kho2
 \dt 13/Oct/2016
 
-\lx amkhɤrju
+\lx _amkhɤrju
 \wav vi-amkhWrju
 \ps vs
 \pdl dir 
@@ -38012,8 +38279,8 @@
 \sy akhɤɟor
 \dt 18/Jul/2016
 
-\lx amnoʁ
-\wav8 8_amnoR
+\lx _amnoʁ
+\wav8 amnoR
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -38025,7 +38292,7 @@
 \xn 这个房子容量很大
 \dt 02/Aug/2012
 
-\lx amɲaχtshɯm
+\lx _amɲaχtshɯm
 \ps vs
 \ng incorp
 \pdl dir
@@ -38038,7 +38305,7 @@
 \cf xtshɯm
 \dt 15/Jan/2015
 
-\lx amɲɤm
+\lx _amɲɤm
 \wav vi-amYAm
 \ps vs
 \pdl dir 
@@ -38074,11 +38341,11 @@
 \xn 他磨得均匀
 \dt 18/Jul/2016
 
-\lx amɲɯmɲo
+\lx _amɲɯmɲo
 \cf mɲo2
 \dt 05/Oct/2014
 
-\lx amŋaʁ
+\lx _amŋaʁ
 \wav vi-amNaR
 \ps vi
 \pdl dir 
@@ -38100,7 +38367,7 @@
 \xn 我把羊毛弄松软了
 \dt 16/Jun/2011
 
-\lx amqaj
+\lx _amqaj
 \ps vi
 \ge se disputer 
 \gn 争吵
@@ -38110,7 +38377,7 @@
 \cf tɯ-mqaj
 \dt 18/Aug/2012
 
-\lx amtɕhoʁ
+\lx _amtɕhoʁ
 \ps vi
 \pdl dir 
 \pdv thɯ-
@@ -38123,9 +38390,9 @@
 \cf sɤmtɕhoʁ
 \dt 18/May/2014
 
-\lx amtɕoʁ
+\lx _amtɕoʁ
 \wav vi-amtCoR
-\wav8 8_amtCoR
+\wav8 amtCoR
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -38143,8 +38410,8 @@
 \cf akɤmtɕoʁ
 \dt 15/Oct/2011
 
-\lx amthoʁmthɯt
-\wav8 8_amthoRmthWt
+\lx _amthoʁmthɯt
+\wav8 amthoRmthWt
 \ps vi
 \pdl dir 
 \pdv thɯ-
@@ -38168,7 +38435,7 @@
 \cf mthɯt
 \dt 26/Aug/2012
 
-\lx amthɯn
+\lx _amthɯn
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -38179,11 +38446,11 @@
 \xn 他们在谈恋爱
 \dt 24/Aug/2012
 
-\lx amɯβde
+\lx _amɯβde
 \cf βde
 \dt 26/Aug/2015
 
-\lx amɯβɟɤt
+\lx _amɯβɟɤt
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -38194,8 +38461,8 @@
 \cf βɟɤt
 \dt 24/Aug/2012
 
-\lx amɯfse
-\wav8 8_amWfse
+\lx _amɯfse
+\wav8 amWfse
 \ps vi
 \pdl dir 
 \pdv kɤ-
@@ -38209,9 +38476,9 @@
 \xn 我们俩认识已经四年了
 \dt 02/Aug/2012
 
-\lx amɯmi
+\lx _amɯmi
 \hm 1
-\wav8 8_amWmi
+\wav8 amWmi
 \ps vi 
 \ng recip
 \pdl dir 
@@ -38226,8 +38493,8 @@
 \sy ɲɟɯɣ
 \dt 14/Jul/2016
 
-\lx amɯmto
-\wav8 8_amWmto
+\lx _amɯmto
+\wav8 amWmto
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -38248,8 +38515,8 @@
 \cf mto
 \dt 24/Aug/2012
 
-\lx amɯmtshɤm
-\wav8 8_amWmtshAm
+\lx _amɯmtshɤm
+\wav8 amWmtshAm
 \ps vi
 \ng recip
 \pdl dir 
@@ -38281,8 +38548,8 @@
 \xn 他们互相传递了消息
 \dt 17/Jul/2016
 
-\lx amɯrmbat
-\wav8 8_amWrmbat
+\lx _amɯrmbat
+\wav8 amWrmbat
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -38299,7 +38566,7 @@
 \cf armbat
 \dt 26/Aug/2012
 
-\lx amɯrmbɯ
+\lx _amɯrmbɯ
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -38323,8 +38590,8 @@
 \cf rmbɯ
 \dt 25/Oct/2013
 
-\lx amɯrpu
-\wav8 8_amWrpu
+\lx _amɯrpu
+\wav8 amWrpu
 \ps vi
 \pdl dir 
 \pdv kɤ-
@@ -38349,7 +38616,7 @@
 \cf rpu
 \dt 15/Jan/2015
 
-\lx amɯrqhi
+\lx _amɯrqhi
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -38361,9 +38628,9 @@
 \cf arqhi
 \dt 30/Jan/2015
 
-\lx amɯsthaβ
+\lx _amɯsthaβ
 \wav vi-amWsthaB
-\wav8 8_amWsthaB
+\wav8 amWsthaB
 \ps vi
 \pdl dir 
 \pdv kɤ-
@@ -38389,7 +38656,7 @@
 \xn 他把石头拼凑在一起了
 \dt 20/Aug/2016
 
-\lx amɯsɯz
+\lx _amɯsɯz
 \ps vi
 \pdl dir
 \pdv nɯ-
@@ -38410,7 +38677,7 @@
 \xn 我让他们都知道要去的那个消息
 \dt 17/Jul/2016
 
-\lx amɯti
+\lx _amɯti
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -38422,10 +38689,10 @@
 \xn 我们互相说明了情况
 \dt 24/Aug/2012
 
-\lx amɯtso
+\lx _amɯtso
 \wav vi-amWtso
-\wav8 8_amWtso
-\wav8 8_amWtso2
+\wav8 amWtso
+\wav8 amWtso2
 \ps vi
 \ng refl
 \pdl dir 
@@ -38441,7 +38708,7 @@
 \xn 他们俩以前说不通，现在互相说话就说通了
 \se sɤmɯtso
 \wav vt-sAmWtso
-\wav8 8_sAmWtso
+\wav8 sAmWtso
 \ps vt
 \ng caus
 \pdl dir 
@@ -38459,7 +38726,7 @@
 \xv tɯrme kɯ tɤ-kɤ-tɯt nɯnɯ kɤ-sɤmɯtso
 \xn 要把人家讲过的话说清楚
 \se amɯtsɯtso
-\wav8 8_amWtsWtso
+\wav8 amWtsWtso
 \ps vi
 \sn 1
 \ge se comprendre
@@ -38476,12 +38743,12 @@
 \cf tso
 \dt 15/Jan/2015
 
-\lx amɯtsɯtso
+\lx _amɯtsɯtso
 \cf amɯtso
 \dt 16/Mar/2011
 
-\lx amɯtɯɣ
-\wav8 8_amWtWG
+\lx _amɯtɯɣ
+\wav8 amWtWG
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -38502,8 +38769,8 @@
 \cf atɯɣ
 \dt 15/Jan/2015
 
-\lx amɯxtɕhɯxtɕhɯt
-\wav8 8_amWxtChWxtChWt
+\lx _amɯxtɕhɯxtɕhɯt
+\wav8 amWxtChWxtChWt
 \ps vs
 \ge être serré les uns contre les autres
 \gn 挤挤挨挨，非常拥挤
@@ -38514,8 +38781,8 @@
 \xn 路上汽车多到挤也挤不动
 \dt 16/May/2014
 
-\lx amɯzɣɯt
-\wav8 8_amWzGWt
+\lx _amɯzɣɯt
+\wav8 amWzGWt
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -38529,7 +38796,7 @@
 \xn 这个消息到处传遍了
 \se sɤmɯzɣɯt
 \wav vt-sAmWzGWt
-\wav8 8_sAmWzGWt
+\wav8 sAmWzGWt
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -38552,7 +38819,7 @@
 \cf amɲɤm
 \dt 15/Jul/2016
 
-\lx amɯzwɤr
+\lx _amɯzwɤr
 \ps vi
 \pdl dir
 \pdv nɯ-
@@ -38569,27 +38836,27 @@
 \cf zwɤr1
 \dt 15/Jul/2016
 
-\lx anaχtɯχto
+\lx _anaχtɯχto
 \cf naχto
 
-\lx anɤjɯjo
+\lx _anɤjɯjo
 \cf nɤjo
 \dt 27/Aug/2015
 
-\lx anɤkhɤzŋgɯzŋga
+\lx _anɤkhɤzŋgɯzŋga
 \cf nɤkhɤzŋga
 \dt 21/Aug/2011
 
-\lx anɤmtsɯmtsioʁ
+\lx _anɤmtsɯmtsioʁ
 \cf nɤmtsioʁ
 
-\lx anɤntshɯntshi
+\lx _anɤntshɯntshi
 \cf nɤntshi
 \dt 26/Aug/2015
 
-\lx anɤrkɯrko
+\lx _anɤrkɯrko
 \wav vi-anArkWrko
-\wav8 8_anArkWrko
+\wav8 anArkWrko
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -38604,10 +38871,10 @@
 \cf nɤrko1
 \dt 18/Jul/2016
 
-\lx anɤrpɯrpaʁ
+\lx _anɤrpɯrpaʁ
 \wav vi-anArpWrpaR
-\wav8 8_nArpWrpaR
-\wav8 8_nArpWrpaR2
+\wav8 nArpWrpaR
+\wav8 nArpWrpaR2
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -38623,11 +38890,11 @@
 \cf nɤrpaʁ
 \dt 24/Aug/2012
 
-\lx anɤrɯre
+\lx _anɤrɯre
 \cf nɤre
 \dt 29/Nov/2011
 
-\lx anɤsɯso
+\lx _anɤsɯso
 \wav vi-anAsWso
 \ps vi
 \ng recip
@@ -38643,23 +38910,23 @@
 \cf sɯso
 \dt 18/Jul/2016
 
-\lx anɤtsɯtsɯ
+\lx _anɤtsɯtsɯ
 \ps vs
 \ge être caché
 \gn 隐藏着
 \cf nɤtsɯ
 \dt 15/May/2014
 
-\lx anɤtɯtɯɣ
+\lx _anɤtɯtɯɣ
 \cf atɯɣ
 \dt 18/Aug/2015
 
-\lx anɤʑɤmŋɯmŋɤn
+\lx _anɤʑɤmŋɯmŋɤn
 \cf nɤʑɤmŋɤn
 \dt 10/Dec/2014
 
-\lx anbaʁ
-\wav8 8_anbaR
+\lx _anbaʁ
+\wav8 anbaR
 \ps vi
 \pdl dir 
 \pdv kɤ-
@@ -38701,7 +38968,7 @@
 \gn 躲避
 \dt 04/Mar/2017
 
-\lx andɤko
+\lx _andɤko
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -38717,9 +38984,9 @@
 \sy astɤko
 \dt 24/Aug/2012
 
-\lx andɤr
+\lx _andɤr
 \wav vt-sAndAr
-\wav8 8_sAndAr
+\wav8 sAndAr
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -38732,7 +38999,7 @@
 \cf sɤndɤr1
 \dt 26/Aug/2012
 
-\lx ando
+\lx _ando
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -38744,8 +39011,8 @@
 \cf ndo
 \dt 20/Apr/2013
 
-\lx andu
-\wav8 8_andu
+\lx _andu
+\wav8 andu
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -38758,9 +39025,9 @@
 \cf sɤndu
 \dt 25/Nov/2014
 
-\lx andɯja
+\lx _andɯja
 \wav vi-andWja
-\wav8 8_ndWja
+\wav8 ndWja
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -38782,11 +39049,11 @@
 \xn 我把孩子们聚集在一起了
 \dt 18/Jun/2011
 
-\lx andɯndo
+\lx _andɯndo
 \cf ndo
 \dt 28/Oct/2011
 
-\lx andzoʁjoʁ
+\lx _andzoʁjoʁ
 \ps vi
 \pdl dir 
 \pdv kɤ-
@@ -38802,7 +39069,7 @@
 \gn 连接在一起
 \dt 24/Aug/2012
 
-\lx andzɯndza
+\lx _andzɯndza
 \wav vi-andzWndza
 \ps vi
 \ng recip
@@ -38819,11 +39086,11 @@
 \cf ndza
 \dt 20/Apr/2013
 
-\lx andzɯndzri
+\lx _andzɯndzri
 \cf ndzri
 \dt 22/Nov/2012
 
-\lx andzɯqoʁ
+\lx _andzɯqoʁ
 \wav vi-andzWqoR
 \ps vi
 \pdl dir 
@@ -38837,7 +39104,7 @@
 \xn 你不要总是打嗝，很讨厌
 \dt 21/Aug/2012
 
-\lx andzɯt
+\lx _andzɯt
 \wav vi-andzWt
 \ps vi
 \pdl dir 
@@ -38860,7 +39127,7 @@
 \gn 对（某人）吠 
 \dt 15/Jan/2015
 
-\lx andʑɤmstu
+\lx _andʑɤmstu
 \ps vs
 \ge lisse (tissu)
 \gn 平整（衣服）
@@ -38880,7 +39147,7 @@
 \cf astu
 \dt 21/Dec/2013
 
-\lx andʑɯɣndʑɯɣ
+\lx _andʑɯɣndʑɯɣ
 \wav vi-AndZWGndZWG
 \ps vs
 \ge l'un à côté de l'autre
@@ -38889,7 +39156,7 @@
 \xn 他的牙齿很密，没有洞
 \dt 25/Apr/2014
 
-\lx andʑɯndʑu
+\lx _andʑɯndʑu
 \ps vs
 \pdl dir
 \pdv nɯ-
@@ -38900,7 +39167,7 @@
 \cf ndʑu
 \dt 18/Jul/2016
 
-\lx andʑɯrɣa
+\lx _andʑɯrɣa
 \ps vs
 \pdl dir
 \pdv tɤ-
@@ -38909,7 +39176,7 @@
 \cf tɤ-rɣa
 \dt 13/May/2014
 
-\lx angɯt
+\lx _angɯt
 \ps vs
 \ge commun, que l'on possède ensemble
 \gn 共同的
@@ -38919,7 +39186,7 @@
 \cf nɤngɯt
 \dt 22/Aug/2015
 
-\lx antɤm
+\lx _antɤm
 \wav vi-atAm
 \ps vi
 \pdl dir 
@@ -38936,7 +39203,7 @@
 \cf apjɤntɤm
 \dt 13/Mar/2013
 
-\lx antɕhoʁjɤr
+\lx _antɕhoʁjɤr
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -38951,7 +39218,7 @@
 \ps vt
 \dt 18/Aug/2015
 
-\lx antɕhɯ
+\lx _antɕhɯ
 \wav vi-antChW
 \wav num-kAntChW
 \ps vs
@@ -38973,7 +39240,7 @@
 \xn 我吃了好几碗糌粑
 \dt 26/Jan/2015
 
-\lx anthɣar
+\lx _anthɣar
 \wav vi-anthGar2
 \ps vi
 \sn 1
@@ -39001,10 +39268,10 @@
 \xn 我把袋子丢失了，看不见了
 \dt 18/Jul/2016
 
-\lx antsɤndu
+\lx _antsɤndu
 \wav vi-antsAndu
 \wav vi-antsAndu2
-\wav8 8_YAkAntsAnducW
+\wav8 YAkAntsAnducW
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -39023,7 +39290,7 @@
 \cf sɤndu
 \dt 22/Aug/2015
 
-\lx antɯ
+\lx _antɯ
 \ps vi
 \ge avoir l'ouverture tournée vers le haut
 \gn 放平，口朝上
@@ -39038,14 +39305,14 @@
 \an βʁum
 \dt 07/May/2014
 
-\lx anɯɕqhɯɕqhu
+\lx _anɯɕqhɯɕqhu
 \cf nɯɕqhu
 
-\lx anɯɣbɯɣbɯɣ
+\lx _anɯɣbɯɣbɯɣ
 \cf nɯɣbɯɣ
 \dt 29/Nov/2011
 
-\lx anɯkɯjŋɤŋgɯ
+\lx _anɯkɯjŋɤŋgɯ
 \wav vi-anWkWjNANgW
 \ps vi
 \pdl dir
@@ -39059,7 +39326,7 @@
 \sy nɯkɯjŋu
 \dt 16/Jul/2016
 
-\lx anɯkɯjŋɯjŋu
+\lx _anɯkɯjŋɯjŋu
 \wav vi-AnWkWjNWjNu
 \ps vi
 \pdl dir
@@ -39075,11 +39342,11 @@
 \cf nɯkɯjŋu
 \dt 16/Jul/2016
 
-\lx anɯmbɯmbɣom
+\lx _anɯmbɯmbɣom
 \cf nɯmbɣom
 \dt 18/Jul/2016
 
-\lx anɯmqaj
+\lx _anɯmqaj
 \wav vi-anWmqAj
 \ps vi
 \pdl dir 
@@ -39095,11 +39362,11 @@
 \cf amqaj
 \dt 20/Feb/2011
 
-\lx anɯndzɤqɯqɤr
+\lx _anɯndzɤqɯqɤr
 \cf nɯndzɤqɤr
 \dt 21/Feb/2011
 
-\lx anɯpɕɯpɕoʁ
+\lx _anɯpɕɯpɕoʁ
 \wav vi-anWpCWpCoR
 \ps vi
 \ng denom
@@ -39116,7 +39383,7 @@
 \cf tɯ-pɕoʁ
 \dt 17/Aug/2012
 
-\lx anɯphɤrɯri
+\lx _anɯphɤrɯri
 \wav vi-anWpharWri
 \ps vi
 \ng denom
@@ -39133,9 +39400,9 @@
 \cf phɤri
 \dt 18/Jul/2016
 
-\lx anɯphotɯtɯɣ
+\lx _anɯphotɯtɯɣ
 \wav vi-AnWphotWtWG
-\wav8 8_kAnWphotWtWG
+\wav8 kAnWphotWtWG
 \ps vi
 \ge moyen
 \gn 恰当的；中等的；不多不少
@@ -39145,11 +39412,11 @@
 \xn 话要讲得适当一些，不要太多
 \dt 14/Apr/2011
 
-\lx anɯrgɯrga
+\lx _anɯrgɯrga
 \cf nɯrga
 \dt 26/Aug/2015
 
-\lx anɯrŋɤrɯru
+\lx _anɯrŋɤrɯru
 \ps vi
 \pdl dir
 \pdv kɤ-
@@ -39162,7 +39429,7 @@
 \cf tɯ-rŋa
 \cf ru1
 
-\lx anɯrqhɯrqhu
+\lx _anɯrqhɯrqhu
 \wav vi-anWrqhWrqhu
 \ps vi
 \pdl dir 
@@ -39176,15 +39443,15 @@
 \cf ɯ-qhu
 \dt 05/Mar/2011
 
-\lx anɯrɯɕmɯɕmi
+\lx _anɯrɯɕmɯɕmi
 \cf rɯɕmi
 \dt 13/Oct/2016
 
-\lx anɯrɯtʂɯtʂa
+\lx _anɯrɯtʂɯtʂa
 \cf nɯrɯtʂa
 \dt 12/Mar/2011
 
-\lx anɯʁɤndɯndu
+\lx _anɯʁɤndɯndu
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -39195,7 +39462,7 @@
 \cf taʁɤndu
 \dt 16/Aug/2012
 
-\lx anɯʁɤrɯri
+\lx _anɯʁɤrɯri
 \wav vi-anWRArWri
 \ps vi
 \ng denom
@@ -39214,11 +39481,11 @@
 \cf ɯ-ʁɤri
 \dt 05/Mar/2011
 
-\lx anɯʁgrɯʁgra
+\lx _anɯʁgrɯʁgra
 \cf nɯʁgra
 \dt 28/Dec/2014
 
-\lx anɯstɯstu
+\lx _anɯstɯstu
 \wav vi-anWstWstu
 \ps vi
 \pdl dir 
@@ -39231,7 +39498,7 @@
 \cf astu
 \dt 31/Aug/2012
 
-\lx anɯsɯkhɯkho
+\lx _anɯsɯkhɯkho
 \wav vt-anWsWkhWkho
 \ps vi
 \ng recip
@@ -39247,9 +39514,9 @@
 \cf nɯsɯkho
 \dt 19/Mar/2011
 
-\lx anɯsɯslaʁ
+\lx _anɯsɯslaʁ
 \wav vi-nWsWslaR
-\wav8 8_anWsWslaR
+\wav8 anWsWslaR
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -39267,7 +39534,7 @@
 \xn 因为他很勤快所以早就完工了
 \dt 13/Dec/2011
 
-\lx aɲaj
+\lx _aɲaj
 \wav vi-AYAj
 \ps vi
 \pdl dir 
@@ -39283,7 +39550,7 @@
 \cf sɤɲaj
 \dt 26/Jun/2011
 
-\lx aɲaʁndzɯm
+\lx _aɲaʁndzɯm
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -39293,13 +39560,13 @@
 \xn 我把茶烧开了，把茶叶熬出来了就变成黑褐色
 \dt 24/Aug/2012
 
-\lx aɲɟoʁ
+\lx _aɲɟoʁ
 \cf ɲɟoʁ
 \dt 27/Apr/2014
 
-\lx aŋgɤjom
+\lx _aŋgɤjom
 \wav vi-aNgAjom
-\wav8 8_aNgAjom
+\wav8 aNgAjom
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -39316,7 +39583,7 @@
 \cf jom
 \dt 23/Oct/2011
 
-\lx aŋgɤrŋgɤr
+\lx _aŋgɤrŋgɤr
 \wav vi-aNgArNgAr
 \ps vs
 \pdl dir 
@@ -39334,8 +39601,8 @@
 \an aŋgɤjom
 \dt 20/Apr/2013
 
-\lx aŋgorji
-\wav8 8_Ngorji
+\lx _aŋgorji
+\wav8 Ngorji
 \ps vs
 \ge calme, silencieux
 \gn 安静
@@ -39345,8 +39612,8 @@
 \xn 打工的人休息了，现在很安静
 \dt 26/Aug/2012
 
-\lx apa
-\wav8 8_papa
+\lx _apa
+\wav8 papa
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -39370,11 +39637,17 @@
 \xn 自己有错的时候不好说别人
 \xv nɯ mɯ-pɯ-apa-a ko!
 \xn 很对不起！（我没有对）
+\se tɕhi napapa
+\ps adv
+\ge quoi qu'il arrive
+\gn 不顾一切，不管发生什么
+\xv tɕhi napapa ʑo kɤ-nɤɕqa ɬoʁ
+\xn 不管发生什么都要坚持
 \cf pa
 \cf sɤpa
 \dt 01/Sep/2015
 
-\lx apɤmbat
+\lx _apɤmbat
 \wav vi-apambat
 \ps vi
 \pdl dir 
@@ -39401,7 +39674,7 @@
 \cf pa
 \dt 17/Jan/2015
 
-\lx apɤɴqa
+\lx _apɤɴqa
 \wav vi-apaNqa
 \ps vi
 \pdl dir 
@@ -39416,14 +39689,14 @@
 \cf pa
 \dt 22/Jun/2012
 
-\lx apɤpɣi
+\lx _apɤpɣi
 \ps vs
 \ge gris
 \gn 带有灰色
 \cf pɣi
 \dt 22/Nov/2012
 
-\lx apɕɯβjɤl
+\lx _apɕɯβjɤl
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -39441,7 +39714,7 @@
 \xn 搭梯子的时候，要斜着搭
 \dt 25/Aug/2012
 
-\lx apɣaʁsci
+\lx _apɣaʁsci
 \wav vt-sApGaRsci
 \ps vi
 \pdl dir 
@@ -39470,7 +39743,7 @@
 \xn 你不停地翻身，很烦
 \dt 03/Apr/2011
 
-\lx apɣɤpɣi
+\lx _apɣɤpɣi
 \wav vi-apGApGi
 \ps vi
 \pdl dir 
@@ -39485,7 +39758,7 @@
 \cf pɣi
 \dt 20/Apr/2013
 
-\lx apɣɯlu
+\lx _apɣɯlu
 \wav vi-apGAlu
 \ps vi
 \pdl dir 
@@ -39498,7 +39771,7 @@
 \cf pɣi
 \dt 18/May/2014
 
-\lx aphala
+\lx _aphala
 \wav vi-aphala
 \wav vi-aCpala
 \ps vi
@@ -39509,7 +39782,7 @@
 \sy aɕpala
 \dt 03/Apr/2011
 
-\lx aphɤlɤjɤt
+\lx _aphɤlɤjɤt
 \ps vs
 \pdl dir
 \pdv pɯ-
@@ -39524,9 +39797,9 @@
 \gn 乱放
 \dt 29/Aug/2015
 
-\lx apjɤntɤm
+\lx _apjɤntɤm
 \wav vi-apjAntAm
-\wav8 8_sApjAntAm
+\wav8 sApjAntAm
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -39550,7 +39823,7 @@
 \cf antɤm
 \dt 22/Aug/2011
 
-\lx apupu
+\lx _apupu
 \ps vi
 \pdl dir 
 \pdv thɯ-
@@ -39562,7 +39835,7 @@
 \xn 那个人以前很穷，现在变得很富有了
 \dt 24/Aug/2012
 
-\lx apɯpa
+\lx _apɯpa
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -39578,7 +39851,7 @@
 \sy ɯ-ŋgu,thon
 \dt 24/Aug/2012
 
-\lx apɯpri
+\lx _apɯpri
 \ps vs
 \ge en continu
 \gn 连续不断
@@ -39592,8 +39865,8 @@
 \gn 连续做……
 \dt 01/Sep/2014
 
-\lx aqandʐɯlu
-\wav8 8_qandzxWlu
+\lx _aqandʐɯlu
+\wav8 qandzxWlu
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -39604,7 +39877,7 @@
 \sy apɣɯlu
 \dt 04/Aug/2013
 
-\lx aqarŋɤmbru
+\lx _aqarŋɤmbru
 \wav vi-aqarNAmbru
 \ps vi
 \pdl dir 
@@ -39617,8 +39890,8 @@
 \xn 是淡黄色的
 \dt 06/Apr/2011
 
-\lx aqarŋɯrŋe
-\wav8 8_aqarNWrNe
+\lx _aqarŋɯrŋe
+\wav8 aqarNWrNe
 \ps vs
 \ge jaune clair
 \gn 淡黄
@@ -39628,7 +39901,7 @@
 \an qarŋɯrŋe
 \dt 20/Apr/2013
 
-\lx aqɤrle
+\lx _aqɤrle
 \wav vi-aqarle
 \ps vi
 \pdl dir 
@@ -39640,7 +39913,7 @@
 \cf sɤqɤrle
 \dt 18/May/2014
 
-\lx aqɤtsa
+\lx _aqɤtsa
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -39661,7 +39934,7 @@
 \cf nɤqɤtsa
 \dt 23/Oct/2011
 
-\lx aqɤtʂha
+\lx _aqɤtʂha
 \wav vi-aqAtsxha
 \ps vi
 \pdl dir 
@@ -39692,7 +39965,7 @@
 \xn 我把线交叉在一起
 \dt 26/Jun/2011
 
-\lx aqhe
+\lx _aqhe
 \ps vs
 \pdl dir
 \pdv nɯ-
@@ -39711,7 +39984,7 @@
 \sy ɣɤmna
 \dt 20/May/2014
 
-\lx aqhoβlu
+\lx _aqhoβlu
 \wav vi-aqhoBlu
 \ps vs
 \ge concave
@@ -39720,7 +39993,7 @@
 \cf ʁlɯβʁlɯβ
 \dt 19/Nov/2011
 
-\lx aqhowolu
+\lx _aqhowolu
 \wav vi-aqhoBlu
 \ps vs
 \ge concave
@@ -39732,7 +40005,7 @@
 \sy arɴɢlɯm
 \dt 18/Jul/2016
 
-\lx aqurle
+\lx _aqurle
 \wav vi-aqurle
 \ps vi
 \pdl dir 
@@ -39746,7 +40019,7 @@
 \cf qur
 \dt 10/Dec/2014
 
-\lx araχtɯ
+\lx _araχtɯ
 \ps vs
 \ge endroit bien caché
 \gn 僻静，不容易被别人发现的地方
@@ -39754,7 +40027,7 @@
 \xn 这个地方很僻静，去的人少
 \dt 18/Aug/2012
 
-\lx arɤɕɯɕrɤz
+\lx _arɤɕɯɕrɤz
 \wav vi-arACWCrAz
 \ps vi
 \pdl dir 
@@ -39767,10 +40040,10 @@
 \xn 这个东西有不同颜色的纹路
 \dt 25/Apr/2011
 
-\lx arɤkhɯmkhɤl
+\lx _arɤkhɯmkhɤl
 \a arɤkhɯkhɤl
 \wav vi-arAkhWmkhAl
-\wav8 8_rAkhWmkhAl
+\wav8 rAkhWmkhAl
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -39785,7 +40058,7 @@
 \cf tɯ-khɤl
 \dt 10/May/2014
 
-\lx arɤmboʁɲɟi
+\lx _arɤmboʁɲɟi
 \ps vi
 \pdl dir
 \pdv nɯ-
@@ -39795,15 +40068,15 @@
 \cf mboʁɲɟi
 \dt 27/Aug/2015
 
-\lx arɤmbɯmbri
+\lx _arɤmbɯmbri
 \ps vi
 \ge pas rassemblé en un endroit, dispersé sur un chemin
 \gn 不密集（一些地方多，一些地方少），一路上撒下的
 \cf rɤmbɯmbri
 \dt 02/Jan/2015
 
-\lx arɤmgrɯndɯr
-\wav8 8_arAmgrWndWr-def
+\lx _arɤmgrɯndɯr
+\wav8 arAmgrWndWr-def
 \ps vi.s
 \pdl dir
 \pdv nɯ-
@@ -39813,7 +40086,7 @@
 \cf amgri
 \dt 21/Aug/2015
 
-\lx arɤmgɯmgo
+\lx _arɤmgɯmgo
 \ps vs
 \ge ayant des grumeaux
 \gn 不均匀，一坨一坨的（粥）
@@ -39822,8 +40095,8 @@
 \sy arɤtshi
 \dt 30/Aug/2015
 
-\lx arɤmtɕɯmtɕoʁ
-\wav8 8_ArAmtCWmtCoR
+\lx _arɤmtɕɯmtɕoʁ
+\wav8 ArAmtCWmtCoR
 \ps vs
 \ge nombreux et rassemblés
 \gn 很多；聚集在一起
@@ -39831,7 +40104,7 @@
 \xn 他身上长满了虱子
 \dt 02/Jan/2013
 
-\lx arɤmtʂɯmtʂaj
+\lx _arɤmtʂɯmtʂaj
 \wav vi-arAmtsxWmtsxAj
 \ps vi
 \pdl dir 
@@ -39844,7 +40117,7 @@
 \xn 饭变味了，是黏糊糊的
 \dt 18/Jul/2016
 
-\lx arɤmɯzda
+\lx _arɤmɯzda
 \ps vi
 \pdl dir
 \pdv nɯ-
@@ -39857,16 +40130,16 @@
 \sy asɤmɯmtshɯmtshɤm
 \dt 18/May/2014
 
-\lx arɤntɕhɯntɕhɯr
+\lx _arɤntɕhɯntɕhɯr
 \ps vs
 \ge en mille morceaux
 \gn 有很多碎片
 \cf tɯ-ntɕhɯr
 \dt 02/Jan/2015
 
-\lx arɤɲɟiɲɟi
+\lx _arɤɲɟiɲɟi
 \wav vi-arAYJiYJi
-\wav8 8_araYJiYJi
+\wav8 araYJiYJi
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -39878,7 +40151,7 @@
 \xv a-@chabei pjɤ-ɴɢrɯ tɕe ɲɤ-k-ɤrɤɲɟiɲɟi-ci
 \xn 我的茶杯破了，成了碎片
 \se zrɤɲɟiɲɟi
-\wav8 8_pWzrAYJiYJita
+\wav8 pWzrAYJiYJita
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -39890,8 +40163,8 @@
 \xn 我打碎了玻璃
 \dt 20/Apr/2013
 
-\lx arɤɲɯɣ
-\wav8 8_arAYWG
+\lx _arɤɲɯɣ
+\wav8 arAYWG
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -39903,10 +40176,10 @@
 \xn 我要写的字很多
 \dt 24/Aug/2012
 
-\lx arɤphɤjqa
+\lx _arɤphɤjqa
 \wav vi-arAphWjqa
 \wav vi-arAphAjqa2
-\wav8 8_araphWjqa
+\wav8 araphWjqa
 \ps vi 
 \pdl dir 
 \pdv nɯ-
@@ -39923,7 +40196,7 @@
 \cf tɯ-qa
 \dt 18/Jul/2016
 
-\lx arɤrɤɣ
+\lx _arɤrɤɣ
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -39936,7 +40209,7 @@
 \cf ɯ-rɤɣ
 \dt 23/Aug/2012
 
-\lx arɤrkhɯrkhe
+\lx _arɤrkhɯrkhe
 \wav vi-ArArkhWrkhe
 \ps vs
 \pdl dir 
@@ -39956,21 +40229,21 @@
 \cf rkhe
 \dt 18/Jul/2016
 
-\lx arɤrɴɢioʁ
+\lx _arɤrɴɢioʁ
 \ps vi
 \ge avoir une encoche
 \gn 有一条槽
 \cf tɤ-rɴɢioʁ
 \dt 08/May/2014
 
-\lx arɤrqhɯrqhioʁ
+\lx _arɤrqhɯrqhioʁ
 \ps vi
 \ge qui a des entailles
 \gn 有一条一条的槽口；纹路
 \cf tɤ-rqhioʁ
 \dt 30/Apr/2014
 
-\lx arɤrtsɯrtsɤɣ
+\lx _arɤrtsɯrtsɤɣ
 \ps vs
 \ge composé de sections 
 \gn 一节一节组成的
@@ -39978,7 +40251,7 @@
 \cf tɯ-rtsɤɣ
 \dt 16/May/2014
 
-\lx arɤstoʁsta
+\lx _arɤstoʁsta
 \wav vi-arAstoRsta
 \ps vs
 \sn 1
@@ -39992,16 +40265,16 @@
 \an ɲɟɯrmbloʁ
 \dt 13/Jul/2016
 
-\lx arɤt
+\lx _arɤt
 \cf rɤt
 \dt 04/Aug/2012
 
-\lx arɤtɕha
+\lx _arɤtɕha
 \cf zrɤtɕha
 \dt 23/Nov/2011
 
-\lx arɤtshi
-\wav8 8_aratshi
+\lx _arɤtshi
+\wav8 aratshi
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -40019,7 +40292,7 @@
 \xn 我煮得太烂了（不小心）
 \dt 05/Nov/2012
 
-\lx arɤzdɯzda
+\lx _arɤzdɯzda
 \ps vi
 \pdl dir
 \pdv nɯ-
@@ -40030,7 +40303,7 @@
 \sy arɤmɯzda
 \dt 18/May/2014
 
-\lx arɤʑɯʑrɤz
+\lx _arɤʑɯʑrɤz
 \wav vi-arAZWZrAz
 \ps vi
 \pdl dir 
@@ -40043,7 +40316,7 @@
 \cf tɯ-ʑrɤz
 \dt 12/May/2011
 
-\lx arɕɤt
+\lx _arɕɤt
 \ps vi
 \ge avoir une relation de parenté
 \gn 有血缘关系
@@ -40054,8 +40327,8 @@
 \xn 那个不是你的亲戚
 \dt 18/Aug/2012
 
-\lx arɕo
-\wav8 8_vi-arCo
+\lx _arɕo
+\wav8 vi-arCo
 \ps vi
 \pdl dir 
 \pdv thɯ-
@@ -40084,7 +40357,7 @@
 \sy ɣɤsa
 \dt 15/Jul/2016
 
-\lx arɣi
+\lx _arɣi
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -40104,9 +40377,9 @@
 \sy ajtɯ
 \dt 18/Aug/2012
 
-\lx ari
+\lx _ari
 \wav vi-ari
-\wav8 8_ari
+\wav8 ari
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -40133,7 +40406,7 @@
 \cf sɤri
 \dt 01/Jul/2016
 
-\lx arju
+\lx _arju
 \wav vi-arju
 \ps vi
 \pdl dir 
@@ -40163,14 +40436,14 @@
 \cf masɤrɯrju
 \dt 06/Sep/2014
 
-\lx arɟambrɯɣ
+\lx _arɟambrɯɣ
 \ps vs
 \ge aux yeux entourés de rouge (chien)
 \gn 四眼狗
 \cf rɟambrɯɣ
 \dt 20/Jan/2014
 
-\lx arɟumtɕɤr
+\lx _arɟumtɕɤr
 \wav vi-arJumtCAr
 \wav vi-arJumtCAr2
 \ps vi
@@ -40188,7 +40461,7 @@
 \pdv rɟum
 \dt 23/Oct/2011
 
-\lx arku
+\lx _arku
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -40199,11 +40472,11 @@
 \cf rku
 \dt 24/Aug/2012
 
-\lx arla
+\lx _arla
 \cf rla
 \dt 20/Aug/2015
 
-\lx arlɯrla
+\lx _arlɯrla
 \ps vi
 \pdl dir
 \pdv nɯ-
@@ -40223,8 +40496,8 @@
 \xn 他皱着的眉头舒展了
 \dt 20/Aug/2015
 
-\lx arlɯt
-\wav8 8_arlWt
+\lx _arlɯt
+\wav8 arlWt
 \ps vs
 \ge nombreux
 \gn 多
@@ -40236,7 +40509,7 @@
 \sy xcat
 \dt 26/Aug/2012
 
-\lx armɤjɯβ
+\lx _armɤjɯβ
 \wav vi-armAjWB
 \ps vi
 \ge être le crépuscule 
@@ -40246,9 +40519,9 @@
 \xn 天黑了
 \dt 17/Apr/2011
 
-\lx armbat
+\lx _armbat
 \wav vi-armbat
-\wav8 8_Wjarmbat
+\wav8 Wjarmbat
 \ps vs
 \pdl dir 
 \pdv _
@@ -40287,7 +40560,7 @@
 \cf amɯrmbat
 \dt 08/Sep/2015
 
-\lx armbɯrmbɯ
+\lx _armbɯrmbɯ
 \ps vi
 \pdl dir
 \pdv tɤ-
@@ -40296,7 +40569,7 @@
 \cf rmbɯ
 \dt 10/May/2014
 
-\lx arndɤtsa
+\lx _arndɤtsa
 \ps vs
 \pdl dir
 \pdv nɯ-
@@ -40306,7 +40579,7 @@
 \xn 现在修的房子非常巨大
 \dt 20/Jul/2016
 
-\lx arɲɟɤle
+\lx _arɲɟɤle
 \wav vi-arYJele
 \ps vi
 \pdl dir 
@@ -40315,7 +40588,6 @@
 \gn 伸展 
 \xv cho-k-ɤrɲɟɤle-ci
 \xn 他伸出来了
-\xn 那条蛇是伸着的
 \xv kɯ-ɤrɲɟɤle ci ɲɯ-ŋu kɯ-zri tsa ɲɯ-ŋu ɯ-skɤt ɲɯ-ŋu
 \xn “伸着”表示“长一点”的意思
 \se sɤrɲɟɤle
@@ -40328,7 +40600,7 @@
 \xn 你坐下，把脚伸一下（请人休息）
 \dt 20/Apr/2013
 
-\lx arŋɤrtɯm
+\lx _arŋɤrtɯm
 \ps vs
 \ge qui a le visage rond
 \gn 脸很圆
@@ -40336,7 +40608,7 @@
 \cf artɯm
 \dt 25/Apr/2014
 
-\lx arŋi
+\lx _arŋi
 \wav vi-arNi
 \ps vi
 \pdl dir 
@@ -40357,7 +40629,7 @@
 \xv nɤ-tɯ-ɤrŋi kɯ kupa ʑo ɲɯ-tɯ-fse 
 \xn 你穿那么蓝的衣服，就像汉人一样
 \se sɤrŋi
-\wav8 8_sArNi
+\wav8 sArNi
 \ps vt
 \ng caus
 \ge rendre bleu
@@ -40366,7 +40638,7 @@
 \xn 我（不小心）把衣服弄蓝了
 \dt 20/Apr/2013
 
-\lx arŋɯlɯz
+\lx _arŋɯlɯz
 \a arŋilɯz
 \wav vi-arNWlWz
 \ps vi
@@ -40381,7 +40653,7 @@
 \cf arŋi
 \dt 10/May/2014
 
-\lx arɴɢlɯm
+\lx _arɴɢlɯm
 \wav vi-arNGlWm
 \ps vi
 \pdl dir 
@@ -40402,12 +40674,12 @@
 \xn 大石头从上面滚下来了，让路凹进去了
 \dt 18/Jul/2016
 
-\lx aro
+\lx _aro
 \wav vi-aro
 \wav vi-aro2
-\wav8 8_aro
-\wav8 8_aro-tArJit
-\wav8 8_aro-tArJit2
+\wav8 aro
+\wav8 aro-tArJit
+\wav8 aro-tArJit2
 \ps vi-t
 \pdl dir 
 \pdv tɤ-
@@ -40435,7 +40707,7 @@
 \xn 我有三个孩子
 \dt 19/Oct/2012
 
-\lx arqhi
+\lx _arqhi
 \wav vi-arqhi
 \ps vs
 \pdl dir 
@@ -40466,7 +40738,7 @@
 \gn 离得远一点
 \dt 08/Sep/2015
 
-\lx arqɯrqoʁ
+\lx _arqɯrqoʁ
 \wav vi-arqWrqoR
 \ps vi
 \ng recip
@@ -40480,10 +40752,10 @@
 \cf rqoʁ
 \dt 15/Jan/2013
 
-\lx arʁɯrʁu
+\lx _arʁɯrʁu
 \wav vi-arRWrRu
 \wav vi-arRWrRu2
-\wav8 8_lAsArRWrRuta
+\wav8 lAsArRWrRuta
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -40518,7 +40790,7 @@
 \gn 缩成一团
 \dt 02/Jul/2016
 
-\lx artaʁ
+\lx _artaʁ
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -40530,11 +40802,11 @@
 \cf jmɤrtaʁ
 \dt 20/Apr/2013
 
-\lx artaʁlaʁ
+\lx _artaʁlaʁ
 \cf rtaʁ
 \dt 14/Jul/2016
 
-\lx artɕhoʁ
+\lx _artɕhoʁ
 \ps vs
 \pdl dir 
 \pdv _
@@ -40543,7 +40815,7 @@
 \xv tɯrme ra lo-rɟɯɣ-nɯ tɕe tɕelo lo-k-ɤrtɕhoʁ-nɯ-ci
 \xn 那些人跑上去集中在上面了
 \se sɤrtɕhoʁ
-\wav8 8_def-kAsArtChoR
+\wav8 def-kAsArtChoR
 \ps vt
 \pdl dir 
 \pdv _
@@ -40552,7 +40824,7 @@
 \ev @yiban tɕe ɯ-βzɯr tsa jú-wɣ-sɤzɣɯt ra tɕe, kɤ-sɤrtɕhoʁ tu-kɯ-ti ŋu
 \dt 19/Aug/2015
 
-\lx artɕi
+\lx _artɕi
 \ps vs
 \sn 1
 \pdl dir
@@ -40569,7 +40841,7 @@
 \xv a-ʑɯβ kɤ-artɕi
 \xn 我睡够了
 \se sɤrtɕi
-\wav8 8_YWsArtCia
+\wav8 YWsArtCia
 \ps vt
 \sn 1
 \pdl dir
@@ -40587,7 +40859,7 @@
 \xn 要让他睡够
 \dt 02/Sep/2015
 
-\lx artsɯɣdu
+\lx _artsɯɣdu
 \a _artsɯrdu
 \wav vi-artsWGdu
 \ps vi
@@ -40603,7 +40875,7 @@
 \xv ɯ-ŋgɯ jɤznɤ tu-kɯ-znɤʁɤmɟa tɕe, ɯ-ndo tɕe kɤ-nɤma mɤ-kɤ-ɤrtsɯɣdu phɤn 
 \xn 一开始把时间抓紧的话，到最后就不会那么紧张
 
-\lx artsɯrtso
+\lx _artsɯrtso
 \ps vi
 \pdl dir
 \pdv tɤ-
@@ -40620,7 +40892,7 @@
 \sy rtsɯɣ
 \dt 17/Jul/2016
 
-\lx artɯm
+\lx _artɯm
 \wav vi-artWm2
 \ps vs
 \pdl dir 
@@ -40648,7 +40920,7 @@
 \xn 我把木条弯成了圆形
 \dt 25/Apr/2014
 
-\lx artɯmloʁ
+\lx _artɯmloʁ
 \wav vi-artWmloR
 \wav YArtWmloR_Zo_tslWGtslWG
 \ps vs
@@ -40660,7 +40932,7 @@
 \xn 又圆又硬
 \se sɤrtɯmloʁ
 \wav vt-sArtWmloR
-\wav8 8_tosArtWmloR_Zo_tslWCtslWG
+\wav8 tosArtWmloR_Zo_tslWCtslWG
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -40672,7 +40944,7 @@
 \xn 他把衣服乱裹成一团
 \dt 09/Oct/2014
 
-\lx artɯrtɤβ
+\lx _artɯrtɤβ
 \wav vi-artWrtAB
 \wav vi-artWrtAB2
 \ps vi
@@ -40704,10 +40976,10 @@
 \xn
 \dt 17/Jan/2015
 
-\lx artɯrtoʁ
+\lx _artɯrtoʁ
 \cf rtoʁ
 
-\lx arɯcɤrna
+\lx _arɯcɤrna
 \ps vs
 \ng denom
 \pdl dir 
@@ -40726,7 +40998,7 @@
 \cf cɤrna
 \dt 23/Dec/2014
 
-\lx arɯɕoʁɕoʁ
+\lx _arɯɕoʁɕoʁ
 \ps vs
 \ng denom
 \ge comme du papier
@@ -40736,7 +41008,7 @@
 \cf ɕoʁɕoʁ
 \dt 25/Aug/2015
 
-\lx arɯfsapaʁ
+\lx _arɯfsapaʁ
 \ps vs
 \ng denom
 \ge comme un animal
@@ -40746,13 +41018,13 @@
 \cf fsapaʁ
 \dt 25/Aug/2015
 
-\lx arɯfsɤlko
+\lx _arɯfsɤlko
 \ps vs
 \ge reculé, à l'écart (endroit)
 \gn 偏僻
 \dt 04/Jul/2016
 
-\lx arɯjɤrɤβ
+\lx _arɯjɤrɤβ
 \a arɯjɤrɯrɤβ
 \ps vs
 \ge poli
@@ -40760,7 +41032,7 @@
 \et ja.rabs
 \dt 31/Aug/2015
 
-\lx arɯkhɯtsa
+\lx _arɯkhɯtsa
 \wav vi-arWkhWtsa
 \ps vs
 \ge comme un bol
@@ -40770,7 +41042,7 @@
 \cf khɯtsa
 \dt 03/Jul/2016
 
-\lx arɯlaba
+\lx _arɯlaba
 \ps vi
 \ng denom
 \ge ressemblant à une trompette 
@@ -40780,7 +41052,7 @@
 \sy ajpomxtshɯm
 \dt 20/May/2011
 
-\lx arɯldʑaŋkɯ
+\lx _arɯldʑaŋkɯ
 \wav vi-arWldZaNkW
 \ps vs
 \ng denom
@@ -40793,7 +41065,7 @@
 \cf ldʑaŋkɯ
 \dt 05/Oct/2013
 
-\lx arɯlɯŋkɤr
+\lx _arɯlɯŋkɤr
 \wav vi-arWlWNkAr
 \ps vs
 \pdl dir 
@@ -40805,7 +41077,7 @@
 \xn 是天蓝色的东西
 \dt 23/Dec/2014
 
-\lx arɯmɯntoʁ
+\lx _arɯmɯntoʁ
 \ps vs
 \ng denom
 \ge comme une fleur
@@ -40818,7 +41090,7 @@
 \cf mɯntoʁ
 \dt 30/Aug/2015
 
-\lx arɯqromkemdoʁ
+\lx _arɯqromkemdoʁ
 \ps vs
 \ng denom
 \ge violet
@@ -40826,7 +41098,7 @@
 \cf qromkemdoʁ
 \dt 04/May/2014
 
-\lx arɯʁmɤrsmɯɣ
+\lx _arɯʁmɤrsmɯɣ
 \ps vs
 \ng denom
 \ge bordeau
@@ -40834,7 +41106,7 @@
 \cf ʁmɤrsmɯɣ
 \dt 04/May/2014
 
-\lx arɯsrɯn
+\lx _arɯsrɯn
 \ps vs
 \ge comme du coton
 \gn 像棉花一样
@@ -40842,7 +41114,7 @@
 \xn 像棉花一样柔软
 \dt 25/Aug/2015
 
-\lx arɯsɯjno
+\lx _arɯsɯjno
 \ps vs
 \ng denom
 \ge comme une herbe
@@ -40852,7 +41124,14 @@
 \cf sɯjno1
 \dt 25/Aug/2015
 
-\lx arɯtɤjpa
+\lx _arɯtaqaβ
+\ps vs
+\ng denom
+\ge comme une aiguille
+\gn 像……针一样……
+\cf taqaβ
+
+\lx _arɯtɤjpa
 \ps vs
 \ng denom
 \ge comme de la neige
@@ -40862,7 +41141,7 @@
 \cf tɤjpa
 \dt 25/Aug/2015
 
-\lx arɯtɤpɤtso
+\lx _arɯtɤpɤtso
 \wav vi-arWtApAtso
 \ps vs
 \ge comme un enfant
@@ -40872,7 +41151,7 @@
 \cf tɤ-pɤtso
 \dt 02/Jul/2016
 
-\lx arɯtɤtɕɯ
+\lx _arɯtɤtɕɯ
 \wav vi-arWtAtCW
 \ps vs
 \ge comme un garçon
@@ -40882,7 +41161,7 @@
 \cf tɤ-tɕɯ
 \dt 02/Jul/2016
 
-\lx arɯtɕheme
+\lx _arɯtɕheme
 \wav vi-arWtCheme
 \ps vs
 \ge comme une fille
@@ -40892,14 +41171,14 @@
 \cf tɕheme
 \dt 02/Jul/2016
 
-\lx arɯzdɯxthɯɣ
+\lx _arɯzdɯxthɯɣ
 \ps vs
 \ge qui arrive à peine à survivre
 \gn 勉强过日子
 \xv zdɯxthɯɣ
 \dt 14/Jul/2016
 
-\lx aʁdɤt
+\lx _aʁdɤt
 \wav vi-aRdAt
 \wav vi-RdAt
 \ps vi
@@ -40922,7 +41201,7 @@
 \xn 我给石头绊倒了
 \dt 11/Feb/2014
 
-\lx aʁe
+\lx _aʁe
 \wav vi-aRe
 \ps vi-t
 \pdl dir 
@@ -40945,7 +41224,7 @@
 \xn 你没有给我吃
 \dt 12/Apr/2011
 
-\lx aʁjɤr
+\lx _aʁjɤr
 \wav vi-aRjAr
 \ps vi
 \pdl dir 
@@ -40962,7 +41241,7 @@
 \se saʁjɤr
 \wav vt-saRjAr
 \wav vt-saRjAr2
-\wav8 8_saRjara
+\wav8 saRjara
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -40998,7 +41277,7 @@
 \gn 耽误时间
 \dt 24/Aug/2015
 
-\lx aʁɟa
+\lx _aʁɟa
 \wav vi-aRJa
 \ps vi
 \pdl dir 
@@ -41017,7 +41296,7 @@
 \xn 草坪光秃秃的
 \xv @Wenchuan zgo ra ɲɯ-ɤʁɟa-nɯ
 \xn 汶川的山是光秃秃的
-\et gja?
+\et gja.ma |fv{“石板”}
 \se saʁɟa
 \ps vt
 \ng caus
@@ -41031,7 +41310,7 @@
 \xn 他把那个地方砍光了（拔光了草）
 \dt 21/Apr/2013
 
-\lx aʁɟɤle
+\lx _aʁɟɤle
 \wav vi-aRJAle
 \ps vi
 \pdl dir 
@@ -41045,7 +41324,7 @@
 \xn 他头发稀少了
 \dt 18/Jul/2016
 
-\lx aʁloʁlu
+\lx _aʁloʁlu
 \wav vi-aRloRlu.wav
 \ps vs
 \ge concave
@@ -41060,7 +41339,7 @@
 \cf ɯ-ʁlu
 \dt 23/Dec/2014
 
-\lx aʁmbɯm
+\lx _aʁmbɯm
 \wav vi-aRmbWm
 \ps vi
 \pdl dir 
@@ -41078,9 +41357,9 @@
 \xn 你不要撞他，不然就会凹进去
 \dt 18/May/2014
 
-\lx aʁzrɤwolu
+\lx _aʁzrɤwolu
 \wav vi-aRzrAwAlu
-\wav8 8_YAkARzrAwAlu
+\wav8 YAkARzrAwAlu
 \ps vs
 \pdl dir
 \pdv nɯ-
@@ -41094,10 +41373,10 @@
 \xn 以前好好的，现在变得乱蓬蓬的
 \dt 02/Jul/2016
 
-\lx aʁzɯɣβzaŋ
-\wav8 8_aRzWGBzaN
-\wav8 8_aRzWGBzaN2
-\wav8 8_aRzWGBzaN3
+\lx _aʁzɯɣβzaŋ
+\wav8 aRzWGBzaN
+\wav8 aRzWGBzaN2
+\wav8 aRzWGBzaN3
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -41114,8 +41393,8 @@
 \an aʁzɯŋɤn
 \dt 30/Nov/2013
 
-\lx aʁzɯŋɤn
-\wav8 8_aRzWNAn
+\lx _aʁzɯŋɤn
+\wav8 aRzWNAn
 \ps vs
 \ng denom
 \ge d'une apparence peu avenante
@@ -41124,15 +41403,15 @@
 \an aʁzɯɣβzaŋ
 \dt 30/Nov/2013
 
-\lx asaχpɯχpaʁ
+\lx _asaχpɯχpaʁ
 \cf saχpaʁ
 \dt 16/Jul/2016
 
-\lx asɤmɯβde
+\lx _asɤmɯβde
 \cf βde
 \dt 26/Aug/2015
 
-\lx asɤmɯsɯz
+\lx _asɤmɯsɯz
 \ps vi
 \pdl dir
 \pdv nɯ-
@@ -41145,7 +41424,7 @@
 \cf sɯz
 \dt 18/May/2014
 
-\lx ascaʁa
+\lx _ascaʁa
 \ps vs
 \ng denom
 \ge blanc et noir, comme une pie
@@ -41153,11 +41432,11 @@
 \cf scaʁa
 \dt 26/Jul/2014
 
-\lx ascɯsco
+\lx _ascɯsco
 \cf sco
 \dt 21/Jul/2016
 
-\lx askɯ
+\lx _askɯ
 \wav vi-askW
 \ps vs
 \ge qui est blanche sur le dos (vache)
@@ -41166,7 +41445,7 @@
 \xn 这头牛脊梁上有白色
 \dt 07/Aug/2012
 
-\lx asqhlu
+\lx _asqhlu
 \wav vi-asqhlu
 \ps vi
 \pdl dir 
@@ -41182,11 +41461,11 @@
 \sy arɴɢlɯm
 \dt 18/Jul/2016
 
-\lx asqɯsqɤr
+\lx _asqɯsqɤr
 \cf sqɤr
 \dt 12/Apr/2013
 
-\lx astɤko
+\lx _astɤko
 \wav vi-astAko
 \wav vi-astAko2
 \ps vi
@@ -41207,7 +41486,7 @@
 \cf sɤstɤko
 \dt 24/Aug/2011
 
-\lx asti
+\lx _asti
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -41220,7 +41499,7 @@
 \cf sti1
 \dt 24/Aug/2012
 
-\lx astu
+\lx _astu
 \wav vi-astu
 \ps vs
 \pdl dir 
@@ -41253,7 +41532,7 @@
 \xn 他多么地不幸运
 \dt 24/Aug/2011
 
-\lx astɯsti
+\lx _astɯsti
 \wav vi-astWsti
 \ps vt
 \pdl dir 
@@ -41270,7 +41549,7 @@
 \cf sti1
 \dt 18/Jul/2016
 
-\lx asɯɣ
+\lx _asɯɣ
 \ps vi
 \pdl dir 
 \pdv kɤ-
@@ -41284,15 +41563,15 @@
 \cf sɤsɯɣ
 \dt 15/Jun/2012
 
-\lx asɯɣɲɯɣɲaʁ
+\lx _asɯɣɲɯɣɲaʁ
 \cf sɯɣɲaʁ
 \dt 29/Dec/2011
 
-\lx asɯjaʁndzɯʁndzu
+\lx _asɯjaʁndzɯʁndzu
 \cf sɯjaʁndzu
 \dt 29/Dec/2011
 
-\lx asɯmɲɯmɲo
+\lx _asɯmɲɯmɲo
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -41302,11 +41581,11 @@
 \xn 你们俩倒挺能互相谅解的
 \dt 24/Aug/2012
 
-\lx asɯsat
+\lx _asɯsat
 \cf sat
 \dt 18/Jul/2016
 
-\lx asɯsu
+\lx _asɯsu
 \ps vi
 \pdl dir
 \pdv tɤ-
@@ -41316,10 +41595,10 @@
 \xn 虫子在交配
 \dt 18/May/2014
 
-\lx asɯxɕɯxɕɤt
+\lx _asɯxɕɯxɕɤt
 \cf sɯxɕɤt
 
-\lx aʂŋaʁ
+\lx _aʂŋaʁ
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -41334,7 +41613,7 @@
 \xv a-mi ``rŋaʁ" ʑo ɲɯ-ti tɕe nɯ-aʂŋaʁ 
 \xn 我的脚“喀嚓”一声就扭伤了
 
-\lx ata
+\lx _ata
 \ps vi
 \pdl dir 
 \pdv _
@@ -41343,7 +41622,7 @@
 \gn 放着 
 \cf ta
 
-\lx ataʁki
+\lx _ataʁki
 \ps vi
 \ge l'un au dessus et l'autre en dessous
 \gn 一个在上面，一个在下面
@@ -41360,7 +41639,7 @@
 \xn 我把那些东西一个挂在上面，一个挂在下面
 \dt 21/Apr/2013
 
-\lx atɤr
+\lx _atɤr
 \wav vi-atAr
 \ps vi
 \pdl dir 
@@ -41376,8 +41655,7 @@
 \xn 你的杯子很快就要掉下去
 \dt 27/Aug/2015
 
-\lx atɕaʁ
-\wav vi_atCaR
+\lx _atɕaʁ
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -41412,11 +41690,11 @@
 \xn 煲粥不好，因为锅子、瓢和碗上都会沾得到处都是
 \dt 19/Jul/2016
 
-\lx atɕaʁlaʁ
+\lx _atɕaʁlaʁ
 \cf atɕaʁ
 \dt 31/Aug/2012
 
-\lx atɕɤβ
+\lx _atɕɤβ
 \ps vi
 \sn 1
 \pdl dir
@@ -41440,11 +41718,11 @@
 \xn 他把手交叉放着
 \dt 02/Jan/2015
 
-\lx atɕhɯtɕhɯ
+\lx _atɕhɯtɕhɯ
 \cf tɕhɯ
 \dt 07/Aug/2012
 
-\lx atɕhɯz
+\lx _atɕhɯz
 \wav vi-atChWz
 \ps vi
 \pdl dir 
@@ -41469,7 +41747,7 @@
 \xn 烧黑椒的时候会让人打喷嚏
 \dt 20/Aug/2012
 
-\lx atɕɯmthɯt
+\lx _atɕɯmthɯt
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -41481,7 +41759,7 @@
 \xn 有了这些布块就可以拼成有用的东西 
 \dt 24/Aug/2012
 
-\lx atɕɯtɕit
+\lx _atɕɯtɕit
 \wav vi-atCWtCWt
 \ps vi
 \pdl dir 
@@ -41511,7 +41789,7 @@
 \xn 你要把东西带全，不要带漏
 \dt 04/Sep/2015
 
-\lx atɕɯtʂi
+\lx _atɕɯtʂi
 \wav vi-atCitsxi
 \ps vi
 \pdl dir 
@@ -41525,11 +41803,11 @@
 \cf sɤtɕɯtʂi
 \dt 17/May/2014
 
-\lx atɕɯxtaʁ
+\lx _atɕɯxtaʁ
 \cf taʁ2
 \dt 31/Aug/2012
 
-\lx atɕɯxtʂot
+\lx _atɕɯxtʂot
 \wav vi-atCWxtsxot
 \ps vi
 \pdl dir 
@@ -41552,7 +41830,7 @@
 \xn 我把火拨旺了一些
 \dt 03/Sep/2011
 
-\lx athɤri
+\lx _athɤri
 \a athɤrɯri
 \ps vi
 \ge se connecter 
@@ -41560,7 +41838,7 @@
 \cf sɤthɤri
 \dt 06/Jan/2013
 
-\lx athoʁmphrɤt
+\lx _athoʁmphrɤt
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -41571,7 +41849,7 @@
 \cf sɤthoʁmphrɤt
 \dt 24/Aug/2012
 
-\lx athoχɕaβ
+\lx _athoχɕaβ
 \ps vi
 \ge qui peut être relié
 \gn （可以）连在一起
@@ -41580,7 +41858,7 @@
 \sy alɤɣɯ
 \dt 13/May/2014
 
-\lx atsa
+\lx _atsa
 \wav vi-atsa
 \ps vi
 \pdl dir 
@@ -41594,14 +41872,28 @@
 \xv tɤtshoʁ to-k-ɤtsa-ci
 \xn 钉子是插着的
 \se sɤtsa
+\wav vt-sAtsa
+\wav vt-sAtsa2
 \ps vt
 \ng caus
+\pdl dir 
+\pdv pɯ-
+\ge insérer, planter 
+\gn 插；戳；刺痛 
 \sn 1
 \ge planter, enfoncer
-\gn 插
+\gn 插；戳
+\xv tɤtshoʁ pɯ-sɤtsa-t-a (=pɯ-no-t-a)
+\xn 我钉了钉子
+\xv ɕɤmtshoʁ kɤ-sɤtsa-t-a (=kɤ-lat-a, kɤ-no-t-a)
+\xn 我钉了铁钉
+\xv kɯm pɯ-sɤtsa-ta 
+\xn 我锁了门
+\xv tɤtshoʁ ko-sɤtsa
+\xn 他钉了钉子
 \sn 2
 \ge poignarder
-\gn 捅（一刀）
+\gn 捅（一刀）;刺痛
 \se ʑɣɤsɤtsa
 \ps vi
 \ng refl
@@ -41614,9 +41906,9 @@
 \xn 门自动地关起来了
 \dt 02/Aug/2012
 
-\lx atshɤxtshɯ
+\lx _atshɤxtshɯ
 \wav vi-atshAxtshW
-\wav8 8_atshAxtshW
+\wav8 atshAxtshW
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -41634,11 +41926,11 @@
 \xn 我呼吸很困难
 \dt 10/Dec/2014
 
-\lx atshoʁ
+\lx _atshoʁ
 \cf tshoʁ
 \dt 08/Aug/2012
 
-\lx atsɯtsu
+\lx _atsɯtsu
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -41646,12 +41938,12 @@
 \gn 来得及 
 \xv nɤ-kɯ-mŋɤm a-tɤ-mna tɕe, kɤ-nɤma atsɯtsu ɕti wo 
 \xn 你的病康复了，工作还来得及做。
-\xn kɤ-nɯna mɤ-atsɯtsu
-\xv 来不及休息
+\xv kɤ-nɯna mɤ-atsɯtsu
+\xn 来不及休息
 \cf tsu
 \dt 06/Sep/2011
 
-\lx atʂoʁloʁ
+\lx _atʂoʁloʁ
 \wav vi-atsxoRloR
 \ps vi
 \pdl dir 
@@ -41675,9 +41967,9 @@
 \xn 我们俩的衣服装在一起
 \dt 24/Aug/2012
 
-\lx atɯɣ
+\lx _atɯɣ
 \wav vi-atWG
-\wav8 8_atWG
+\wav8 atWG
 \ps vi-t
 \pdl dir 
 \pdv nɯ-
@@ -41693,8 +41985,8 @@
 \xv tɕhomba ɲɤ-k-ɤtɯɣ-a-ci
 \xn 我感冒了
 \se nɤtɯɣ
-\wav8 8_nAtWG
-\wav8 8_aRAri_pastu
+\wav8 nAtWG
+\wav8 aRAri_pastu
 \ps vi
 \ng autoben
 \ge se retrouver dans/avec (par hasard)
@@ -41722,10 +42014,10 @@
 \xn 有好东西的时候，要想办法拿到手
 \se znɤtɯɣ
 \a znɤtɯtɯɣ
-\wav8 8_znAtWG
-\wav8 8_znAtWtWG
-\wav8 8_YWkWZGAnAtWG
-\wav8 8_YWtaznAtWG
+\wav8 znAtWG
+\wav8 znAtWtWG
+\wav8 YWkWZGAnAtWG
+\wav8 YWtaznAtWG
 \ps vt
 \pdl dir 
 \pdv _
@@ -41755,7 +42047,7 @@
 \cf amɯtɯɣ
 \dt 18/Aug/2015
 
-\lx atɯta
+\lx _atɯta
 \ps vi
 \ng recip
 \pdl dir
@@ -41773,7 +42065,7 @@
 \cf ta
 \dt 04/Sep/2015
 
-\lx awij
+\lx _awi
 \ps vi
 \pdl dir 
 \pdv kɤ-
@@ -41781,17 +42073,9 @@
 \gn 闭着眼睛 
 \xv tɯ-ʑɯβ pɯ-ɣe tɕe, tɯ-mɲaʁ ɲɯ-ɤwi 
 \xn 打瞌睡的时候，眼睛是闭着的
-\se sɤwij
-\pdl dir 
-\pdv kɤ-
-\ps vt
-\ge fermer (yeux) 
-\gn 闭上（眼睛）
-\xv ɯ-mɲaʁ ra ko-sɤwij
-\xn 他闭上眼睛了
-\dt 24/Aug/2012
+\cf sɤwi
 
-\lx awɯwum
+\lx _awɯwum
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -41799,12 +42083,12 @@
 \pdv thɯ-
 \ge se rassembler 
 \gn 聚集在一起 
-\xv kɤ-nɤʁaʁ tɤmda tɕe chɯ-ɤwɯwum-i ŋgrɤl
+\xv kɤ-nɤʁaʁ tɤ-mda tɕe chɯ-ɤwɯwum-i ŋgrɤl
 \xn 要玩的时候，我们就聚在一起
 \cf wum
 \dt 24/Aug/2012
 
-\lx axtɕɯxte
+\lx _axtɕɯxte
 \wav vi-axtCWxte
 \ps vs
 \ge de taille différente
@@ -41817,7 +42101,7 @@
 \cf mɯxte
 \dt 20/May/2014
 
-\lx aχa
+\lx _aχa
 \wav vi-aXa
 \ps vi
 \pdl dir 
@@ -41849,7 +42133,7 @@
 \xn 他（把这个东西）弄缺了个口子
 \dt 07/Aug/2014
 
-\lx aχchowolu
+\lx _aχchowolu
 \ps vi
 \pdl dir 
 \pdv kɤ-
@@ -41862,7 +42146,7 @@
 \cf ʁlɯβʁlɯβ
 \dt 17/Jul/2016
 
-\lx aχɕɯβ
+\lx _aχɕɯβ
 \wav vi-aXCWB
 \ps vi
 \pdl dir 
@@ -41880,7 +42164,7 @@
 \et gɕib
 \dt 02/Jan/2015
 
-\lx aχɕɯldɤn
+\lx _aχɕɯldɤn
 \ps vs
 \ge en sécurité
 \gn 安全；安康
@@ -41889,7 +42173,7 @@
 \cf χɕɯldɤn
 \dt 19/May/2014
 
-\lx aχom
+\lx _aχom
 \wav vi-aXom
 \ps vi
 \pdl dir 
@@ -41904,11 +42188,11 @@
 \xn 啊，我在打哈欠
 \dt 07/Sep/2011
 
-\lx aχpɯχpjɤt
+\lx _aχpɯχpjɤt
 \cf χpjɤt
 \dt 10/Sep/2011
 
-\lx aχsi
+\lx _aχsi
 \wav vi-aXsi
 \ps vs
 \pdl dir 
@@ -41920,7 +42204,7 @@
 \cf saχsi
 \dt 04/Aug/2012
 
-\lx aχsom
+\lx _aχsom
 \wav vi-aXsom
 \ps vi
 \pdl dir 
@@ -41947,7 +42231,7 @@
 \xn 我把他弄醒
 \dt 10/Sep/2011
 
-\lx aχsɯko
+\lx _aχsɯko
 \wav vi-asXsWko
 \ps vs
 \pdl dir 
@@ -41968,11 +42252,11 @@
 \xn 要把家里扫干净
 \cf saχsi
 
-\lx azbraʁ
+\lx _azbraʁ
 \cf zbraʁ
 \dt 23/Nov/2014
 
-\lx azdaʁ
+\lx _azdaʁ
 \wav vt-sAzdaR
 \ps vi
 \pdl dir 
@@ -41993,11 +42277,11 @@
 \xn 我穿了两层衣服，不觉得冷
 \dt 26/Aug/2015
 
-\lx azgroʁ
+\lx _azgroʁ
 \cf zgroʁ1
 \dt 23/Nov/2014
 
-\lx azgrɯ
+\lx _azgrɯ
 \wav vi-azgrW
 \ps vi
 \pdl dir 
@@ -42010,9 +42294,9 @@
 \xn 他弯下了腰
 \dt 13/Sep/2011
 
-\lx azgɯr
+\lx _azgɯr
 \wav vi-azgWr
-\wav8 8_amgWr_tAmNAm
+\wav8 amgWr_tAmNAm
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -42029,7 +42313,7 @@
 \cf ɯ-zgɯr
 \dt 02/Aug/2012
 
-\lx azgɯrloʁ
+\lx _azgɯrloʁ
 \wav vi-azgWrloR
 \ps vi
 \pdl dir 
@@ -42043,11 +42327,11 @@
 \cf azgɯr
 \dt 14/Sep/2011
 
-\lx azɣɤʁrɯʁre
+\lx _azɣɤʁrɯʁre
 \cf ɣɤʁre
 \dt 16/Jul/2016
 
-\lx azmɯjqhɯjqha
+\lx _azmɯjqhɯjqha
 \wav vi-azmWjqhWjqha
 \ps vi
 \ge se faire du mal les uns aux autres
@@ -42057,7 +42341,7 @@
 \cf qha
 \dt 18/Jul/2016
 
-\lx aʑaʁ
+\lx _aʑaʁ
 \hm 1
 \wav vi-aZaR
 \ps vi
@@ -42073,7 +42357,7 @@
 \cf ari
 \dt 13/Sep/2011
 
-\lx aʑɤwu
+\lx _aʑɤwu
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -42088,13 +42372,13 @@
 \cf ʑɤwu
 \dt 28/Aug/2015
 
-\lx aʑɴɢɯʑɴɢoʁ
+\lx _aʑɴɢɯʑɴɢoʁ
 \cf ʑɴɢoʁ
 \dt 29/Apr/2014
 
-\lx aʑɯrja
+\lx _aʑɯrja
 \wav vi-aZirja
-\wav8 8_aZirja2
+\wav8 aZirja2
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -42102,7 +42386,7 @@
 \pdv thɯ-
 \pdl dir 
 \pdv _
-\wav8 8_aZirja
+\wav8 aZirja
 \ge faire la queue 
 \gn 排队 
 \hbf 1541
@@ -42128,7 +42412,7 @@
 \xn 他们把房子排列整齐了
 \dt 23/Aug/2011
 
-\lx aʑɯχtso
+\lx _aʑɯχtso
 \wav vi-ZWXtso
 \wav vi-sAZWXtso
 \ps vs
@@ -42155,7 +42439,7 @@
 \xn 我弄干净了
 \dt 08/Apr/2013
 
-\lx aʑɯʑu
+\lx _aʑɯʑu
 \wav vi-aZWZu
 \ps vi
 \pdl dir 
@@ -42176,7 +42460,7 @@
 \xn 他跟我角力了
 \dt 15/Jan/2015
 
-\lx βde
+\lx _βde
 \ps vt
 \wav vt-Bde
 \sn 1
@@ -42271,7 +42555,7 @@
 \xn 你不忽略小孩子
 \dt 06/Sep/2015
 
-\lx βdi
+\lx _βdi
 \wav vi-Bdi
 \ps vs
 \pdl dir 
@@ -42306,11 +42590,11 @@
 \xn 万一他生病了的话，就是你的责任了
 \dt 19/Jul/2016
 
-\lx βgoz
+\lx _βgoz
 \a fkoz
 \wav vt-Bgoz
 \wav vt-Bgoz2
-\wav8 8_tABgozi
+\wav8 tABgozi
 \ps vt
 \pdl dir 
 \pdv tɤ- 
@@ -42335,7 +42619,7 @@
 \xn 他们的婚姻是父母包办的，不是他们自己主张的
 \dt 11/Mar/2014
 
-\lx βɣɯt
+\lx _βɣɯt
 \ps vi
 \pdl dir
 \pdv kɤ-
@@ -42355,12 +42639,12 @@
 \xn 我把猪毛烧掉了
 \dt 02/Sep/2015
 
-\lx βɟɤt
+\lx _βɟɤt
 \ps vi
 \pdl dir 
 \pdv pɯ-
 \wav vi-BJAt
-\ge obtenir 
+\ge obtenir quelque chose, ne pas partir les mains vides
 \gn 得到（某个大家在抢的东西）；中奖 
 \xv pɯ-βɟat-a, pɯ-βɟɤt
 \xn 我得到了，他得到了
@@ -42374,13 +42658,13 @@
 \xn 买到了东西
 \se sɯβɟɤt
 \ps vt
-\ge fair eobtenir
+\ge faire obtenir
 \gn 令……得到
 \xv tɤ-ndze ma tha mɤ-ta-sɯβɟɤt
 \xn 你吃，不然我会吃完，令你吃不到
 \dt 11/Jul/2016
 
-\lx βɟi
+\lx _βɟi
 \hm 1
 \ps vt
 \pdl dir 
@@ -42405,7 +42689,7 @@
 \gn 令……追赶
 \dt 28/Dec/2010
 
-\lx βɟi
+\lx _βɟi
 \hm 2
 \wav vi-BJi
 \ps vs
@@ -42419,7 +42703,7 @@
 \xn 东西旧了
 \dt 19/Sep/2011
 
-\lx βli
+\lx _βli
 \ps vt
 
 \wav vt-Bli
@@ -42436,9 +42720,9 @@
 \xn 我栽了树苗
 \dt 28/Dec/2010
 
-\lx βlɯ
+\lx _βlɯ
 \wav vt-BlW
-\wav8 8_tABlWa
+\wav8 tABlWa
 \ps vl
 \sn 1
 \pdl dir  
@@ -42461,7 +42745,7 @@
 \cf nɯrmɤβlɯ
 \dt 21/Jul/2016
 
-\lx βlɯɣnɤβlɯɣ
+\lx _βlɯɣnɤβlɯɣ
 \wav ideo-BlWG-c
 \ps idph.3
 \ge source de lumière irisée qui scintille
@@ -42470,7 +42754,7 @@
 \xn 警灯在闪光
 \dt 29/Sep/2011
 
-\lx βraʁ
+\lx _βraʁ
 \wav vt-BraR
 \ps vt
 \pdl dir 
@@ -42493,6 +42777,8 @@
 \gn 拴着
 \xv nɯtɕu khɯna pjɤ-k-ɤβraʁ-ci
 \xn 那里以前拴过狗
+\xv ɯ-sɯmpa nɯtɕu pjɤ-k-ɤβraʁ-ci 
+\xn 他心里一直牵挂着
 \se nɤβrɯβraʁ
 \ps vt
 \ge attacher dans tous les sens
@@ -42507,7 +42793,7 @@
 \gn 戴（项链）
 \dt 26/Oct/2014
 
-\lx βri
+\lx _βri
 \wav vt-Bri
 \ps vt
 \pdl dir 
@@ -42534,7 +42820,7 @@
 \gn 维护别人
 \dt 20/Jul/2016
 
-\lx βrɟaŋ
+\lx _βrɟaŋ
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -42545,12 +42831,12 @@
 \xn 我把皮子绷紧了
 \dt 07/Feb/2014
 
-\lx βʁa
+\lx _βʁa
 \ps vi
 \pdl dir 
 \pdv pɯ- 
 \wav vi-BRa
-\wav8 8_znABRaBRa
+\wav8 znABRaBRa
 \ge gagner 
 \gn 赢 
 \hbf 1760
@@ -42583,7 +42869,7 @@
 \xn 你不要对人你们粗暴
 \dt 28/Dec/2016
 
-\lx βʁum
+\lx _βʁum
 \wav vt-BRum
 \ps vt
 \pdl dir 
@@ -42614,7 +42900,7 @@
 \xn 他趴着睡
 \dt 07/May/2014
 
-\lx bɯɣ
+\lx _bɯɣ
 \wav vi-bWG
 \wav vi-bWG2
 \ps vi 
@@ -42633,7 +42919,7 @@
 \cf nɯɣbɯɣ
 \dt 22/Nov/2012
 
-\lx bɯwa
+\lx _bɯwa
 \wav vt-bWwa
 \ps vt
 \pdl dir 
@@ -42650,7 +42936,7 @@
 \cf zbɯwa
 \dt 30/Aug/2015
 
-\lx βzdɤr
+\lx _βzdɤr
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -42664,7 +42950,7 @@
 \cf tɤ-βzdɤr
 \dt 02/Aug/2012
 
-\lx βzdɯ
+\lx _βzdɯ
 \wav vt-BzdW
 \ps vt
 \pdl dir 
@@ -42703,7 +42989,7 @@
 \xn 他把东西收拾好了
 \dt 06/Jun/2011
 
-\lx βzgɤr
+\lx _βzgɤr
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -42716,9 +43002,9 @@
 \cf saʁjɤr
 \dt 06/Jun/2011
 
-\lx βzi
+\lx _βzi
 \wav vi-Bzi
-\wav8 8_mAlAtWBzichW
+\wav8 mAlAtWBzichW
 \ps vi
 \pdl dir 
 \pdv lɤ-
@@ -42764,7 +43050,7 @@
 \xn 容易上头的酒
 \dt 24/Aug/2015
 
-\lx βzjoz
+\lx _βzjoz
 \wav vt-Bzjoz
 \ps vt
 \pdl dir 
@@ -42788,10 +43074,10 @@
 \gn 好学，容易学
 \dt 06/Sep/2015
 
-\lx βzɟɯr
+\lx _βzɟɯr
 \wav vt-BzJWr
 \wav vt-BzJWr3
-\wav8 8_BzJWr
+\wav8 BzJWr
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -42824,7 +43110,7 @@
 \gn 转变
 \dt 20/Aug/2015
 
-\lx βzu
+\lx _βzu
 \hm 1
 \wav vt-Bzu
 \ps vt
@@ -42891,7 +43177,7 @@
 \xv nɤʑo tɤ-tɯ-nɯ-βzu-t ɕti
 \xn 这是你自己造成的（是你一个人的错）
 \se sɯβzu
-\wav8 8_sWBzu
+\wav8 sWBzu
 \ps vt
 \ge faire faire
 \gn 使别人做
@@ -42905,7 +43191,7 @@
 \xn 他到处去做生意
 \dt 26/Aug/2015
 
-\lx βzɯr
+\lx _βzɯr
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -42922,7 +43208,7 @@
 \xn 这个东西不要放在这里，你把它拿走
 \dt 10/Oct/2010
 
-\lx βʑoʁ
+\lx _βʑoʁ
 \wav vt-BZoR
 \ps vt
 \pdl dir 
@@ -42951,7 +43237,7 @@
 \xn 刀子削不了自己的把子
 \dt 21/Apr/2013
 
-\lx caʁ
+\lx _caʁ
 \wav vi-caR
 \ps vs
 \ge célèbre 
@@ -42962,7 +43248,7 @@
 \xn 他很能干，所以就变得很出名
 \dt 03/Sep/2011
 
-\lx cɤrna
+\lx _cɤrna
 \ps n
 \ge petit pain rond
 \gn 圆形的小馍馍
@@ -42970,11 +43256,11 @@
 \cf arɯcɤrna
 \dt 26/Aug/2012
 
-\lx cha
+\lx _cha
 \hm 1
 \wav vi-cha
-\wav8 8_tocha
-\wav8 8_mWCWtWcha
+\wav8 tocha
+\wav8 mWCWtWcha
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -42997,9 +43283,9 @@
 \cf sɤcha
 \dt 02/Jan/2015
 
-\lx chɤβ
+\lx _chɤβ
 \wav vt-chAB
-\wav8 8_tWsloXpWn_WCki
+\wav8 tWsloXpWn_WCki
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -43028,11 +43314,11 @@
 \cf ɲɟɤβ
 \dt 27/Aug/2015
 
-\lx chɤle
+\lx _chɤle
 \cf achala
 \dt 01/Sep/2015
 
-\lx chɤt
+\lx _chɤt
 \hm 1
 \ps vs
 \ge avoir pour différence
@@ -43043,7 +43329,7 @@
 \cf achɤt
 \dt 17/May/2014
 
-\lx chɤt
+\lx _chɤt
 \hm 2
 \ps vi
 \pdl dir 
@@ -43056,18 +43342,9 @@
 \sy ŋgrɯ
 \dt 17/May/2014
 
-\lx chɤtshi
-\ps n
-\ge fait de boire beaucoup
-\gn 喝很多酒
-\cf cha2
-\cf tshi1
-\cf ɣɯchɤtshi
-\dt 10/Nov/2011
-
-\lx chi
+\lx _chi
 \wav vi-chi
-\wav8 8_GAchi
+\wav8 GAchi
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -43102,10 +43379,10 @@
 \gn 觉得甜
 \dt 03/Jul/2016
 
-\lx ci
+\lx _ci
 \hm 1
 \wav vt-ci
-\wav8 8_pWci
+\wav8 pWci
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -43119,7 +43396,7 @@
 \sy phoʁ
 \dt 09/Jul/2016
 
-\lx cit
+\lx _cit
 \wav vi-cit
 \ps vi
 \pdl dir 
@@ -43131,10 +43408,10 @@
 \xv kha ta-βzu-nɯ tɕe, ju-cit-i ra
 \xn 他们修了房子，我们要搬
 \sy spɤr
-\cf nɤqhɤcit
+\cf nɯqhɤcit
 \dt 09/Sep/2015
 
-\lx coŋ
+\lx _coŋ
 \hm 2
 \ps vi
 \pdl dir
@@ -43145,7 +43422,7 @@
 \xn 我受损了
 \dt 27/Aug/2015
 
-\lx cu
+\lx _cu
 \ps vt
 \wav vt-cu
 \pdl dir 
@@ -43177,13 +43454,11 @@
 \cf nɯrɯcu
 \dt 20/Jul/2016
 
-\lx cɯ
+\lx _cɯ
 \hm 1
 \wav vt-cW
-\wav vt-cW-Wlu
-\wav vt-cW-WrnoR
-\wav vt-cW-WrnoR2
 \ps vt
+\sn 1
 \pdl dir 
 \pdv tɤ-
 \ge ouvrir 
@@ -43193,18 +43468,30 @@
 \xn 我开了门
 \xv kɯm tɤ-ci
 \xn 你开门吧
+\sn 2
+\ge laisser le passage
+\gn 让（路）
 \xv tʂu tɤ-cɯ-t-a
 \xn 我让了路
+\sn 3
+\ge ouvrir les yeux
+\gn 睁开
 \xv ɯ-mɲaʁ ɲɤ-cɯ
 \xn 他睁开了眼睛
+\cf ɲɟɯ
+\cf ɯ-lu,cɯ
+\se tɯ-rnoʁ,cɯ
+\wav vt-cW-WrnoR
+\wav vt-cW-WrnoR2
+\ge assourdir
+\gn 震耳欲聋
 \xv a-rnoʁ ʑo ku-ci ɲɯ-ɕti, tɕe kɤ-sɤŋo mɯ́j-khɯ
 \xn 很吵，无法听清楚
 \xv ma-tɯ-ɤrju ma a-rnoʁ ma-tɯ-ci ma ɲɯ-sɤɣdɯɣ
 \xn 你不要说了，不要吵我
-\cf ɲɟɯ
-\dt 10/Dec/2014
+\dt 17/Oct/2017
 
-\lx cɯ
+\lx _cɯ
 \hm 2
 \ps vi
 \wav vi-cW
@@ -43220,7 +43507,7 @@
 \xn 春天的时候出来，冬天的时候冬眠
 \dt 25/Dec/2012
 
-\lx cɯm
+\lx _cɯm
 \ps vt
 \pdl dir
 \pdv kɤ-
@@ -43236,13 +43523,13 @@
 \xn 布料薄的衣服容易折进去，布料厚的衣服就不容易折进去
 \dt 25/Jul/2014
 
-\lx cɯpɤspoʁspoʁ
+\lx _cɯpɤspoʁspoʁ
 \ps n
 \ge jouet en forme de meule
 \gn 水磨模型的玩具
 \dt 22/Apr/2013
 
-\lx ɕaβ
+\lx _ɕaβ
 \hm 1
 \wav vt-CaB
 \ps vt
@@ -43264,7 +43551,7 @@
 \xn 赶不上
 \dt 17/Jul/2016
 
-\lx ɕaβ
+\lx _ɕaβ
 \hm 2
 \wav vi-CaB
 \ps vs
@@ -43278,7 +43565,7 @@
 \xn 够长
 \dt 26/Oct/2011
 
-\lx ɕaŋ
+\lx _ɕaŋ
 \wav vi-CaN
 \ps vs
 \pdl dir 
@@ -43289,7 +43576,7 @@
 \xn 它的角老了
 \dt 19/Sep/2011
 
-\lx ɕar
+\lx _ɕar
 \wav vt-Car
 \ps vt
 \pdl dir 
@@ -43321,7 +43608,7 @@
 \cf nɤɕarlar
 \dt 22/Aug/2015
 
-\lx ɕɤɣ
+\lx _ɕɤɣ
 \hm 1
 \wav vi-CAG
 \ps vs
@@ -43335,7 +43622,7 @@
 \an mbe
 \dt 27/Sep/2011
 
-\lx ɕɤt
+\lx _ɕɤt
 \wav vi-CAt
 \ps vi
 \pdl dir 
@@ -43355,9 +43642,9 @@
 \xn 我习惯喝冷水
 \dt 22/Apr/2013
 
-\lx ɕe
-\wav8 8_tuCea
-\wav8 8_kWmtucia
+\lx _ɕe
+\wav8 tuCea
+\wav8 kWmtucia
 \ps vi
 \pdl dir 
 \pdv _
@@ -43424,7 +43711,7 @@
 \xn 我今天没有跟他们一起去，就（大家就）当做我休息（其实不是）
 \dt 16/Jul/2016
 
-\lx ɕɣɤz
+\lx _ɕɣɤz
 \wav vt-CGAs
 \ps vt
 \pdl dir 
@@ -43440,7 +43727,7 @@
 \sy fsɯɣ
 \dt 09/May/2012
 
-\lx ɕke
+\lx _ɕke
 \wav vi-Cke
 \wav vi-Cke2
 \ps vi
@@ -43462,6 +43749,9 @@
 \gn 重要（事情）
 \xv jiɕqha nɯ kɯ-ɕke ci ɲɯ-ŋu (=kɯ-ʁzi)
 \xn 这件事情很重要
+\sn 3
+\ge se déteriorer après avoir été exposé aux éléments (tendons, cuir etc)
+\gn 因为受风而变得不结实（牛筋、皮子等） 
 \cf sɤɕke1
 \cf sɤɕke2
 \cf nɤsɤɕke
@@ -43469,9 +43759,9 @@
 \cf sɯɕke
 \dt 12/Jul/2016
 
-\lx ɕkho
+\lx _ɕkho
 \wav vt-Ckho
-\wav8 8_aCkho
+\wav8 aCkho
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -43513,10 +43803,10 @@
 \xn 这个锅子底小口大
 \dt 11/Feb/2014
 
-\lx ɕkɯt
+\lx _ɕkɯt
 \wav vt-CkWt
 \wav vt-CkWt2
-\wav8 8_CkWt
+\wav8 CkWt
 \ps vt
 \pdl dir 
 \pdv thɯ-
@@ -43541,7 +43831,7 @@
 \xn 马鸡没有了
 \dt 10/Apr/2011
 
-\lx ɕlu
+\lx _ɕlu
 \ps vl
 \pdl dir 
 \pdv tɤ-
@@ -43556,7 +43846,7 @@
 \xn 我耕了这块地
 \dt 20/Jan/2015
 
-\lx ɕlɯɣ
+\lx _ɕlɯɣ
 \wav vt-ClWG
 \ps vt
 \pdl dir 
@@ -43579,7 +43869,7 @@
 \cf sɯta
 \dt 31/Aug/2011
 
-\lx ɕmi
+\lx _ɕmi
 \wav vt-Cmi
 \ps vt
 \pdl dir 
@@ -43595,7 +43885,7 @@
 \xn 拌一下你的菜，盐放得不均匀
 \dt 24/Oct/2011
 
-\lx ɕo
+\lx _ɕo
 \wav vi-Co
 \ps vs
 \pdl dir 
@@ -43617,10 +43907,10 @@
 \xn 他把衣服洗干净了
 \dt 19/Sep/2011
 
-\lx ɕpaʁ
+\lx _ɕpaʁ
 \wav vi-CpaR
-\wav8 8_pjAkARe
-\wav8 8_amAYWsACpWCpaR
+\wav8 pjAkARe
+\wav8 amAYWsACpWCpaR
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -43637,7 +43927,7 @@
 \xn 我喝茶，免得渴着自己
 \dt 22/Apr/2013
 
-\lx ɕphɤt
+\lx _ɕphɤt
 \wav vt-CphAt
 \ps vt
 \pdl dir 
@@ -43665,7 +43955,7 @@
 \cf tɤ-ɕphɤt
 \dt 23/Jun/2013
 
-\lx ɕphɣo
+\lx _ɕphɣo
 \ps vt
 \ng caus
 \pdl dir 
@@ -43693,7 +43983,7 @@
 \xn 我逃命了
 \dt 13/Jul/2016
 
-\lx ɕpɯt
+\lx _ɕpɯt
 \ps vt
 \wav vt-CpWt
 \sn 1
@@ -43710,6 +44000,7 @@
 \gn 收养
 \hbf 1397
 \xv thɯ-ɕpɯt-a, kɤ-ɕpɯt, kɤ-tɯ-ɕpɯt, ɯʑo kɯ ka-ɕpɯt
+\xn 我收养了，你收养了，他收养了
 \xv kɤ-ɕpɯt sɤcha
 \xn 可以养
 \xv χpɤltɕin kɯ @wugui ka-ɕpɯt
@@ -43720,9 +44011,9 @@
 \xn 养家畜跟养野生动物难度不同，养家畜容易，养野生动物难。
 \dt 10/Oct/2010
 
-\lx ɕqhlɤt
+\lx _ɕqhlɤt
 \wav vi-CqhlAt
-\wav8 8_CqhlAt
+\wav8 CqhlAt
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -43762,10 +44053,10 @@
 \xn 他走下去，走下去，最后不见了踪影
 \dt 04/Aug/2012
 
-\lx ɕqraʁ
+\lx _ɕqraʁ
 \wav vi-CqraR
-\wav8 8_nACqraR
-\wav8 8_asWCqrWCqraR
+\wav8 nACqraR
+\wav8 asWCqrWCqraR
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -43800,7 +44091,7 @@
 \cf znɤɕqɯɕqraʁ
 \dt 02/Sep/2015
 
-\lx ɕri
+\lx _ɕri
 \hm 1
 \ps vs
 \ge avoir une fuite
@@ -43814,9 +44105,9 @@
 \cf aɕoʁri
 \dt 13/Feb/2014
 
-\lx ɕri
+\lx _ɕri
 \hm 2
-\wav8 8_pWCrita
+\wav8 pWCrita
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -43828,7 +44119,7 @@
 \xn 我缝了马鞍的垫子
 \dt 20/Dec/2012
 
-\lx ɕte
+\lx _ɕte
 \wav vt-Cte3
 \ps vt
 \pdl dir 
@@ -43845,7 +44136,7 @@
 \xv a-tɕhomba ɣɤʑu tɕe, ɲɤ-ɕte-t-a
 \xn 我感冒了，传染给他（传染给你了）
 \se aɕtɯɕte
-\wav8 8_YAkACtWtCenWci
+\wav8 YAkACtWtCenWci
 \ps vi
 \ge se contaminer les uns les autres
 \gn 互相传染
@@ -43859,7 +44150,7 @@
 \xn 这种病容易传染，要注意
 \dt 14/Jul/2016
 
-\lx ɕthɯz
+\lx _ɕthɯz
 \wav vt-CthWz
 \ps vt
 \sn 1
@@ -43887,7 +44178,7 @@
 \cf ʑɣɤɕthɯz
 \dt 30/Oct/2014
 
-\lx ɕtʂat
+\lx _ɕtʂat
 \wav vt-Ctsxat
 \wav vt-Ctsxat2
 \ps vt
@@ -43926,7 +44217,7 @@
 \xn 我这几天要节省自己的体力，因为身体不行
 \dt 30/Aug/2015
 
-\lx ɕtʂo
+\lx _ɕtʂo
 \wav vt-Ctsxo
 \ps vt
 \sn 1
@@ -43955,7 +44246,7 @@
 \xn 我给他们量东西
 \dt 30/Apr/2014
 
-\lx ɕtʂɯ
+\lx _ɕtʂɯ
 \ps vt
 \wav vt-CtsxW
 \pdl dir 
@@ -43983,7 +44274,7 @@
 \xn 我把东西寄存起来了
 \dt 30/Apr/2014
 
-\lx ɕur
+\lx _ɕur
 \wav vt-Cur
 \ps vi
 \pdl dir 
@@ -44008,17 +44299,17 @@
 \gn 让人交罚款
 \dt 18/May/2014
 
-\lx ɕɯfka
+\lx _ɕɯfka
 \wav vt-CWfka
 \cf fka1
 \dt 06/Jun/2011
 
-\lx ɕɯfkaβ
+\lx _ɕɯfkaβ
 \ps vt
 \cf fkaβ
 \dt 10/Oct/2010
 
-\lx ɕɯftaʁ
+\lx _ɕɯftaʁ
 \wav vt-CWftaR
 \wav vt-CWftaR2
 \ps vt
@@ -44051,7 +44342,7 @@
 \an nɯɣɯjmɯt
 \dt 19/Jul/2016
 
-\lx ɕɯftɯɣ
+\lx _ɕɯftɯɣ
 \wav vt-CWftWG
 \ps vt
 \pdl dir 
@@ -44072,7 +44363,7 @@
 \cf ftɯɣ
 \dt 24/Aug/2015
 
-\lx ɕɯɣmu
+\lx _ɕɯɣmu
 \ps vt 
 \ng caus
 \pdl dir 
@@ -44100,7 +44391,7 @@
 \cf mu1
 \dt 29/Aug/2015
 
-\lx ɕɯm
+\lx _ɕɯm
 \wav vt-CWm
 \ps vt 
 \pdl dir 
@@ -44120,7 +44411,7 @@
 \xn 母鸡把蛋孵出来了
 \dt 06/Jun/2011
 
-\lx ɕɯmbɣom
+\lx _ɕɯmbɣom
 \wav vt-CWmbGom
 \ps vt
 \pdl dir 
@@ -44143,7 +44434,7 @@
 \gn 赶紧……
 \dt 11/Jan/2017
 
-\lx ɕɯmnɤm
+\lx _ɕɯmnɤm
 \wav vt-CWmnAm
 \ps vt
 \ng caus
@@ -44161,7 +44452,7 @@
 \cf nɤmnɤm
 \dt 13/Jul/2016
 
-\lx ɕɯmŋɤm
+\lx _ɕɯmŋɤm
 \wav vt-CWmNGAm
 \ps vt
 \ng caus
@@ -44176,9 +44467,9 @@
 \cf mŋɤm
 \dt 17/Aug/2012
 
-\lx ɕɯmthu
+\lx _ɕɯmthu
 \wav vt-CWmthu
-\wav8 8_nAtWCWmthu
+\wav8 nAtWCWmthu
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -44199,7 +44490,7 @@
 \cf thu1
 \dt 26/Aug/2013
 
-\lx ɕɯngo
+\lx _ɕɯngo
 \wav vt-CWngo
 \ps vt
 \ng caus
@@ -44214,7 +44505,7 @@
 \cf ngo
 \dt 28/Apr/2014
 
-\lx ɕɯnŋo
+\lx _ɕɯnŋo
 \wav vt-CWnNo
 \wav vt-CWnNo2
 \ps vt
@@ -44252,19 +44543,19 @@
 \cf nŋo
 \dt 28/Dec/2014
 
-\lx ɕɯntaβ
+\lx _ɕɯntaβ
 \cf ntaβ
 \dt 23/Oct/2011
 
-\lx ɕɯŋgɯ
+\lx _ɕɯŋgɯ
 \hm 2
 \cf tɤ-mbrɯ,ŋgɯ
 
-\lx ɕɯŋke
+\lx _ɕɯŋke
 \cf ŋke
 \dt 09/May/2013
 
-\lx ɕɯɴqoʁ
+\lx _ɕɯɴqoʁ
 \wav vt-CWNqoR
 \ps vt
 \ng caus
@@ -44296,11 +44587,11 @@
 \xn 小孩子把自己挂上去了，在那里吊着玩
 \dt 25/Mar/2013
 
-\lx ɕɯphɣo
+\lx _ɕɯphɣo
 \cf phɣo
 \dt 26/Aug/2015
 
-\lx ɕɯrga
+\lx _ɕɯrga
 \wav vt-CWrga
 \wav vt-CWrga2
 \ps vt
@@ -44331,7 +44622,7 @@
 \xn 他买到了他想买的东西，很开心
 \dt 15/Jan/2015
 
-\lx ɕɯrŋgɯ
+\lx _ɕɯrŋgɯ
 \wav vt-CWrNgW
 \ps vt
 \ng caus
@@ -44352,7 +44643,7 @@
 \cf rŋgɯ1
 \dt 06/Jun/2011
 
-\lx ɕɯrŋo
+\lx _ɕɯrŋo
 \ps vt
 \ng caus
 \pdl dir 
@@ -44366,7 +44657,17 @@
 \cf znɤŋgɯ
 \dt 09/Dec/2012
 
-\lx dɤlie
+\lx _ɕɯʁno
+\ps vt
+\pdl dir
+\pdv kɤ-
+\ge accuser à tort
+\gn 冤枉
+\xv ma-kɤ-kɯ-ɕɯʁno-a!
+\xn 你不要冤枉我！
+\dt 03/Sep/2017
+
+\lx _dɤlie
 \ps vi
 \ge bienvenue 
 \gn 欢迎光临，快回家（我们在等着你）
@@ -44374,9 +44675,9 @@
 \xn 你们俩快回家
 \dt 27/Aug/2015
 
-\lx dɤn
+\lx _dɤn
 \wav vi-dAn
-\wav8 8_kWdAn
+\wav8 kWdAn
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -44400,7 +44701,7 @@
 \gn 觉得很多
 \dt 13/Jul/2014
 
-\lx do
+\lx _do
 \wav vi-do
 \ps vs
 \pdl dir 
@@ -44412,7 +44713,7 @@
 \xn 白瓜老了（可以吃了）
 \dt 03/Sep/2015
 
-\lx dɯɣ
+\lx _dɯɣ
 \wav vi-dWG
 \ps vi
 \pdl dir 
@@ -44437,6 +44738,7 @@
 \ge énerver, fatiguer
 \gn 令人不耐烦；厌倦
 \xv nɤ-kɤ-ti ɯ-tɯ-dɤn kɯ ɲɯ-kɯ-sɯɣdɯɣ-a
+\xn 你讲得太多，让我不耐烦了
 \xv nɤ-kɤ-rɯrawa ɯ-tɯ-dɤn kɯ ɲɯ-kɯ-sɯɣdɯɣ-a
 \xn 你要求得太多，让我不耐烦了
 \se sɤɣdɯɣ
@@ -44447,17 +44749,21 @@
 \cf nɤsɤɣdɯɣ
 \dt 25/Aug/2012
 
-\lx dɯxpa
+\lx _dɯxpa
 \ps vs
-\ge pitoyable, pauvre
-\gn 可怜
-\xv dɯxpa-j ɣɤʑu
-\xn 我们很可怜
-\xv dɯxpa ɣɤʑu-j
-\xn 我们很可怜
-\dt 24/Aug/2015
+\sn 1
+\ge pauvre de ...
+\gn 可怜；倒霉
+\xv tɕiʑo ndɤ dɯxpa-tɕi nɤ!
+\xn 我们俩很倒霉！
+\sn 2
+\ge avoir pris la peine de faire
+\gn 让……费心；……辛苦了
+\xv dɯxpa ma nɯ ɯ-pɤro ra jo-ɣɯt
+\xn 让他费心了，带来了礼物
+\dt 03/Sep/2017
 
-\lx fɕaʁ
+\lx _fɕaʁ
 \hm 1
 \wav vi-fCaR
 \wav vt-fCaR4
@@ -44475,7 +44781,7 @@
 \xn 我没有东西来赔偿
 \dt 14/Jul/2016
 
-\lx fɕaʁ
+\lx _fɕaʁ
 \hm 2
 \ps vs
 \ge être suffisant, satisfaisant
@@ -44489,7 +44795,7 @@
 \xn 不但要有种子，也要有肥料，不然庄稼不会长好
 \dt 07/Sep/2015
 
-\lx fɕɤl
+\lx _fɕɤl
 \wav vi-fCAl
 \ps vi
 \pdl dir 
@@ -44514,7 +44820,7 @@
 \cf nɯtɯfɕɤl
 \dt 08/Jul/2016
 
-\lx fɕɤm
+\lx _fɕɤm
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -44528,7 +44834,7 @@
 \sy ɕkho
 \dt 26/Aug/2012
 
-\lx fɕɤt
+\lx _fɕɤt
 \hm 1
 \wav vt-fCAt
 \ps vt
@@ -44559,6 +44865,8 @@
 \gn 表演（舞蹈）
 \xv a-tɯrɟaʁ ci kɤ-fɕɤt
 \xn 她为我表演了舞蹈
+\cf fɕafɕɤt
+\cf tɯfɕɤt
 \se rɤfɕɤt
 \ps vi
 \ng apass
@@ -44595,7 +44903,7 @@
 \gn 实际上；说白了；
 \dt 18/Jul/2016
 
-\lx fɕɤt
+\lx _fɕɤt
 \hm 2
 \wav vi-fCAt
 \ps vi
@@ -44615,17 +44923,7 @@
 \xn 当然可以！（满口答应）
 \dt 08/Jul/2016
 
-\lx fɕɤtpa
-\wav n-fCAtpa
-\ps n
-\ge fanfaronnade
-\gn 大话
-\xv fɕɤtpa khro ma-pɯ-tɯ-lɤt, ɯ-ma nɯ tɤ-nɤme
-\xv fɕɤtpa ɯ-tshɤt pɯ-lɤt tɕe ɯ-ma nɯ tɤ-nɤme
-\xn 少说大话，多办实事
-\dt 03/Aug/2012
-
-\lx fɕi
+\lx _fɕi
 \wav vt-fCi
 \ps vl
 \pdl dir 
@@ -44645,7 +44943,7 @@
 \cf rɤlɤt
 \dt 11/Aug/2016
 
-\lx fɕur
+\lx _fɕur
 \wav vt-fCur
 \ps vt
 \pdl dir 
@@ -44664,7 +44962,7 @@
 \xn 你过滤我们的茶吧
 \dt 09/May/2013
 
-\lx fɕɯɣ
+\lx _fɕɯɣ
 \wav vt-fCWG
 \ps vt
 \sn 1
@@ -44697,7 +44995,7 @@
 \sy qia
 \dt 09/May/2013
 
-\lx fka
+\lx _fka
 \hm 1
 \wav vi-fka
 \wav vi-ZGACWfka2
@@ -44766,9 +45064,9 @@
 \xn 吃糌粑容易吃饱
 \dt 21/Jul/2016
 
-\lx fkaβ
+\lx _fkaβ
 \wav vt-fkaB
-\wav8 8_chWfkaBjamar
+\wav8 chWfkaBjamar
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -44811,7 +45109,7 @@
 \xn 我用锅盖盖了锅子
 \dt 05/Dec/2012
 
-\lx fkɤn
+\lx _fkɤn
 \wav vi-fkAn
 \ps vs
 \sn 1
@@ -44827,7 +45125,7 @@
 \cf rkɤl
 \dt 30/Aug/2015
 
-\lx fkot
+\lx _fkot
 \wav vt-fkot
 \ps vt
 \pdl dir 
@@ -44849,7 +45147,7 @@
 \xn 他做了善事
 \dt 12/Jun/2012
 
-\lx fkra
+\lx _fkra
 \wav vi-fkra
 \ps vs
 \pdl dir 
@@ -44863,7 +45161,7 @@
 \xn 豹子皮子彩色斑斓
 \dt 27/Sep/2011
 
-\lx fkri
+\lx _fkri
 \wav vt-fkri
 \ps vt
 \pdl dir 
@@ -44884,10 +45182,10 @@
 \xn 我放了盐
 \dt 16/May/2014
 
-\lx fkro
+\lx _fkro
 \a fkrɤm
 \wav vt-fkro
-\wav8 8_nWBzdAr_pjWfkrama
+\wav8 nWBzdAr_pjWfkrama
 \ps vt
 \pdl dir 
 \pdv _
@@ -44900,7 +45198,7 @@
 \xn 我把酥油分给大家
 \dt 26/Aug/2012
 
-\lx fkrɯz
+\lx _fkrɯz
 \wav vi-fkrWz
 \ps vs
 \pdl dir 
@@ -44920,7 +45218,7 @@
 \xn 我引发你的食欲
 \dt 11/Aug/2012
 
-\lx fkur
+\lx _fkur
 \wav vt-fkur
 \ps vt
 \pdl dir 
@@ -44941,8 +45239,8 @@
 \gn 背来背去
 \dt 04/Aug/2014
 
-\lx fkɯm
-\wav8 8_fkWm
+\lx _fkɯm
+\wav8 fkWm
 \ps vi
 \ge qui peut contenir (un liquide)
 \gn 不漏水，能够装水
@@ -44952,13 +45250,13 @@
 \xn 有个洞，不能装水否则会漏
 \dt 24/Apr/2013
 
-\lx frtɤn
+\lx _frtɤn
 \wav vi-frtAn
 \ps vs
 \pdl dir 
 \pdv tɤ-
-\ge fiable 
-\gn 可靠 
+\ge fiable
+\gn 可靠；耿直
 \hbf 1101 
 \et brtan
 \xv tɯrme ɲɯ-frtɤn
@@ -44966,14 +45264,14 @@
 \sy fkɤn
 \dt 27/Sep/2011
 
-\lx fsɤl
+\lx _fsɤl
 \ps vt
 \xv ji-kɯjŋu nɯ ɲɯ-fsal-a ɲɯ-sɯsam-a
 \xn 我要兑现我们的誓言
 \et bsal
 \dt 04/Jul/2016
 
-\lx fse
+\lx _fse
 \hm 1
 \ps vs
 \pdl dir 
@@ -45017,7 +45315,7 @@
 \cf nɯfse2
 \dt 09/Sep/2015
 
-\lx fse
+\lx _fse
 \hm 2
 \wav vt-fse
 \wav vt-fse2
@@ -45059,7 +45357,7 @@
 \xn 他搓了搓手
 \dt 25/Dec/2012
 
-\lx fskɤr
+\lx _fskɤr
 \wav vt-fskAr
 \ps vt
 \pdl dir 
@@ -45086,10 +45384,10 @@
 \cf tɯ-tɤfskɤr
 \dt 01/Jan/2015
 
-\lx fsoʁ
+\lx _fsoʁ
 \hm 1
 \wav vt-fsoR
-\wav8 8_rJW_fsoR
+\wav8 rJW_fsoR
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -45115,10 +45413,10 @@
 \xn 他很会挣钱
 \dt 15/Jan/2015
 
-\lx fsoʁ
+\lx _fsoʁ
 \hm 2
 \wav vi-fsoR2
-\wav8 8_fsoR
+\wav8 fsoR
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -45155,7 +45453,7 @@
 \an qanɯ
 \dt 17/Jul/2016
 
-\lx fsraŋ
+\lx _fsraŋ
 \a fsroŋ
 \wav vt-fsroN
 \ps vt
@@ -45188,7 +45486,7 @@
 \ge se protéger
 \gn 保护自己
 
-\lx fstɤt
+\lx _fstɤt
 \wav vt-fstAt
 \ps vt
 \pdl dir 
@@ -45206,7 +45504,7 @@
 \sy ɣɤmɯ
 \dt 08/Jul/2016
 
-\lx fstɯn
+\lx _fstɯn
 \ps vt
 \pdl dir 
 \pdv kɤ-
@@ -45225,7 +45523,7 @@
 \ge s'occuper de soi-même
 \gn 照顾自己
 \se sɤfstɯn
-\wav8 8_sAfstWn
+\wav8 sAfstWn
 \ps vi
 \pdl dir 
 \pdv kɤ-
@@ -45236,7 +45534,7 @@
 \xn 你是怎么伺候人家的呢？
 \dt 15/Oct/2013
 
-\lx fsɯɣ
+\lx _fsɯɣ
 \wav vt-fsWG
 \ps vt 
 \pdl dir 
@@ -45262,7 +45560,7 @@
 \sy ɕɣɤz
 \dt 20/Aug/2014
 
-\lx fsɯr
+\lx _fsɯr
 \wav vi-fsWr
 \wav vi-fsWr2
 \ps vs
@@ -45277,7 +45575,7 @@
 \xn 你总是吃这么多肉，还是那么馋嘴、
 \dt 18/Jul/2016
 
-\lx fsɯz
+\lx _fsɯz
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -45291,7 +45589,7 @@
 \xn 只要他有机会，他不但会拿自己的东西，也会拿别人的
 \dt 15/May/2014
 
-\lx ftɕa
+\lx _ftɕa
 \wav vt-ftCa
 \ps vt
 \pdl dir 
@@ -45305,7 +45603,7 @@
 \sy aro
 \dt 07/Aug/2012
 
-\lx ftɕaʁ
+\lx _ftɕaʁ
 \ps vt
 \pdl dir
 \pdv pɯ-
@@ -45319,8 +45617,8 @@
 \xv ma-ɕɯ-tɯ-sɤftɕaʁ
 \xn 你不要做老鼠屎
 
-\lx ftɕɤl
-\wav8 8_ftCAl
+\lx _ftɕɤl
+\wav8 ftCAl
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -45342,7 +45640,7 @@
 \sy sqɤr
 \dt 26/Aug/2012
 
-\lx ftɕɤt
+\lx _ftɕɤt
 \wav vt-ftCAt
 \wav vt-ftCAt2
 \ps vt
@@ -45369,7 +45667,7 @@
 \sy ftɯl2
 \dt 07/Jul/2016
 
-\lx ftɕɤz
+\lx _ftɕɤz
 \wav vt-ftCAz
 \wav vt-ftCAz2
 \ps vt
@@ -45394,7 +45692,7 @@
 \sy ɣɤβdi
 \dt 20/Oct/2012
 
-\lx ftɕhur
+\lx _ftɕhur
 \wav vt-ftChur
 \wav vt-ftChur2
 \wav vt-ftChur3
@@ -45433,7 +45731,7 @@
 \sy znɯndzɯ
 \dt 15/Jul/2016
 
-\lx ftɕit
+\lx _ftɕit
 \ps vt
 \pdl dir
 \pdv pɯ-
@@ -45447,8 +45745,8 @@
 \gn 霸占
 \dt 02/Sep/2015
 
-\lx ftɕɯm
-\wav8 8_ftCWm
+\lx _ftɕɯm
+\wav8 ftCWm
 \ps vt
 \sn 1
 \ge digérer
@@ -45469,7 +45767,7 @@
 \xn 药量过多，我吸收不了
 \dt 13/Jul/2016
 
-\lx ftɕɯt
+\lx _ftɕɯt
 \ps vt
 \pdl dir
 \pdv pɯ-
@@ -45485,7 +45783,7 @@
 \xn 你拿着门的钥匙来掌管（这个房间）
 \dt 13/Jul/2016
 
-\lx fte
+\lx _fte
 \ps vs
 \pdl dir
 \pdv nɯ-
@@ -45501,7 +45799,7 @@
 \xn 他衣服穿了很久，都褪色了
 \dt 15/Jul/2016
 
-\lx ftsɤn
+\lx _ftsɤn
 \wav vi-ftsAn
 \ps vs
 \ge sévère
@@ -45518,7 +45816,7 @@
 \sy rkɤl
 \dt 18/Jul/2016
 
-\lx ftshi
+\lx _ftshi
 \wav vi-ftshi
 \ps vs
 \pdl dir 
@@ -45557,7 +45855,7 @@
 \xv smɤn nɯ kɯ a-kɯ-mŋɤm to-ɣɤftshi pjɤ-cha
 \xn 服了药我的病减轻了许多
 
-\lx ftsɯɣ
+\lx _ftsɯɣ
 \wav vt-ftsWG
 \ps vt
 \sn 1
@@ -45585,7 +45883,7 @@
 \et btsug
 \dt 20/May/2013
 
-\lx ftsɯr
+\lx _ftsɯr
 \wav vt-ftsWr
 \ps vt
 \pdl dir 
@@ -45607,7 +45905,7 @@
 \et btsir
 \dt 06/Jun/2011
 
-\lx ftʂi
+\lx _ftʂi
 \wav vt-ftsxi
 \ps vt
 \pdl dir 
@@ -45627,7 +45925,7 @@
 \cf ndʐi
 \dt 06/Jun/2011
 
-\lx ftɯɣ
+\lx _ftɯɣ
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -45638,7 +45936,7 @@
 \cf ɕɯftɯɣ
 \dt 01/Sep/2012
 
-\lx ftɯl
+\lx _ftɯl
 \hm 1
 \wav vt-ftWl
 \ps vt
@@ -45661,7 +45959,7 @@
 \cf ndɯl1
 \dt 07/Jul/2016
 
-\lx ftɯl
+\lx _ftɯl
 \hm 2
 \wav vi-ftWl
 \ps vi
@@ -45676,7 +45974,7 @@
 \xn 这些食物不要吃太多，不然就没有办法消化
 \dt 24/Oct/2011
 
-\lx ɣar
+\lx _ɣar
 \wav vi-Gar
 \ps vi
 \pdl dir 
@@ -45700,22 +45998,22 @@
 \gn 到野地去生活
 \dt 04/Aug/2013
 
-\lx ɣɤbɤbɤβ
+\lx _ɣɤbɤbɤβ
 \cf bɤbɤβ
 \dt 01/Nov/2011
 
-\lx ɣɤbɤβlɤβ
+\lx _ɣɤbɤβlɤβ
 \ps vi
 \ge parler de façon grossière et incompréhensible
 \gn 胡言乱语；语气粗大，说别人听不懂的话
 \dt 04/Jul/2016
 
-\lx ɣɤβdi
+\lx _ɣɤβdi
 \ng caus
 \ps vt
 \wav vt-GABdi
-\wav8 8_kAGABdi
-\wav8 8_GABdi-def
+\wav8 kAGABdi
+\wav8 GABdi-def
 \pdl dir 
 \sn 2
 \pdv tɤ-
@@ -45764,7 +46062,7 @@
 \xv nɤ-laχtɕha ra tɤ-rɤwum tɕe ɯ-rtsɯɣ ra tɤ-ɣɤβdoʁβdi 
 \xn 把你的东西收拾一下，把它们堆整齐
 \se ʑɣɤɣɤβdi
-\wav8 8_ZGAGABdi
+\wav8 ZGAGABdi
 \ps vi
 \ng refl
 \ng caus
@@ -45774,13 +46072,13 @@
 \xn 不能令自己好受一些（因为太痛）
 \dt 20/Jan/2015
 
-\lx ɣɤβdoʁβdi
+\lx _ɣɤβdoʁβdi
 \cf ɣɤβdi
 \dt 15/Dec/2012
 
-\lx ɣɤβlo
+\lx _ɣɤβlo
 \wav vi-GABlo
-\wav8 8_zGABlo
+\wav8 zGABlo
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -45801,7 +46099,7 @@
 \an ɣɤji
 \dt 22/Feb/2014
 
-\lx ɣɤβloʁβle
+\lx _ɣɤβloʁβle
 \a ɣɤβlɯβle
 \wav vi-GABlWBle
 \ps vs
@@ -45812,9 +46110,9 @@
 \hbf 1113
 \dt 29/May/2013
 
-\lx ɣɤβlɯβlɯɣ
+\lx _ɣɤβlɯβlɯɣ
 \wav vi-GABlWBlWG
-\wav8 8_GABlWBlWG
+\wav8 GABlWBlWG
 \ps vi
 \ng deidph
 \pdl dir 
@@ -45835,18 +46133,18 @@
 \cf βlɯɣnɤβlɯɣ
 \dt 09/Nov/2013
 
-\lx ɣɤβzaʁlaʁ
+\lx _ɣɤβzaʁlaʁ
 \ps vi
-\ge parler /se comporter sans se soucier de la situation
-\gn 说话、动作不严谨（随便开口，不分场合）
+\ge parler / se comporter de façon frivole
+\gn 轻佻；说话、动作不严谨
 \cf βzaʁlu
 \dt 11/Jul/2016
 
-\lx ɣɤβzi
+\lx _ɣɤβzi
 \cf βzi
 \dt 12/Jul/2013
 
-\lx ɣɤcaʁcaʁ
+\lx _ɣɤcaʁcaʁ
 \wav vi-GAcaRcaR
 \ps vi
 \pdl dir 
@@ -45865,7 +46163,7 @@
 \xn 刚才那个（人）爱多嘴乱说
 \dt 12/Oct/2010
 
-\lx ɣɤcɤtcɤt
+\lx _ɣɤcɤtcɤt
 \wav vi-GAcAtcAt
 \ps vi
 \pdl dir 
@@ -45881,13 +46179,13 @@
 \xv ɣɤcɤtcat-a
 \xn 我不停地插嘴
 
-\lx ɣɤchi
+\lx _ɣɤchi
 \cf chi
 \dt 26/Sep/2011
 
-\lx ɣɤchrɤβchrɤβ
+\lx _ɣɤchrɤβchrɤβ
 \wav vi-GAchrABchrAB2
-\wav8 8_GAchrABchrAB
+\wav8 GAchrABchrAB
 \ps vi
 \sn 1
 \ge avoir la gorge enrouée
@@ -45921,11 +46219,11 @@
 \cf chrɤβchrɤβ
 \dt 17/Jul/2016
 
-\lx ɣɤchrɤβlɤβ
+\lx _ɣɤchrɤβlɤβ
 \cf ɣɤchrɤβchrɤβ
 \dt 29/Sep/2011
 
-\lx ɣɤchɯchrɯɣ
+\lx _ɣɤchɯchrɯɣ
 \a ɣɤchrɯɣchrɯɣ
 \wav vi-GAchrWGchrWG
 \ps vs
@@ -45937,9 +46235,9 @@
 \xn （口袋里装了核桃），我背起时，（核桃）相碰撞发出的声音
 \dt 29/May/2013
 
-\lx ɣɤcraŋlaŋ
+\lx _ɣɤcraŋlaŋ
 \wav vi-GAcraNlaN
-\wav8 8_GAcraNlaN
+\wav8 GAcraNlaN
 \ps vi
 \ge crier très fort
 \gn 高声喧哗；大声地叫
@@ -45962,10 +46260,10 @@
 \xn 他把玻璃砸碎了
 \dt 18/Jul/2016
 
-\lx ɣɤcrɯɣlɯɣ
+\lx _ɣɤcrɯɣlɯɣ
 \cf crɯɣcrɯɣ
 
-\lx ɣɤcɯqhlɯβ
+\lx _ɣɤcɯqhlɯβ
 \ps vs
 \pdl dir
 \pdv nɯ-
@@ -45982,7 +46280,7 @@
 \xn 洗衣服的时候要多晃几下就洗得干净
 \dt 01/Jul/2016
 
-\lx ɣɤɕaʁɕaʁ
+\lx _ɣɤɕaʁɕaʁ
 \wav vi-GACaRCaR-b
 \ps vs
 \ge très amer 
@@ -45993,7 +46291,7 @@
 \xn 药非常苦
 \dt 27/Sep/2011
 
-\lx ɣɤɕe
+\lx _ɣɤɕe
 \ps vi
 \ge qui va vite (temps)
 \gn 过得快（时间）；走得早
@@ -46008,7 +46306,7 @@
 \xn 我觉得时间过得很慢
 \dt 28/Apr/2014
 
-\lx ɣɤɕkɤɣɕkɤɣ
+\lx _ɣɤɕkɤɣɕkɤɣ
 \wav vi-GACkAGCkAG
 \ps vi
 \ng deidph
@@ -46042,26 +46340,26 @@
 \cf ɕkɤɣnɤɕkɤɣ
 \dt 18/Jul/2016
 
-\lx ɣɤɕkɤɣlɤɣ
+\lx _ɣɤɕkɤɣlɤɣ
 \cf ɣɤɕkɤɣɕkɤɣ
 \dt 02/Nov/2011
 
-\lx ɣɤɕnɯɣlɯɣ
+\lx _ɣɤɕnɯɣlɯɣ
 \cf ɕnɯɣnɤlɯɣ
 \dt 17/Nov/2011
 
-\lx ɣɤɕŋaʁɕŋaʁ
+\lx _ɣɤɕŋaʁɕŋaʁ
 \cf ɕŋaʁɕŋaʁ2
 \dt 16/Nov/2011
 
-\lx ɣɤɕo
+\lx _ɣɤɕo
 \cf ɕo
 \dt 19/Sep/2011
 
-\lx ɣɤɕpɤɕpɤr
+\lx _ɣɤɕpɤɕpɤr
 \wav vi-GACpACpAr
 \wav vi-GACpArlAr
-\wav8 8_GACpArlAr
+\wav8 GACpArlAr
 \ps vi
 \ge émettre un bruit fort
 \gn 乱叫
@@ -46084,11 +46382,11 @@
 \cf ɕpɤrnɤlɤr
 \dt 07/Nov/2011
 
-\lx ɣɤɕpɤrlɤr
+\lx _ɣɤɕpɤrlɤr
 \cf ɣɤɕpɤɕpɤr
 \dt 01/Oct/2011
 
-\lx ɣɤɕphɤβlɤβ
+\lx _ɣɤɕphɤβlɤβ
 \wav ideo-GACphABlAB
 \ps vi
 \ge faire du bruit (battement d'aile)
@@ -46101,7 +46399,7 @@
 \xn 他在抖衣服，发出声音
 \dt 07/Nov/2011
 
-\lx ɣɤɕphɤr
+\lx _ɣɤɕphɤr
 \wav vi-GACphAr
 \ps vi
 \pdl dir 
@@ -46123,9 +46421,9 @@
 \sy nɯkhɤda
 \dt 19/Jul/2016
 
-\lx ɣɤɕqali
+\lx _ɣɤɕqali
 \wav vi-Cqali
-\wav8 8_GACqali
+\wav8 GACqali
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -46157,11 +46455,11 @@
 \xn 他打了小孩子，让他大叫了一声
 \dt 15/Jul/2016
 
-\lx ɣɤɕtʂaŋlaŋ
+\lx _ɣɤɕtʂaŋlaŋ
 \cf ɕtʂaŋɕtʂaŋ
 \dt 24/Nov/2011
 
-\lx ɣɤɕu
+\lx _ɣɤɕu
 \ps vi
 \sn 1
 \pdl dir
@@ -46183,7 +46481,7 @@
 \cf tɤɕu
 \dt 14/Jul/2016
 
-\lx ɣɤɕɯβɕɯβ
+\lx _ɣɤɕɯβɕɯβ
 \wav vi-GACWBCWB
 \ps vi
 \pdl dir 
@@ -46202,17 +46500,17 @@
 \xn 如果不想被别人听见，悄声说话就可以了
 \dt 11/Feb/2014
 
-\lx ɣɤɕɯftaʁ
+\lx _ɣɤɕɯftaʁ
 \cf ɕɯftaʁ
 \dt 22/Oct/2011
 
-\lx ɣɤɕɯŋɕɯŋ
+\lx _ɣɤɕɯŋɕɯŋ
 \cf ɕɯŋɕɯŋ
 \dt 21/Nov/2011
 
-\lx ɣɤdɤn
+\lx _ɣɤdɤn
 \wav vt-GAdAn
-\wav8 8_mWtaGAdAn
+\wav8 mWtaGAdAn
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -46234,10 +46532,10 @@
 \xn 话没有多说
 \dt 23/Oct/2011
 
-\lx ɣɤdi
+\lx _ɣɤdi
 \wav vi-GAdi2
 \wav vi-GAdi
-\wav8 8_zGAdi
+\wav8 zGAdi
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -46260,7 +46558,7 @@
 \cf tɤ-di
 \dt 04/Oct/2011
 
-\lx ɣɤdoŋdoŋ
+\lx _ɣɤdoŋdoŋ
 \wav vi-GAdoNdoN
 \ps vi
 \pdl dir 
@@ -46276,11 +46574,11 @@
 \xn 我把水倒进引水槽了（声音大，水多）
 \dt 18/Jul/2016
 
-\lx ɣɤdzaŋdzaŋ
+\lx _ɣɤdzaŋdzaŋ
 \cf dzaŋdzaŋ
 \dt 30/Oct/2011
 
-\lx ɣɤdzɯlɯt
+\lx _ɣɤdzɯlɯt
 \a _ɣɤdzɯlɯz
 \wav vi-GAdzWlW
 \ps vi
@@ -46307,7 +46605,7 @@
 \cf sɤdzɯlɯt
 \dt 22/Feb/2014
 
-\lx ɣɤdʑɯdʑaŋ
+\lx _ɣɤdʑɯdʑaŋ
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -46325,18 +46623,18 @@
 \xn 把长的树枝从高处任意地摔下来了
 \dt 04/Oct/2011
 
-\lx ɣɤfka
+\lx _ɣɤfka
 \cf fka1
 \dt 08/Jun/2011
 
-\lx ɣɤfsoʁ
+\lx _ɣɤfsoʁ
 \cf fsoʁ2
 \dt 30/Sep/2011
 
-\lx ɣɤftshi
+\lx _ɣɤftshi
 \cf ftshi
 
-\lx ɣɤglɤglɤɣ
+\lx _ɣɤglɤglɤɣ
 \wav vi-GAglAglAG
 \ps vi
 \ge bruyant
@@ -46346,7 +46644,7 @@
 \cf sɤglɤglɤɣ
 \dt 01/Nov/2013
 
-\lx ɣɤgo
+\lx _ɣɤgo
 \wav vi-GAgo
 \ps vs
 \ge naïf, honnête
@@ -46357,7 +46655,7 @@
 \xn 他这个人很老实，相信他会把事情做好
 \dt 18/Jul/2016
 
-\lx ɣɤgɯgɯɣ
+\lx _ɣɤgɯgɯɣ
 \wav vi-GAgWgWG
 \ps vi
 \pdl dir 
@@ -46370,7 +46668,7 @@
 \sy ɣɤŋgɯrŋgɯr
 \dt 03/Oct/2011
 
-\lx ɣɤɣɤjɣɤj
+\lx _ɣɤɣɤjɣɤj
 \ps vi
 \ge avoir la tête qui tourne, ne pas pouvoir tenir sur ses jambe
 \gn 不停的摇晃的感觉，脚都站不稳
@@ -46378,11 +46676,11 @@
 \ps vi
 \dt 04/Sep/2015
 
-\lx ɣɤɣɤjlɤj
+\lx _ɣɤɣɤjlɤj
 \cf ɣɤɣɤjɣɤj
 \dt 04/Sep/2015
 
-\lx ɣɤɣɤmbrɯ
+\lx _ɣɤɣɤmbrɯ
 \ps vs
 \ng facil
 \ge s'énerver facilement
@@ -46395,19 +46693,19 @@
 \cf sɤzmbrɯ
 \dt 02/Aug/2011
 
-\lx ɣɤɣɤtɕɯɣ
+\lx _ɣɤɣɤtɕɯɣ
 \cf ɣɤtɕɯɣ
 \dt 02/Oct/2011
 
-\lx ɣɤɣɤwu
+\lx _ɣɤɣɤwu
 \cf ɣɤwu
 \dt 06/May/2014
 
-\lx ɣɤɣi
+\lx _ɣɤɣi
 \cf ɣi
 \dt 13/Apr/2014
 
-\lx ɣɤɣɯrɣɯr
+\lx _ɣɤɣɯrɣɯr
 \wav vi-GAGWrGWr
 \wav vi-GAGWrGWr2
 \ps vi
@@ -46429,7 +46727,7 @@
 \ps vt
 \dt 03/Apr/2014
 
-\lx ɣɤjaŋri
+\lx _ɣɤjaŋri
 \ps vi
 \pdl dir
 \pdv pɯ-
@@ -46439,11 +46737,11 @@
 \xn 我在街上随便走动，没有买什么东西
 \dt 13/Jul/2016
 
-\lx ɣɤjaʁ
+\lx _ɣɤjaʁ
 \cf jaʁ
 \dt 14/Oct/2011
 
-\lx ɣɤjɤβjɤβ
+\lx _ɣɤjɤβjɤβ
 \wav vi-GAjABjAB
 \ps vi
 \pdl dir 
@@ -46458,14 +46756,14 @@
 \xn 小偷在乱摸
 \dt 14/May/2014
 
-\lx ɣɤjɤrjɤr
+\lx _ɣɤjɤrjɤr
 \cf jɤrjɤr
 \dt 01/Jul/2016
 
-\lx ɣɤji
+\lx _ɣɤji
 \wav vi-GAji
 \wav vi-GAji2
-\wav8 8_zGAji
+\wav8 zGAji
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -46492,7 +46790,7 @@
 \xn 他们在工作，我去帮忙，令他们工作得更快
 \dt 03/May/2014
 
-\lx ɣɤjka
+\lx _ɣɤjka
 \wav vi-GAjka
 \ps vi
 \ge bégayer 
@@ -46504,7 +46802,7 @@
 \xn 他说话结巴
 \dt 02/Oct/2011
 
-\lx ɣɤjlu
+\lx _ɣɤjlu
 \wav vi-GAjlu
 \ps vs
 \ng denom
@@ -46521,7 +46819,7 @@
 \cf tɤjlu
 \dt 22/Aug/2012
 
-\lx ɣɤjmŋo
+\lx _ɣɤjmŋo
 \wav vt-GAjmNo
 \ps vt
 \ng denom
@@ -46547,12 +46845,12 @@
 \cf tɯ-jmŋo
 \dt 08/Nov/2013
 
-\lx ɣɤjmɯt
+\lx _ɣɤjmɯt
 \cf jmɯt
 \dt 02/Oct/2011
 
-\lx ɣɤjom
-\wav8 8_Gajom
+\lx _ɣɤjom
+\wav8 Gajom
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -46565,11 +46863,11 @@
 \cf jom
 \dt 24/Aug/2012
 
-\lx ɣɤjpum
+\lx _ɣɤjpum
 \cf jpum
 \dt 01/Nov/2011
 
-\lx ɣɤjqaʁ
+\lx _ɣɤjqaʁ
 \wav vt-GAjqaR
 \ps vt
 \pdl dir 
@@ -46586,7 +46884,7 @@
 \xn 一旦灾难来了就无法摆脱
 \dt 22/Mar/2014
 
-\lx ɣɤjru
+\lx _ɣɤjru
 \wav vi-GAjru
 \ps vs
 \pdl dir 
@@ -46601,13 +46899,13 @@
 \an ɣɯlaj
 \dt 18/Jul/2016
 
-\lx ɣɤjtɯ
+\lx _ɣɤjtɯ
 \cf ajtɯ
 \dt 19/Aug/2012
 
-\lx ɣɤjɯ
+\lx _ɣɤjɯ
 \wav vt-GAjW
-\wav8 8_GAjW2
+\wav8 GAjW2
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -46632,7 +46930,7 @@
 \xn 我已经充了电，坐下来了，我在等你
 \dt 24/Jun/2011
 
-\lx ɣɤjwaʁ
+\lx _ɣɤjwaʁ
 \wav vi-GAjwaR
 \ps vs
 \pdl dir 
@@ -46645,7 +46943,7 @@
 \cf rɤjwaʁ
 \dt 04/Aug/2012
 
-\lx ɣɤjwɤrlɤr
+\lx _ɣɤjwɤrlɤr
 \ps vi
 \ge être secoué
 \gn 摇晃；摇摆不稳
@@ -46657,7 +46955,7 @@
 \xn 碗不要摇，会（把水）倒出来
 \dt 09/Oct/2015
 
-\lx ɣɤɟaʁ
+\lx _ɣɤɟaʁ
 \wav vt-GAJaR
 \ps vt
 \pdl dir 
@@ -46675,7 +46973,7 @@
 \xn 小孩子被哄就高兴
 \dt 21/Nov/2010
 
-\lx ɣɤɟɯɣɟɯɣ
+\lx _ɣɤɟɯɣɟɯɣ
 \wav vi-GAJWGJWG
 \wav vi-GAYWGYWG
 \ps vi 
@@ -46689,7 +46987,7 @@
 \xn 他笑着（不发出声音、全身发抖）
 \se sɤɟɯɣɟɯɣ
 \wav vt-sAYWGYWG
-\wav8 8_sAJWGJWG
+\wav8 sAJWGJWG
 \ps vt
 \ge se tourner dans tous les sens
 \gn 扭动
@@ -46703,13 +47001,13 @@
 \xn 我把青稞装在口袋里，装不下，抖动了一下就装得下了
 \dt 05/Nov/2013
 
-\lx ɣɤɟɯɣlɯɣ
+\lx _ɣɤɟɯɣlɯɣ
 \ps vi
 \ge se tortiller
 \gn 扭来扭去
 \dt 13/Jul/2016
 
-\lx ɣɤɟɯɟrɯɣ
+\lx _ɣɤɟɯɟrɯɣ
 \a ɣɤɟrɯɣɟrɯɣ
 \wav vi-GAJWJrWG
 \ps vs
@@ -46733,9 +47031,9 @@
 \cf ɟrɯɣɟrɯɣ
 \dt 18/Jul/2016
 
-\lx ɣɤkɤβjɤβ
+\lx _ɣɤkɤβjɤβ
 \wav vi-GAkABjAB
-\wav8 8_sAkABjAB
+\wav8 sAkABjAB
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -46752,13 +47050,13 @@
 \cf ɣɤqhɤβjɤβ
 \dt 17/Jan/2015
 
-\lx ɣɤkhe
+\lx _ɣɤkhe
 \cf khe
 \dt 11/May/2014
 
-\lx ɣɤkhrɤβjɤβ
+\lx _ɣɤkhrɤβjɤβ
 \wav vi-GAkhrABjAB
-\wav8 8_rWkhrABjAB
+\wav8 rWkhrABjAB
 \ps vi
 \ge émettre un bruit de grattement incessant
 \gn 不停地抓东西发出的声音
@@ -46775,17 +47073,17 @@
 \xn 你不要不停地弄那些东西，发出声音
 \dt 29/Aug/2015
 
-\lx ɣɤkhrɤβkhrɤβ
+\lx _ɣɤkhrɤβkhrɤβ
 \ps vi
 \ge émettre du bruit (en secouant un récipient qui contient de petits objets durs)
 \gn 发出撞击的声音
 \dt 26/Apr/2014
 
-\lx ɣɤkhrɯɣlɯɣ
+\lx _ɣɤkhrɯɣlɯɣ
 \cf khrɯɣnɤkhrɯɣ
 \dt 11/Nov/2011
 
-\lx ɣɤkhɯ
+\lx _ɣɤkhɯ
 \hm 1
 \wav vi-GAkhW
 \wav vi-GAkhW2
@@ -46806,10 +47104,10 @@
 \cf sɤkhɯ
 \dt 18/Jul/2016
 
-\lx ɣɤkhɯ
+\lx _ɣɤkhɯ
 \hm 2
 \wav vt-GAkhW2
-\wav8 8_GAkhW-b
+\wav8 GAkhW-b
 \ps vt
 \ng caus
 \sn 1
@@ -46829,13 +47127,13 @@
 \cf khɯ1
 \dt 14/Jan/2014
 
-\lx ɣɤla
+\lx _ɣɤla
 \wav vt-GAla
 \ps vt
 \ng caus
 \pdl dir 
 \pdv pɯ-
-\ge mouiller 
+\ge mouiller, tremper, plonger dans l'eau 
 \gn 泡软；浸泡在水里
 \hbf 1444 
 \xv pɯ-ɣɤla-t-a
@@ -46853,9 +47151,9 @@
 \ng refl
 \ge se baigner
 \gn 沐浴
-\dt 18/Jul/2013
+\dt 26/Aug/2017
 
-\lx ɣɤlɤt
+\lx _ɣɤlɤt
 \wav vt-GAlAt
 \ps vt
 \pdl dir 
@@ -46876,15 +47174,15 @@
 \cf lɤt1
 \dt 21/Nov/2010
 
-\lx ɣɤloŋloŋ
+\lx _ɣɤloŋloŋ
 \cf loŋloŋ
 \dt 02/Sep/2015
 
-\lx ɣɤlɯrlɯr
+\lx _ɣɤlɯrlɯr
 \cf lɯrlɯr
 \dt 14/Nov/2011
 
-\lx ɣɤlɯzlɯz
+\lx _ɣɤlɯzlɯz
 \ps vi
 \ge se secouer
 \gn （自动地）摇动
@@ -46896,7 +47194,7 @@
 \gn 摇动
 \dt 30/Aug/2015
 
-\lx ɣɤlwɤlwɤt
+\lx _ɣɤlwɤlwɤt
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -46907,7 +47205,7 @@
 \cf sɤlwɤlwɤt
 \dt 14/Jun/2011
 
-\lx ɣɤɬɤt
+\lx _ɣɤɬɤt
 \wav vt-GAlhAt
 \ps vt
 \ge détendre
@@ -46918,7 +47216,7 @@
 \xn 你放松一下，你的背就不会痛了
 \dt 04/Jul/2016
 
-\lx ɣɤmaʁ
+\lx _ɣɤmaʁ
 \ps vt
 \pdl dir
 \pdv nɯ-
@@ -46935,15 +47233,15 @@
 \cf maʁ
 \dt 18/Jul/2016
 
-\lx ɣɤmba
+\lx _ɣɤmba
 \cf mba
 \dt 14/Oct/2011
 
-\lx ɣɤmbat
+\lx _ɣɤmbat
 \cf mbat
 \dt 09/Oct/2011
 
-\lx ɣɤmbɤr
+\lx _ɣɤmbɤr
 \wav vt-GAmbAr
 \wav vt-GAmbAr2
 \ps vt
@@ -46965,15 +47263,15 @@
 \cf mbɤr1
 \dt 09/Dec/2012
 
-\lx ɣɤmbɤrmbɤr
+\lx _ɣɤmbɤrmbɤr
 \cf ɣɤɲɟɤrɲɟɤr
 \dt 12/Oct/2011
 
-\lx ɣɤmbɣaʁ
+\lx _ɣɤmbɣaʁ
 \cf mbɣaʁ
 \dt 20/May/2013
 
-\lx ɣɤmbɣo
+\lx _ɣɤmbɣo
 \wav vi-GAmbGo
 \ps vs 
 \ng denom
@@ -46987,8 +47285,8 @@
 \cf tɤmbɣo
 \dt 03/Oct/2011
 
-\lx ɣɤmbɣomru
-\wav8 8_kWGAmbGomru
+\lx _ɣɤmbɣomru
+\wav8 kWGAmbGomru
 \ps vs
 \ge impatient, pressé
 \gn 急躁
@@ -46997,11 +47295,11 @@
 \cf mbɣom
 \dt 20/Aug/2015
 
-\lx ɣɤmbro
+\lx _ɣɤmbro
 \cf mbro
 \dt 29/Aug/2015
 
-\lx ɣɤmdzu
+\lx _ɣɤmdzu
 \wav vi-GAmdzu
 \ps vs
 \ng denom
@@ -47014,9 +47312,9 @@
 \cf tɤ-mdzu
 \dt 09/Jun/2013
 
-\lx ɣɤme
+\lx _ɣɤme
 \wav vt-GAme
-\wav8 8_GAme
+\wav8 GAme
 \ps vt
 \ng caus
 \pdl dir 
@@ -47035,8 +47333,8 @@
 \xv a-laχtɕha ɲɤ-ɣɤme
 \xn 我把我的东西弄丢了
 \se ɯ-rca,ɣɤme
-\wav8 8_arcacinaGAme
-\wav8 8_Wrca-GAme
+\wav8 arcacinaGAme
+\wav8 Wrca-GAme
 \ge mettre en désordre
 \gn 弄得很乱，令人无从做起
 \xv a-rca ci na-ɣɤme
@@ -47044,7 +47342,7 @@
 \xv kɯki kɤ-nɤma ki tu-sɤpe-a nɯ-sɯso-t-a pɯ-ŋu ri, chɤ-nɯkɯmaʁ-a tɕe ɯ-rca ci ɲɤ-ɣɤme-t-a
 \xn 我本来以为会把这个工作做好，但是弄错了，弄得很乱了
 \se sna,ɣɤme
-\wav8 8_snanWGAmeta
+\wav8 snanWGAmeta
 \ge abîmer
 \gn 弄烂
 \xv tɯ-ŋga tɤ-ŋga-t-a tɕe, thɯ-ɴɢraʁ tɕe sna nɯ-ɣɤme-t-a
@@ -47060,7 +47358,7 @@
 \cf me
 \dt 29/Aug/2015
 
-\lx ɣɤmi
+\lx _ɣɤmi
 \wav vt-GAmi
 \ps vt
 \ng caus
@@ -47085,7 +47383,7 @@
 \cf mi1
 \dt 30/Sep/2011
 
-\lx ɣɤmna
+\lx _ɣɤmna
 \wav vt-GAmna
 \ps vt
 \ng caus
@@ -47112,19 +47410,19 @@
 \cf mna
 \dt 17/May/2013
 
-\lx ɣɤmɲi
+\lx _ɣɤmɲi
 \cf mɲi
 \dt 17/May/2014
 
-\lx ɣɤmpɕɤr
+\lx _ɣɤmpɕɤr
 \cf mpɕɤr
 \dt 02/Jul/2016
 
-\lx ɣɤmpɕu
+\lx _ɣɤmpɕu
 \cf mpɕu
 \dt 01/Nov/2011
 
-\lx ɣɤmpja
+\lx _ɣɤmpja
 \wav vt-GAmpja
 \ps vt
 \ng caus
@@ -47141,11 +47439,11 @@
 \xn 在火上加热
 \dt 22/Nov/2010
 
-\lx ɣɤmpɯ
+\lx _ɣɤmpɯ
 \cf mpɯ
 \dt 01/Nov/2011
 
-\lx ɣɤmqrɯz
+\lx _ɣɤmqrɯz
 \ps vi
 \ge qui fait mal aux pieds lorsque l'on marche dessus
 \gn 硌脚，地面很粗糙的时候，不穿鞋子走上去感到痛、不舒服的感觉
@@ -47167,11 +47465,11 @@
 \xn 我吃了酸的苹果，牙齿被酸到了
 \dt 22/Aug/2015
 
-\lx ɣɤmtɕoʁ
+\lx _ɣɤmtɕoʁ
 \cf mtɕoʁ
 \dt 22/Oct/2011
 
-\lx ɣɤmthu
+\lx _ɣɤmthu
 \ps vt
 \pdl dir
 \pdv nɯ-
@@ -47182,15 +47480,15 @@
 \xn 我的病令我变得很虚弱
 \dt 11/May/2014
 
-\lx ɣɤmto
+\lx _ɣɤmto
 \cf mto
 \dt 17/May/2014
 
-\lx ɣɤmtsɯr
+\lx _ɣɤmtsɯr
 \cf mtsɯr
 \dt 08/Jun/2011
 
-\lx ɣɤmɯ
+\lx _ɣɤmɯ
 \wav vt-GAmW
 \wav vt-GAmW2
 \ps vt
@@ -47209,18 +47507,18 @@
 \xn 他称赞他的亲戚（朋友）
 \se sɤɣɤmɯ
 \a sɤzɣɤmɯ
-\wav8 8_sAzGAmW
+\wav8 sAzGAmW
 \ps vi
 \ng apass
 \ge louer des gens
 \gn 表扬人
 \dt 18/Aug/2014
 
-\lx ɣɤmɯm
+\lx _ɣɤmɯm
 \cf mɯm
 \dt 23/Oct/2011
 
-\lx ɣɤmɯrmɯr
+\lx _ɣɤmɯrmɯr
 \ps vs
 \ge (surface de l'eau) ayant des rides
 \gn 有轻微的波纹
@@ -47228,7 +47526,7 @@
 \xn 水面上有轻微的波纹
 \dt 29/Aug/2015
 
-\lx ɣɤmɯt
+\lx _ɣɤmɯt
 \wav vt-GAmWt
 \ps vt
 \pdl dir 
@@ -47242,7 +47540,7 @@
 \xn 他吹了
 \dt 18/Nov/2013
 
-\lx ɣɤndɣɤndɣɤt
+\lx _ɣɤndɣɤndɣɤt
 \wav vt-sAndGAndGAt
 \ps vs
 \ng deidph
@@ -47262,7 +47560,7 @@
 \cf ndɣɤndɣɤt
 \dt 15/Oct/2014
 
-\lx ɣɤndɯβ
+\lx _ɣɤndɯβ
 \wav vt-GAndWB
 \ps vt
 \ng caus
@@ -47283,15 +47581,15 @@
 \cf ndɯβ
 \dt 18/Jun/2012
 
-\lx ɣɤndɯl
+\lx _ɣɤndɯl
 \cf ndɯl1
 \dt 26/Aug/2012
 
-\lx ɣɤndziaʁ
+\lx _ɣɤndziaʁ
 \cf ndziaʁ
 \dt 02/Oct/2013
 
-\lx ɣɤndzɯrndzɯr
+\lx _ɣɤndzɯrndzɯr
 \wav vi-GAndzWrndzWr
 \wav vi-GAndzWrndzWr2
 \ps vs
@@ -47310,7 +47608,7 @@
 \sy ɣɤthɣɤthɣɤt
 \dt 12/Mar/2014
 
-\lx ɣɤndʐo
+\lx _ɣɤndʐo
 \wav vi-GAndzxo
 \ps vs
 \pdl dir 
@@ -47326,7 +47624,7 @@
 \cf tɤndʐo
 \dt 12/Mar/2014
 
-\lx ɣɤndʑɤm
+\lx _ɣɤndʑɤm
 \wav vt-GAndZAm
 \ps vt
 \ng caus
@@ -47344,7 +47642,7 @@
 \cf ndʑɤm
 \dt 10/Dec/2013
 
-\lx ɣɤndʑɣɤrlɤr
+\lx _ɣɤndʑɣɤrlɤr
 \ps vi
 \ge piétiner de partout
 \gn 到处乱踩；动作不雅观
@@ -47352,14 +47650,17 @@
 \xn 你不要在我的田地里乱踩，会把我的菜苗踩死
 \dt 24/Aug/2012
 
-\lx ɣɤngɯt
+\lx _ɣɤngɯt
 \cf ngɯt
 \dt 30/Aug/2015
 
-\lx ɣɤntaβ
+\lx _ɣɤnmu
+\cf nmu
+
+\lx _ɣɤntaβ
 \wav vt-GAntaB
-\wav8 8_GAntaB
-\wav8 8_WsWm
+\wav8 GAntaB
+\wav8 WsWm
 \ps vt
 \ng caus
 \pdl dir 
@@ -47380,7 +47681,7 @@
 \cf ɕɯntaβ
 \cf ntaβ
 \se ʑɣɤɣɤntaβ
-\wav8 8_manWtWZGAGAntaB
+\wav8 manWtWZGAGAntaB
 \ps vi
 \ng refl
 \ge rester sans bouger
@@ -47388,15 +47689,15 @@
 \xv tɤ-ndzur, nɯtɕu ma-nɯ-tɯ-ʑɣɤɣɤntaβ ʑo kɯ
 \xn 你站起来，不要在那里动都不动
 
-\lx ɣɤnɯndzɯlŋɯz
+\lx _ɣɤnɯndzɯlŋɯz
 \cf nɯndzɯlŋɯz
 \dt 08/Jun/2011
 
-\lx ɣɤnɯʑɯβ
+\lx _ɣɤnɯʑɯβ
 \cf nɯʑɯβ
 \dt 13/Apr/2014
 
-\lx ɣɤɲɤβɲɤβ
+\lx _ɣɤɲɤβɲɤβ
 \wav vi-GAYABYAB
 \ps vi
 \pdl dir 
@@ -47415,7 +47716,7 @@
 \xn 他在吃东西，突然把嘴里的东西不由自主地吐出来了
 \dt 17/Jul/2016
 
-\lx ɣɤɲcɣɤlɤt
+\lx _ɣɤɲcɣɤlɤt
 \wav vi-GAYcGAlAt
 \wav matWGAYcGAlAtnW
 \ps vs
@@ -47429,7 +47730,7 @@
 \cf ɲcɣɤɲcɣɤt
 \dt 17/Jul/2016
 
-\lx ɣɤɲcɣɤɲcɣɤt
+\lx _ɣɤɲcɣɤɲcɣɤt
 \ps vs
 \pdl dir 
 \pdv thɯ-
@@ -47452,9 +47753,9 @@
 \cf ɲcɣɤɲcɣɤt
 \dt 09/Nov/2013
 
-\lx ɣɤɲizɲiz
+\lx _ɣɤɲizɲiz
 \wav vt-sAYWzYWz
-\wav8 8_GAYWzYWz
+\wav8 GAYWzYWz
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -47472,8 +47773,8 @@
 \xn 毛毛雨下个不停
 \dt 12/Oct/2011
 
-\lx ɣɤɲɟɤrɲɟɤr
-\wav8 8_GAYJArYJAr
+\lx _ɣɤɲɟɤrɲɟɤr
+\wav8 GAYJArYJAr
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -47487,7 +47788,7 @@
 \cf ɲɟɤrɲɟɤr
 \dt 17/Jul/2016
 
-\lx ɣɤɲɟɣɤrɲɟɣɤr
+\lx _ɣɤɲɟɣɤrɲɟɣɤr
 \ps vs
 \ge long et instable
 \gn 不稳固
@@ -47495,11 +47796,11 @@
 \xn 小梁不稳固，走在上面一晃一晃的
 \dt 30/Oct/2013
 
-\lx ɣɤŋɤn
+\lx _ɣɤŋɤn
 \cf ŋɤn
 \dt 09/Dec/2010
 
-\lx ɣɤŋgi
+\lx _ɣɤŋgi
 \wav vi-GANgi
 \ps vi
 \pdl dir 
@@ -47529,8 +47830,8 @@
 \gn 说自己是对的
 \dt 29/Aug/2015
 
-\lx ɣɤŋgrɯ
-\wav8 8_pjWGANgria
+\lx _ɣɤŋgrɯ
+\wav8 pjWGANgria
 \ps vt
 \pdl dir
 \pdv pɯ-
@@ -47541,7 +47842,7 @@
 \xn 我可以实现你的愿望
 \cf ŋgrɯ
 
-\lx ɣɤŋgɯrŋgɯr
+\lx _ɣɤŋgɯrŋgɯr
 \wav vi-GANgWrNgWr
 \ps vs
 \ng deidph
@@ -47554,7 +47855,7 @@
 \cf ŋgɯr2
 \dt 01/Nov/2013
 
-\lx ɣɤŋoʁ
+\lx _ɣɤŋoʁ
 \wav vt-GANoR
 \ps vt
 \sn 1
@@ -47587,7 +47888,7 @@
 \gn 互相打招呼 
 \dt 15/Jul/2014
 
-\lx ɣɤŋoʁle
+\lx _ɣɤŋoʁle
 \ps vs
 \ge extraverti
 \gn 外向，爱说话
@@ -47596,20 +47897,20 @@
 \sy ɣɤχalala
 \dt 17/Jul/2016
 
-\lx ɣɤɴɢrɯ
+\lx _ɣɤɴɢrɯ
 \cf ɴɢrɯ
 \dt 22/Nov/2012
 
-\lx ɣɤɴqa
+\lx _ɣɤɴqa
 \cf ɴqa
 \dt 23/Oct/2011
 
-\lx ɣɤɴqhi
+\lx _ɣɤɴqhi
 \cf ɴqhi
 \dt 23/Oct/2011
 
-\lx ɣɤpaʁpaʁ
-\wav8 8_GApaRpaR
+\lx _ɣɤpaʁpaʁ
+\wav8 GApaRpaR
 \ps vs
 \ge acide 
 \gn 很酸；很辣
@@ -47619,7 +47920,7 @@
 \xn 很辣
 \dt 16/Sep/2014
 
-\lx ɣɤpɣo
+\lx _ɣɤpɣo
 \wav vt-GApGo
 \ps vt
 \ng denom
@@ -47636,15 +47937,15 @@
 \xn 把粮食装在口袋里堆起来了
 \dt 08/Nov/2013
 
-\lx ɣɤphɤn
+\lx _ɣɤphɤn
 \cf phɤn
 \dt 31/Aug/2015
 
-\lx ɣɤphrɤβphrɤβ
+\lx _ɣɤphrɤβphrɤβ
 \cf phrɤβ
 \dt 29/Aug/2015
 
-\lx ɣɤphɯɕlaʁ
+\lx _ɣɤphɯɕlaʁ
 \wav vi-GAphWClaR
 \ps vi
 \pdl dir 
@@ -47666,11 +47967,11 @@
 \cf ɕlaʁ
 \dt 25/Aug/2015
 
-\lx ɣɤploʁploʁ
+\lx _ɣɤploʁploʁ
 \cf ploʁploʁ
 \dt 07/Sep/2015
 
-\lx ɣɤpɯplɯɣ
+\lx _ɣɤpɯplɯɣ
 \wav vi-GApWplWG
 \ps vi
 \ng deidph
@@ -47686,10 +47987,10 @@
 \xn 闪电一闪一闪地发光
 \dt 28/Oct/2013
 
-\lx ɣɤqhɤβjɤβ
+\lx _ɣɤqhɤβjɤβ
 \wav vi-GAqhABjAB
 \wav vi-GAqhABjAB2
-\wav8 8_sAkABjAB
+\wav8 sAkABjAB
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -47703,7 +48004,7 @@
 \cf ɣɤkɤβjɤβ
 \dt 05/Nov/2013
 
-\lx ɣɤqlaʁqlaʁ
+\lx _ɣɤqlaʁqlaʁ
 \ps vs
 \sn 1
 \ge clair (ciel)
@@ -47717,7 +48018,7 @@
 \xn 胡豆是硬邦邦的，吃不动
 \dt 26/Apr/2014
 
-\lx ɣɤqrɤβqrɤβ
+\lx _ɣɤqrɤβqrɤβ
 \ps vi
 \ge rauque, enroué
 \gn 嗓子嘶哑的
@@ -47725,7 +48026,7 @@
 \xn 他嗓子嘶哑地讲话
 \dt 11/May/2014
 
-\lx ɣɤqɯβqɯβ
+\lx _ɣɤqɯβqɯβ
 \ps vs
 \ge murmurer (eau)
 \gn 潺潺流水
@@ -47736,7 +48037,7 @@
 \cf ɣɤqɯrqɯr
 \dt 19/Aug/2015
 
-\lx ɣɤqɯrqɯr
+\lx _ɣɤqɯrqɯr
 \ps vs
 \ge murmurer (eau)
 \gn 潺潺流水
@@ -47747,8 +48048,8 @@
 \cf ɣɤqɯβqɯβ
 \dt 19/Aug/2015
 
-\lx ɣɤra
-\wav 8_taGAra2
+\lx _ɣɤra
+\wav taGAra2
 \ps vt
 \ng caus
 \pdl dir
@@ -47760,7 +48061,7 @@
 \cf ra1
 \dt 04/Mar/2017
 
-\lx ɣɤrɤβ
+\lx _ɣɤrɤβ
 \wav vi-GArAB
 \ps vs
 \pdl dir 
@@ -47778,7 +48079,7 @@
 \sy ɣɤʑin
 \dt 01/Apr/2014
 
-\lx ɣɤrɤru
+\lx _ɣɤrɤru
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -47791,7 +48092,7 @@
 \cf rɤru
 \dt 23/Nov/2010
 
-\lx ɣɤrɤt
+\lx _ɣɤrɤt
 \wav vt-GArAt
 \ps vt
 \pdl dir 
@@ -47815,19 +48116,19 @@
 \xn （苹果）烂了，所以我把它扔了
 \dt 23/Nov/2010
 
-\lx ɣɤrchɤrchɤt
+\lx _ɣɤrchɤrchɤt
 \cf rchɤrchɤt
 \dt 21/Nov/2011
 
-\lx ɣɤrchɯɣlɯɣ
+\lx _ɣɤrchɯɣlɯɣ
 \cf rchɯɣrchɯɣ
 \dt 20/May/2013
 
-\lx ɣɤrchɯɣrchɯɣ
+\lx _ɣɤrchɯɣrchɯɣ
 \cf rchɯɣrchɯɣ
 \dt 17/Jul/2016
 
-\lx ɣɤrcoʁ
+\lx _ɣɤrcoʁ
 \wav vi-GArcoR
 \ps vs
 \ng denom
@@ -47841,11 +48142,11 @@
 \cf rɤrcoʁ
 \dt 30/Nov/2013
 
-\lx ɣɤrɕo
+\lx _ɣɤrɕo
 \cf arɕo
 \dt 15/Jul/2016
 
-\lx ɣɤrɕɯrɕiz
+\lx _ɣɤrɕɯrɕiz
 \ps vs
 \ge murmurer de façon intermittente (eau)
 \gn 水流动时发出断断续续的声音
@@ -47854,10 +48155,10 @@
 \cf ɣɤrɕɯrɕɯβ
 \dt 19/Aug/2015
 
-\lx ɣɤrɕɯrɕɯβ
+\lx _ɣɤrɕɯrɕɯβ
 \a ɣɤrɕɯβrɕɯβ
 \wav vi-GArCWBrCWB
-\wav8 8_sArCWBrCWB
+\wav8 sArCWBrCWB
 \ps vi
 \sn 1
 \ge émettre un bruit de froissement du papier 
@@ -47878,7 +48179,7 @@
 \cf ɣɤqɯβqɯβ
 \dt 19/Aug/2015
 
-\lx ɣɤrdɯl
+\lx _ɣɤrdɯl
 \ps vs
 \ge plein de poussière
 \gn 充满灰尘
@@ -47889,19 +48190,19 @@
 \cf rdɯl
 \dt 21/Aug/2012
 
-\lx ɣɤrgɤz
+\lx _ɣɤrgɤz
 \cf rgɤz
 \dt 13/Aug/2012
 
-\lx ɣɤrɣɤβrɣɤβ
+\lx _ɣɤrɣɤβrɣɤβ
 \cf rɣɤβrɣɤβ
 \dt 15/Nov/2011
 
-\lx ɣɤrjɤlɤt
+\lx _ɣɤrjɤlɤt
 \cf rjɤrjɤt
 \dt 21/Dec/2011
 
-\lx ɣɤrkhɤrkhɤt
+\lx _ɣɤrkhɤrkhɤt
 \ps vi
 \ge faire de petits coups légers
 \gn 发出弹起来的声音，发出轻轻的敲击声
@@ -47912,7 +48213,7 @@
 \cf rkhɤrkhɤt
 \dt 20/May/2013
 
-\lx ɣɤrkɯn
+\lx _ɣɤrkɯn
 \wav vt-GArkWn
 \ps vt
 \ng caus
@@ -47933,7 +48234,7 @@
 \cf rkɯn
 \dt 30/Sep/2011
 
-\lx ɣɤrlaʁ
+\lx _ɣɤrlaʁ
 \ps vt
 \ng caus
 \pdl dir 
@@ -47945,7 +48246,7 @@
 \un 表达“弄丢”这个意思干木鸟话一般说|fv{ɲɤɣɤme}
 \se aɣɤrlɯrlaʁ
 \wav chAGArlWrlaRnW_pjANgrAL
-\wav8 8_aGArlWrlaR
+\wav8 aGArlWrlaR
 \ps vi
 \ng recip
 \ng caus
@@ -47956,7 +48257,7 @@
 \cf rlaʁ
 \dt 27/Sep/2014
 
-\lx ɣɤrlɤrlɤɣ
+\lx _ɣɤrlɤrlɤɣ
 \wav vi-GArlArlAG
 \ps vi
 \pdl dir 
@@ -47974,7 +48275,7 @@
 \xn 他摇头
 \dt 22/Nov/2010
 
-\lx ɣɤrmɤβrmɤβ
+\lx _ɣɤrmɤβrmɤβ
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -47990,7 +48291,7 @@
 \xn 他眼睛一眨一眨，眨得很快
 \dt 14/Mar/2014
 
-\lx ɣɤrmɤrmɤβ
+\lx _ɣɤrmɤrmɤβ
 \ps vi
 \ge qui passe rapidement (comme un éclair)
 \gn 闪得很快
@@ -47998,7 +48299,7 @@
 \xn 虽然电脑屏幕上的字闪的很快，你还是看得见
 \dt 06/Sep/2015
 
-\lx ɣɤrndi
+\lx _ɣɤrndi
 \wav vt-GArndi
 \wav vt-GArdni2
 \ps vt
@@ -48020,8 +48321,6 @@
 \xn 差一点掉下去了，我把它扶起来了
 \xv a-wa lo-βzi tɕe, kɤ-ɣɤrndi-t-a 
 \xn 我父亲醉了，我把他扶起来了
-\xv a-βɣe ɯ-ku kɤ-tɯ-ɣɤrndi-t ŋu
-\xn 你在我最痛苦的时候收养了我这个孤儿
 \sn 2
 \pdl dir 
 \pdv kɤ-
@@ -48029,6 +48328,12 @@
 \gn 冷静
 \xv nɤ-sɯm nɯ kɤ-ɣɤrndi ɲɯ-ra
 \xn 你要镇静下来
+\se tɤ-βɣe ɯ-ku ɣɤrndi
+\ps np,np,vt
+\ge recueillir un orphelin
+\gn 收养孤儿
+\xv a-βɣe ɯ-ku kɤ-tɯ-ɣɤrndi-t ŋu
+\xn 你在我最痛苦的时候收养了我这个孤儿
 \se ʑɣɤɣɤrndi
 \ps vi
 \pdl dir 
@@ -48040,7 +48345,7 @@
 \xn 你要镇静下来
 \dt 07/Jul/2016
 
-\lx ɣɤrɲɟi
+\lx _ɣɤrɲɟi
 \wav vt-GArYJi
 \wav vt-GArYJi2
 \ps vt
@@ -48073,9 +48378,9 @@
 \cf rɲɟi
 \dt 24/Oct/2011
 
-\lx ɣɤrɲɯɣrɲɯɣ
+\lx _ɣɤrɲɯɣrɲɯɣ
 \wav vi-GArYWGrYWG
-\wav8 8_GArYWGrWG
+\wav8 GArYWGrWG
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -48093,9 +48398,9 @@
 \xn 我把铁丝插在土墙上，因为很软，所以钻得很快
 \dt 14/Oct/2011
 
-\lx ɣɤrŋa
-\wav8 8_GArNa
-\wav8 8_GaRNa2
+\lx _ɣɤrŋa
+\wav8 GArNa
+\wav8 GaRNa2
 \ps vs
 \ge être possible
 \gn 有……的可能，有……的危险
@@ -48109,7 +48414,7 @@
 \cf tɯ-rŋa
 \dt 26/Aug/2012
 
-\lx ɣɤro
+\lx _ɣɤro
 \wav vt-GAro
 \ps vt
 \ng caus
@@ -48132,7 +48437,7 @@
 \xn 我完成任务超过标准
 \dt 05/Jul/2014
 
-\lx ɣɤroʁroʁ
+\lx _ɣɤroʁroʁ
 \ps vi
 \ge couler sans arrêt
 \gn 不停地流
@@ -48140,7 +48445,7 @@
 \xn 血流个不停
 \dt 15/May/2014
 
-\lx ɣɤrphɤrphɤβ
+\lx _ɣɤrphɤrphɤβ
 \wav vi-GArphArphAB
 \ps vs
 \pdl dir 
@@ -48161,7 +48466,7 @@
 \xn 鸡在拍打翅膀
 \dt 12/Jul/2016
 
-\lx ɣɤrpi
+\lx _ɣɤrpi
 \wav vt-GArpi
 \wav vt-GArpi2
 \ps vt
@@ -48185,7 +48490,7 @@
 \cf tɤ-rpi
 \dt 04/Aug/2016
 
-\lx ɣɤrqhoŋloŋ
+\lx _ɣɤrqhoŋloŋ
 \ps vi
 \pdl dir
 \pdv tɤ-
@@ -48195,7 +48500,7 @@
 \xn 上面的那些人不知道在做什么，在地板上很吵
 \dt 24/Aug/2015
 
-\lx ɣɤrqhoʁrqhoʁ
+\lx _ɣɤrqhoʁrqhoʁ
 \wav vt-sArqhoRrqhoR
 \wav vt-nWrqhoR
 \ps vs
@@ -48227,7 +48532,7 @@
 \xn 他啪啪地射枪
 \dt 19/Dec/2011
 
-\lx ɣɤrqhɯβrqhɯβ
+\lx _ɣɤrqhɯβrqhɯβ
 \a ɣɤrqhɯrqhɯβ
 \wav vi-GArqhWrqhWB
 \ps vi
@@ -48238,7 +48543,7 @@
 \cf sɤrqhɯrqhɯβ
 \dt 17/Jul/2016
 
-\lx ɣɤrʁaʁ
+\lx _ɣɤrʁaʁ
 \wav vi-GArRaR2
 \wav vi-GArRaR
 \ps vi
@@ -48261,7 +48566,7 @@
 \cf nɤrʁaʁ
 \dt 26/Oct/2011
 
-\lx ɣɤrʁɤβjɤβ
+\lx _ɣɤrʁɤβjɤβ
 \wav vi-GArRABjAB
 \ps vi
 \pdl dir 
@@ -48283,7 +48588,7 @@
 \xn 我吃了花椒，把我呛到了，让我东抓西抓
 \dt 02/Jul/2014
 
-\lx ɣɤrsɯβrsɯβ
+\lx _ɣɤrsɯβrsɯβ
 \wav vi-GArsWBrsWB
 \ps vs
 \ge émettre un bruit de froissement
@@ -48293,7 +48598,7 @@
 \cf ɣɤrɕɯβrɕɯβ
 \dt 03/Oct/2011
 
-\lx ɣɤrtaʁ
+\lx _ɣɤrtaʁ
 \wav vt-GArtaR
 \ps vt
 \ng caus
@@ -48308,7 +48613,7 @@
 \xn 我拿了胡豆，这样就够了
 \dt 09/Oct/2011
 
-\lx ɣɤrtɕhɣaʁ
+\lx _ɣɤrtɕhɣaʁ
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -48318,7 +48623,7 @@
 \cf sɤrtɕhɣaʁ
 \cf tɤ-rtɕhɣaʁ,tɕɤt
 
-\lx ɣɤrthɯɣlɯɣ
+\lx _ɣɤrthɯɣlɯɣ
 \ps vi
 \ge gêner les gens en bougeant sans arrêt
 \gn 没有目地走动，影响周边的人
@@ -48326,8 +48631,8 @@
 \xn 那个小孩子在身边影响我，我叫他走开
 \dt 05/Jul/2016
 
-\lx ɣɤrtshɯɣlɯɣ
-\wav8 8_GArtshWGlWg
+\lx _ɣɤrtshɯɣlɯɣ
+\wav8 GArtshWGlWg
 \ps vi
 \ge être grossier
 \gn 说粗话
@@ -48335,7 +48640,7 @@
 \xn 他在生气，对别人说粗话
 \dt 21/Aug/2014
 
-\lx ɣɤrtɯm
+\lx _ɣɤrtɯm
 \wav vt-GArtWm
 \ps vt
 \ng caus
@@ -48348,10 +48653,10 @@
 \xn 我缠了线
 \dt 30/Sep/2011
 
-\lx ɣɤrɯβrɯβ
+\lx _ɣɤrɯβrɯβ
 \wav vi-GArWBrWB
-\wav8 8_GArWBrWB
-\wav8 8_YWGArWBrWB
+\wav8 GArWBrWB
+\wav8 YWGArWBrWB
 \ps vi
 \ng deidph
 \sn 1
@@ -48371,7 +48676,7 @@
 \sy ɣɤtʂɯtʂɯt
 \dt 19/Mar/2014
 
-\lx ɣɤrɯri
+\lx _ɣɤrɯri
 \ps vi
 \ge souffler sans cesse (vent)
 \gn （风）吹得很紧，不停地吹
@@ -48379,10 +48684,10 @@
 \xn 风吹得很紧
 \dt 13/Jul/2016
 
-\lx ɣɤrwɤrwɤt
-\wav8 8_sArwArwAt
-\wav8 8_sArwArwAt2
-\wav8 8_GArwArwAt
+\lx _ɣɤrwɤrwɤt
+\wav8 sArwArwAt
+\wav8 sArwArwAt2
+\wav8 GArwArwAt
 \ps vs
 \ge bavard
 \gn 说话滔滔不绝
@@ -48396,11 +48701,14 @@
 \xn 他读得很熟练
 \dt 01/Nov/2011
 
-\lx ɣɤrzɤβrzɤβ
+\lx _ɣɤrzɤβrzɤβ
 \cf rzɤβrzɤβ
 \dt 22/Aug/2015
 
-\lx ɣɤrʑo
+\lx _ɣɤrʑi
+\cf rʑi
+
+\lx _ɣɤrʑo
 \wav vt-GArZo
 \ps vt
 \pdl dir 
@@ -48423,10 +48731,10 @@
 \xn 这个东西价钱有点高，可以给你降低一点
 \dt 01/Sep/2014
 
-\lx ɣɤrʑɯɣlɯɣ
+\lx _ɣɤrʑɯɣlɯɣ
 \cf rʑɯɣrʑɯɣ
 
-\lx ɣɤʁjɤβlɤβ
+\lx _ɣɤʁjɤβlɤβ
 \wav vi-GARjABlAB
 \ps vi
 \ge agir en cachette 
@@ -48438,11 +48746,11 @@
 \cf ɣɤqhɤβjɤβ
 \dt 03/Oct/2011
 
-\lx ɣɤʁnɤt
+\lx _ɣɤʁnɤt
 \cf ʁnɤt
 \dt 20/May/2013
 
-\lx ɣɤʁre
+\lx _ɣɤʁre
 \wav vi-GARre
 \wav vi-GARre2
 \ps vs
@@ -48475,7 +48783,7 @@
 \xn 我们俩互相尊重
 \dt 16/Jul/2016
 
-\lx ɣɤʁrɯ
+\lx _ɣɤʁrɯ
 \wav vi-GARrW
 \ps vi
 \ng denom
@@ -48491,7 +48799,7 @@
 \cf ta-ʁrɯ
 \dt 20/Aug/2014
 
-\lx ɣɤʁrɯqa
+\lx _ɣɤʁrɯqa
 \ps vi
 \pdl dir
 \pdv pɯ-
@@ -48500,7 +48808,7 @@
 \cf sɤtɕɯqaʁ
 \dt 12/Jul/2016
 
-\lx ɣɤʁzɤβ
+\lx _ɣɤʁzɤβ
 \wav vi-GARzAB
 \ps vs
 \ge grandiose
@@ -48513,11 +48821,11 @@
 \xn 开会很隆重
 \dt 07/Sep/2013
 
-\lx ɣɤsa
+\lx _ɣɤsa
 \cf sa
 \dt 18/Nov/2012
 
-\lx ɣɤsɤmbrɯ
+\lx _ɣɤsɤmbrɯ
 \wav vi-GAsAmbrW2
 \ps vi 
 \ge s'énerver facilement 
@@ -48527,7 +48835,7 @@
 \cf sɤmbrɯ
 \dt 16/Jul/2016
 
-\lx ɣɤscɤscɤt
+\lx _ɣɤscɤscɤt
 \ps vi
 \ge (frapper, crier) à toute vitesse
 \gn （叫、拍）得很快
@@ -48535,11 +48843,11 @@
 \xn 他拍手拍得很快
 \dt 08/Dec/2014
 
-\lx ɣɤscraʁscraʁ
+\lx _ɣɤscraʁscraʁ
 \cf scraʁscraʁ
 \dt 30/Oct/2011
 
-\lx ɣɤsmi
+\lx _ɣɤsmi
 \wav vt-GAsmi
 \wav vt-GAsmi2
 \hm 1
@@ -48564,7 +48872,7 @@
 \cf smi1
 \dt 17/Nov/2013
 
-\lx ɣɤsna
+\lx _ɣɤsna
 \wav vt-GAsna
 \ps vt
 \ng caus
@@ -48584,7 +48892,7 @@
 \xn 我熬了茶熬得很浓
 \dt 30/Sep/2011
 
-\lx ɣɤsŋaβ
+\lx _ɣɤsŋaβ
 \wav vi-GAsNaB
 \ps vs
 \pdl dir 
@@ -48601,7 +48909,7 @@
 \sy ɣɯtshɤdɯɣ
 \dt 17/Jul/2016
 
-\lx ɣɤsoŋsoŋ
+\lx _ɣɤsoŋsoŋ
 \wav vi-GAsoNsoN
 \ps vs
 \pdl dir 
@@ -48615,7 +48923,7 @@
 \cf ɣɤsthɯsthoŋ
 \dt 04/Aug/2012
 
-\lx ɣɤstaŋlaŋ
+\lx _ɣɤstaŋlaŋ
 \wav vi-GAstaNlaN
 \wav vi-GAstaNlaN2
 \ps vi
@@ -48629,11 +48937,11 @@
 \sy stɤjstɤj
 \dt 30/Oct/2011
 
-\lx ɣɤstɤjlɤj
+\lx _ɣɤstɤjlɤj
 \cf stɤjstɤj
 \dt 30/Oct/2011
 
-\lx ɣɤsthɯsthoŋ
+\lx _ɣɤsthɯsthoŋ
 \wav vi-GAsthWsthoN
 \ps vs
 \pdl dir 
@@ -48645,7 +48953,7 @@
 \cf ɣɤsoŋsoŋ
 \dt 04/Aug/2012
 
-\lx ɣɤsthɯsthrɯβ
+\lx _ɣɤsthɯsthrɯβ
 \ps vi
 \se sɤsthɯsthrɯβ
 \ps vt
@@ -48656,15 +48964,15 @@
 \cf sthrɯβ
 \dt 26/Apr/2014
 
-\lx ɣɤstɯrlɯr
+\lx _ɣɤstɯrlɯr
 \cf stɯrstɯr
 \dt 30/Oct/2011
 
-\lx ɣɤsɯβsɯβ
+\lx _ɣɤsɯβsɯβ
 \cf sɯβsɯβ
 \dt 01/Nov/2011
 
-\lx ɣɤsɯɣsɯɣ
+\lx _ɣɤsɯɣsɯɣ
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -48678,7 +48986,7 @@
 \xn 不要乱动
 \dt 24/Aug/2012
 
-\lx ɣɤʂɲɯɣlɯɣ
+\lx _ɣɤʂɲɯɣlɯɣ
 \ps vi
 \ge gigoter dans tous les sens
 \gn 动来动去
@@ -48691,8 +48999,8 @@
 \gn 动来动去
 \dt 13/Jul/2016
 
-\lx ɣɤʂχaβʂχaβ
-\wav8 8_GasxaBsxaB
+\lx _ɣɤʂχaβʂχaβ
+\wav8 GasxaBsxaB
 \ps vi
 \ge émettre un bruit de froissement
 \gn 发出沙沙声
@@ -48701,15 +49009,15 @@
 \cf ɣɤʂχɯʂχɯβ
 \dt 13/Sep/2011
 
-\lx ɣɤʂχɯʂχɯβ
+\lx _ɣɤʂχɯʂχɯβ
 \cf sɤʂχɯʂχɯβ
 \dt 30/Jul/2011
 
-\lx ɣɤtaʁ
+\lx _ɣɤtaʁ
 \cf taʁ2
 \dt 30/Apr/2014
 
-\lx ɣɤtɕa
+\lx _ɣɤtɕa
 \wav vi-GAtCa
 \wav vi-ZGAGAtCa
 \ps vi
@@ -48749,7 +49057,7 @@
 \xn 他承认了自己的错误
 \dt 29/Aug/2015
 
-\lx ɣɤtɕɤt
+\lx _ɣɤtɕɤt
 \ps vt
 \sn 1
 \pdl dir
@@ -48768,7 +49076,7 @@
 \xv nɤʑo kha jɤ-ɣi jɤɣ ma nɤ-kɤndza cho nɤ-kɯ-ra pjɯ-ɣɤtɕat-a jɤɣ
 \xn 你可以到我家来，我可以给你提供食物和你所需要的东西
 \se ʑɣɤɣɤtɕɤt
-\wav8 8_tAZGAGAtCata
+\wav8 tAZGAGAtCata
 \ps vi
 \ng refl
 \pdl dir
@@ -48780,11 +49088,11 @@
 
 \dt 20/Aug/2015
 
-\lx ɣɤtɕɣɤrtɕɣɤr
+\lx _ɣɤtɕɣɤrtɕɣɤr
 \cf tɕɣɤrtɕɣɤr
 \dt 20/Nov/2011
 
-\lx ɣɤtɕhaʁ
+\lx _ɣɤtɕhaʁ
 \ps vt
 \ng caus
 \ge faire diminuer 
@@ -48792,7 +49100,7 @@
 \sy sɯxtɕhaʁ
 \cf tɕhaʁ
 
-\lx ɣɤtɕhom
+\lx _ɣɤtɕhom
 \wav vt-GAtChom
 \wav vt-GAtChom2
 \ps vt
@@ -48811,15 +49119,15 @@
 \cf tɕhom
 \dt 23/Oct/2011
 
-\lx ɣɤtɕhɯβtɕhɯβ
+\lx _ɣɤtɕhɯβtɕhɯβ
 \cf tɕhɯβtɕhɯβ
 \dt 02/Nov/2011
 
-\lx ɣɤtɕur
+\lx _ɣɤtɕur
 \cf tɕur1
 \dt 26/Sep/2011
 
-\lx ɣɤtɕɯɣ
+\lx _ɣɤtɕɯɣ
 \wav vi-GAtCWG
 \wav vi-GAGAtCWG
 \ps vi
@@ -48847,11 +49155,11 @@
 \cf tɤ-tɕɯɣ
 \dt 04/Oct/2011
 
-\lx ɣɤtɕɯqaʁ
+\lx _ɣɤtɕɯqaʁ
 \cf sɤtɕɯqaʁ
 \dt 28/Apr/2014
 
-\lx ɣɤthɤβjɤβ
+\lx _ɣɤthɤβjɤβ
 \wav vi-GAthABjAB
 \ps vi
 \ge chercher des choses n'importe comment
@@ -48860,11 +49168,11 @@
 \xn 你不要乱找东西
 \dt 31/Jul/2011
 
-\lx ɣɤthɤβthɤβ
+\lx _ɣɤthɤβthɤβ
 \cf sɤthɤβthɤβ
 \dt 31/Jul/2011
 
-\lx ɣɤthɣɤthɣɤt
+\lx _ɣɤthɣɤthɣɤt
 \wav vi-GAthGAthGAt
 \ps vi
 \ge trembler
@@ -48883,7 +49191,7 @@
 \sy ɣɤndzɯrndzɯr
 \dt 17/Dec/2011
 
-\lx ɣɤtsɤngo
+\lx _ɣɤtsɤngo
 \ps vs
 \ge tomber souvent malade
 \gn 经常生病
@@ -48892,7 +49200,7 @@
 \cf ngo
 \dt 28/Apr/2014
 
-\lx ɣɤtsɣaʁtsɣaʁ
+\lx _ɣɤtsɣaʁtsɣaʁ
 \wav vi-GAtsGaRtsGaR
 \ps vs
 \ng deidph
@@ -48906,11 +49214,11 @@
 \xn 太烫，很难受
 \dt 05/Oct/2011
 
-\lx ɣɤtshoz
+\lx _ɣɤtshoz
 \cf tshoz
 \dt 03/Jan/2015
 
-\lx ɣɤtshu
+\lx _ɣɤtshu
 \wav vt-GAtshu
 \ps vt
 \ng caus
@@ -48925,8 +49233,8 @@
 \cf tshu
 \dt 30/Sep/2011
 
-\lx ɣɤtsri
-\wav8 8_GAtsri
+\lx _ɣɤtsri
+\wav8 GAtsri
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -48939,7 +49247,7 @@
 \cf tsri
 \dt 15/Jan/2014
 
-\lx ɣɤtsrɯ
+\lx _ɣɤtsrɯ
 \wav vi-GAtsrW
 \ps vs
 \ng denom
@@ -48957,7 +49265,7 @@
 \cf tɤ-tsrɯ
 \dt 24/Aug/2012
 
-\lx ɣɤtsɯr
+\lx _ɣɤtsɯr
 \wav vi-GAtsWr
 \ps vi
 \ng denom
@@ -48974,7 +49282,7 @@
 \cf tɤ-tsɯr
 \dt 28/Dec/2010
 
-\lx ɣɤtsɯtsrɯɣ
+\lx _ɣɤtsɯtsrɯɣ
 \wav vi-GAtsWtsrWG
 \ps vs
 \ng deidph
@@ -48988,7 +49296,7 @@
 \xn 木头在嘎吱嘎吱响
 \dt 17/Jul/2016
 
-\lx ɣɤtʂɤjɤt
+\lx _ɣɤtʂɤjɤt
 \ps vi
 \pdl dir
 \pdv tɤ-
@@ -48996,9 +49304,9 @@
 \gn 乱动（孩子）
 \dt 14/May/2014
 
-\lx ɣɤtʂhɯtʂhɯt
+\lx _ɣɤtʂhɯtʂhɯt
 \a ɣɤtʂhɯtʂhɯz
-\wav8 8_GAtsxhwtsxhWt
+\wav8 GAtsxhwtsxhWt
 \ps vi
 \ng deidph
 \ge crépiter (feu)
@@ -49007,7 +49315,7 @@
 \xn 火噼啪噼啪作响
 \dt 08/Dec/2011
 
-\lx ɣɤtʂot
+\lx _ɣɤtʂot
 \wav vt-GAtsxot
 \ps vt
 \pdl dir 
@@ -49026,8 +49334,8 @@
 \cf tʂot
 \dt 13/Jul/2014
 
-\lx ɣɤtʂɯtʂɯt
-\wav8 8_GAtsxWtsxWt
+\lx _ɣɤtʂɯtʂɯt
+\wav8 GAtsxWtsxWt
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -49039,7 +49347,7 @@
 \sy ɣɤrɯβrɯβ
 \dt 26/Aug/2012
 
-\lx ɣɤtu
+\lx _ɣɤtu
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -49057,7 +49365,7 @@
 \cf tu
 \dt 01/Jul/2016
 
-\lx ɣɤtɯɣ
+\lx _ɣɤtɯɣ
 \wav vt-GAtWG
 \ps vt
 \sn 1
@@ -49086,11 +49394,11 @@
 \xn 门是（被棍子）顶着的，打不开
 \dt 06/Sep/2015
 
-\lx ɣɤtɯt
+\lx _ɣɤtɯt
 \cf tɯt
 \dt 04/Sep/2015
 
-\lx ɣɤwɤt
+\lx _ɣɤwɤt
 \wav vi-GAwAt
 \ps vs
 \ng denom
@@ -49103,7 +49411,7 @@
 \xn 杜鹃花开花了
 \dt 05/Oct/2011
 
-\lx ɣɤwu
+\lx _ɣɤwu
 \wav vi-GAwu
 \ps vi
 \pdl dir 
@@ -49149,16 +49457,17 @@
 \cf tɤ-wu
 \dt 06/May/2014
 
-\lx ɣɤwxti
+\lx _ɣɤwxti
 \cf wxti
 \dt 27/Oct/2011
 
-\lx ɣɤxpra
+\lx _ɣɤxpra
 \wav vt-GAxpra
 \wav vt-GAxpra2
 \ps vt
 \pdl dir 
 \pdv tɤ-
+\ng denom
 \ge ordonner 
 \gn 指使 
 \hbf 1542 
@@ -49172,12 +49481,13 @@
 \xv tɤ-ɣɤxpra-t-a tɕe tɕe tɕɤndi laχtɕha ɯ-kɯ-ru nɯ-sɤɣri-t-a
 \xn 我使唤他去那边拿东西
 \cf tɤpra
+\cf nɤpra
 \se sɤɣɤxpra
 \ps vi
 \ng apass
-\dt 04/Sep/2015
+\dt 16/May/2017
 
-\lx ɣɤxtɕɤβ
+\lx _ɣɤxtɕɤβ
 \wav vi-GAxtCAB
 \ps vi
 \pdl dir 
@@ -49199,31 +49509,31 @@
 \cf tɤxtɕɤβ
 \dt 16/Jul/2016
 
-\lx ɣɤxtɕhɯxtɕhɯβ
+\lx _ɣɤxtɕhɯxtɕhɯβ
 \cf sɤxtɕhɯxtɕhɯβ
 \dt 01/Aug/2011
 
-\lx ɣɤxtɕi
+\lx _ɣɤxtɕi
 \cf xtɕi
 \dt 27/Oct/2011
 
-\lx ɣɤxtshɯm
+\lx _ɣɤxtshɯm
 \cf xtshɯm
 \dt 01/Nov/2011
 
-\lx ɣɤxtɯt
+\lx _ɣɤxtɯt
 \cf xtɯt
 \dt 12/Oct/2011
 
-\lx ɣɤxɯβxɯβ
+\lx _ɣɤxɯβxɯβ
 \cf xɯβxɯβ
 
-\lx ɣɤxɯrxɯr
+\lx _ɣɤxɯrxɯr
 \cf xɯrxɯr
 \dt 30/Oct/2011
 
-\lx ɣɤxɯxɯɣ
-\wav8 8_GAxWxWG
+\lx _ɣɤxɯxɯɣ
+\wav8 GAxWxWG
 \ps vi
 \ge faire la sourde oreille
 \gn 当作耳边风
@@ -49233,7 +49543,7 @@
 \cf sɤxɯxɯɣ
 \dt 30/Oct/2013
 
-\lx ɣɤχalala
+\lx _ɣɤχalala
 \wav vi-GAXalala
 \ps vs
 \pdl dir 
@@ -49245,7 +49555,7 @@
 \sy ɣɤŋoʁle
 \dt 17/Jul/2016
 
-\lx ɣɤχɤlχɤl
+\lx _ɣɤχɤlχɤl
 \ps vi
 \pdl dir
 \pdv tɤ-
@@ -49256,7 +49566,7 @@
 \cf χɤlχɤl
 \dt 18/Aug/2015
 
-\lx ɣɤχsrɯ
+\lx _ɣɤχsrɯ
 \wav vi-GAXsrW
 \ps vs
 \ge beau
@@ -49269,10 +49579,10 @@
 \xn 犏牛很好看
 \dt 04/Apr/2014
 
-\lx ɣɤzbaʁ
+\lx _ɣɤzbaʁ
 \hm 1
-\wav8 8_GAzbaR
-\wav8 8_YWGAzbaR
+\wav8 GAzbaR
+\wav8 YWGAzbaR
 \ps vt
 \ng caus
 \pdl dir 
@@ -49290,7 +49600,7 @@
 \xn 有风的话就容易干
 \cf zbaʁ
 
-\lx ɣɤzda
+\lx _ɣɤzda
 \wav vt-GAzda2
 \ps vt
 \pdl dir 
@@ -49313,7 +49623,7 @@
 \cf nɤzda
 \dt 04/Aug/2016
 
-\lx ɣɤzdoʁloʁ
+\lx _ɣɤzdoʁloʁ
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -49324,7 +49634,7 @@
 \cf zdoʁzdoʁ
 \dt 23/Aug/2012
 
-\lx ɣɤzgrɤɣlɤɣ
+\lx _ɣɤzgrɤɣlɤɣ
 \wav vi-GAzgrAGlAG
 \ps vs
 \ng deidph
@@ -49338,7 +49648,7 @@
 \xn 他们跳舞，不停地跳动，发出很响的声音
 \dt 12/Sep/2012
 
-\lx ɣɤzɣɤrlɤr
+\lx _ɣɤzɣɤrlɤr
 \ps vi
 \pdl dir
 \pdv tɤ-
@@ -49354,14 +49664,14 @@
 \gn 摇晃，令……头晕
 \dt 13/Jul/2016
 
-\lx ɣɤzɣɯt
+\lx _ɣɤzɣɯt
 \cf zɣɯt
 \dt 28/Apr/2014
 
-\lx ɣɤzjaŋlaŋ
+\lx _ɣɤzjaŋlaŋ
 \wav vi-GAzjaNlaN
-\wav8 8_YWsAzjaNzjaN_Zo
-\wav8 8_YWsAzjaNlaN
+\wav8 YWsAzjaNzjaN_Zo
+\wav8 YWsAzjaNlaN
 \ps vi
 \ge se balancer
 \gn 摇晃
@@ -49383,15 +49693,15 @@
 \ps vt
 \dt 13/Nov/2013
 
-\lx ɣɤzjaŋzjaŋ
+\lx _ɣɤzjaŋzjaŋ
 \cf ɣɤzjaŋlaŋ
 \dt 13/Nov/2013
 
-\lx ɣɤzjɤɣlɤɣ
+\lx _ɣɤzjɤɣlɤɣ
 \cf zjɤɣzjɤɣ
 \dt 31/Oct/2011
 
-\lx ɣɤzoŋzoŋ
+\lx _ɣɤzoŋzoŋ
 \wav vi-GAzoNzoN
 \ps vs
 \ng deidph
@@ -49411,7 +49721,7 @@
 \gn 令……麻木
 \dt 06/Nov/2013
 
-\lx ɣɤzri
+\lx _ɣɤzri
 \hm 1
 \wav vt-GAzri
 \ps vt
@@ -49426,7 +49736,7 @@
 \cf zri
 \dt 28/Apr/2014
 
-\lx ɣɤzri
+\lx _ɣɤzri
 \hm 2
 \ps vs
 \ge qui s'allonge vite
@@ -49440,7 +49750,7 @@
 \cf zri
 \dt 28/Apr/2014
 
-\lx ɣɤzɯβzɯβ
+\lx _ɣɤzɯβzɯβ
 \wav vi-sAzWBzWB
 \ps vi
 \pdl dir 
@@ -49455,7 +49765,7 @@
 \xn 我吃了花椒，嘴里发麻
 \dt 29/May/2013
 
-\lx ɣɤzɯrzɯr
+\lx _ɣɤzɯrzɯr
 \ps vi
 \ge ressentir une démangeaison
 \gn 感觉到很痒
@@ -49463,8 +49773,8 @@
 \xn 我的嘴很痒
 \dt 13/May/2014
 
-\lx ɣɤʑu
-\wav8 8_WGAZu
+\lx _ɣɤʑu
+\wav8 WGAZu
 \ps vi
 \ge y avoir, exister (sensoriel)
 \gn 有（亲见）
@@ -49474,7 +49784,7 @@
 \cf maŋe
 \dt 18/Mar/2015
 
-\lx ɣɤʑɯn
+\lx _ɣɤʑɯn
 \wav vi-GAZin
 \ps vs
 \pdl dir 
@@ -49490,9 +49800,9 @@
 \sy ɣɤrɤβ
 \dt 07/Aug/2012
 
-\lx ɣi
+\lx _ɣi
 \wav vi-Gi
-\wav8 8_thari
+\wav8 thari
 \ps vi
 \pdl dir 
 \pdv jɤ-
@@ -49511,7 +49821,7 @@
 \xv ɯ-ftsa ci chɯ-ɕe ɲɯ-ŋu tɕe, ``thɯ-ɣi ma a-zda me" ɲɯ-ti tɕe thɯ-ari
 \xn 他的侄子去成都就说“你来吧，没有人陪我”，他就一同去了
 \se ɣɤɣi
-\wav8 8_YWGAnWZWB
+\wav8 YWGAnWZWB
 \ps vs
 \ge qui vient facilement 
 \gn 容易来
@@ -49538,7 +49848,7 @@
 \cf tɯ-lɯz,ɣi
 \dt 06/Sep/2015
 
-\lx ɣɟaβ
+\lx _ɣɟaβ
 \wav vt-GJaB
 \ps vt
 \pdl dir 
@@ -49556,7 +49866,7 @@
 \cf tɯɣɟaβ
 \dt 06/Jun/2011
 
-\lx ɣle
+\lx _ɣle
 \wav vt-Gle
 \ps vt
 \pdl dir 
@@ -49580,19 +49890,7 @@
 \gn 揉来揉去
 \dt 19/Aug/2015
 
-\lx ɣlɯtɕɤt
-\wav8 8_GlWtCAt
-\ps n
-\ge action de retirer le purin de l'étable
-\gn 出圈粪
-\xv ɣlɯtɕɤt wuma ʑo ɴqa
-\xn 出圈是很辛苦的
-\cf tɯ-ɣli
-\cf tɕɤt
-\cf ɣɯɣlɯtɕɤt
-\dt 10/Nov/2011
-
-\lx ɣnda
+\lx _ɣnda
 \wav vt-Gnda
 \ps vt
 \pdl dir 
@@ -49611,7 +49909,7 @@
 \xn 我钉了钉子
 \dt 20/May/2013
 
-\lx ɣndʑɯr
+\lx _ɣndʑɯr
 \wav vt-GndZWr
 \wav vt-GndZWr2
 \ps vt
@@ -49640,7 +49938,7 @@
 \cf tɯ-ɣndʑɯr
 \dt 14/Oct/2014
 
-\lx ɣro
+\lx _ɣro
 \wav vi-Gro
 \ps vi
 \pdl dir 
@@ -49664,7 +49962,7 @@
 \xn 不要喝得太多，不然会呛着
 \dt 08/Oct/2014
 
-\lx ɣɯcɤno
+\lx _ɣɯcɤno
 \ps vi
 \pdl dir
 \pdv _
@@ -49675,7 +49973,7 @@
 \cf no
 \dt 29/Aug/2015
 
-\lx ɣɯchɤtshi
+\lx _ɣɯchɤtshi
 \wav vi-GWchAtshi
 \ps vi
 \ng incorp
@@ -49690,7 +49988,7 @@
 \cf chɤtshi
 \dt 02/Jan/2015
 
-\lx ɣɯcɯphɯt
+\lx _ɣɯcɯphɯt
 \wav vi-GWcWphWt
 \ps vi
 \ng incorp
@@ -49707,10 +50005,10 @@
 \cf cɯphɯt
 \dt 26/Apr/2014
 
-\lx ɣɯɕkat
+\lx _ɣɯɕkat
 \wav vt-GWCkat
 \wav vt-GWCkat2
-\wav8 8_GWCkat
+\wav8 GWCkat
 \ps vt
 \ng denom
 \pdl dir 
@@ -49738,7 +50036,7 @@
 \xn 这头驴子驮的是粮食
 \dt 31/Aug/2015
 
-\lx ɣɯɕoŋtɕa
+\lx _ɣɯɕoŋtɕa
 \wav vi-GWCoNtCa
 \ps vi
 \ng denom
@@ -49753,7 +50051,7 @@
 \cf ɕoŋtɕa
 \dt 28/Dec/2010
 
-\lx ɣɯɕɯ
+\lx _ɣɯɕɯ
 \wav vi-GWCW
 \ps vs
 \pdl dir 
@@ -49765,7 +50063,7 @@
 \ev tɯrme ra nɯ-kɤ-zɣɤʁre
 \dt 08/Jul/2016
 
-\lx ɣɯfkɯm
+\lx _ɣɯfkɯm
 \wav vt-GWfkWm
 \ps vt 
 \ng denom
@@ -49786,7 +50084,7 @@
 \cf tɤ-fkɯm
 \dt 19/May/2012
 
-\lx ɣɯɣlɯtɕɤt
+\lx _ɣɯɣlɯtɕɤt
 \wav vi-GWGlWtCAt2
 \ps vi
 \ng incorp
@@ -49799,7 +50097,7 @@
 \cf ɣlɯtɕɤt
 \dt 16/Jul/2016
 
-\lx ɣɯɣndʑɤβta
+\lx _ɣɯɣndʑɤβta
 \wav vi-GWGndZABta2
 \ps vi
 \ng incorp
@@ -49814,7 +50112,7 @@
 \cf ɣndʑɤβta
 \dt 16/Jul/2016
 
-\lx ɣɯjru
+\lx _ɣɯjru
 \ps vt
 \pdl dir 
 \pdv kɤ-
@@ -49826,8 +50124,8 @@
 \xn 坛子没有烤熟
 \dt 12/Feb/2014
 
-\lx ɣɯjtsi
-\wav8 8_GWjtsi
+\lx _ɣɯjtsi
+\wav8 GWjtsi
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -49840,7 +50138,7 @@
 \cf tɤ-jtsi
 \dt 30/Aug/2015
 
-\lx ɣɯkhɯtshoʁ
+\lx _ɣɯkhɯtshoʁ
 \wav vi-GWkhWtshoR
 \ps vi
 \ng incorp
@@ -49860,7 +50158,7 @@
 \cf khɯna,tshoʁ
 \dt 17/Jul/2013
 
-\lx ɣɯlaj
+\lx _ɣɯlaj
 \ps vs
 \ge aux gestes
 \gn 动作慢
@@ -49869,7 +50167,7 @@
 \an ɣɤjru
 \dt 18/Jul/2016
 
-\lx ɣɯlɤn
+\lx _ɣɯlɤn
 \wav vt-GWlAn
 \ps vt 
 \ng denom
@@ -49890,7 +50188,7 @@
 \cf tɯ-lɤn
 \dt 01/Jan/2014
 
-\lx ɣɯpɕawtsɯfsoʁ
+\lx _ɣɯpɕawtsɯfsoʁ
 \wav vi-GWpCawtsWfsoR
 \ps vi
 \ng incorp
@@ -49906,7 +50204,7 @@
 \xn 他去打工挣钱了
 \dt 16/Jul/2016
 
-\lx ɣɯri
+\lx _ɣɯri
 \wav vt-GWri
 \ps vt
 \ng denom
@@ -49930,7 +50228,7 @@
 \cf tɤ-ri
 \dt 28/Aug/2015
 
-\lx ɣɯrɟɤn
+\lx _ɣɯrɟɤn
 \wav vt-GWrJAn
 \ps vt
 \pdl dir 
@@ -49945,9 +50243,9 @@
 \xn 他们用马鸡的羽毛装饰了枝桠
 \dt 12/Jan/2013
 
-\lx ɣɯrɟɯfsoʁ
+\lx _ɣɯrɟɯfsoʁ
 \a rɯrɟɯfsoʁ
-\wav8 8_GWrJWfsoR
+\wav8 GWrJWfsoR
 \ps vi
 \ng incorp
 \pdl dir 
@@ -49961,7 +50259,7 @@
 \cf rɟɯfsoʁ
 \dt 13/Mar/2013
 
-\lx ɣɯrni
+\lx _ɣɯrni
 \wav vi-GWrni
 \ps vs
 \pdl dir 
@@ -49976,7 +50274,7 @@
 \xv tɤ-se pjɤ-ɣɯrni
 \xn 出血了
 \se zɣɯrni
-\wav8 8_zGWrni
+\wav8 zGWrni
 \ps vt
 \ng caus
 \ge rendre rouge
@@ -49985,7 +50283,7 @@
 \xn 他令它变红了
 \dt 07/Oct/2011
 
-\lx ɣɯrŋi
+\lx _ɣɯrŋi
 \wav vi-GWrNi-b
 \ps vs
 \ge vert (bois)
@@ -49995,7 +50293,7 @@
 \an rom
 \dt 19/May/2013
 
-\lx ɣɯscur
+\lx _ɣɯscur
 \wav vt-GWscur
 \ps vt
 \pdl dir 
@@ -50008,9 +50306,9 @@
 \xn 为了不要把鸡蛋打烂，我把它捧起了
 \dt 30/Nov/2013
 
-\lx ɣɯsɯphɯt
+\lx _ɣɯsɯphɯt
 \wav vi-GWsWphWt
-\wav8 8_GWsWphWt
+\wav8 GWsWphWt
 \ps vi
 \ng incorp
 \pdl dir 
@@ -50030,10 +50328,10 @@
 \cf sɯphɯt
 \dt 10/Nov/2011
 
-\lx ɣɯt
+\lx _ɣɯt
 \wav vt-GWt
 \wav vt-GWt2
-\wav8 8_kAGWtmAsna
+\wav8 kAGWtmAsna
 \ps vt
 \pdl dir 
 \pdv jɤ-
@@ -50053,7 +50351,7 @@
 \cf ɣi
 \dt 07/May/2014
 
-\lx ɣɯtɕha
+\lx _ɣɯtɕha
 \wav vt-GWtCha2
 \ps vt
 \ng denom
@@ -50067,7 +50365,7 @@
 \cf tɯ-tɕha1
 \dt 14/Jul/2016
 
-\lx ɣɯthaʁ
+\lx _ɣɯthaʁ
 \wav vt-GWthaR
 \ps vt
 \pdl dir 
@@ -50082,7 +50380,7 @@
 \xn 木棒要把犁干和犁头两边顶住（使它们俩稳固）
 \dt 25/Aug/2012
 
-\lx ɣɯtshɤdɯɣ
+\lx _ɣɯtshɤdɯɣ
 \wav vi-GWtshAdWG
 \ps vi
 \pdl dir 
@@ -50095,7 +50393,7 @@
 \xn 天晴了，很热
 \dt 29/May/2013
 
-\lx ɣɯtʂɤmtshi
+\lx _ɣɯtʂɤmtshi
 \wav vt-GWtsxAmtshi
 \ps vi
 \ng incorp
@@ -50115,7 +50413,7 @@
 \cf tʂɤmtshi
 \dt 18/Jul/2016
 
-\lx ɣɯtʂhɤtshi
+\lx _ɣɯtʂhɤtshi
 \wav vi-GWtShAtshi
 \ps vi
 \ng incorp
@@ -50131,7 +50429,7 @@
 \xv tshi
 \dt 28/Dec/2010
 
-\lx ɣɯχsɤl
+\lx _ɣɯχsɤl
 \wav vt-GWXsAl
 \ps vt
 \pdl dir
@@ -50145,7 +50443,7 @@
 \cf χsɤl
 \dt 17/Jul/2016
 
-\lx ja
+\lx _ja
 \hm 1
 \wav vt-ja
 \ps vt
@@ -50178,7 +50476,7 @@
 \xn 被关在那里
 \dt 20/Nov/2014
 
-\lx ja
+\lx _ja
 \hm 2
 \ps vs
 \pdl dir
@@ -50190,10 +50488,10 @@
 \sy rŋil
 \dt 04/May/2014
 
-\lx jaʁ
+\lx _jaʁ
 \wav vi-jaR
-\wav8 8_GAjaR
-\wav8 8_nAjaR
+\wav8 GAjaR
+\wav8 nAjaR
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -50215,7 +50513,7 @@
 \an mba
 \dt 06/Aug/2013
 
-\lx jaʁjɯ
+\lx _jaʁjɯ
 \wav vi-jaRjW
 \ps vs
 \pdl dir 
@@ -50229,7 +50527,7 @@
 \cf jaʁ
 \dt 17/Jul/2016
 
-\lx jasa,ta
+\lx _jasa,ta
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -50246,8 +50544,8 @@
 \ps vt
 \dt 30/Aug/2015
 
-\lx jɤɣ
-\wav8 8_tAjAG
+\lx _jɤɣ
+\wav8 tAjAG
 \ps vs
 \sn 1
 \pdl dir 
@@ -50281,7 +50579,7 @@
 \gn 不但
 \dt 03/Jul/2016
 
-\lx jɣɤt
+\lx _jɣɤt
 \wav vi-jGAt
 \ps vi
 \pdl dir 
@@ -50307,7 +50605,7 @@
 \xn 虽然他往上游去了，但是我让他转回来了
 \dt 19/Feb/2014
 
-\lx ji
+\lx _ji
 \wav vt-ji
 \ps vt
 \pdl dir 
@@ -50326,7 +50624,7 @@
 \cf rɤji
 \dt 03/Aug/2012
 
-\lx jit
+\lx _jit
 \wav vi-jit
 \ps vi
 \pdl dir 
@@ -50343,7 +50641,7 @@
 \xn 茶刚才放在这里，不小心倒了
 \dt 17/Jul/2016
 
-\lx jkrɯt
+\lx _jkrɯt
 \wav vi-jkrWt
 \ps vi
 \pdl dir 
@@ -50354,25 +50652,10 @@
 \xn 我烧了油，冷了就凝固了
 \dt 19/Feb/2014
 
-\lx jlɤmtshi
-\ps n
-\ge action de mener un yak hybride
-\gn 牵犏牛
-\cf nɯjlɤmtshi
-\dt 09/Sep/2015
-
-\lx jmɤlu
-\wav n-jmAlu
-\ps n
-\ge sans queue 
-\gn 缺了尾巴的动物 
-\cf tɤ-jme
-\dt 14/May/2013
-
-\lx jmɯt
+\lx _jmɯt
 \wav vt-jmWt
 \wav vt-jmWt2
-\wav8 8_YWtWnWjmWt
+\wav8 YWtWnWjmWt
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -50413,7 +50696,7 @@
 \an nɯɣɯɕɯftaʁ
 \dt 19/Jul/2016
 
-\lx jndʐɤz
+\lx _jndʐɤz
 \wav vi-jndzxAs
 \ps vs
 \pdl dir 
@@ -50429,7 +50712,7 @@
 \xn 糌粑磨得很粗
 \dt 21/Jan/2013
 
-\lx jndʐɯɣ
+\lx _jndʐɯɣ
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -50440,7 +50723,7 @@
 \xn 牛在反刍
 \dt 16/Jul/2016
 
-\lx jnom
+\lx _jnom
 \wav vi-jnom
 \ps vs
 \ge flexible
@@ -50448,7 +50731,7 @@
 \cf ldʑɯz
 \dt 29/Nov/2011
 
-\lx jom
+\lx _jom
 \wav vi-jom
 \ps vs
 \pdl dir 
@@ -50469,7 +50752,7 @@
 \cf ɣɤjom
 \dt 20/Jul/2016
 
-\lx joʁ
+\lx _joʁ
 \wav vt-joR
 \ps vt
 \sn 1
@@ -50502,9 +50785,9 @@
 \sy wum
 \dt 21/Jul/2016
 
-\lx jpɣom
+\lx _jpɣom
 \wav vi-jpGom2
-\wav8 8_sWjpGom
+\wav8 sWjpGom
 \ps vi
 \pdl dir 
 \pdv kɤ-
@@ -50525,9 +50808,9 @@
 \cf qajpɣom
 \dt 16/Jul/2016
 
-\lx jpum
+\lx _jpum
 \wav vi-jpum
-\wav8 8_GAjpum
+\wav8 GAjpum
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -50548,7 +50831,7 @@
 \an xtshɯm
 \dt 14/Mar/2014
 
-\lx jpumqa
+\lx _jpumqa
 \wav vi-jpumqa
 \ps vs
 \pdl dir 
@@ -50562,9 +50845,9 @@
 \cf jpum
 \dt 07/Jul/2016
 
-\lx jqu
+\lx _jqu
 \wav vt-jqu
-\wav8 8_jqu
+\wav8 jqu
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -50600,10 +50883,10 @@
 \xn 这袋粮食可以背得动
 \dt 24/Aug/2015
 
-\lx jtshi
+\lx _jtshi
 \wav vt-jtshi
-\wav8 8_sAjtshi
-\wav8 8_ajtshi
+\wav8 sAjtshi
+\wav8 ajtshi
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -50641,7 +50924,7 @@
 \xn 牛奶已经给小孩喝了
 \dt 09/May/2013
 
-\lx jtsraβ
+\lx _jtsraβ
 \wav vi-jtsraB
 \wav vi-jtsraB2
 \ps vi
@@ -50657,7 +50940,7 @@
 \xn 他本来是要走的，但是因为没有准备好，只好推迟了出发的时间
 \dt 17/Jul/2016
 
-\lx jɯm
+\lx _jɯm
 \hm 1
 \wav vi-jWm
 \ps vs
@@ -50678,21 +50961,21 @@
 \gn （用法术）令天变晴
 \dt 08/Jul/2016
 
-\lx ɟar
+\lx _ɟar
 \ps vt 
 \pdl dir 
 \pdv nɯ-
 \ge séparer le navet et les feuilles du navet
 \gn 把圆根的根和叶子切开
 \se rɤɟar
-\wav8 8_kurAJara
+\wav8 kurAJara
 \ps vi 
 \ng apass
 \xv ku-rɤɟar-a
 \xn 我在切圆根
 \dt 03/Sep/2015
 
-\lx ɟɯ
+\lx _ɟɯ
 \ps vi
 \pdl dir
 \pdv thɯ-
@@ -50703,7 +50986,7 @@
 \cf nɯɣɟɯ
 \dt 05/Jul/2016
 
-\lx ka
+\lx _ka
 \ps vi
 \pdl dir
 \pdv tɤ-
@@ -50715,7 +50998,7 @@
 \xn 云贴在山尖上，还没有离开地面
 \dt 15/Jul/2016
 
-\lx kaβ
+\lx _kaβ
 \wav vi-kaB
 \ps vi
 \pdl dir 
@@ -50728,7 +51011,7 @@
 \cf sakaβ
 \dt 17/Jan/2015
 
-\lx kɤɣ
+\lx _kɤɣ
 \wav vt-kAG
 \ps vt
 \pdl dir 
@@ -50748,8 +51031,8 @@
 \cf ŋgɤɣ
 \dt 20/May/2013
 
-\lx kɤtɕhɯ
-\wav8 8_kAtChW
+\lx _kɤtɕhɯ
+\wav8 kAtChW
 \ps n
 \ge coup de tête
 \gn 用头顶
@@ -50760,10 +51043,10 @@
 \cf nɤkɤtɕhɯ
 \dt 10/Nov/2011
 
-\lx kɤtɯpa
+\lx _kɤtɯpa
 \hm 2
-\wav8 8_kAtWpa
-\wav8 8_kAtWpa2
+\wav8 kAtWpa
+\wav8 kAtWpa2
 \ps vt
 \ge dire
 \gn 说；转告
@@ -50777,7 +51060,7 @@
 \cf kɤtɯpa1
 \dt 06/Sep/2015
 
-\lx khɤli,rgi
+\lx _khɤli,rgi
 \pdl dir 
 \pdv tɤ-
 \ge avoir une bonne renommée
@@ -50793,7 +51076,7 @@
 \ps vs
 \dt 01/Sep/2015
 
-\lx khɤt
+\lx _khɤt
 \wav vt-khAt
 \ps vt 
 \pdl dir 
@@ -50819,7 +51102,7 @@
 \xn 我讲了很久
 \dt 13/Dec/2010
 
-\lx khe
+\lx _khe
 \wav vi-khe
 \wav vi-khe2
 \ps vs
@@ -50846,6 +51129,8 @@
 \xn 天气变得不好
 \xv ɯ-ɲɤm ɲɯ-khe
 \xn 他很瘦
+\cf tɤkhe
+\cf nɯɲɤmkhe
 \se ɣɤkhe
 \ps vt
 \pdl dir 
@@ -50868,11 +51153,9 @@
 \ps vi
 \ge considérer les gens comme des imbéciles
 \gn 把别人当做傻瓜，诬蔑别人
-\cf tɤkhe
-\cf nɯɲɤmkhe
 \dt 01/Sep/2015
 
-\lx kho
+\lx _kho
 \hm 1
 \wav vt-kho
 \ps vt
@@ -50900,9 +51183,9 @@
 \xn 你是不是把自己交到敌人的手里了？
 \dt 13/Oct/2016
 
-\lx khra
+\lx _khra
 \wav vt-khra
-\wav8 8_pWkhrata
+\wav8 pWkhrata
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -50916,9 +51199,9 @@
 \cf sɤkhra
 \dt 24/Jun/2011
 
-\lx khrɤt
+\lx _khrɤt
 \hm 1
-\wav8 8_pasWkhrAt
+\wav8 pasWkhrAt
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -50940,7 +51223,7 @@
 \cf tɯ-tɤkhrɤz
 \dt 12/May/2014
 
-\lx khrɤt
+\lx _khrɤt
 \hm 2
 \ps vt
 \pdl dir 
@@ -50953,7 +51236,7 @@
 \xn 我给小孩子布置了这个任务
 \dt 02/Oct/2013
 
-\lx khrɯ
+\lx _khrɯ
 \wav vi-khrW
 \ps vs 
 \pdl dir 
@@ -50984,40 +51267,31 @@
 \xn 因为不下雨，这些地方都变得很干燥
 \dt 20/Jul/2016
 
-\lx khɯ
+\lx _khɯ
 \hm 1
 \wav vi-khW
 \wav vi-khW2
 \ps vs
+\sn 1
 \ge être possible
 \gn 可以
 \xv nɯ kɤti mɤ-kɯ-khɯ me
 \xn 那样说没有什么不可以的
-\se nɯkhɯ
-\ps vi
+\sn 2
 \pdl dir 
 \pdv tɤ-
-\ge refuser
-\gn 自己不同意；不听劝（不能怪别人）
-\xv aʑo kɤ-zrɤma mɯ-tɤ-nɯkhɯ-a ɕti tɕe a-kɤ-nɯmɟa a-pɯ-nɯ-me ɬoʁ
+\ge être d'accord
+\gn 肯；听劝
+\xv mɯ́j-tɯ-khɯ
+\xn 你不听
+\xv aʑo kɤ-zrɤma mɯ-tɤ-nɯ-khɯ-a ɕti tɕe a-kɤ-nɯmɟa a-pɯ-nɯ-me ɬoʁ
 \xn 我自己不同意做事，没有报酬是应该
-\xv nɤʑo mɯ-tɤ-tɯ-nɯkhɯ ɕti tɕe, ma-tɤ-kɯ-mpɕa-a je
+\xv nɤʑo mɯ-tɤ-tɯ-nɯ-khɯ ɕti tɕe, ma-tɤ-kɯ-mpɕa-a je
 \xn 是你自己没有同意，你不要责怪我
-\xn 我没有听劝
 \cf ɣɤkhɯ2
 \dt 14/Jan/2015
 
-\lx khɯtshoʁ
-\wav8 8_khWtshOR
-\ps n
-\ge chasse avec des chiens
-\gn 狩猎（牵着狗）
-\xv aʑo khɯtshoʁ rga
-\xn 我喜欢打猎
-\cf ɣɯkhɯtshoʁ
-\dt 08/Nov/2011
-
-\lx kio
+\lx _kio
 \wav vt-kio
 \ps vt
 \sn 1
@@ -51039,7 +51313,7 @@
 \gn 挤过去（因为人多，很拥挤）
 \dt 01/Sep/2015
 
-\lx ko
+\lx _ko
 \hm 1
 \wav vt-ko
 \ps vt
@@ -51063,7 +51337,7 @@
 \xn 你因为我受了很多苦
 \dt 20/Jul/2016
 
-\lx kra
+\lx _kra
 \wav vt-kra
 \ps vt
 \pdl dir 
@@ -51078,7 +51352,7 @@
 \cf ŋgra
 \dt 30/Dec/2011
 
-\lx krɤɣ
+\lx _krɤɣ
 \wav vt-krAG
 \wav vt-krAG2
 \ps vt 
@@ -51115,7 +51389,7 @@
 \xn 这只羊容易剪毛
 \dt 07/Sep/2015
 
-\lx kro
+\lx _kro
 \wav vt-kro
 \ps vt
 \pdl dir 
@@ -51169,7 +51443,7 @@
 \gn 分来分去
 \dt 31/Aug/2014
 
-\lx krul
+\lx _krul
 \ps vi
 \pdl dir
 \pdv pɯ-
@@ -51182,9 +51456,9 @@
 \xn 和尚们念完经了
 \dt 30/Apr/2014
 
-\lx kɯrowɤro
-\wav8 8_kWroworo
-\wav8 8_kWroworo2
+\lx _kɯrowɤro
+\wav8 kWroworo
+\wav8 kWroworo2
 \ps n
 \ge en trop
 \gn 多余的
@@ -51196,7 +51470,7 @@
 \xn 不要有多余的话
 \dt 04/Aug/2012
 
-\lx la
+\lx _la
 \ps vt
 \sn 1
 \pdl dir
@@ -51215,7 +51489,7 @@
 \cf ɣɤla
 \dt 22/Aug/2015
 
-\lx laŋ
+\lx _laŋ
 \ps vi
 \pdl dir
 \pdv tɤ-
@@ -51225,7 +51499,7 @@
 \xv mkhɤrmaŋ to-laŋ-nɯ
 \xn 老百姓起义了
 
-\lx lɤɣ
+\lx _lɤɣ
 \wav vt-lAG
 \wav vt-lAG2
 \ps vl
@@ -51240,7 +51514,7 @@
 \xn 我把牲畜带去放了
 \dt 23/Dec/2014
 
-\lx lɤn
+\lx _lɤn
 \wav vi-lAn
 \ps vi
 \pdl dir 
@@ -51268,10 +51542,10 @@
 \xn 不是你的错
 \dt 15/Jan/2015
 
-\lx lɤt
+\lx _lɤt
 \hm 1
-\wav8 8_thWkAlAt
-\wav8 8_jWtasco
+\wav8 thWkAlAt
+\wav8 jWtasco
 \ps vt 
 \sn 1
 \pdl dir 
@@ -51292,6 +51566,8 @@
 \sn 3
 \pdl dir
 \pdv tɤ-
+\pdl dir
+\pdv pɯ-
 \ge frapper
 \gn 打
 \xv ɯ-ku zɯ tɤŋkhɯt to-lɤt
@@ -51300,6 +51576,8 @@
 \xn 捏了一下
 \xv tɯ-qartsɯ ta-lɤt
 \xn （马）踢了一脚
+\xv ɯ-mke pjɤ-lɤt
+\xn 他给他割了喉
 \sn 4
 \pdl dir
 \pdv pɯ-
@@ -51322,8 +51600,8 @@
 \xn 把盐擦在肉上（腌制腊肉的方法）
 \sy mar
 \sn 6
-\wav8 8_thWlata
-\wav8 8_tWmbri_ci_kAlata
+\wav8 thWlata
+\wav8 tWmbri_ci_kAlata
 \ge utiliser
 \gn 用（工具）
 \xv mkhɯrlu jo-lɤt 
@@ -51420,7 +51698,7 @@
 \xn 他请（服务员）给自己倒一杯酒
 \dt 11/Aug/2016
 
-\lx ldɯm
+\lx _ldɯm
 \wav vi-ldWm
 \ps vs
 \pdl dir 
@@ -51434,7 +51712,7 @@
 \xn 孩子很听话
 \dt 08/Oct/2011
 
-\lx ldʑoʁ
+\lx _ldʑoʁ
 \ps vi
 \pdl dir
 \pdv tɤ-
@@ -51454,7 +51732,7 @@
 \xn 事情不能一下完成，因为头绪多
 \dt 02/Sep/2015
 
-\lx ldʑɯβ
+\lx _ldʑɯβ
 \ps vt
 \ge pouvoir aider
 \gn 帮得了
@@ -51464,7 +51742,7 @@
 \xn 弱者帮不了强者
 \dt 30/Aug/2015
 
-\lx ldʑɯz
+\lx _ldʑɯz
 \wav vi-ldZWz
 \ps vs
 \pdl dir 
@@ -51478,7 +51756,7 @@
 \xn 这棵杨树有韧性
 \dt 17/Jul/2016
 
-\lx lɣa
+\lx _lɣa
 \wav vt-lGa
 \ps vt
 \pdl dir 
@@ -51494,7 +51772,7 @@
 \xn 我挖了地
 \dt 24/Oct/2013
 
-\lx li
+\lx _li
 \hm 3
 \wav vi-li
 \ps vs
@@ -51527,7 +51805,7 @@
 \gn 惯养小孩
 \dt 06/Sep/2015
 
-\lx lɟɣaʁ
+\lx _lɟɣaʁ
 \wav vt-lJGaR
 \ps vt
 \pdl dir 
@@ -51544,7 +51822,7 @@
 \xn 你把绳子搭在那里
 \dt 02/Dec/2010
 
-\lx lkɯɣ
+\lx _lkɯɣ
 \ps vi
 \pdl dir
 \pdv kɤ-
@@ -51556,7 +51834,7 @@
 \xn 你要锻炼一下身体，这样就不会有关节不灵的感觉
 \dt 08/Sep/2015
 
-\lx lni
+\lx _lni
 \wav vi-lni
 \ps vi
 \pdl dir 
@@ -51570,7 +51848,7 @@
 \xn 圆根蔫了
 \dt 02/Dec/2010
 
-\lx lo
+\lx _lo
 \hm 1
 \ps vi
 \pdl dir 
@@ -51582,7 +51860,7 @@
 \xn 我对麻子有免疫能力
 \dt 22/Aug/2012
 
-\lx loʁ
+\lx _loʁ
 \wav vi-loR-b
 \ps vs
 \pdl dir 
@@ -51597,7 +51875,7 @@
 \xn 门变形了，很难开关
 \dt 17/Jul/2016
 
-\lx ltɤβ
+\lx _ltɤβ
 \wav vt-ltAB
 \ps vt
 \pdl dir 
@@ -51612,9 +51890,9 @@
 \sy zdɤβ
 \dt 21/Sep/2014
 
-\lx ltɕaʁ
-\wav8 8_tAltCaR
-\wav8 8_ltCaR-def
+\lx _ltɕaʁ
+\wav8 tAltCaR
+\wav8 ltCaR-def
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -51625,7 +51903,7 @@
 \ev tɯ-jaʁ ɯ-ntsi ɯ-taʁ tɕe ta-mar ɲɯ́-wɣ-ta, ta-jaʁ ɯ-ntsi nɯ kɯ ɯ-taʁ taχphe kɯ-fse tú-wɣ-sɯ-lɤt. tɕe nɯnɯ tú-wɣ-ltɕaʁ tu-kɯ-ti ŋu.
 \dt 13/Jan/2015
 
-\lx luj
+\lx _luj
 \wav vt-luj
 \ps vt
 \pdl dir 
@@ -51652,7 +51930,7 @@
 \gn 被遮住，被裹起来
 \dt 04/Dec/2010
 
-\lx lɯβ
+\lx _lɯβ
 \wav vi-lWB
 \wav vi-lWB2
 \wav vi-lWB3
@@ -51671,7 +51949,7 @@
 \sy qanɯ
 \dt 12/May/2013
 
-\lx lɯɣ
+\lx _lɯɣ
 \wav vi-lWG
 \wav vi-lWG2
 \ps vi
@@ -51727,7 +52005,7 @@
 \xn 他被关（进监狱），但是逃脱了
 \dt 07/Jul/2016
 
-\lx lɯz
+\lx _lɯz
 \ps vi
 \ge rester
 \gn 留下
@@ -51738,7 +52016,7 @@
 \cf sɯɣlɯz
 \dt 24/Oct/2011
 
-\lx lwɤz
+\lx _lwɤz
 \wav vi-lwAz
 \ps vi
 \pdl dir 
@@ -51749,7 +52027,7 @@
 \xn 我犯病了
 \dt 12/Aug/2012
 
-\lx lwoʁ
+\lx _lwoʁ
 \wav vt-lwoR
 \ps vt
 \pdl dir 
@@ -51770,7 +52048,7 @@
 \cf ci
 \dt 09/Jul/2016
 
-\lx ɬɤt
+\lx _ɬɤt
 \wav vi-lhAt
 \ps vs
 \pdl dir 
@@ -51781,7 +52059,7 @@
 \xn 房子老化破损了
 \dt 04/Nov/2013
 
-\lx ɬoʁ
+\lx _ɬoʁ
 \hm 1
 \wav vi-LoR
 \ps vs
@@ -51791,7 +52069,7 @@
 \xn 我必须这样做
 \dt 19/Aug/2015
 
-\lx ɬoʁ
+\lx _ɬoʁ
 \hm 2
 \wav vi-LoR
 \ps vi
@@ -51816,7 +52094,7 @@
 \xn 奶牛生了崽子
 \dt 21/Jul/2016
 
-\lx maŋ
+\lx _maŋ
 \ps vi
 \ge beaucoup 
 \gn 很多 
@@ -51825,14 +52103,14 @@
 \xn 他想得多
 \dt 06/May/2014
 
-\lx maŋdi
+\lx _maŋdi
 \ps vs
 \pdl dir 
 \pdv nɯ-
 \ge être à l'ouest 
 \gn 在西方
 
-\lx maŋkɯ
+\lx _maŋkɯ
 \ps vs
 \pdl dir 
 \pdv kɤ-
@@ -51840,7 +52118,7 @@
 \gn 在东方 
 \dt 29/May/2013
 
-\lx maŋlo
+\lx _maŋlo
 \ps vs
 \pdl dir 
 \pdv lɤ-
@@ -51855,7 +52133,7 @@
 \gn 到上游的地方
 \dt 17/Mar/2014
 
-\lx maŋpa
+\lx _maŋpa
 \ps vs
 \pdl dir 
 \pdv pɯ-
@@ -51863,21 +52141,21 @@
 \gn 在下面 
 \dt 29/May/2013
 
-\lx maŋtaʁ
+\lx _maŋtaʁ
 \ps vs
 \pdl dir 
 \pdv tɤ-
 \ge être en haut 
 \gn 在上面
 
-\lx maŋthi
+\lx _maŋthi
 \ps vs
 \pdl dir 
 \pdv thɯ-
 \ge être en aval 
 \gn 在下游
 
-\lx maqhu
+\lx _maqhu
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -51890,7 +52168,7 @@
 \hbf 1019
 \dt 29/May/2013
 
-\lx mar
+\lx _mar
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -51916,7 +52194,7 @@
 \gn 被涂在……
 \dt 13/Jan/2015
 
-\lx maʁ
+\lx _maʁ
 \hm 1
 \ps vs
 \ge ne pas être
@@ -51945,14 +52223,14 @@
 \ge au moins
 \gn 至少；起码
 \se pjɯsɤɣmaʁ me
-\wav8 8_pjWsAGmaR
+\wav8 pjWsAGmaR
 \ge il n'y a aucun doute
 \gn 毫无疑问
 \xv kɯ-mɯrkɯ ɯʑo ɕti ma pjɯ-sɤɣ-maʁ me
 \xn 毫无疑问，他就是小偷
 \dt 11/Aug/2016
 
-\lx mɤɕi
+\lx _mɤɕi
 \ps vs
 \pdl dir 
 \pdv thɯ-
@@ -51965,9 +52243,9 @@
 \xn 牧民富有了就请人念经，农民富有了就修房子，汉族富有了就结婚
 \dt 24/Apr/2013
 
-\lx mɤku
+\lx _mɤku
 \wav vi-mAku
-\wav8 8_mAku
+\wav8 mAku
 \ps vs
 \pdl dir 
 \pdv _
@@ -51990,7 +52268,7 @@
 \cf tɯ-ku
 \dt 09/Oct/2011
 
-\lx mɤlɯm
+\lx _mɤlɯm
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -52003,7 +52281,7 @@
 \cf tɯ-lɯm
 \dt 30/Aug/2012
 
-\lx mɤmbɯr
+\lx _mɤmbɯr
 \wav vi-mAmbWr
 \ps vs
 \pdl dir 
@@ -52018,9 +52296,9 @@
 \xn 地上凸出来了
 \dt 11/Jan/2015
 
-\lx mɤmu
+\lx _mɤmu
 \wav vi-mAmu
-\wav8 8_mAmu
+\wav8 mAmu
 \ps vi
 \pdl dir 
 \pdv lɤ-
@@ -52056,8 +52334,8 @@
 \xn 要跟他们说，但是我不会主要出面（婉转的意思：那句话不好说）
 \dt 17/Jul/2016
 
-\lx mɤŋgɯ
-\wav8 8_chWwGzmANgW
+\lx _mɤŋgɯ
+\wav8 chWwGzmANgW
 \ps vi
 \ge être à l'intérieur
 \gn 在里面
@@ -52079,7 +52357,7 @@
 \xn 这件衣服穿在里面舒服
 \dt 05/May/2014
 
-\lx mɤpaχcɤl
+\lx _mɤpaχcɤl
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -52090,7 +52368,7 @@
 \cf mɤχcɤl
 \dt 09/May/2013
 
-\lx mɤpɤrthɤβ
+\lx _mɤpɤrthɤβ
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -52113,8 +52391,8 @@
 \xn 他走到中间了
 \dt 13/Dec/2010
 
-\lx mɤpɕi
-\wav8 8_chWwGzmApCi
+\lx _mɤpɕi
+\wav8 chWwGzmApCi
 \ps vi
 \ng denom
 \ge se trouver à l'extérieur
@@ -52141,7 +52419,7 @@
 \cf ɯ-pɕi
 \dt 27/Aug/2015
 
-\lx mɤrom
+\lx _mɤrom
 \wav vi-mArom
 \ps vs
 \pdl dir 
@@ -52157,9 +52435,9 @@
 \xn 我的脚肿了
 \dt 09/Oct/2011
 
-\lx mɤrpaʁ
+\lx _mɤrpaʁ
 \wav vt-mArpaR
-\wav8 8_mArpaR
+\wav8 mArpaR
 \ps vt
 \ng denom
 \pdl dir 
@@ -52175,7 +52453,7 @@
 \cf tɯ-rpaʁ
 \dt 26/Aug/2012
 
-\lx mɤrtsaβ
+\lx _mɤrtsaβ
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -52186,7 +52464,7 @@
 \xn 你脾气很泼辣
 \se zmɤrtsaβ
 \wav vt-zmArtsaB
-\wav8 8_zmArtsaB
+\wav8 zmArtsaB
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -52207,7 +52485,7 @@
 \gn 觉得辣
 \dt 09/Oct/2011
 
-\lx mɤrʑaβ
+\lx _mɤrʑaβ
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -52219,7 +52497,7 @@
 \cf tɤ-rʑaβ
 \dt 20/Aug/2015
 
-\lx mɤsɲɯm
+\lx _mɤsɲɯm
 \wav vi-mAsYWm
 \ps vs
 \pdl dir 
@@ -52230,7 +52508,7 @@
 \xn 牲畜爱吃纺织品
 \dt 09/Oct/2011
 
-\lx mɤtɕɯ
+\lx _mɤtɕɯ
 \wav vi-mAtCW
 \ps vi
 \pdl dir 
@@ -52244,8 +52522,8 @@
 \cf tɤ-tɕɯ
 \dt 16/Aug/2012
 
-\lx mɤχcɤl
-\wav8 8_mAXcAl
+\lx _mɤχcɤl
+\wav8 mAXcAl
 \ps vi
 \ng denom
 \pdl dir 
@@ -52258,8 +52536,8 @@
 \cf ɯ-χcɤl
 \dt 26/Aug/2012
 
-\lx mɤzɯr
-\wav8 8_mAzWr
+\lx _mɤzɯr
+\wav8 mAzWr
 \ps vi
 \ng denom
 \pdl dir 
@@ -52281,7 +52559,7 @@
 \et zur
 \dt 18/Jul/2016
 
-\lx mba
+\lx _mba
 \wav vi-mba
 \ps vs
 \pdl dir 
@@ -52306,7 +52584,7 @@
 \an jaʁ
 \dt 22/Aug/2015
 
-\lx mbaʁ
+\lx _mbaʁ
 \wav vi-mbaR
 \ps vi
 \pdl dir 
@@ -52336,7 +52614,7 @@
 \xn 女式长衫的下面左右两边都是叉开的
 \dt 17/Jul/2016
 
-\lx mbat
+\lx _mbat
 \wav vi-mbat
 \wav vi-mbat2
 \ps vs
@@ -52376,9 +52654,9 @@
 \cf stu1
 \dt 27/Aug/2015
 
-\lx mbɤβ
+\lx _mbɤβ
 \hm 1
-\wav8 8_kombAB
+\wav8 kombAB
 \ps vi
 \pdl dir
 \pdv kɤ-
@@ -52399,7 +52677,7 @@
 \xn 没有办法把酒酿出来
 \dt 06/Sep/2015
 
-\lx mbɤβ
+\lx _mbɤβ
 \hm 2
 \ps vi
 \pdl dir
@@ -52421,7 +52699,7 @@
 \xn 梳一下头，头发要整齐，不要乱蓬蓬的
 \dt 06/Sep/2015
 
-\lx mbɤβ
+\lx _mbɤβ
 \hm 3
 \ps vi
 \pdl dir
@@ -52432,7 +52710,7 @@
 \xn 草地人在那里宿营了
 \dt 06/Sep/2015
 
-\lx mbɤr
+\lx _mbɤr
 \hm 1
 \wav vi-mbAr2
 \wav vi-mbAr3
@@ -52452,7 +52730,7 @@
 \an mbro1
 \dt 17/Jan/2015
 
-\lx mbɤr
+\lx _mbɤr
 \hm 2
 \ps vi
 \ng acaus
@@ -52463,7 +52741,7 @@
 \cf sɤphɤr
 \dt 09/Oct/2011
 
-\lx mbe
+\lx _mbe
 \wav vi-mbe
 \ps vs
 \pdl dir 
@@ -52476,7 +52754,7 @@
 \an ɕɤɣ
 \dt 09/Oct/2011
 
-\lx mbɣaʁ
+\lx _mbɣaʁ
 \wav vi-GAmbGaR
 \ps vi
 \pdl dir 
@@ -52498,10 +52776,10 @@
 \cf apɣaʁsci
 \dt 18/Aug/2012
 
-\lx mbɣom
+\lx _mbɣom
 \wav vi-mbGom
-\wav8 8_tAmbGom
-\wav8 8_YWYtWmbGom
+\wav8 tAmbGom
+\wav8 YWYtWmbGom
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -52522,9 +52800,9 @@
 \cf ɣɤmbɣomru
 \dt 25/Apr/2014
 
-\lx mbi
+\lx _mbi
 \wav vt-mbi
-\wav8 8_ambi
+\wav8 ambi
 \ps vt 
 \pdl dir 
 \pdv nɯ-
@@ -52555,7 +52833,7 @@
 \xn 他们互相送鼻烟
 \dt 04/Sep/2015
 
-\lx mbijtshi
+\lx _mbijtshi
 \wav vt-mbijtshi
 \ps vt
 \pdl dir 
@@ -52568,7 +52846,7 @@
 \cf ngɤjtshi
 \dt 02/Aug/2012
 
-\lx mbjiz
+\lx _mbjiz
 \wav vi-mbjWz
 \ps vs
 \pdl dir 
@@ -52585,9 +52863,9 @@
 \ng caus
 \dt 21/Jan/2015
 
-\lx mbjom
+\lx _mbjom
 \wav vi-mbjom
-\wav8 8_GAmbjom
+\wav8 GAmbjom
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -52621,7 +52899,7 @@
 \xn 你的马要令自己跑得像风一样快
 \dt 26/Mar/2014
 
-\lx mblɯt
+\lx _mblɯt
 \wav vi-mblWt
 \wav vi-mblWt2
 \ps vi.nh
@@ -52637,8 +52915,8 @@
 \cf plɯt
 \dt 17/Jul/2016
 
-\lx mbrɤrɟɯɣ
-\wav8 8_mbrArJWG
+\lx _mbrɤrɟɯɣ
+\wav8 mbrArJWG
 \ps n
 \ge course de cheval
 \gn 赛马
@@ -52647,8 +52925,8 @@
 \cf nɯmbrɤrɟɯɣ
 \dt 21/Oct/2014
 
-\lx mbrɤt
-\wav8 8_mbrAt
+\lx _mbrɤt
+\wav8 mbrAt
 \wav vi-mbrAt
 \ps vi
 \pdl dir 
@@ -52666,7 +52944,7 @@
 \cf prɤt
 \dt 30/Dec/2011
 
-\lx mbre
+\lx _mbre
 \ps vi
 \ge auspicieux (prédiction)
 \gn 吉祥（预兆）
@@ -52674,7 +52952,7 @@
 \xn 算的卦很吉祥
 \dt 07/Sep/2015
 
-\lx mbri
+\lx _mbri
 \hm 1
 \ps vi
 \pdl dir 
@@ -52691,7 +52969,7 @@
 \cf ʑmbri1
 \dt 20/Jul/2016
 
-\lx mbri
+\lx _mbri
 \hm 2
 \wav vi-mbri2
 \ps vi
@@ -52703,17 +52981,17 @@
 \ge se déchirer soudainement (habit) 
 \gn 烂掉（衣服） 
 \un 衣服穿了很久就突然撕破
-\xv tɯ-ŋga cho-mbri
+\xv tɯ-ŋga chɤ-mbri
 \xv tɯ-ŋga ɲɤ-mbri
 \xn 衣服破了
 \cf pri1
 \dt 25/Dec/2012
 
-\lx mbro
+\lx _mbro
 \hm 1
 \wav vi-mbro
-\wav8 8_tAmbro
-\wav8 8_tAmbro2
+\wav8 tAmbro
+\wav8 tAmbro2
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -52738,7 +53016,7 @@
 \xn 会不会使你的血糖升高？
 \dt 29/Aug/2015
 
-\lx mbuz
+\lx _mbuz
 \wav vi-mbuz
 \ps vi.nh
 \pdl dir 
@@ -52764,7 +53042,7 @@
 \xn 我把（在煮）的牛奶忘了，就溢出来了
 \dt 06/Sep/2015
 
-\lx mbɯt
+\lx _mbɯt
 \wav vi-mbWt
 \ps vi
 \pdl dir 
@@ -52784,7 +53062,7 @@
 \xn 路塌下来了
 \dt 17/Jul/2016
 
-\lx mchɯn
+\lx _mchɯn
 \wav vt-mchin
 \ps vt
 \pdl dir 
@@ -52796,9 +53074,9 @@
 \xn 活佛能看穿人的本性（|fv{kɯ}-是宾语泛指标记）
 \dt 29/May/2013
 
-\lx mda
+\lx _mda
 \wav vi-mda
-\wav8 8_tAmda
+\wav8 tAmda
 \ps vi.nh
 \pdl dir 
 \pdv tɤ-
@@ -52828,7 +53106,7 @@
 \cf masɤmdɤla
 \dt 02/Sep/2015
 
-\lx mdi
+\lx _mdi
 \wav vi-mdi
 \ps vs
 \ge être au complet, être entièrement là
@@ -52840,7 +53118,7 @@
 \cf mdoʁmdi
 \dt 22/May/2014
 
-\lx mdoʁmdi
+\lx _mdoʁmdi
 \wav vi-mdoRmdi
 \ps vs
 \ng rdpl
@@ -52853,7 +53131,7 @@
 \cf mdi
 \dt 15/Jan/2015
 
-\lx mdɯ
+\lx _mdɯ
 \wav vi-mdW
 \wav vi-mdW2
 \ps vi
@@ -52876,22 +53154,23 @@
 \sy ɕaβ2
 \dt 17/Jul/2016
 
-\lx mdɯt
+\lx _mdɯt
 \wav vt-mdWt
 \ps vt
 \pdl dir
 \pdv thɯ-
-\ge vouloir de tout son cœur
-\gn 一心想着（有把握会成功）
+\ge décider fermement
+\gn 下决心；一心想
 \xv a-ɣe kɤ-zrɤβzjoz kɯ-ra nɯ chɯ-mdɯt-a ʑo ɕti
 \xn 我一心想着让孙子继续读书
 \xv aʑo a-phoŋbu kɤ-sɯɣndʐɯm nɯ chɯ-mdɯt-a ʑo ɕti
-\xn 我一心想锻炼身体
+\xn 我下了决心要锻炼身体
 \xv aʑo kɯrɯ-skɤt kɤ-βzjoz nɯ chɯ-mdɯt-a ʑo ɕti
-\xn 我一心想着学藏语
+\xn 我下了决心要学藏语
+\cf mdɯ
 
-\lx mdzar
-\wav8 8_pWmdzara-def
+\lx _mdzar
+\wav8 pWmdzara-def
 \ps vt
 \pdl dir
 \pdv pɯ-
@@ -52904,10 +53183,10 @@
 \sy sɯɣndzar
 \dt 20/Dec/2015
 
-\lx mdzɤz
+\lx _mdzɤz
 \wav vi-mdzAz
-\wav8 8_znAmdzAz
-\wav8 8_kWmdzAz
+\wav8 znAmdzAz
+\wav8 kWmdzAz
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -52931,7 +53210,7 @@
 \xn 他觉得他工作得不好，但是不好意思说
 \dt 17/Jul/2016
 
-\lx mdzoz
+\lx _mdzoz
 \wav vt-mdzoz
 \ps vt
 \pdl dir 
@@ -52954,7 +53233,7 @@
 \cf tɯmdzoz
 \dt 18/Apr/2013
 
-\lx mdzuzga
+\lx _mdzuzga
 \wav n-mdzuzga
 \ps n
 \ge attelage 
@@ -52964,7 +53243,7 @@
 \ev mdzuzga nɯnɯ jla ɯ-taʁ kɤ-ta ŋu, rtazga nɯnɯ mbro ɯ-taʁ tɕe sɤz-nɯmbrɤpɯ ŋu
 \dt 10/Feb/2013
 
-\lx mdzɯt
+\lx _mdzɯt
 \wav vt-mdzWt
 \ps vi
 \sn 1
@@ -52984,7 +53263,7 @@
 \sy rɤmdzɯt
 \dt 01/Jul/2016
 
-\lx mdʑɤl
+\lx _mdʑɤl
 \ps vi
 \pdl dir
 \pdv tɤ-
@@ -52995,9 +53274,9 @@
 \et mdʑal
 \dt 17/May/2014
 
-\lx me
+\lx _me
 \hm 1
-\wav8 8_kumea
+\wav8 kumea
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -53015,7 +53294,7 @@
 \cf tɤ-rca,me
 \dt 03/Jan/2015
 
-\lx mgrɯn
+\lx _mgrɯn
 \wav vt-mgrWn
 \ps vt
 \pdl dir 
@@ -53037,7 +53316,7 @@
 \gn 接待客人
 \dt 24/Aug/2015
 
-\lx mgɯ
+\lx _mgɯ
 \ps vt
 \pdl dir
 \pdv nɯ-
@@ -53055,7 +53334,7 @@
 \xn 你是不是有那么大的本事，你这么自信
 \dt 19/Aug/2015
 
-\lx mɢom
+\lx _mɢom
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -53068,7 +53347,7 @@
 \cf tamɢom
 \dt 26/Aug/2014
 
-\lx mi
+\lx _mi
 \hm 1
 \wav vi-mi
 \ps vs
@@ -53092,7 +53371,7 @@
 \cf ɣɤmi
 \dt 30/Aug/2012
 
-\lx mɟa
+\lx _mɟa
 \wav vt-mJa
 \ps vt
 \sn 1
@@ -53135,7 +53414,7 @@
 \cf tɯ-mɟa2
 \dt 13/Oct/2016
 
-\lx mkhɤz
+\lx _mkhɤz
 \wav vi-mkhAz
 \ps vs
 \pdl dir 
@@ -53151,7 +53430,7 @@
 \xn 他很擅长写字
 \dt 09/Oct/2011
 
-\lx mkhroŋ
+\lx _mkhroŋ
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -53162,7 +53441,7 @@
 \xn 活佛转世了
 \dt 16/Jul/2016
 
-\lx mkhrɯn
+\lx _mkhrɯn
 \wav vi-mkhrWn
 \ps vs
 \pdl dir 
@@ -53172,9 +53451,10 @@
 \hbf 1110 
 \xv ɲɯ-znɤje tɕe ɲɯ-mkhrɯn
 \xn 他很不舍得，很吝啬
+\et ⁿkʰren
 \dt 31/Aug/2014
 
-\lx mkhu
+\lx _mkhu
 \hm 1
 \wav vi-mkhu
 \ps vs
@@ -53206,7 +53486,7 @@
 \xn 他向我要了东西
 \dt 16/Jul/2016
 
-\lx mkɯm
+\lx _mkɯm
 \ps vi
 \pdl dir 
 \pdv thɯ-
@@ -53221,7 +53501,7 @@
 \cf nɤmkɯm
 \dt 09/Dec/2010
 
-\lx mkɯt
+\lx _mkɯt
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -53247,10 +53527,10 @@
 \xn 这个人在讲笑话，我也说了一句，让他答不上来了
 \dt 28/Dec/2010
 
-\lx mna
+\lx _mna
 \wav vi-mna
 \wav atAmna
-\wav8 8_WYWmna
+\wav8 WYWmna
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -53275,8 +53555,8 @@
 \an ʑɤn
 \dt 10/May/2013
 
-\lx mnɤm
-\wav8 8_mnAm
+\lx _mnɤm
+\wav8 mnAm
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -53292,8 +53572,8 @@
 \cf ɕɯmnɤm
 \dt 26/Aug/2012
 
-\lx mnɤt
-\wav8 8_mnAt
+\lx _mnɤt
+\wav8 mnAt
 \ps vt 
 \pdl dir 
 \pdv _
@@ -53315,7 +53595,7 @@
 \xn 要重新唱一遍
 \dt 26/Aug/2012
 
-\lx mnu
+\lx _mnu
 \wav vi-mnu
 \ps vs
 \pdl dir 
@@ -53336,7 +53616,7 @@
 \an tsaβ
 \dt 16/Jul/2016
 
-\lx mnule
+\lx _mnule
 \ps vs
 \ge doux et chaux
 \gn 又柔软又光滑又暖和
@@ -53344,7 +53624,7 @@
 \cf mnu
 \dt 16/Jul/2016
 
-\lx mnumne
+\lx _mnumne
 \wav vi-mnWmne
 \ps vs
 \ng rdpl
@@ -53356,7 +53636,7 @@
 \cf mnule
 \dt 16/Jul/2016
 
-\lx mɲɤt
+\lx _mɲɤt
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -53367,9 +53647,12 @@
 \xn 肉变味了
 \xv nɤʑo ɲɤ-tɯ-mɲɤt
 \xn 你瘦了
-\dt 24/Aug/2012
+\se ɣɤmɲɤt
+\ps vs
+\ge qui se détériore facilement
+\gn 容易变味
 
-\lx mɲi
+\lx _mɲi
 \ps vs
 \ge peu
 \gn 少
@@ -53393,10 +53676,10 @@
 \xn 分东西的时候，不要分得不均匀
 \dt 08/Sep/2015
 
-\lx mɲo
+\lx _mɲo
 \hm 1
 \wav vt-mYo
-\wav8 8_mYo
+\wav8 mYo
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -53442,7 +53725,7 @@
 \xn 倒塌之前顶柱子，损失到来以前要预防
 \dt 02/Jul/2016
 
-\lx mɲo
+\lx _mɲo
 \wav vi-mYo
 \hm 2
 \ps vs
@@ -53461,8 +53744,8 @@
 \cf mɲo1
 \dt 01/Jul/2016
 
-\lx mŋɤm
-\wav8 8_YWnAmNAm
+\lx _mŋɤm
+\wav8 YWnAmNAm
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -53482,7 +53765,7 @@
 \cf ɕɯmŋɤm
 \dt 12/Jul/2013
 
-\lx mŋɯn
+\lx _mŋɯn
 \wav vi-mNWn
 \wav vi-mNWn2
 \ps vs
@@ -53510,9 +53793,9 @@
 \cf nɤmŋɯn
 \dt 16/Jul/2016
 
-\lx moʁ
+\lx _moʁ
 \wav vt-moR
-\wav8 8_moR
+\wav8 moR
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -53534,7 +53817,7 @@
 \xn 给我吃一点糌粑
 \dt 06/Sep/2015
 
-\lx mpɕa
+\lx _mpɕa
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -53545,7 +53828,7 @@
 \xn 你的那个我没有做，不要责怪我
 \dt 26/Aug/2012
 
-\lx mpɕɤr
+\lx _mpɕɤr
 \ps vi
 \pdl dir 
 \pdv thɯ-
@@ -53565,7 +53848,7 @@
 \cf rɤmpɕɤr
 \dt 22/Jul/2016
 
-\lx mpɕu
+\lx _mpɕu
 \wav vi-mpCu
 \ps vs
 \pdl dir 
@@ -53578,8 +53861,8 @@
 \xv tɤ-jtsi ɲɯ-mpɕu
 \xn 柱子是光滑的
 \se ɣɤmpɕu
-\wav8 8_GAmpCu
-\wav8 8_GAmpCu2s
+\wav8 GAmpCu
+\wav8 GAmpCu2s
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -53591,7 +53874,7 @@
 \xn 把衣服弄软了穿起来舒服
 \dt 05/Dec/2012
 
-\lx mphrɤt
+\lx _mphrɤt
 \wav vt-sWmphrAt
 \ps vs
 \pdl dir 
@@ -53621,10 +53904,10 @@
 \xv aʑo khɯɣɲɟɯ kɤ-sɯmphrat-a
 \xn 我关了窗子
 \xv kɯm mɯ-chɤ-sɯmphrat-a tɕe ɯ-pɕi tɤ-zgra nɯ ɲɯ-sɤmtshɤm
-\xn 我没有吧门关紧听到外面的声音
+\xn 我没有把门关紧听到外面的声音
 \dt 26/Aug/2015
 
-\lx mphɯl
+\lx _mphɯl
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -53635,8 +53918,8 @@
 \xn 猪繁殖了
 \dt 21/Oct/2012
 
-\lx mphɯr
-\wav8 8_mphWr
+\lx _mphɯr
+\wav8 mphWr
 \ps vt
 \pdl dir 
 \pdv kɤ-
@@ -53689,9 +53972,9 @@
 \gn 一层一层地裹着
 \dt 21/Jul/2014
 
-\lx mpja
+\lx _mpja
 \wav vi-mpja
-\wav8 8_mpja
+\wav8 mpja
 \ps vs
 \pdl dir 
 \pdv thɯ-
@@ -53707,9 +53990,9 @@
 \cf ɣɤmpja
 \dt 08/Dec/2011
 
-\lx mpɯ
+\lx _mpɯ
 \wav vi-mpW
-\wav8 8_mpW
+\wav8 mpW
 \ps vs
 \pdl dir 
 \pdv kɤ-
@@ -53740,7 +54023,7 @@
 \pdv nɯ-
 \dt 16/Jul/2016
 
-\lx mpɯmnu
+\lx _mpɯmnu
 \ps vs
 \ng comp
 \pdl dir 
@@ -53751,9 +54034,9 @@
 \xn 这件衣服很软，穿起来很舒服
 \dt 25/Aug/2012
 
-\lx mqlaʁ
+\lx _mqlaʁ
 \wav vt-mqlaR
-\wav8 8_mqlaR
+\wav8 mqlaR
 \ps vt
 \pdl dir 
 \pdv thɯ-
@@ -53770,8 +54053,8 @@
 \xn 我吞了药
 \dt 07/Sep/2013
 
-\lx mtɕho
-\wav8 8_mtCho
+\lx _mtɕho
+\wav8 mtCho
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -53786,7 +54069,7 @@
 \sy rɤsta
 \dt 13/Dec/2012
 
-\lx mtɕhostɤt
+\lx _mtɕhostɤt
 \ps vt
 \ge louer
 \gn 赞美；奉承
@@ -53795,8 +54078,8 @@
 \xn 在今天这个吉利的日子，我赞颂你们（山神）
 \dt 26/Aug/2012
 
-\lx mtɕhɯβ
-\wav8 8_mtChWB
+\lx _mtɕhɯβ
+\wav8 mtChWB
 \ps vi
 \sn 1
 \pdl dir 
@@ -53830,9 +54113,9 @@
 \gn 给别人添加一点
 \dt 02/Jun/2013
 
-\lx mtɕoʁ
+\lx _mtɕoʁ
 \wav vi-mtCoR
-\wav8 8_GAmtCoR
+\wav8 GAmtCoR
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -53859,9 +54142,9 @@
 \cf amtɕoʁ
 \dt 22/Oct/2011
 
-\lx mtɕɯr
+\lx _mtɕɯr
 \wav vi-mtCWr
-\wav8 8_mtCWr
+\wav8 mtCWr
 \ps vi
 \pdl dir 
 \pdv _
@@ -53882,7 +54165,7 @@
 \cf sɯmtɕɯr
 \dt 29/Aug/2015
 
-\lx mthu
+\lx _mthu
 \wav vi-mthu3
 \wav vi-mthu2
 \ps vs
@@ -53912,9 +54195,9 @@
 \cf nɤmthu
 \dt 16/Jul/2016
 
-\lx mthɯt
+\lx _mthɯt
 \wav vt-mthWt
-\wav8 8_mthWt
+\wav8 mthWt
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -53934,10 +54217,10 @@
 \sy sɤlɤɣɯ
 \dt 07/Aug/2012
 
-\lx mto
-\wav8 8_ZGAmto
-\wav8 8_ZGAsWmto2
-\wav8 8_amto
+\lx _mto
+\wav8 ZGAmto
+\wav8 ZGAsWmto2
+\wav8 amto
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -53980,7 +54263,7 @@
 \xv tɯ-ci ɯ-ŋgɯ ɕ-pɯ-ru-a ri, pjɯ-ntɕhar-a ɲɯ-ŋu tɕe pɯ-ʑɣɤmto-a
 \xn 我往水里看了一下，里面有我的倒影，我看到我自己了
 \se ʑɣɤsɯmto
-\wav8 8_ZGAsWmto
+\wav8 ZGAsWmto
 \ps vi
 \ng refl
 \ng caus
@@ -54008,7 +54291,7 @@
 \cf sɤmto
 \dt 07/Sep/2015
 
-\lx mtsaʁ
+\lx _mtsaʁ
 \wav vi-mtsaR
 \ps vi
 \pdl dir 
@@ -54026,9 +54309,9 @@
 \cf nɯmbrɯmtsaʁ
 \dt 15/Jul/2016
 
-\lx mtshɤm
-\wav8 8_mtshAm
-\wav8 8_sACqhe
+\lx _mtshɤm
+\wav8 mtshAm
+\wav8 sACqhe
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -54060,7 +54343,7 @@
 \cf amɯmtshɤm
 \dt 26/Aug/2012
 
-\lx mtshɤt
+\lx _mtshɤt
 \wav vi-mtshAt
 \ps vs
 \pdl dir 
@@ -54080,10 +54363,10 @@
 \cf sɯmtshɤt
 \dt 21/Aug/2012
 
-\lx mtshi
+\lx _mtshi
 \wav vi-sAmtshi
-\wav8 8_mtshi
-\wav8 8_tWmbri_ci_kAmtshita
+\wav8 mtshi
+\wav8 tWmbri_ci_kAmtshita
 \ps vt 
 \pdl dir 
 \pdv tɤ-
@@ -54108,7 +54391,7 @@
 \xn 我可以带路
 \dt 08/Aug/2012
 
-\lx mtshoŋ
+\lx _mtshoŋ
 \wav vi-mtshoN
 \wav vi-mtshoN2
 \ps vs
@@ -54138,8 +54421,8 @@
 \xn 我把需要的东西都准备好了
 \dt 15/Jul/2016
 
-\lx mtshɯβ
-\wav8 8_YAmtshWB
+\lx _mtshɯβ
+\wav8 YAmtshWB
 \ps vi
 \pdl dir
 \pdv nɯ-
@@ -54157,10 +54440,10 @@
 \xn 他被水溺死了
 \dt 13/Apr/2014
 
-\lx mtsɯɣ
+\lx _mtsɯɣ
 \wav vi-sAmtsWG
 \wav vi-sAmtsWG2
-\wav8 8_mtsWG
+\wav8 mtsWG
 \ps vt
 \pdl dir 
 \pdv kɤ-
@@ -54188,10 +54471,10 @@
 \xn 狗咬人
 \dt 15/Jan/2015
 
-\lx mtsɯr
+\lx _mtsɯr
 \wav vi-mtsWr
 \wav vi-mtsWr2
-\wav8 8_mtsWr
+\wav8 mtsWr
 \ps vi
 \sn 1
 \pdl dir 
@@ -54233,7 +54516,7 @@
 \xn 我让你饿了（没有及时给你饭吃）
 \dt 20/Aug/2015
 
-\lx mtsɯrɕpaʁ
+\lx _mtsɯrɕpaʁ
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -54244,7 +54527,7 @@
 \xn 他一直又饿又渴的样子
 \dt 24/Aug/2012
 
-\lx mu
+\lx _mu
 \hm 1
 \ps vi
 \pdl dir 
@@ -54259,7 +54542,7 @@
 \cf sɤɣmu
 \dt 24/Aug/2012
 
-\lx mu,cɯɣ
+\lx _mu,cɯɣ
 \ps vi
 \ge vivre constament dans la peur
 \gn 提心吊胆，恐慌不安
@@ -54277,7 +54560,7 @@
 \ps vi
 \dt 01/Sep/2015
 
-\lx mɯɕtaʁ
+\lx _mɯɕtaʁ
 \wav vi-mWCtaR
 \ps vs
 \pdl dir 
@@ -54299,7 +54582,7 @@
 \gn 使变冷
 \dt 15/Jul/2016
 
-\lx mɯjphɤt
+\lx _mɯjphɤt
 \ps vi
 \pdl dir 
 \pdv lɤ-
@@ -54313,7 +54596,7 @@
 \sy qioʁ
 \dt 24/Aug/2012
 
-\lx mɯjrɯ
+\lx _mɯjrɯ
 \ps vi
 \ge bien élevé
 \gn 受到良好的教育，孝顺
@@ -54329,9 +54612,9 @@
 \xn 你把孩子教育得很好
 \dt 09/Sep/2015
 
-\lx mɯm
+\lx _mɯm
 \wav vi-mWm
-\wav8 8_GAmWm
+\wav8 GAmWm
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -54362,7 +54645,7 @@
 \xn 他觉得好吃了（原来觉得不好吃）
 \dt 22/Oct/2011
 
-\lx mɯmta
+\lx _mɯmta
 \wav vi-mWmta
 \ps vs
 \pdl dir 
@@ -54377,7 +54660,7 @@
 \xn 你在说梦话
 \dt 15/Oct/2011
 
-\lx mɯmtsrɯɣ
+\lx _mɯmtsrɯɣ
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -54389,7 +54672,7 @@
 \xn 他吸了杂酒
 \dt 29/Aug/2012
 
-\lx mɯnmu
+\lx _mɯnmu
 \wav vi-mWnmu
 \ps vi
 \pdl dir 
@@ -54419,7 +54702,7 @@
 \xn 他能不能移动他的手？（受了伤的人）
 \dt 11/Mar/2014
 
-\lx mɯrkɯ
+\lx _mɯrkɯ
 \ps vl
 \pdl dir 
 \pdv tɤ-
@@ -54434,9 +54717,9 @@
 \gn 小偷
 \dt 24/Aug/2012
 
-\lx mɯrʁɯz
+\lx _mɯrʁɯz
 \wav vt-mWrRWz
-\wav8 8_mWrRWz
+\wav8 mWrRWz
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -54456,8 +54739,8 @@
 \cf tɯ-mɯrʁɯz
 \dt 26/Aug/2015
 
-\lx mɯrtsɯɣ
-\wav8 8_mWrtsWG
+\lx _mɯrtsɯɣ
+\wav8 mWrtsWG
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -54478,7 +54761,7 @@
 \cf tɯmɯrtsɯɣ
 \dt 26/Aug/2012
 
-\lx mɯsta
+\lx _mɯsta
 \wav vi-mWsta
 \ps vs
 \ge ancien 
@@ -54487,7 +54770,7 @@
 \xn 非常古老
 \dt 15/Oct/2011
 
-\lx mɯsti
+\lx _mɯsti
 \wav vi-mWsti
 \ps vs
 \pdl dir 
@@ -54497,10 +54780,10 @@
 \hbf 1123 
 \xv jiɕqha nɯ ɯʑosti ɲɯ-ŋu, kɯ-mɯsti ci ɲɯ-ŋu
 \xn 他一个人，是个孤单的人
-\cf ɯ-sti
+\cf ɯʑo-sti
 \dt 15/Oct/2011
 
-\lx mɯxte
+\lx _mɯxte
 \wav n-kWmWxte
 \ps vs
 \ge être la majorité
@@ -54515,7 +54798,7 @@
 \xn 我们藏族在这里占多数的人口
 \dt 18/May/2014
 
-\lx mɯχtɤn
+\lx _mɯχtɤn
 \ps vs
 \pdl dir
 \pdv tɤ-
@@ -54528,7 +54811,7 @@
 \xn 我住的地方固定了
 \dt 02/Sep/2015
 
-\lx naʁa
+\lx _naʁa
 \pdl dir
 \pdv pɯ-
 \ps vi
@@ -54540,8 +54823,8 @@
 \cf ta-ʁa
 \dt 08/Jul/2016
 
-\lx naʁdɤz
-\wav8 8_naRdAz
+\lx _naʁdɤz
+\wav8 naRdAz
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -54563,14 +54846,15 @@
 \xv ɯʑo ɲɯ-sɤnaʁdɤz, ci nɯ jo-nɯɕe pjɤ-ra
 \xn 他排斥别人，有人（因为他）必须离开
 
-\lx naʁdɯɣ
-\wav8 8_naRdWG
+\lx _naʁdɯɣ
+\wav8 naRdWG
 \ps vt
 \pdl dir 
 \pdv tɤ-
 \ng trop
-\ge chicaner 
-\gn 计较，嫌弃
+\sn 1
+\ge chicaner; être dérangé par
+\gn 计较；介意
 \xv ta-ma tú-wɣ-znɤma jɤɣ ma mɤ-naʁdɯɣ
 \xn 可以让他做事，他不会介意的
 \xv tɯ́-wɣ-naʁdɯɣ
@@ -54583,11 +54867,14 @@
 \xn 这么小的事情，他不会计较
 \xv mɤ-naʁdɯɣ-a
 \xn 我不在乎
+\sn 2
+\ge dédaigner
+\gn 嫌弃
 \cf ʁdɯɣ1
 \dt 18/Aug/2015
 
-\lx naʁju
-\wav8 8_naRju
+\lx _naʁju
+\wav8 naRju
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -54613,7 +54900,7 @@
 \xn 我抠了鼻子
 \dt 13/Aug/2016
 
-\lx naʁjɯβ
+\lx _naʁjɯβ
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -54630,7 +54917,7 @@
 \cf saʁjɯβ
 \dt 04/Sep/2015
 
-\lx naʁre
+\lx _naʁre
 \ps vt
 \ge respecter et craindre
 \gn 敬重，敬畏
@@ -54640,7 +54927,7 @@
 \cf ɯ-rʁe
 \dt 30/Aug/2015
 
-\lx naʁri
+\lx _naʁri
 \ps vs
 \pdl dir 
 \pdv kɤ-
@@ -54652,7 +54939,7 @@
 \cf ta-ʁri
 \dt 17/Jan/2015
 
-\lx naʁrɯm
+\lx _naʁrɯm
 \ps vt
 \ge se cacher en se plaçant derrière
 \gn 躲在……后面
@@ -54662,9 +54949,9 @@
 \cf saʁrɯm
 \dt 04/Sep/2015
 
-\lx naʁzi
+\lx _naʁzi
 \wav vt-naRzi
-\wav8 8_naRzi
+\wav8 naRzi
 \ps vt
 \ng trop
 \pdl dir 
@@ -54694,8 +54981,8 @@
 \cf ʁzi
 \dt 07/Sep/2013
 
-\lx naχaʁ
-\wav8 8_YWnaXaRa
+\lx _naχaʁ
+\wav8 YWnaXaRa
 \ps vt
 \ge être surpris par 
 \gn 对……感到惊奇
@@ -54704,7 +54991,7 @@
 \sy nɤmtshɤr
 \cf saχaʁ
 
-\lx naχɕɯn
+\lx _naχɕɯn
 \ps vt
 \ge trouver propre
 \gn 觉得干净
@@ -54712,11 +54999,11 @@
 \cf saχɕɯn
 \dt 18/Aug/2015
 
-\lx naχpjɤt
+\lx _naχpjɤt
 \cf χpjɤt
 \dt 14/Oct/2010
 
-\lx naχsoz
+\lx _naχsoz
 \wav vi-naXsoz
 \ps vs
 \pdl dir 
@@ -54753,9 +55040,9 @@
 \xn 喝点茶，提起精神
 \dt 19/Aug/2015
 
-\lx naχtɕɯɣ
-\wav8 8_tuthaN
-\wav8 8_naXtCWGtCi
+\lx _naχtɕɯɣ
+\wav8 tuthaN
+\wav8 naXtCWGtCi
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -54786,7 +55073,7 @@
 \gn 觉得一样
 \dt 23/Feb/2014
 
-\lx naχthɤβ
+\lx _naχthɤβ
 \ps vt
 \pdl dir 
 \pdv kɤ-
@@ -54802,7 +55089,7 @@
 \xn 我趁了他不在的时候回来，不然的话他不让我回来
 \dt 06/Sep/2015
 
-\lx naχti
+\lx _naχti
 \ps vt
 \pdl dir 
 \pdv kɤ-
@@ -54814,7 +55101,7 @@
 \cf saχti
 \dt 24/Aug/2012
 
-\lx naχto
+\lx _naχto
 \wav vt-naXto
 \ps vt
 \pdl dir
@@ -54829,15 +55116,15 @@
 \ge se regarder fixement les uns uns les autres
 \gn 互相盯着
 
-\lx naχtso
+\lx _naχtso
 \cf χtso
 \dt 18/Aug/2015
 
-\lx nɤβdɤle
+\lx _nɤβdɤle
 \cf βde
 \dt 01/Sep/2015
 
-\lx nɤβdi
+\lx _nɤβdi
 \wav vi-nABdi
 \ps vi
 \pdl dir 
@@ -54855,7 +55142,7 @@
 \xn 祝你们俩平安
 \dt 16/Jul/2016
 
-\lx nɤβɟu
+\lx _nɤβɟu
 \wav vt-nABJu
 \ps vt
 \pdl dir 
@@ -54871,7 +55158,7 @@
 \cf tɤ-βɟu
 \dt 18/Dec/2010
 
-\lx nɤβɟɯβɟi
+\lx _nɤβɟɯβɟi
 \wav vt-nABJWBJi
 \ps vt
 \ng n.orient
@@ -54888,7 +55175,7 @@
 \cf βɟi1
 \dt 18/Dec/2010
 
-\lx nɤboʁboʁ
+\lx _nɤboʁboʁ
 \ps vt
 \pdl dir
 \pdv kɤ-
@@ -54899,19 +55186,19 @@
 \sy nɤɣɯβɣɯβ
 \dt 11/May/2014
 
-\lx nɤβrɯβraʁ
+\lx _nɤβrɯβraʁ
 \cf βraʁ
 \dt 26/Oct/2014
 
-\lx nɤβzɯβzu
+\lx _nɤβzɯβzu
 \cf βzu1
 \dt 22/Aug/2015
 
-\lx nɤcu
+\lx _nɤcu
 \cf acu
 \dt 20/Jul/2016
 
-\lx nɤcɯpa
+\lx _nɤcɯpa
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -54921,7 +55208,7 @@
 \cf pa1
 \dt 15/Jul/2016
 
-\lx nɤɕarlar
+\lx _nɤɕarlar
 \ps vt
 \ng n.orient
 \pdl dir 
@@ -54934,7 +55221,7 @@
 \cf ɕar
 \dt 24/Oct/2011
 
-\lx nɤɕejɣi
+\lx _nɤɕejɣi
 \a nɤɕejɣɯjɣi
 \ps vi
 \pdl dir 
@@ -54947,7 +55234,7 @@
 \cf ɣi
 \dt 24/Aug/2015
 
-\lx nɤɕkhɯɕkho
+\lx _nɤɕkhɯɕkho
 \wav vt-nACkhWCkho
 \ps vi
 \ng n.orient
@@ -54961,7 +55248,7 @@
 \xn 衣服没有干，所以他今天晒干了
 \dt 24/Oct/2011
 
-\lx nɤɕqa
+\lx _nɤɕqa
 \wav vt-nACqa
 \ps vt
 \pdl dir 
@@ -54977,7 +55264,7 @@
 \xn 他说了很难听的话，但是他还是忍了
 \se znɤɕqa
 \ps vt
-\wav8 8_mwjznACqea
+\wav8 mwjznACqea
 \pdl dir 
 \pdv nɯ-
 \ge être capable de supporter
@@ -54989,15 +55276,15 @@
 \cf sɤɕqa
 \dt 07/Oct/2012
 
-\lx nɤɕqraʁ
+\lx _nɤɕqraʁ
 \cf ɕqraʁ
 \dt 30/Sep/2011
 
-\lx nɤɕthɯɕthɯz
+\lx _nɤɕthɯɕthɯz
 \cf ɕthɯz
 \dt 26/Oct/2014
 
-\lx nɤɕtʂaʁli
+\lx _nɤɕtʂaʁli
 \ps vt
 \pdl dir
 \pdv nɯ-
@@ -55005,7 +55292,7 @@
 \gn 折磨
 \dt 17/Jul/2016
 
-\lx nɤɕu
+\lx _nɤɕu
 \wav vi-nACu
 \ps vi
 \pdl dir 
@@ -55017,7 +55304,7 @@
 \cf ɣɤɕu
 \dt 05/Jan/2011
 
-\lx nɤɕɯɕar
+\lx _nɤɕɯɕar
 \wav vt-nACWCar
 \ps vt
 \ng n.orient
@@ -55032,7 +55319,7 @@
 \cf ɕar
 \dt 23/May/2013
 
-\lx nɤɕɯɕe
+\lx _nɤɕɯɕe
 \wav vi-nACWCe
 \ps vi
 \ng n.orient
@@ -55045,8 +55332,8 @@
 \cf ɕe
 \dt 13/Nov/2013
 
-\lx nɤɕɯɕi
-\wav8 8_thWnACWCita
+\lx _nɤɕɯɕi
+\wav8 thWnACWCita
 \ps vt
 \pdl dir
 \pdv _
@@ -55056,12 +55343,12 @@
 \xn 木料背不动，所以我拖了
 \sy nɤkhɯkhrɯt
 
-\lx nɤdɤn
+\lx _nɤdɤn
 \cf dɤn
 \dt 13/Jul/2014
 
-\lx nɤfcaʁ
-\wav8 8_nAfcaR
+\lx _nɤfcaʁ
+\wav8 nAfcaR
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -55072,15 +55359,15 @@
 \cf tɯfcaʁ
 \dt 20/Dec/2012
 
-\lx nɤfɕɯfɕɤt
+\lx _nɤfɕɯfɕɤt
 \cf fɕɤt1
 \dt 04/May/2014
 
-\lx nɤfkɯfkur
+\lx _nɤfkɯfkur
 \cf fkur
 \dt 04/Aug/2014
 
-\lx nɤfse
+\lx _nɤfse
 \wav vt-nAfse
 \ps vt
 \ng trop
@@ -55099,7 +55386,7 @@
 \cf fse1
 \dt 28/Dec/2010
 
-\lx nɤfsɯfse
+\lx _nɤfsɯfse
 \wav vi-nAfsWfse
 \ps vi
 \pdl dir 
@@ -55118,7 +55405,7 @@
 \xn 你不要乱来
 \dt 25/Aug/2014
 
-\lx nɤfsɯr
+\lx _nɤfsɯr
 \wav vt-nAfsWr
 \ps vt
 \ng denom
@@ -55138,7 +55425,7 @@
 \cf tɤfsɯr
 \dt 09/Mar/2011
 
-\lx nɤgɯr
+\lx _nɤgɯr
 \ps vt
 \sn 1
 \ge faire la plus grande partie de
@@ -55151,7 +55438,7 @@
 \xv mɯ́j-nɤgɯr-a
 \xn 我不服气
 
-\lx nɤɣa
+\lx _nɤɣa
 \wav vi-nAGA3
 \wav vi-nAGa2
 \ps vi
@@ -55175,15 +55462,15 @@
 \sy sɤmto
 \dt 16/Oct/2011
 
-\lx nɤɣɤɕe
+\lx _nɤɣɤɕe
 \cf ɣɤɕe
 \dt 28/Apr/2014
 
-\lx nɤɣɤzri
+\lx _nɤɣɤzri
 \cf zri
 \dt 28/Apr/2014
 
-\lx nɤɣɟaj
+\lx _nɤɣɟaj
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -55196,10 +55483,10 @@
 \cf tɤɣɟaj
 \dt 21/Sep/2014
 
-\lx nɤɣlɤɣle
+\lx _nɤɣlɤɣle
 \cf ɣle
 
-\lx nɤɣmaʁ
+\lx _nɤɣmaʁ
 \wav vt-nAGmaR
 \ps vt
 \ng trop
@@ -55214,7 +55501,7 @@
 \cf maʁ1
 \dt 02/Aug/2016
 
-\lx nɤɣmɤr
+\lx _nɤɣmɤr
 \ps vt
 \ng denom
 \pdl dir 
@@ -55227,7 +55514,7 @@
 \cf tɯ-ɣmɤr
 \dt 26/Aug/2012
 
-\lx nɤɣmbat
+\lx _nɤɣmbat
 \wav vi-nAGmbat
 \ps vi
 \sn 1
@@ -55250,9 +55537,9 @@
 \cf mbat
 \dt 18/Dec/2010
 
-\lx nɤɣmbɤβ
+\lx _nɤɣmbɤβ
 \wav vt-nAGmbAB
-\wav8 8_nAGmAB
+\wav8 nAGmAB
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -55266,11 +55553,11 @@
 \xn 我教育了他，他就听了
 \dt 28/Oct/2011
 
-\lx nɤɣro
+\lx _nɤɣro
 \cf aɣro
 \dt 27/Nov/2010
 
-\lx nɤɣrɯ
+\lx _nɤɣrɯ
 \wav vt-nAGrW
 \ps vt
 \pdl dir 
@@ -55287,7 +55574,7 @@
 \xn 不需要的东西我不要
 \dt 10/Nov/2014
 
-\lx nɤɣɯβɣɯβ
+\lx _nɤɣɯβɣɯβ
 \ps vt
 \pdl dir
 \pdv kɤ-
@@ -55298,7 +55585,7 @@
 \sy nɤboʁboʁ
 \dt 22/Aug/2015
 
-\lx nɤɣʑa
+\lx _nɤɣʑa
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -55309,7 +55596,7 @@
 \cf tasɤɣʑa
 \dt 04/May/2014
 
-\lx nɤja
+\lx _nɤja
 \wav vi-nAja
 \ps vi
 \pdl dir 
@@ -55322,7 +55609,7 @@
 \cf znɤja
 \dt 09/Oct/2011
 
-\lx nɤjaʁ
+\lx _nɤjaʁ
 \hm 1
 \ps vt
 \pdl dir 
@@ -55337,7 +55624,7 @@
 \cf tɯ-jaʁ
 \dt 31/Aug/2015
 
-\lx nɤjaʁ
+\lx _nɤjaʁ
 \hm 2
 \ps vt
 \ng trop
@@ -55348,26 +55635,24 @@
 \cf jaʁ
 \dt 13/Mar/2013
 
-\lx nɤjɤrjɤr
+\lx _nɤjɤrjɤr
 \cf jɤrjɤr
 \dt 16/Nov/2011
 
-\lx nɤjɣɯjɣɤt
+\lx _nɤjɣɯjɣɤt
 \wav vi-nAjGWjGAt
 \ps vi
-
 \ng n.orient
 \pdl dir 
 \pdv _
 \ge aller et revenir 
 \gn 走了又转回来 
-
 \xv aki jiɕqha pɯ-ari-a li tɤ-jɣat-a tɕe, pɯ-nɤjɣɯjɣat-a ntsɯ
 \xn 我往下去了，又往上转来，我反复去了几次又回来了
 \cf jɣɤt
 \dt 28/Dec/2010
 
-\lx nɤjkɯz
+\lx _nɤjkɯz
 \wav vt-nAjkWz
 \wav vt-nAjkWz2
 \ps vt
@@ -55395,9 +55680,9 @@
 \cf tɤjkɯz
 \dt 15/Jan/2015
 
-\lx nɤjlɤβsqa
+\lx _nɤjlɤβsqa
 \wav vt-nAjlABsqa
-\wav8 8_nAjlABsqa
+\wav8 nAjlABsqa
 \ps vt
 \ng incorp
 \pdl dir 
@@ -55410,7 +55695,7 @@
 \cf sqa
 \dt 10/Nov/2011
 
-\lx nɤjmɤɣ
+\lx _nɤjmɤɣ
 \wav vi-nAjmAG
 \ps vi
 \ng denom
@@ -55419,8 +55704,9 @@
 \ge chercher des champignons 
 \gn 找菌子 
 \xv jisŋi kɯ-nɤjmɤɣ jɤ-ari-a
-\xv jisŋi aj pɯ-nɤjmaɣ-a
 \xn 我今天去找菌子了
+\xv jisŋi aj pɯ-nɤjmaɣ-a
+\xn 我今天找菌子了
 \xv aʑo ɕɯ-nɤjmaɣ-a ŋu, nɤʑo ɯ-tɯ́-ɣi?
 \xn 我要去找菌子，你来不来？
 \xv ɯʑo pɯ-nɤjmɤɣ, aʑo kɤ-nɤjo-t-a
@@ -55428,7 +55714,7 @@
 \cf tɤjmɤɣ
 \dt 18/May/2014
 
-\lx nɤjmbɣom
+\lx _nɤjmbɣom
 \wav vi-nAJmbGom
 \ps vs
 \pdl dir 
@@ -55440,7 +55726,7 @@
 \an nɤɣa
 \dt 16/Jul/2016
 
-\lx nɤjmŋozdɯɣ
+\lx _nɤjmŋozdɯɣ
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -55453,7 +55739,7 @@
 \cf tɤjmŋozdɯɣ
 \dt 27/Aug/2015
 
-\lx nɤjndɤt
+\lx _nɤjndɤt
 \ps vt
 \sn 1
 \ge trouver mignon, trouver adorable
@@ -55466,7 +55752,7 @@
 \cf sɤjndɤt
 \sy nɤsɤjndɤt
 
-\lx nɤjno
+\lx _nɤjno
 \ps vi
 \pdl dir
 \pdv _
@@ -55477,11 +55763,11 @@
 \cf no
 \dt 30/Aug/2015
 
-\lx nɤjo
+\lx _nɤjo
 \wav vt-nAjo
 \wav vt-nAjo2
-\wav8 8_nAjo
-\wav8 8_pWkWnAjoa
+\wav8 nAjo
+\wav8 pWkWnAjoa
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -55511,7 +55797,7 @@
 \xn 他经历过快乐的日子，也体验过困难的日子
 \sy rɲo
 \se znɤjo
-\wav8 8_tuwGznAjo
+\wav8 tuwGznAjo
 \pdl dir 
 \pdv tɤ-
 \ps vt
@@ -55537,7 +55823,7 @@
 \xv ma-kɤ-tɯ-sɤznɤjo
 \xn 你不要等别人了
 \se ʑɣɤznɤjo
-\wav8 8_ZGAznAjo
+\wav8 ZGAznAjo
 \ps vi
 \pdl dir 
 \pdv kɤ-
@@ -55555,7 +55841,7 @@
 \xn 急躁的和缓慢的到最后会一起到达
 \dt 16/Jul/2016
 
-\lx nɤjoʁjoʁ
+\lx _nɤjoʁjoʁ
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -55564,7 +55850,7 @@
 \cf joʁ
 \dt 10/Oct/2014
 
-\lx nɤjtshɯ
+\lx _nɤjtshɯ
 \wav vi-nAjtshW4
 \wav vi-nAjtshW5
 \ps vs
@@ -55591,7 +55877,7 @@
 \xn 家里的事情，你可以胜任（就不用我做了）
 \dt 16/Jul/2016
 
-\lx nɤjwaʁ
+\lx _nɤjwaʁ
 \ps vt
 \ng denom
 \pdl dir 
@@ -55607,7 +55893,17 @@
 \cf tɤ-jwaʁ
 \dt 28/Dec/2010
 
-\lx nɤkɤphɤr
+\lx _nɤɟɤβlɤβ
+\wav8 matAkWnAJABlaBa
+\ps vt
+\pdl dir
+\pdv tɤ-
+\ge chercher à plaire
+\gn 讨好，拉拢
+\xv ma-tɤ-kɯ-nɤɟɤβlaβ-a ma aʑo mɤ-khɯ-a	
+\xn 你要讨好我，我不会答应的
+
+\lx _nɤkɤphɤr
 \wav vt-nAkAphAr
 \ps vt
 \ng incorp
@@ -55623,10 +55919,10 @@
 \cf tɯ-ku
 \dt 06/Aug/2012
 
-\lx nɤkɤro
+\lx _nɤkɤro
 \wav vi-nAkAro
-\wav8 8_nAkAro
-\wav8 8_toznAkAro
+\wav8 nAkAro
+\wav8 toznAkAro
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -55652,7 +55948,7 @@
 \xn 他觉得他写得还可以
 \dt 22/Aug/2015
 
-\lx nɤkɤtɕhɯ
+\lx _nɤkɤtɕhɯ
 \wav vt-nAkAtChW
 \ps vt
 \ng incorp
@@ -55670,7 +55966,7 @@
 \cf kɤtɕhɯ
 \dt 10/Nov/2011
 
-\lx nɤkhar
+\lx _nɤkhar
 \wav vt-nAkhar
 \wav vt-nAkhar2
 \ps vt 
@@ -55690,7 +55986,7 @@
 \xn 我们把猪围住了
 \dt 04/Oct/2014
 
-\lx nɤkhɤzŋga
+\lx _nɤkhɤzŋga
 \wav vt-nAkhAzNga
 \ps vt
 \ng appl
@@ -55703,14 +55999,20 @@
 \xn 我喊了他一声
 \xv aʑo kɯ tɯrme ɲɯ-nɤkhɤzŋge-a
 \xn 我在叫人
+\cf akhu
 \se anɤkhɤzŋgɯzŋga
 \ps vi
+\ng recip
 \ge s'appeler les uns les autres
 \gn 互相喊叫
-\cf akhu
+\se znɤkhɤzŋga
+\ps vt
+\ng caus
+\ge faire appeler
+\gn 请……喊叫
 \dt 28/Dec/2010
 
-\lx nɤkhe
+\lx _nɤkhe
 \wav vt-nAkhe
 \wav vi-sAnAkhe
 \ps vt
@@ -55737,7 +56039,7 @@
 \xn 那个人总是欺负别人的
 \dt 17/Jan/2013
 
-\lx nɤkhu
+\lx _nɤkhu
 \wav vt-nAkhu
 \ps vt
 \ng appl
@@ -55764,7 +56066,7 @@
 \cf akhu
 \dt 19/Aug/2015
 
-\lx nɤkhɯ
+\lx _nɤkhɯ
 \wav vi-nAkhW
 \ps vi
 \ng denom
@@ -55788,10 +56090,10 @@
 \cf sɤkhɯ
 \dt 11/Jun/2011
 
-\lx nɤkhɯkhrɯt
+\lx _nɤkhɯkhrɯt
 \wav vt-nAkhWkhrWt
 \wav nAkhWkhrWt
-\wav8 8_nAkhWkhrWt2
+\wav8 nAkhWkhrWt2
 \ps vt
 \pdl dir 
 \pdv _
@@ -55811,7 +56113,7 @@
 \sy nɤɕɯɕi
 \dt 08/Dec/2011
 
-\lx nɤkɯka
+\lx _nɤkɯka
 \ps vt
 \pdl dir
 \pdv nɯ-
@@ -55823,10 +56125,10 @@
 \xn 胡豆要先咀嚼才可以吞
 \dt 17/Jul/2016
 
-\lx nɤkɯkro
+\lx _nɤkɯkro
 \cf kro
 
-\lx nɤkɯt
+\lx _nɤkɯt
 \ps vi
 \pdl dir
 \pdv _
@@ -55840,11 +56142,11 @@
 \xn 你把我逼上绝路了
 \dt 21/Jul/2016
 
-\lx nɤla
+\lx _nɤla
 \wav vt-nAla2
 \wav vt-nAla
 \wav vt-nAla3
-\wav8 8_CWtWnAle
+\wav8 CWtWnAle
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -55863,7 +56165,7 @@
 \xn 我怕你不答应
 \dt 09/Jun/2012
 
-\lx nɤldaʁldaʁ
+\lx _nɤldaʁldaʁ
 \ps vt
 \pdl dir
 \pdv nɯ-
@@ -55871,7 +56173,7 @@
 \gn 热情款待
 \dt 30/Apr/2014
 
-\lx nɤliɤliɤt
+\lx _nɤliɤliɤt
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -55881,7 +56183,7 @@
 \xn 狗朝我摇尾巴
 \dt 05/May/2014
 
-\lx nɤlu
+\lx _nɤlu
 \wav vt-nAlu
 \ps vt
 \ng denom
@@ -55896,9 +56198,9 @@
 \cf tɤ-lu
 \dt 15/Jan/2015
 
-\lx nɤma
+\lx _nɤma
 \wav vt-nAma
-\wav8 8_mWjznAmea
+\wav8 mWjznAmea
 \ps vt
 \ng denom
 \pdl dir 
@@ -55936,7 +56238,7 @@
 \cf rɤma
 \dt 01/Sep/2015
 
-\lx nɤmar
+\lx _nɤmar
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -55947,11 +56249,11 @@
 \cf ta-mar
 \dt 16/Jul/2016
 
-\lx nɤmɤla
+\lx _nɤmɤla
 \cf nɤmɤle
 \dt 01/Sep/2012
 
-\lx nɤmɤle
+\lx _nɤmɤle
 \a nɤmɤla
 \wav vt-nAmAle
 \ps vt
@@ -55977,7 +56279,7 @@
 \xn 是她平时做家务
 \dt 11/Dec/2012
 
-\lx nɤmbɤβ
+\lx _nɤmbɤβ
 \wav vi-nAmbAB
 \ps vs
 \pdl dir 
@@ -55993,7 +56295,7 @@
 \cf tɯ-ɣmbɤβ
 \dt 16/Jul/2016
 
-\lx nɤmbɤndɤr
+\lx _nɤmbɤndɤr
 \ps vt
 \ge aider à marcher, s'occuper de (malade, persone saoûle)
 \gn 搀扶和照顾（病人，喝醉的人）
@@ -56001,7 +56303,7 @@
 \xn 他醉了，我们只好搀扶他
 \dt 07/Sep/2015
 
-\lx nɤmbɣaʁlaʁ
+\lx _nɤmbɣaʁlaʁ
 \wav vi-nAmbGaRlaR
 \ps vi
 \ng n.orient
@@ -56019,7 +56321,7 @@
 \cf mbɣaʁ
 \dt 16/Jul/2016
 
-\lx nɤmbju
+\lx _nɤmbju
 \wav vi-nAmbju
 \ps vs
 \pdl dir 
@@ -56044,7 +56346,7 @@
 \xn 太阳令我眼花
 \dt 26/Aug/2015
 
-\lx nɤmbrɯ
+\lx _nɤmbrɯ
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -56055,7 +56357,7 @@
 \xn 你不要生我的气
 \dt 18/Jul/2016
 
-\lx nɤmbrɯm
+\lx _nɤmbrɯm
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -56065,7 +56367,7 @@
 \xn 一辈子得麻子就终身不再得这种病，有免疫能力
 \dt 22/Aug/2012
 
-\lx nɤmbrɯmtɕɤz
+\lx _nɤmbrɯmtɕɤz
 \wav vi-nAmbrWmtCAz
 \ps vs
 \ge grêlé 
@@ -56076,7 +56378,7 @@
 \xn 那个人的满脸是麻子
 \dt 17/Oct/2011
 
-\lx nɤmda
+\lx _nɤmda
 \wav vt-nAmda
 \ps vt
 \ng trop
@@ -56099,11 +56401,11 @@
 \cf mda
 \dt 28/Dec/2010
 
-\lx nɤmdɯmdar
+\lx _nɤmdɯmdar
 \cf nɯmdar
 \dt 03/Oct/2011
 
-\lx nɤmdzɯ
+\lx _nɤmdzɯ
 \wav vt-nAmdzW
 \ps vt
 \ng appl
@@ -56120,7 +56422,7 @@
 \sy rɯru
 \dt 28/Dec/2010
 
-\lx nɤme
+\lx _nɤme
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -56132,7 +56434,7 @@
 \cf tɯ-me
 \dt 17/Aug/2012
 
-\lx nɤmkɯm
+\lx _nɤmkɯm
 \wav vt-nAmkWm
 \ps vt
 \ng denom
@@ -56146,7 +56448,7 @@
 \xn 他枕了衣服睡
 \dt 28/Dec/2010
 
-\lx nɤmnɤm
+\lx _nɤmnɤm
 \wav vt-nAmnAm
 \ps vt
 \ng trop
@@ -56170,7 +56472,7 @@
 \cf ɕɯmnɤm
 \dt 29/Oct/2011
 
-\lx nɤmɲo
+\lx _nɤmɲo
 \wav vt-nAmYo
 \ps vl
 \pdl dir 
@@ -56184,7 +56486,7 @@
 \cf sɤmɲo
 \dt 29/Aug/2015
 
-\lx nɤmɲole
+\lx _nɤmɲole
 \wav vi-nAmYole
 \ps vi
 \pdl dir 
@@ -56204,11 +56506,11 @@
 \cf nɤmɲo
 \dt 16/Jan/2015
 
-\lx nɤmŋɤm
+\lx _nɤmŋɤm
 \cf mŋɤm
 \dt 12/Jul/2013
 
-\lx nɤmŋɯn
+\lx _nɤmŋɯn
 \wav vt-nAmNWn
 \ps vt
 \ng trop
@@ -56227,11 +56529,11 @@
 \sy nɤxpe
 \dt 31/Dec/2010
 
-\lx nɤmpɕɤr
+\lx _nɤmpɕɤr
 \wav vt-nAmpCAr
-\wav8 8_sAnAmpCAr
-\wav8 8_zGAnAmpCAr
-\wav8 8_anAmpCWmpCAr
+\wav8 sAnAmpCAr
+\wav8 zGAnAmpCAr
+\wav8 anAmpCWmpCAr
 \ps vt
 \ng trop
 \pdl dir 
@@ -56268,11 +56570,11 @@
 \cf mpɕɤr
 \dt 15/Jan/2015
 
-\lx nɤmphoʁmphɯr
+\lx _nɤmphoʁmphɯr
 \cf mphɯr
 \dt 26/Aug/2012
 
-\lx nɤmphruʑa
+\lx _nɤmphruʑa
 \wav vt-nAmphruZa3
 \wav vt-nAmphruZa2
 \ps vt
@@ -56293,11 +56595,11 @@
 \cf sɤʑa
 \dt 01/Aug/2011
 
-\lx nɤmpɯ
+\lx _nɤmpɯ
 \cf mpɯ
 \dt 14/Oct/2011
 
-\lx nɤmqe
+\lx _nɤmqe
 \wav vt-nAmqe
 \wav vt-nAmqe2
 \ps vt
@@ -56324,7 +56626,7 @@
 \gn 招人骂
 \dt 28/Sep/2013
 
-\lx nɤmtɕɯrlu
+\lx _nɤmtɕɯrlu
 \a nɤmtɕɯrlɯr
 \ng n.orient
 \ps vi
@@ -56341,7 +56643,7 @@
 \cf mtɕɯr
 \dt 31/Dec/2010
 
-\lx nɤmthu
+\lx _nɤmthu
 \wav vt-nAmthu
 \ps vt
 \pdl dir 
@@ -56356,7 +56658,7 @@
 \cf mthu
 \dt 13/Jul/2014
 
-\lx nɤmthɯn
+\lx _nɤmthɯn
 \wav vt-nAmthWn
 \ps vt
 \ng trop
@@ -56374,9 +56676,9 @@
 \cf amthɯn
 \dt 14/Mar/2014
 
-\lx nɤmtshɤr
+\lx _nɤmtshɤr
 \wav vt-nAmtshAr
-\wav8 8_nAmtshAr
+\wav8 nAmtshAr
 \ps vt
 \ng trop
 \pdl dir 
@@ -56404,7 +56706,7 @@
 \cf sɤmtshɤr
 \dt 02/Jan/2013
 
-\lx nɤmtsioʁ
+\lx _nɤmtsioʁ
 \wav vt-nAmtsioR
 \ps vt
 \ng denom
@@ -56430,7 +56732,7 @@
 \xn 鸡老爱啄人
 \cf ɯ-mtsioʁ
 \se anɤmtsɯmtsioʁ
-\wav8 8_tokAnAmtsWmtsioRnWci
+\wav8 tokAnAmtsWmtsioRnWci
 \ps vi
 \ng recip
 \pdl dir 
@@ -56440,7 +56742,7 @@
 \xv to-k-ɤnɤmtsɯmtsioʁ-nɯ-ci
 \xn （公鸡）互相啄了起来
 
-\lx nɤmuj
+\lx _nɤmuj
 \ps vt
 \pdl dir 
 \pdv thɯ-
@@ -56451,7 +56753,7 @@
 \cf tɤ-muj
 \dt 25/Aug/2012
 
-\lx nɤmujmaj
+\lx _nɤmujmaj
 \ps vi
 \pdl dir
 \pdv thɯ-
@@ -56461,11 +56763,11 @@
 \cf ɯ-mujmaj
 \dt 27/Aug/2015
 
-\lx nɤmɯm
+\lx _nɤmɯm
 \cf mɯm
 \dt 23/Oct/2011
 
-\lx nɤmɯma
+\lx _nɤmɯma
 \wav vt-nAmWma
 \ps vt
 \pdl dir 
@@ -56484,7 +56786,7 @@
 \cf znɤmɯma
 \dt 28/Jun/2014
 
-\lx nɤnɤm
+\lx _nɤnɤm
 \ps vs
 \ge être amplement suffisant
 \gn 绰绰有余
@@ -56492,15 +56794,15 @@
 \xn 我以前吃穿都充裕
 \dt 19/Aug/2015
 
-\lx nɤnbaʁ
+\lx _nɤnbaʁ
 \cf anbaʁ
 \dt 04/Mar/2017
 
-\lx nɤnbɯnbaʁ
+\lx _nɤnbɯnbaʁ
 \cf anbaʁ
 \dt 30/Oct/2014
 
-\lx nɤndɤɣ
+\lx _nɤndɤɣ
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -56521,7 +56823,7 @@
 \cf sɤndɤɣ
 \dt 13/Oct/2013
 
-\lx nɤndɤɣri
+\lx _nɤndɤɣri
 \wav vt-nAndAGri
 \ps vi
 \ng denom
@@ -56541,7 +56843,7 @@
 \cf tɤndɤɣri
 \dt 01/Jan/2011
 
-\lx nɤndɤr
+\lx _nɤndɤr
 \wav vi-nAndAr
 \ps vi
 \pdl dir 
@@ -56568,8 +56870,8 @@
 \xn 我在这里拍了一拳，把录音机震动了一下
 \dt 08/Oct/2014
 
-\lx nɤndɯndɤt
-\wav8 8_maCWtWnAndWndAt
+\lx _nɤndɯndɤt
+\wav8 maCWtWnAndWndAt
 \ps vi
 \pdl dir 
 \pdv _
@@ -56585,7 +56887,7 @@
 \ge laisser aller n'importe oæ
 \xn 让……到处乱走
 
-\lx nɤndɯndo
+\lx _nɤndɯndo
 \wav vt-nAndWndo
 \ps vt 
 \ng n.orient
@@ -56600,7 +56902,7 @@
 \cf ndo
 \dt 10/Dec/2014
 
-\lx nɤndɯt
+\lx _nɤndɯt
 \wav vt-nAndWt
 \ps vt
 \pdl dir 
@@ -56617,7 +56919,7 @@
 \xn 我们俩不再争了
 \dt 25/Jul/2013
 
-\lx nɤndza
+\lx _nɤndza
 \ps vi
 \pdl dir 
 \pdv kɤ-
@@ -56630,15 +56932,15 @@
 \xn 麻风病是最严重的病
 \dt 27/Aug/2012
 
-\lx nɤndzɤβ
+\lx _nɤndzɤβ
 \cf ndzɤβ
 \dt 23/Oct/2011
 
-\lx nɤndzɯt
+\lx _nɤndzɯt
 \cf andzɯt
 \dt 28/Apr/2012
 
-\lx nɤndʐaβlaβ
+\lx _nɤndʐaβlaβ
 \wav vi-nAndzxaBlaB
 \ps vi 
 \ng n.orient
@@ -56655,8 +56957,8 @@
 \cf ndʐaβ
 \dt 01/Jan/2011
 
-\lx nɤndʐɤrqɯ
-\wav8 8_kunAdzxArqWa
+\lx _nɤndʐɤrqɯ
+\wav8 kunAdzxArqWa
 \wav vi-nArndzxArqW
 \ps vs
 \pdl dir 
@@ -56672,7 +56974,7 @@
 \cf tɤndʐo
 \dt 21/Jul/2016
 
-\lx nɤndʐi
+\lx _nɤndʐi
 \ps vt
 \pdl dir
 \pdv pɯ-
@@ -56683,7 +56985,7 @@
 \cf tɯ-ndʐi
 \dt 26/Apr/2014
 
-\lx nɤndʐo
+\lx _nɤndʐo
 \wav vi-nAndzxo
 \wav vi-ZGAnAndzxo
 \ps vi
@@ -56710,7 +57012,7 @@
 \cf tɤndʐo
 \dt 09/Aug/2014
 
-\lx nɤndʑaʁlaʁ
+\lx _nɤndʑaʁlaʁ
 \ps vi
 \ng n.orient
 \pdl dir 
@@ -56723,7 +57025,7 @@
 \cf ndʑaʁ
 \dt 01/Jan/2011
 
-\lx nɤndʑe
+\lx _nɤndʑe
 \wav vi-nAndZe
 \wav vt-nWzJW
 \ps vi
@@ -56740,7 +57042,7 @@
 \an nɯzɟɯ
 \dt 30/Oct/2014
 
-\lx nɤndʑɣi
+\lx _nɤndʑɣi
 \ps vt
 \pdl dir 
 \pdv thɯ-
@@ -56752,7 +57054,7 @@
 \xn 他平时吊着鼻涕
 \dt 28/Aug/2012
 
-\lx nɤngɯt
+\lx _nɤngɯt
 \wav vt-nAngWt
 \ps vt
 \pdl dir 
@@ -56775,7 +57077,7 @@
 \cf angɯt
 \dt 22/Aug/2015
 
-\lx nɤntshɣɤz
+\lx _nɤntshɣɤz
 \wav vt-nAntshGAz
 \ps vt
 \pdl dir 
@@ -56793,7 +57095,7 @@
 \gn 撞到人
 \dt 20/Aug/2015
 
-\lx nɤntshi
+\lx _nɤntshi
 \wav vt-nAntshi
 \ps vt
 \ng trop
@@ -56819,7 +57121,7 @@
 \sy anɯrgɯrga
 \dt 26/Aug/2015
 
-\lx nɤɲchɯɲchɤm
+\lx _nɤɲchɯɲchɤm
 \wav vi-nAYchWYchAm
 \ps vi
 \pdl dir
@@ -56830,7 +57132,7 @@
 \xn 我去到处流浪
 \dt 18/May/2014
 
-\lx nɤɲi
+\lx _nɤɲi
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -56841,7 +57143,7 @@
 \cf tɤɲi
 \dt 22/Aug/2015
 
-\lx nɤɲɟɯɲɟu
+\lx _nɤɲɟɯɲɟu
 \wav vt-nAYJWYJu
 \ps vt
 \pdl dir 
@@ -56863,14 +57165,14 @@
 \xn 我用盐巴把犏牛引过来了
 \dt 03/Sep/2015
 
-\lx nɤŋɤβ
+\lx _nɤŋɤβ
 \cf sɤŋɤβ
 \dt 28/Oct/2011
 
-\lx nɤŋgɤr
+\lx _nɤŋgɤr
 \cf ŋgɤr
 
-\lx nɤŋgɯ
+\lx _nɤŋgɯ
 \wav vt-nANgW
 \wav vt-znANgW
 \ps vt
@@ -56897,11 +57199,11 @@
 \cf ɕɯrŋo
 \dt 30/Jul/2013
 
-\lx nɤŋgɯŋga
+\lx _nɤŋgɯŋga
 \cf ŋga
 \dt 06/Sep/2015
 
-\lx nɤŋka
+\lx _nɤŋka
 \wav vt-nANka
 \ps vt
 \pdl dir 
@@ -56922,7 +57224,7 @@
 \cf tɯ-ŋka
 \dt 12/Jun/2014
 
-\lx nɤŋkhɯt
+\lx _nɤŋkhɯt
 \ps vt
 \ng denom
 \pdl dir
@@ -56932,9 +57234,9 @@
 \cf tɤŋkhɯt
 \dt 18/May/2014
 
-\lx nɤŋkɯŋke
+\lx _nɤŋkɯŋke
 \wav vi-nANkWNke
-\wav8 8_sANke
+\wav8 sANke
 \ps vi
 \ng n.orient
 \pdl dir 
@@ -56948,7 +57250,7 @@
 \cf ŋke
 \dt 12/Jun/2014
 
-\lx nɤŋɯr
+\lx _nɤŋɯr
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -56964,14 +57266,14 @@
 \sy saʁre
 \dt 28/Aug/2012
 
-\lx nɤɴɢiɤt
+\lx _nɤɴɢiɤt
 \cf ɴɢiɤt
 \dt 15/Jul/2016
 
-\lx nɤɴqa
+\lx _nɤɴqa
 \wav vt-nANqa
-\wav8 8_YWnANqe
-\wav8 8_nANqa
+\wav8 YWnANqe
+\wav8 nANqa
 \ps vt
 \ng trop
 \pdl dir 
@@ -56990,11 +57292,11 @@
 \cf ɴqa
 \dt 15/Jun/2012
 
-\lx nɤɴqhi
+\lx _nɤɴqhi
 \cf ɴqhi
 \dt 23/Oct/2011
 
-\lx nɤɴqi
+\lx _nɤɴqi
 \wav vt-nANqi
 \ps vt
 \pdl dir 
@@ -57009,7 +57311,7 @@
 \cf nɯpɤɴqi
 \dt 30/May/2014
 
-\lx nɤpɤβdaʁ
+\lx _nɤpɤβdaʁ
 \a nɤpɤdaʁ
 \wav vt-nApABdaR
 \ps vt
@@ -57021,7 +57323,7 @@
 \xn 我抚养了孩子
 \sy sɤβlo
 
-\lx nɤpɤmbat
+\lx _nɤpɤmbat
 \wav vi-nApAmbat
 \ps vi
 \ng comp
@@ -57042,7 +57344,7 @@
 \cf mbat
 \dt 16/Jul/2016
 
-\lx nɤpɤri
+\lx _nɤpɤri
 \wav vi-nApAri
 \ps vi
 \ng denom
@@ -57064,9 +57366,9 @@
 \gn 给……吃晚餐
 \dt 18/Aug/2015
 
-\lx nɤpɤru
+\lx _nɤpɤru
 \wav vt-nApAru
-\wav8 8_nApAru
+\wav8 nApAru
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -57080,11 +57382,11 @@
 \cf ru1
 \dt 04/Jan/2011
 
-\lx nɤpe
+\lx _nɤpe
 \cf pe
 \dt 18/Aug/2012
 
-\lx nɤphɤtphɤt
+\lx _nɤphɤtphɤt
 \ps vt
 \pdl dir
 \pdv kɤ-
@@ -57100,7 +57402,7 @@
 \gn 用……（轻轻地）拍打
 \dt 25/Aug/2015
 
-\lx nɤphɯphɣo
+\lx _nɤphɯphɣo
 \wav vi-nAphWphGo
 \ps vi
 \ng n.orient
@@ -57113,7 +57415,7 @@
 \cf phɣo
 \dt 03/Jan/2011
 
-\lx nɤphɯphɯ
+\lx _nɤphɯphɯ
 \wav vi-nAphWphW2
 \wav vi-nAphWphW
 \ps vi
@@ -57131,7 +57433,7 @@
 \gn 乞丐
 \dt 03/Jan/2011
 
-\lx nɤphɯxtsɯ
+\lx _nɤphɯxtsɯ
 \wav vi-nAphWxtsW
 \ps vi
 \ng incorp
@@ -57146,9 +57448,23 @@
 \cf tɤphɯxtsɯ
 \dt 10/Nov/2011
 
-\lx nɤprɯ
+\lx _nɤpra
+\wav8 tAnApraa
+\ps vi
+\pdl dir
+\pdv tɤ-
+\ng denom
+\ge être envoyé
+\gn 被人致使/派去
+\xv aʑo tɤ-nɤpra-a pɯ-ɕti wo
+\xn 我是被人派来的
+\cf tɤpra
+\cf ɣɤxpra
+\dt 16/May/2017
+
+\lx _nɤprɯ
 \wav vi-nAprW
-\wav8 8_nAPrW
+\wav8 nAPrW
 \ps vi
 \pdl dir 
 \pdv kɤ-
@@ -57166,7 +57482,7 @@
 \cf tɤprɯ
 \dt 18/Mar/2013
 
-\lx nɤpɯpa
+\lx _nɤpɯpa
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -57175,11 +57491,11 @@
 \sy nɯβdaʁ
 \dt 01/Sep/2014
 
-\lx nɤpɯprɤt
+\lx _nɤpɯprɤt
 \cf prɤt
 \dt 26/Oct/2014
 
-\lx nɤqa
+\lx _nɤqa
 \wav vt-nAqa
 \ps vt
 \ng denom
@@ -57194,7 +57510,7 @@
 \cf tɯ-qa
 \dt 03/Jan/2011
 
-\lx nɤqadrɤt
+\lx _nɤqadrɤt
 \ps vt
 \pdl dir
 \pdv thɯ-
@@ -57207,13 +57523,13 @@
 \cf tɯ-qa
 \dt 29/Aug/2015
 
-\lx nɤqɤrqɤr
+\lx _nɤqɤrqɤr
 \cf qɤr
 \dt 04/May/2014
 
-\lx nɤqɤtsa
+\lx _nɤqɤtsa
 \wav vt-nAqAtsa
-\wav8 8_YWnAqAtse
+\wav8 YWnAqAtse
 \ps vt
 \ng trop
 \pdl dir 
@@ -57232,7 +57548,7 @@
 \cf aqɤtsa
 \dt 23/Oct/2011
 
-\lx nɤqɤʑa
+\lx _nɤqɤʑa
 \wav vt-nAqaZa
 \ps vt
 \ng incorp
@@ -57250,7 +57566,7 @@
 \cf ʑa1
 \dt 04/Jan/2011
 
-\lx nɤqharu
+\lx _nɤqharu
 \wav vi-nAqharu
 \ps vi
 \ng incorp
@@ -57266,7 +57582,7 @@
 \cf qharu
 \dt 02/Oct/2012
 
-\lx nɤqhɤβde
+\lx _nɤqhɤβde
 \wav vt-nAqhABde
 \ps vt
 \pdl dir
@@ -57286,7 +57602,7 @@
 \cf βde
 \dt 19/Jul/2016
 
-\lx nɤqhɤŋga
+\lx _nɤqhɤŋga
 \wav vt-nAqhANga
 \ps vt
 \ng incorp
@@ -57303,7 +57619,7 @@
 \cf ŋga
 \dt 03/Jan/2011
 
-\lx nɤqhɤwɯr
+\lx _nɤqhɤwɯr
 \wav vt-nAqhawur
 \ps vt
 \ng denom
@@ -57323,7 +57639,7 @@
 \cf tɯwɯr
 \dt 26/Aug/2014
 
-\lx nɤqhrɯmbɤβ
+\lx _nɤqhrɯmbɤβ
 \wav vi-nAqhrWmbAB
 \ps vi
 \pdl dir 
@@ -57336,7 +57652,7 @@
 \cf tɯ-qhrɯmbɤβ
 \dt 07/Apr/2011
 
-\lx nɤrɤɟaʁ
+\lx _nɤrɤɟaʁ
 \wav nArAJAR
 \ps vi
 \pdl dir 
@@ -57346,7 +57662,7 @@
 \cf tɤre tɤɟaʁ
 \dt 15/May/2012
 
-\lx nɤrɕɤmŋɤm
+\lx _nɤrɕɤmŋɤm
 \wav vt-nArCAmNAm
 \ps vt
 \pdl dir 
@@ -57359,7 +57675,7 @@
 \xv ɯ-rɕa,mŋɤm
 \dt 17/Aug/2012
 
-\lx nɤrɕu
+\lx _nɤrɕu
 \wav vi-nArCu
 \ps vi
 \pdl dir 
@@ -57377,11 +57693,11 @@
 \xn 你擦破了我的手
 \dt 05/Jan/2011
 
-\lx nɤre
+\lx _nɤre
 \hm 1
 \wav vi-nAre
-\wav8 8_sAnAre
-\wav8 8_anArWre
+\wav8 sAnAre
+\wav8 anArWre
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -57426,7 +57742,7 @@
 \xn 他们俩互相取笑
 \dt 19/Jul/2016
 
-\lx nɤrgɤŋɯ
+\lx _nɤrgɤŋɯ
 \ps vi
 \pdl dir
 \pdv nɯ-
@@ -57437,7 +57753,7 @@
 \et rga.ŋu
 \dt 20/Aug/2015
 
-\lx nɤrɣɤma
+\lx _nɤrɣɤma
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -57447,7 +57763,7 @@
 \xn 我去求雨了
 \dt 31/Aug/2015
 
-\lx nɤrɟɯrɟɯɣ
+\lx _nɤrɟɯrɟɯɣ
 \wav vi-nArJWrJWG
 \ps vi
 \ng n.orient
@@ -57463,7 +57779,7 @@
 \cf rɟɯɣ1
 \dt 12/Apr/2011
 
-\lx nɤrkɤja
+\lx _nɤrkɤja
 \ps vt
 \pdl dir
 \pdv _
@@ -57472,7 +57788,7 @@
 \xv fsapaʁ ku-nɤrkɤje-a
 \xn 我在管理牲畜
 
-\lx nɤrkhɯrkhɯβ
+\lx _nɤrkhɯrkhɯβ
 \a _nɤrkhɯβrkhɯβ
 \wav vt-nArkhWrkhWB
 \ps vt
@@ -57505,12 +57821,12 @@
 \cf rkhɯβrkhɯβ
 \dt 05/Jan/2011
 
-\lx nɤrko
+\lx _nɤrko
 \hm 1
 \wav vt-nArko2
 \wav vt-nArko
 \wav vt-nArko3
-\wav8 8_tArkoz
+\wav8 tArkoz
 \ps vt
 \ng trop
 \pdl dir 
@@ -57565,10 +57881,10 @@
 \cf anɤrkɯrko
 \dt 16/Nov/2012
 
-\lx nɤrko
+\lx _nɤrko
 \hm 2
 \a nɤrkɯrko
-\wav8 8_nArko
+\wav8 nArko
 \ps vs
 \ge résistant
 \gn 结实；硬；不容易变形
@@ -57576,11 +57892,11 @@
 \cf rko
 \dt 07/Sep/2015
 
-\lx nɤrkɯn
+\lx _nɤrkɯn
 \cf rkɯn
 \dt 19/Aug/2015
 
-\lx nɤrkɯrku
+\lx _nɤrkɯrku
 \wav vt-nArkWrku
 \ps vt
 \ng n.orient
@@ -57595,7 +57911,7 @@
 \cf rku
 \dt 19/Aug/2015
 
-\lx nɤrme
+\lx _nɤrme
 \ps vt
 \pdl dir 
 \pdv thɯ-
@@ -57613,9 +57929,9 @@
 \cf tɤ-rme
 \dt 17/Jul/2016
 
-\lx nɤrmi
-\wav8 8_tAnArmi_YWra
-\wav8 8_matAtWnArmi
+\lx _nɤrmi
+\wav8 tAnArmi_YWra
+\wav8 matAtWnArmi
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -57634,7 +57950,7 @@
 \cf tɤ-rmi
 \dt 31/Aug/2015
 
-\lx nɤrnoʁ
+\lx _nɤrnoʁ
 \ps vt
 \pdl dir
 \pdv nɯ-
@@ -57647,8 +57963,8 @@
 \cf tɯ-rnoʁ
 \dt 20/Jul/2016
 
-\lx nɤro
-\wav8 8_nAro
+\lx _nɤro
+\wav8 nAro
 \ps vt
 \pdl dir 
 \pdv kɤ-
@@ -57660,10 +57976,10 @@
 \xn 我馍馍开始吃馍馍了
 \dt 15/Jun/2012
 
-\lx nɤrpaʁ
+\lx _nɤrpaʁ
 \wav vt-nArpaR
-\wav8 8_nArpaR
-\wav8 8_nArpaR2
+\wav8 nArpaR
+\wav8 nArpaR2
 \ps vt
 \ng denom
 \pdl dir 
@@ -57686,7 +58002,7 @@
 \cf anɤrpɯrpaʁ
 \dt 13/Sep/2011
 
-\lx nɤrpaʁku
+\lx _nɤrpaʁku
 \wav vt-nWpaRku
 \ps vt
 \ng denom
@@ -57700,7 +58016,7 @@
 \cf tɯ-rpaʁ
 \dt 26/Aug/2012
 
-\lx nɤrpɯrpu
+\lx _nɤrpɯrpu
 \wav vt-nArpWrpu
 \ps vt
 \ng n.orient
@@ -57713,7 +58029,7 @@
 \cf rpu
 \dt 22/Apr/2013
 
-\lx nɤrqaʁ
+\lx _nɤrqaʁ
 \wav vt-nArqaR
 \ps vt
 \pdl dir 
@@ -57728,7 +58044,7 @@
 \xn 我剥了圆根的皮
 \dt 30/Sep/2014
 
-\lx nɤrqhu
+\lx _nɤrqhu
 \wav vt-nArqhu
 \ps vt
 \ng denom
@@ -57750,7 +58066,7 @@
 \cf tɤ-rqhu
 \dt 09/Nov/2013
 
-\lx nɤrʁaʁ
+\lx _nɤrʁaʁ
 \wav vt-nArRaR2
 \wav vt-nArRaR
 \ps vt
@@ -57771,7 +58087,7 @@
 \cf ɣɤrʁaʁ
 \dt 02/Jul/2014
 
-\lx nɤrtaʁ
+\lx _nɤrtaʁ
 \hm 1
 \wav vi-nArtaR2
 \ps vt
@@ -57789,7 +58105,7 @@
 \cf tɤ-rtaʁ
 \dt 14/Dec/2012
 
-\lx nɤrtaʁ
+\lx _nɤrtaʁ
 \hm 2
 \wav vt-nArtaR
 \ps vt
@@ -57811,7 +58127,7 @@
 \cf rtaʁ
 \dt 09/May/2013
 
-\lx nɤrte
+\lx _nɤrte
 \wav vt-nArte
 \ps vt
 \pdl dir 
@@ -57823,7 +58139,7 @@
 \cf tɤ-rte
 \dt 21/Nov/2013
 
-\lx nɤrtoχpjɤt
+\lx _nɤrtoχpjɤt
 \a _nɤrtɤχpjɤt 
 \wav vt-nArtoXpjAt
 \wav vt-nArtoXpjAt2
@@ -57845,11 +58161,11 @@
 \cf χpjɤt
 \dt 09/May/2013
 
-\lx nɤrtɯrtoʁ
+\lx _nɤrtɯrtoʁ
 \cf rtoʁ
 \dt 01/Jan/2015
 
-\lx nɤru
+\lx _nɤru
 \wav vi-nAru
 \ps vi
 \pdl dir 
@@ -57866,7 +58182,7 @@
 \xn 山羊偷吃了
 \dt 06/Jan/2011
 
-\lx nɤrɯra
+\lx _nɤrɯra
 \wav vi-nArWra
 \ps vi
 \pdl dir 
@@ -57886,7 +58202,7 @@
 \xv nɯ-nɤrɯra je ma a-mɤ-tɤ-ta-xtsɯɣ
 \xn 你小心不要被我打到
 
-\lx nɤrʑaβ
+\lx _nɤrʑaβ
 \wav vt-nArZaB
 \ps vt
 \ng denom
@@ -57900,9 +58216,9 @@
 \cf mɤrʑaβ
 \dt 06/Jan/2011
 
-\lx nɤrʑaʁ
+\lx _nɤrʑaʁ
 \wav vi-nArZaR
-\wav8 8_nArZaR
+\wav8 nArZaR
 \ps vi
 \ng denom 
 \pdl dir 
@@ -57920,7 +58236,19 @@
 \cf tɤ-rʑaʁ1
 \dt 16/Jul/2016
 
-\lx nɤʁaʁ
+\lx _nɤʁarphɤβ
+\ps vt
+\pdl dir
+\pdv pɯ-
+\ng incorp
+\ge frapper avec ses ailes
+\gn 用翅膀拍打
+\xv qaliaʁ kɯ paʁtsa pjɤ-nɤʁarphɤβ 
+\xn 老鹰用翅膀拍打了小猪
+\cf ʁarphɤβ
+\dt 19/Aug/2015
+
+\lx _nɤʁaʁ
 \wav vi-nARaR
 \ps vi
 \sn 1
@@ -57942,10 +58270,10 @@
 \cf nɤʁɯmʁaʁ
 \dt 11/Feb/2014
 
-\lx nɤʁdɤn
+\lx _nɤʁdɤn
 \wav vt-nARdAn
 \wav vt-znARdAn
-\wav8 8_znWRdAn
+\wav8 znWRdAn
 \ps vt
 \ng denom
 \sn 1
@@ -57989,7 +58317,7 @@
 \cf tɤ-ʁdɤn
 \dt 24/Aug/2012
 
-\lx nɤʁndɯʁndɯ
+\lx _nɤʁndɯʁndɯ
 \wav vt-nARndWRndW
 \ps vt
 \ng n.orient
@@ -58001,7 +58329,7 @@
 \xn 我打了山羊和绵羊
 \dt 05/Jan/2011
 
-\lx nɤʁnoŋ
+\lx _nɤʁnoŋ
 \wav vi-nARnoN
 \ps vi
 \pdl dir 
@@ -58017,7 +58345,7 @@
 \xn 这个碗打破了，没有关系
 \dt 25/Feb/2014
 
-\lx nɤʁombi
+\lx _nɤʁombi
 \wav vt-nARombi
 \ps vt
 \pdl dir 
@@ -58030,14 +58358,14 @@
 \cf sɤʁombi
 \dt 16/May/2013
 
-\lx nɤʁɯmʁaʁ
+\lx _nɤʁɯmʁaʁ
 \ps vi
 \ge s'amuser à droite et à gauche
 \gn 到处玩耍
 \cf nɤʁaʁ
 \dt 10/May/2014
 
-\lx nɤsaʁdɯɣ
+\lx _nɤsaʁdɯɣ
 \wav vt-nAsaRdWG
 \ps vt
 \ng trop
@@ -58052,10 +58380,10 @@
 \cf ʁdɯɣ1
 \dt 15/Jan/2015
 
-\lx nɤsɤɕke
+\lx _nɤsɤɕke
 \cf sɤɕke1
 
-\lx nɤsɤɣ
+\lx _nɤsɤɣ
 \wav vt-nAsAG
 \ps vt
 \pdl dir 
@@ -58079,9 +58407,9 @@
 \xn 别人吃自己的醋，是因为自己喜欢上别人的妻子
 \dt 26/Jun/2011
 
-\lx nɤsɤɣdɯɣ
+\lx _nɤsɤɣdɯɣ
 \wav vt-nAsAGdWG
-\wav8 8_nAsAGdWG
+\wav8 nAsAGdWG
 \ps vt
 \ng trop
 \pdl dir 
@@ -58099,11 +58427,11 @@
 \cf dɯɣ
 \dt 25/May/2013
 
-\lx nɤsɤre
+\lx _nɤsɤre
 \cf sɤre
 \dt 28/Apr/2014
 
-\lx nɤsɤscit
+\lx _nɤsɤscit
 \wav vt-nAsAscit
 \ps vt
 \pdl dir 
@@ -58121,7 +58449,7 @@
 \cf sɤscit
 \dt 15/Jan/2015
 
-\lx nɤscɤlɤt
+\lx _nɤscɤlɤt
 \ps vt
 \ng comp
 \ge aller chercher et ramener
@@ -58132,7 +58460,7 @@
 \cf lɤt1
 \dt 07/Sep/2015
 
-\lx nɤscɤr
+\lx _nɤscɤr
 \wav vi-nAscAr
 \ps vi
 \pdl dir 
@@ -58156,9 +58484,9 @@
 \cf tɤ-scɤr
 \dt 14/Sep/2014
 
-\lx nɤsci
+\lx _nɤsci
 \wav vt-nAsci
-\wav8 8_nAsci
+\wav8 nAsci
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -58186,9 +58514,9 @@
 \sy sɤndu
 \dt 14/May/2012
 
-\lx nɤscɯɕa
+\lx _nɤscɯɕa
 \wav vt-nAsciCa
-\wav8 8_nAsciCa
+\wav8 nAsciCa
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -58200,11 +58528,11 @@
 \xn 首先要把皮子刮干净，然后涂一层油，然后揉
 \dt 24/Jun/2011
 
-\lx nɤscɯscɤt
+\lx _nɤscɯscɤt
 \cf scɤt
 \dt 05/Jun/2011
 
-\lx nɤsma
+\lx _nɤsma
 \wav vt-nAsma
 \ps vt
 \pdl dir 
@@ -58225,7 +58553,7 @@
 \ge admirer les autres
 \gn 羡慕别人
 \se sɤsma
-\wav8 8_kWsAsma
+\wav8 kWsAsma
 \ps vs
 \ng deexp
 \ge admirable
@@ -58234,7 +58562,7 @@
 \xn 他是个值得羡慕的人
 \dt 22/Aug/2015
 
-\lx nɤsna
+\lx _nɤsna
 \wav vt-nAsna
 \ps vt
 \ng trop
@@ -58251,12 +58579,12 @@
 \cf sna
 \dt 11/Jan/2011
 
-\lx nɤsɲɯsɲu
+\lx _nɤsɲɯsɲu
 \cf sɲu
 
-\lx nɤsŋɯt
+\lx _nɤsŋɯt
 \wav vt-nAsNWt
-\wav8 8_lunAsNWtnW
+\wav8 lunAsNWtnW
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -58280,7 +58608,7 @@
 \cf tɤ-sŋɯt
 \dt 17/Jul/2016
 
-\lx nɤso
+\lx _nɤso
 \ps vt
 \pdl dir
 \pdv nɯ-
@@ -58291,7 +58619,7 @@
 \sy nɯɣbɯɣ
 \dt 24/Aug/2015
 
-\lx nɤsphjarlar
+\lx _nɤsphjarlar
 \wav vt-nAsphjarlar
 \ps vt
 \pdl dir 
@@ -58303,7 +58631,7 @@
 \cf sphjar
 \dt 14/Jul/2016
 
-\lx nɤsta
+\lx _nɤsta
 \wav vt-nAsta
 \ps vt
 \pdl dir 
@@ -58319,7 +58647,7 @@
 \xn 我习惯了你们的家
 \dt 08/Jan/2011
 
-\lx nɤstɤr
+\lx _nɤstɤr
 \wav vt-nAstAr2
 \ps vt
 \pdl dir 
@@ -58336,9 +58664,9 @@
 \xn 鹰把我的肉突然地抢走了
 \dt 19/Aug/2012
 
-\lx nɤstu
+\lx _nɤstu
 \wav vt-nAstu
-\wav8 8_manWtWnAste
+\wav8 manWtWnAste
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -58352,7 +58680,7 @@
 \xv ɯʑo kɯ ta-tɯt nɯ ma-nɯ-tɯ-nɤste
 \xn 你不要相信他刚才讲的话
 \se ʑɣɤnɤstu
-\wav8 8_ZGAnAstu
+\wav8 ZGAnAstu
 \ps vi
 \ng refl
 \xv ɯ-zda mɯ́j-nɤste ma ɯʑo ɲɯ-ʑɣɤ-nɤstu
@@ -58367,17 +58695,17 @@
 \cf stu2
 \dt 11/Mar/2014
 
-\lx nɤstumbat
+\lx _nɤstumbat
 \cf stu1
 \dt 12/Jul/2016
 
-\lx nɤstɯstu
+\lx _nɤstɯstu
 \ps vt
 \ge causer des ennuis à
 \gn 找……麻烦
 \dt 07/Dec/2013
 
-\lx nɤtar
+\lx _nɤtar
 \wav vt-nAtar
 \ps vt
 \pdl dir 
@@ -58393,7 +58721,7 @@
 \cf tɤtar
 \dt 31/Aug/2015
 
-\lx nɤtɕɯ
+\lx _nɤtɕɯ
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -58403,7 +58731,7 @@
 \cf tɤ-tɕɯ
 \dt 17/Aug/2012
 
-\lx nɤthɤβ
+\lx _nɤthɤβ
 \wav vi-nAthAB
 \wav vi-nAthAB2
 \ps vi
@@ -58420,7 +58748,7 @@
 \en 假如有什么东西，自己去这边，别人去那边，就可以说“我们俩把它围起来了”
 \dt 16/Jul/2016
 
-\lx nɤthɯthu
+\lx _nɤthɯthu
 \wav vt-nAthWthu
 \ps vt
 \ng n.orient
@@ -58435,8 +58763,8 @@
 \cf thu1
 \dt 23/Sep/2014
 
-\lx nɤtsa
-\wav8 8_YWnAtsa
+\lx _nɤtsa
+\wav8 YWnAtsa
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -58452,7 +58780,7 @@
 \cf nɯtsa
 \dt 07/May/2014
 
-\lx nɤtsɤtkhɯ
+\lx _nɤtsɤtkhɯ
 \ps vs
 \ge être obéissant
 \gn 听指挥
@@ -58462,7 +58790,7 @@
 \xn 我这个音发不出来
 \dt 16/Aug/2012
 
-\lx nɤtshɤxtshɯ
+\lx _nɤtshɤxtshɯ
 \wav vt-nAtshAxtshW
 \ps vt
 \pdl dir 
@@ -58476,7 +58804,7 @@
 \xn 你不要催我
 \dt 15/Sep/2014
 
-\lx nɤtshɯtshɤt
+\lx _nɤtshɯtshɤt
 \wav vt-nAtshWtshAt
 \ps vt
 \ng n.orient
@@ -58491,7 +58819,7 @@
 \cf tshɤt1
 \dt 21/May/2014
 
-\lx nɤtsoʁ
+\lx _nɤtsoʁ
 \wav vi-nAtsoR
 \ps vi
 \ng denom
@@ -58506,7 +58834,7 @@
 \cf tɤtsoʁ
 \dt 08/Jan/2011
 
-\lx nɤtsɯ
+\lx _nɤtsɯ
 \wav vt-nAtsW
 \ps vt
 \pdl dir 
@@ -58532,7 +58860,7 @@
 \xn 自己做了坏事的时候隐瞒是没有用的，因为人们始终是会知道的
 \dt 24/Aug/2015
 
-\lx nɤtsɯmɣɯt
+\lx _nɤtsɯmɣɯt
 \wav vt-nAtsWmGWt
 \ps vt
 \ng comp
@@ -58552,11 +58880,11 @@
 \cf ɣɯt
 \dt 23/Feb/2014
 
-\lx nɤtsɯtsɯm
+\lx _nɤtsɯtsɯm
 \cf tsɯm
 \dt 18/Apr/2013
 
-\lx nɤtʂa
+\lx _nɤtʂa
 \wav vi-nAtsxa
 \ps vs
 \pdl dir 
@@ -58576,7 +58904,7 @@
 \xn 我在里面装得很紧
 \dt 17/Oct/2011
 
-\lx nɤtʂaβlaβ
+\lx _nɤtʂaβlaβ
 \wav vt-nAtsxaBlaB
 \ps vt
 \ng n.orient
@@ -58590,11 +58918,11 @@
 \cf tʂaβ
 \dt 08/Jan/2011
 
-\lx nɤtʂaŋ
+\lx _nɤtʂaŋ
 \cf tʂaŋ
 \dt 24/Oct/2011
 
-\lx nɤtʂɤtshi 
+\lx _nɤtʂɤtshi 
 \ps vt
 \pdl dir
 \pdv _
@@ -58606,15 +58934,15 @@
 \cf tshi3
 \cf tʂu
 
-\lx nɤtɯɣ
+\lx _nɤtɯɣ
 \cf atɯɣ
 \dt 29/Nov/2011
 
-\lx nɤtɯta
+\lx _nɤtɯta
 \cf ta
 \dt 06/Sep/2015
 
-\lx nɤtɯti
+\lx _nɤtɯti
 \wav vt-nAtWti
 \ps vt
 \ng n.orient
@@ -58635,7 +58963,7 @@
 \cf ti
 \dt 18/May/2014
 
-\lx nɤwɤt
+\lx _nɤwɤt
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -58646,7 +58974,7 @@
 \sy ɣɤrɣɤr
 \dt 12/Jul/2013
 
-\lx nɤwu
+\lx _nɤwu
 \ps vt
 \pdl dir
 \pdv nɯ-
@@ -58660,7 +58988,7 @@
 \cf ɣɤwu
 \dt 06/May/2014
 
-\lx nɤwxti
+\lx _nɤwxti
 \wav vt-nAwxti
 \ps vt
 \ng trop
@@ -58677,11 +59005,11 @@
 \cf wxti
 \dt 25/Feb/2014
 
-\lx nɤxchi
+\lx _nɤxchi
 \cf chi
 \dt 26/Sep/2011
 
-\lx nɤxɕɤt
+\lx _nɤxɕɤt
 \wav vt-nAxCAt
 \ps vt
 \ng denom
@@ -58706,7 +59034,7 @@
 \cf tɯ-xɕɤt
 \dt 06/Jun/2011
 
-\lx nɤxpe
+\lx _nɤxpe
 \wav vt-nAxpe
 \ps vt
 \ng trop
@@ -58719,11 +59047,11 @@
 \cf pe
 \dt 25/Feb/2014
 
-\lx nɤxtɕɤβ
+\lx _nɤxtɕɤβ
 \cf ɣɤxtɕɤβ
 \dt 15/Jan/2011
 
-\lx nɤxtɕhɯβ
+\lx _nɤxtɕhɯβ
 \ps vt
 \pdl dir
 \pdv nɯ-
@@ -58740,7 +59068,7 @@
 \cf ɯ-tɕhɯβ
 \dt 02/Sep/2015
 
-\lx nɤxtɕi
+\lx _nɤxtɕi
 \wav vt-nAxtCi
 \ps vt
 \ng trop
@@ -58757,11 +59085,11 @@
 \cf xtɕi
 \dt 25/Feb/2014
 
-\lx nɤxtɕur
+\lx _nɤxtɕur
 \cf tɕur1
 \dt 25/Sep/2011
 
-\lx nɤxthɯ
+\lx _nɤxthɯ
 \wav vt-nAxthW
 \ps vt
 \ng trop
@@ -58778,7 +59106,7 @@
 \cf thɯ2
 \dt 25/Feb/2014
 
-\lx nɤxtsa
+\lx _nɤxtsa
 \wav vt-nAxtsa
 \ps vt
 \pdl dir 
@@ -58792,7 +59120,7 @@
 \xn 我把门撬开了
 \dt 10/Jan/2011
 
-\lx nɤxtʂɯ
+\lx _nɤxtʂɯ
 \wav vt-nAxtsxW2
 \wav vt-nAxtsxW
 \ps vt 
@@ -58817,7 +59145,7 @@
 \sy nɯpjaχpa
 \dt 14/Jul/2016
 
-\lx nɤxtʂɯn
+\lx _nɤxtʂɯn
 \wav vt-nAxtsxWn2
 \ps vt
 \ng trop
@@ -58837,7 +59165,7 @@
 \cf tɯ-tʂɯn
 \dt 09/Jan/2015
 
-\lx nɤxtɯt
+\lx _nɤxtɯt
 \wav vt-nAxtWt
 \ps vt
 \ng trop
@@ -58850,7 +59178,7 @@
 \cf xtɯt
 \dt 25/Feb/2014
 
-\lx nɤχɤmthi
+\lx _nɤχɤmthi
 \ps vi
 \pdl dir
 \pdv thɯ-
@@ -58869,7 +59197,7 @@
 \xn 令他目瞪口呆
 \sy znɯcaχto
 
-\lx nɤχcɤl
+\lx _nɤχcɤl
 \wav vi-nAXcAl
 \ps vi
 \ng denom
@@ -58891,7 +59219,7 @@
 \cf ɯ-χcɤl
 \dt 04/May/2014
 
-\lx nɤχphe
+\lx _nɤχphe
 \wav vt-nAXphe
 \ps vt
 \ng denom
@@ -58911,9 +59239,9 @@
 \cf taχphe
 \dt 10/Jan/2011
 
-\lx nɤz
+\lx _nɤz
 \wav vi-nAz
-\wav8 8_nAz
+\wav8 nAz
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -58947,7 +59275,7 @@
 \xn 他讲的话令我不敢去了
 \dt 15/Jul/2016
 
-\lx nɤzda
+\lx _nɤzda
 \wav vt-rAzda
 \wav vt-nAzda
 \wav vt-nAzda2
@@ -58977,7 +59305,7 @@
 \cf sɤzda
 \dt 01/Jul/2016
 
-\lx nɤzɲɟoʁ
+\lx _nɤzɲɟoʁ
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -58988,7 +59316,7 @@
 \cf tɤzɲɟoʁ
 \dt 31/Aug/2015
 
-\lx nɤzraʁ
+\lx _nɤzraʁ
 \wav vi-nAzraR
 \ps vi
 \ng denom
@@ -59020,7 +59348,7 @@
 \xn 你不要说这些话，让他不好意思（吃）
 \dt 04/Jul/2016
 
-\lx nɤzri
+\lx _nɤzri
 \wav vt-nAzri
 \ps vt
 \ng trop
@@ -59033,10 +59361,10 @@
 \cf zri
 \dt 25/Feb/2014
 
-\lx nɤʑɤmŋɤn
+\lx _nɤʑɤmŋɤn
 \a nɯʑɤmŋɤn
 \wav vt-nWZAmNAn
-\wav8 8_YWnAZAmNAn
+\wav8 YWnAZAmNAn
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -59060,7 +59388,7 @@
 \gn 互相妒忌 
 \dt 10/Dec/2014
 
-\lx nɤʑri
+\lx _nɤʑri
 \wav vi-nAZri
 \ps vi
 \ng denom
@@ -59073,11 +59401,11 @@
 \cf tɤʑri
 \dt 16/Jul/2016
 
-\lx nɤʑru
+\lx _nɤʑru
 \cf ʑru
 \dt 15/Jul/2016
 
-\lx nɤʑɯloʁ
+\lx _nɤʑɯloʁ
 \wav vt-nAZiloR
 \ps vi
 \ng incorp
@@ -59097,7 +59425,7 @@
 \cf tɯ-ʑi,loʁ
 \dt 22/Feb/2014
 
-\lx nɤʑɯn
+\lx _nɤʑɯn
 \wav vi-nAZin
 \ps vs
 \ge en pente
@@ -59108,12 +59436,12 @@
 \cf ɣɤʑɯn
 \dt 07/Aug/2012
 
-\lx nɤʑɯʑu
+\lx _nɤʑɯʑu
 \cf aʑɯʑu
 \dt 19/Sep/2011
 
-\lx nbraʁ
-\wav8 8_nbraR
+\lx _nbraʁ
+\wav8 nbraR
 \ps vt
 \pdl dir 
 \pdv lɤ-
@@ -59126,8 +59454,8 @@
 \xn 收割之后不久，就是松土的时候
 \dt 07/Sep/2013
 
-\lx ndɤɣ
-\wav8 8_YAndAG
+\lx _ndɤɣ
+\wav8 YAndAG
 \ps vs
 \ge avoir trempé (assez)
 \gn 泡好
@@ -59154,7 +59482,7 @@
 \xn 衣服脏了就要浸泡
 \dt 21/Aug/2015
 
-\lx ndɤrmbjom
+\lx _ndɤrmbjom
 \ps vs
 \ge aux mouvements rapides
 \gn 勤快，动作伶俐
@@ -59169,7 +59497,7 @@
 \xn 对孩子教导好了的话，就可以令他变得勤快
 \dt 25/Aug/2015
 
-\lx ndo
+\lx _ndo
 \wav vt-ndo
 \ps vt
 \sn 1
@@ -59199,7 +59527,7 @@
 \xv rɟɤlpu to-ndo
 \xn 他当上国王
 \sn 4
-\wav8 8_WpW_tondo
+\wav8 WpW_tondo
 \pdl dir 
 \pdv tɤ-
 \ge tomber enceinte (animal femelle)
@@ -59218,8 +59546,6 @@
 \pdv kɤ-
 \ge garder (chemin)
 \gn 守（路）
-\xv tʂu kɤ-ndo-t-a
-\xn 我守了路
 \xv aʑo kɯre tʂu ku-osɯ-ndo-a
 \xn 我正在守路
 \sn 7
@@ -59265,6 +59591,10 @@
 \xn 我用钉子固定了
 \xv tɤ-ri kɯ (tɯ-xtsa, tɯ-ŋga) kɤ-sɯ-ndo-t-a
 \xn 我用线固定了
+\se nɯɣɯndo
+\ps vi
+\ge facile à prendre, facile à attraper
+\gn 容易抓住
 \se andɯndo
 \ps vi
 \pdl dir 
@@ -59297,7 +59627,7 @@
 \xn 他是不能控制自己的人
 \dt 15/Jul/2016
 
-\lx ndom
+\lx _ndom
 \wav vi-ndom2
 \ps vi.nh
 \pdl dir 
@@ -59313,7 +59643,7 @@
 \cf xthom
 \dt 16/Jul/2016
 
-\lx ndoʁ
+\lx _ndoʁ
 \wav vi-ndoR
 \ps vs
 \pdl dir 
@@ -59328,9 +59658,9 @@
 \xn 杨柳枝晒干了就不脆，不容易折
 \dt 16/Jul/2016
 
-\lx ndɯ
+\lx _ndɯ
 \hm 1
-\wav8 8_ndW_kaitong
+\wav8 ndW_kaitong
 \ps vi
 \pdl dir 
 \pdv _
@@ -59358,9 +59688,9 @@
 \cf thɯ1
 \dt 04/Feb/2014
 
-\lx ndɯ
+\lx _ndɯ
 \hm 2
-\wav8 8_ndW_jilei
+\wav8 ndW_jilei
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -59379,7 +59709,7 @@
 \cf ajtɯ
 \dt 25/Dec/2012
 
-\lx ndɯβ
+\lx _ndɯβ
 \wav vi-ndWB
 \ps vs
 \pdl dir 
@@ -59393,9 +59723,9 @@
 \cf ɣɤndɯβ
 \dt 15/Oct/2011
 
-\lx ndɯl
+\lx _ndɯl
 \hm 1
-\wav8 8_ndWl
+\wav8 ndWl
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -59419,7 +59749,7 @@
 \sy nɯɣɯftɯl
 \dt 30/Aug/2012
 
-\lx ndɯl
+\lx _ndɯl
 \hm 2
 \ps vt
 \pdl dir 
@@ -59432,10 +59762,10 @@
 \xn 我把鼻烟磨细了
 \dt 25/Nov/2012
 
-\lx ndɯn
+\lx _ndɯn
 \wav vi-rAndWn
-\wav8 8_pWndWn
-\wav8 8_pWndWn2
+\wav8 pWndWn
+\wav8 pWndWn2
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -59460,7 +59790,7 @@
 \xn 和尚们在诵经
 \dt 02/Jun/2013
 
-\lx ndza
+\lx _ndza
 \wav vt-ndza
 \ps vt
 \pdl dir 
@@ -59479,7 +59809,7 @@
 \xv βʑɯ kɯ tɯ-ŋga to-ndza
 \xn 老鼠把衣服咬破了
 \se sɯndza
-\wav8 8_sWndza
+\wav8 sWndza
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -59491,7 +59821,7 @@
 \sn 2
 \ge faire manger
 \gn 使……吃
-\wav8 8_mWjswndzea
+\wav8 mWjswndzea
 \sn 3
 \ng habil
 \ge pouvoir manger
@@ -59513,8 +59843,8 @@
 \cf sɯndza
 \dt 07/May/2014
 
-\lx ndzar
-\wav8 8_ndzar
+\lx _ndzar
+\wav8 ndzar
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -59543,7 +59873,7 @@
 \xn 淘了米就要把它滤干
 \dt 26/Aug/2012
 
-\lx ndzɤβ
+\lx _ndzɤβ
 \wav vi-ndzaB-b
 \ps vs
 \pdl dir 
@@ -59565,7 +59895,7 @@
 \an ŋgri
 \dt 16/Jul/2016
 
-\lx ndzɤt
+\lx _ndzɤt
 \ps vi
 \pdl dir 
 \pdv thɯ-
@@ -59580,7 +59910,7 @@
 \xn 孩子长大了
 \dt 13/Jan/2015
 
-\lx ndzɤtshi
+\lx _ndzɤtshi
 \hm 2
 \ps vt
 \pdl dir 
@@ -59592,7 +59922,7 @@
 \xn 他把饭吃了
 \dt 24/Aug/2012
 
-\lx ndzi
+\lx _ndzi
 \ps vs
 \ge enroué
 \gn 嗓子哑了
@@ -59604,8 +59934,8 @@
 \ge rendre enroué 
 \gn 令……嗓子哑
 
-\lx ndziaʁ
-\wav8 8_chAndziaR
+\lx _ndziaʁ
+\wav8 chAndziaR
 \ps vs
 \sn 1
 \pdl dir 
@@ -59625,7 +59955,7 @@
 \xv tɯ-xpa ɲɤ-ndziaʁ
 \xn 满了一周年
 \se ɣɤndziaʁ
-\wav8 8_thWGAndziaR
+\wav8 thWGAndziaR
 \ps vt
 \pdl dir 
 \pdv thɯ-
@@ -59633,9 +59963,9 @@
 \xn 你把结打得紧些，不要让它散开
 \dt 27/Aug/2015
 
-\lx ndzom
+\lx _ndzom
 \hm 2
-\wav8 8_kondzom
+\wav8 kondzom
 \ps vi
 \ng denom
 \pdl dir 
@@ -59649,7 +59979,7 @@
 \cf ndzom1
 \dt 15/Jan/2015
 
-\lx ndzoʁ
+\lx _ndzoʁ
 \ps vi
 \pdl dir 
 \pdv kɤ-
@@ -59670,8 +60000,8 @@
 \cf tshoʁ
 \dt 15/Jul/2016
 
-\lx ndzri
-\wav8 8_ndzri
+\lx _ndzri
+\wav8 ndzri
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -59698,10 +60028,10 @@
 \gn 揪着（绳子）
 \dt 22/Nov/2012
 
-\lx ndzu
+\lx _ndzu
 \wav vi-ndzu
-\wav8 8_ndzu
-\wav8 8_CWmbGom
+\wav8 ndzu
+\wav8 CWmbGom
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -59722,7 +60052,7 @@
 \gn 让……启程
 \dt 13/Oct/2016
 
-\lx ndzur
+\lx _ndzur
 \wav vi-ndzur
 \ps vi
 \pdl dir 
@@ -59737,8 +60067,8 @@
 \cf sɯɣndzur
 \dt 02/Sep/2013
 
-\lx ndzɯ
-\wav8 8_ndzW
+\lx _ndzɯ
+\wav8 ndzW
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -59766,7 +60096,7 @@
 \xn 自己要会宽慰自己
 \dt 13/Jul/2016
 
-\lx ndzɯɣ
+\lx _ndzɯɣ
 \ps vs
 \ge soigneux
 \gn 谨慎，做事很有条理
@@ -59780,7 +60110,7 @@
 \un 沙尔宗和大藏方言词，干木鸟话说|fv{kɤti}
 \dt 09/Sep/2015
 
-\lx ndzɯmbra
+\lx _ndzɯmbra
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -59791,7 +60121,7 @@
 \cf ndzɯ
 \dt 12/Mar/2014
 
-\lx ndzɯr
+\lx _ndzɯr
 \ps vs
 \ge être au complet
 \gn 齐全
@@ -59806,7 +60136,7 @@
 \sy sɯxtshoz
 \dt 18/Aug/2015
 
-\lx ndʐaβ
+\lx _ndʐaβ
 \wav vi-ndzxaB
 \ps vi
 \pdl dir 
@@ -59840,8 +60170,8 @@
 \cf sɤndʐaβ
 \dt 03/Aug/2013
 
-\lx ndʐi
-\wav8 8_ndzxi
+\lx _ndʐi
+\wav8 ndzxi
 \ps vs
 \ng acaus
 \pdl dir 
@@ -59862,7 +60192,7 @@
 \cf ftʂi
 \dt 13/Apr/2014
 
-\lx ndʐoʁ
+\lx _ndʐoʁ
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -59881,7 +60211,7 @@
 \xn 狗令山羊受惊了
 \dt 24/Aug/2012
 
-\lx ndʐɯm
+\lx _ndʐɯm
 \wav vi-ndzxWm
 \ps vs
 \pdl dir 
@@ -59915,7 +60245,7 @@
 \xn 我想讲藏语讲的流利一点
 \dt 01/May/2014
 
-\lx ndʐɯz
+\lx _ndʐɯz
 \ps vs
 \sn 1
 \ge bien s'entendre
@@ -59927,9 +60257,10 @@
 \gn 跟着节奏跳（舞）
 \xv ɯʑo kɤ-sɤmtshi ɲɯ-mkhɤz tɕe tɯrɟaʁ ɲɯ-ndʐɯz
 \xn 他很会领舞，所以舞跳得很整齐
+\et ⁿdris
 \dt 20/Jul/2016
 
-\lx ndʑaʁ
+\lx _ndʑaʁ
 \ps vi
 \pdl dir 
 \pdv _
@@ -59944,9 +60275,9 @@
 \hbf 1763
 \dt 24/Aug/2012
 
-\lx ndʑɤβ
+\lx _ndʑɤβ
 \wav vi-ndZAB
-\wav8 8_ndZAB
+\wav8 ndZAB
 \ps vi
 \ng acaus
 \pdl dir 
@@ -59957,7 +60288,7 @@
 \gn 燃烧 
 \xv ɕoʁɕoʁ to-ndʑɤβ
 \xn 纸燃起来了
-\xv xɕaj a-tɤ-ndʑɤβ tɕe pe ma ɯ-fsɤqhe tɕe tɕe nɯ ɯ-stu nɯ kɯ-tshu tu-ɬoʁ ŋu, tɕe fsapaʁ ra rga-nɯ
+\xv xɕaj a-tɤ-ndʑɤβ tɕe pe ma ɯ-fsaqhe tɕe tɕe nɯ ɯ-stu nɯ kɯ-tshu tu-ɬoʁ ŋu, tɕe fsapaʁ ra rga-nɯ
 \xn 草烧了是一件好事，因为第二年那个地方就会长出茂盛的草，牲畜们喜欢
 \xv tɯ-ŋga pjɤ-ndʑɤβ
 \xn 衣服烧了
@@ -59967,7 +60298,7 @@
 \cf ɣndʑɤβ
 \dt 01/Oct/2013
 
-\lx ndʑɤm
+\lx _ndʑɤm
 \ps vs
 \pdl dir
 \pdv thɯ-
@@ -59984,7 +60315,7 @@
 \cf ɣɤndʑɤm
 \dt 02/Jul/2016
 
-\lx ndʑɣaʁ
+\lx _ndʑɣaʁ
 \wav vi-ndZGaR
 \ps vi
 \ng acaus
@@ -60003,7 +60334,7 @@
 \cf tɕɣaʁ
 \dt 15/Oct/2014
 
-\lx ndʑɯ
+\lx _ndʑɯ
 \wav vt-ndZW
 \ps vt
 \pdl dir 
@@ -60021,7 +60352,7 @@
 \gn 告状
 \dt 29/Mar/2011
 
-\lx ndʑɯɣ
+\lx _ndʑɯɣ
 \wav vi-ndZWG
 \ps vi
 \pdl dir 
@@ -60033,7 +60364,7 @@
 \xn 世界灭亡了；时代变了
 \dt 24/Oct/2011
 
-\lx ndʑɯrpɯt
+\lx _ndʑɯrpɯt
 \wav vi-ndZirpWt
 \ps vs
 \pdl dir 
@@ -60048,7 +60379,7 @@
 \cf ɣɤzoŋzoŋ
 \dt 15/Jan/2015
 
-\lx ngɤjtshi
+\lx _ngɤjtshi
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -60062,7 +60393,7 @@
 \cf mbijtshi
 \dt 24/Aug/2012
 
-\lx nge
+\lx _nge
 \ps vs
 \ge très solide
 \gn 非常结实
@@ -60071,7 +60402,7 @@
 \cf ngɯnge
 \dt 28/Aug/2015
 
-\lx ngo
+\lx _ngo
 \wav vi-ngo
 \ps vi
 \pdl dir 
@@ -60088,7 +60419,7 @@
 \cf tɯ-ŋgo
 \dt 28/Apr/2014
 
-\lx ngrɯβ
+\lx _ngrɯβ
 \pdl dir 
 \pdv pɯ-
 \ge accomplir 
@@ -60103,13 +60434,13 @@
 \gn 使……成功
 \dt 22/Aug/2015
 
-\lx ngu
+\lx _ngu
 \wav vt-ngu
 \ps vt
 \sn 1
 \pdl dir 
 \pdv pɯ-
-\ge donner à manger (aux animaux) 
+\ge nourrir, donner à manger (aux animaux) 
 \gn 喂（动物） 
 \hbf 1750 
 \xv paʁ pɯ-ngu-t-a
@@ -60129,7 +60460,7 @@
 \sy ɕpɯt
 \dt 15/Dec/2010
 
-\lx ngɯnge
+\lx _ngɯnge
 \ps vs
 \ge résistant
 \gn 结实
@@ -60137,7 +60468,7 @@
 \cf nge
 \dt 17/May/2014
 
-\lx ngɯt
+\lx _ngɯt
 \wav vi-ngWt
 \wav vi-ngWt2
 \ps vs
@@ -60168,8 +60499,8 @@
 \xn 我把衣服多缝了几道，使它更结实了
 \dt 30/Aug/2015
 
-\lx nmu
-\wav8 8_waJW_YAnmu
+\lx _nmu
+\wav8 waJW_YAnmu
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -60178,9 +60509,16 @@
 \xv waɟɯ ɲɤ-nmu 
 \xn 发生了地震
 \cf mɯnmu
+\se ɣɤnmu
+\ps vs
+\ng facil
+\ge se produire souvent (tremblement de terre)
+\gn 容易有地震
+\xv iɕqha sɤtɕha nɯ waɟɯ ɲɯ-ɣɤnmu
+\xn 这个地方容易有地震
 \dt 11/Mar/2014
 
-\lx nŋo
+\lx _nŋo
 \wav vi-nNo
 \ps vi
 \pdl dir 
@@ -60195,7 +60533,7 @@
 \cf ɕɯnŋo
 \dt 18/Dec/2010
 
-\lx no
+\lx _no
 \wav vt-no
 \ps vt 
 \sn 1
@@ -60218,7 +60556,7 @@
 \cf nɯno
 \dt 18/Dec/2010
 
-\lx nor
+\lx _nor
 \ps vi
 \pdl dir
 \pdv nɯ-
@@ -60230,7 +60568,7 @@
 \et nor
 \dt 22/Jul/2016
 
-\lx ntaβ
+\lx _ntaβ
 \wav vi-ntaB
 \ps vs
 \pdl dir 
@@ -60244,7 +60582,7 @@
 \xv ɯ-ʑɯβ ko-ntaβ 
 \xn 他睡得很熟
 \se ɕɯntaβ
-\wav8 8_nWCWntaB
+\wav8 nWCWntaB
 \ps vt
 \ng caus
 \pdl dir 
@@ -60255,7 +60593,7 @@
 \xn 你如果吃不完的话，可以放在那里
 \se ʑɣɤɕɯntaβ
 \wav vi-ZGACWntaB
-\wav8 8_ZGACWntaB
+\wav8 ZGACWntaB
 \ps vi
 \ng refl
 \ng caus
@@ -60266,7 +60604,7 @@
 \cf ɣɤntaβ
 \dt 16/Jul/2016
 
-\lx ntɕha
+\lx _ntɕha
 \wav vt-ntCha
 \ps vt 
 \sn 1
@@ -60292,7 +60630,7 @@
 \gn 屠宰
 \dt 19/Aug/2015
 
-\lx ntɕhɤr
+\lx _ntɕhɤr
 \wav vi-ntChAr
 \ps vi
 \pdl dir 
@@ -60314,7 +60652,7 @@
 \xn 我昨天晚上睡不着，在我想象中，多么希望早点天亮
 \dt 22/Aug/2015
 
-\lx ntɕhɣaʁ
+\lx _ntɕhɣaʁ
 \wav vi-ntChGaR
 \ps vi
 \pdl dir 
@@ -60339,7 +60677,7 @@
 \xn 小心一点，不要让水溅起来
 \dt 16/Jul/2016
 
-\lx ntɕhoz
+\lx _ntɕhoz
 \wav vt-ntChoz
 \wav vt-ntchWntchoz
 \ps vt
@@ -60361,7 +60699,7 @@
 \xv kɤ-ntɕhoz tɕhi ɕɯ-ste ɲɯ-ŋu?
 \xn 这有什么用呢？
 \se nɯɣɯntɕhoz
-\wav8 8_nWGWntChoz
+\wav8 nWGWntChoz
 \ps vs
 \ng facil
 \ge facile à utiliser
@@ -60370,7 +60708,7 @@
 \xn 这个锄头很好用
 \dt 03/Sep/2015
 
-\lx ntɕhɯɣ
+\lx _ntɕhɯɣ
 \wav vi-ntChWG
 \ps vi
 \pdl dir 
@@ -60385,7 +60723,7 @@
 \xn 你不亏是你父亲的儿子
 \dt 18/May/2014
 
-\lx nthar
+\lx _nthar
 \ps vt
 \pdl dir
 \pdv nɯ-
@@ -60395,9 +60733,9 @@
 \xn 他擀了面
 \dt 26/Aug/2015
 
-\lx nthɤβ
+\lx _nthɤβ
 \wav vt-nthAB
-\wav8 8_nanthAB
+\wav8 nanthAB
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -60424,7 +60762,7 @@
 \xn 我自己夹到了自己的手
 \dt 11/Feb/2014
 
-\lx nthor
+\lx _nthor
 \wav vi-nthor
 \ps vi
 \pdl dir 
@@ -60436,7 +60774,7 @@
 \xn 马离了群就流浪
 \dt 22/Oct/2013
 
-\lx ntsɣe
+\lx _ntsɣe
 \wav vt-ntsGe
 \ps vt
 \pdl dir 
@@ -60449,7 +60787,7 @@
 \xv ʑɴɢɯloʁ nɯ-ntsɣe-t-a
 \xn 我卖了核桃
 \se ʑɣɤntsɣe
-\wav8 8_YWtWnWntsGe
+\wav8 YWtWnWntsGe
 \ps vi
 \ng refl
 \ge se trahir
@@ -60461,7 +60799,7 @@
 \cf raχtɯtsɣe
 \dt 29/Dec/2014
 
-\lx ntshɤβ
+\lx _ntshɤβ
 \pdl dir
 \pdv tɤ-
 \ps vs
@@ -60502,7 +60840,7 @@
 \gn 慌张
 \dt 14/Jul/2016
 
-\lx ntshɤr
+\lx _ntshɤr
 \wav vi-ntshAr
 \ps vi
 \pdl dir 
@@ -60516,7 +60854,7 @@
 \xn 马嘶叫了
 \dt 11/Feb/2014
 
-\lx ntshi
+\lx _ntshi
 \hm 1
 \wav vt-ntshi
 \ps vt
@@ -60530,14 +60868,14 @@
 \xn 我选了
 \dt 12/Jan/2011
 
-\lx ntshi
+\lx _ntshi
 \hm 2
 \ps vs
 \ge mieux valoir que, devoir 
 \gn 只好 
 \dt 12/May/2013
 
-\lx ntshoʁ
+\lx _ntshoʁ
 \wav vi-ntshoR
 \ps vi
 \pdl dir 
@@ -60549,7 +60887,7 @@
 \et ⁿtsʰog
 \dt 02/Apr/2014
 
-\lx ntʂu
+\lx _ntʂu
 \wav vt-ntsxu
 \ps vl
 \pdl dir 
@@ -60570,7 +60908,7 @@
 \cf tʂu
 \dt 11/Feb/2014
 
-\lx nɯbabɯ
+\lx _nɯbabɯ
 \ps vi
 \pdl dir 
 \pdv _
@@ -60579,11 +60917,11 @@
 \cf babɯ
 \dt 15/Aug/2012
 
-\lx nɯbɤβ
+\lx _nɯbɤβ
 \cf bɤbɤβ
 \dt 31/Oct/2011
 
-\lx nɯβdaʁ
+\lx _nɯβdaʁ
 \wav vt-nWBdaR
 \ps vt
 \ng denom
@@ -60619,7 +60957,7 @@
 \sy nɤpɯpa
 \dt 02/Jul/2016
 
-\lx nɯβdaχpu
+\lx _nɯβdaχpu
 \ps vi
 \pdl dir 
 \pdv lɤ-
@@ -60636,11 +60974,11 @@
 \cf βdaχpu
 \dt 20/Aug/2015
 
-\lx nɯβde
+\lx _nɯβde
 \cf βde
 \dt 13/Jan/2011
 
-\lx nɯβɣɤmu
+\lx _nɯβɣɤmu
 \wav vi-nWBGAmu2
 \ps vi
 \ng denom
@@ -60654,7 +60992,7 @@
 \cf βɣɤmu
 \dt 16/Jul/2016
 
-\lx nɯβɣe
+\lx _nɯβɣe
 \wav n-pWkWnWBGe
 \pdl dir
 \pdv pɯ-
@@ -60668,7 +61006,7 @@
 \xn 小孩子变成了孤儿
 \dt 07/Jul/2016
 
-\lx nɯβɣɯz
+\lx _nɯβɣɯz
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -60679,7 +61017,7 @@
 \cf βɣɯz
 \dt 28/Jan/2013
 
-\lx nɯβlɤmtɕhɤt
+\lx _nɯβlɤmtɕhɤt
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -60690,7 +61028,7 @@
 \cf βlɤmtɕhɤt
 \dt 04/Jul/2016
 
-\lx nɯβlu
+\lx _nɯβlu
 \wav vt-nWBlu
 \ps vt
 \ng denom
@@ -60717,7 +61055,7 @@
 \cf ɯ-βlu
 \dt 24/Aug/2015
 
-\lx nɯβlɯz
+\lx _nɯβlɯz
 \ps vt
 \pdl dir
 \pdv pɯ-
@@ -60728,7 +61066,7 @@
 \cf tɯ-βlɯz
 \dt 18/Aug/2015
 
-\lx nɯβra
+\lx _nɯβra
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -60742,10 +61080,10 @@
 \gn 有……的功能
 \dt 09/Sep/2015
 
-\lx nɯβraʁ
+\lx _nɯβraʁ
 \cf βraʁ
 
-\lx nɯβzaŋsa
+\lx _nɯβzaŋsa
 \wav vt-nWBzaNsa
 \ps vt
 \ng denom
@@ -60763,7 +61101,7 @@
 \cf βzaŋsa
 \dt 05/Sep/2011
 
-\lx nɯβʑit
+\lx _nɯβʑit
 \wav vt-nWBZit
 \ps vt
 \sn 1
@@ -60789,7 +61127,7 @@
 \xn 木料太长，他弄短了一些
 \dt 09/Oct/2011
 
-\lx nɯcaχto
+\lx _nɯcaχto
 \ps vi
 \pdl dir
 \pdv thɯ-
@@ -60808,7 +61146,7 @@
 \xn 令他目瞪口呆
 \sy znɤχɤmthi
 
-\lx nɯcɤɕna
+\lx _nɯcɤɕna
 \wav vi-nWcACna
 \ps vi
 \pdl dir 
@@ -60822,7 +61160,7 @@
 \cf cɤɕna
 \dt 14/Jan/2011
 
-\lx nɯcha
+\lx _nɯcha
 \ps vs
 \pdl dir
 \pdv lɤ-
@@ -60833,8 +61171,10 @@
 \cf cha2
 \dt 06/May/2014
 
-\lx nɯchɤmda
+\lx _nɯchɤmda
 \ps vt
+\pdl dir 
+\pdl thɯ-
 \ng denom
 \ge boire de l'alcool à la paille
 \gn 喝干干酒
@@ -60843,8 +61183,8 @@
 \cf chɤmda
 \dt 15/Jan/2015
 
-\lx nɯchɤrga
-\wav8 8_kWnWchArga
+\lx _nɯchɤrga
+\wav8 kWnWchArga
 \ps vs
 \ng incorp
 \ge aimer boire de l'alcool
@@ -60855,7 +61195,7 @@
 \cf rga2
 \dt 13/Oct/2016
 
-\lx nɯchɯβ
+\lx _nɯchɯβ
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -60867,7 +61207,7 @@
 \sy nɯlŋɤβ
 \dt 29/Aug/2015
 
-\lx nɯchɯra
+\lx _nɯchɯra
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -60878,7 +61218,7 @@
 \sy nɯsuwa
 \dt 26/Aug/2012
 
-\lx nɯci
+\lx _nɯci
 \wav vi-nWci
 \ps vi
 \ng denom
@@ -60892,9 +61232,9 @@
 \cf tɯ-ci
 \dt 16/Jul/2016
 
-\lx nɯco
+\lx _nɯco
 \wav vt-nWco
-\wav8 8_znde_kunWcAm
+\wav8 znde_kunWcAm
 \ps vt
 \pdl dir 
 \pdv _
@@ -60922,7 +61262,7 @@
 \cf nɯɴqhu
 \dt 14/Oct/2014
 
-\lx nɯcɯnthaʁ
+\lx _nɯcɯnthaʁ
 \wav vt-nWcinthaR
 \ps vt
 \sn 1
@@ -60940,7 +61280,7 @@
 \hbf 1296
 \dt 14/Jan/2011
 
-\lx nɯɕɤɣ
+\lx _nɯɕɤɣ
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -60950,8 +61290,8 @@
 \xn 我砍了柏树枝桠
 \dt 15/Aug/2012
 
-\lx nɯɕɤlɤmbɯmbjom
-\wav8 8_nWCAlAMbWmbjom
+\lx _nɯɕɤlɤmbɯmbjom
+\wav8 nWCAlAMbWmbjom
 \ps vi
 \pdl dir 
 \pdv _
@@ -60962,7 +61302,7 @@
 \sy nɯsaχɕɯβ
 \dt 26/Mar/2014
 
-\lx nɯɕɤmɯɣdɯ
+\lx _nɯɕɤmɯɣdɯ
 \wav vt-nWCAmWGdW
 \ps vt
 \ng denom
@@ -60975,7 +61315,7 @@
 \cf ɕɤmɯɣdɯ
 \dt 10/Aug/2013
 
-\lx nɯɕɤrɤz
+\lx _nɯɕɤrɤz
 \wav vi-nWCArAz
 \ps vi
 \ge tenir de, ressembler (à ses parents)
@@ -60987,8 +61327,8 @@
 \xn 他的身体有点像他父亲的
 \dt 16/Jul/2016
 
-\lx nɯɕe
-\wav8 8_nAmuWCki
+\lx _nɯɕe
+\wav8 nAmuWCki
 \ps vi
 \ng vert
 \pdl dir 
@@ -61002,7 +61342,7 @@
 \cf ɕe
 \dt 14/Jan/2011
 
-\lx nɯɕɣɤthɯt
+\lx _nɯɕɣɤthɯt
 \ps vt
 \pdl dir
 \pdv thɯ-
@@ -61012,8 +61352,8 @@
 \cf mthɯt
 \dt 11/Aug/2016
 
-\lx nɯɕkat
-\wav8 8_nWCkat
+\lx _nɯɕkat
+\wav8 nWCkat
 \ps vi
 \ng denom
 \ge transporter à dos d'animal
@@ -61023,7 +61363,7 @@
 \cf ɣɯɕkat
 \dt 20/Dec/2012
 
-\lx nɯɕkrɤɣ
+\lx _nɯɕkrɤɣ
 \wav vt-nWCkrAG
 \ps vt
 \ng deidph
@@ -61037,8 +61377,8 @@
 \cf nɯʑgrɤɣ
 \dt 09/Nov/2013
 
-\lx nɯɕmɯrga
-\wav8 8_nWCmWrga
+\lx _nɯɕmɯrga
+\wav8 nWCmWrga
 \ps vs
 \ng incorp
 \ge bavard
@@ -61049,7 +61389,7 @@
 \cf rga
 \dt 27/Aug/2015
 
-\lx nɯɕpɯz
+\lx _nɯɕpɯz
 \wav vt-nWCpWz
 \ps vt
 \pdl dir 
@@ -61067,8 +61407,8 @@
 \cf ɯ-ɕpɯz
 \dt 30/Mar/2015
 
-\lx nɯɕqhu
-\wav8 8_tukWnWCqhua 
+\lx _nɯɕqhu
+\wav8 tukWnWCqhua 
 \ps vt
 \sn 1
 \pdl dir 
@@ -61089,7 +61429,7 @@
 \cf ɯ-qhu
 \cf znɯɕqhɯɕqhu
 \se anɯɕqhɯɕqhu
-\wav8 8_maNWCqhWCqhutCi
+\wav8 maNWCqhWCqhutCi
 \ps vi
 \ng recip
 \sn 1
@@ -61104,9 +61444,9 @@
 \xn 我们商量好了，不要违背约定
 \dt 03/Aug/2012
 
-\lx nɯɕtar
-\wav8 8_nWCtar
-\wav8 8_nWCtar2
+\lx _nɯɕtar
+\wav8 nWCtar
+\wav8 nWCtar2
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -61133,7 +61473,7 @@
 \gn 令人受教训
 \dt 20/Mar/2014
 
-\lx nɯɕu
+\lx _nɯɕu
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -61145,8 +61485,8 @@
 \cf ɕu
 \dt 24/Aug/2012
 
-\lx nɯɕɯβɟɤlɯlu
-\wav8 8_nWCWBJAlWlu
+\lx _nɯɕɯβɟɤlɯlu
+\wav8 nWCWBJAlWlu
 \ps vi
 \ge à qui mieux mieux
 \gn 争先恐后
@@ -61156,14 +61496,14 @@
 \xn 那个东西以后还有的买，不必争
 \dt 20/Dec/2011
 
-\lx nɯɕɯlu 
+\lx _nɯɕɯlu 
 \ps vs 
 \ge qui peut être traite pendant longtemps (vache)
 \gn 挤奶期长（的奶牛）
 \xv ki nɯŋa ki kɯ-nɯɕɯlu ci ŋu
 \xn 这个奶牛的挤奶期比较长
 
-\lx nɯɕɯrɲɟo
+\lx _nɯɕɯrɲɟo
 \wav vi-nWCWrYJo
 \ps vi
 \pdl dir 
@@ -61175,7 +61515,7 @@
 \xn 树的叶子变红了
 \dt 14/Jan/2011
 
-\lx nɯɕɯʁjɯ
+\lx _nɯɕɯʁjɯ
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -61186,7 +61526,7 @@
 \sy raʁjɯ
 \dt 26/Aug/2012
 
-\lx nɯdu
+\lx _nɯdu
 \ps vi
 \pdl dir
 \pdv pɯ-
@@ -61197,8 +61537,8 @@
 \cf ɯ-du
 \dt 08/May/2014
 
-\lx nɯfɕi
-\wav8 8_nWfCi
+\lx _nɯfɕi
+\wav8 nWfCi
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -61214,7 +61554,7 @@
 \xn 我已经工作很多了，不想再做了
 \dt 15/May/2013
 
-\lx nɯfkurzʁe
+\lx _nɯfkurzʁe
 \ps vi
 \pdl dir
 \pdv _
@@ -61227,7 +61567,7 @@
 \cf fkurzʁe
 \dt 06/Sep/2015
 
-\lx nɯfse
+\lx _nɯfse
 \hm 1
 \wav vt-nWfse
 \ps vt
@@ -61246,7 +61586,7 @@
 \xn 没有你认识的人，很难受
 \dt 14/Jan/2015
 
-\lx nɯfsosɲɯm
+\lx _nɯfsosɲɯm
 \ps vi
 \ng denom
 \ge demander l'aumône (moines)
@@ -61256,7 +61596,7 @@
 \cf fsosɲɯm
 \dt 06/Sep/2015
 
-\lx nɯftɕaka
+\lx _nɯftɕaka
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -61269,9 +61609,9 @@
 \cf ftɕaka
 \dt 26/May/2013
 
-\lx nɯftsaʁ
+\lx _nɯftsaʁ
 \wav vi-nWftsaR
-\wav8 8_tWftsaR
+\wav8 tWftsaR
 \ps vi
 \ng denom
 \pdl dir 
@@ -61289,7 +61629,7 @@
 \cf tɯftsaʁ
 \dt 25/Oct/2013
 
-\lx nɯgrɤl
+\lx _nɯgrɤl
 \ps vi
 \ng denom
 \pdl dir 
@@ -61301,20 +61641,20 @@
 \cf ɯ-grɤl
 \dt 03/Aug/2012
 
-\lx nɯɣɤja
+\lx _nɯɣɤja
 \wav vt-nWGAja
 \ps vl
 \pdl dir 
 \pdv tɤ-
-\ge résister à 
+\ge tenir tête à
 \gn 反抗；对抗；顶嘴
 \xv nɤ-mu nɤ-wa ma-tɤ-tɯ-nɯɣɤje
 \xn 你不要跟你父母顶嘴
 \sy nɯkhɤja
 \dt 17/Jul/2016
 
-\lx nɯɣɤtɕa
-\wav8 8_pjAkWnWGAtCaa
+\lx _nɯɣɤtɕa
+\wav8 pjAkWnWGAtCaa
 \ps vt
 \pdl dir
 \pdv pɯ-
@@ -61325,9 +61665,9 @@
 \sy nɯɕqhu
 \cf ɣɤtɕa
 
-\lx nɯɣbɯɣ
+\lx _nɯɣbɯɣ
 \wav vt-nWGbWG
-\wav8 8_anWGbWGbWG
+\wav8 anWGbWGbWG
 \ps vt
 \ng appl
 \pdl dir 
@@ -61349,10 +61689,10 @@
 \cf bɯɣ
 \dt 22/Nov/2012
 
-\lx nɯɣi
+\lx _nɯɣi
 \wav vi-nWGi
-\wav8 8_pAjkhumWthWnWGe
-\wav8 8_chWnWGi
+\wav8 pAjkhumWthWnWGe
+\wav8 chWnWGi
 \ps vi
 \ng vert
 \pdl dir 
@@ -61370,7 +61710,7 @@
 \cf ɣi
 \dt 13/Dec/2011
 
-\lx nɯɣɟɯ
+\lx _nɯɣɟɯ
 \wav vi-nWGJW
 \ps vi
 \pdl dir 
@@ -61390,7 +61730,18 @@
 \gn 令……饿死 
 \dt 05/Jul/2016
 
-\lx nɯɣmaz
+\lx _nɯɣlɯɣli
+\wav8 kANWGlWGlia
+\ps vi
+\pdl dir
+\pdv kɤ-
+\ge se frayer un chemin (dans un endroit bondé de personnes)
+\gn （从人群中）挤出来/过去
+\xv kɤ-nɯɣlɯɣli-a ʑo kɤ-nɯɬoʁ-a
+\xn 我（从人群中）挤出来了
+\dt 27/Mar/2017
+
+\lx _nɯɣmaz
 \wav vi-nWGmaz2
 \ps vi
 \ng denom
@@ -61418,7 +61769,7 @@
 \xn 鹿被枪打伤了
 \dt 16/Jul/2016
 
-\lx nɯɣmbɤβ
+\lx _nɯɣmbɤβ
 \wav vi-nWGmbAB
 \wav vi-nWGmbAB2
 \ps vs
@@ -61440,7 +61791,7 @@
 \cf tɯ-ɣmbɤβ
 \dt 28/Mar/2013
 
-\lx nɯɣmu
+\lx _nɯɣmu
 \wav vt-nWGmu
 \ps vt
 \pdl dir 
@@ -61461,8 +61812,8 @@
 \cf sɤɣmu
 \dt 20/May/2013
 
-\lx nɯɣmɯm
-\wav8 8_nWGmWm
+\lx _nɯɣmɯm
+\wav8 nWGmWm
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -61473,11 +61824,11 @@
 \cf mɯm
 \dt 26/Aug/2012
 
-\lx nɯɣɲo
+\lx _nɯɣɲo
 \cf ɲo
 \dt 01/Sep/2015
 
-\lx nɯɣrɤβ
+\lx _nɯɣrɤβ
 \ps vt
 \pdl dir
 \pdv _
@@ -61487,7 +61838,7 @@
 \xn 我把手伸过去，但是够不着
 \dt 08/Sep/2015
 
-\lx nɯɣur
+\lx _nɯɣur
 \wav vi-nWGur
 \ps vi
 \ng denom
@@ -61504,30 +61855,30 @@
 \cf tɯɣur
 \dt 22/May/2014
 
-\lx nɯɣɯβzjoz
+\lx _nɯɣɯβzjoz
 \cf βzjoz
 \dt 06/Sep/2015
 
-\lx nɯɣɯcɯm
+\lx _nɯɣɯcɯm
 \cf cɯm
 \dt 25/Jul/2014
 
-\lx nɯɣɯɕe
+\lx _nɯɣɯɕe
 \ps vs
 \ge praticable
 \gn 方便去，好走
 \cf ɕe
 \dt 06/May/2014
 
-\lx nɯɣɯɕɯftaʁ
+\lx _nɯɣɯɕɯftaʁ
 \cf ɕɯftaʁ
 \dt 19/Jul/2016
 
-\lx nɯɣɯfɕɤt
+\lx _nɯɣɯfɕɤt
 \cf fɕɤt1
 \dt 16/May/2014
 
-\lx nɯɣɯfsu
+\lx _nɯɣɯfsu
 \wav vt-nWGWfsu
 \ps vt
 \ng denom
@@ -61543,7 +61894,7 @@
 \cf ɣɯfsu
 \dt 15/Jan/2011
 
-\lx nɯɣɯftɯl
+\lx _nɯɣɯftɯl
 \wav vi-nWGWftWl
 \ps vi
 \ng facil
@@ -61559,13 +61910,13 @@
 \cf ftɯl1
 \dt 30/Sep/2011
 
-\lx nɯɣɯjmɯt
+\lx _nɯɣɯjmɯt
 \cf jmɯt
 \dt 19/Jul/2016
 
-\lx nɯɣɯjpa
+\lx _nɯɣɯjpa
 \wav vi-nWGWjpa
-\wav8 8_nWGWjpa
+\wav8 nWGWjpa
 \ps vs
 \ng facil
 \pdl dir 
@@ -61578,7 +61929,7 @@
 \xn 你如果照我说的去办，你我都方便
 \dt 16/Jul/2016
 
-\lx nɯɣɯmto
+\lx _nɯɣɯmto
 \wav vi-nWGWmto
 \ps vs
 \pdl dir 
@@ -61590,11 +61941,14 @@
 \cf mto
 \dt 20/Oct/2011
 
-\lx nɯɣɯnɤma
+\lx _nɯɣɯnɤma
 \cf nɤma
 \dt 01/Sep/2015
 
-\lx nɯɣɯndza
+\lx _nɯɣɯndo
+\cf ndo
+
+\lx _nɯɣɯndza
 \wav vi-nWGWndza
 \ps vs
 \ng facil
@@ -61610,7 +61964,7 @@
 \cf ndza
 \dt 20/Oct/2011
 
-\lx nɯɣɯntɕhoz
+\lx _nɯɣɯntɕhoz
 \wav vi-nWGWntChoz
 \ps vs
 \ng facil
@@ -61629,10 +61983,10 @@
 \cf ntɕhoz
 \dt 16/Jul/2016
 
-\lx nɯɣɯŋga
+\lx _nɯɣɯŋga
 \cf ŋga
 
-\lx nɯɣɯŋke
+\lx _nɯɣɯŋke
 \wav vi-nWGWNke
 \ps vs
 \pdl dir 
@@ -61646,19 +62000,19 @@
 \cf ŋke
 \dt 04/Aug/2012
 
-\lx nɯɣɯphɯt
+\lx _nɯɣɯphɯt
 \cf phɯt
 \dt 17/Sep/2012
 
-\lx nɯɣɯqaʁ
+\lx _nɯɣɯqaʁ
 \cf qaʁ1
 \dt 03/Jan/2014
 
-\lx nɯɣɯsɤlɤɣɯ
+\lx _nɯɣɯsɤlɤɣɯ
 \cf sɤlɤɣɯ
 \dt 22/Jul/2016
 
-\lx nɯɣɯt
+\lx _nɯɣɯt
 \wav vt-nWGWt
 \ps vt
 \ng vert
@@ -61673,20 +62027,20 @@
 \cf ɣɯt
 \dt 15/May/2014
 
-\lx nɯɣɯti
+\lx _nɯɣɯti
 \cf ti
 \dt 02/Jul/2016
 
-\lx nɯɣɯtshi
+\lx _nɯɣɯtshi
 \cf tshi1
 \dt 08/Jun/2011
 
-\lx nɯɣɯʑɴɢu
+\lx _nɯɣɯʑɴɢu
 \cf ʑɴɢu
 \dt 17/Jan/2014
 
-\lx nɯɣʑɯr
-\wav8 8_nWGZWr
+\lx _nɯɣʑɯr
+\wav8 nWGZWr
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -61717,13 +62071,13 @@
 \xn 你这样削苹果，令我害怕会出事
 \dt 08/Jul/2016
 
-\lx nɯhɯɲi
+\lx _nɯhɯɲi
 \ps vt
 \ge travailler
 \gn 打工
 \et fn:副业
 
-\lx nɯjaŋsa
+\lx _nɯjaŋsa
 \ps vi
 \ge oisif
 \gn 闲着
@@ -61731,7 +62085,7 @@
 \xn 我去那边闲逛
 \dt 17/Jul/2016
 
-\lx nɯjɤntɤn
+\lx _nɯjɤntɤn
 \ps vt
 \ng denom
 \pdl dir 
@@ -61744,7 +62098,7 @@
 \cf jɤntɤn
 \dt 16/Jul/2016
 
-\lx nɯjɣa
+\lx _nɯjɣa
 \wav vi-nWjGa2
 \ps vi
 \pdl dir 
@@ -61756,9 +62110,9 @@
 \cf ɣa
 \dt 16/Jul/2016
 
-\lx nɯjlɤlɤɣ
+\lx _nɯjlɤlɤɣ
 \wav vi-nWjlAlAG
-\wav8 8_nWjlAlAG
+\wav8 nWjlAlAG
 \ps vi
 \ng incorp
 \pdl dir 
@@ -61776,7 +62130,7 @@
 \cf lɤɣ
 \dt 10/Nov/2011
 
-\lx nɯjlɤmtshi
+\lx _nɯjlɤmtshi
 \wav vi-nWjlAmtshi
 \ps vi
 \ng incorp
@@ -61789,7 +62143,7 @@
 \cf jlɤmtshi
 \dt 09/Sep/2015
 
-\lx nɯjlɤndza
+\lx _nɯjlɤndza
 \hm 1
 \a nɤjlɤndza
 \wav vt-nWjlAndza
@@ -61811,7 +62165,7 @@
 \cf ndza
 \dt 18/May/2014
 
-\lx nɯjlɤndza
+\lx _nɯjlɤndza
 \hm 2
 \wav vi-nWjlAndza2
 \ps vi
@@ -61824,7 +62178,7 @@
 \sy ɣɤxtɕɤβ
 \dt 16/Jul/2016
 
-\lx nɯjmɤzdɤβ
+\lx _nɯjmɤzdɤβ
 \wav vi-nWjmAzdAB
 \ps vi
 \pdl dir 
@@ -61837,7 +62191,7 @@
 \cf zdɤβ
 \dt 18/Aug/2012
 
-\lx nɯjmŋo
+\lx _nɯjmŋo
 \wav vi-nWjmNo
 \ps vi
 \pdl dir 
@@ -61855,7 +62209,7 @@
 \cf ɣɤjmŋo
 \dt 07/Sep/2013
 
-\lx nɯjroʁ
+\lx _nɯjroʁ
 \wav vt-nWjroR2
 \wav vt-nWjroR
 \ps vt
@@ -61870,7 +62224,7 @@
 \cf rɤjroʁ
 \dt 02/Oct/2013
 
-\lx nɯjʁo
+\lx _nɯjʁo
 \wav vi-nWjRo
 \ps vi
 \pdl dir 
@@ -61893,12 +62247,12 @@
 \sy nɤmqe
 \dt 04/Apr/2014
 
-\lx nɯjʁojʁe
+\lx _nɯjʁojʁe
 \cf nɯjʁo
 \dt 04/Apr/2014
 
-\lx nɯjtʂhɤβ
-\wav8 8_pjWnWjtsxhAB
+\lx _nɯjtʂhɤβ
+\wav8 pjWnWjtsxhAB
 \ps vt
 \pdl dir
 \pdv pɯ-
@@ -61914,7 +62268,7 @@
 \xn 猫会在身上乱抓（把衣服和皮肤抓烂）
 \dt 13/Apr/2014
 
-\lx nɯkɤntɕhaʁ
+\lx _nɯkɤntɕhaʁ
 \wav vi-nWkAntChaR
 \ps vi
 \ng denom
@@ -61930,7 +62284,7 @@
 \cf kɤntɕhaʁ
 \dt 31/Mar/2014
 
-\lx nɯkɤrŋi
+\lx _nɯkɤrŋi
 \ps vi
 \pdl dir
 \pdv nɯ-
@@ -61944,9 +62298,9 @@
 \cf arŋi
 \dt 29/Apr/2014
 
-\lx nɯkhamu
+\lx _nɯkhamu
 \wav vi-nWkhamu
-\wav8 8_nWkhamua
+\wav8 nWkhamua
 \ps vi
 \ng denom
 \pdl dir 
@@ -61962,7 +62316,7 @@
 \cf khamu
 \dt 08/Jan/2012
 
-\lx nɯkhaŋrcɤl
+\lx _nɯkhaŋrcɤl
 \ps vi
 \pdl dir
 \pdv thɯ-
@@ -61978,7 +62332,7 @@
 \xn 他以前很傲慢，但是他遇见了比自己厉害的人，挫了他的傲气
 \dt 20/Jul/2016
 
-\lx nɯkhaŋχɯ
+\lx _nɯkhaŋχɯ
 \wav vi-nWkhaNXW
 \ps vi
 \pdl dir 
@@ -61989,7 +62343,7 @@
 \xn 你不要蹲下（没有礼貌）
 \dt 16/Jan/2011
 
-\lx nɯkharwut
+\lx _nɯkharwut
 \wav vi-nWkharwut
 \ps vi
 \ng denom
@@ -62003,7 +62357,7 @@
 \cf kharwut
 \dt 16/Jan/2011
 
-\lx nɯkhɤβdɤr
+\lx _nɯkhɤβdɤr
 \wav vt-nWkhABdAr
 \ps vt
 \ng denom
@@ -62018,7 +62372,7 @@
 \cf khɤβdɤr
 \dt 21/Jul/2016
 
-\lx nɯkhɤβɣa
+\lx _nɯkhɤβɣa
 \ps vi
 \ge ne pas rester en place, aller à droite et à gauche (oiseau)
 \gn 在地面来回转动（鸟）
@@ -62028,7 +62382,7 @@
 \xn 你坐好，不要坐立不安
 \dt 26/Aug/2015
 
-\lx nɯkhɤda
+\lx _nɯkhɤda
 \wav vt-nWkhada 
 \ps vt
 \pdl dir 
@@ -62040,12 +62394,12 @@
 \an ɣɤɕphɤr
 \dt 19/Jul/2016
 
-\lx nɯkhɤja
+\lx _nɯkhɤja
 \wav vt-nWkhaja
 \ps vl
 \pdl dir 
 \pdv tɤ-
-\ge résister 
+\ge tenir tête à; répondre de façon insolente 
 \gn 顶嘴 
 \xv a-mu tɤ-nɯkhɤja-t-a
 \xn 我跟我母亲顶嘴了
@@ -62058,7 +62412,7 @@
 \sy nɯɣɤja
 \dt 07/Feb/2014
 
-\lx nɯkhɤjlɤn
+\lx _nɯkhɤjlɤn
 \wav vt-nWkhAjlAn
 \ps vt
 \pdl dir 
@@ -62074,7 +62428,7 @@
 \cf khɤjlɤn
 \dt 17/Jan/2011
 
-\lx nɯkhɤlɤmdzɯmdzɯ
+\lx _nɯkhɤlɤmdzɯmdzɯ
 \wav vi-nWkhAlAmdzWmdzW
 \ps vi
 \pdl dir 
@@ -62089,8 +62443,8 @@
 \cf amdzɯ
 \dt 12/Aug/2014
 
-\lx nɯkhɤphrɯ
-\wav8 8_def_kAnWkhAphrW
+\lx _nɯkhɤphrɯ
+\wav8 def_kAnWkhAphrW
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -62102,7 +62456,7 @@
 \cf khɤphrɯ
 \dt 22/Oct/2014
 
-\lx nɯkhɤrŋgɯ
+\lx _nɯkhɤrŋgɯ
 \ps vi
 \pdl dir
 \pdv lɤ-
@@ -62113,7 +62467,7 @@
 \cf rŋgɯ
 \dt 08/Jul/2016
 
-\lx nɯkhɤsnɯm
+\lx _nɯkhɤsnɯm
 \ps vt
 \pdl
 \pdv thɯ-
@@ -62122,7 +62476,7 @@
 \cf khɤsnɯm
 \dt 06/May/2014
 
-\lx nɯkho
+\lx _nɯkho
 \wav vi-nWkho
 \ps vi
 \pdl dir 
@@ -62148,7 +62502,7 @@
 \xn 请问能否让我借宿一晚？
 \dt 16/Jan/2011
 
-\lx nɯkhramba
+\lx _nɯkhramba
 \wav vt-nWkhramba
 \ps vt
 \ng denom
@@ -62179,7 +62533,7 @@
 \cf rɯkhramba
 \dt 02/Jun/2013
 
-\lx nɯkhrɯɣ
+\lx _nɯkhrɯɣ
 \wav vt-nWkhrWG
 \ps vt
 \pdl dir 
@@ -62192,7 +62546,7 @@
 \xn 我的衣服被树钩破了
 \dt 17/Jan/2011
 
-\lx nɯkhrɯm
+\lx _nɯkhrɯm
 \wav vi-nWkhrWm
 \ps vi
 \ng denom
@@ -62223,11 +62577,7 @@
 \xn 刽子手
 \dt 18/Aug/2015
 
-\lx nɯkhɯ
-\cf khɯ1
-\dt 29/Aug/2012
-
-\lx nɯkhɯɣ
+\lx _nɯkhɯɣ
 \ps vt
 \pdl div
 \pdv kɤ-
@@ -62238,7 +62588,7 @@
 \sy nɯchɯβ
 \dt 29/Aug/2015
 
-\lx nɯkhɯr
+\lx _nɯkhɯr
 \wav vt-nWkhWr
 \ps vt
 \ng denom
@@ -62252,7 +62602,7 @@
 \xn 我以前当大队长
 \dt 17/Jan/2011
 
-\lx nɯkhɯrthaŋ
+\lx _nɯkhɯrthaŋ
 \wav vi-nWkhWrthaN
 \ps vi
 \ng denom
@@ -62264,7 +62614,7 @@
 \xn 我当了三年官
 \dt 17/Jan/2011
 
-\lx nɯkhɯrwum
+\lx _nɯkhɯrwum
 \wav vi-nWkhWrwum
 \wav vi-nWkhWrwum2
 \ps vi
@@ -62280,7 +62630,7 @@
 \cf khɯrwum
 \dt 30/Dec/2011
 
-\lx nɯkon
+\lx _nɯkon
 \wav vt-nWkon
 \ps vt
 \ng denom
@@ -62307,7 +62657,7 @@
 \xn 这个小孩子很调皮，没有管得住他
 \dt 15/Jul/2016
 
-\lx nɯkoŋ
+\lx _nɯkoŋ
 \wav vi-nWkoN
 \ps vs
 \ng denom
@@ -62322,7 +62672,7 @@
 \xn 东西很便宜，不便宜
 \dt 20/Oct/2011
 
-\lx nɯkowa
+\lx _nɯkowa
 \wav vt-nWkowa
 \ps vt
 \ng denom
@@ -62348,7 +62698,7 @@
 \cf kowa
 \dt 16/Jan/2014
 
-\lx nɯkrɤlma
+\lx _nɯkrɤlma
 \wav vi-nWkrAlma
 \ps vi
 \pdl dir 
@@ -62359,7 +62709,7 @@
 \xn 小孩子在拉肚子
 \dt 07/Sep/2013
 
-\lx nɯkrɤz
+\lx _nɯkrɤz
 \wav vt-nWkrAz
 \wav vt-nWkrAz2
 \ps vt
@@ -62381,11 +62731,11 @@
 \cf rɤkrɤz
 \dt 12/Feb/2014
 
-\lx nɯkro
+\lx _nɯkro
 \cf kro
 \dt 17/Jan/2011
 
-\lx nɯkrɯβ
+\lx _nɯkrɯβ
 \wav vi-nWkrWB
 \ps vi
 \pdl dir 
@@ -62404,7 +62754,7 @@
 \xn 食物把我吃生病
 \dt 18/May/2014
 
-\lx nɯkumbrɤl
+\lx _nɯkumbrɤl
 \wav vi-nWkumbrAl
 \ps vi
 \pdl dir 
@@ -62416,7 +62766,7 @@
 \cf kumbrɤl
 \dt 09/Oct/2011
 
-\lx nɯkɯɕnom
+\lx _nɯkɯɕnom
 \wav vi-nWkWCnom
 \ps vi
 \ng denom
@@ -62429,7 +62779,7 @@
 \cf kɯɕnom
 \dt 12/Feb/2014
 
-\lx nɯkɯjŋu
+\lx _nɯkɯjŋu
 \wav vi-nWkWjNu
 \ps vt
 \pdl dir 
@@ -62447,7 +62797,7 @@
 \cf anɯkɯjŋɤŋgɯ
 \dt 16/Jul/2016
 
-\lx nɯkɯlu
+\lx _nɯkɯlu
 \wav vi-nWkWlu
 \ps vi
 \pdl dir 
@@ -62469,10 +62819,10 @@
 \xn 他令我迷路了
 \dt 12/Feb/2014
 
-\lx nɯkɯmaʁ
+\lx _nɯkɯmaʁ
 \wav vi-nWkWmaR
-\wav8 8_nWkWmaR
-\wav8 8_kAsthoR_YAnWkWmaRa
+\wav8 nWkWmaR
+\wav8 kAsthoR_YAnWkWmaRa
 \ps vi
 \ng denom
 \pdl dir 
@@ -62492,7 +62842,7 @@
 \sy nor
 \dt 22/Jul/2016
 
-\lx nɯkɯmpɕɤr
+\lx _nɯkɯmpɕɤr
 \wav vt-nWkWmpCAr
 \ps vt
 \pdl dir
@@ -62505,7 +62855,7 @@
 \cf mpɕɤr
 \dt 13/Jul/2016
 
-\lx nɯkɯmtɕhɯ
+\lx _nɯkɯmtɕhɯ
 \ps vt
 \pdl dir
 \pdv nɯ-
@@ -62516,7 +62866,7 @@
 \cf kɯmtɕhɯ
 \dt 11/May/2014
 
-\lx nɯlaʁjoʁ
+\lx _nɯlaʁjoʁ
 \ps vi
 \ng incorp
 \ge servir d'assistant
@@ -62524,7 +62874,7 @@
 \cf laʁjoʁ
 \dt 03/Oct/2016
 
-\lx nɯlɤmba
+\lx _nɯlɤmba
 \wav vt-nWlAmba
 \ps vt
 \pdl dir 
@@ -62536,12 +62886,12 @@
 \sy ɣɤrndi
 \dt 12/Feb/2014
 
-\lx nɯlɤn
+\lx _nɯlɤn
 \cf lɤn
 \dt 01/May/2012
 
-\lx nɯlɤsɤr
-\wav8 8_nWlAsAr
+\lx _nɯlɤsɤr
+\wav8 nWlAsAr
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -62555,7 +62905,12 @@
 \cf lɤsɤr
 \dt 12/Feb/2014
 
-\lx nɯlŋɤβ
+\lx _nɯlɤʑɯn
+\ps vt
+\ge faire un procès d'intention, interpréter de travers, déformer les faits
+\gn 冤枉；歪曲事实
+
+\lx _nɯlŋɤβ
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -62566,7 +62921,7 @@
 \sy nɯchɯβ
 \dt 29/Aug/2015
 
-\lx nɯlɯka
+\lx _nɯlɯka
 \wav vi-nWlWka
 \ps vs
 \pdl dir
@@ -62577,7 +62932,7 @@
 \xn 以前要同时做好几种事情，现在只需要做一种事，不再需要管那么多，很轻松
 \dt 09/Sep/2015
 
-\lx nɯɬoʁ
+\lx _nɯɬoʁ
 \wav vi-nWLoR
 \wav vi-nWLoR2
 \ps vi
@@ -62598,7 +62953,7 @@
 \cf ɬoʁ2
 \dt 12/Feb/2014
 
-\lx nɯmbe
+\lx _nɯmbe
 \wav vt-nWmbe
 \ps vt
 \pdl dir 
@@ -62613,9 +62968,9 @@
 \sy rɤli
 \dt 12/Feb/2014
 
-\lx nɯmbɣom
+\lx _nɯmbɣom
 \wav vt-nWmbGom
-\wav8 8_nWmbGom
+\wav8 nWmbGom
 \ps vt
 \ng appl
 \pdl dir 
@@ -62640,7 +62995,7 @@
 \gn 互相思念
 \dt 18/Jul/2016
 
-\lx nɯmbjɯm
+\lx _nɯmbjɯm
 \wav vi-nWmbjWm
 \ps vi
 \pdl dir 
@@ -62655,7 +63010,7 @@
 \sy nɯsmɯɣjɯm
 \dt 12/Feb/2014
 
-\lx nɯmbrɤpɯ
+\lx _nɯmbrɤpɯ
 \wav vt-nWmbrApW
 \ps v
 \ng incorp
@@ -62679,7 +63034,7 @@
 \cf mbro2
 \dt 02/Sep/2015
 
-\lx nɯmbrɤrɟɯɣ
+\lx _nɯmbrɤrɟɯɣ
 \wav vi-nWmbrArJWG
 \ps vi
 \ng incorp
@@ -62692,7 +63047,7 @@
 \cf mbrɤrɟɯɣ
 \dt 12/Feb/2014
 
-\lx nɯmbrɤzɯ
+\lx _nɯmbrɤzɯ
 \wav vi-nWmbrAzW2
 \ps vt
 \ng denom
@@ -62707,7 +63062,7 @@
 \cf ɯ-mbrɤzɯ
 \dt 18/Jan/2011
 
-\lx nɯmbrɯmtsaʁ
+\lx _nɯmbrɯmtsaʁ
 \ps vi
 \pdl dir
 \ng incorp
@@ -62718,7 +63073,7 @@
 \cf mtsaʁ
 \dt 15/Jul/2016
 
-\lx nɯmbɯrlɤn
+\lx _nɯmbɯrlɤn
 \wav vt-nWmbWrlAn
 \ps vt
 \ng denom
@@ -62735,7 +63090,7 @@
 \cf mbɯrlɤn
 \dt 01/Jan/2014
 
-\lx nɯmbɯsɯt
+\lx _nɯmbɯsɯt
 \ps vt
 \pdl dir 
 \pdv thɯ-
@@ -62745,9 +63100,9 @@
 \cf mbɯsɯt
 \dt 22/Aug/2012
 
-\lx nɯmdar
+\lx _nɯmdar
 \wav vi-nWmdar
-\wav8 8_nWmdar
+\wav8 nWmdar
 \ps vi
 \pdl dir 
 \pdv _
@@ -62765,7 +63120,7 @@
 \gn 跳来跳去
 \dt 25/Mar/2014
 
-\lx nɯmdaʁʑɯɣ
+\lx _nɯmdaʁʑɯɣ
 \wav vt-nWmdaRZWG
 \ps vt
 \ng denom
@@ -62778,21 +63133,21 @@
 \cf mdaʁʑɯɣ
 \dt 18/Jan/2011
 
-\lx nɯmdoʁ
+\lx _nɯmdoʁ
 \ps vi
 \ng denom
 \pdl dir 
 \pdv tɤ-
 \ge avoir l'air de 
-\gn 好像
+\gn 好像；看起来
 \xv jisŋi tɯ-mɯ kɯ-lɤt ɲɯ-nɯmdoʁ 
 \xn 今天好像要下雨
 \xv ɲɯ-tɯ-nɯmdoʁ
 \xn 你又强壮又高大
 \cf ɯ-mdoʁ
 \se znɯmdoʁ
-\wav8 8_kWznWmdoR
-\wav8 8_tuznWmdoR
+\wav8 kWznWmdoR
+\wav8 tuznWmdoR
 \ps vt
 \ge bien faire (un certain type de travail)
 \gn 【好样】（那一方面的工作）做得好
@@ -62802,7 +63157,7 @@
 \xn 他做的每一样工作都做得非常好
 \dt 13/Oct/2016
 
-\lx nɯmdɯm
+\lx _nɯmdɯm
 \wav vt-nWmdWm
 \ps vt
 \pdl dir 
@@ -62816,7 +63171,7 @@
 \cf nɯndzɤmdɯm
 \dt 29/Jun/2014
 
-\lx nɯmga
+\lx _nɯmga
 \wav vt-nWmga
 \ps vt
 \pdl dir 
@@ -62838,7 +63193,7 @@
 \xn 母犏牛是为了牛奶（而养的）
 \dt 18/Jan/2011
 
-\lx nɯmgo
+\lx _nɯmgo
 \ps vi
 \ng denom
 \pdl dir 
@@ -62849,7 +63204,7 @@
 \cf tɯ-mgo
 \dt 10/Mar/2013
 
-\lx nɯmgro
+\lx _nɯmgro
 \wav vt-nWmgro
 \ps vt
 \pdl dir 
@@ -62875,7 +63230,7 @@
 \gn 互相盼望
 \dt 22/Aug/2015
 
-\lx nɯmɢla
+\lx _nɯmɢla
 \wav vt-nWmGla
 \ps vt
 \pdl dir 
@@ -62891,7 +63246,7 @@
 \cf tɯ-mɢla
 \dt 23/Jul/2013
 
-\lx nɯmɟa
+\lx _nɯmɟa
 \wav vt-nWmJa
 \ps vt
 \pdl dir 
@@ -62908,7 +63263,7 @@
 \cf mɟa
 \dt 09/Dec/2013
 
-\lx nɯmkɤɣɯr
+\lx _nɯmkɤɣɯr
 \wav vt-nWmkAGWr
 \ps vt
 \ng denom
@@ -62923,7 +63278,7 @@
 \cf mkɤɣɯr
 \dt 02/Sep/2014
 
-\lx nɯmkɤqloʁ
+\lx _nɯmkɤqloʁ
 \ps vi
 \pdl dir 
 \pdv thɯ-
@@ -62945,8 +63300,8 @@
 \xn 你别这样，不然你会把他绊拽住
 \dt 05/Aug/2012
 
-\lx nɯmnɤl
-\wav8 8_nWmnAl
+\lx _nɯmnɤl
+\wav8 nWmnAl
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -62967,7 +63322,7 @@
 \xn 这件令我受了晦气
 \dt 04/Aug/2012
 
-\lx nɯmɲaqrɯ
+\lx _nɯmɲaqrɯ
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -62978,7 +63333,7 @@
 \cf mɲaqrɯ
 \dt 27/Aug/2014
 
-\lx nɯmɲɯɣ
+\lx _nɯmɲɯɣ
 \wav vi-nWmYWG
 \ps vi
 \ng denom
@@ -62991,7 +63346,7 @@
 \cf tɯ-mɲɯɣ
 \dt 01/Feb/2013
 
-\lx nɯmɲɯka
+\lx _nɯmɲɯka
 \wav vi-nWmYika
 \ps vi
 \ng denom
@@ -63004,7 +63359,7 @@
 \cf mɲɯka
 \dt 19/Jan/2011
 
-\lx nɯmɲɯʁʑi
+\lx _nɯmɲɯʁʑi
 \ps vs
 \ge avoir bon caractère
 \gn 脾气好
@@ -63012,7 +63367,7 @@
 \cf mɲɯʁʑi
 \dt 22/Aug/2015
 
-\lx nɯmɲɯtɕhɤz
+\lx _nɯmɲɯtɕhɤz
 \ps vs
 \pdl dir
 \pdv tɤ-
@@ -63022,7 +63377,7 @@
 \cf mɲɯtɕhɤz
 \dt 22/Aug/2015
 
-\lx nɯmŋa
+\lx _nɯmŋa
 \wav vi-nWmNa
 \ps vi
 \pdl dir 
@@ -63034,7 +63389,7 @@
 \xn 他的衣服醒目耀眼
 \dt 19/Jan/2011
 
-\lx nɯmŋu
+\lx _nɯmŋu
 \ps vt
 \pdl dir
 \pdv kɤ-
@@ -63045,7 +63400,7 @@
 \cf ɯ-mŋu
 \dt 16/Jul/2016
 
-\lx nɯmpa
+\lx _nɯmpa
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -63066,7 +63421,7 @@
 \ge s'occuper des gens
 \gn 照顾别人
 
-\lx nɯmtɕhu
+\lx _nɯmtɕhu
 \wav vt-nWmpCu
 \ps vt
 \pdl dir 
@@ -63085,14 +63440,14 @@
 \xn 那个人说别人的坏话
 \dt 21/Jul/2014
 
-\lx nɯmtɕhɯtsaʁ
+\lx _nɯmtɕhɯtsaʁ
 \ps vi
 \ge avoir des ulcères sur la bouche
 \gn 嘴上生疮
 \cf mtɕhɯtsaʁ
 \dt 21/Jan/2013
 
-\lx nɯmtɕi
+\lx _nɯmtɕi
 \wav vi-nWmtCi
 \wav vi-nWmtCi2
 \ps vi
@@ -63113,7 +63468,7 @@
 \cf tɯmtɕi
 \dt 18/Jul/2016
 
-\lx nɯmthɯ
+\lx _nɯmthɯ
 \hm 1
 \ps vt
 \pdl dir 
@@ -63131,7 +63486,7 @@
 \gn 赚别人的钱
 \dt 22/Aug/2015
 
-\lx nɯmthɯ
+\lx _nɯmthɯ
 \hm 2
 \wav vt-nWmthW
 \ps vt
@@ -63145,9 +63500,9 @@
 \cf mthɯ
 \dt 20/Feb/2011
 
-\lx nɯmto
+\lx _nɯmto
 \wav vt-nWmto
-\wav8 8_nWmto
+\wav8 nWmto
 \ps vt 
 \sn 1
 \pdl dir 
@@ -63173,16 +63528,16 @@
 \cf mto
 \dt 15/Jan/2015
 
-\lx nɯmtshalu
+\lx _nɯmtshalu
 \ps vi
 \ng denom
 \ge ramasser des orties
 \gn 找荨麻
 \cf mtshalu
 
-\lx nɯna
+\lx _nɯna
 \wav vi-nWna
-\wav8 8_nWna
+\wav8 nWna
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -63200,9 +63555,9 @@
 \cf znɯna
 \dt 01/Sep/2015
 
-\lx nɯndzɤmbɣom
+\lx _nɯndzɤmbɣom
 \wav vi-nWndzAmbGom
-\wav8 8_nWndzAmbGom
+\wav8 nWndzAmbGom
 \ps vi
 \ng comp
 \pdl dir 
@@ -63218,7 +63573,7 @@
 \cf mbɣom
 \dt 06/Jan/2012
 
-\lx nɯndzɤmdɯm
+\lx _nɯndzɤmdɯm
 \wav vi-nWndzAmdWm
 \ps vi
 \pdl dir 
@@ -63236,7 +63591,7 @@
 \cf ndza
 \dt 12/Feb/2014
 
-\lx nɯndzɤqɤr
+\lx _nɯndzɤqɤr
 \wav vt-nWndzAqar
 \ps vt 
 \ng comp
@@ -63258,11 +63613,11 @@
 \cf qɤr
 \dt 04/May/2014
 
-\lx nɯndzɤqhɤjɯ
+\lx _nɯndzɤqhɤjɯ
 \cf ndzɤqhɤjɯ
 \dt 06/Sep/2015
 
-\lx nɯndzɤsma
+\lx _nɯndzɤsma
 \wav vi-nWndzAsma
 \ps vi
 \ge vouloir manger
@@ -63274,8 +63629,8 @@
 \cf nɤsma
 \dt 12/Feb/2014
 
-\lx nɯndzom
-\wav8 8_nWndzom
+\lx _nɯndzom
+\wav8 nWndzom
 \ps vi
 \ge couler le long
 \gn 顺着某个东西流下来
@@ -63287,7 +63642,7 @@
 \xn 水顺着他的头发流下来了
 \dt 12/Feb/2014
 
-\lx nɯndzɯ
+\lx _nɯndzɯ
 \wav vt-znWndzW
 \ps vi
 \pdl dir 
@@ -63309,9 +63664,9 @@
 \sy ftɕhur
 \dt 15/Jul/2016
 
-\lx nɯndzɯlŋɯz
+\lx _nɯndzɯlŋɯz
 \wav vi-nWndzWlNWz
-\wav8 8_GAnWndzWlNWz
+\wav8 GAnWndzWlNWz
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -63333,7 +63688,7 @@
 \xn 他容易打瞌睡
 \dt 08/Jun/2011
 
-\lx nɯndʐɯnbu
+\lx _nɯndʐɯnbu
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -63349,7 +63704,7 @@
 \gn 让……出差
 \dt 28/Aug/2012
 
-\lx nɯnŋɤtʂo
+\lx _nɯnŋɤtʂo
 \wav vi-nWnNAtsxo
 \ps vi
 \ng incorp
@@ -63365,7 +63720,7 @@
 \cf tʂo
 \dt 10/Nov/2011
 
-\lx nɯno
+\lx _nɯno
 \wav vt-nWno
 \ps vt
 \ng vert
@@ -63380,7 +63735,7 @@
 \cf no
 \dt 26/Sep/2014
 
-\lx nɯnthoʁnthɯɣ
+\lx _nɯnthoʁnthɯɣ
 \wav vt-nWnthoRnthWG
 \ps vi
 \pdl dir 
@@ -63397,7 +63752,7 @@
 \xn 不要到处捡垃圾
 \dt 15/Jan/2015
 
-\lx nɯntsho
+\lx _nɯntsho
 \wav vt-nWntsho
 \ps vt
 \pdl dir 
@@ -63419,7 +63774,7 @@
 \gn 令人吃骨头上面剩下的肉 
 \dt 02/Apr/2014
 
-\lx nɯntsɯɣ
+\lx _nɯntsɯɣ
 \wav vt-nWntsWG
 \ps vt
 \pdl dir 
@@ -63439,7 +63794,7 @@
 \xn 让你舔狗碗（骂人的话）
 \dt 09/Mar/2011
 
-\lx nɯnɯ
+\lx _nɯnɯ
 \hm 1
 \wav vt-nWnW
 \ps vt
@@ -63454,7 +63809,7 @@
 \cf tɯ-nɯ
 \dt 09/Jun/2013
 
-\lx nɯɲɤmkhe
+\lx _nɯɲɤmkhe
 \wav vi-nWYAmkhe
 \ps vs
 \ng incorp
@@ -63480,7 +63835,7 @@
 \cf khe
 \dt 19/May/2014
 
-\lx nɯɲɤmsɯ
+\lx _nɯɲɤmsɯ
 \wav vi-nWYAmsW
 \ps vi
 \ng incorp
@@ -63496,7 +63851,7 @@
 \cf tɯ-ɲɤm
 \dt 19/May/2014
 
-\lx nɯŋa
+\lx _nɯŋa
 \hm 2
 \wav vt-nWNa
 \ps vt
@@ -63510,7 +63865,7 @@
 \xn 我答应要帮你了
 \dt 01/Jan/2014
 
-\lx nɯŋgɤkhe
+\lx _nɯŋgɤkhe
 \ps vi
 \ge porter habituellement de vieux habits
 \gn （习惯）穿破旧的衣服
@@ -63520,7 +63875,7 @@
 \cf khe
 \dt 16/Jul/2016
 
-\lx nɯŋgɤxtsa
+\lx _nɯŋgɤxtsa
 \wav vt-nWNgAxtsa
 \ps vt
 \pdl dir 
@@ -63531,11 +63886,11 @@
 \xn 我舍得穿了
 \xv sɯŋgi kɤ-nɯŋgɤxtsa cha, mgɯnbu mɤ-nɯŋgɤxtse 
 \xn 僧吉舍得穿，袞布不舍得
-\xv tɯ-ŋga
-\xv tɯ-xtsa
+\cf tɯ-ŋga
+\cf tɯ-xtsa
 \dt 21/Feb/2011
 
-\lx nɯŋgra
+\lx _nɯŋgra
 \wav vi-nWNgra
 \ps vi
 \pdl dir 
@@ -63546,7 +63901,7 @@
 \xv laχtɕha kɤ-tsɯm tɤ-nɯŋgra-a
 \xn 我把东西拿去了，得到了工钱
 \se znɯŋgra
-\wav8 8_toznWNgra
+\wav8 toznWNgra
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -63564,7 +63919,7 @@
 \cf tɯ-ŋgra
 \dt 15/Jul/2016
 
-\lx nɯŋgu
+\lx _nɯŋgu
 \wav vi-nWNgu
 \ps vs
 \pdl dir 
@@ -63591,7 +63946,7 @@
 \xn 我做得太早了
 \dt 15/Jul/2016
 
-\lx nɯŋgumdʑɯɣ
+\lx _nɯŋgumdʑɯɣ
 \ps vi
 \pdl dir
 \pdv lɤ-
@@ -63602,7 +63957,7 @@
 \cf ŋgumdʑɯɣ
 \dt 07/Jul/2016
 
-\lx nɯŋgumtha
+\lx _nɯŋgumtha
 \wav vt-nWNgumtha
 \ps vt
 \pdl dir 
@@ -63617,7 +63972,7 @@
 \xn 如果他醉了的话，请你好好照顾他！
 \dt 21/Feb/2011
 
-\lx nɯŋgurtɕaʁ
+\lx _nɯŋgurtɕaʁ
 \ps vt
 \pdl dir
 \pdv pɯ-
@@ -63626,7 +63981,7 @@
 \cf ŋgurtɕaʁ
 \dt 07/Jan/2015
 
-\lx nɯŋke
+\lx _nɯŋke
 \wav vt-nWNke
 \ps vt
 \ng appl
@@ -63646,7 +64001,7 @@
 \cf ŋke
 \dt 16/Nov/2011
 
-\lx nɯŋumit
+\lx _nɯŋumit
 \wav vt-nWNumit
 \ps vt
 \pdl dir 
@@ -63668,7 +64023,7 @@
 \gn 侮辱人
 \dt 02/Jun/2013
 
-\lx nɯŋundʑu
+\lx _nɯŋundʑu
 \wav vt-nWNundZu
 \ps vt
 \pdl dir 
@@ -63688,9 +64043,9 @@
 \cf rɯŋundʑu
 \dt 21/May/2011
 
-\lx nɯɴɢɯlɯjɤt
-\wav8 8_nWnWNGWlWjAti
-\wav8 8_YWnWNGWlWjAt2
+\lx _nɯɴɢɯlɯjɤt
+\wav8 nWnWNGWlWjAti
+\wav8 YWnWNGWlWjAt2
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -63701,7 +64056,7 @@
 \sy ɴɢɤt
 \dt 09/May/2013
 
-\lx nɯɴqhu
+\lx _nɯɴqhu
 \wav vt-nWNqhu
 \wav pjWznWNqhea
 \ps vt
@@ -63726,11 +64081,11 @@
 \sy znɯjɯn
 \dt 23/Aug/2012
 
-\lx nɯpa
+\lx _nɯpa
 \cf pa
 \dt 27/Mar/2011
 
-\lx nɯpaʁlɤɣ
+\lx _nɯpaʁlɤɣ
 \wav vi-nWpaRlAG
 \ps vi
 \ng incorp
@@ -63747,14 +64102,14 @@
 \cf lɤɣ
 \dt 15/Jul/2016
 
-\lx nɯpaχɕi
+\lx _nɯpaχɕi
 \ps vi
 \ge aller cueillir des pommes
 \gn 采苹果
 \cf paχɕi
 \dt 24/Aug/2015
 
-\lx nɯpɤŋgɯŋgru
+\lx _nɯpɤŋgɯŋgru
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -63767,7 +64122,7 @@
 \cf tɯ-ŋgru
 \dt 03/Jul/2016
 
-\lx nɯpɤɴqi
+\lx _nɯpɤɴqi
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -63777,7 +64132,7 @@
 \cf nɤɴqi
 \dt 17/May/2014
 
-\lx nɯpɕɯru
+\lx _nɯpɕɯru
 \ps vs
 \ge agréable à regarder
 \gn 外表好看
@@ -63786,7 +64141,7 @@
 \cf ru1
 \dt 12/Jul/2016
 
-\lx nɯpɣa
+\lx _nɯpɣa
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -63797,7 +64152,7 @@
 \cf pɣa
 \dt 23/Aug/2012
 
-\lx nɯpɣɤɲaʁ
+\lx _nɯpɣɤɲaʁ
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -63808,7 +64163,7 @@
 \cf pɣɤɲaʁ
 \dt 23/Aug/2012
 
-\lx nɯphaʁɲɤl
+\lx _nɯphaʁɲɤl
 \wav vi-nWphaRYAl
 \ps vi
 \ng incorp
@@ -63830,7 +64185,7 @@
 \cf phaʁɲɤl
 \dt 10/Nov/2011
 
-\lx nɯphawu
+\lx _nɯphawu
 \wav vt-nWphawu
 \ps vt
 \pdl dir 
@@ -63848,7 +64203,7 @@
 \xn 你不要依赖你的父亲
 \dt 28/Feb/2011
 
-\lx nɯphu
+\lx _nɯphu
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -63856,7 +64211,7 @@
 \gn 交配
 \dt 01/Nov/2012
 
-\lx nɯphɯ
+\lx _nɯphɯ
 \wav vi-nWphW
 \ps vs 
 \pdl dir 
@@ -63870,9 +64225,9 @@
 \cf ɯ-phɯ
 \dt 18/May/2014
 
-\lx nɯphɯrɤm
-\wav8 8_nWphWrAm
-\wav8 8_nWphWrAm2
+\lx _nɯphɯrɤm
+\wav8 nWphWrAm
+\wav8 nWphWrAm2
 \ps vt
 \pdl dir 
 \pdv thɯ-
@@ -63889,7 +64244,7 @@
 \cf phɯrɤm
 \dt 01/May/2012
 
-\lx nɯpjaχpa
+\lx _nɯpjaχpa
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -63905,7 +64260,7 @@
 \dv kɤ-nɤma tɯ-tɯphu ɲɯ́-wɣ-nɤma ɯ-rca tɕe, kɯmaʁ ci ɲɯ́-wɣ-nɤma tɕe nɯ kɤ-nɯpjaχpa rmi
 \dt 14/Jul/2016
 
-\lx nɯpodɯdi
+\lx _nɯpodɯdi
 \wav vt-znWpodWdi
 \ps vs
 \ge chatouiller 
@@ -63923,7 +64278,7 @@
 \xn 我挠他痒痒了
 \dt 12/Jan/2014
 
-\lx nɯpolɯli
+\lx _nɯpolɯli
 \wav vi-nWpolWli2
 \ps vi
 \pdl dir 
@@ -63936,9 +64291,9 @@
 \xn 他趴在草地上了
 \dt 15/Jul/2016
 
-\lx nɯpoʁ
+\lx _nɯpoʁ
 \wav vt-nWpoR
-\wav8 8_kAwGnWpoRa
+\wav8 kAwGnWpoRa
 \ps vt
 \pdl dir 
 \pdv kɤ-
@@ -63961,7 +64316,7 @@
 \gn 让……亲吻
 \dt 12/Jan/2014
 
-\lx nɯproʁmba
+\lx _nɯproʁmba
 \ps vl
 \pdl dir
 \pdv tɤ-
@@ -63971,7 +64326,7 @@
 \xn 你不要学我！
 \dt 13/May/2014
 
-\lx nɯpɯmɲɯɣ
+\lx _nɯpɯmɲɯɣ
 \ps vi
 \pdl dir
 \pdv tɤ-
@@ -63980,7 +64335,7 @@
 \xv tɤ-nɯpɯmɲɯɣ-a 
 \xn 我瞄准了
 
-\lx nɯqaɕti
+\lx _nɯqaɕti
 \ps vi
 \pdl dir 
 \pdv _
@@ -63989,7 +64344,7 @@
 \cf qaɕti
 \dt 20/May/2013
 
-\lx nɯqajɯ
+\lx _nɯqajɯ
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -64004,7 +64359,7 @@
 \cf qajɯ
 \dt 26/Aug/2012
 
-\lx nɯqaɟy
+\lx _nɯqaɟy
 \wav vi-nWqaJY
 \ps vi
 \ng denom
@@ -64023,7 +64378,7 @@
 \cf qaɟy
 \dt 22/Feb/2014
 
-\lx nɯqambɯmbjom
+\lx _nɯqambɯmbjom
 \wav vi-nWqambWmbjom
 \ps vi
 \pdl dir 
@@ -64037,7 +64392,7 @@
 \xn 鸟飞走了
 \dt 02/Jul/2014
 
-\lx nɯqandʐe
+\lx _nɯqandʐe
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -64050,7 +64405,7 @@
 \cf qandʐe
 \dt 26/Aug/2012
 
-\lx nɯqarma
+\lx _nɯqarma
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -64061,7 +64416,7 @@
 \cf qarma
 \dt 23/Aug/2012
 
-\lx nɯqhaɴɢaʁ
+\lx _nɯqhaɴɢaʁ
 \wav vi-nWqhaNGaR
 \ps vi
 \ng incorp
@@ -64084,8 +64439,8 @@
 \cf ɯ-qhu
 \dt 09/Mar/2011
 
-\lx nɯqhapa
-\wav8 8_YWnWqhapaa
+\lx _nɯqhapa
+\wav8 YWnWqhapaa
 \ps vi
 \ge surveiller la maison (de quelqu'un d'autre)
 \gn 看家（别人的）
@@ -64093,11 +64448,11 @@
 \xn 我在看家
 \dt 04/Sep/2015
 
-\lx nɯqhaχɕu
+\lx _nɯqhaχɕu
 \cf rɯqhaχɕu
 \dt 26/Aug/2012
 
-\lx nɯqhɤcit
+\lx _nɯqhɤcit
 \ps vi
 \pdl dir
 \pdv nɯ-
@@ -64110,7 +64465,7 @@
 \cf ɯ-qhu
 \dt 20/Jul/2016
 
-\lx nɯqhɤjŋɯjŋa
+\lx _nɯqhɤjŋɯjŋa
 \wav vi-nWqhAjNWjNa
 \ps vi
 \ng incorp
@@ -64128,7 +64483,7 @@
 \cf ɯ-qhu
 \dt 15/Jul/2016
 
-\lx nɯqhɤstɯstu
+\lx _nɯqhɤstɯstu
 \wav vi-nWqhAstWstu
 \ps vi
 \ng incorp
@@ -64152,7 +64507,7 @@
 \gn 使……退后
 \dt 01/Mar/2011
 
-\lx nɯqhoχɕɤr
+\lx _nɯqhoχɕɤr
 \ps vi
 \pdl dir
 \pdv pɯ-
@@ -64161,7 +64516,7 @@
 \sy nɯtɯfɕɤl
 \dt 15/May/2014
 
-\lx nɯqro
+\lx _nɯqro
 \ps vi
 \pdl dir 
 \pdv lɤ-
@@ -64174,8 +64529,8 @@
 \xn 熊在找蚂蚁
 \dt 17/Jan/2015
 
-\lx nɯqru
-\wav8 8_zjonWqru
+\lx _nɯqru
+\wav8 zjonWqru
 \ps vt
 \ng vert
 \ge ramener à la maison
@@ -64184,7 +64539,7 @@
 \xn （他女儿）在另外一个地方，很想念她，就把她接回来了
 \cf qru
 
-\lx nɯqɯqoʁ
+\lx _nɯqɯqoʁ
 \ps vi
 \pdl dir
 \pdv nɯ-
@@ -64194,7 +64549,7 @@
 \xn 劳动不要太过卖力
 \dt 18/May/2014
 
-\lx nɯrɤɣo
+\lx _nɯrɤɣo
 \wav vi-nWrAGo
 \ps vi
 \pdl dir 
@@ -64209,7 +64564,7 @@
 \cf rɤɣo
 \dt 03/Mar/2011
 
-\lx nɯrɤŋom
+\lx _nɯrɤŋom
 \wav vt-nWrANom
 \ps vt
 \pdl dir 
@@ -64223,11 +64578,11 @@
 \cf rɤŋom
 \dt 29/Aug/2014
 
-\lx nɯrɤscoz
+\lx _nɯrɤscoz
 \cf rɤscoz
 \dt 05/Mar/2011
 
-\lx nɯrɤtʂha
+\lx _nɯrɤtʂha
 \wav vi-rAtsxha
 \wav vi-rAtsxha2
 \ps vi
@@ -64241,11 +64596,11 @@
 \cf tʂha
 \dt 15/Jul/2016
 
-\lx nɯrɤʑi
+\lx _nɯrɤʑi
 \cf rɤʑi
 \dt 05/Mar/2011
 
-\lx nɯrchɯrchɤβ
+\lx _nɯrchɯrchɤβ
 \wav vi-nWrchWrchAB
 \ps vi
 \pdl dir 
@@ -64262,11 +64617,11 @@
 \cf ɯ-rchɤβ
 \dt 12/May/2013
 
-\lx nɯrchɯrchɯɣ
+\lx _nɯrchɯrchɯɣ
 \cf rchɯrchɯɣ
 \dt 06/Sep/2015
 
-\lx nɯrɕɤt
+\lx _nɯrɕɤt
 \wav vi-nWrCAt
 \ps vi
 \sn 1
@@ -64297,7 +64652,7 @@
 \xn 他们俩到了之后，在大石包上用树枝轻轻地擦过去了
 \dt 09/Oct/2015
 
-\lx nɯrdɤstaʁ
+\lx _nɯrdɤstaʁ
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -64313,7 +64668,7 @@
 \cf rdɤstaʁ
 \dt 11/May/2014
 
-\lx nɯrdoʁ
+\lx _nɯrdoʁ
 \wav vt-nWrdoR
 \wav vt-nWrdoR2
 \ps vt
@@ -64335,7 +64690,7 @@
 \cf tɯ-rdoʁ
 \dt 02/Mar/2011
 
-\lx nɯrdɯl
+\lx _nɯrdɯl
 \wav vi-nWrdWl
 \ps vi
 \pdl dir 
@@ -64356,7 +64711,7 @@
 \cf rdɯl
 \dt 21/Aug/2012
 
-\lx nɯrga
+\lx _nɯrga
 \wav vt-nWrga
 \wav vt-nWrga2
 \ps vt
@@ -64378,9 +64733,9 @@
 \cf rga
 \an qha
 \se sɤnɯrga
-\wav8 8_sAnWrga
-\wav8 8_sAnWrga2
-\wav8 8_YWtWsAnWrga
+\wav8 sAnWrga
+\wav8 sAnWrga2
+\wav8 YWtWsAnWrga
 \ps vi
 \ng appl
 \ng apass
@@ -64398,7 +64753,7 @@
 \gn 相爱
 \dt 26/Aug/2015
 
-\lx nɯrɟaŋ
+\lx _nɯrɟaŋ
 \ps vs
 \sn 1
 \ge qui se transmet loin
@@ -64413,7 +64768,7 @@
 \cf rɟaŋ
 \dt 11/Aug/2016
 
-\lx nɯrɟɤntɕa
+\lx _nɯrɟɤntɕa
 \wav vt-nWrJAntCa
 \ps vt
 \ng denom
@@ -64426,8 +64781,8 @@
 \xn 我打扮了
 \dt 02/Mar/2011
 
-\lx nɯrɟɯrŋom
-\wav8 8_nWrJWrNom
+\lx _nɯrɟɯrŋom
+\wav8 nWrJWrNom
 \ps vi
 \ng incorp
 \pdl dir 
@@ -64443,8 +64798,8 @@
 \cf tɯ-rɟɯ
 \dt 30/Apr/2012
 
-\lx nɯrkorlɯt
-\wav8 8_nWrkorlWt
+\lx _nɯrkorlɯt
+\wav8 nWrkorlWt
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -64463,7 +64818,7 @@
 \cf arlɯt
 \dt 16/Jul/2016
 
-\lx nɯrlɤn
+\lx _nɯrlɤn
 \wav vi-nWrlAn
 \ps vs
 \pdl dir 
@@ -64481,7 +64836,7 @@
 \gn 弄湿
 \dt 09/Jun/2013
 
-\lx nɯrmɤβlɯ
+\lx _nɯrmɤβlɯ
 \wav vt-nWrmABlW
 \wav vt-nWrmABlW2
 \ps vt
@@ -64497,7 +64852,7 @@
 \cf βlɯ
 \dt 21/Jul/2016
 
-\lx nɯrmɤkro
+\lx _nɯrmɤkro
 \wav vi-nWrmAkro
 \ps vi
 \ng incorp
@@ -64512,7 +64867,7 @@
 \cf kro
 \dt 14/Mar/2014
 
-\lx nɯrmɤmbe
+\lx _nɯrmɤmbe
 \wav vi-nWrmAmbe
 \ps vi
 \pdl dir 
@@ -64531,7 +64886,7 @@
 \cf rmɤmbe
 \dt 14/Mar/2014
 
-\lx nɯrmɤʑu
+\lx _nɯrmɤʑu
 \wav vi-nWrmAZu
 \wav vi-nWrmAZu2
 \ps vi
@@ -64549,17 +64904,16 @@
 \xn 小孩子很喜欢表现自己
 \dt 17/Apr/2011
 
-\lx nɯrmbɯχtɕi
-\wav8 8_nWrmbWXtCi
-\wav8 8_nWrmbWXtCi-def
-\wav8 8_nWrmbWXtCi-def2
+\lx _nɯrmbɯχtɕi
+\wav8 nWrmbWXtCi
+\wav8 nWrmbWXtCi-def
+\wav8 nWrmbWXtCi-def2
 \ps vt
 \pdl dir 
 \pdv tɤ-
 \ng incorp
 \ge asperger de liquide
 \gn 朝人喷尿
-
 \xv tɤ-kɯ-nɯrmbɯχtɕi-a
 \xn 你朝我喷了液体
 \ev tu-kɯ-nɯrmbɯχtɕi nɯ ɯʑo ɯ-rmbi kɯ tu-kɯ-sɯ-χtɕi kɤ-ti ɲɯ-ŋu, tɯ-taʁ ɯ-rmbi tu-lɤt kɤ-ti ŋu
@@ -64567,7 +64921,7 @@
 \cf tɯ-rmbi
 \dt 20/May/2013
 
-\lx nɯrmɯ 
+\lx _nɯrmɯ 
 \ps vi
 \pdl dir
 \pdv nɯ-
@@ -64576,7 +64930,7 @@
 \cf tɯrmɯ 
 \cf nɯrmɯsoz
 
-\lx nɯrmɯsoz
+\lx _nɯrmɯsoz
 \ps vi
 \pdl dir
 \pdv tɤ-
@@ -64586,11 +64940,11 @@
 \cf tɯrmɯ
 \dt 12/May/2014
 
-\lx nɯrŋgɯ
+\lx _nɯrŋgɯ
 \cf rŋgɯ1
 \dt 23/Apr/2011
 
-\lx nɯrŋgɯmbri
+\lx _nɯrŋgɯmbri
 \ps vi
 \ng comp
 \ge gémir
@@ -64599,7 +64953,7 @@
 \cf mbri1
 \dt 05/Nov/2011
 
-\lx nɯrŋu
+\lx _nɯrŋu
 \wav vi-nWrNu2
 \ps vi
 \pdl dir 
@@ -64617,14 +64971,14 @@
 \xn |fv{kɤ-kɯ-nɯrŋu} 是一种皮肤病，全身长满疮一样的东西，毛全脱光，皮肤变灰色，很粗糙。
 \dt 01/Dec/2010
 
-\lx nɯrpu
+\lx _nɯrpu
 \cf rpu
 
-\lx nɯrqhoʁ
+\lx _nɯrqhoʁ
 \cf ɣɤrqhoʁrqhoʁ
 \dt 19/Dec/2011
 
-\lx nɯrʁe
+\lx _nɯrʁe
 \wav vt-nWrRe
 \ps vt
 \pdl dir 
@@ -64644,7 +64998,7 @@
 \cf rʁe
 \dt 19/Feb/2014
 
-\lx nɯrʁɯrpu
+\lx _nɯrʁɯrpu
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -64659,7 +65013,7 @@
 \gn 用角打人
 \dt 04/Jul/2016
 
-\lx nɯrʁɯrʁa
+\lx _nɯrʁɯrʁa
 \wav vi-nWrRWrRa
 \ps vi
 \pdl dir 
@@ -64675,9 +65029,9 @@
 \xn 他爬了树
 \dt 06/Mar/2011
 
-\lx nɯrtɤβ
+\lx _nɯrtɤβ
 \wav vt-nWrtAB
-\wav8 8_nWrtAb
+\wav8 nWrtAb
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -64697,7 +65051,7 @@
 \cf rtɤβ
 \dt 12/Sep/2013
 
-\lx nɯrtɕa
+\lx _nɯrtɕa
 \wav vt-nWrtCa
 \ps vt
 \pdl dir 
@@ -64722,8 +65076,8 @@
 \gn 惹人家
 \dt 07/Feb/2014
 
-\lx nɯrtɕhɯɴɢɯɴɢaʁ
-\wav8 8_nWrtCWNGWNGaR
+\lx _nɯrtɕhɯɴɢɯɴɢaʁ
+\wav8 nWrtCWNGWNGaR
 \ps vi
 \pdl dir 
 \pdv lɤ-
@@ -64735,7 +65089,7 @@
 \xn 摔倒的时候，经常会把皮肤擦伤
 \cf ɴɢaʁ
 
-\lx nɯrtsa
+\lx _nɯrtsa
 \ps vt
 \pdl dir
 \pdv nɯ-
@@ -64748,7 +65102,7 @@
 \cf ɯ-rtsa,tɕɤt
 \dt 04/Jul/2016
 
-\lx nɯrtsɤl
+\lx _nɯrtsɤl
 \wav vi-nArtsAl
 \ps vs
 \pdl dir 
@@ -64760,7 +65114,7 @@
 \xn 他骑马的技术非常好
 \dt 16/Jul/2016
 
-\lx nɯrtsɤtɯɣ
+\lx _nɯrtsɤtɯɣ
 \wav vi-nWrtsAtWG
 \ps vi
 \ng denom
@@ -64776,7 +65130,7 @@
 \cf nɯtɕhɯtɯɣ
 \dt 19/Jan/2015
 
-\lx nɯrtsɯ
+\lx _nɯrtsɯ
 \wav vi-nWrtsW
 \ps vi
 \pdl dir 
@@ -64789,7 +65143,7 @@
 \xn 小孩子在爬行
 \dt 06/Mar/2011
 
-\lx nɯrtsɯpɣaʁ
+\lx _nɯrtsɯpɣaʁ
 \wav vt-nWrtsWpGaR
 \ps vt
 \pdl dir 
@@ -64811,7 +65165,7 @@
 \cf rɯrtsɯpɣaʁ
 \dt 25/May/2011
 
-\lx nɯrɯ
+\lx _nɯrɯ
 \wav vi-nWrW
 \ps vi
 \pdl dir 
@@ -64825,7 +65179,7 @@
 \sy nɯsɤlɤɣ
 \dt 12/Mar/2011
 
-\lx nɯrɯcu
+\lx _nɯrɯcu
 \ps vs
 \ge bien s'entendre avec
 \gn 合得来
@@ -64836,7 +65190,7 @@
 \cf nɤcu
 \dt 20/Jul/2016
 
-\lx nɯrɯtʂa
+\lx _nɯrɯtʂa
 \wav vt-nWrWtsxa
 \ps vt
 \ng denom
@@ -64860,7 +65214,7 @@
 \cf rɯtʂa
 \dt 29/Apr/2012
 
-\lx nɯrɯz
+\lx _nɯrɯz
 \ps vi
 \pdl dir 
 \pdv thɯ-
@@ -64880,7 +65234,7 @@
 \xn 我把这两件衣服轮流穿，今天穿了这件，明天就会穿那件
 \dt 03/Sep/2015
 
-\lx nɯrzandɤɣ
+\lx _nɯrzandɤɣ
 \wav vi-nWrzandAG
 \ps vi
 \pdl dir 
@@ -64894,7 +65248,7 @@
 \xn 我根本就不会有高山反应
 \dt 14/Mar/2011
 
-\lx nɯrʑɯɣ
+\lx _nɯrʑɯɣ
 \wav vt-nWrZWG
 \ps vt
 \pdl dir 
@@ -64910,7 +65264,7 @@
 \xn 他很果断的指挥了别人
 \dt 14/Mar/2011
 
-\lx nɯʁɤri
+\lx _nɯʁɤri
 \wav vt-nWRAri
 \ps vt
 \pdl dir 
@@ -64931,7 +65285,7 @@
 \cf ɯ-ʁɤri
 \dt 03/Aug/2012
 
-\lx nɯʁgra
+\lx _nɯʁgra
 \wav vt-nWRgra
 \ps vt
 \ng denom
@@ -64949,7 +65303,7 @@
 \cf ʁgra 
 \dt 28/Dec/2014
 
-\lx nɯʁjoʁ
+\lx _nɯʁjoʁ
 \wav vt-nWRjoR
 \wav vt-nWRjoR3
 \ps vt 
@@ -64975,7 +65329,7 @@
 \cf ʁjoʁ
 \dt 13/Nov/2014
 
-\lx nɯʁjɯβtshɤt
+\lx _nɯʁjɯβtshɤt
 \wav vt-nWRjWBtshAt
 \ps vt
 \pdl dir 
@@ -64991,8 +65345,8 @@
 \cf ʁjɯβtshɤt
 \dt 24/Aug/2014
 
-\lx nɯʁlɤwɯr
-\wav8 8_nWRlAwur
+\lx _nɯʁlɤwɯr
+\wav8 nWRlAwur
 \ps vi
 \ng denom
 \pdl dir 
@@ -65004,10 +65358,10 @@
 \cf ʁlɤwɯr
 \dt 08/Apr/2013
 
-\lx nɯʁlɯmbɯɣ
+\lx _nɯʁlɯmbɯɣ
 \wav vt-nWRlWmbWG
-\wav8 8_nWRlWmbWG
-\wav8 8_tunWRlWmbWGa
+\wav8 nWRlWmbWG
+\wav8 tunWRlWmbWGa
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -65029,7 +65383,7 @@
 \sy nɯʁjɯβtshɤt
 \dt 25/Feb/2014
 
-\lx nɯʁmaʁmi
+\lx _nɯʁmaʁmi
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -65039,7 +65393,7 @@
 \cf ʁmaʁmi
 \dt 20/May/2013
 
-\lx nɯʁndomnɤt
+\lx _nɯʁndomnɤt
 \wav vi-nWRndomnAt
 \ps vi
 \pdl dir 
@@ -65059,7 +65413,7 @@
 \cf taʁndo
 \dt 22/Oct/2014
 
-\lx nɯʁnoŋ
+\lx _nɯʁnoŋ
 \ps vi
 \ge avoir des remors
 \gn 内疚；有愧
@@ -65067,7 +65421,7 @@
 \cf tɯ-ʁnoŋ
 \dt 19/Jul/2016
 
-\lx nɯʁɲɤlwa
+\lx _nɯʁɲɤlwa
 \ps vi
 \pdl dir
 \pdv pɯ-
@@ -65078,7 +65432,7 @@
 \cf ʁɲɤlwa
 \dt 02/Sep/2015
 
-\lx nɯʁzɯɣ
+\lx _nɯʁzɯɣ
 \wav vi-nWRzWG
 \ps vs
 \pdl dir 
@@ -65092,7 +65446,7 @@
 \xn 那个东西好看
 \dt 20/Oct/2011
 
-\lx nɯʁʑɯnɯ
+\lx _nɯʁʑɯnɯ
 \ps vs
 \pdl dir
 \pdv thɯ-
@@ -65104,7 +65458,7 @@
 \cf nɯʁʑɯnɯ
 \dt 22/Aug/2015
 
-\lx nɯsarsi
+\lx _nɯsarsi
 \ps vi
 \pdl dir 
 \pdv _
@@ -65114,7 +65468,7 @@
 \cf sarsi
 \dt 20/May/2013
 
-\lx nɯsaχɕɯβ
+\lx _nɯsaχɕɯβ
 \ps vi
 \ge faire une compétition
 \gn 比试
@@ -65122,9 +65476,9 @@
 \xn 我们俩比试一下了，他把我打败了
 \dt 01/Sep/2015
 
-\lx nɯsaχsɯ
+\lx _nɯsaχsɯ
 \wav vi-nWsaXsW
-\wav8 8_nWsaXsW
+\wav8 nWsaXsW
 \ps vi
 \ng denom
 \pdl dir 
@@ -65141,9 +65495,9 @@
 \cf saχsɯ
 \dt 03/Jan/2015
 
-\lx nɯsɤlɤɣ
+\lx _nɯsɤlɤɣ
 \wav vi-nWsAlAG
-\wav8 8_nWsAlAG
+\wav8 nWsAlAG
 \ps vi
 \pdl dir 
 \pdv nɯ
@@ -65165,7 +65519,7 @@
 \gn 我给你吃草（人对动物说）
 \dt 29/Mar/2011
 
-\lx nɯsɤra
+\lx _nɯsɤra
 \ps vi
 \pdl dir
 \pdv tɤ-
@@ -65173,7 +65527,7 @@
 \gn 抓痒（奶牛；牦牛）
 \dt 17/Jul/2016
 
-\lx nɯsɤraʁ
+\lx _nɯsɤraʁ
 \wav vt-nWsAraR
 \ps vt
 \pdl dir 
@@ -65190,7 +65544,7 @@
 \sy nɯtɤraʁ
 \dt 20/May/2013
 
-\lx nɯscɯʁzɯɣ
+\lx _nɯscɯʁzɯɣ
 \wav vi-nWscARzWG
 \ps vs
 \ge beau 
@@ -65202,7 +65556,7 @@
 \xn 那个人很漂亮
 \dt 14/Mar/2011
 
-\lx nɯsɣa
+\lx _nɯsɣa
 \wav vi-nWsGa
 \ps vs
 \ng denom
@@ -65218,7 +65572,7 @@
 \cf sɣa
 \dt 20/Oct/2011
 
-\lx nɯskɤt
+\lx _nɯskɤt
 \wav vt-nWskAt
 \ps vt
 \ge parler
@@ -65235,7 +65589,7 @@
 \cf tɯ-skɤt
 \dt 26/Aug/2015
 
-\lx nɯskhrɯ
+\lx _nɯskhrɯ
 \ps vt
 \wav vt-nWskhrW
 \pdl dir 
@@ -65248,7 +65602,7 @@
 \cf tɯ-skhrɯ
 \dt 08/Jun/2013
 
-\lx nɯslɯɣ
+\lx _nɯslɯɣ
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -65268,8 +65622,8 @@
 \xn 他把自己衣服沾上了泥巴
 \dt 23/Oct/2012
 
-\lx nɯslɯt
-\wav8 8_tonWslWt
+\lx _nɯslɯt
+\wav8 tonWslWt
 \ps vi
 \pdl dir
 \pdv tɤ-
@@ -65278,7 +65632,7 @@
 \xv a-ŋga to-nɯslɯt
 \xn 我衣服上沾满了灰尘
 \se znɯslɯt
-\wav8 8_toznWslWt
+\wav8 toznWslWt
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -65288,11 +65642,11 @@
 \xn 地面很脏，令人沾上灰尘
 \dt 22/Aug/2015
 
-\lx nɯsmɤn
+\lx _nɯsmɤn
 \wav vt-nWsmAn
 \wav vt-nWsmAn2
-\wav8 8_ZGAnWsmAn
-\wav8 8_znWsmAn
+\wav8 ZGAnWsmAn
+\wav8 znWsmAn
 \ps vt
 \ng denom
 \pdl dir 
@@ -65329,8 +65683,8 @@
 \cf smɤn
 \dt 13/Aug/2014
 
-\lx nɯsmɤphɤβ
-\wav8 8_nWsmAthAB
+\lx _nɯsmɤphɤβ
+\wav8 nWsmAthAB
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -65342,7 +65696,7 @@
 \xn 你在侮辱我
 \dt 07/Jul/2016
 
-\lx nɯsmɯɣjɯm
+\lx _nɯsmɯɣjɯm
 \wav vi-nWsmWGjWm
 \ps vi
 \ge se chauffer au feu
@@ -65350,7 +65704,7 @@
 \sy nɯmbjɯm
 \dt 10/Nov/2011
 
-\lx nɯsmɯlɤm
+\lx _nɯsmɯlɤm
 \wav vt-nWsmAlAm2
 \ps vt
 \pdl dir 
@@ -65366,8 +65720,8 @@
 \cf smɯlɤm
 \dt 16/Mar/2011
 
-\lx nɯsmɯrjɯɣ
-\wav8 8_nWsmWrjWG
+\lx _nɯsmɯrjɯɣ
+\wav8 nWsmWrjWG
 \ps vt
 \pdl dir 
 \pdv thɯ-
@@ -65381,9 +65735,9 @@
 \xn 这个东西很粗，不能弄弯
 \dt 04/Aug/2012
 
-\lx nɯsnɯɲaʁ
+\lx _nɯsnɯɲaʁ
 \wav vt-nWsnWYaR
-\wav8 8_nWsnWYaR
+\wav8 nWsnWYaR
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -65397,9 +65751,15 @@
 \xv tɤ́-wɣ-nɯsnɯɲaʁ-a
 \xn 他陷害了我
 \cf snɯɲaʁ
-\dt 10/Nov/2011
+\se sɤnɯsnɯɲaʁ
+\ps vi
+\ng incorp
+\ng apass
+\ge causer du mal aux gens
+\gn 害人
+\dt 14/Jun/2017
 
-\lx nɯsɲaŋne
+\lx _nɯsɲaŋne
 \wav vi-nWsYaNne
 \ps vi
 \pdl dir 
@@ -65412,7 +65772,7 @@
 \cf rɯsɲaŋne
 \dt 25/May/2011
 
-\lx nɯsɲɤtqha
+\lx _nɯsɲɤtqha
 \ps vi
 \pdl dir
 \pdv tɤ-
@@ -65426,14 +65786,14 @@
 \cf qha
 \dt 30/Aug/2015
 
-\lx nɯsɲɯβri
+\lx _nɯsɲɯβri
 \ps vt
 \ge chérir
 \gn 心疼
 \sy nɤrɕɤmŋɤm
 \dt 07/Jul/2016
 
-\lx nɯsŋom
+\lx _nɯsŋom
 \wav vt-nWsNom
 \ps vt
 \pdl dir 
@@ -65455,7 +65815,7 @@
 \cf sŋom
 \dt 12/Aug/2014
 
-\lx nɯspjɤtɕha
+\lx _nɯspjɤtɕha
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -65466,7 +65826,7 @@
 \cf spjɤtɕha
 \dt 13/Jul/2016
 
-\lx nɯsqar
+\lx _nɯsqar
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -65477,7 +65837,7 @@
 \cf ɯ-sqar
 \dt 20/May/2013
 
-\lx nɯsroʁmbrɤt
+\lx _nɯsroʁmbrɤt
 \ps vi
 \pdl dir
 \pdv thɯ-
@@ -65488,7 +65848,7 @@
 \cf tɯ-sroʁ
 \dt 18/Jul/2014
 
-\lx nɯsrɯɣndɤr
+\lx _nɯsrɯɣndɤr
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -65499,7 +65859,7 @@
 \cf srɯndɤr
 \dt 18/May/2014
 
-\lx nɯstɤβtshɤt
+\lx _nɯstɤβtshɤt
 \ps vi
 \pdl dir
 \pdv tɤ-
@@ -65508,8 +65868,8 @@
 \cf stɤβtshɤt
 \dt 15/Jul/2016
 
-\lx nɯstɤraʁndo
-\wav8 8_def_kAnWstaraRndo
+\lx _nɯstɤraʁndo
+\wav8 def_kAnWstaraRndo
 \ps vi
 \pdl dir
 \pdv tɤ-
@@ -65523,7 +65883,7 @@
 
 \dt 26/Aug/2015
 
-\lx nɯstɤrɟɯɣ
+\lx _nɯstɤrɟɯɣ
 \wav vi-nWstArJWG
 \ps vt
 \pdl dir 
@@ -65540,7 +65900,7 @@
 \cf rɟɯɣ1
 \dt 09/Nov/2013
 
-\lx nɯsthoʁ
+\lx _nɯsthoʁ
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -65550,11 +65910,11 @@
 \cf sthoʁ
 \dt 09/Dec/2013
 
-\lx nɯsthɯt
+\lx _nɯsthɯt
 \cf sthɯt
 \dt 19/Mar/2011
 
-\lx nɯstu
+\lx _nɯstu
 \wav vi-nWstu
 \ps vs
 \pdl dir 
@@ -65583,7 +65943,7 @@
 \hbf 1612
 \dt 21/Jun/2012
 
-\lx nɯsuwa
+\lx _nɯsuwa
 \wav vi-nWsuwa
 \ps vi
 \pdl dir 
@@ -65596,7 +65956,7 @@
 \cf suwa
 \dt 26/Aug/2012
 
-\lx nɯsɯkho
+\lx _nɯsɯkho
 \wav vt-nWsWkho
 \ps vt
 \pdl dir 
@@ -65629,7 +65989,7 @@
 \gn 致使……抢东西
 \dt 26/Aug/2015
 
-\lx nɯsɯku
+\lx _nɯsɯku
 \wav vi-nWsWku
 \ps vi
 \ng denom
@@ -65646,7 +66006,7 @@
 \cf sɯku
 \dt 17/Jul/2016
 
-\lx nɯsɯmŋɤn
+\lx _nɯsɯmŋɤn
 \wav vt-nWsWmNAn
 \ps vt
 \pdl dir 
@@ -65664,7 +66024,7 @@
 \xv sɯmŋɤn
 \dt 20/Aug/2012
 
-\lx nɯsɯmʁɲiz
+\lx _nɯsɯmʁɲiz
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -65674,7 +66034,7 @@
 \xv nɤʑo ɲɯ-tɯ-nɯsɯmʁɲiz netɕi
 \xn 你还在犹豫啊
 
-\lx nɯsɯmɯzdɯɣ
+\lx _nɯsɯmɯzdɯɣ
 \wav vi-nWsWmWzdWG
 \ps vi
 \ng denom
@@ -65699,8 +66059,8 @@
 \cf sɯmɯzdɯɣ
 \dt 25/Jan/2015
 
-\lx nɯsɯŋgɯ
-\wav8 8_nWsWNgW
+\lx _nɯsɯŋgɯ
+\wav8 nWsWNgW
 \ps vi
 \ge aller dans la forêt
 \gn 在森林里逛；打猎
@@ -65713,7 +66073,7 @@
 \cf sɯŋgɯ
 \dt 09/May/2013
 
-\lx nɯsɯɴɢoʁ
+\lx _nɯsɯɴɢoʁ
 \wav vi-nWsWNGoR
 \ps vi
 \pdl dir 
@@ -65731,8 +66091,22 @@
 \cf taɴɢoʁ
 \dt 15/Jul/2016
 
-\lx nɯsɯrtoʁ
-\wav8 8_nWsWrtoR
+\lx _nɯsɯqaʁ
+\wav8 tAnWsWqaRa
+\wav8 tonWsWqaR
+\ps vt
+\pdl dir
+\pdv tɤ-
+\ge délimiter un endroit à construire 
+\gn 划定，定下（将来修房子、种田的地方）
+\xv kha ɯ-sta tɤ-nɯsɯqaʁ-a
+\xn 我选定了修房子的地皮
+\xv ɯʑo ɯ-ji to-nɯsɯqaʁ
+\xn 他划定了田界
+\dt 15/May/2017
+
+\lx _nɯsɯrtoʁ
+\wav8 nWsWrtoR
 \ps vt
 \ge s'apercevoir
 \gn 发觉，看得出
@@ -65748,7 +66122,7 @@
 \cf rtoʁ
 \dt 26/Aug/2012
 
-\lx nɯsɯzʁe
+\lx _nɯsɯzʁe
 \ps vi
 \ng incorp
 \pdl dir 
@@ -65760,7 +66134,7 @@
 \cf sɯzʁe
 \dt 06/Sep/2015
 
-\lx nɯt
+\lx _nɯt
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -65773,11 +66147,11 @@
 \xn 柴火燃起来了
 \dt 12/Jul/2016
 
-\lx nɯta
+\lx _nɯta
 \cf ta
 \dt 19/Aug/2015
 
-\lx nɯtal
+\lx _nɯtal
 \ps vi
 \pdl dir
 \pdv tɤ-
@@ -65786,7 +66160,7 @@
 \cf tal
 \dt 15/Jul/2016
 
-\lx nɯtɤpɤtso
+\lx _nɯtɤpɤtso
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -65797,7 +66171,7 @@
 \cf tɤ-pɤtso
 \dt 11/May/2014
 
-\lx nɯtɤraʁ
+\lx _nɯtɤraʁ
 \wav vt-nWtAraR
 \ng denom
 \ps vt
@@ -65811,7 +66185,7 @@
 \sy nɯsɤraʁ
 \dt 22/Mar/2011
 
-\lx nɯtɕarloŋ
+\lx _nɯtɕarloŋ
 \ps vi
 \pdl dir
 \pdv pɯ-
@@ -65827,7 +66201,7 @@
 \xn 我喝了过浓的茶就醉茶了
 \dt 20/Aug/2015
 
-\lx nɯtɕaχpa
+\lx _nɯtɕaχpa
 \wav vt-nWtCaRpa
 \ps vt
 \ng denom
@@ -65844,7 +66218,7 @@
 
 \dt 11/Aug/2014
 
-\lx nɯtɕɤmɯ
+\lx _nɯtɕɤmɯ
 \ps vi
 \pdl dir 
 \pdv lɤ-
@@ -65855,7 +66229,7 @@
 \cf rɯtɕɤmɯ
 \dt 30/Aug/2012
 
-\lx nɯtɕɣom
+\lx _nɯtɕɣom
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -65867,7 +66241,7 @@
 \cf tɕɣom
 \dt 28/Aug/2012
 
-\lx nɯtɕhaʁ
+\lx _nɯtɕhaʁ
 \wav vi-nWtChaR
 \ps vi
 \pdl dir 
@@ -65879,7 +66253,7 @@
 \cf ɯ-tɕhaʁ1
 \dt 31/Aug/2015
 
-\lx nɯtɕhɤjlɯz
+\lx _nɯtɕhɤjlɯz
 \ps vi
 \ge observer une coutume
 \gn 遵循某种风俗
@@ -65888,7 +66262,7 @@
 \cf tɕhɤjlɯz
 \dt 22/Aug/2015
 
-\lx nɯtɕhɤjʁo
+\lx _nɯtɕhɤjʁo
 \ps vs
 \ge être en état d'ébriété
 \gn 发酒疯
@@ -65897,7 +66271,7 @@
 \cf tɕhɤjʁo
 \dt 02/Jul/2014
 
-\lx nɯtɕhɤl
+\lx _nɯtɕhɤl
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -65920,7 +66294,7 @@
 \cf ɯ-tɕhɤl
 \dt 17/May/2014
 
-\lx nɯtɕhomba
+\lx _nɯtɕhomba
 \pdl dir 
 \pdv tɤ-
 \ps vi
@@ -65931,11 +66305,11 @@
 \xn 你给我打电话的时候，我在感冒
 \dt 24/Aug/2012
 
-\lx nɯtɕhʁɯβ
+\lx _nɯtɕhʁɯβ
 \cf tɕhʁɯβnɤtɕhʁɯβ
 \dt 06/May/2014
 
-\lx nɯtɕhɯrɟɯɣ
+\lx _nɯtɕhɯrɟɯɣ
 \ps vi
 \ge où l'eau coule vite
 \gn 水流得很急（地方）
@@ -65943,7 +66317,7 @@
 \xn 如果有斜坡的话水流得很急
 \dt 21/May/2014
 
-\lx nɯtɕhɯtɕɯnpaχɕi
+\lx _nɯtɕhɯtɕɯnpaχɕi
 \ps vi
 \pdl dir
 \pdv nɯ-
@@ -65951,7 +66325,7 @@
 \gn 采梨子
 \dt 24/Aug/2015
 
-\lx nɯtɕhɯtɯɣ
+\lx _nɯtɕhɯtɯɣ
 \wav vi-nWtChWtWG
 \ps vi
 \ng denom
@@ -65967,7 +66341,7 @@
 \cf nɯrtsɤtɯɣ
 \dt 22/Mar/2011
 
-\lx nɯtɕhɯwɯt
+\lx _nɯtɕhɯwɯt
 \wav vt-nWtChWwWt
 \ps vt
 \ng denom
@@ -65979,11 +66353,11 @@
 \xn 他烫了猪皮
 \dt 07/Sep/2015
 
-\lx nɯtɕʁɯβ
+\lx _nɯtɕʁɯβ
 \cf tɕʁɯβnɤtɕʁɯβ
 \dt 06/May/2014
 
-\lx nɯthaj
+\lx _nɯthaj
 \wav vt-nWthAj
 \ps vt
 \pdl dir 
@@ -65996,7 +66370,7 @@
 \xn 我们俩把木料抬起来了
 \dt 18/Apr/2013
 
-\lx nɯthɤstɯɣ
+\lx _nɯthɤstɯɣ
 \wav vi-nWthAstWG
 \ps vi
 \ng denom
@@ -66012,7 +66386,7 @@
 \cf thɤstɯɣ
 \dt 22/Mar/2011
 
-\lx nɯthɣe
+\lx _nɯthɣe
 \ps vi
 \pdl dir 
 \pdv _
@@ -66022,8 +66396,8 @@
 \cf thɣe
 \dt 20/May/2013
 
-\lx nɯthɯ
-\wav8 8_nWthW
+\lx _nɯthɯ
+\wav8 nWthW
 \ps vt
 \pdl dir 
 \pdv kɤ-
@@ -66034,7 +66408,7 @@
 \cf tɯthɯ
 \dt 17/May/2014
 
-\lx nɯtsa
+\lx _nɯtsa
 \ps vs
 \pdl dir
 \pdv tɤ-
@@ -66050,7 +66424,7 @@
 \cf nɤtsa
 \dt 02/Sep/2015
 
-\lx nɯtshɤβ
+\lx _nɯtshɤβ
 \ps vt
 \sn 1
 \pdl dir 
@@ -66072,7 +66446,7 @@
 \xn 我们一起吃了这一碗
 \dt 19/Oct/2012
 
-\lx nɯtshɤdɯɣ
+\lx _nɯtshɤdɯɣ
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -66084,7 +66458,7 @@
 \cf ɣɯtshɤdɯɣ
 \dt 15/Jul/2016
 
-\lx nɯtshɤtʂot
+\lx _nɯtshɤtʂot
 \wav vi-nWtshAtsxot
 \ps vi
 \pdl dir 
@@ -66103,10 +66477,10 @@
 \cf tshɤtʂot
 \dt 05/Aug/2014
 
-\lx nɯtsɯm
+\lx _nɯtsɯm
 \cf tsɯm
 
-\lx nɯtsɯʁot
+\lx _nɯtsɯʁot
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -66117,8 +66491,8 @@
 \cf tsɯʁot
 \dt 02/Jul/2014
 
-\lx nɯtʂawku
-\wav8 8_tutWZGAnWtsxawku
+\lx _nɯtʂawku
+\wav8 tutWZGAnWtsxawku
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -66133,9 +66507,9 @@
 \xn 你都不会照顾自己
 \dt 12/Mar/2014
 
-\lx nɯtʂɤqɤsti
+\lx _nɯtʂɤqɤsti
 \wav vt-nWtsxAqAsti
-\wav8 8_nWtsxAqAsti
+\wav8 nWtsxAqAsti
 \ng incorp
 \ps vt
 \pdl dir 
@@ -66148,7 +66522,7 @@
 \cf tʂu
 \dt 10/Nov/2011
 
-\lx nɯtʂha
+\lx _nɯtʂha
 \wav vi-nWtsxha
 \ng denom
 \ps vi
@@ -66162,7 +66536,7 @@
 \cf tʂha
 \dt 09/Jun/2013
 
-\lx nɯtʂhɤɣndʑɤr
+\lx _nɯtʂhɤɣndʑɤr
 \wav vi-nWtsxhAGndZAr
 \ng denom
 \ps vi
@@ -66176,7 +66550,7 @@
 \cf tɯ-ɣndʑɤr
 \dt 05/Apr/2011
 
-\lx nɯtʂhɤlu
+\lx _nɯtʂhɤlu
 \wav vt-nWtsxhAlu
 \ps vt
 \ng denom
@@ -66186,7 +66560,7 @@
 \xn 他们把牛奶带下来了，我们就倒在茶里喝了
 \dt 20/May/2013
 
-\lx nɯtʂu
+\lx _nɯtʂu
 \hm 1
 \wav vi-nWtsxu1
 \ps vi
@@ -66199,7 +66573,7 @@
 \cf tʂu
 \dt 22/Mar/2011
 
-\lx nɯtʂu
+\lx _nɯtʂu
 \hm 2
 \wav vt-nWtsxu
 \ps vt
@@ -66214,7 +66588,7 @@
 \cf tʂu
 \dt 25/Dec/2012
 
-\lx nɯtɯcizʁe
+\lx _nɯtɯcizʁe
 \ps vi
 \ng incorp
 \ge transporter de l'eau
@@ -66226,7 +66600,7 @@
 \cf nɯzʁe
 \dt 06/Sep/2015
 
-\lx nɯtɯfɕɤl
+\lx _nɯtɯfɕɤl
 \wav vi-nWtWfCAl
 \ps vi
 \pdl dir 
@@ -66248,7 +66622,7 @@
 \sy nɯqhoχɕɤr
 \dt 08/Jul/2016
 
-\lx nɯtɯrgi
+\lx _nɯtɯrgi
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -66256,7 +66630,7 @@
 \gn 把杉树枝桠砍回来
 \dt 15/Aug/2012
 
-\lx nɯtɯrgilaŋlaŋ
+\lx _nɯtɯrgilaŋlaŋ
 \ps vi
 \pdl dir 
 \pdv _
@@ -66268,22 +66642,21 @@
 \cf tɯrgilaŋlaŋ
 \dt 20/May/2013
 
-\lx nɯtɯtɕhɯ
+\lx _nɯtɯtɕhɯ
+\ps vt
 \pdl dir
 \pdv tɤ-
-\ps vt
-\ng denom
-\ge assassiner
+\ge poignarder
 \gn 刺杀
-\cf tɯtɕhɯ
+\xv tshjencɯ kɯ to-znɯtɯtɕhɯ tɕe pjɤ-sat
+\xn 用短刀把他刺杀了
+\cf tɕhɯ
 \se sɤnɯtɯtɕhɯ
 \ps vi
-\ng apass
-\ge assassiner les gens
-\gn 刺杀人
-\dt 07/Jul/2016
+\ng antipass
+\dt 08/Dec/2017
 
-\lx nɯtɯtso
+\lx _nɯtɯtso
 \ps vt
 \pdl dir
 \pdv pɯ-
@@ -66294,11 +66667,11 @@
 \cf tso
 \dt 24/Aug/2015
 
-\lx nɯtɯtʂaŋ
+\lx _nɯtɯtʂaŋ
 \cf tʂaŋ
 \dt 10/Dec/2014
 
-\lx nɯxso
+\lx _nɯxso
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -66309,7 +66682,7 @@
 \cf so
 \dt 29/Aug/2012
 
-\lx nɯxsɯ
+\lx _nɯxsɯ
 \wav vi-nwxsw
 \wav vi-nWxsW-02
 \ps vi
@@ -66337,9 +66710,9 @@
 \xn 你的东西露出来，消息不要丢掉
 \dt 25/Apr/2014
 
-\lx nɯxtɕhɤz
+\lx _nɯxtɕhɤz
 \wav vi-nWxtChAz
-\wav8 8_nWxtChAz
+\wav8 nWxtChAz
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -66365,7 +66738,7 @@
 \xn 他不习惯说谎
 \dt 15/Jul/2016
 
-\lx nɯχɤnloʁ
+\lx _nɯχɤnloʁ
 \ps vi
 \pdl dir
 \pdv pɯ-
@@ -66375,7 +66748,7 @@
 \xn 上了年纪思维迟钝很不好
 \dt 08/Jul/2016
 
-\lx nɯχpɯn
+\lx _nɯχpɯn
 \ps vi
 \pdl dir 
 \pdv lɤ-
@@ -66386,7 +66759,7 @@
 \cf rɤχpɯn
 \dt 30/Aug/2012
 
-\lx nɯχpɯnbu
+\lx _nɯχpɯnbu
 \ps vi
 \pdl dir
 \pdv lɤ-
@@ -66397,7 +66770,7 @@
 \cf χpɯnbu
 \dt 06/Jul/2016
 
-\lx nɯχsɯmtoʁ
+\lx _nɯχsɯmtoʁ
 \wav vi-nWXsWmtoR
 \ps vi
 \ge vivre 
@@ -66412,7 +66785,7 @@
 \xn 他还活着吗
 \dt 29/Mar/2011
 
-\lx nɯχtɕɤn
+\lx _nɯχtɕɤn
 \ps vs
 \pdl dir
 \pdv kɤ-
@@ -66424,7 +66797,7 @@
 \xv tɯ-ci kɤ-kɯ-nɯχtɕɤn nɯnɯ tɕe tɕe tu-ola ʑo kɯ-fse pjɤ-ɕti tɕe, nɯ pjɯ-tɯ-βde nɯ tɯrme pjɯ-kɯ-si pjɤ-ŋgrɤl
 \xn “恐怖的水”在沸腾一样，（妖）把人一扔进去就必死无疑
 
-\lx nɯχtɕɯrɯ
+\lx _nɯχtɕɯrɯ
 \ps vi
 \pdl dir
 \pdv nɯ-
@@ -66439,7 +66812,7 @@
 \cf χtɕɯrɯ
 \dt 26/Apr/2014
 
-\lx nɯχtɯntʂu
+\lx _nɯχtɯntʂu
 \wav vi-XtWntsxu
 \ps vi
 \pdl dir 
@@ -66456,7 +66829,7 @@
 \xn 我跟别人合得来
 \dt 24/Mar/2011
 
-\lx nɯzarzɯr
+\lx _nɯzarzɯr
 \wav vi-nWzarzWr
 \ps vi
 \pdl dir 
@@ -66471,7 +66844,7 @@
 \xn 绵羊和山羊头晕突然倒下，在羊的耳朵上割一刀，让血流出来就会好。
 \dt 26/Aug/2014
 
-\lx nɯzaχtɤt
+\lx _nɯzaχtɤt
 \ps vi
 \pdl dir
 \pdv thɯ-
@@ -66481,7 +66854,7 @@
 \sy nɯzɤmpo
 \dt 06/Jul/2016
 
-\lx nɯzɤmpo
+\lx _nɯzɤmpo
 \ps vi
 \pdl dir
 \pdv thɯ-
@@ -66492,7 +66865,7 @@
 \cf zɤmpo
 \dt 06/Jul/2016
 
-\lx nɯzɤsna
+\lx _nɯzɤsna
 \wav vt-nWzAsna
 \ps vl
 \ng denom
@@ -66505,7 +66878,7 @@
 \cf zɤsna
 \dt 23/Dec/2014
 
-\lx nɯzdɯɣ
+\lx _nɯzdɯɣ
 \wav vt-nWzdWG
 \ps vt
 \pdl dir 
@@ -66537,7 +66910,7 @@
 \ge causer de l'inquiétude
 \gn 令人担心
 
-\lx nɯzdɯsŋɤl
+\lx _nɯzdɯsŋɤl
 \ps vi
 \pdl dir
 \pdv pɯ-
@@ -66549,7 +66922,7 @@
 \cf tɤzdɯɣ
 \dt 07/Aug/2016
 
-\lx nɯzdɯxpa
+\lx _nɯzdɯxpa
 \a znɯzdɯxpa
 \wav vt-nWzdWGpa
 \ps vt
@@ -66561,11 +66934,11 @@
 \xv nɯ-nɯzdɯxpa-t-a-nɯ
 \xn 我可怜他们
 \xv jiɕqha nɯ ɯ-ŋgu mɯ́j-thon, ɲɯ-nɯzdɯxpe-a
-\xn 他很穷，我觉得很可怜
+\xn 他很穷，我很可怜他
 \cf sɤzdɯxpa
 \dt 13/Jul/2014
 
-\lx nɯzgomdʑo
+\lx _nɯzgomdʑo
 \wav vi-nWzgomdZo
 \ps vi
 \pdl dir 
@@ -66577,8 +66950,8 @@
 \sy nɤmɲole
 \dt 14/May/2012
 
-\lx nɯzgrɯtɕhɯ
-\wav8 8_nWzgrWtChW
+\lx _nɯzgrɯtɕhɯ
+\wav8 nWzgrWtChW
 \ps vt
 \ng incorp
 \pdl dir 
@@ -66590,15 +66963,15 @@
 \cf zgrɯtɕhɯ
 \dt 02/Jan/2015
 
-\lx nɯzɣɯt
+\lx _nɯzɣɯt
 \cf zɣɯt
 \dt 02/Aug/2012
 
-\lx nɯzjaŋ
+\lx _nɯzjaŋ
 \cf ɣɤzjaŋlaŋ
 \dt 13/Nov/2013
 
-\lx nɯzɟɯ
+\lx _nɯzɟɯ
 \wav vi-nWzJW2
 \wav vi-nWzJW
 \ps vi
@@ -66625,7 +66998,7 @@
 \xn 你让我吃亏了
 \dt 07/Feb/2014
 
-\lx nɯzrɯɣru
+\lx _nɯzrɯɣru
 \wav vi-nWzrWGru
 \ps vi
 \ng incorp
@@ -66640,7 +67013,7 @@
 \cf zrɯɣru 
 \dt 10/Nov/2011
 
-\lx nɯzʁe
+\lx _nɯzʁe
 \wav vt-nWzRe
 \ps vt
 \pdl dir 
@@ -66652,7 +67025,7 @@
 \cf nɯsɯzʁe
 \dt 26/Mar/2011
 
-\lx nɯʑɤla
+\lx _nɯʑɤla
 \ps vt 
 \pdl dir 
 \pdv kɤ-
@@ -66662,7 +67035,7 @@
 \xn 我儿子的同学给他传染了虱子
 \sy ɕte
 
-\lx nɯʑɤŋɤn
+\lx _nɯʑɤŋɤn
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -66673,7 +67046,7 @@
 \sy nɯrtɕa
 \dt 24/Aug/2015
 
-\lx nɯʑɤzdaŋ
+\lx _nɯʑɤzdaŋ
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -66691,7 +67064,7 @@
 \sy nɤʑɤmŋɤn
 \dt 17/Jan/2015
 
-\lx nɯʑgrɤɣ
+\lx _nɯʑgrɤɣ
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -66703,11 +67076,11 @@
 \cf ʑgrɤɣʑgrɤɣ
 \dt 12/Mar/2014
 
-\lx nɯʑɣɤβri
+\lx _nɯʑɣɤβri
 \cf βri
 \dt 05/Aug/2012
 
-\lx nɯʑmbɤr
+\lx _nɯʑmbɤr
 \wav vi-nWZmbAr2
 \wav vi-nWZmbAr3
 \ps vi
@@ -66724,7 +67097,7 @@
 \cf ʑmbɤr
 \dt 15/Jul/2016
 
-\lx nɯʑɯβ
+\lx _nɯʑɯβ
 \wav vi-nWZWB
 \ps vi
 \pdl dir 
@@ -66739,7 +67112,7 @@
 \xv ma-tɯ-ɤrju-nɯ tɕe, aj pjɯ-nɯʑɯβ-a
 \xn 你们不要说话，我在睡觉
 \se ɣɤnɯʑɯβ
-\wav8 8_YWGAnWZWB
+\wav8 YWGAnWZWB
 \ps vs
 \ge qui arrive facilement à s'endormir
 \gn 容易入眠；容易睡着
@@ -66748,7 +67121,7 @@
 \cf ɯ-ʑɯβ
 \dt 13/Apr/2014
 
-\lx nɯʑɯβri
+\lx _nɯʑɯβri
 \wav vi-nWZWBri3
 \ps vi
 \pdl dir 
@@ -66765,7 +67138,7 @@
 \cf ri
 \dt 15/Jul/2016
 
-\lx ɲaʁ
+\lx _ɲaʁ
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -66775,7 +67148,7 @@
 \cf sɯɣɲaʁ
 \dt 15/Oct/2011
 
-\lx ɲat
+\lx _ɲat
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -66795,8 +67168,8 @@
 \cf sɤɣɲat
 \dt 25/Aug/2012
 
-\lx ɲcɤr
-\wav8 8_YcAr
+\lx _ɲcɤr
+\wav8 YcAr
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -66813,10 +67186,10 @@
 \xn 人不听话要压一下，使他温顺
 \dt 04/Aug/2012
 
-\lx ɲchoʁ
+\lx _ɲchoʁ
 \wav def-YchoR
 \wav vi-YchoR
-\wav8 8_axtu_YAYchoR
+\wav8 axtu_YAYchoR
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -66836,7 +67209,7 @@
 \sy xɕɯβ
 \dt 30/Mar/2015
 
-\lx ɲɟa
+\lx _ɲɟa
 \wav vi-YJa
 \ps vs
 \pdl dir 
@@ -66849,7 +67222,7 @@
 \xn 牲畜老得不行了
 \dt 09/Jan/2014
 
-\lx ɲɟɤβ
+\lx _ɲɟɤβ
 \wav vi-YJAB
 \ps vi
 \ng acaus
@@ -66877,7 +67250,7 @@
 \cf chɤβ
 \dt 27/Aug/2015
 
-\lx ɲɟɤt
+\lx _ɲɟɤt
 \wav vi-YJAt
 \ps vi
 \pdl dir 
@@ -66896,7 +67269,7 @@
 \xn 我后悔刚才讲的话
 \dt 11/Mar/2014
 
-\lx ɲɟo
+\lx _ɲɟo
 \wav vi-YJo
 \wav vi-YJo2
 \wav vi-YJo3
@@ -66937,7 +67310,7 @@
 \xn 我弄坏了
 \dt 23/Feb/2014
 
-\lx ɲɟoʁ
+\lx _ɲɟoʁ
 \wav vt-YJoR
 \ps vt 
 \pdl dir 
@@ -66961,19 +67334,19 @@
 \ge être collé
 \gn 贴着 
 \se ʑɣɤsɤɲɟoʁ
-\wav8 8_kAZGAsAYJoRa
+\wav8 kAZGAsAYJoRa
 \ps vi
 \ng refl
 \ng caus
-\pdl dir
 \pdv kɤ-
+\pdl dir 
 \ge se coller sur
 \gn 把（自己的）身体贴在
 \xv kɤ-anbaʁ-a tɕe znde ɯ-taʁ kɤ-ʑɣɤsɤɲɟoʁ-a
 \xn 我躲起来的时候把身体贴在墙上了
 \dt 29/Dec/2014
 
-\lx ɲɟɯ
+\lx _ɲɟɯ
 \wav vi-YJW
 \wav vi-YJW2
 \ps vi
@@ -66996,7 +67369,7 @@
 \cf ɯ-ɣɲɟɯ
 \dt 02/Jun/2013
 
-\lx ɲɟɯɣ
+\lx _ɲɟɯɣ
 \wav vi-YJWG
 \wav vi-YJWG-ndZWG
 \ps vi
@@ -67011,7 +67384,7 @@
 \sy amɯmi
 \dt 14/Jul/2016
 
-\lx ɲɟɯr
+\lx _ɲɟɯr
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -67025,7 +67398,7 @@
 \xn 你在这里待久了，你的语言就变了
 \dt 24/Aug/2012
 
-\lx ɲɟɯrmbloʁ
+\lx _ɲɟɯrmbloʁ
 \a nɤɲɟɯrmbloʁ
 \pdl dir
 \pdv tɤ-
@@ -67040,7 +67413,7 @@
 \cf ɲɟɯr
 \dt 13/Jul/2016
 
-\lx ɲo
+\lx _ɲo
 \wav vi-Yo
 \ps vs
 \pdl dir 
@@ -67069,7 +67442,7 @@
 \xn 他们觉得我一定会赢
 \dt 01/Sep/2015
 
-\lx ɲur
+\lx _ɲur
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -67078,7 +67451,7 @@
 \hbf 1486
 \dt 01/Feb/2013
 
-\lx ŋa
+\lx _ŋa
 \wav vt-Na
 \ps vt
 \pdl dir 
@@ -67098,7 +67471,7 @@
 \cf tɯ-nŋa
 \dt 04/Aug/2012
 
-\lx ŋɤn
+\lx _ŋɤn
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -67111,7 +67484,7 @@
 \hbf 1053 
 \et ŋan
 \se ɣɤŋɤn
-\wav8 8_GANAn
+\wav8 GANAn
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -67120,7 +67493,7 @@
 \ev tɯ-sɯm ɣɯ-ɣɤŋɤn mɤ-βdi ma tɯʑo tɯ-mɤ-kɯ-pe tú-wɣ-nɯ-βzu ɕti kɤ-ti ɲɯ-ŋu
 \dt 08/Sep/2015
 
-\lx ŋga
+\lx _ŋga
 \wav vt-Nga2
 \ps vt
 \pdl dir 
@@ -67134,7 +67507,7 @@
 \xv tɯ-ŋga pɯ-ŋga-t-a 
 \xn （睡觉的时候）我把衣服盖在身上了
 \se nɯɣɯŋga
-\wav8 8_nWGWNga
+\wav8 nWGWNga
 \ps vs
 \ng facil
 \ge facile, agréable à mettre (habit)
@@ -67154,7 +67527,7 @@
 \cf ʑŋga
 \dt 06/Sep/2015
 
-\lx ŋgɤɣ
+\lx _ŋgɤɣ
 \wav vi-kAG
 \ps vi.nh
 \ng acaus
@@ -67172,7 +67545,7 @@
 \cf kɤɣ
 \dt 02/Jun/2013
 
-\lx ŋgɤr
+\lx _ŋgɤr
 \wav vi-NgAr-b
 \ps vs
 \pdl dir 
@@ -67198,7 +67571,7 @@
 \gn 觉得狭窄
 \dt 16/Oct/2011
 
-\lx ŋgio
+\lx _ŋgio
 \wav vi-Ngio2
 \ps vi
 \ng acaus
@@ -67224,7 +67597,7 @@
 \sy aʁdɤt
 \dt 16/Jul/2016
 
-\lx ŋgo
+\lx _ŋgo
 \ps vi
 \pdl dir
 \pdv tɤ-
@@ -67238,7 +67611,7 @@
 \xn 我把馍馍烤熟了
 \dt 12/May/2014
 
-\lx ŋgra
+\lx _ŋgra
 \wav vi-Ngra2
 \ps vi
 \ng acaus
@@ -67262,7 +67635,7 @@
 \cf kra
 \dt 03/Sep/2015
 
-\lx ŋgrɤl
+\lx _ŋgrɤl
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -67281,7 +67654,7 @@
 \xn 我以前用水力推磨，现在改用机器磨面
 \dt 03/Sep/2015
 
-\lx ŋgri
+\lx _ŋgri
 \wav vi-Ngri
 \ps vs
 \pdl dir 
@@ -67294,7 +67667,7 @@
 \an ndzɤβ
 \dt 17/Apr/2013
 
-\lx ŋgro
+\lx _ŋgro
 \wav vi-Ngro
 \ps vs
 \pdl dir 
@@ -67306,7 +67679,7 @@
 \sy ɣɤʁre
 \dt 16/Jul/2016
 
-\lx ŋgrɯ
+\lx _ŋgrɯ
 \wav vi-NgrW3
 \ps vi
 \pdl dir 
@@ -67331,7 +67704,7 @@
 \cf sɯŋgrɯ
 \dt 22/Aug/2015
 
-\lx ŋgɯ
+\lx _ŋgɯ
 \wav vi-NgW
 \ps vs
 \pdl dir 
@@ -67343,7 +67716,7 @@
 \xn 他是个穷人
 \dt 03/Dec/2012
 
-\lx ŋkɤɲɟo
+\lx _ŋkɤɲɟo
 \ps vi
 \pdl dir
 \pdv pɯ-
@@ -67352,10 +67725,10 @@
 \xv ɯʑo pɯ-ŋkɤɲɟo
 \xn 他路过（这里）
 
-\lx ŋke
+\lx _ŋke
 \wav vi-Nke
 \wav vi-Nke2.wav
-\wav8 8_tuCWNke-a
+\wav8 tuCWNke-a
 \ps vi
 \pdl dir 
 \pdv _
@@ -67394,7 +67767,7 @@
 \cf nɯŋke
 \dt 31/Aug/2015
 
-\lx ŋkhor
+\lx _ŋkhor
 \wav vi-Nkhor
 \ps vi
 \pdl dir 
@@ -67406,7 +67779,7 @@
 \xn 这几天这条狗开始接近我了
 \dt 16/Jul/2016
 
-\lx ŋkhrɯl
+\lx _ŋkhrɯl
 \ps vi
 \pdl dir
 \pdv tɤ-
@@ -67424,7 +67797,7 @@
 \xn 他开始动摇了
 \dt 15/Jul/2016
 
-\lx ŋu
+\lx _ŋu
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -67443,7 +67816,7 @@
 \ge en réalité
 \gn 实际上
 
-\lx ɴɢaʁ
+\lx _ɴɢaʁ
 \wav vi-NGaR
 \ps vi
 \ng acaus
@@ -67461,7 +67834,7 @@
 \cf qaʁ1
 \dt 13/Dec/2010
 
-\lx ɴɢɤt
+\lx _ɴɢɤt
 \wav vi-nWNGAt
 \ps vi
 \pdl dir 
@@ -67480,7 +67853,7 @@
 \cf znɯɴɢɤt
 \dt 21/Feb/2011
 
-\lx ɴɢia
+\lx _ɴɢia
 \ps vi
 \ng acaus
 \ge se détacher, se dérouler (fil)
@@ -67494,7 +67867,7 @@
 \cf qia
 \dt 21/Jul/2016
 
-\lx ɴɢiɤt
+\lx _ɴɢiɤt
 \wav vi-NGiAt
 \ps vs
 \pdl dir
@@ -67517,7 +67890,7 @@
 \xn 你要专心地做这个工作，如果你不重视它的话，它也会不重视你（工作就做不出来）
 \dt 15/Jul/2016
 
-\lx ɴɢlɯt
+\lx _ɴɢlɯt
 \wav vi-NGlWt
 \wav vi-NglWt2
 \ps vi
@@ -67552,7 +67925,7 @@
 \cf qlɯt
 \dt 09/Jan/2014
 
-\lx ɴɢraʁ
+\lx _ɴɢraʁ
 \wav vi-NGraR
 \ps vi
 \ng acaus
@@ -67589,9 +67962,9 @@
 \ps vi
 \dt 13/Feb/2014
 
-\lx ɴɢrɤz
+\lx _ɴɢrɤz
 \wav vi-NgrAz2
-\wav8 8_NGrAz
+\wav8 NGrAz
 \ps vi
 \ng acaus
 \pdl dir 
@@ -67605,11 +67978,11 @@
 \cf qrɤz
 \dt 16/Jul/2016
 
-\lx ɴɢrɯ
+\lx _ɴɢrɯ
 \wav vi-NGrW
-\wav8 8_NgrW
-\wav8 8_CWNgrW
-\wav8 8_GANGrW
+\wav8 NgrW
+\wav8 CWNgrW
+\wav8 GANGrW
 \ps vi
 \ng acaus
 \pdl dir 
@@ -67635,8 +68008,8 @@
 \cf qrɯ
 \dt 22/Nov/2012
 
-\lx ɴɢu
-\wav8 8_GANGu
+\lx _ɴɢu
+\wav8 GANGu
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -67662,7 +68035,7 @@
 \xn 那个结太紧了，他把它松了一下
 \dt 07/Jan/2014
 
-\lx ɴɢule
+\lx _ɴɢule
 \wav vi-NGule
 \ps vs
 \pdl dir 
@@ -67677,7 +68050,7 @@
 \cf ɴɢu
 \dt 23/Oct/2011
 
-\lx ɴqa
+\lx _ɴqa
 \wav vi-Nqa
 \ps vs
 \pdl dir 
@@ -67703,11 +68076,11 @@
 \cf nɤɴqa
 \dt 19/May/2014
 
-\lx ɴqhi
+\lx _ɴqhi
 \wav vi-nqhi
 \wav vi-Nqhi2
-\wav8 8_nAnqhi
-\wav8 8_sWNqhi
+\wav8 nAnqhi
+\wav8 sWNqhi
 \ps vs
 \pdl dir 
 \pdv kɤ-
@@ -67743,7 +68116,7 @@
 \xn 牛奶会弄脏容器
 \dt 09/Jan/2014
 
-\lx ɴqoʁ
+\lx _ɴqoʁ
 \wav vi-nqoR
 \ps vi
 \pdl dir 
@@ -67765,7 +68138,7 @@
 \cf ʑɴɢoʁ
 \dt 15/Aug/2013
 
-\lx pa
+\lx _pa
 \hm 1
 \wav vt-pa
 \wav vt-pa2
@@ -67775,11 +68148,11 @@
 \pdv tɤ-
 \ge faire
 \gn 办
-\xv tɕhi tu-pe-a?
-\xn 我怎么办？
+\xv tɕhi tu-pe-a ɲɯ-ra?
+\xn 我应该怎么办？
 \xv aʑo akɯ ɕe-a, nɤʑo tɕhi tɯ-pe
 \xn 我往东边去，你呢？
-\xv tɕhi tú-wɣ-pa ?
+\xv tɕhi tú-wɣ-pa?
 \xn 怎么办？
 \xv kutɕu tɕhi ɯ-kɯ-pa jɤ-tɯ-ɣe?
 \xn 你来这里做什么？
@@ -67804,7 +68177,6 @@
 \cf apa
 \cf sɤpa
 \hbf 1356
-\ps vt
 \se nɯpa
 \ps vt
 \pdl dir
@@ -67846,20 +68218,26 @@
 \lv pa
 \dt 08/Sep/2015
 
-\lx pa
+\lx _pa
 \hm 2
 \ps vs
 \pdl dir 
 \pdv tɤ-
+\sn 1
 \ge auxiliaire employé avec les idéophones
 \gn 助动词（和状貌词连用） 
 \xv ko-nɯ-rŋgɯ tɕe, ɯ-sɤ-rŋgɯ-ŋga loŋloŋ ʑo ɲɯ-pa 
 \xn 他睡着了以后，床上是拱起来的
+\sn 2
+\ge se passer X années
+\gn 过……年
+\xv tɕiʑo ni kɤ-amɯfse-tɕi nɯ jinde kɯβdɤsqi ɯ-ro to-pa
+\xn 我们俩认识已经四十多年了
 \dt 09/Jun/2013
 
-\lx pɕiz
+\lx _pɕiz
 \wav vt-pCiz
-\wav8 8_mWjpCiz
+\wav8 mWjpCiz
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -67881,33 +68259,33 @@
 \xn 我的手用这个擦不到
 \dt 13/Jan/2015
 
-\lx pe
-\wav8 8_makWpe
-\wav8 8_YWpenW
-\wav8 8_mAkWpekWme
+\lx _pe
+\wav8 makWpe
+\wav8 YWpenW
+\wav8 mAkWpekWme
 \ps vs
 \pdl dir 
 \pdv tɤ-
 \sn 1
 \ge bien 
 \gn 好 
-\sn 2
-\ge bon 
-\gn 善良 
-\hbf 1052
 \xv nɯ ɲɯ-pe mɤ-kɯ-pe maŋe
 \xn 那很好，没有错误
 \xv nɤʑɯɣ nɤ-kha ra ɯ-ɲɯ-pe-nɯ?
 \xn 你家的人好不好？
 \xv nɯ kɯ-fse kɯ-pe me
 \xn 那是最好的了，没有比这个好的
-\un |fv{mɤ-kɯ-pe kɯ-me ʑo}表示“没有什么原因就……”的意思
-\xv tɤ-pɤtso pɯ-ŋke ri mɤ-kɯ-pe kɯ-me ʑo pɯ-ndʐaβ
-\xn 小孩子走路的时候，没有什么原因就摔倒了
 \xv mɯ-tu-tɯ-pe mɤ-βdi ma tɯ-kɤ-stu pjɯ-tu ra
 \xn 如果你哪一天遇到不幸的事情，就要有解决的办法
 \xv nɯ ɕɯŋgɯ aʑo mɯ-tɤ-pe-a zɯ, ɯʑo wuma ʑo pɯ-stu
 \xn 以前我遇到问题的时候，他帮了我很多
+\sn 2
+\ge bon 
+\gn 善良 
+\hbf 1052
+\un |fv{mɤ-kɯ-pe kɯ-me ʑo}表示“没有什么原因就……”的意思
+\xv tɤ-pɤtso pɯ-ŋke ri mɤ-kɯ-pe kɯ-me ʑo pɯ-ndʐaβ
+\xn 小孩子走路的时候，没有什么原因就摔倒了
 \an ŋɤn
 \se nɤpe
 \ps vt
@@ -67925,7 +68303,7 @@
 \gn 做得更好
 \dt 31/Aug/2015
 
-\lx pɣaʁ
+\lx _pɣaʁ
 \wav vt-pGaR
 \wav vt-pGaR2
 \wav vt-nWpGaR
@@ -67965,7 +68343,7 @@
 \ge défricher
 \gn 开荒
 \se ʑɣɤpɣaʁ
-\wav8 8_ZGApGaR
+\wav8 ZGApGaR
 \ps vi
 \ng refl
 \pdl dir 
@@ -67980,7 +68358,7 @@
 \cf apɣaʁsci
 \dt 30/Aug/2015
 
-\lx pɣi
+\lx _pɣi
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -67988,9 +68366,9 @@
 \gn 灰 
 \hbf 1011
 
-\lx pɣo
+\lx _pɣo
 \wav vt-pGo
-\wav8 8_lapGota
+\wav8 lapGota
 \ps vt
 \pdl dir 
 \pdv lɤ-
@@ -68008,7 +68386,7 @@
 \gn 容易捻
 \dt 11/Nov/2013
 
-\lx phaloŋri
+\lx _phaloŋri
 \ps adv
 \ge pleins d'endroits (dans la montagne)
 \gn 很多地方（山川）
@@ -68016,7 +68394,7 @@
 \xn 他走遍了所有的山川
 \dt 02/Aug/2012
 
-\lx phaʁ
+\lx _phaʁ
 \wav vt-phaR
 \ps vt
 \pdl dir 
@@ -68043,10 +68421,10 @@
 \cf mbaʁ
 \dt 04/Aug/2012
 
-\lx phɤβ
+\lx _phɤβ
 \hm 1
 \wav vt-phAB
-\wav8 8_phAB
+\wav8 phAB
 \ps vt
 \sn 1
 \pdl dir 
@@ -68081,7 +68459,7 @@
 \xn 我们给刚出窑的坛子上了一层油
 \dt 16/Jul/2016
 
-\lx phɤn
+\lx _phɤn
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -68098,7 +68476,7 @@
 \xn 只有努力才有可能学会
 \dt 31/Aug/2015
 
-\lx phɤr
+\lx _phɤr
 \wav vt-phAr2
 \ps vt
 \pdl dir 
@@ -68117,9 +68495,9 @@
 \cf mbɤr2
 \dt 29/Aug/2011
 
-\lx phɣo
+\lx _phɣo
 \wav vi-phGo2
-\wav8 8_sWphGo
+\wav8 sWphGo
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -68141,7 +68519,7 @@
 \cf ɕphɣo
 \dt 15/Oct/2014
 
-\lx phoʁ
+\lx _phoʁ
 \wav vt-phoR
 \ps vt
 \pdl dir 
@@ -68158,7 +68536,7 @@
 \cf ci
 \dt 09/Jul/2016
 
-\lx phot
+\lx _phot
 \wav vi-phot
 \ps vi
 \pdl dir 
@@ -68181,7 +68559,7 @@
 \xn 他什么都敢做
 \dt 03/Apr/2011
 
-\lx phrɤl
+\lx _phrɤl
 \wav vt-phrAl
 \ps vt
 \pdl dir 
@@ -68196,7 +68574,7 @@
 \xn 有些母亲对孩子说“你顶嘴”，而孩子回答：“我不是顶嘴，是在解释”
 \dt 09/Jun/2013
 
-\lx phu
+\lx _phu
 \ps vs
 \ge fier 
 \gn 有自信
@@ -68204,7 +68582,7 @@
 \xn 他很有自信
 \dt 18/May/2014
 
-\lx phɯɣ
+\lx _phɯɣ
 \wav vt-phWG
 \ps vt
 \pdl dir 
@@ -68218,7 +68596,7 @@
 \xn 你把帐篷撑开吧
 \dt 22/Apr/2013
 
-\lx phɯl
+\lx _phɯl
 \wav vt-phWl
 \ps vt
 \pdl dir 
@@ -68233,7 +68611,7 @@
 \xn 我给他献了粮食
 \dt 03/Aug/2014
 
-\lx phɯt
+\lx _phɯt
 \wav vt-phWt
 \ps vt
 \sn 1
@@ -68271,6 +68649,14 @@
 \gn 拆
 \xv znde pɯ-phɯt-a
 \xn 我拆了墙
+\sn 5
+\wav8 kaphWt
+\pdl dir 
+\pdv kɤ-
+\ge récolter
+\gn 收割
+\xv tɤ-rɤku ka-phɯt
+\xn 他收割了庄稼
 \cf ɣɯsɯphɯt
 \se nɯɣɯphɯt
 \ps vs
@@ -68278,8 +68664,8 @@
 \ge être facile à cueillir
 \gn 容易摘
 \se sphɯt
-\wav8 8_sphWt
-\wav8 8_mWjsphWt
+\wav8 sphWt
+\wav8 mWjsphWt
 \ps vt
 \ng habil
 \ge pouvoir couper
@@ -68293,9 +68679,9 @@
 \ps vs
 \ge que l'on peut casser (avec les dents)
 \gn 吃得动
-\dt 15/Jan/2015
+\dt 15/May/2017
 
-\lx pjɤl
+\lx _pjɤl
 \wav vt-pjAl2
 \ps vt
 \sn 1
@@ -68318,7 +68704,7 @@
 \et bʲol
 \dt 18/Aug/2015
 
-\lx pjɤt
+\lx _pjɤt
 \wav vt-pjAt
 \ps vt
 \pdl dir 
@@ -68338,7 +68724,7 @@
 \gn 装满（肠子、肺）
 \dt 20/Aug/2012
 
-\lx plɯt
+\lx _plɯt
 \wav vt-plWt
 \ps vt
 \pdl dir 
@@ -68357,7 +68743,7 @@
 \cf mblɯt
 \dt 31/Aug/2015
 
-\lx prɤdɤja,ta
+\lx _prɤdɤja,ta
 \sn 1
 \ge griffer partout
 \gn 到处乱抓
@@ -68372,11 +68758,12 @@
 \lf Component 2
 \lv ta
 \ps vt
+\cf pri1
 \dt 22/Jul/2014
 
-\lx prɤm
+\lx _prɤm
 \wav vt-prAm
-\wav8 8_prAm
+\wav8 prAm
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -68389,7 +68776,7 @@
 \cf tɤ-prɤm
 \dt 08/Apr/2011
 
-\lx prɤt
+\lx _prɤt
 \wav vt-prAt
 \ps vt
 \pdl dir 
@@ -68422,7 +68809,7 @@
 \gn 断来断去
 \dt 12/Jul/2016
 
-\lx pri
+\lx _pri
 \hm 1
 \wav vt-pri
 \ps vt
@@ -68437,9 +68824,10 @@
 \xv jɯɣi thɯ-pri-t-a
 \xn 我撕了书
 \cf mbri2
+\cf prɤdɤja,ta
 \dt 20/Dec/2013
 
-\lx prɯ
+\lx _prɯ
 \ps vs
 \ge imperméable
 \gn 不进水
@@ -68447,7 +68835,7 @@
 \xn 雨衣可以披在肩上，不容易进水
 \dt 18/Mar/2013
 
-\lx pu
+\lx _pu
 \wav vt-pu
 \wav vt-pu3
 \ps vt
@@ -68468,7 +68856,7 @@
 \cf tɯpu
 \dt 30/May/2013
 
-\lx pɯɣ
+\lx _pɯɣ
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -68479,14 +68867,14 @@
 \xn 煮青稞的时候，煮熟了就发胀，锅里就装不下了
 \dt 31/Aug/2012
 
-\lx pɯz
+\lx _pɯz
 \ps vs
 \pdl dir 
 \pdv tɤ-
 \ge pourri (bois), usé jusqu'à la corde (habits) 
 \gn 朽烂（木头），破烂（衣服）
 
-\lx qajpɣom
+\lx _qajpɣom
 \wav vi-qAjpGom
 \ps vs
 \pdl dir 
@@ -68500,7 +68888,7 @@
 \cf jpɣom
 \dt 11/Nov/2011
 
-\lx qalpɕa
+\lx _qalpɕa
 \wav vi-qalpCa
 \ps vi
 \pdl dir 
@@ -68511,7 +68899,7 @@
 \xn 蕨苔展开了
 \dt 05/Apr/2011
 
-\lx qandʐi
+\lx _qandʐi
 \hm 1
 \wav vi-qandzxi
 \ps vi
@@ -68536,7 +68924,7 @@
 \xn 你撞到脸，就弄紫了
 \dt 07/Apr/2011
 
-\lx qanɯ
+\lx _qanɯ
 \wav vi-qanW
 \ps vs
 \pdl dir 
@@ -68551,7 +68939,7 @@
 \cf sqanɯ
 \dt 20/Dec/2012
 
-\lx qapɯ
+\lx _qapɯ
 \ps vi
 \pdl dir
 \pdv nɯ-
@@ -68567,7 +68955,7 @@
 \gn 让……变成荒地
 \dt 03/Sep/2015
 
-\lx qar
+\lx _qar
 \wav vi-qar
 \ps vs
 \ge tabou
@@ -68578,7 +68966,7 @@
 \xn （在那种地方）砍树是不好的，挖地是不好的。这样会令人得病
 \dt 25/Dec/2012
 
-\lx qarcɯm
+\lx _qarcɯm
 \ps vs
 \pdl dir
 \pdv thɯ-
@@ -68590,7 +68978,7 @@
 \cf sqarcɯm
 \dt 22/Aug/2015
 
-\lx qarndɯm
+\lx _qarndɯm
 \wav vi-qarndWm
 \ps vi
 \pdl dir 
@@ -68607,7 +68995,7 @@
 \an amgri
 \dt 17/Mar/2014
 
-\lx qarŋe
+\lx _qarŋe
 \wav vi-qarNe
 \ps vi
 \pdl dir 
@@ -68623,8 +69011,8 @@
 \xn 黄色的丝缎
 \dt 09/May/2013
 
-\lx qarŋɯrŋe
-\wav8 8_qarNWrNe
+\lx _qarŋɯrŋe
+\wav8 qarNWrNe
 \ps vs
 \ge jaune foncé
 \gn 深黄色 
@@ -68632,7 +69020,7 @@
 \an aqarŋɯrŋe
 \dt 26/Aug/2012
 
-\lx qaʁ
+\lx _qaʁ
 \hm 1
 \wav vt-qaR3
 \wav vt-qaR4
@@ -68672,7 +69060,7 @@
 \cf ɴɢaʁ
 \dt 03/Jan/2014
 
-\lx qawɤr
+\lx _qawɤr
 \a qawɯwɤr
 \wav vi-qawAr
 \ps vi
@@ -68684,7 +69072,7 @@
 \xn 蘑菇展开了
 \dt 22/Apr/2013
 
-\lx qɤr
+\lx _qɤr
 \wav vt-qar
 \wav vt-qar2
 \ps vt
@@ -68694,7 +69082,7 @@
 \pdv nɯ-
 \pdl dir 
 \pdv tɤ-
-\ge choisir 
+\ge trier
 \gn 挑选 
 \hbf 1675 
 \xv stoʁrɣi thɯ-qar-a
@@ -68724,9 +69112,9 @@
 \gn 反复挑选
 \xv kɯ-tu nɯ tɤ-ndze ma kɤ-nɤqɤrqɤr ntsɯ me
 \xn 有的那个你就吃吧，不要东选西选了
-\dt 24/Oct/2014
+\dt 22/Jan/2018
 
-\lx qɤt
+\lx _qɤt
 \wav vt-qAt
 \ps vt
 \pdl dir 
@@ -68749,7 +69137,7 @@
 \cf tɤqɤt
 \dt 17/Jan/2015
 
-\lx qha
+\lx _qha
 \wav vt-qha
 \ps vt
 \pdl dir 
@@ -68780,7 +69168,7 @@
 \an nɯrga
 \dt 07/Apr/2011
 
-\lx qhaχɕu
+\lx _qhaχɕu
 \ps n
 \ge vantardise
 \gn 炫耀
@@ -68790,7 +69178,7 @@
 \cf nɯqhaχɕu
 \dt 06/Aug/2014
 
-\lx qhi
+\lx _qhi
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -68803,7 +69191,7 @@
 \ge insolent 
 \gn 放肆
 
-\lx qhrɯt
+\lx _qhrɯt
 \wav vt-qhrWt3
 \wav vt-qhrWt2
 \ps vt
@@ -68835,7 +69223,7 @@
 \gn 做得彻底 
 \dt 06/Nov/2013
 
-\lx qia
+\lx _qia
 \wav vt-qia
 \wav vt-qia2
 \ps vt
@@ -68862,9 +69250,9 @@
 \cf ɴɢia
 \dt 04/Jan/2015
 
-\lx qiaβ
+\lx _qiaβ
 \wav vi-qiaB
-\wav8 8_nAqiaB
+\wav8 nAqiaB
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -68882,9 +69270,9 @@
 \an chi
 \dt 12/May/2013
 
-\lx qioʁ
+\lx _qioʁ
 \wav vi-qioR
-\wav8 8_qioR
+\wav8 qioR
 \ps vi
 \pdl dir 
 \pdv lɤ-
@@ -68903,7 +69291,7 @@
 \cf tɯqioʁ
 \dt 23/Feb/2014
 
-\lx qlɯt
+\lx _qlɯt
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -68919,7 +69307,7 @@
 \cf ɴɢlɯt
 \dt 06/Sep/2015
 
-\lx qraʁ
+\lx _qraʁ
 \hm 1
 \wav vt-qraR
 \ps vt
@@ -68937,7 +69325,7 @@
 \cf ɴɢraʁ
 \dt 29/Sep/2013
 
-\lx qrɤz
+\lx _qrɤz
 \wav vt-qrAz
 \wav nWqrAz
 \ps vt
@@ -68960,10 +69348,10 @@
 \cf ɴɢrɤz
 \dt 16/Jul/2016
 
-\lx qru
+\lx _qru
 \wav vt-qru
-\wav8 8_qru
-\wav8 8_qru2
+\wav8 qru
+\wav8 qru2
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -68990,7 +69378,7 @@
 \ng apass
 \dt 22/Aug/2015
 
-\lx qrɯ
+\lx _qrɯ
 \wav vt-qrW
 \ps vt
 \sn 1
@@ -69017,11 +69405,11 @@
 \cf ɴɢrɯ
 \dt 16/Jan/2015
 
-\lx qur
+\lx _qur
 \wav vt-qur3
-\wav8 8_qur
-\wav8 8_qur2
-\wav8 8_GWtAwGqura
+\wav8 qur
+\wav8 qur2
+\wav8 GWtAwGqura
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -69055,7 +69443,7 @@
 \cf aqurle 
 \dt 02/Jul/2016
 
-\lx qurɣa
+\lx _qurɣa
 \wav vt-qurGa
 \ps vt
 \pdl dir 
@@ -69067,7 +69455,7 @@
 \cf qur
 \dt 09/Apr/2011
 
-\lx ra
+\lx _ra
 \hm 1
 \ps vs
 \sn 1
@@ -69082,6 +69470,8 @@
 \xn 你需要什么？
 \xv aʑɯɣ kɯ-ra me
 \xn 我什么也不需要
+\xv mɤ-tɯ-ra
+\xn 不需要你
 \cf ɣɤra
 \se mɤra ma 
 \ps cnj
@@ -69091,9 +69481,9 @@
 \xn 我今天不但吃了饭，还吃了酸菜
 \dt 04/Mar/2017
 
-\lx raŋ
+\lx _raŋ
 \hm 1
-\wav8 8_makWfsemAkWraN
+\wav8 makWfsemAkWraN
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -69106,7 +69496,7 @@
 \xn 有很多种现象，预料不到的现象都有
 \dt 18/May/2014
 
-\lx raʁ
+\lx _raʁ
 \hm 1
 \wav vi-raR
 \ps vi
@@ -69137,7 +69527,7 @@
 \gn 卡住；钩住
 \dt 31/Aug/2011
 
-\lx raʁjɯ
+\lx _raʁjɯ
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -69148,7 +69538,7 @@
 \sy nɯɕɯʁjɯ
 \dt 26/Aug/2012
 
-\lx raʁle
+\lx _raʁle
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -69162,7 +69552,7 @@
 \cf ɯ-ʁle
 \dt 01/Sep/2015
 
-\lx raʁrɤt
+\lx _raʁrɤt
 \ps vi
 \pdl dir
 \pdv pɯ-
@@ -69171,7 +69561,7 @@
 \ng denom
 \cf ta-ʁrɤt
 
-\lx raʁrɯz
+\lx _raʁrɯz
 \wav vt-raRrWz
 \ps vt
 \pdl dir 
@@ -69204,7 +69594,7 @@
 \xn 我用扫把扫了
 \dt 16/Jul/2016
 
-\lx raχpi
+\lx _raχpi
 \ps vi
 \ng denom
 \pdl dir 
@@ -69214,7 +69604,7 @@
 \cf χpi
 \dt 20/Nov/2011
 
-\lx raχtɕɤz
+\lx _raχtɕɤz
 \wav vt-rAXtCAz
 \ps vt
 \pdl dir 
@@ -69241,11 +69631,11 @@
 \gn 优待自己
 \dt 17/May/2014
 
-\lx raχtɕi
+\lx _raχtɕi
 \cf χtɕi
 \dt 10/Apr/2011
 
-\lx raχtɕɯmχtɕɤz
+\lx _raχtɕɯmχtɕɤz
 \wav vt-raXtCWmXtCAz
 \ps vt
 \ge bien traiter
@@ -69256,7 +69646,7 @@
 \xn 他优待你
 \dt 02/Aug/2012
 
-\lx raχtɕɯʁɟo
+\lx _raχtɕɯʁɟo
 \a rɤχtɕɯʁɟo
 \ps vi
 \pdl dir
@@ -69268,15 +69658,15 @@
 \cf χtɕi
 \dt 16/Jul/2016
 
-\lx raχtsur
+\lx _raχtsur
 \cf χtsur
 \dt 17/Jul/2016
 
-\lx raχtɯ
+\lx _raχtɯ
 \cf χtɯ
 \dt 25/Jan/2013
 
-\lx raχtɯtsɣe
+\lx _raχtɯtsɣe
 \ps vi 
 \pdl dir 
 \pdv thɯ-
@@ -69286,11 +69676,11 @@
 \cf χtɯ
 \cf ntsɣe
 
-\lx rɤβraʁ
+\lx _rɤβraʁ
 \wav vt-rABraR
 \wav vt-rABraR2
 \wav ideo-khrWG-c
-\wav8 8_rABraR
+\wav8 rABraR
 \ps vt
 \sn 1
 \pdl dir 
@@ -69339,7 +69729,7 @@
 \xn 猪在抓痒
 \dt 12/Aug/2012
 
-\lx rɤβʁa
+\lx _rɤβʁa
 \a rɤβʁɯʁa
 \wav vi-rABRa
 \ps vi
@@ -69356,20 +69746,26 @@
 \xn 公牛在吼叫 
 \dt 02/Sep/2015
 
-\lx rɤβzjoz
+\lx _rɤβzjoz
 \wav vi-rABzjoz
 \ps vi
 \pdl dir 
 \pdv pɯ-
 \ng apass
-\ge étudier 
-\gn 学习 
+\ge faire des études 
+\gn 读书 
 \xv pɯ-rɤβzjoz-a
 \xn 我读书了
 \cf βzjoz
+\se zrɤβzjoz
+\ps vt
+\ng apass
+\ng caus
+\ge faire étudier
+\gn 让……读书
 \dt 07/Sep/2013
 
-\lx rɤcɤβ
+\lx _rɤcɤβ
 \ps vi
 \pdl dir
 \pdv thɯ-
@@ -69378,14 +69774,14 @@
 \cf ɯ-cɤβ
 \dt 26/Apr/2014
 
-\lx rɤɕar
+\lx _rɤɕar
 \cf ɕar
 \dt 20/Nov/2011
 
-\lx rɤɕi
+\lx _rɤɕi
 \a rɤɕit
 \wav vt-rACi
-\wav8 8_tWrJaR_korACinW
+\wav8 tWrJaR_korACinW
 \wav note-raCi
 \ps vt
 \pdl dir 
@@ -69412,11 +69808,11 @@
 \xn 他抓住了我的手，我就挣脱了，让他松手了
 \dt 31/Aug/2015
 
-\lx rɤɕkho
+\lx _rɤɕkho
 \cf ɕkho
 \dt 04/Aug/2012
 
-\lx rɤɕom
+\lx _rɤɕom
 \wav vi-rACom
 \ps vi
 \pdl dir 
@@ -69429,7 +69825,7 @@
 \cf ɕom2
 \dt 25/Apr/2011
 
-\lx rɤɕon
+\lx _rɤɕon
 \ps vi
 \pdl dir
 \pdv tɤ-
@@ -69439,23 +69835,23 @@
 \xn 你不用担心（他冤枉你），我可以给你作证
 \dt 19/Apr/2016
 
-\lx rɤɕphɤt
+\lx _rɤɕphɤt
 \cf ɕphɤt
 \dt 11/May/2011
 
-\lx rɤɕtʂat
+\lx _rɤɕtʂat
 \cf ɕtʂat
 \dt 25/Apr/2011
 
-\lx rɤɕtʂo
+\lx _rɤɕtʂo
 \cf ɕtʂo
 \dt 12/Aug/2012
 
-\lx rɤɕtʂɯ
+\lx _rɤɕtʂɯ
 \cf ɕtʂɯ
 \dt 25/Apr/2011
 
-\lx rɤfcɤr
+\lx _rɤfcɤr
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -69467,11 +69863,11 @@
 \cf tɯfcɤr
 \dt 30/Aug/2012
 
-\lx rɤfɕɤt
+\lx _rɤfɕɤt
 \cf fɕɤt1
 \dt 26/Apr/2011
 
-\lx rɤfɕɯfɕɤt
+\lx _rɤfɕɯfɕɤt
 \wav vt-rAfCWfCAt
 \ps vt
 \pdl dir 
@@ -69486,11 +69882,11 @@
 \xn 他乱撕了
 \dt 01/Apr/2014
 
-\lx rɤfse
+\lx _rɤfse
 \cf fse2
 \dt 26/Apr/2011
 
-\lx rɤfsjit
+\lx _rɤfsjit
 \ps vi
 \pdl dir 
 \pdv thɯ-
@@ -69501,15 +69897,15 @@
 \cf tɤfsjit
 \dt 24/Aug/2012
 
-\lx rɤfsoʁ
+\lx _rɤfsoʁ
 \cf fsoʁ1
 \dt 27/Sep/2011
 
-\lx rɤftɕɤz
+\lx _rɤftɕɤz
 \cf ftɕɤz
 \dt 26/Apr/2011
 
-\lx rɤɣdɤt
+\lx _rɤɣdɤt
 \wav vt-rAGdAt
 \ps vt
 \pdl dir 
@@ -69528,9 +69924,9 @@
 \cf rɤrzɯɣ
 \dt 09/May/2011
 
-\lx rɤɣdɯt
+\lx _rɤɣdɯt
 \wav vt-rAGdWt
-\wav8 8_rAGdWt
+\wav8 rAGdWt
 \ps vt
 \pdl dir 
 \pdv thɯ-
@@ -69551,7 +69947,7 @@
 \xn 宰动物的时候，不破皮子地剥皮叫做|fv{chɤrɤɣdɯt}。黄鼠狼喝鸡的血，不吃它的肉也叫做|fv{ɲɤrɤɣdɯt}
 \dt 13/Jan/2013
 
-\lx rɤɣlɤn
+\lx _rɤɣlɤn
 \wav vt-rAGlAn
 \ps vt
 \ng denom
@@ -69568,7 +69964,7 @@
 \xn 你弄丢了还怪我
 \dt 09/Jun/2013
 
-\lx rɤɣndi
+\lx _rɤɣndi
 \wav vt-rAGndi
 \ps vt
 \pdl dir 
@@ -69587,7 +69983,7 @@
 \xn 我把衣服硬塞进口袋里
 \dt 26/Apr/2011
 
-\lx rɤɣrɯ
+\lx _rɤɣrɯ
 \wav vi-rAGrW
 \ps vi
 \pdl dir 
@@ -69604,7 +70000,7 @@
 \xn 我用热的东西敷了膝盖
 \dt 09/Oct/2014
 
-\lx rɤji
+\lx _rɤji
 \ps vi
 \pdl dir 
 \pdv lɤ-
@@ -69619,7 +70015,7 @@
 \hbf 1801
 \dt 03/Aug/2012
 
-\lx rɤjoʁβzɯr
+\lx _rɤjoʁβzɯr
 \wav vt-rAjoRBzWr
 \ps vt
 \ng comp
@@ -69637,8 +70033,8 @@
 \cf joʁβzɯr
 \dt 05/Nov/2013
 
-\lx rɤjroʁ
-\wav8 8_chWrAjroR
+\lx _rɤjroʁ
+\wav8 chWrAjroR
 \ps vi
 \pdl dir 
 \pdv _
@@ -69662,12 +70058,12 @@
 \cf tɯ-jroʁ
 \dt 15/Jan/2015
 
-\lx rɤjtshi
+\lx _rɤjtshi
 \cf jtshi
 \dt 05/Nov/2012
 
-\lx rɤjɯɣ
-\wav8 8_def-rAjWG
+\lx _rɤjɯɣ
+\wav8 def-rAjWG
 \ps vt
 \pdl dir 
 \pdv lɤ-
@@ -69680,7 +70076,7 @@
 \ev (kɤ-zgrɯl cho kɤ-rɤjɯɣ) naχtɕɯɣ ri kɤ-zgrɯl nɯnɯ ɣɯ kɯ-jpum nɯra tɕe kɤ-zgrɯl tu-kɯ-ti ŋu, kɯ-xtshɯm nɯra kɤ-rɤjɯɣ tu-kɯ-ti.
 \dt 06/Sep/2015
 
-\lx rɤjwaʁ
+\lx _rɤjwaʁ
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -69694,9 +70090,9 @@
 \cf ɣɤjwaʁ
 \dt 04/Aug/2012
 
-\lx rɤɟom
+\lx _rɤɟom
 \wav vt-rAJom
-\wav8 8_rAJom
+\wav8 rAJom
 \ps vt
 \ng denom
 \pdl dir 
@@ -69710,8 +70106,8 @@
 \cf tɯ-ɟom
 \dt 02/Jan/2013
 
-\lx rɤkha
-\wav8 8_tunWrAkhaa
+\lx _rɤkha
+\wav8 tunWrAkhaa
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -69722,11 +70118,11 @@
 \cf kha
 \dt 09/May/2013
 
-\lx rɤkhɯkhrɤt
+\lx _rɤkhɯkhrɤt
 \cf khrɤt1
 \dt 12/Mar/2014
 
-\lx rɤkrɤz
+\lx _rɤkrɤz
 \wav vi-rAkrAz
 \ps vi
 \pdl dir 
@@ -69744,10 +70140,10 @@
 \cf nɯkrɤz
 \dt 27/Apr/2011
 
-\lx rɤkro
+\lx _rɤkro
 \cf kro
 
-\lx rɤkrɯ
+\lx _rɤkrɯ
 \wav vt-rAkrW
 \wav note-rAkrW
 \ps vt
@@ -69774,7 +70170,7 @@
 \xn 有刀刃的东西都可以用来切
 \dt 01/Oct/2011
 
-\lx rɤkɯkrɯ
+\lx _rɤkɯkrɯ
 \ps vt
 \pdl dir
 \pdv pɯ-
@@ -69784,7 +70180,7 @@
 \cf rɤkrɯ
 \dt 19/Aug/2015
 
-\lx rɤlaj
+\lx _rɤlaj
 \wav vt-rAlAj
 \ps vt
 \pdl dir 
@@ -69800,14 +70196,14 @@
 \xn 面要揉才好吃
 \dt 16/May/2013
 
-\lx rɤlɤt
+\lx _rɤlɤt
 \ps vi
 \ge mouler, fondre (le métal)
 \gn 铸造
 \cf lɤt
 \dt 11/Aug/2016
 
-\lx rɤli
+\lx _rɤli
 \wav vt-rAli
 \ps vt
 \pdl dir 
@@ -69822,7 +70218,7 @@
 \sy nɯmbe
 \dt 22/Feb/2014
 
-\lx rɤlkɯɣ
+\lx _rɤlkɯɣ
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -69835,7 +70231,7 @@
 \sy rɤstɯm
 \dt 19/Jul/2016
 
-\lx rɤloʁ
+\lx _rɤloʁ
 \wav vi-rAloR
 \ps vi
 \pdl dir 
@@ -69850,14 +70246,14 @@
 \cf tɤ-loʁ1
 \dt 27/Apr/2011
 
-\lx rɤluj
+\lx _rɤluj
 \ps vs
 \pdl dir 
 \pdv tɤ-
 \ge pleurer sans cesse (enfant) 
 \gn 小孩子不停的哭喊；撒娇
 
-\lx rɤma
+\lx _rɤma
 \wav vi-rAma
 \ps vi
 \pdl dir 
@@ -69878,7 +70274,7 @@
 \gn 让……工作
 \dt 07/Jul/2016
 
-\lx rɤmat
+\lx _rɤmat
 \wav vi-rAmat
 \ps vi
 \ng denom
@@ -69892,7 +70288,7 @@
 \cf ɯ-mat
 \dt 27/Apr/2011
 
-\lx rɤmbi
+\lx _rɤmbi
 \wav vi-rAmbi
 \ps vi
 \ng apass
@@ -69909,7 +70305,7 @@
 \cf mbi
 \dt 18/May/2014
 
-\lx rɤmboʁɲɟi
+\lx _rɤmboʁɲɟi
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -69920,21 +70316,21 @@
 \cf rɤɲɟoʁɲɟi
 \dt 07/May/2014
 
-\lx rɤmbɯmbri
+\lx _rɤmbɯmbri
 \ps vt
 \pdl dir 
 \pdv tɤ-
-\ge perdre au fil du chemin
+\ge perdre/jeter au fil du chemin
 \gn 一边走路一边撒下
 \xv tɤ-fkɯm pjɤ-spoʁ tɕe, ɯ-ŋgɯ kɯ-tu nɯra to-tɯ-rɤmbɯmbri-t
 \xn 袋子有洞，所以把里面的东西撒得一路都是
 \cf arɤmbɯmbri
 \dt 02/Jan/2015
 
-\lx rɤmdzɯt
+\lx _rɤmdzɯt
 \wav vi-rAmzdWt
-\wav8 8_rAmdzWt
-\wav8 8_rAmdzWt2
+\wav8 rAmdzWt
+\wav8 rAmdzWt2
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -69954,11 +70350,11 @@
 \cf mdzɯt
 \dt 22/Feb/2014
 
-\lx rɤmgrɯn
+\lx _rɤmgrɯn
 \cf mgrɯn
 \dt 24/Aug/2015
 
-\lx rɤmnɯ
+\lx _rɤmnɯ
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -69966,11 +70362,11 @@
 \gn 发芽（树） 
 \hbf 1307
 
-\lx rɤmɲo
+\lx _rɤmɲo
 \cf mɲo1
 \dt 27/Apr/2011
 
-\lx rɤmpɕɤr
+\lx _rɤmpɕɤr
 \wav vi-rAmpCAr
 \ps vi
 \pdl dir 
@@ -69992,7 +70388,7 @@
 \xn 办婚礼的时候要打扮新郎和新娘
 \dt 30/Aug/2015
 
-\lx rɤmphrɯm
+\lx _rɤmphrɯm
 \wav vt-rAmphrWm
 \ps vt
 \pdl dir 
@@ -70005,11 +70401,11 @@
 \cf tɯ-tɤmphrɯm
 \dt 12/Mar/2014
 
-\lx rɤmphɯr
+\lx _rɤmphɯr
 \cf mphɯr
 \dt 26/Aug/2012
 
-\lx rɤmprɤt
+\lx _rɤmprɤt
 \ps vt
 \pdl dir
 \pdv nɯ-
@@ -70022,8 +70418,8 @@
 \cf prɤt
 \dt 12/Jul/2016
 
-\lx rɤmɯthu
-\wav8 8_tArAmWthua
+\lx _rɤmɯthu
+\wav8 tArAmWthua
 \ps vi
 \pdl dir
 \pdv tɤ-
@@ -70036,8 +70432,8 @@
 \sy nɤthɯthu
 \cf thu1
 
-\lx rɤndaŋ
-\wav8 8_rAndaN
+\lx _rɤndaŋ
+\wav8 rAndaN
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -70050,11 +70446,11 @@
 \cf ɯ-ndaŋ,lɤt
 \dt 31/Aug/2015
 
-\lx rɤndɯn
+\lx _rɤndɯn
 \cf ndɯn
 \dt 30/Apr/2011
 
-\lx rɤndzraʁ
+\lx _rɤndzraʁ
 \wav vt-rAndzraR
 \wav vt-rAndzraR2
 \ps vt
@@ -70072,9 +70468,16 @@
 \xn 我把血肠的馅儿捏下去了
 \xv tɯrme ɲɤ-rɤndzraʁ
 \xn 他把人捏成一坨了（打得很惨了）
+\se zrɤndzraʁ
+\ps vt
+\pdl dir 
+\pdv nɯ-
+\ge pétrir avec 
+\gn 用……捏
+\ng caus
 \dt 21/Aug/2012
 
-\lx rɤndzri
+\lx _rɤndzri
 \ps vt
 \pdl dir 
 \pdv kɤ-
@@ -70086,7 +70489,7 @@
 \cf tɯ-tɤndzri
 \dt 24/Aug/2012
 
-\lx rɤnŋa
+\lx _rɤnŋa
 \wav vi-rAnNa
 \wav vi-rAnNa2
 \ps vi
@@ -70104,11 +70507,11 @@
 \cf tɯ-nŋa
 \dt 04/Aug/2012
 
-\lx rɤntɕha
+\lx _rɤntɕha
 \cf ntɕha
 \dt 21/Aug/2012
 
-\lx rɤntɕhom
+\lx _rɤntɕhom
 \wav vi-rAntChom
 \ps vi
 \pdl dir 
@@ -70121,7 +70524,7 @@
 \xn 庙里在跳神
 \dt 25/Apr/2014
 
-\lx rɤntshom
+\lx _rɤntshom
 \wav vi-rAntshom
 \ps vi
 \pdl dir 
@@ -70135,7 +70538,7 @@
 \xn 喇嘛修行了
 \dt 04/May/2011
 
-\lx rɤɲɟiɲɟi
+\lx _rɤɲɟiɲɟi
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -70146,7 +70549,7 @@
 \cf rɤɲɟoʁɲɟi
 \dt 07/May/2014
 
-\lx rɤɲɟoʁɲɟi
+\lx _rɤɲɟoʁɲɟi
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -70159,7 +70562,7 @@
 \cf rɤmboʁɲɟi
 \dt 07/May/2014
 
-\lx rɤŋgat
+\lx _rɤŋgat
 \wav vi-rANgat
 \ps vi
 \pdl dir 
@@ -70177,7 +70580,7 @@
 \sy ʑɣɤmɲo
 \dt 02/Jul/2016
 
-\lx rɤŋgɯm
+\lx _rɤŋgɯm
 \wav vi-rANgWm
 \ps vi
 \ng denom
@@ -70193,7 +70596,7 @@
 \cf tɤ-ŋgɯm
 \dt 30/Apr/2011
 
-\lx rɤɴqra
+\lx _rɤɴqra
 \wav vt-rANqra
 \ps vt
 \pdl dir 
@@ -70212,7 +70615,7 @@
 \cf ɯ-ɴqra
 \dt 09/Jun/2013
 
-\lx rɤpɕaʁ
+\lx _rɤpɕaʁ
 \wav vi-rApCaR
 \ps vi
 \ng denom
@@ -70226,11 +70629,11 @@
 \cf pɕaʁ
 \dt 09/Jun/2013
 
-\lx rɤpɣaʁ
+\lx _rɤpɣaʁ
 \cf pɣaʁ
 \dt 04/May/2011
 
-\lx rɤpɣi
+\lx _rɤpɣi
 \wav vt-rApGi
 \ps vt
 \pdl dir 
@@ -70243,7 +70646,7 @@
 \xn 我准备做馍馍，就和了面
 \dt 20/Aug/2012
 
-\lx rɤphɯ
+\lx _rɤphɯ
 \ps vt
 \ge donner un prix
 \gn 定价格
@@ -70252,11 +70655,11 @@
 \cf ʑɣɤrɤphɯ
 \cf ɯ-phɯ
 
-\lx rɤpjɤt
+\lx _rɤpjɤt
 \cf pjɤt
 \dt 20/Aug/2012
 
-\lx rɤpjɤz
+\lx _rɤpjɤz
 \wav vi-rApjAz
 \ps vt
 \ng denom
@@ -70269,7 +70672,7 @@
 \cf tɤpjɤz
 \dt 25/Apr/2014
 
-\lx rɤpɯ
+\lx _rɤpɯ
 \wav vi-rApW
 \ps vi
 \pdl dir 
@@ -70287,9 +70690,9 @@
 \ge faire avoir des petits (animaux) 
 \gn 让……生崽
 
-\lx rɤqur
+\lx _rɤqur
 \wav vt-rAqur
-\wav8 8_rAqur
+\wav8 rAqur
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -70305,15 +70708,15 @@
 \xn 我不需要那么多衣服，所以就把它收藏起来了
 \dt 09/Jun/2013
 
-\lx rɤraʁzɯz
+\lx _rɤraʁzɯz
 \cf raʁrɯz
 \dt 11/Jul/2016
 
-\lx rɤrɤt
+\lx _rɤrɤt
 \cf rɤt
 \dt 04/Aug/2012
 
-\lx rɤrcoʁ
+\lx _rɤrcoʁ
 \wav vi-rArcoR
 \ps vi
 \pdl dir 
@@ -70331,7 +70734,7 @@
 \cf ɣɤrcoʁ
 \dt 09/Jun/2013
 
-\lx rɤrɟit
+\lx _rɤrɟit
 \wav vi-rArJit
 \wav vi-rArJit2
 \ps vi
@@ -70352,7 +70755,7 @@
 \ge faire donner naissance à un enfant 
 \gn 使……生孩子
 
-\lx rɤrka
+\lx _rɤrka
 \wav vi-rArka
 \ps vi
 \pdl dir 
@@ -70365,7 +70768,7 @@
 \cf tɤrka2
 \dt 09/May/2011
 
-\lx rɤrma
+\lx _rɤrma
 \wav vi-rArma
 \ps vi
 \pdl dir 
@@ -70379,7 +70782,7 @@
 \cf tɯrma
 \dt 09/Jun/2013
 
-\lx rɤrmbɣo
+\lx _rɤrmbɣo
 \ps vi
 \pdl dir
 \pdv lɤ-
@@ -70395,15 +70798,15 @@
 \xn 要积水
 \dt 30/Dec/2014
 
-\lx rɤroʁ
+\lx _rɤroʁ
 \cf roʁ
 \dt 09/May/2011
 
-\lx rɤroʁrɯz
+\lx _rɤroʁrɯz
 \cf raʁrɯz
 \dt 16/Jul/2016
 
-\lx rɤrti
+\lx _rɤrti
 \wav vi-rArti
 \ps vi
 \pdl dir 
@@ -70418,7 +70821,7 @@
 \cf ɯ-rti
 \dt 09/May/2011
 
-\lx rɤrtsɤɣ
+\lx _rɤrtsɤɣ
 \wav vi-rArtsAG
 \ps vs
 \pdl dir 
@@ -70430,9 +70833,9 @@
 \cf tɤrtsɤɣ
 \dt 09/Jun/2013
 
-\lx rɤrtshɯm
+\lx _rɤrtshɯm
 \wav vt-rArtshWm
-\wav8 8_rArtshWm
+\wav8 rArtshWm
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -70460,7 +70863,7 @@
 \cf ɯ-rtshɯm
 \dt 10/May/2011
 
-\lx rɤru
+\lx _rɤru
 \wav vi-rAru
 \wav vi-rAru2
 \ps vi
@@ -70493,7 +70896,7 @@
 \xn 冷的天气令我生病了
 \dt 16/Jul/2016
 
-\lx rɤrzɯɣ
+\lx _rɤrzɯɣ
 \a rɤrzɯrzɯɣ
 \wav vt-rArzWG
 \ps vt
@@ -70509,11 +70912,11 @@
 \cf tɯ-rzɯɣ
 \dt 20/Aug/2015
 
-\lx rɤscɤt
+\lx _rɤscɤt
 \cf scɤt
 \dt 09/May/2011
 
-\lx rɤscoz
+\lx _rɤscoz
 \wav vi-rAscoz
 \wav vi-nWrAscoz
 \ps vi
@@ -70530,20 +70933,20 @@
 \cf tɤ-scoz
 \dt 09/Jun/2013
 
-\lx rɤskɤr
+\lx _rɤskɤr
 \cf skɤr
 \dt 24/Aug/2012
 
-\lx rɤsloʁ
+\lx _rɤsloʁ
 \cf sloʁ
 \dt 27/Aug/2012
 
-\lx rɤspɤr
+\lx _rɤspɤr
 \cf spɤr
 \dt 02/Sep/2015
 
-\lx rɤspra
-\wav8 8_rAspra
+\lx _rɤspra
+\wav8 rAspra
 \ps vt
 \ng denom
 \pdl dir 
@@ -70557,7 +70960,7 @@
 \cf tɯ-spra
 \dt 02/Jan/2013
 
-\lx rɤspɯ
+\lx _rɤspɯ
 \wav vi-rAspW
 \ps vi
 \ng denom
@@ -70571,11 +70974,11 @@
 \cf tɤ-spɯ
 \dt 09/Jun/2013
 
-\lx rɤsta
+\lx _rɤsta
 \ps vi
 \pdl dir 
 \pdv kɤ-
-\wav8 8_rAsta
+\wav8 rAsta
 \ge immobile, fixé, rester à un endroit
 \gn 固定；长期；待在一个地方不动；定型
 \xv ɯ-kɯ-rɤma kɯ-rɤsta ʑo ŋu 
@@ -70588,7 +70991,7 @@
 \gn 固定
 \dt 12/Jul/2016
 
-\lx rɤstu
+\lx _rɤstu
 \wav vi-rAstu
 \ps vs
 \pdl dir 
@@ -70600,9 +71003,9 @@
 \cf ɯ-stu1
 \dt 20/Oct/2011
 
-\lx rɤstɯm
+\lx _rɤstɯm
 \wav vt-rAstWm
-\wav8 8_tarAstWma
+\wav8 tarAstWma
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -70614,7 +71017,7 @@
 \cf stɯm
 \dt 09/May/2013
 
-\lx rɤt
+\lx _rɤt
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -70655,7 +71058,7 @@
 \xn 上面写着我的名字
 \dt 24/Aug/2012
 
-\lx rɤtɕaʁ
+\lx _rɤtɕaʁ
 \wav vt-rAtCaR
 \ps vt
 \pdl dir 
@@ -70674,11 +71077,11 @@
 \xn 他很急，脚不着地地跑了过去
 \dt 02/Jul/2014
 
-\lx rɤtɕɤβ
+\lx _rɤtɕɤβ
 \cf tɕɤβ
 \dt 11/May/2011
 
-\lx rɤtɕhaʁ
+\lx _rɤtɕhaʁ
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -70686,7 +71089,7 @@
 \gn 一把一把地捆起来
 \dt 04/Mar/2017
 
-\lx rɤtɕɯmtɕaʁ
+\lx _rɤtɕɯmtɕaʁ
 \wav vt-rAtCWmtCaR
 \ps vt
 \pdl dir 
@@ -70698,7 +71101,7 @@
 \cf rɤtɕaʁ
 \dt 13/May/2013
 
-\lx rɤtɣa
+\lx _rɤtɣa
 \wav vt-rAtGa
 \ps vt
 \ng denom
@@ -70716,7 +71119,7 @@
 \cf tɯ-tɣa1
 \dt 09/Jun/2013
 
-\lx rɤtho
+\lx _rɤtho
 \ps vi
 \pdl dir
 \pdv lɤ-
@@ -70727,11 +71130,11 @@
 \cf ɯ-tho
 \dt 27/Apr/2014
 
-\lx rɤthu
+\lx _rɤthu
 \cf thu1
 \dt 11/May/2011
 
-\lx rɤthuthe
+\lx _rɤthuthe
 \ps vi
 \pdl dir
 \pdv nɯ-
@@ -70744,7 +71147,7 @@
 \cf thu
 \dt 02/Sep/2015
 
-\lx rɤtsɣe
+\lx _rɤtsɣe
 \wav vi-rAtsGe
 \ps vi
 \pdl dir 
@@ -70762,9 +71165,9 @@
 \cf ntsɣe
 \dt 30/Apr/2011
 
-\lx rɤtshɤt
+\lx _rɤtshɤt
 \wav vt-rAtshAt
-\wav8 8_rAtshAt
+\wav8 rAtshAt
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -70777,8 +71180,8 @@
 \cf tshɤt1
 \dt 20/May/2011
 
-\lx rɤtshɯɣ
-\wav8 8_rAtshWG-def
+\lx _rɤtshɯɣ
+\wav8 rAtshWG-def
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -70789,11 +71192,11 @@
 \ev kɤ-rɯndzaŋspa ra kɤ-ti ɲɯ-ŋu, ɯ-tshɤt tsa kɤ-βzu ra kɤ-ti ɲɯ-ŋu,
 \dt 19/Oct/2012
 
-\lx rɤtʂɯβ
+\lx _rɤtʂɯβ
 \cf tʂɯβ
 \dt 11/May/2011
 
-\lx rɤwum
+\lx _rɤwum
 \wav vt-rAwum
 \ps vt
 \pdl dir 
@@ -70813,7 +71216,7 @@
 \cf stɯm
 \dt 21/Jul/2016
 
-\lx rɤχpɯn
+\lx _rɤχpɯn
 \ps vi
 \pdl dir 
 \pdv lɤ-
@@ -70826,8 +71229,8 @@
 \cf nɯχpɯn
 \dt 30/Aug/2012
 
-\lx rɤzboʁ
-\wav8 8_rAzboR
+\lx _rɤzboʁ
+\wav8 rAzboR
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -70840,7 +71243,7 @@
 \cf tɯ-zboʁ
 \dt 15/Jan/2015
 
-\lx rɤzda
+\lx _rɤzda
 \wav vt-rAzda
 \ps vt
 \pdl dir 
@@ -70858,22 +71261,26 @@
 \cf tɯ-zda
 \dt 01/Jul/2016
 
-\lx rɤzga
+\lx _rɤzga
 \wav vi-rAzga
 \ps vi
 \ng denom
 \pdl dir 
 \pdv kɤ-
+\sn 1
 \ge faire du miel 
 \gn 酿蜜 
+\sn 2
+\ge butiner
+\gn 采蜜
 \xv ɣʑo ɲɯ-rɤzga
 \xn 蜜蜂在酿蜜
 \xv jiɕqha tɯrme nɯ kɯ-rɯkɯŋu kɯ ɣʑo kɯ-rɤzga ʑo ɲɯ-fse
-\xn 这个人把所有的财物都带回家，跟采蜜的蜜蜂一样
+\xn 这个人把所有的财物都带回家，跟蜜蜂一样
 \cf zga2
 \dt 26/Aug/2012
 
-\lx rɤzgɤr
+\lx _rɤzgɤr
 \wav vi-rAzgAr
 \ps vi
 \ng denom
@@ -70892,7 +71299,7 @@
 \cf zgɤr
 \dt 15/Jul/2016
 
-\lx rɤznde
+\lx _rɤznde
 \wav vi-rAznde
 \ps vi
 \ng apass
@@ -70907,7 +71314,7 @@
 \cf znde2
 \dt 15/Jan/2015
 
-\lx rɤʑa
+\lx _rɤʑa
 \wav vi-rAZa
 \ps vs
 \pdl dir 
@@ -70921,11 +71328,11 @@
 \xn 被蚊子咬就很痒
 \dt 20/Oct/2011
 
-\lx rɤʑi
+\lx _rɤʑi
 \a rɤʑit
 \wav vi-rAZi
 \wav vi-nWrAZi
-\wav8 8_mArAZi
+\wav8 mArAZi
 \ps vi
 \pdl dir 
 \pdv kɤ-
@@ -70961,7 +71368,7 @@
 \cf zrɤʑi
 \dt 21/Jul/2016
 
-\lx rdɤβ
+\lx _rdɤβ
 \wav vi-rdAB
 \ps vi
 \pdl dir 
@@ -70975,7 +71382,7 @@
 \xn 我这一次做了亏本生意
 \dt 10/Apr/2011
 
-\lx rdɤl
+\lx _rdɤl
 \wav vi-rdAl
 \ps vi
 \pdl dir 
@@ -70999,7 +71406,7 @@
 \xn 我们已经超了时间了
 \dt 15/Jul/2016
 
-\lx rdom
+\lx _rdom
 \wav vi-rdom
 \ps vi
 \pdl dir 
@@ -71012,7 +71419,7 @@
 \xn 乞丐到处流浪
 \dt 02/May/2014
 
-\lx rdoŋ
+\lx _rdoŋ
 \wav vt-rdoN
 \ps vt
 \pdl dir 
@@ -71029,7 +71436,7 @@
 \sy ʁndɯ
 \dt 09/Jun/2013
 
-\lx rga
+\lx _rga
 \hm 1
 \wav vi-rga
 \ps vs
@@ -71057,7 +71464,7 @@
 \cf nɯɕmɯrga
 \dt 13/Oct/2016
 
-\lx rgɤz
+\lx _rgɤz
 \wav vi-rgAz
 \ps vs
 \pdl dir 
@@ -71080,16 +71487,16 @@
 \xn 松树不容易衰老，一直都是绿的，不变色
 \dt 04/May/2014
 
-\lx rgot
+\lx _rgot
 \ps vs
 \ge robuste
 \gn 身强力壮；不好对付
 \et rgod
 \dt 12/Jul/2016
 
-\lx ri
+\lx _ri
 \hm 3
-\wav8 8_ri
+\wav8 ri
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -71106,7 +71513,7 @@
 \cf nɯʑɯβri
 \dt 15/Jul/2016
 
-\lx rɟaʁ
+\lx _rɟaʁ
 \wav vi-rJaR
 \ps vi
 \pdl dir 
@@ -71123,8 +71530,8 @@
 \cf tɯrɟaʁ
 \dt 26/Aug/2015
 
-\lx rɟɤz
-\wav8 8_kWrJAz
+\lx _rɟɤz
+\wav8 kWrJAz
 \ps vs
 \ge être développé
 \gn 发达
@@ -71134,7 +71541,7 @@
 \xn 他心胸宽阔
 \dt 20/Jul/2016
 
-\lx rɟum
+\lx _rɟum
 \wav vi-rJum
 \ps vs
 \pdl dir 
@@ -71148,7 +71555,7 @@
 \cf arɟumtɕɤr
 \dt 29/May/2013
 
-\lx rɟɯfsoʁ
+\lx _rɟɯfsoʁ
 \ps n
 \ge fait de gagner de l'argent
 \gn 挣钱
@@ -71157,7 +71564,7 @@
 \cf ɣɯrɟɯfsoʁ
 \dt 10/Nov/2011
 
-\lx rɟɯɣ
+\lx _rɟɯɣ
 \hm 1
 \wav vi-rJWG
 \ps vi
@@ -71187,7 +71594,7 @@
 \xn 动物用四只脚跑
 \dt 04/Jul/2016
 
-\lx rkaŋ
+\lx _rkaŋ
 \ps vs
 \ge vigoureux 
 \gn 硬朗 
@@ -71198,8 +71605,8 @@
 \un 用于否定形式时，表示“怀孕”的意思
 \dt 01/Sep/2015
 
-\lx rkɤl
-\wav8 8_rkAl
+\lx _rkɤl
+\wav8 rkAl
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -71211,7 +71618,7 @@
 \xn 锁了房子的门是为了安全
 \dt 04/Aug/2012
 
-\lx rkɤz
+\lx _rkɤz
 \wav vt-rkAz
 \ps vt
 \pdl dir 
@@ -71231,7 +71638,7 @@
 \xn 刻印版的人
 \dt 16/Jan/2015
 
-\lx rkhe
+\lx _rkhe
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -71246,7 +71653,7 @@
 \xn 你刻了
 \dt 24/Aug/2015
 
-\lx rko
+\lx _rko
 \ps vs
 \pdl dir 
 \pdv thɯ-
@@ -71268,11 +71675,11 @@
 \cf nɯrkorlɯt
 \dt 29/May/2013
 
-\lx rku
+\lx _rku
 \wav vt-rku
 \wav vt-rku2
-\wav8 8_sArku_kWme
-\wav8 8_amAthWtWnWkon
+\wav8 sArku_kWme
+\wav8 amAthWtWnWkon
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -71370,7 +71777,7 @@
 \cf arku
 \dt 14/Jul/2016
 
-\lx rkɯn
+\lx _rkɯn
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -71389,12 +71796,12 @@
 \cf ɣɤrkɯn
 \dt 19/Aug/2015
 
-\lx rla
+\lx _rla
 \wav vt-rla
 \ps vt
 \pdl dir 
 \pdv nɯ-
-\ge détacher 
+\ge détacher, défaire (nœud)
 \gn 解开 
 \hbf 1600
 \xv tɤ-mtɯ nɯ-rla-t-a
@@ -71410,7 +71817,7 @@
 \xn 结是解开的
 \dt 20/Aug/2015
 
-\lx rlaʁ
+\lx _rlaʁ
 \wav vi-rlaR
 \ps vi
 \pdl dir 
@@ -71430,7 +71837,7 @@
 \cf ɣɤrlaʁ
 \dt 10/May/2014
 
-\lx rma
+\lx _rma
 \wav vi-rma
 \ps vi
 \pdl dir 
@@ -71447,7 +71854,7 @@
 \cf sɯrma
 \dt 02/Jan/2015
 
-\lx rmɤmbe
+\lx _rmɤmbe
 \ps n
 \ge mue (mammifère)
 \gn 脱毛；换毛
@@ -71456,7 +71863,7 @@
 \cf nɯrmɤmbe
 \dt 10/Nov/2011
 
-\lx rmbɯ
+\lx _rmbɯ
 \wav vt-rmbW
 \ps vt
 \pdl dir 
@@ -71473,10 +71880,10 @@
 \xv tɤjpa to-rmbɯ
 \xn 她把雪堆起来了
 \cf amɯrmbɯ
-\cf tɯ-rmbɯ
+\cf tɯ-tɤrmbɯ
 \dt 22/Aug/2011
 
-\lx rmi
+\lx _rmi
 \wav vi-rmi
 \ps vi
 \pdl dir 
@@ -71493,7 +71900,7 @@
 \cf tɤ-rmi
 \dt 17/Apr/2011
 
-\lx rnaʁ
+\lx _rnaʁ
 \ps vs
 \pdl dir 
 \pdv pɯ-
@@ -71503,9 +71910,9 @@
 \xv jɯ-xtu ɯ-tɯ-rnaʁ nɯ 
 \xn 我们很饿（肚子很深）
 
-\lx rnde
+\lx _rnde
 \wav rnde
-\wav8 8_rnde
+\wav8 rnde
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -71518,7 +71925,7 @@
 \un 不能单独出现，只能在以上例句中使用
 \dt 20/Apr/2011
 
-\lx rndi
+\lx _rndi
 \wav vi-rndi
 \ps vi
 \pdl dir 
@@ -71531,7 +71938,7 @@
 \xn 以前很调皮，爱到处乱跑，现在不调皮了
 \dt 18/Apr/2011
 
-\lx rndu
+\lx _rndu
 \wav vt-rndu
 \ps vt
 \pdl dir 
@@ -71553,7 +71960,7 @@
 \xn 不但没有得到好处，反而遭殃了
 \dt 03/Feb/2014
 
-\lx rɲaŋ
+\lx _rɲaŋ
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -71565,7 +71972,7 @@
 \xn 酥油很快就会变味
 \dt 17/Jul/2016
 
-\lx rɲɟi
+\lx _rɲɟi
 \wav vi-rYJi
 \ps vs
 \pdl dir 
@@ -71583,7 +71990,7 @@
 \cf xtɯrɲɟi
 \dt 24/Oct/2011
 
-\lx rɲo
+\lx _rɲo
 \wav vt-rYo
 \ps vt
 \sn 1
@@ -71611,7 +72018,7 @@
 \xn 我去过
 \dt 11/Jul/2016
 
-\lx rɲɯl
+\lx _rɲɯl
 \wav vi-rYWl
 \ps vi
 \pdl dir 
@@ -71640,7 +72047,7 @@
 \cf ja2
 \dt 15/Jul/2016
 
-\lx rŋɤɣndʑɯr
+\lx _rŋɤɣndʑɯr
 \ps vi
 \pdl dir
 \pdv thɯ-
@@ -71651,10 +72058,10 @@
 \cf sɤrŋɤɣndʑɯr
 \dt 26/Aug/2015
 
-\lx rŋgɤβ
-\wav8 8_turNgABnW
-\wav8 8_turNgABnW2
-\wav8 8_tArNgaBa
+\lx _rŋgɤβ
+\wav8 turNgABnW
+\wav8 turNgABnW2
+\wav8 tArNgaBa
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -71669,7 +72076,7 @@
 \cf ɯ-jaqhɤrŋɤβ
 \dt 01/Sep/2015
 
-\lx rŋgɯ
+\lx _rŋgɯ
 \hm 1
 \wav vi-rNgW
 \ps vi
@@ -71699,7 +72106,7 @@
 \cf nɯkhɤrŋgɯ
 \dt 08/Jul/2016
 
-\lx rŋi
+\lx _rŋi
 \ps vs
 \ge être encore rouges (braises)
 \gn （火种）还在燃烧，还没有熄灭，还有复燃的可能
@@ -71707,7 +72114,7 @@
 \xn 火种还没有熄灭
 \dt 22/Aug/2015
 
-\lx rŋo
+\lx _rŋo
 \wav vt-rNo
 \ps vt
 \pdl dir 
@@ -71720,7 +72127,7 @@
 \cf ɕɯrŋo
 \dt 23/Apr/2011
 
-\lx rŋu
+\lx _rŋu
 \wav vt-rNu
 \ps vl
 \pdl dir 
@@ -71737,7 +72144,7 @@
 \xn 炒了青稞就可以做糌粑
 \dt 23/Dec/2014
 
-\lx ro
+\lx _ro
 \ps vs
 \sn 1
 \pdl dir 
@@ -71757,7 +72164,7 @@
 \xn 有（一两根）凸出来
 \dt 26/Apr/2014
 
-\lx rom
+\lx _rom
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -71787,7 +72194,7 @@
 \xn 他把萝卜晒干了
 \dt 04/Mar/2017
 
-\lx roʁ
+\lx _roʁ
 \ps vt
 \pdl dir 
 \pdv kɤ-
@@ -71796,11 +72203,11 @@
 \sn 1
 \ge graver
 \gn 雕刻
+\xv ɕoŋβzu kɯ ji-lɤtɕhom tha-roʁ
+\xn 木匠刻了我们的大奶桶
 \sn 2
 \ge acculer (chasseur) 
 \gn 追到最险要的地方不让动物逃走（猎人） 
-\xv ɕoŋβzu kɯ ji-lɤtɕhom tha-roʁ
-\xn 木匠刻了我们的大奶桶
 \se rɤroʁ
 \ps vi
 \ng apass
@@ -71808,9 +72215,9 @@
 \pdv tɤ-
 \ge graver
 \gn 刻
-\dt 27/Nov/2014
+\dt 21/Jan/2018
 
-\lx rpjɯ
+\lx _rpjɯ
 \wav vi-rpjW2
 \ps vs
 \pdl dir 
@@ -71829,7 +72236,7 @@
 \xn 你不要让牛奶变质，不然太可惜
 \dt 15/Jul/2016
 
-\lx rpu
+\lx _rpu
 \wav vt-rpu
 \ps vl
 \pdl dir 
@@ -71860,7 +72267,7 @@
 \ge se cogner soi-même
 \gn 撞到自己 
 \se ɯ-rpu,lɤt
-\wav8 8_khWtsarpu
+\wav8 khWtsarpu
 \ge frapper avec ...
 \gn 用……打
 \lf Component 1
@@ -71875,7 +72282,7 @@
 \xn 他用碗打了我
 \dt 27/Aug/2015
 
-\lx rpɯ
+\lx _rpɯ
 \wav vi-rpW
 \ps vs
 \pdl dir 
@@ -71888,7 +72295,7 @@
 \xn 他的头发脏了
 \dt 26/Aug/2012
 
-\lx rqoʁ
+\lx _rqoʁ
 \wav vt-rqoR2
 \ps vt
 \sn 1
@@ -71912,7 +72319,7 @@
 \cf arqɯrqoʁ
 \dt 15/Jul/2016
 
-\lx rʁe
+\lx _rʁe
 \wav vt-rRe
 \ps vt
 \pdl dir 
@@ -71935,7 +72342,7 @@
 \cf nɯrʁe
 \dt 19/Feb/2014
 
-\lx rʁom
+\lx _rʁom
 \wav vi-rRom
 \ps vs
 \pdl dir 
@@ -71952,7 +72359,7 @@
 \an mnu
 \dt 21/Nov/2013
 
-\lx rʁu
+\lx _rʁu
 \ps vs
 \sn 1
 \pdl dir
@@ -71970,7 +72377,7 @@
 \xn 奶牛生崽三个月后，奶水就干了
 \dt 26/Apr/2014
 
-\lx rtaʁ
+\lx _rtaʁ
 \wav vi-rtaR
 \ps vs
 \pdl dir 
@@ -71993,7 +72400,7 @@
 \cf ɣɤrtaʁ
 \dt 14/Jul/2016
 
-\lx rtɤβ
+\lx _rtɤβ
 \wav vt-rtAB
 \ps vt
 \sn 1
@@ -72021,10 +72428,10 @@
 \cf ɯ-rtɯrtɤβ
 \dt 19/Aug/2015
 
-\lx rtoʁ
+\lx _rtoʁ
 \wav vt-rtoR
-\wav8 8_ZGAsWrtoR
-\wav8 8_ZGAsWrtoR2
+\wav8 ZGAsWrtoR
+\wav8 ZGAsWrtoR2
 \ps vt
 \sn 1
 \pdl dir 
@@ -72055,12 +72462,12 @@
 \cf nɯsɯrtoʁ
 \se sɯrtoʁ
 \ps vt
-\wav8 8_sWrtoR
+\wav8 sWrtoR
 \ng caus
 \xv smɤnba kɯ tɤ́-wɣ-sɯrtoʁ-a
 \xn 他请了医生给我看病
 \se ʑɣɤsɯrtoʁ
-\wav8 8_ZGAsWrtoR
+\wav8 ZGAsWrtoR
 \ps vi
 \ng refl
 \xv smɤnba ɯ-phe kɯ-ʑɣɤsɯrtoʁ lɤ-ari
@@ -72081,7 +72488,7 @@
 \ge se regarder les uns les autres
 \gn 互相看
 
-\lx rtsa
+\lx _rtsa
 \wav vt-rtsa
 \ps vt
 \pdl dir 
@@ -72093,7 +72500,7 @@
 \xn 他阉割了母猪
 \dt 13/May/2011
 
-\lx rtshom
+\lx _rtshom
 \wav vi-rtshom
 \ps vi
 \ge avoir une fente (seau en bois)
@@ -72104,7 +72511,7 @@
 \xn 木桶是由一条一条的木板条组成的，只要变干它就会出现裂口
 \dt 12/Apr/2011
 
-\lx rtsi
+\lx _rtsi
 \wav vt-rtsi
 \ps vt
 \pdl dir 
@@ -72144,10 +72551,10 @@
 \ge se compter parmi
 \gn 把自己算在里面
 \xv ɯʑo to-nɯ-ʑɣɤrtsi
-\xn 他没有吧自己算在里面
+\xn 他没有把自己算在里面
 \dt 20/Jul/2016
 
-\lx rtsiaʁ
+\lx _rtsiaʁ
 \wav vi-rtsiaR
 \ps vs
 \ge escarpé et sinueux (chemin) 
@@ -72156,7 +72563,7 @@
 \xn 路很陡峭
 \dt 15/Jul/2016
 
-\lx rtsɯɣ
+\lx _rtsɯɣ
 \wav vt-rtsWG2
 \ps vt
 \pdl dir 
@@ -72169,10 +72576,10 @@
 \xn 我把木头堆起来了
 \xv tɤɕi pɯ-rtsɯɣ-a
 \xn 我把青稞堆起来了
-\xn |fv{kɤ-rmbɯ}和|fv{kɤ-rtsɯɣ}不一样，后者用于木料，而前者用于肥料
+\dv |fv{kɤ-rmbɯ}和|fv{kɤ-rtsɯɣ}不一样，后者用于木料，而前者用于肥料
 \dt 14/May/2011
 
-\lx rtsɯz
+\lx _rtsɯz
 \wav vt-rtsWz
 \ps vt
 \pdl dir 
@@ -72190,9 +72597,9 @@
 \cf rtsi
 \dt 14/May/2011
 
-\lx ru
+\lx _ru
 \hm 1
-\wav8 8_amaCtAru
+\wav8 amaCtAru
 \ps vi
 \pdl dir 
 \pdv _
@@ -72226,7 +72633,7 @@
 \xn 我没有让他看
 \dt 12/Jul/2016
 
-\lx ru
+\lx _ru
 \hm 2
 \wav vt-ru
 \ps vt
@@ -72248,7 +72655,7 @@
 \xn 我自己去拿来
 \dt 12/Sep/2012
 
-\lx ru
+\lx _ru
 \hm 3
 \wav vt-ru3
 \ps vt
@@ -72274,11 +72681,11 @@
 \xn 你能不能叫别人帮我算命
 \dt 07/Nov/2014
 
-\lx rɯ 
+\lx _rɯ 
 \hm 1
-\wav8 8_rW
-\wav8 8_rW2
-\wav8 8_def-rW
+\wav8 rW
+\wav8 rW2
+\wav8 def-rW
 \ps vs
 \ge épais (liquide qui contient beaucoup de matière grasse)
 \gn 浓（液体里的牛奶或者油）
@@ -72288,8 +72695,8 @@
 \xn 牛奶不浓，（茶里）只有一点点白色
 \ev tɯ-ɕi ɯ-ŋgɯ nɯ tɕe tɯ-kri a-pɯ-dɤn tɕe ɲɯ-rɯ tu-kɯ-ti ŋu
 
-\lx rɯβ
-\wav8 8_YWrWB
+\lx _rɯβ
+\wav8 YWrWB
 \ps vs
 \pdl dir 
 \pdv kɤ-
@@ -72299,7 +72706,7 @@
 \xn 森林不好走
 \dt 24/Oct/2013
 
-\lx rɯβluβra
+\lx _rɯβluβra
 \ps vs
 \ng denom
 \ge qui donne de bons conseils
@@ -72309,8 +72716,8 @@
 \cf βluβra
 \dt 27/Aug/2015
 
-\lx rɯcɤβŋgɤβ
-\wav8 8_kArWcANgAB
+\lx _rɯcɤβŋgɤβ
+\wav8 kArWcANgAB
 \ps vs
 \pdl dir
 \pdv tɤ-
@@ -72325,7 +72732,7 @@
 \xn 他不会骄傲自大
 \dt 03/Sep/2015
 
-\lx rɯcɯnmu
+\lx _rɯcɯnmu
 \wav vi-rWcinmu
 \ps vi
 \pdl dir 
@@ -72339,7 +72746,7 @@
 \cf cɯnmu
 \dt 15/Jul/2016
 
-\lx rɯɕaŋchi
+\lx _rɯɕaŋchi
 \wav vi-rWCaNchi
 \wav vi-rWCoNtCi
 \ps vi
@@ -72353,7 +72760,7 @@
 \xn 他以前不打扮，现在就最爱打扮了
 \dt 15/Jul/2016
 
-\lx rɯɕɤtsha
+\lx _rɯɕɤtsha
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -72365,10 +72772,10 @@
 \sy rɯndzaŋspa
 \dt 15/Jul/2016
 
-\lx rɯɕmi
+\lx _rɯɕmi
 \wav vi-rWCmi
-\wav8 8_rWCmi
-\wav8 8_rWCmi2
+\wav8 rWCmi
+\wav8 rWCmi2
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -72397,7 +72804,7 @@
 \gn 互相讲话
 \dt 13/Oct/2016
 
-\lx rɯɕmɯlaʁ
+\lx _rɯɕmɯlaʁ
 \ps vi
 \ge parler
 \gn 讲话
@@ -72407,7 +72814,7 @@
 \xn 门后面好像有人在讲话
 \dt 29/Aug/2015
 
-\lx rɯɕmɯχtɤm
+\lx _rɯɕmɯχtɤm
 \ps vi
 \pdl dir
 \pdv pɯ-
@@ -72418,7 +72825,7 @@
 \cf rɯɕmi
 \dt 27/Aug/2015
 
-\lx rɯɕoŋβzu
+\lx _rɯɕoŋβzu
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -72429,7 +72836,7 @@
 \cf ɕoŋβzu
 \dt 26/Aug/2012
 
-\lx rɯfsɤri
+\lx _rɯfsɤri
 \ps vt
 \pdl dir
 \pdv lɤ-
@@ -72440,7 +72847,7 @@
 \cf tɤ-fsɤri
 \dt 13/Oct/2014
 
-\lx rɯftɕaka
+\lx _rɯftɕaka
 \wav vi-rWftCAka
 \ps vi
 \ng denom
@@ -72456,7 +72863,7 @@
 \cf sɤftɕaka
 \dt 11/May/2014
 
-\lx rɯftɕɤfkɤt
+\lx _rɯftɕɤfkɤt
 \wav vi-rWftCAfkAt
 \ps vi
 \ng denom
@@ -72469,13 +72876,13 @@
 \cf ftɕɤfkɤt
 \dt 15/Jul/2016
 
-\lx rɯɣ
+\lx _rɯɣ
 \ps vs
 \ge précieux
 \gn 贵重
 \dt 20/Dec/2011
 
-\lx rɯɣnɤn
+\lx _rɯɣnɤn
 \wav vi-rWGnAn
 \ps vi
 \pdl dir 
@@ -72498,7 +72905,7 @@
 \xn 他跟我开了玩笑
 \dt 15/May/2013
 
-\lx rɯɣne
+\lx _rɯɣne
 \wav vt-rWGne
 \ps vt
 \pdl dir 
@@ -72515,7 +72922,7 @@
 \xn 我错了，你不要骂我
 \dt 20/May/2013
 
-\lx rɯjɤɣɤt
+\lx _rɯjɤɣɤt
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -72525,7 +72932,7 @@
 \cf jɤɣɤt
 \dt 26/Aug/2012
 
-\lx rɯɟuli
+\lx _rɯɟuli
 \ps vi
 \ng denom
 \ge jouer de la flûte
@@ -72533,7 +72940,7 @@
 \cf ɟuli
 \dt 07/Sep/2015
 
-\lx rɯkɤtɯm
+\lx _rɯkɤtɯm
 \wav vi-rWkAtWm
 \ps vi
 \pdl dir 
@@ -72545,7 +72952,7 @@
 \xn 你缠线吧
 \dt 20/May/2011
 
-\lx rɯkhɤcɤl
+\lx _rɯkhɤcɤl
 \wav vi-rWkhAcAl
 \ps vi
 \pdl dir 
@@ -72560,7 +72967,7 @@
 \xn 我们聊天了
 \dt 20/May/2011
 
-\lx rɯkhɤrlɤn
+\lx _rɯkhɤrlɤn
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -72572,8 +72979,8 @@
 \cf khɤrlɤn
 \dt 09/Dec/2013
 
-\lx rɯkhon
-\wav8 8_tukWrWkhon
+\lx _rɯkhon
+\wav8 tukWrWkhon
 \ps vi
 \pdl dir
 \pdv tɤ-
@@ -72585,7 +72992,7 @@
 \cf ɯ-khon
 \dt 10/Oct/2014
 
-\lx rɯkhramba
+\lx _rɯkhramba
 \wav vi-rWkhramba
 \ps vi
 \pdl dir 
@@ -72600,7 +73007,7 @@
 \xv nɯkhramba
 \dt 24/Mar/2014
 
-\lx rɯkɯɕnom
+\lx _rɯkɯɕnom
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -72610,7 +73017,7 @@
 \cf kɯɕnom
 \dt 17/Jun/2012
 
-\lx rɯkɯmaʁ
+\lx _rɯkɯmaʁ
 \wav vi-rWkWmaR
 \ps vi
 \pdl dir 
@@ -72625,7 +73032,7 @@
 \cf nɯkɯmaʁ
 \dt 20/May/2011
 
-\lx rɯkɯŋu
+\lx _rɯkɯŋu
 \wav vi-rWkWNu
 \ps vs
 \pdl dir 
@@ -72641,7 +73048,7 @@
 \cf ŋu
 \dt 17/Sep/2012
 
-\lx rɯlajɯ
+\lx _rɯlajɯ
 \ps vi
 \pdl dir
 \pdv thɯ-
@@ -72653,7 +73060,7 @@
 \cf lajɯ
 \dt 18/May/2014
 
-\lx rɯlaʁjɤt
+\lx _rɯlaʁjɤt
 \ps vi
 \ng denom
 \ge faire du travail manuel
@@ -72661,7 +73068,7 @@
 \cf laʁjɤt
 \dt 03/Jul/2016
 
-\lx rɯm
+\lx _rɯm
 \wav vt-rWm
 \ps vt
 \pdl dir 
@@ -72675,7 +73082,7 @@
 \sy rɤjɯɣ
 \dt 27/Oct/2013
 
-\lx rɯmani
+\lx _rɯmani
 \wav vi-rWmani
 \ps vi
 \pdl dir 
@@ -72687,7 +73094,7 @@
 \xn 老年人们在念玛尼
 \dt 20/May/2011
 
-\lx rɯmboʁkhɯr
+\lx _rɯmboʁkhɯr
 \ps vt
 \ng denom
 \pdl dir 
@@ -72700,7 +73107,7 @@
 \cf mboʁkhɯr
 \dt 15/Jan/2015
 
-\lx rɯmpɕɯmɤr
+\lx _rɯmpɕɯmɤr
 \wav vi-rWpCimAr2
 \ps vi
 \pdl dir 
@@ -72712,7 +73119,7 @@
 \xn 我们庆祝了
 \dt 06/May/2012
 
-\lx rɯmphrɯmɯ
+\lx _rɯmphrɯmɯ
 \wav vi-rWmphrWmW
 \ps vi
 \pdl dir 
@@ -72735,7 +73142,7 @@
 \cf mphrɯmɯ
 \dt 09/Jun/2013
 
-\lx rɯmɯntoʁ
+\lx _rɯmɯntoʁ
 \wav vi-rWmWntoR
 \ps vi
 \pdl dir 
@@ -72750,7 +73157,7 @@
 \cf mɯntoʁ
 \dt 21/May/2011
 
-\lx rɯndzaŋspa
+\lx _rɯndzaŋspa
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -72763,7 +73170,7 @@
 \xn 你小心一点，不然会被偷东西的
 \dt 24/Aug/2012
 
-\lx rɯndzɤqhɤjɯ
+\lx _rɯndzɤqhɤjɯ
 \wav vi-rWndzAqhAjW
 \ps vi
 \pdl dir 
@@ -72787,7 +73194,7 @@
 \cf ndzɤqhɤjɯ
 \dt 06/Sep/2015
 
-\lx rɯndzɤtshi
+\lx _rɯndzɤtshi
 \wav vi-rWndzAtshi
 \ps vi
 \pdl dir 
@@ -72811,7 +73218,7 @@
 \gn 请别人吃一顿
 \dt 01/Jan/2015
 
-\lx rɯɲɟele
+\lx _rɯɲɟele
 \wav vi-rYJele
 \ps vi
 \pdl dir 
@@ -72823,7 +73230,7 @@
 \xv sɤrɲɟɤle
 \dt 21/May/2011
 
-\lx rɯŋgɤlwoʁ
+\lx _rɯŋgɤlwoʁ
 \wav vi-rWNgAlwoR
 \ps vi
 \ng incorp
@@ -72835,7 +73242,7 @@
 \sy lwoʁ
 \dt 09/Jun/2013
 
-\lx rɯŋgoŋpu
+\lx _rɯŋgoŋpu
 \wav vi-rWNgoNpu
 \ps vi
 \pdl dir 
@@ -72846,7 +73253,7 @@
 \xn 我今天破坏了东西
 \dt 21/May/2011
 
-\lx rɯŋundʑu
+\lx _rɯŋundʑu
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -72857,7 +73264,7 @@
 \cf nɯŋundʑu
 \dt 21/May/2011
 
-\lx rɯŋɯŋɤn
+\lx _rɯŋɯŋɤn
 \wav vi-rWNWNAn
 \ps vi
 \pdl dir 
@@ -72870,11 +73277,11 @@
 \xn 洪水来了，搞了破坏
 \dt 15/Jul/2016
 
-\lx rɯphɯrɤm
+\lx _rɯphɯrɤm
 \cf nɯphɯrɤm
 \dt 01/May/2012
 
-\lx rɯphɯrlaʁ
+\lx _rɯphɯrlaʁ
 \wav vi-rWphWrlaR
 \ps vi
 \pdl dir 
@@ -72887,7 +73294,7 @@
 \xn 他拆了房子，浪费了他们的东西，把财产花光了
 \dt 15/Jul/2016
 
-\lx rɯpjɤβlaʁ
+\lx _rɯpjɤβlaʁ
 \wav vi-rWpjABlAR2
 \ps vs
 \pdl dir 
@@ -72899,7 +73306,7 @@
 \xn 那个人很狡猾
 \dt 21/Oct/2011
 
-\lx rɯpjɤŋkhɤr
+\lx _rɯpjɤŋkhɤr
 \wav vi-rWpjAnkhAr
 \ps vi
 \pdl dir 
@@ -72914,7 +73321,7 @@
 \en 到处转来转去四处张望，这个叫做“盘旋”
 \dt 09/Jun/2013
 
-\lx rɯqajɯ
+\lx _rɯqajɯ
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -72927,7 +73334,7 @@
 \cf nɯqajɯ
 \dt 26/Aug/2012
 
-\lx rɯqartsɤβ
+\lx _rɯqartsɤβ
 \wav vi-rWqartsAB
 \ps vi
 \ng denom
@@ -72944,9 +73351,9 @@
 \cf qartsɤβ
 \dt 09/Jun/2013
 
-\lx rɯqhaχɕu
+\lx _rɯqhaχɕu
 \wav vi-rWqhaXCu
-\wav8 8_rWqhaXCu
+\wav8 rWqhaXCu
 \ps vi
 \pdl dir 
 \pdv tɤ- 
@@ -72973,7 +73380,7 @@
 \cf znaχɕɯχɕu
 \dt 26/Aug/2012
 
-\lx rɯra
+\lx _rɯra
 \ps vi
 \pdl dir
 \pdv _
@@ -72984,7 +73391,7 @@
 \xn 他生病，我就去看他了
 \dt 14/May/2014
 
-\lx rɯrawa
+\lx _rɯrawa
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -72997,7 +73404,7 @@
 \et re.ba
 \dt 25/Aug/2012
 
-\lx rɯrɤt
+\lx _rɯrɤt
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -73008,7 +73415,7 @@
 \sy khrɤt2
 \dt 29/Dec/2014
 
-\lx rɯrcaŋpɕaʁ
+\lx _rɯrcaŋpɕaʁ
 \ps vi
 \ng denom
 \ge se prosterner jusqu'à un lieu saint tout le long de la route
@@ -73017,7 +73424,7 @@
 \cf rcaŋpɕaʁ
 \dt 09/Jun/2013
 
-\lx rɯrdɤβzu
+\lx _rɯrdɤβzu
 \ps vi
 \ge faire de la maçonnerie
 \gn 做石工
@@ -73026,7 +73433,7 @@
 \cf rdɤβzu
 \dt 12/Aug/2012
 
-\lx rɯrɟa
+\lx _rɯrɟa
 \ps vt
 \pdl dir
 \pdv pɯ-
@@ -73038,7 +73445,7 @@
 \cf ɯ-rɟa
 \dt 19/Aug/2015
 
-\lx rɯrɟaŋrɟɤz
+\lx _rɯrɟaŋrɟɤz
 \ps vi
 \ge perdre du temps
 \gn 拖延时间
@@ -73046,11 +73453,11 @@
 \xn 别拖延时间，抓紧时间，不然的话这件事情做不完
 \dt 01/Sep/2015
 
-\lx rɯrɟɯfsoʁ
+\lx _rɯrɟɯfsoʁ
 \cf ɣɯrɟɯfsoʁ
 \dt 13/Mar/2013
 
-\lx rɯrtsɯpɣaʁ
+\lx _rɯrtsɯpɣaʁ
 \wav vi-rWtsWpGaR
 \ng denom
 \ps vi
@@ -73062,7 +73469,7 @@
 \cf nɯrtsɯpɣaʁ
 \dt 25/May/2011
 
-\lx rɯrtsɯtʂɯɣ
+\lx _rɯrtsɯtʂɯɣ
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -73075,7 +73482,7 @@
 \xn 我算账了
 \dt 24/Aug/2012
 
-\lx rɯru
+\lx _rɯru
 \wav vt-rWru
 \ps vt
 \pdl dir 
@@ -73091,7 +73498,7 @@
 \sy nɤmdzɯ
 \dt 25/May/2011
 
-\lx rɯʁdɯʁdɯɣ
+\lx _rɯʁdɯʁdɯɣ
 \wav vi-rWRdWRdWG 
 \ps vs
 \pdl dir 
@@ -73106,9 +73513,9 @@
 \xn 他妨碍我的工作
 \dt 15/Jul/2016
 
-\lx rɯʁdɯxpa
+\lx _rɯʁdɯxpa
 \wav vi-rWRdWxpa
-\wav8 8_rWRdWxpa
+\wav8 rWRdWxpa
 \ps vs
 \ng denom
 \pdl dir 
@@ -73123,7 +73530,7 @@
 \cf ʁdɯxpa
 \dt 09/Jun/2013
 
-\lx rɯʁgiwa
+\lx _rɯʁgiwa
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -73132,7 +73539,7 @@
 \cf ʁgiwa
 \dt 07/Nov/2011
 
-\lx rɯʁlɤwɯr
+\lx _rɯʁlɤwɯr
 \wav vi-rWRlAwur
 \ps vi
 \pdl dir 
@@ -73145,7 +73552,7 @@
 \xn 汶川大地震发生得很突然
 \dt 22/Mar/2014
 
-\lx rɯscɯscit
+\lx _rɯscɯscit
 \ps vs
 \ge oisif
 \gn 清闲；安逸
@@ -73153,7 +73560,7 @@
 \xn 他真清闲
 \dt 20/Jul/2016
 
-\lx rɯskɤrwa
+\lx _rɯskɤrwa
 \wav vi-rWskArwa
 \ps vi
 \ng denom
@@ -73170,7 +73577,7 @@
 \cf skɤrwa
 \dt 09/Jun/2013
 
-\lx rɯsɲaŋne
+\lx _rɯsɲaŋne
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -73180,7 +73587,7 @@
 \cf nɯsɲaŋne
 \dt 25/May/2011
 
-\lx rɯstɯnmɯ
+\lx _rɯstɯnmɯ
 \wav vi-rWstWnmW
 \ps vi
 \pdl dir 
@@ -73208,7 +73615,7 @@
 \gn 使……结婚 
 \dt 22/Aug/2015
 
-\lx rɯsɯso
+\lx _rɯsɯso
 \wav vi-rWsWso
 \ps vi
 \ng denom
@@ -73233,7 +73640,7 @@
 \cf sɯso
 \dt 19/Aug/2015
 
-\lx rɯtɤmtɯ
+\lx _rɯtɤmtɯ
 \ps vt
 \pdl dir
 \pdv thɯ-
@@ -73245,7 +73652,7 @@
 \cf tɤ-mtɯ
 \dt 07/Sep/2015
 
-\lx rɯtɕɤmɯ
+\lx _rɯtɕɤmɯ
 \ps vi
 \pdl dir 
 \pdv lɤ-
@@ -73256,7 +73663,7 @@
 \cf nɯtɕɤmɯ
 \dt 30/Aug/2012
 
-\lx rɯtɕhɤfɕɤt
+\lx _rɯtɕhɤfɕɤt
 \ps vi
 \ge participer à un débat philosophique
 \gn 辩经
@@ -73265,7 +73672,7 @@
 \cf tɕhɤfɕɤt
 \dt 18/Jul/2016
 
-\lx rɯtɕhɯtɕhi
+\lx _rɯtɕhɯtɕhi
 \ps vi
 \ge chicaner
 \gn 讲究，计较
@@ -73273,7 +73680,7 @@
 \xn 你不喜欢的东西太多了，不要这么计较
 \dt 04/Sep/2015
 
-\lx rɯtɕhɯχtɤr
+\lx _rɯtɕhɯχtɤr
 \wav vi-rWtChWXtAr2
 \ps vi
 \pdl dir 
@@ -73286,7 +73693,7 @@
 \cf phɤtɕhɯχtɤr
 \dt 09/Jul/2016
 
-\lx rɯtshoŋpa
+\lx _rɯtshoŋpa
 \wav vi-rWtshoNpa
 \ps vi
 \pdl dir 
@@ -73298,9 +73705,9 @@
 \xn 他以前做生意（现在不做了）
 \dt 28/May/2011
 
-\lx rɯtɯsqa
-\wav8 8_lArWtWsqaj
-\wav8 8_kArWtWsqa
+\lx _rɯtɯsqa
+\wav8 lArWtWsqaj
+\wav8 kArWtWsqa
 \ps vi
 \pdl dir 
 \pdv lɤ-
@@ -73316,7 +73723,7 @@
 \cf tɯsqa
 \dt 02/Jun/2013
 
-\lx rɯtɯwɯ
+\lx _rɯtɯwɯ
 \wav vi-rWtWwW
 \ps vs
 \pdl dir 
@@ -73328,7 +73735,7 @@
 \ev tɤɕi tɤ-wxti tɕe ʑatsa ɯ-kɯɕnom lɤt tɤkha tɕe, nɯnɯ tɯwɯ tsa fse tɕe, nɯ to-rɯtɯwɯ tu-kɯ-ti ŋu
 \dt 06/Aug/2012
 
-\lx rɯxtuxti
+\lx _rɯxtuxti
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -73347,12 +73754,12 @@
 \cf wxti
 \dt 29/Jul/2014
 
-\lx rɯχamba
+\lx _rɯχamba
 \ps vs
 \ge être présomptueux
 \gn 骄傲；自大
 \se znɯχamba
-\wav8 8_nAkAznWXamba
+\wav8 nAkAznWXamba
 \ps vt
 \ge agir de façon présomptueuse
 \gn 骄傲；自大
@@ -73360,7 +73767,7 @@
 \xn 你没有什么理由骄傲
 \dt 09/Feb/2015
 
-\lx rɯχɕɯχɕɤβ
+\lx _rɯχɕɯχɕɤβ
 \ps vi
 \pdl dir
 \pdv tɤ-
@@ -73371,7 +73778,7 @@
 \cf χɕɤβ
 \dt 25/Aug/2015
 
-\lx rɯχparɤβ
+\lx _rɯχparɤβ
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -73379,7 +73786,7 @@
 \gn 卖弄，夸耀自己
 \sy znɤchacha
 
-\lx rɯχtɕɯrɯ
+\lx _rɯχtɕɯrɯ
 \ps vs
 \ge tout nu
 \gn 裸体；光着身子
@@ -73387,7 +73794,7 @@
 \cf χtɕɯrɯpa
 \dt 27/Jan/2014
 
-\lx rɯχtsɯχtso
+\lx _rɯχtsɯχtso
 \wav vi-rWXtsWXtso
 \ps vi
 \ge aimer la propreté
@@ -73401,7 +73808,7 @@
 \cf χtso
 \dt 13/Mar/2013
 
-\lx rɯz
+\lx _rɯz
 \ps vs
 \pdl dir 
 \pdv pɯ-
@@ -73412,7 +73819,7 @@
 \xn 我听说外面在下雨，我去看了一下是真的
 \dt 15/May/2013
 
-\lx rɯzdɯzdɯɣ
+\lx _rɯzdɯzdɯɣ
 \ps vi
 \pdl dir
 \pdv tɤ-
@@ -73424,7 +73831,7 @@
 \xn 因为觉得辛苦，他不停地诉苦
 \dt 01/Sep/2014
 
-\lx rwɤt
+\lx _rwɤt
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -73441,7 +73848,7 @@
 \sy lɣa
 \dt 24/Aug/2012
 
-\lx rzoŋ
+\lx _rzoŋ
 \wav vt-rzoN
 \ps vt
 \pdl dir 
@@ -73457,7 +73864,7 @@
 \xn 你给枪装子弹吧
 \dt 20/May/2013
 
-\lx rzoʁ
+\lx _rzoʁ
 \ps vi
 \ge pousser (complète)
 \gn （完全）长出了
@@ -73472,7 +73879,7 @@
 \xn 很多事情同一个时间堆在一起，无从下手
 \dt 02/Sep/2015
 
-\lx rʑaʁ
+\lx _rʑaʁ
 \wav vi-rZaR
 \ps vi
 \pdl dir 
@@ -73484,7 +73891,7 @@
 \cf tɤ-rʑaʁ1
 \dt 25/May/2011
 
-\lx rʑi
+\lx _rʑi
 \wav vi-rZi
 \ps vs
 \pdl dir 
@@ -73497,11 +73904,16 @@
 \xv rdɤstaʁ ɲɯ-rʑi
 \xn 石头很重
 \an ʑo1
+\se ɣɤrʑi
+\ps vt
+\ng caus
+\ge alourdir
+\gn 加重
 \dt 18/Mar/2015
 
-\lx ʁaʁ
+\lx _ʁaʁ
 \wav vi-RaR-b
-\wav8 8_sWGRaR
+\wav8 sWGRaR
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -73526,7 +73938,7 @@
 \xn 我令鸡蛋孵化（用人工的手段）
 \dt 05/Sep/2011
 
-\lx ʁdɯɣ
+\lx _ʁdɯɣ
 \hm 1
 \wav vi-RdWG
 \wav vi-RdWG2
@@ -73545,8 +73957,8 @@
 \xn 吃了药就没有关系
 \dt 12/Apr/2011
 
-\lx ʁjɤr
-\wav8 8_RjAr
+\lx _ʁjɤr
+\wav8 RjAr
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -73556,7 +73968,7 @@
 \xn 它的羽毛长得很密
 \dt 02/Jul/2012
 
-\lx ʁjit
+\lx _ʁjit
 \wav vt-Rjit
 \ps vt
 \pdl dir 
@@ -73578,7 +73990,7 @@
 \xn 你在提醒我
 \dt 18/Aug/2015
 
-\lx ʁɟo
+\lx _ʁɟo
 \wav vt-RJo
 \ps vt
 \pdl dir 
@@ -73596,9 +74008,10 @@
 \xn 我冲了
 \xv tɯthɯ na-ʁɟo
 \xn 他把锅子冲了一下
-\dt 12/Apr/2011
+\cf ɯ-ʁɟoʁɟe
+\dt 22/Feb/2018
 
-\lx ʁlɯn
+\lx _ʁlɯn
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -73607,7 +74020,7 @@
 \et glen.pa
 \cf ʁlɯnba
 
-\lx ʁma
+\lx _ʁma
 \ps vs
 \pdl dir 
 \pdv pɯ-
@@ -73618,9 +74031,9 @@
 \xn 那杆枪打得很低
 \an mthu
 
-\lx ʁmɯɣ
+\lx _ʁmɯɣ
 \wav vt-RmWG
-\wav8 8_RmWG
+\wav8 RmWG
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -73630,7 +74043,7 @@
 \xn 他怀疑是不是
 \xv kɯki a-pɯ-jɤɣ tɕe, tu-nɯna-a ku-ʁmɯɣ-a
 \xn 这件事结束的时候，我打算休息
-\xv fsɤqhe tɕe mbarkhom kɤ-ɕe ku-ʁmɯɣ-a
+\xv fsaqhe tɕe mbarkhom kɤ-ɕe ku-ʁmɯɣ-a
 \xv mbarkhom ju-ɕe-a ku-ʁmɯɣ-a
 \xn 我打算明年去马尔康
 \xv nɤ-qajɣi tu-kɤ-χtɯ tɤ-ʁmɯɣ-a ri, pɤjkhu mɯ-ko-smi 
@@ -73645,7 +74058,7 @@
 \xn 我决定今天回去
 \dt 26/Aug/2015
 
-\lx ʁnɤt
+\lx _ʁnɤt
 \wav vt-naRnAt
 \ps vs
 \pdl dir 
@@ -73672,7 +74085,7 @@
 \cf saʁnɤt
 \dt 15/May/2013
 
-\lx ʁndɤr
+\lx _ʁndɤr
 \wav vi-RndAr
 \ps vi
 \pdl dir 
@@ -73693,7 +74106,7 @@
 \cf χtɤr
 \dt 15/Jul/2016
 
-\lx ʁndɯ
+\lx _ʁndɯ
 \wav vt-RndW
 \ps vt
 \pdl dir 
@@ -73715,7 +74128,7 @@
 \sy rdoŋ
 \dt 05/Jun/2011
 
-\lx ʁndzɤr
+\lx _ʁndzɤr
 \wav vt-RndzAr
 \ps vt
 \pdl dir 
@@ -73744,9 +74157,9 @@
 \xn 我用剪刀剪了
 \dt 03/Nov/2013
 
-\lx ʁnɯ
+\lx _ʁnɯ
 \wav vi-RnW2
-\wav8 8_RnW
+\wav8 RnW
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -73769,7 +74182,7 @@
 \xn 他说总是没完没了（一会这样说，一会那样说），令我起了疑心 
 \dt 15/Jul/2016
 
-\lx ʁɲɯm
+\lx _ʁɲɯm
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -73780,7 +74193,7 @@
 \xn 他对我起了疑心
 \dt 01/Sep/2015
 
-\lx ʁzɤβ
+\lx _ʁzɤβ
 \wav vi-RzAB
 \ps vi
 \pdl dir 
@@ -73807,7 +74220,7 @@
 \xn
 \dt 02/Sep/2015
 
-\lx ʁzi
+\lx _ʁzi
 \ps vs
 \pdl dir 
 \pdv thɯ-
@@ -73820,7 +74233,7 @@
 \cf naʁzi
 \dt 24/Aug/2012
 
-\lx sa
+\lx _sa
 \wav vi-sa2
 \ps vs
 \pdl dir 
@@ -73859,11 +74272,11 @@
 \xn 我把刀弄钝了
 \dt 15/Jul/2016
 
-\lx saqru
+\lx _saqru
 \cf qru
 \dt 24/Aug/2012
 
-\lx sar
+\lx _sar
 \wav vt-sar
 \ps vt
 \pdl dir 
@@ -73877,7 +74290,7 @@
 \xn 你把牛奶过滤一下
 \dt 05/Jun/2011
 
-\lx saʁ
+\lx _saʁ
 \wav vt-saR2
 \ps vt
 \pdl dir 
@@ -73890,9 +74303,8 @@
 \xn 我撕开了毛
 \dt 05/Jun/2011
 
-\lx saʁdɤt
+\lx _saʁdɤt
 \wav vi-saRdAt
-\wav vi-saRdAt2
 \ps vs
 \ng deexp
 \pdl dir 
@@ -73904,13 +74316,11 @@
 \xn 地干就不滑，下雨的话就滑
 \xv tɯ-mɯ pjɤ-lɤt tɕe ɲɯ-saʁdɤt
 \xn 下雨了，地很滑
-\xv qaɟy ɲɯ-saʁdɤt
-\xn 鱼很滑
 \cf aʁdɤt
 \sy sɤŋgio
 \dt 05/Nov/2011
 
-\lx saʁdɯɣ
+\lx _saʁdɯɣ
 \wav vi-sARdWG
 \ps vs
 \ng deexp
@@ -73923,11 +74333,11 @@
 \xn 你起来，你在那里碍事
 \dt 21/Oct/2011
 
-\lx saʁjɤr
+\lx _saʁjɤr
 \cf aʁjɤr
 \dt 28/Sep/2013
 
-\lx saʁjɯβ
+\lx _saʁjɯβ
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -73940,11 +74350,11 @@
 \cf ta-ʁjɯβ
 \dt 24/Aug/2015
 
-\lx saʁɟa
+\lx _saʁɟa
 \cf aʁɟa
 \dt 27/Jun/2011
 
-\lx saʁlɤt
+\lx _saʁlɤt
 \wav vt-saRlAt
 \ps vt
 \pdl dir 
@@ -73960,9 +74370,9 @@
 \xn 我扬了胡豆
 \dt 11/Nov/2013
 
-\lx saʁnɤt
+\lx _saʁnɤt
 \wav vi-saRnAt
-\wav8 8_sARnAt
+\wav8 sARnAt
 \ps vs
 \pdl dir 
 \pdv thɯ-
@@ -73981,7 +74391,7 @@
 \cf ʁnɤt
 \dt 24/Aug/2015
 
-\lx saʁre
+\lx _saʁre
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -73991,7 +74401,7 @@
 \cf ɯ-rʁe
 \dt 06/Sep/2014
 
-\lx saʁrɯm
+\lx _saʁrɯm
 \ps vt
 \ng denom
 \pdl dir 
@@ -74007,9 +74417,9 @@
 \cf ta-ʁrɯm
 \dt 13/Jun/2013
 
-\lx sat
+\lx _sat
 \wav vt-sat
-\wav8 8_kWsAsat
+\wav8 kWsAsat
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -74050,7 +74460,7 @@
 \xn 他们俩互相残杀了
 \dt 18/Jul/2016
 
-\lx saχaʁ
+\lx _saχaʁ
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -74058,7 +74468,7 @@
 \gn 极度的 
 \cf naχaʁ
 
-\lx saχɕɤra
+\lx _saχɕɤra
 \wav vt-saXCAra
 \ps vt
 \pdl dir 
@@ -74069,7 +74479,7 @@
 \xn 你把铺盖在床上铺平
 \dt 09/Jun/2013
 
-\lx saχɕɯβ
+\lx _saχɕɯβ
 \wav vt-saXCWB
 \wav vt-saXCWB2
 \wav vt-nWsaXCWB
@@ -74089,7 +74499,7 @@
 \cf nɯsaχɕɯβ
 \dt 01/Sep/2015
 
-\lx saχɕɯn
+\lx _saχɕɯn
 \wav vi-saXCin
 \ps vs
 \pdl dir 
@@ -74103,7 +74513,7 @@
 \cf naχɕɯn
 \dt 18/Aug/2015
 
-\lx saχpaʁ
+\lx _saχpaʁ
 \wav vt-saXpaR
 \ps vt
 \pdl dir 
@@ -74131,7 +74541,7 @@
 \xn 我们俩互相尊重
 \dt 16/Jul/2016
 
-\lx saχsɤl
+\lx _saχsɤl
 \hm 1
 \wav vi-sAXsAl
 \ps vs
@@ -74151,7 +74561,7 @@
 \xn 要把真相透露出去
 \dt 22/Aug/2015
 
-\lx saχsi
+\lx _saχsi
 \wav vt-saXsi
 \ps vt
 \pdl dir 
@@ -74173,15 +74583,15 @@
 \cf aχsi
 \dt 04/Aug/2012
 
-\lx saχsom
+\lx _saχsom
 \cf aχsom
 \dt 10/Sep/2011
 
-\lx saχsɯko
+\lx _saχsɯko
 \cf aχsɯko
 \dt 04/Aug/2012
 
-\lx saχthɯm
+\lx _saχthɯm
 \wav vt-saXthWm2
 \ps vt
 \pdl dir 
@@ -74194,7 +74604,7 @@
 \xn 他用瓢子舀了
 \dt 30/Mar/2014
 
-\lx saχti
+\lx _saχti
 \ps vs
 \ge aimable 
 \gn 很好相处，合得来
@@ -74202,11 +74612,11 @@
 \cf tɯ-χti
 \cf naχti
 
-\lx sɤβdɤβde
+\lx _sɤβdɤβde
 \cf aβdɤβde
 \dt 06/Jun/2011
 
-\lx sɤβlo
+\lx _sɤβlo
 \wav vt-sABlo
 \ps vt
 \pdl dir 
@@ -74218,15 +74628,15 @@
 \cf nɤpɤβdaʁ
 \dt 22/Feb/2014
 
-\lx sɤβlɯβlɯɣ
+\lx _sɤβlɯβlɯɣ
 \cf ɣɤβlɯβlɯɣ
 \dt 29/Sep/2011
 
-\lx sɤβri
+\lx _sɤβri
 \cf βri
 \dt 05/Aug/2012
 
-\lx sɤβzdoʁβzdɯ
+\lx _sɤβzdoʁβzdɯ
 \wav vt-sABzdoRBzdW
 \wav vt-sABzdoRBzdW2
 \ps vt
@@ -74242,13 +74652,13 @@
 \cf aβzdoʁβzdɯ
 \dt 06/Jun/2011
 
-\lx sɤβzi
+\lx _sɤβzi
 \cf βzi
 \dt 25/Jan/2015
 
-\lx sɤβzu
+\lx _sɤβzu
 \wav vt-sABzu
-\wav8 8_sABzu
+\wav8 sABzu
 \ps vt
 \sn 1
 \pdl dir 
@@ -74264,6 +74674,7 @@
 \xv tɤɕi kɤ-rŋu tɤ-sɤβzu-t-a 
 \xn 我把青稞准备好了，可以炒了
 \xv tɤɕi tɯsqar nɯ-sɤβzu-t-a 
+\xn 把青稞作成糌粑了
 \xv tɤ-pɤtso kɤ-ntɕhoz kɯ-sna nɯ-sɤβzu-t-a 
 \xn 我把孩子培养成有用的人了
 \xv tɤ-mu nɯ kɯ paʁ kɤ-ntɕha to-sɤβzu 
@@ -74276,7 +74687,7 @@
 \cf aβzu
 \dt 19/Aug/2015
 
-\lx sɤβzɯβzu
+\lx _sɤβzɯβzu
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -74287,9 +74698,9 @@
 \cf sɤβzu
 \dt 06/Jun/2011
 
-\lx sɤcha
+\lx _sɤcha
 \wav vi-sAcha
-\wav8 8_sAcha
+\wav8 sAcha
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -74310,7 +74721,7 @@
 \cf cha1
 \dt 09/Jun/2013
 
-\lx sɤchɯchɯβ
+\lx _sɤchɯchɯβ
 \wav vi-sAchWchWB
 \ps vt
 \pdl dir 
@@ -74323,27 +74734,27 @@
 \xn 我不顾一切地冲上去了
 \dt 24/Jun/2011
 
-\lx sɤchɯrʁu
+\lx _sɤchɯrʁu
 \cf achɯrʁu
 \dt 08/Jun/2011
 
-\lx sɤci
+\lx _sɤci
 \cf aci
 \dt 08/Jun/2011
 
-\lx sɤcɯqhlɯβ
+\lx _sɤcɯqhlɯβ
 \cf ɣɤcɯqhlɯβ
 \dt 01/Jul/2016
 
-\lx sɤɕaβ
+\lx _sɤɕaβ
 \cf ɕaβ1
 \dt 26/Oct/2011
 
-\lx sɤɕar
+\lx _sɤɕar
 \cf ɕar
 \dt 20/Nov/2011
 
-\lx sɤɕɤt
+\lx _sɤɕɤt
 \wav vt-sACAt
 \ps vt
 \pdl dir 
@@ -74361,11 +74772,11 @@
 \cf tɤɕɤt
 \dt 08/Jun/2011
 
-\lx sɤɕkɤɣɕkɤɣ
+\lx _sɤɕkɤɣɕkɤɣ
 \cf ɣɤɕkɤɣɕkɤɣ
 \dt 29/Sep/2011
 
-\lx sɤɕke
+\lx _sɤɕke
 \hm 1
 \wav vi-sACke
 \ps vs
@@ -74387,7 +74798,7 @@
 \xn 我觉得很烫
 \dt 12/Jul/2016
 
-\lx sɤɕke
+\lx _sɤɕke
 \hm 2
 \ps vt
 \pdl dir
@@ -74399,11 +74810,11 @@
 \cf ɕke
 \dt 12/Jul/2016
 
-\lx sɤɕoχɕi
+\lx _sɤɕoχɕi
 \cf aɕoχɕi
 \dt 22/Feb/2014
 
-\lx sɤɕphɤɣɕphɤɣ
+\lx _sɤɕphɤɣɕphɤɣ
 \wav vt-sACphAGCphAG
 \ps vt
 \ge faire claquer
@@ -74413,15 +74824,15 @@
 \cf ɕphɤɣnɤɕphɤɣ
 \dt 07/Nov/2011
 
-\lx sɤɕprɯm
+\lx _sɤɕprɯm
 \cf aɕprɯm
 \dt 09/Jun/2011
 
-\lx sɤɕpɯɕpa
+\lx _sɤɕpɯɕpa
 \cf aɕpɯɕpa
 \dt 09/Jun/2011
 
-\lx sɤɕqa
+\lx _sɤɕqa
 \wav ci-sACqa
 \ps vs
 \pdl dir 
@@ -74435,46 +74846,46 @@
 \cf nɤɕqa
 \dt 14/Aug/2012
 
-\lx sɤɕqali
+\lx _sɤɕqali
 \cf ɣɤɕqali
 \dt 15/Jul/2016
 
-\lx sɤɕqhe
+\lx _sɤɕqhe
 \cf aɕqhe
 \dt 17/Jan/2011
 
-\lx sɤɕte
+\lx _sɤɕte
 \cf ɕte
 \dt 12/Jul/2016
 
-\lx sɤɕtʂaŋlaŋ
+\lx _sɤɕtʂaŋlaŋ
 \cf ɕtʂaŋɕtʂaŋ
 \dt 24/Nov/2011
 
-\lx sɤɕtʂɯlɯɣ
+\lx _sɤɕtʂɯlɯɣ
 \cf ɕtʂɯɣɕtʂɯɣ
 \dt 29/Oct/2011
 
-\lx sɤɕɯmɕɯm
+\lx _sɤɕɯmɕɯm
 \cf ɕɯmɕɯm
 \dt 29/Oct/2011
 
-\lx sɤdɤmɲi
+\lx _sɤdɤmɲi
 \cf mɲi
 \dt 17/May/2014
 
-\lx sɤdoŋdoŋ
+\lx _sɤdoŋdoŋ
 \cf ɣɤdoŋdoŋ
 \dt 01/Oct/2011
 
-\lx sɤdrɤt
+\lx _sɤdrɤt
 \cf adrɤt
 \dt 29/Aug/2015
 
-\lx sɤdɯxpa
+\lx _sɤdɯxpa
 \cf sɤzdɯxpa
 
-\lx sɤdzɯlɯt
+\lx _sɤdzɯlɯt
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -74486,7 +74897,7 @@
 \cf ɣɤdzɯlɯt
 \dt 09/Jun/2011
 
-\lx sɤdʐaŋlaŋ
+\lx _sɤdʐaŋlaŋ
 \wav vt-sAdzxaNlaN
 \ps vt
 \pdl dir 
@@ -74499,7 +74910,7 @@
 \sy sɤɕtʂaŋlaŋ
 \dt 09/Jun/2011
 
-\lx sɤdʑɯɣdʑɯɣ
+\lx _sɤdʑɯɣdʑɯɣ
 \wav vt-znAdZWGdZWG
 \se znɤdʑɯɣdʑɯɣ
 \ps vi
@@ -74509,10 +74920,10 @@
 \gn （用棍子）戳一下
 \xv tɤɲi kɯ ɲɤ-znɤdʑɯɣdʑɯɣ
 \xv laχtɕha ko-znɤdʑɯɣdʑɯɣ
-\xn 他用拐棍戳那个东西
+\xn 他用拐棍戳了那个东西
 \dt 13/Jan/2015
 
-\lx sɤfɕɤra
+\lx _sɤfɕɤra
 \wav vt-sAfCAra
 \ps vt
 \sn 1
@@ -74538,7 +74949,7 @@
 \xn 不要公开
 \dt 18/Aug/2015
 
-\lx sɤfɕi
+\lx _sɤfɕi
 \wav vi-sAfCi
 \ps vi
 \pdl dir 
@@ -74549,18 +74960,18 @@
 \xn 那个女子怀孕了，肚子变得很沉
 \dt 15/Jul/2016
 
-\lx sɤfɕu
+\lx _sɤfɕu
 \cf afɕu
 \dt 31/Aug/2012
 
-\lx sɤfka
+\lx _sɤfka
 \cf fka
 \dt 21/Jul/2016
 
-\lx sɤfstɯn
+\lx _sɤfstɯn
 \cf fstɯn
 
-\lx sɤfsu
+\lx _sɤfsu
 \wav vt-sAfsu
 \ps vt
 \sn 1
@@ -74587,7 +74998,7 @@
 \cf afsɯfsu
 \dt 19/Aug/2015
 
-\lx sɤfsuja
+\lx _sɤfsuja
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -74601,10 +75012,10 @@
 \sy sɤfsu
 \dt 24/Aug/2012
 
-\lx sɤfsɯfse
+\lx _sɤfsɯfse
 \cf fse2
 
-\lx sɤftɕaka
+\lx _sɤftɕaka
 \wav vt-sAftCAka
 \ps vt
 \pdl dir 
@@ -74623,14 +75034,14 @@
 \cf ftɕaka
 \dt 11/May/2014
 
-\lx sɤftɕaʁ
+\lx _sɤftɕaʁ
 \cf ftɕaʁ
 
-\lx sɤftɕɤl
+\lx _sɤftɕɤl
 \cf ftɕɤl
 \dt 16/Mar/2011
 
-\lx sɤglɤglɤɣ
+\lx _sɤglɤglɤɣ
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -74640,7 +75051,7 @@
 \cf glɤɣglɤɣ
 \dt 01/Nov/2013
 
-\lx sɤɣa
+\lx _sɤɣa
 \wav vi-sAGa
 \ps vs
 \pdl dir 
@@ -74654,11 +75065,11 @@
 \cf nɤɣa
 \dt 23/Dec/2013
 
-\lx sɤɣɤmɯ
+\lx _sɤɣɤmɯ
 \cf ɣɤmɯ
 \dt 23/Aug/2011
 
-\lx sɤɣdɯɣ
+\lx _sɤɣdɯɣ
 \wav vi-sAGdWG
 \wav vi-sAGdWG2
 \ps vs
@@ -74683,7 +75094,7 @@
 \cf nɤsɤɣdɯɣ
 \dt 14/Jul/2016
 
-\lx sɤɣmu
+\lx _sɤɣmu
 \wav vi-sAGmu
 \ps vs
 \ng deexp
@@ -74705,8 +75116,8 @@
 \cf mu1
 \dt 14/Jul/2016
 
-\lx sɤɣɲat
-\wav8 8_sAGYat
+\lx _sɤɣɲat
+\wav8 sAGYat
 \ps vs
 \ng deexp
 \ge fatigant
@@ -74716,7 +75127,7 @@
 \cf ɲat
 \dt 25/Aug/2012
 
-\lx sɤɣur
+\lx _sɤɣur
 \wav vt-sAGur
 \ps vt
 \pdl dir 
@@ -74739,11 +75150,11 @@
 \cf tɤ-ɣur
 \dt 10/Jun/2011
 
-\lx sɤɣɯrɣɯr
+\lx _sɤɣɯrɣɯr
 \cf ɣɤɣɯrɣɯr
 \dt 03/Apr/2014
 
-\lx sɤɣʑɯr
+\lx _sɤɣʑɯr
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -74751,7 +75162,7 @@
 \gn 危险 
 \hbf 690
 
-\lx sɤja
+\lx _sɤja
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -74766,16 +75177,20 @@
 \xn 我已经把你的东西还给你了
 \dt 23/Jun/2014
 
-\lx sɤjɤr
+\lx _sɤjɤr
 \cf ajɤr
 \dt 29/Nov/2010
 
-\lx sɤjɤrjɤr
+\lx _sɤjɤrjɤr
 \cf jɤrjɤr
 \dt 01/Jul/2016
 
-\lx sɤjloʁ
-\wav8 8_nAsAjloR
+\lx _sɤjɤzjɯ
+\cf ajɤzjɯ
+\dt 15/May/2017
+
+\lx _sɤjloʁ
+\wav8 nAsAjloR
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -74795,7 +75210,7 @@
 \xn 我觉得这个颜色很难看
 \dt 10/May/2013
 
-\lx sɤjndɤt
+\lx _sɤjndɤt
 \wav vi-sAjndAt
 \ps vs
 \pdl dir 
@@ -74818,7 +75233,7 @@
 \sy nɤjndɤt
 \dt 21/Oct/2011
 
-\lx sɤjoʁjoʁ
+\lx _sɤjoʁjoʁ
 \wav vt-sAjoRjoR
 \ps vt
 \pdl dir 
@@ -74832,27 +75247,27 @@
 \cf joʁ
 \dt 10/Jun/2011
 
-\lx sɤjqu
+\lx _sɤjqu
 \cf jqu
 \dt 04/Aug/2012
 
-\lx sɤjʁu
+\lx _sɤjʁu
 \cf ajʁu
 \dt 10/Jun/2011
 
-\lx sɤjtshi
+\lx _sɤjtshi
 \cf jtshi
 \dt 23/Nov/2011
 
-\lx sɤjtɯ
+\lx _sɤjtɯ
 \cf ajtɯ
 \dt 10/Jun/2011
 
-\lx sɤjwɤrlɤr
+\lx _sɤjwɤrlɤr
 \cf ɣɤjwɤrlɤr
 \dt 09/Oct/2015
 
-\lx sɤɟɯɣlɯɣ
+\lx _sɤɟɯɣlɯɣ
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -74861,18 +75276,18 @@
 \xv ɯ-rpaʁ ra to-sɤɟɯɣlɯɣ
 \xn 他耸了一下肩
 
-\lx sɤɟɯɟrɯɣ
+\lx _sɤɟɯɟrɯɣ
 \cf ɣɤɟɯɟrɯɣ
 \dt 02/Oct/2011
 
-\lx sɤkɤβjɤβ
+\lx _sɤkɤβjɤβ
 \cf ɣɤkɤβjɤβ
 \dt 14/Oct/2011
 
-\lx sɤkɤlɤt
+\lx _sɤkɤlɤt
 \cf akɤlɤt
 
-\lx sɤkɤsci
+\lx _sɤkɤsci
 \wav vt-sAkAsci
 \ps vt
 \pdl dir 
@@ -74892,11 +75307,11 @@
 \cf nɤsci
 \dt 11/Jun/2011
 
-\lx sɤkɤtɕɤβ
+\lx _sɤkɤtɕɤβ
 \cf akɤtɕɤβ
 \dt 25/Aug/2012
 
-\lx sɤkhar
+\lx _sɤkhar
 \wav vt-sAkhar
 \ps vt
 \pdl dir 
@@ -74912,7 +75327,7 @@
 \cf nɤkhar
 \dt 24/Jun/2011
 
-\lx sɤkhra
+\lx _sɤkhra
 \wav vt-sAkhra
 \ps vt
 \pdl dir 
@@ -74927,7 +75342,7 @@
 \cf khra
 \dt 24/Apr/2013
 
-\lx sɤkhɯ
+\lx _sɤkhɯ
 \wav vt-sAkhW
 \ps vt
 \pdl dir 
@@ -74946,7 +75361,7 @@
 \cf nɤkhɯ
 \dt 18/May/2014
 
-\lx sɤkhɯkhɯɣ
+\lx _sɤkhɯkhɯɣ
 \wav vt-sAkhWkhWG
 \ps vt
 \pdl dir 
@@ -74963,11 +75378,11 @@
 \xn 你不要急着喝
 \dt 11/Jun/2011
 
-\lx sɤla
+\lx _sɤla
 \cf ala
 \dt 11/Jun/2011
 
-\lx sɤlɤɣɯ
+\lx _sɤlɤɣɯ
 \wav vt-sAlAGW
 \ps vt
 \pdl dir 
@@ -74991,7 +75406,7 @@
 \xn 他的话不容易连起来
 \dt 22/Jul/2016
 
-\lx sɤlɤt
+\lx _sɤlɤt
 \wav vi-sAlAt
 \ps vi
 \pdl dir 
@@ -75006,7 +75421,7 @@
 \sy sɤsco
 \dt 14/Jun/2011
 
-\lx sɤljɤljɤt
+\lx _sɤljɤljɤt
 \ps vt
 \pdl dir
 \pdv nɯ-
@@ -75016,15 +75431,15 @@
 \xn 狗在摇尾巴
 \dt 01/Sep/2015
 
-\lx sɤlothi
+\lx _sɤlothi
 \cf alothi
 \dt 22/Aug/2012
 
-\lx sɤlpɯm
+\lx _sɤlpɯm
 \cf alpɯm
 \dt 22/Aug/2015
 
-\lx sɤlqɤlqɤt
+\lx _sɤlqɤlqɤt
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -75032,15 +75447,15 @@
 \gn 轻轻地扇动（翅膀）
 \dt 11/May/2014
 
-\lx sɤltɕhɤltɕhɤt
+\lx _sɤltɕhɤltɕhɤt
 \cf ltɕhɤltɕhɤt
 \dt 29/Oct/2011
 
-\lx sɤltɕhɯɣlɯɣ
+\lx _sɤltɕhɯɣlɯɣ
 \cf ltɕhɯɣltɕhɯɣ
 \dt 14/Nov/2011
 
-\lx sɤlthɤlthɤβ
+\lx _sɤlthɤlthɤβ
 \ps vt
 \pdl dir
 \pdv pɯ-
@@ -75049,7 +75464,7 @@
 \cf thɤβ1
 \dt 26/Apr/2014
 
-\lx sɤltshɤltshɤt
+\lx _sɤltshɤltshɤt
 \wav vt-sAltshAltshAt
 \ps vt
 \pdl dir 
@@ -75074,8 +75489,8 @@
 \xn 小孩子冷得发抖
 \dt 30/Nov/2013
 
-\lx sɤltshɯltshɯɣ
-\wav8 8_nWsAltshWltshWGa
+\lx _sɤltshɯltshɯɣ
+\wav8 nWsAltshWltshWGa
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -75085,15 +75500,15 @@
 \xn 我把他摇了一下，他高兴就不哭了
 \dt 07/Dec/2013
 
-\lx sɤlɯrlɯr
+\lx _sɤlɯrlɯr
 \cf lɯrlɯr
 \dt 14/Nov/2011
 
-\lx sɤlɯzlɯz
+\lx _sɤlɯzlɯz
 \cf ɣɤlɯzlɯz
 \dt 30/Aug/2015
 
-\lx sɤlwɤlwɤt
+\lx _sɤlwɤlwɤt
 \wav vt-sAlwAlwAt
 \wav vt-sAlwAlwAt2
 \ps vt
@@ -75113,17 +75528,17 @@
 \cf ɣɤlwɤlwɤt
 \dt 14/Jun/2011
 
-\lx sɤɬɯt
+\lx _sɤɬɯt
 \cf aɬɯt
 \dt 14/Jun/2011
 
-\lx sɤmbɤldʑɤm
+\lx _sɤmbɤldʑɤm
 \cf ambɤldʑɤm
 \dt 12/Mar/2014
 
-\lx sɤmbi
+\lx _sɤmbi
 \wav vt-sAmbi
-\wav8 8_sAmbi
+\wav8 sAmbi
 \ps vl
 \pdl dir 
 \pdv nɯ-
@@ -75141,7 +75556,7 @@
 \cf mbi
 \dt 24/Jun/2011
 
-\lx sɤmbrɤqɤt
+\lx _sɤmbrɤqɤt
 \wav vt-sAmbrAqAt
 \ps vt
 \pdl dir 
@@ -75163,7 +75578,7 @@
 \cf ambrɤqɤt
 \dt 20/Jul/2014
 
-\lx sɤmbrɯ
+\lx _sɤmbrɯ
 \wav vi-sAmbrW
 \wav vi-sAmbrW2
 \ps vi
@@ -75183,7 +75598,7 @@
 \cf tɤ-mbrɯ
 \dt 18/Jul/2016
 
-\lx sɤmbrɯŋgɯ
+\lx _sɤmbrɯŋgɯ
 \wav vi-sAmbrWNgW
 \ps vs
 \ng incorp
@@ -75200,12 +75615,12 @@
 \cf tɤ-mbrɯ,ŋgɯ
 \dt 10/Nov/2011
 
-\lx sɤmdzɯ
+\lx _sɤmdzɯ
 \cf amdzɯ
 \dt 06/Dec/2010
 
-\lx sɤmgri
-\wav8 8_sAmgri
+\lx _sɤmgri
+\wav8 sAmgri
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -75219,7 +75634,7 @@
 \uv tɯ-ci kɤ-sɤmgri nɯ, tɯ-ci kɯ-qarndɯm nɯ ɲɯ́-wɣ-ɣɤntaβ tɕe, @penzi ɯ-ŋgɯ tú-wɣ-rku tɕe ɲɯ́-wɣ-ɣɤntaβ tɕe ɯʑo ɲɯ-ɤnɯmgri ɲɯ-ŋu. kɯ-ɴqhi nɯra ɯ-qa pjɯ-ɕe ŋu, tɕe kɯ-maŋtaʁ nɯra ɲɯ-ɤmgri ŋu. 
 \dt 24/Aug/2012
 
-\lx sɤmgro
+\lx _sɤmgro
 \wav vi-sAmgro
 \ps vs
 \pdl dir 
@@ -75234,17 +75649,17 @@
 \cf nɤmgro
 \dt 22/Aug/2015
 
-\lx sɤmgrɯn
+\lx _sɤmgrɯn
 \cf mgrɯn
 \dt 06/Aug/2012
 
-\lx sɤmɲɤm
+\lx _sɤmɲɤm
 \cf amɲɤm
 \dt 16/Dec/2010
 
-\lx sɤmɲo
-\wav8 8_pWsAmYo
-\wav8 8_sAmYo
+\lx _sɤmɲo
+\wav8 pWsAmYo
+\wav8 sAmYo
 \ps vs
 \ge magnifique, splendide (spectacle, paysage)
 \gn 精彩（表演）；值得观看
@@ -75254,11 +75669,11 @@
 \xn 山上的风景很值得观看
 \cf nɤmɲo
 
-\lx sɤmŋaʁ
+\lx _sɤmŋaʁ
 \cf amŋaʁ
 \dt 16/Jun/2011
 
-\lx sɤmŋɯr
+\lx _sɤmŋɯr
 \wav vi-sAmNWr
 \ps vs
 \pdl dir 
@@ -75272,7 +75687,7 @@
 \xn 肉很腻
 \dt 22/Oct/2011
 
-\lx sɤmtɕhoʁ
+\lx _sɤmtɕhoʁ
 \wav vt-sAmtChoR
 \ps vt
 \pdl dir 
@@ -75292,11 +75707,11 @@
 \cf amtɕhoʁ
 \dt 10/May/2014
 
-\lx sɤmtɕhɯβ
+\lx _sɤmtɕhɯβ
 \cf mtɕhɯβ
 \dt 04/Aug/2012
 
-\lx sɤmthoʁmthɯt
+\lx _sɤmthoʁmthɯt
 \wav vt-sAmthoRmthWt
 \ps vt
 \pdl dir 
@@ -75311,10 +75726,10 @@
 \cf amthoʁmthɯt
 \dt 22/Feb/2014
 
-\lx sɤmto
+\lx _sɤmto
 \wav vi-sAmto
-\wav8 8_sAmto
-\wav8 8_sAmto2
+\wav8 sAmto
+\wav8 sAmto2
 \ps vs
 \ng deexp
 \pdl dir 
@@ -75331,9 +75746,9 @@
 \xn 在这里看得见房子
 \dt 29/Nov/2011
 
-\lx sɤmtshɤm
-\wav8 8_sAmtshAm
-\wav8 8_WYWsAmtshAm
+\lx _sɤmtshɤm
+\wav8 sAmtshAm
+\wav8 WYWsAmtshAm
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -75346,7 +75761,7 @@
 \cf mtshɤm
 \dt 10/May/2013
 
-\lx sɤmtshɤr
+\lx _sɤmtshɤr
 \wav vi-sAmtshAr
 \ps vs
 \pdl dir 
@@ -75358,15 +75773,15 @@
 \cf nɤmtshɤr
 \dt 01/Jan/2011
 
-\lx sɤmtshi
+\lx _sɤmtshi
 \cf mtshi
 \dt 08/Aug/2012
 
-\lx sɤmtsɯɣ
+\lx _sɤmtsɯɣ
 \cf mtsɯɣ
 \dt 20/Nov/2011
 
-\lx sɤmtsɯr
+\lx _sɤmtsɯr
 \wav vi-sAmtsWr
 \ps vs
 \ng deexp
@@ -75377,91 +75792,91 @@
 \cf mtsɯr
 \dt 03/Sep/2014
 
-\lx sɤmɯβde
+\lx _sɤmɯβde
 \cf βde
 \dt 26/Aug/2015
 
-\lx sɤmɯmto
+\lx _sɤmɯmto
 \cf amɯmto
 \dt 30/Jul/2011
 
-\lx sɤmɯrpu
+\lx _sɤmɯrpu
 \cf amɯrpu
 \dt 09/Mar/2011
 
-\lx sɤmɯrtsɯɣ
+\lx _sɤmɯrtsɯɣ
 \cf mɯrtsɯɣ
 \dt 26/Aug/2012
 
-\lx sɤmɯsthaβ
+\lx _sɤmɯsthaβ
 \cf amɯsthaβ
 \dt 16/Jun/2011
 
-\lx sɤmɯsɯz
+\lx _sɤmɯsɯz
 \cf amɯsɯz
 \dt 17/Jul/2016
 
-\lx sɤmɯtso
+\lx _sɤmɯtso
 \cf amɯtso
 \dt 16/Mar/2011
 
-\lx sɤmɯtɯɣ
+\lx _sɤmɯtɯɣ
 \cf amɯtɯɣ
 \dt 16/Mar/2011
 
-\lx sɤmɯzɣɯt
+\lx _sɤmɯzɣɯt
 \cf amɯzɣɯt
 \dt 04/Jan/2011
 
-\lx sɤnaʁdɤz
+\lx _sɤnaʁdɤz
 \cf naʁdɤz
 \dt 26/Aug/2012
 
-\lx sɤnaχsoz
+\lx _sɤnaχsoz
 \cf naχsoz
 \dt 04/Aug/2012
 
-\lx sɤnɤjkɯz
+\lx _sɤnɤjkɯz
 \cf nɤjkɯz
 \dt 27/Dec/2010
 
-\lx sɤnɤkhe
+\lx _sɤnɤkhe
 \cf nɤkhe
 \dt 22/Oct/2011
 
-\lx sɤnɤmpɕɤr
+\lx _sɤnɤmpɕɤr
 \cf nɤmpɕɤr
 \dt 23/Nov/2011
 
-\lx sɤnɤmtsioʁ
+\lx _sɤnɤmtsioʁ
 \cf nɤmtsioʁ
 \dt 22/Oct/2011
 
-\lx sɤnɤntshɣɤz
+\lx _sɤnɤntshɣɤz
 \cf nɤntshɣɤz
 \dt 14/Aug/2012
 
-\lx sɤnɤre
+\lx _sɤnɤre
 \cf nɤre
 \dt 19/Mar/2014
 
-\lx sɤnɤsɤɣ
+\lx _sɤnɤsɤɣ
 \cf nɤsɤɣ
 \dt 26/Jun/2011
 
-\lx sɤnɤsma
+\lx _sɤnɤsma
 \cf nɤsma
 \dt 22/Aug/2015
 
-\lx sɤnɤstu
+\lx _sɤnɤstu
 \cf nɤstu
 \dt 02/May/2012
 
-\lx sɤnɤz
+\lx _sɤnɤz
 \cf nɤz
 \dt 15/Jul/2016
 
-\lx sɤndɤɣ
+\lx _sɤndɤɣ
 \wav vi-sAndAG
 \ps vs
 \ng denom
@@ -75475,7 +75890,7 @@
 \cf znɤndɤɣ
 \dt 13/Oct/2012
 
-\lx sɤndɤr
+\lx _sɤndɤr
 \hm 1
 \ps vt
 \pdl dir 
@@ -75493,7 +75908,7 @@
 \cf andɤr
 \dt 24/Jul/2013
 
-\lx sɤndɤrndɤr
+\lx _sɤndɤrndɤr
 \wav vt-sAndArndAr
 \ps vt
 \ng deidph
@@ -75507,11 +75922,11 @@
 \xn 打鼓打得很响
 \dt 08/Oct/2014
 
-\lx sɤndɣɤndɣɤt
+\lx _sɤndɣɤndɣɤt
 \cf ɣɤndɣɤndɣɤt
 \dt 03/Oct/2011
 
-\lx sɤndu
+\lx _sɤndu
 \wav vt-sAndu
 \ps vt
 \pdl dir 
@@ -75526,27 +75941,27 @@
 \cf antsɤndu
 \dt 04/Oct/2013
 
-\lx sɤndɯja
+\lx _sɤndɯja
 \cf andɯja
 \dt 18/Jun/2011
 
-\lx sɤndɯndo
+\lx _sɤndɯndo
 \cf ndo
 \dt 25/Aug/2012
 
-\lx sɤndza
+\lx _sɤndza
 \cf ndza
 \dt 30/Oct/2013
 
-\lx sɤndzoʁjoʁ
+\lx _sɤndzoʁjoʁ
 \cf andzoʁjoʁ
 \dt 24/Aug/2012
 
-\lx sɤndzɯrndzɯr
+\lx _sɤndzɯrndzɯr
 \cf ɣɤndzɯrndzɯr
 \dt 12/Mar/2014
 
-\lx sɤndʐaβ
+\lx _sɤndʐaβ
 \wav vi-sAndzxaB
 \ps vs
 \ng deexp
@@ -75562,26 +75977,26 @@
 \cf ndʐaβ
 \dt 15/Jan/2015
 
-\lx sɤndʑɤmstu
+\lx _sɤndʑɤmstu
 \cf andʑɤmstu
 \dt 10/Dec/2013
 
-\lx sɤndʑɯ 
+\lx _sɤndʑɯ 
 \cf ndʑɯ
 
-\lx sɤntɕhoʁjɤr
+\lx _sɤntɕhoʁjɤr
 \cf antɕhoʁjɤr
 \dt 12/Mar/2014
 
-\lx sɤntɕhɯ
+\lx _sɤntɕhɯ
 \cf antɕhɯ
 \dt 28/Apr/2014
 
-\lx sɤnthɣar
+\lx _sɤnthɣar
 \cf anthɣar
 \dt 26/Aug/2015
 
-\lx sɤntsɤndu
+\lx _sɤntsɤndu
 \wav vt-sAntsAndu
 \ps vt
 \ng caus
@@ -75599,57 +76014,60 @@
 \cf antsɤndu
 \dt 18/Aug/2015
 
-\lx sɤntɯ
+\lx _sɤntɯ
 \cf antɯ
 \dt 07/May/2014
 
-\lx sɤnɯβlu
+\lx _sɤnɯβlu
 \cf nɯβlu
 \dt 05/Nov/2012
 
-\lx sɤnɯkhramba
+\lx _sɤnɯkhramba
 \cf nɯkhramba
 \dt 05/Aug/2012
 
-\lx sɤnɯmtɕhu
+\lx _sɤnɯmtɕhu
 \cf nɯmtɕhu
 \dt 20/Feb/2011
 
-\lx sɤnɯmthɯ
+\lx _sɤnɯmthɯ
 \cf nɯmthɯ
 \dt 22/Aug/2015
 
-\lx sɤnɯŋumit
+\lx _sɤnɯŋumit
 \cf nɯŋumit
 \dt 23/Nov/2011
 
-\lx sɤnɯrga
+\lx _sɤnɯrga
 \cf nɯrga
 \dt 23/Nov/2011
 
-\lx sɤnɯrtɕa
+\lx _sɤnɯrtɕa
 \cf nɯrtɕa
 \dt 15/Jan/2015
 
-\lx sɤnɯrɯtʂa
+\lx _sɤnɯrɯtʂa
 \cf nɯrɯtʂa
 \dt 26/Jun/2011
 
-\lx sɤnɯsɯkho
+\lx _sɤnɯsnɯɲaʁ
+\cf nɯsnɯɲaʁ
+
+\lx _sɤnɯsɯkho
 \cf nɯsɯkho
 \dt 15/Oct/2014
 
-\lx sɤnɯtɯtɕhɯ
+\lx _sɤnɯtɯtɕhɯ
 \cf nɯtɯtɕhɯ
 \dt 07/Jul/2016
 
-\lx sɤnɯzdɯɣ
+\lx _sɤnɯzdɯɣ
 \cf nɯzdɯɣ
 
-\lx sɤnɯʑɤzdaŋ
+\lx _sɤnɯʑɤzdaŋ
 \cf nɯʑɤzdaŋ
 
-\lx sɤɲaj
+\lx _sɤɲaj
 \wav vt-sAYAj
 \ps vt
 \ng caus
@@ -75672,15 +76090,15 @@
 \cf aɲaj
 \dt 23/Sep/2014
 
-\lx sɤɲcɣɤɲcɣɤt
+\lx _sɤɲcɣɤɲcɣɤt
 \cf ɣɤɲcɣɤɲcɣɤt
 \dt 03/Oct/2011
 
-\lx sɤɲizɲiz
+\lx _sɤɲizɲiz
 \cf ɣɤɲizɲiz
 \dt 12/Oct/2011
 
-\lx sɤɲɟɯrnor
+\lx _sɤɲɟɯrnor
 \ps vt
 \pdl dir
 \pdv nɯ-
@@ -75691,11 +76109,11 @@
 \cf ɲɟɯrnor
 \dt 25/Nov/2014
 
-\lx sɤŋɤβ
+\lx _sɤŋɤβ
 \wav vi-sANAB
 \wav vi-sANAB2
-\wav8 8_sANAB
-\wav8 8_nANAB
+\wav8 sANAB
+\wav8 nANAB
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -75719,6 +76137,7 @@
 \sn 3
 \ge à l'apparence peu avenante
 \gn 丑陋，看起来不顺眼
+\cf sɤŋɤβdi
 \se nɤŋɤβ
 \ps vt
 \ng trop
@@ -75737,7 +76156,7 @@
 \an sɤmgro
 \dt 08/Jul/2016
 
-\lx sɤŋgio
+\lx _sɤŋgio
 \ps vs
 \ng deexp
 \ng acaus
@@ -75749,10 +76168,10 @@
 \cf ŋgio
 \dt 15/Jan/2015
 
-\lx sɤŋo
+\lx _sɤŋo
 \hm 1
 \wav vi-sANo
-\wav8 8_sANo
+\wav8 sANo
 \ps vi-t
 \pdl dir 
 \pdv nɯ-
@@ -75765,7 +76184,7 @@
 \xn 你讲吧，我在这里听着
 \hm 2
 \wav vt-sANo
-\wav8 8_sANo2
+\wav8 sANo2
 \ps vt
 \pdl dir 
 \pdv kɤ-
@@ -75786,7 +76205,7 @@
 \cf sɤsɤŋo
 \dt 03/Jan/2015
 
-\lx sɤŋoʁŋoʁ
+\lx _sɤŋoʁŋoʁ
 \wav vt-sANoRNoR
 \ps vt
 \pdl dir 
@@ -75801,11 +76220,11 @@
 \cf ɣɤŋoʁ
 \dt 14/Jul/2014
 
-\lx sɤŋɯr
+\lx _sɤŋɯr
 \cf nɤŋɯr
 \dt 28/Aug/2012
 
-\lx sɤpa
+\lx _sɤpa
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -75823,17 +76242,17 @@
 \sy ʑɣɤβzɟɯr
 \dt 20/Aug/2015
 
-\lx sɤpɤmbat
+\lx _sɤpɤmbat
 \cf apɤmbat
 \dt 06/Nov/2013
 
-\lx sɤpɕɯβjɤl
+\lx _sɤpɕɯβjɤl
 \cf apɕɯβjɤl
 \dt 12/Mar/2014
 
-\lx sɤpe
+\lx _sɤpe
 \wav vt-sApe
-\wav8 8_sApe
+\wav8 sApe
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -75848,19 +76267,19 @@
 \cf pe
 \dt 26/Jun/2011
 
-\lx sɤpɣaʁsci
+\lx _sɤpɣaʁsci
 \cf apɣaʁsci
 \dt 03/Apr/2011
 
-\lx sɤphɤlɤjɤt
+\lx _sɤphɤlɤjɤt
 \cf aphɤlɤjɤt
 \dt 29/Aug/2015
 
-\lx sɤphɤr
+\lx _sɤphɤr
 \wav vt-sAphAr3
 \wav vt-sAphAr2
 \wav vi-tCur
-\wav8 8_sAphAr
+\wav8 sAphAr
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -75884,7 +76303,7 @@
 \cf mbɤr2
 \dt 04/Aug/2016
 
-\lx sɤphɯphrɯɣ
+\lx _sɤphɯphrɯɣ
 \ps vt
 \ge qui coule bruyament à grosses gouttes 
 \gn 形容答滴答滴地流出来，发出响声的样子
@@ -75894,17 +76313,17 @@
 \xn 下大雨（雨点比较大）
 \dt 29/Aug/2015
 
-\lx sɤpjɤntɤm
+\lx _sɤpjɤntɤm
 \cf apjɤntɤm
 \dt 26/Jun/2011
 
-\lx sɤplaʁplaʁ
+\lx _sɤplaʁplaʁ
 \cf plaʁplaʁ
 \dt 26/Aug/2015
 
-\lx sɤprɤtprɤt
+\lx _sɤprɤtprɤt
 \wav vt-sAprAtprAt
-\wav8 8_sAprAtprAt
+\wav8 sAprAtprAt
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -75919,7 +76338,7 @@
 \xn 他跺了脚 
 \dt 22/Feb/2014
 
-\lx sɤpɯpa
+\lx _sɤpɯpa
 \wav vt-sApWpa
 \ps vt
 \pdl dir 
@@ -75946,11 +76365,11 @@
 \xn 你买了很多次药，积累了很多
 \dt 25/Nov/2014
 
-\lx sɤpɯpri
+\lx _sɤpɯpri
 \cf apɯpri
 \dt 01/Sep/2014
 
-\lx sɤqɤrle
+\lx _sɤqɤrle
 \wav vt-sAqarle
 \wav vt-sAqarle2
 \ps vt
@@ -75974,19 +76393,19 @@
 \cf aqɤrle
 \dt 04/May/2014
 
-\lx sɤqɤtsa
+\lx _sɤqɤtsa
 \cf aqɤtsa
 \dt 27/Jun/2011
 
-\lx sɤqɤtʂha
+\lx _sɤqɤtʂha
 \cf aqɤtʂha
 \dt 26/Jun/2011
 
-\lx sɤqhe
+\lx _sɤqhe
 \cf aqhe
 \dt 20/May/2014
 
-\lx sɤqhlɤβlɤβ
+\lx _sɤqhlɤβlɤβ
 \ps vt
 \pdl dir
 \pdv pɯ-
@@ -75996,11 +76415,11 @@
 \xn 我在盆子里洗衣服的时候发出了很响的溅水声
 \dt 19/Aug/2015
 
-\lx sɤqhloŋloŋ
+\lx _sɤqhloŋloŋ
 \cf qhloŋ
 \dt 24/Aug/2015
 
-\lx sɤqhlɯβlɯβ
+\lx _sɤqhlɯβlɯβ
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -76010,7 +76429,7 @@
 \xn 冲衣服的时候就会发出水晃动的声音
 \dt 25/Aug/2015
 
-\lx sɤqhɯqha
+\lx _sɤqhɯqha
 \wav vi-sAqhWqha
 \ps vs
 \pdl dir 
@@ -76023,11 +76442,11 @@
 \xn 你不要调皮
 \dt 05/May/2014
 
-\lx sɤqur
+\lx _sɤqur
 \cf qur
 \dt 22/Mar/2014
 
-\lx sɤr
+\lx _sɤr
 \wav vi-sAr
 \ps vs
 \pdl dir 
@@ -76043,14 +76462,14 @@
 \xn 你要趁牛奶新鲜的时候喝
 \dt 21/Aug/2012
 
-\lx sɤraχtɕɤz
+\lx _sɤraχtɕɤz
 \cf raχtɕɤz
 \dt 23/Nov/2011
 
-\lx sɤrɤpa
+\lx _sɤrɤpa
 \wav vi-sArApa
 \wav vi-sArApa2
-\wav8 8_sArApa
+\wav8 sArApa
 \ps vi
 \ng comp
 \pdl dir 
@@ -76068,7 +76487,7 @@
 \cf sɤre
 \dt 27/Oct/2011
 
-\lx sɤrɤt
+\lx _sɤrɤt
 \wav vt-sArAt
 \ps vt
 \pdl dir 
@@ -76078,27 +76497,27 @@
 \xv tɤ-ri ka-sɤrɤt
 \xn 他把线卸下来了
 
-\lx sɤrchɤrchɤt
+\lx _sɤrchɤrchɤt
 \cf rchɤrchɤt
 \dt 21/Nov/2011
 
-\lx sɤrchɯɣlɯɣ
+\lx _sɤrchɯɣlɯɣ
 \cf rchɯɣnɤlɯɣ
 \dt 18/Nov/2011
 
-\lx sɤrchɯɣrchɯɣ
+\lx _sɤrchɯɣrchɯɣ
 \cf rchɯɣnɤlɯɣ
 \dt 18/Nov/2011
 
-\lx sɤrɕo
+\lx _sɤrɕo
 \cf arɕo
 \dt 30/Aug/2012
 
-\lx sɤrɕɯβrɕɯβ
+\lx _sɤrɕɯβrɕɯβ
 \cf ɣɤrɕɯβrɕɯβ
 \dt 03/Oct/2011
 
-\lx sɤre
+\lx _sɤre
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -76128,7 +76547,7 @@
 \cf tɤ-re
 \dt 28/Apr/2014
 
-\lx sɤrga
+\lx _sɤrga
 \wav vi-sArga
 \ps vi
 \ng deexp
@@ -76142,15 +76561,15 @@
 \cf nɯrga
 \dt 12/Aug/2014
 
-\lx sɤrɣɤβrɣɤβ
+\lx _sɤrɣɤβrɣɤβ
 \cf rɣɤβrɣɤβ
 \dt 02/May/2012
 
-\lx sɤrɣi
+\lx _sɤrɣi
 \cf arɣi
 \dt 18/Aug/2012
 
-\lx sɤri
+\lx _sɤri
 \wav vt-sAri3
 \wav vt-sAri2
 \ps vt
@@ -76183,11 +76602,11 @@
 \sy ʑɣɤsɯrku
 \dt 13/Oct/2014
 
-\lx sɤrju
+\lx _sɤrju
 \cf arju
 \dt 04/Oct/2011
 
-\lx sɤrɟɤsno
+\lx _sɤrɟɤsno
 \wav vt-sArJAsno
 \ps vt
 \pdl dir 
@@ -76199,15 +76618,15 @@
 \cf tɤ-sno
 \dt 25/Mar/2014
 
-\lx sɤrkhɯβrkhɯβ
+\lx _sɤrkhɯβrkhɯβ
 \cf nɤrkhɯrkhɯβ
 \dt 31/Aug/2012
 
-\lx sɤrkɯrku
+\lx _sɤrkɯrku
 \cf rku
 \dt 13/Dec/2012
 
-\lx sɤrlɤɣrlɤɣ
+\lx _sɤrlɤɣrlɤɣ
 \wav vt-sArlAGrlAG
 \ps vt
 \pdl dir 
@@ -76223,27 +76642,19 @@
 \xn 我摇头了
 \dt 27/Jun/2011
 
-\lx sɤrlɯrla
+\lx _sɤrlɯrla
 \cf arlɯrla
 \dt 20/Aug/2015
 
-\lx sɤrma
-\ps vi
-\ge au revoir
-\gn 再见
-\xv sɤrma-ndʑi je
-\xn 你们俩再见
-\dt 27/Aug/2015
-
-\lx sɤrmɤβrmɤβ
+\lx _sɤrmɤβrmɤβ
 \cf ɣɤrmɤβrmɤβ
 \dt 28/Aug/2012
 
-\lx sɤrmbat
+\lx _sɤrmbat
 \cf armbat
 \dt 17/Apr/2011
 
-\lx sɤrmi
+\lx _sɤrmi
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -76263,16 +76674,16 @@
 \cf tɤ-rmi
 \dt 25/Aug/2015
 
-\lx sɤrɲɟɤle
+\lx _sɤrɲɟɤle
 \cf arɲɟɤle
 \dt 23/Apr/2011
 
-\lx sɤrɲɯɣrɲɯɣ
+\lx _sɤrɲɯɣrɲɯɣ
 \cf rɲɯɣrɲɯɣ
 \dt 19/Nov/2011
 
-\lx sɤrŋɤɣndʑɯr
-\wav8 8_nWsArNAGndZWra
+\lx _sɤrŋɤɣndʑɯr
+\wav8 nWsArNAGndZWra
 \ps vt
 \pdl dir
 \pdv nɯ-
@@ -76285,15 +76696,15 @@
 \cf rŋɤɣndʑɯr
 \dt 26/Aug/2015
 
-\lx sɤrŋi
+\lx _sɤrŋi
 \cf arŋi
 \dt 08/Jun/2011
 
-\lx sɤrɴɢlɯm
+\lx _sɤrɴɢlɯm
 \cf arɴɢlɯm
 \dt 18/Jul/2016
 
-\lx sɤro
+\lx _sɤro
 \wav vt-sAro
 \ps vl
 \pdl dir 
@@ -76305,15 +76716,15 @@
 \xn 收割的时候，要把青稞、小麦、胡豆、豌豆都摆在架子上
 \dt 27/Jun/2011
 
-\lx sɤrphɤrphɤβ
+\lx _sɤrphɤrphɤβ
 \cf ɣɤrphɤrphɤβ
 \dt 12/Jul/2016
 
-\lx sɤrqhi
+\lx _sɤrqhi
 \cf arqhi
 \dt 22/Aug/2015
 
-\lx sɤrqhɯrqhɯβ
+\lx _sɤrqhɯrqhɯβ
 \wav vt-sArqhWrqhWB
 \ps vt
 \pdl dir 
@@ -76329,11 +76740,11 @@
 \cf ɣɤrqhɯβrqhɯβ
 \dt 22/Aug/2011
 
-\lx sɤrʁɯrʁu
+\lx _sɤrʁɯrʁu
 \cf arʁɯrʁu
 \dt 09/May/2013
 
-\lx sɤrʁɯrʁɯβ
+\lx _sɤrʁɯrʁɯβ
 \wav
 \ps vt
 \pdl dir 
@@ -76346,7 +76757,7 @@
 \cf rʁɯβrʁɯβ
 \dt 27/Jun/2011
 
-\lx sɤrtɕhɣaʁ
+\lx _sɤrtɕhɣaʁ
 \ps vt 
 \pdl dir 
 \pdv nɯ-
@@ -76358,20 +76769,20 @@
 \sy sɤtɕɯqaʁ
 \cf tɤ-rtɕhɣaʁ,tɕɤt
 
-\lx sɤrtɕhoʁ
+\lx _sɤrtɕhoʁ
 \cf artɕhoʁ
 \dt 19/Aug/2015
 
-\lx sɤrtɕi
+\lx _sɤrtɕi
 \cf artɕi
 \dt 02/Sep/2015
 
-\lx sɤrtsi
+\lx _sɤrtsi
 \cf rtsi
 
-\lx sɤrtsɯrtso
+\lx _sɤrtsɯrtso
 \wav vt-sArtsWrtso
-\wav8 8_sArtsWrtso
+\wav8 sArtsWrtso
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -76387,17 +76798,17 @@
 \sy rtsɯɣ
 \dt 24/Aug/2011
 
-\lx sɤrtɯmloʁ
+\lx _sɤrtɯmloʁ
 \cf artɯmloʁ
 \dt 04/Aug/2012
 
-\lx sɤrtɯrtɤβ
+\lx _sɤrtɯrtɤβ
 \cf artɯrtɤβ
 \dt 27/Jun/2011
 
-\lx sɤrɯru
+\lx _sɤrɯru
 \wav vt-sArWru
-\wav8 8_sArWru
+\wav8 sArWru
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -76418,15 +76829,15 @@
 \xn 我们俩做比较的话，你胖一些
 \dt 16/Jul/2016
 
-\lx sɤrwɤrwɤt
+\lx _sɤrwɤrwɤt
 \cf ɣɤrwɤrwɤt
 \dt 01/Nov/2011
 
-\lx sɤʁe
+\lx _sɤʁe
 \cf aʁe
 \dt 20/Feb/2011
 
-\lx sɤʁombi
+\lx _sɤʁombi
 \ps vs
 \ge être désespérant
 \gn 令人没有希望
@@ -76435,11 +76846,11 @@
 \cf nɤʁombi
 \dt 12/Mar/2014
 
-\lx sɤsaʁjɤr
+\lx _sɤsaʁjɤr
 \cf saʁjɤr
 \dt 23/Jun/2013
 
-\lx sɤsat
+\lx _sɤsat
 \hm 1
 \ps vi
 \ng apass
@@ -76459,28 +76870,28 @@
 \cf sat
 \dt 27/Aug/2012
 
-\lx sɤsaχpaʁ
+\lx _sɤsaχpaʁ
 \cf saχpaʁ
 \dt 05/Jun/2011
 
-\lx sɤsɤŋo
+\lx _sɤsɤŋo
 \wav vi-sAsANo
 \ng apass
 \ps vi
 \pdl dir 
 \pdv tɤ-
-\ge écouter les conseils 
-\gn 听别人的劝告 
+\ge qui écoute les conseils, obéissant
+\gn 听别人的劝告；听话
 \xv ɲɯ-sɤsɤŋo
 \xn 他听别人的意见
 \cf sɤŋo1
-\dt 20/Nov/2011
+\dt 20/May/2017
 
-\lx sɤschrɤβlɤβ
+\lx _sɤschrɤβlɤβ
 \cf ɣɤchrɤβchrɤβ
 \dt 29/Sep/2011
 
-\lx sɤscit
+\lx _sɤscit
 \ps vs
 \pdl dir 
 \pdv thɯ-
@@ -76494,11 +76905,11 @@
 \cf nɤsɤscit
 \dt 22/Oct/2011
 
-\lx sɤsco
+\lx _sɤsco
 \cf sco
 \dt 24/Aug/2012
 
-\lx sɤscɯndu
+\lx _sɤscɯndu
 \wav vt-sAscindu
 \ps vt
 \pdl dir 
@@ -76515,31 +76926,31 @@
 \cf sɤndu
 \dt 22/Aug/2015
 
-\lx sɤskɤt
+\lx _sɤskɤt
 \cf skɤt
 \dt 19/Mar/2014
 
-\lx sɤsma
+\lx _sɤsma
 \cf nɤsma
 \dt 14/Apr/2016
 
-\lx sɤsŋom
+\lx _sɤsŋom
 \cf sŋom
 \dt 12/Aug/2014
 
-\lx sɤspa
+\lx _sɤspa
 \cf spa
 \dt 05/Jan/2014
 
-\lx sɤsphɯt
+\lx _sɤsphɯt
 \cf sphɯt
 \dt 26/Apr/2014
 
-\lx sɤsqɤr
+\lx _sɤsqɤr
 \cf sqɤr
 \dt 16/Mar/2011
 
-\lx sɤstɤko
+\lx _sɤstɤko
 \wav vt-sAstAko
 \ps vt
 \pdl dir 
@@ -76564,7 +76975,7 @@
 \cf sɤstu2
 \dt 20/Aug/2015
 
-\lx sɤstu
+\lx _sɤstu
 \hm 1
 \ps vs
 \ge inspirer confiance
@@ -76574,7 +76985,7 @@
 \cf stu
 \dt 15/Jan/2015
 
-\lx sɤstu
+\lx _sɤstu
 \hm 2
 \ps vt
 \sn 1
@@ -76596,11 +77007,11 @@
 \cf sɤstɤko
 \dt 07/Sep/2015
 
-\lx sɤsɯβzi
+\lx _sɤsɯβzi
 \cf βzi
 \dt 24/Aug/2015
 
-\lx sɤsɯɣ
+\lx _sɤsɯɣ
 \wav vt-sAsWG
 \wav vt-sAsWG2
 \ps vt
@@ -76636,11 +77047,11 @@
 \cf asɯɣ
 \dt 18/May/2014
 
-\lx sɤsɯɣli
+\lx _sɤsɯɣli
 \cf li3
 \dt 06/Sep/2015
 
-\lx sɤsɯɣsɯɣ
+\lx _sɤsɯɣsɯɣ
 \ps vt
 \pdl dir
 \pdv nɯ-
@@ -76650,11 +77061,11 @@
 \xn 你不要把衣服碰到墙上，很脏
 \dt 19/May/2014
 
-\lx sɤsɯxɕɤt
+\lx _sɤsɯxɕɤt
 \cf sɯxɕɤt
 \dt 30/Jul/2011
 
-\lx sɤsɯz
+\lx _sɤsɯz
 \ps vs
 \ng deexp
 \ge être connu
@@ -76663,11 +77074,11 @@
 \xn 人们知道他的名字
 \cf sɯz
 
-\lx sɤsɯzdɯɣ
+\lx _sɤsɯzdɯɣ
 \cf sɯzdɯɣ
 \dt 18/May/2014
 
-\lx sɤʂɤʂɤt
+\lx _sɤʂɤʂɤt
 \wav vt-sAsxAsxAt
 \ps vt
 \pdl dir 
@@ -76682,7 +77093,7 @@
 \xn 他吊了羊毛，吊得很顺手
 \dt 05/Jul/2011
 
-\lx sɤʂχɯʂχɯβ
+\lx _sɤʂχɯʂχɯβ
 \wav vt-sAsxXWsxWB
 \ps vt
 \pdl dir 
@@ -76704,11 +77115,11 @@
 \cf ɣɤʂχaβʂχaβ
 \dt 07/Feb/2014
 
-\lx sɤtaʁki
+\lx _sɤtaʁki
 \cf ataʁki
 \dt 22/Aug/2012
 
-\lx sɤtaʁtaʁ
+\lx _sɤtaʁtaʁ
 \wav vt-sAtaRtaR
 \ps vt
 \pdl dir 
@@ -76724,19 +77135,19 @@
 \xn 你把书堆起来
 \dt 30/Jul/2011
 
-\lx sɤtɕaʁ
+\lx _sɤtɕaʁ
 \cf atɕaʁ
 \dt 01/Sep/2011
 
-\lx sɤtɕaʁlaʁ
+\lx _sɤtɕaʁlaʁ
 \cf atɕaʁ
 \dt 31/Aug/2012
 
-\lx sɤtɕɤβ
+\lx _sɤtɕɤβ
 \cf atɕɤβ
 \dt 22/May/2014
 
-\lx sɤtɕɤt
+\lx _sɤtɕɤt
 \wav vt-sAtCAt
 \ps vt
 \pdl dir 
@@ -76749,11 +77160,11 @@
 \xn 因为要烧火，请你把柴火推一下
 \dt 31/Jul/2011
 
-\lx sɤtɕɣɤrtɕɣɤr
+\lx _sɤtɕɣɤrtɕɣɤr
 \cf tɕɣɤrtɕɣɤr
 \dt 20/Nov/2011
 
-\lx sɤtɕhɯ
+\lx _sɤtɕhɯ
 \ps vi
 \ng apass
 \pdl dir 
@@ -76765,7 +77176,7 @@
 \cf tɕhɯ
 \dt 30/Jul/2011
 
-\lx sɤtɕhɯβtɕhɯβ
+\lx _sɤtɕhɯβtɕhɯβ
 \wav vt-sAtChWBtChWB.wav
 \ps vt
 \pdl dir 
@@ -76782,7 +77193,7 @@
 \cf sɤthɤβthɤβ
 \dt 13/Sep/2011
 
-\lx sɤtɕhɯtɕhɯ
+\lx _sɤtɕhɯtɕhɯ
 \wav vt-sAtChWtChW
 \ps vt
 \pdl dir 
@@ -76796,15 +77207,15 @@
 \xn 我套了很多件衣服
 \dt 19/Jul/2016
 
-\lx sɤtɕhɯz
+\lx _sɤtɕhɯz
 \cf atɕhɯz
 \dt 02/Sep/2011
 
-\lx sɤtɕɯɣtaʁ
+\lx _sɤtɕɯɣtaʁ
 \cf taʁ2
 \dt 23/Oct/2011
 
-\lx sɤtɕɯmthɯt
+\lx _sɤtɕɯmthɯt
 \wav vt-sAtCimthWt
 \wav vt-sAtCimthWt2
 \wav vt-sAtCimthWt3
@@ -76825,8 +77236,8 @@
 \sy sɤthɤri
 \dt 31/Jul/2011
 
-\lx sɤtɕɯqaʁ
-\wav8 8_sAtCiqaR
+\lx _sɤtɕɯqaʁ
+\wav8 sAtCiqaR
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -76856,13 +77267,13 @@
 \cf ɣɤʁrɯqa
 \dt 18/Jul/2016
 
-\lx sɤtɕɯtɕit
+\lx _sɤtɕɯtɕit
 \cf atɕɯtɕit
 \dt 03/Sep/2011
 
-\lx sɤtɕɯtʂi
+\lx _sɤtɕɯtʂi
 \wav vt-sAtCitsxi
-\wav8 8_sAtCitsxi
+\wav8 sAtCitsxi
 \ps vt
 \pdl dir 
 \pdv _
@@ -76880,11 +77291,11 @@
 \xn 你继续工作吧
 \dt 17/May/2014
 
-\lx sɤtɕɯxtʂot
+\lx _sɤtɕɯxtʂot
 \cf atɕɯxtʂot
 \dt 03/Sep/2011
 
-\lx sɤthɤβthɤβ
+\lx _sɤthɤβthɤβ
 \wav vt-sAthABthAB
 \ps vt
 \ge cligner des yeux 
@@ -76901,7 +77312,7 @@
 \sy sɤtɕhɯβtɕhɯβ
 \dt 31/Jul/2011
 
-\lx sɤthɤri
+\lx _sɤthɤri
 \wav vt-sAthAri
 \ps vt
 \pdl dir 
@@ -76920,11 +77331,11 @@
 \sy sɤlɤɣɯ
 \dt 24/Aug/2012
 
-\lx sɤthɣɤthɣɤt
+\lx _sɤthɣɤthɣɤt
 \cf ɣɤthɣɤthɣɤt
 \dt 17/Dec/2011
 
-\lx sɤthoʁmphrɤt
+\lx _sɤthoʁmphrɤt
 \wav vt-sAthoRmphrAt2
 \ps vt
 \pdl dir 
@@ -76938,32 +77349,15 @@
 \cf athoʁmphrɤt
 \dt 09/Dec/2013
 
-\lx sɤtsa
-\wav vt-sAtsa
-\wav vt-sAtsa2
-\ps vt
-\ng caus
-\pdl dir 
-\pdv pɯ-
-\ge insérer, planter 
-\gn 插；戳；刺痛 
-\hbf 1171 <2> 1172 <3> 1656 
-\xv tɤtshoʁ pɯ-sɤtsa-t-a (=pɯ-no-t-a)
-\xn 我钉了钉子
-\xv ɕɤmtshoʁ kɤ-sɤtsa-t-a (=kɤ-lat-a, kɤ-no-t-a)
-\xn 我钉了铁钉
-\xv kɯm pɯ-sɤtsa-ta 
-\xn 我锁了门
-\xv tɤtshoʁ ko-sɤtsa
-\xn 他钉了钉子
+\lx _sɤtsa
 \cf atsa
 \dt 29/Jan/2013
 
-\lx sɤtso
+\lx _sɤtso
 \cf tso
 \dt 30/Sep/2011
 
-\lx sɤtsu
+\lx _sɤtsu
 \ps vs
 \ge que l'on a le temps de faire
 \gn 来得及做的
@@ -76971,11 +77365,11 @@
 \xn 明天有时间去看（节目）
 \cf tsu
 
-\lx sɤtʂoʁloʁ
+\lx _sɤtʂoʁloʁ
 \cf atʂoʁloʁ
 \dt 01/Aug/2011
 
-\lx sɤtʂu
+\lx _sɤtʂu
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -76986,11 +77380,11 @@
 \cf tɤtʂu
 \dt 04/Sep/2015
 
-\lx sɤtɯta
+\lx _sɤtɯta
 \cf atɯta
 \dt 04/Sep/2015
 
-\lx sɤwi
+\lx _sɤwi
 \a sɤwij 
 \wav vt-sAwi
 \wav vt-sAwi2
@@ -77005,13 +77399,15 @@
 \xn 他闭上眼睛了
 \xv a-mɲaʁ kɤ-sɤwi-t-a ri a-ʑɯβ kɤ-sɯɣe mɯ́j-khɯ
 \xn 我虽然闭上眼睛，还是睡不着
-\cf awij
+\xv ɯ-mɲaʁ ra ko-sɤwi
+\xn 他闭上眼睛了
+\cf awi
 \dt 04/Jul/2016
 
-\lx sɤwij
-\cf awij
+\lx _sɤwi
+\cf awi
 
-\lx sɤwija
+\lx _sɤwija
 \wav vt-sAwija
 \ps vt
 \pdl dir 
@@ -77022,7 +77418,7 @@
 \xn 他把线缠在纺锤上了
 \dt 01/Aug/2011
 
-\lx sɤwum
+\lx _sɤwum
 \wav vt-sAwWwum
 \ps vt
 \pdl dir 
@@ -77046,15 +77442,15 @@
 \xn 因为孩子的玩具散了，我把这些收集在一起
 \dt 24/Aug/2012
 
-\lx sɤwɯwum
+\lx _sɤwɯwum
 \cf sɤwum
 \dt 01/Aug/2011
 
-\lx sɤxoŋxoŋ
+\lx _sɤxoŋxoŋ
 \cf xoŋnɤxoŋ
 \dt 27/Apr/2014
 
-\lx sɤxtɕhɯxtɕhɯβ
+\lx _sɤxtɕhɯxtɕhɯβ
 \wav vi-GaxtChWxtChWB
 \ps vt
 \pdl dir 
@@ -77071,13 +77467,13 @@
 \xn 有东西钻到我耳朵里，发出沙沙声
 \dt 31/Aug/2015
 
-\lx sɤxɯβxɯβ
+\lx _sɤxɯβxɯβ
 \cf xɯβxɯβ
 \dt 21/Nov/2011
 
-\lx sɤxɯxɯɣ
+\lx _sɤxɯxɯɣ
 \wav vt-sAxWxWG
-\wav8 8_sAxWxWG
+\wav8 sAxWxWG
 \ps vt
 \sn 1
 \pdl dir 
@@ -77096,11 +77492,11 @@
 \cf ɣɤxɯxɯɣ
 \dt 20/Jul/2016
 
-\lx sɤχa
+\lx _sɤχa
 \cf aχa
 \dt 06/Sep/2011
 
-\lx sɤχsɯχsjɯβ
+\lx _sɤχsɯχsjɯβ
 \wav vt-sAXsjWBXsjWB
 \ps vt
 \pdl dir
@@ -77112,7 +77508,7 @@
 \cf χsjɯβnɤχsjɯβ
 \dt 20/Jul/2016
 
-\lx sɤzda
+\lx _sɤzda
 \ps vs
 \ge aimable 
 \gn 很好相处 
@@ -77121,11 +77517,11 @@
 \cf ɣɤzda
 \dt 22/Oct/2011
 
-\lx sɤzdaʁ
+\lx _sɤzdaʁ
 \cf azdaʁ
 \dt 22/Aug/2012
 
-\lx sɤzdɯxpa
+\lx _sɤzdɯxpa
 \a sɤdɯxpa
 \wav vi-sAdWGpa
 \wav vi-sAzdWGpa
@@ -77142,21 +77538,21 @@
 \cf nɯzdɯxpa
 \dt 16/Jan/2014
 
-\lx sɤzɣɤkhe
+\lx _sɤzɣɤkhe
 \cf khe
 \dt 11/May/2014
 
-\lx sɤzɣɤmɯ
+\lx _sɤzɣɤmɯ
 \cf ɣɤmɯ
 \dt 23/Aug/2011
 
-\lx sɤzɣɤxpra
+\lx _sɤzɣɤxpra
 \cf ɣɤxpra
 \dt 24/Aug/2012
 
-\lx sɤzɣɯt
+\lx _sɤzɣɯt
 \wav vt-sAzGWt
-\wav8 8_sAzGWt
+\wav8 sAzGWt
 \ps vt
 \pdl dir 
 \pdv _
@@ -77177,18 +77573,18 @@
 \cf ɣɯt
 \dt 03/Sep/2015
 
-\lx sɤzjaŋzjaŋ
+\lx _sɤzjaŋzjaŋ
 \cf ɣɤzjaŋlaŋ
 \dt 13/Nov/2013
 
-\lx sɤzjɤɣlɤɣ
+\lx _sɤzjɤɣlɤɣ
 \cf zjɤɣzjɤɣ
 \dt 31/Oct/2011
 
-\lx sɤzmbrɯ
+\lx _sɤzmbrɯ
 \wav vt-sAzmbrW
-\wav8 8_tAwGsAzmbrWa
-\wav8 8_matAtWsAzmbri
+\wav8 tAwGsAzmbrWa
+\wav8 matAtWsAzmbri
 \ps vt
 \ng caus
 \pdl dir 
@@ -77208,15 +77604,15 @@
 \cf sɤmbrɯ
 \dt 15/Jan/2015
 
-\lx sɤzoŋzoŋ
+\lx _sɤzoŋzoŋ
 \cf ɣɤzoŋzoŋ
 \dt 06/Nov/2013
 
-\lx sɤzraʁ
+\lx _sɤzraʁ
 \cf nɤzraʁ
 \dt 04/Jul/2016
 
-\lx sɤʑa
+\lx _sɤʑa
 \wav vt-sAZa
 \ps vt
 \pdl dir 
@@ -77243,15 +77639,15 @@
 \cf nɤmphruʑa
 \dt 03/Sep/2015
 
-\lx sɤʑdraŋlaŋ
+\lx _sɤʑdraŋlaŋ
 \cf ʑdraŋʑdraŋ
 \dt 29/Oct/2011
 
-\lx sɤʑɣɤlɤt
+\lx _sɤʑɣɤlɤt
 \cf sɤʑɣɤʑɣɤt
 \dt 29/Aug/2015
 
-\lx sɤʑɣɤʑɣɤt
+\lx _sɤʑɣɤʑɣɤt
 \a znɯʑɣɤʑɣɤt
 \ps vt
 \ge brandir
@@ -77264,7 +77660,7 @@
 \gn 乱挥乱舞
 \dt 29/Aug/2015
 
-\lx sɤʑɯloʁ
+\lx _sɤʑɯloʁ
 \wav vi-sAZWloR
 \ps vs
 \ng incorp
@@ -77282,15 +77678,15 @@
 \cf tɯ-ʑi,loʁ
 \dt 24/Aug/2015
 
-\lx sɤʑɯrja
+\lx _sɤʑɯrja
 \cf aʑɯrja
 \dt 02/Aug/2011
 
-\lx sɤʑɯχtso
+\lx _sɤʑɯχtso
 \cf aʑɯχtso
 \dt 26/Oct/2011
 
-\lx scɤt
+\lx _scɤt
 \wav vt-scAt
 \ps vt
 \pdl dir 
@@ -77326,7 +77722,7 @@
 \xn 他不停地搬来搬去了
 \dt 17/Jul/2016
 
-\lx schɤt
+\lx _schɤt
 \wav vi-schAt
 \ps vi
 \pdl dir 
@@ -77344,7 +77740,7 @@
 \pdv pɯ-
 \dt 12/Jun/2012
 
-\lx schi
+\lx _schi
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -77362,7 +77758,7 @@
 \xn 你很怕冷
 \dt 22/Aug/2012
 
-\lx sci
+\lx _sci
 \hm 1
 \wav vi-sci
 \ps vi
@@ -77392,7 +77788,7 @@
 \cf tɯ-sɤsci
 \dt 20/Jul/2016
 
-\lx scit
+\lx _scit
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -77402,13 +77798,15 @@
 \gn 幸福 
 \hbf 1118 
 \et skʲid
+\cf sɤscit
 \se sɯscit
 \ps vt
 \ng caus
-\cf sɤscit
+\ge rendre ... heureux
+\gn 让……享福
 \dt 28/Oct/2011
 
-\lx sco
+\lx _sco
 \wav vt-sco
 \ps vt
 \pdl dir 
@@ -77431,7 +77829,7 @@
 \gn 互相送行
 \dt 21/Jul/2016
 
-\lx si
+\lx _si
 \hm 2
 \ps vi
 \pdl dir 
@@ -77443,7 +77841,7 @@
 \hbf 1089 <2> 
 \dt 24/Aug/2012
 
-\lx skɤɣ
+\lx _skɤɣ
 \ps vt
 \pdl dir 
 \pdv kɤ-
@@ -77453,7 +77851,7 @@
 \xn 我把猪催肥了
 \dt 14/Jul/2016
 
-\lx skɤr
+\lx _skɤr
 \wav vt-skAr
 \wav vt-skAr2
 \ps vt
@@ -77484,9 +77882,9 @@
 \gn 称东西
 \dt 04/Aug/2013
 
-\lx skɤt
+\lx _skɤt
 \wav vt-skAt
-\wav8 8_kAsAskAt_mAnAtsa
+\wav8 kAsAskAt_mAnAtsa
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -77514,7 +77912,7 @@
 \xn 不好拒绝
 \dt 19/Mar/2014
 
-\lx sko
+\lx _sko
 \wav vt-sko
 \ps vt
 \pdl dir 
@@ -77532,7 +77930,7 @@
 \xn 抽烟是不好的，会令我咳嗽
 \dt 08/Sep/2015
 
-\lx skɯ
+\lx _skɯ
 \hm 1
 \wav vt-skW
 \ps vt
@@ -77547,10 +77945,10 @@
 \xn 病死了的牲畜要埋（不能吃它的肉）
 \dt 09/Jan/2015
 
-\lx sloʁ
-\wav vt-sloR
+\lx _sloʁ
 \ps vt
 \sn 1
+\wav vt-sloR
 \pdl dir
 \pdv nɯ-
 \ge fouir (cochon) 
@@ -77564,6 +77962,23 @@
 \gn 挖出来；掏出来
 \xv laχtɕha tɤ-sloʁ-a
 \xn 我把东西挖出来了
+\sn 3
+\pdv nɯ-
+\pdl dir 
+\ge se frayer un chemin dans la foule
+\gn （从人群中）挤过去
+\xv tɯrme ra nɯ-sloʁ-a ʑo lɤ-nɯɬoʁ-a
+\xn 我从人群中挤出来
+\sy nɯɣlɯɣli
+\sn 4
+\wav8 tWNga_tosloR
+\pdl dir 
+\pdv tɤ-
+\ge fouiller
+\gn 翻来覆去地找
+\xv rgɤm ɯ-ŋgɯ tɯ-ŋga nɯra to-sloʁ
+\xn 他翻箱子找衣服
+\sy pɣaʁ
 \se rɤsloʁ
 \ps vi
 \pdl dir 
@@ -77579,9 +77994,9 @@
 \gn 用……拱（猪） 
 \xv ɯ-ɕna kɯ ɲɯ-sɯsloʁ tɕe pjɯ-lɣe ɲɯ-ɕti
 \xn （野猪）用鼻子拱地
-\dt 18/Jul/2016
+\dt 15/May/2017
 
-\lx smɤt
+\lx _smɤt
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -77592,7 +78007,7 @@
 \cf nɯsmɤphɤβ
 \dt 04/Aug/2012
 
-\lx smi
+\lx _smi
 \hm 1
 \ps vs
 \pdl dir 
@@ -77607,7 +78022,7 @@
 \cf ɣɤsmi1
 \dt 26/Aug/2012
 
-\lx smɯn
+\lx _smɯn
 \ps vs
 \pdl dir
 \pdv pɯ-
@@ -77618,7 +78033,7 @@
 \xn 会有好结果
 \dt 15/May/2014
 
-\lx sna
+\lx _sna
 \wav vi-sna-b
 \ps vs
 \pdl dir 
@@ -77643,7 +78058,7 @@
 \gn 大方；热情；善良
 \dt 18/Jul/2016
 
-\lx sɲoʁ
+\lx _sɲoʁ
 \wav vi-sYoR
 \ps vs
 \ge épaisse (huile)
@@ -77652,7 +78067,7 @@
 \xn 酥油馍馍有多油，吃不下很多
 \dt 16/Jul/2016
 
-\lx sɲu
+\lx _sɲu
 \wav vi-sYu
 \ps vi
 \pdl dir 
@@ -77682,7 +78097,7 @@
 \ev ci ci ɲɯ-sɲu, ci ci tu-pe kɯ-fse
 \dt 29/Aug/2015
 
-\lx sŋa
+\lx _sŋa
 \wav vi-sNa
 \ps vi
 \pdl dir 
@@ -77700,7 +78115,7 @@
 \gn 令人复活、苏醒 
 \dt 10/Jan/2015
 
-\lx sŋaʁ
+\lx _sŋaʁ
 \hm 1
 \wav vi-sNaR
 \ps vt
@@ -77727,8 +78142,8 @@
 \gn 招人给自己施法术
 \dt 26/Aug/2015
 
-\lx sŋom
-\wav8 8_sNom
+\lx _sŋom
+\wav8 sNom
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -77747,7 +78162,7 @@
 \gn 令人羡慕
 \dt 12/Aug/2014
 
-\lx sŋu
+\lx _sŋu
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -77757,9 +78172,9 @@
 \xn 活佛们嘱咐我要这样做
 \dt 02/Aug/2012
 
-\lx sŋur
+\lx _sŋur
 \wav vi-sNur
-\wav8 8_sNur
+\wav8 sNur
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -77776,7 +78191,7 @@
 \xn 我睡的时候打鼾
 \dt 04/Aug/2012
 
-\lx so
+\lx _so
 \wav vi-so
 \ps vs
 \pdl dir 
@@ -77805,11 +78220,11 @@
 \xn 你把口袋腾空
 \dt 07/Aug/2012
 
-\lx spa
+\lx _spa
 \wav vt-spa
-\wav8 8_tuti_Wspe
-\wav8 8_spa
-\wav8 8_kArWcANgAB
+\wav8 tuti_Wspe
+\wav8 spa
+\wav8 kArWcANgAB
 \ps vt
 \pdl dir 
 \pdv kɤ-
@@ -77867,10 +78282,10 @@
 \xn 他本来就会开车
 \dt 05/Jan/2014
 
-\lx spa,rka
-\wav8 8_mAspeamArkea
-\wav8 8_mAtWsperke
-\wav8 8_mWtAtWspatrkat
+\lx _spa,rka
+\wav8 mAspeamArkea
+\wav8 mAtWsperke
+\wav8 mWtAtWspatrkat
 \pdl dir
 \pdv tɤ-
 \ge être innocent
@@ -77892,7 +78307,7 @@
 \ps vt
 \dt 14/May/2014
 
-\lx spɤr
+\lx _spɤr
 \wav vt-spAr
 \ps vt
 \pdl dir 
@@ -77910,8 +78325,8 @@
 \sy cit
 \dt 02/Sep/2015
 
-\lx spɤt
-\wav8 8_spAt
+\lx _spɤt
+\wav8 spAt
 \ps vi
 \pdl dir 
 \pdv _
@@ -77922,9 +78337,9 @@
 \xv ɯ-mtsɯ pjɤ-spɤt
 \xn 扣子的眼子拉破了
 \se sɯspɤt
-\wav8 8_sWspAt
-\wav8 8_sWspAt2
-\wav8 8_nWsWspata
+\wav8 sWspAt
+\wav8 sWspAt2
+\wav8 nWsWspata
 \ps vt
 \pdl dir 
 \pdv _
@@ -77934,8 +78349,8 @@
 \xn 我把破烂的衣服扯断了
 \dt 26/Apr/2014
 
-\lx sphjar
-\wav8 8_sphjar
+\lx _sphjar
+\wav8 sphjar
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -77948,7 +78363,7 @@
 \sy sqhiar
 \dt 26/Apr/2014
 
-\lx sphjaʁ
+\lx _sphjaʁ
 \wav vt-sphjaR
 \ps vt
 \pdl dir 
@@ -77961,7 +78376,7 @@
 \xv tɯ-ci kɯ kɤ́-wɣ-sphjaʁ-a
 \xn 我被淋湿了
 \se sɯsphjaʁ
-\wav8 8_kusWsphjaR
+\wav8 kusWsphjaR
 \ps vt
 \ng habil
 \ge traverser
@@ -77972,11 +78387,11 @@
 \xn 我说了一句，但他们没有理睬我
 \dt 12/Feb/2014
 
-\lx sphɯt
+\lx _sphɯt
 \cf phɯt
 \dt 06/Aug/2012
 
-\lx spjɤt
+\lx _spjɤt
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -77991,7 +78406,7 @@
 \xn 你显示一下你的能力
 \dt 29/Aug/2015
 
-\lx spoŋ
+\lx _spoŋ
 \ps vi
 \pdl dir
 \pdv _
@@ -77999,7 +78414,7 @@
 \gn 逃亡他乡
 \dt 07/Jul/2016
 
-\lx spoʁ
+\lx _spoʁ
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -78010,9 +78425,9 @@
 \cf kɯspoʁ
 \dt 08/Aug/2012
 
-\lx sprɤt
+\lx _sprɤt
 \wav vt-sprAt
-\wav8 8_tosprAt
+\wav8 tosprAt
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -78042,7 +78457,7 @@
 \xn 我自首了
 \dt 24/Aug/2012
 
-\lx spɯ
+\lx _spɯ
 \wav vi-spW
 \ps vs
 \pdl dir 
@@ -78053,7 +78468,7 @@
 \xn 糌粑水分偏少，吃起来不要干燥
 \an ŋgri
 \se ɣɤspɯ
-\wav8 8_GAspW
+\wav8 GAspW
 \ps vt
 \ng caus
 \pdl dir 
@@ -78064,7 +78479,7 @@
 \xn 我减少了糌粑里的水分，令它很干
 \dt 09/Jan/2014
 
-\lx sqa
+\lx _sqa
 \wav vt-sqa
 \ps vt
 \pdl dir 
@@ -78084,7 +78499,7 @@
 \xn 被雨淋湿了
 \dt 06/Aug/2011
 
-\lx sqaβjɯβ
+\lx _sqaβjɯβ
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -78095,11 +78510,11 @@
 \sy saʁjɯβ
 \dt 24/Aug/2015
 
-\lx sqandʐi
+\lx _sqandʐi
 \cf qandʐi1
 \dt 07/Apr/2011
 
-\lx sqane
+\lx _sqane
 \ps vt
 \pdl dir 
 \pdv kɤ-
@@ -78112,7 +78527,7 @@
 \cf sqanɯ
 \dt 06/Aug/2011
 
-\lx sqanɯ
+\lx _sqanɯ
 \ps vt
 \ng caus
 \pdl dir 
@@ -78126,12 +78541,12 @@
 \cf qanɯ
 \dt 06/Aug/2011
 
-\lx sqapɯ
+\lx _sqapɯ
 \cf qapɯ
 \dt 03/Sep/2015
 
-\lx sqarcɯm
-\wav8 8_pjAscqarcim
+\lx _sqarcɯm
+\wav8 pjAscqarcim
 \ps vt
 \pdl dir
 \pdv pɯ-
@@ -78144,11 +78559,11 @@
 \cf qarcɯm
 \dt 22/Aug/2015
 
-\lx sqarndɯm
+\lx _sqarndɯm
 \cf qarndɯm
 \dt 17/Mar/2014
 
-\lx sqaʁjɯβ
+\lx _sqaʁjɯβ
 \wav vt-sqaRjWB
 \ps vt
 \pdl dir 
@@ -78170,7 +78585,7 @@
 \sy sqaβjɯβ
 \dt 03/Aug/2012
 
-\lx sqɤr
+\lx _sqɤr
 \wav vt-sqar
 \ps vt
 \pdl dir 
@@ -78205,8 +78620,8 @@
 \sy ftɕɤl
 \dt 18/May/2014
 
-\lx sqhiar
-\wav8 8_sqhiar
+\lx _sqhiar
+\wav8 sqhiar
 \ps vt
 \pdl dir 
 \pdv _
@@ -78218,7 +78633,7 @@
 \xn 你晒衣服时候，一定要把它展开不然就不会干
 \dt 05/Sep/2011
 
-\lx sqlɯm
+\lx _sqlɯm
 \wav vi-sqlWm
 \ps vi
 \pdl dir 
@@ -78238,9 +78653,9 @@
 \cf arɴɢlɯm
 \dt 18/Jul/2016
 
-\lx sta
+\lx _sta
 \wav vi-sta
-\wav8 8_sWsta
+\wav8 sWsta
 \ps vi
 \pdl dir 
 \pdv thɯ-
@@ -78265,7 +78680,7 @@
 \xn 门的声音把他弄醒了
 \dt 15/May/2012
 
-\lx stat
+\lx _stat
 \ps vi
 \pdl dir
 \pdv tɤ-
@@ -78284,7 +78699,7 @@
 \xn 他成功地把鼻血止住了
 \dt 24/Aug/2015
 
-\lx stɤm
+\lx _stɤm
 \wav vi-stAm
 \ps vi
 \pdl dir 
@@ -78297,7 +78712,7 @@
 \xv sɤtɕha ko-stɤm
 \xn 地凝固了
 \se sɯstɤm
-\wav8 8_kAsWstama
+\wav8 kAsWstama
 \ps vt
 \pdl dir 
 \pdv kɤ-
@@ -78307,7 +78722,7 @@
 \xn 我把酥油融化成液体，然后又让它凝固了
 \dt 13/Apr/2014
 
-\lx stɤt
+\lx _stɤt
 \wav vt-stAt
 \ps vt
 \pdl dir 
@@ -78321,9 +78736,9 @@
 \ev sɯjno, xɕaj kɯ-ʁjɤr tsa tɯ-khɤl nɯtɕu tɤtshoʁ pjɯ́-wɣ-no tɕe fsapaʁ pjɯ́-wɣ-βraʁ tɕe nɯnɯ pjɯ́-wɣ-stɤt tu-kɯ-ti ŋu
 \dt 24/Aug/2011
 
-\lx sthaβ
+\lx _sthaβ
 \wav vt-sthaB
-\wav8 8_sthaB
+\wav8 sthaB
 \ps vt
 \sn 1
 \pdl dir 
@@ -78347,7 +78762,7 @@
 \xn 他把水放在火上做热了
 \dt 12/Jul/2016
 
-\lx sthoʁ
+\lx _sthoʁ
 \wav vt-sthoR
 \ps vt
 \sn 1
@@ -78370,7 +78785,7 @@
 \cf nɯsthoʁ
 \dt 30/Aug/2015
 
-\lx sthɯt
+\lx _sthɯt
 \wav vt-sthWt
 \wav vt-sthWt2
 \wav vt-sthWt3
@@ -78382,7 +78797,7 @@
 \gn 完 
 \xv kɤ-nɤma ta-sthɯt
 \xn 他把工作做完了
-\xn kɤ-nɤma nɯ-sthɯt-a
+\xv kɤ-nɤma nɯ-sthɯt-a
 \xn 我把工作做完了
 \xv kɤ-βzjoz pa-sthɯt
 \xn 他学完了
@@ -78401,7 +78816,7 @@
 \xn 你完蛋了！
 \dt 24/Aug/2015
 
-\lx sti
+\lx _sti
 \hm 1
 \wav vt-sti1
 \ps vt
@@ -78428,7 +78843,7 @@
 \cf asti
 \dt 20/Jul/2016
 
-\lx sti
+\lx _sti
 \hm 2
 \ps vt
 \pdl dir 
@@ -78444,7 +78859,7 @@
 \sy nɯβʑit
 \dt 29/Aug/2015
 
-\lx stu
+\lx _stu
 \hm 1
 \wav vi-stu
 \ps vs
@@ -78483,9 +78898,9 @@
 \xn 我觉得他很努力
 \dt 12/Jul/2016
 
-\lx stu
+\lx _stu
 \hm 2
-\wav8 8_stu
+\wav8 stu
 \ps vi-t
 \pdl dir 
 \pdv nɯ-
@@ -78508,7 +78923,7 @@
 \gn 令……相信
 \dt 19/Aug/2015
 
-\lx stu
+\lx _stu
 \hm 3
 \ps vt
 \pdl dir 
@@ -78535,8 +78950,8 @@
 \cf sɯpa
 \dt 01/Jul/2016
 
-\lx stɯm
-\wav8 8_lAstWma
+\lx _stɯm
+\wav8 lAstWma
 \ps vt
 \pdl dir 
 \pdv lɤ-
@@ -78547,7 +78962,7 @@
 \cf rɤstɯm
 \dt 09/May/2013
 
-\lx sɯ
+\lx _sɯ
 \wav vi-sW
 \wav vi-sW2
 \ps vs
@@ -78568,30 +78983,30 @@
 \cf nɯɲɤmsɯ
 \dt 22/Oct/2011
 
-\lx sɯβde
+\lx _sɯβde
 \cf βde
 \dt 19/Aug/2015
 
-\lx sɯβɣɯt
+\lx _sɯβɣɯt
 \cf βɣɯt
 \dt 02/Sep/2015
 
-\lx sɯβɟi
+\lx _sɯβɟi
 \cf βɟi1
 
-\lx sɯβʁa
+\lx _sɯβʁa
 \cf βra
 \dt 29/Aug/2015
 
-\lx sɯβzi
+\lx _sɯβzi
 \cf βzi
 \dt 25/Jan/2015
 
-\lx sɯβzu
+\lx _sɯβzu
 \cf βzu1
 \dt 10/Mar/2011
 
-\lx sɯɕke
+\lx _sɯɕke
 \wav vt-sWCke
 \ps vt
 \pdl dir 
@@ -78606,7 +79021,7 @@
 \cf ɕke
 \dt 30/Aug/2011
 
-\lx sɯɕtʂi
+\lx _sɯɕtʂi
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -78618,7 +79033,7 @@
 \cf tɯ-ɕtʂi
 \dt 26/Aug/2012
 
-\lx sɯɕɯɣra
+\lx _sɯɕɯɣra
 \wav vt-sWCWGra
 \ps vt
 \ng denom
@@ -78636,13 +79051,13 @@
 \cf ɕɯɣra
 \dt 31/Aug/2011
 
-\lx sɯfɕɤl
+\lx _sɯfɕɤl
 \cf fɕɤl
 \dt 24/Mar/2011
 
-\lx sɯfsaŋ
+\lx _sɯfsaŋ
 \wav n-tAfsaN
-\wav8 8_tafsaNWkWsWfsaN
+\wav8 tafsaNWkWsWfsaN
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -78664,12 +79079,12 @@
 \cf fsaŋ
 \dt 30/Aug/2011
 
-\lx sɯfsoʁ
+\lx _sɯfsoʁ
 \cf fsoʁ2
 \dt 08/Oct/2015
 
-\lx sɯftɕaʁ
-\wav8 8_pWtWsWftCaR
+\lx _sɯftɕaʁ
+\wav8 pWtWsWftCaR
 \ps vt
 \ge abîmer, salir
 \gn （把本来很干净的东西）弄脏
@@ -78678,18 +79093,18 @@
 \cf ftɕaʁ
 \dt 10/Oct/2014
 
-\lx sɯftɕɯm
+\lx _sɯftɕɯm
 \cf ftɕɯm
 
-\lx sɯftshi
+\lx _sɯftshi
 \cf ftshi
 \dt 13/Aug/2012
 
-\lx sɯɣdɯɣ
+\lx _sɯɣdɯɣ
 \cf dɯɣ
 \dt 25/Aug/2012
 
-\lx sɯɣe
+\lx _sɯɣe
 \ps vt
 \pdl dir 
 \pdv _
@@ -78699,7 +79114,7 @@
 \xn 我把他请到家里来
 \dt 27/Nov/2014
 
-\lx sɯɣjɤɣ
+\lx _sɯɣjɤɣ
 \ps vt
 \pdl dir 
 \pdv _
@@ -78712,19 +79127,19 @@
 \cf jɤɣ
 \dt 10/Dec/2014
 
-\lx sɯɣjɯm
+\lx _sɯɣjɯm
 \cf jɯm
 \dt 08/Jul/2016
 
-\lx sɯɣli
+\lx _sɯɣli
 \cf li3
 \dt 02/May/2014
 
-\lx sɯɣlɯɣ
+\lx _sɯɣlɯɣ
 \cf lɯɣ
 \dt 31/Aug/2011
 
-\lx sɯɣlɯz
+\lx _sɯɣlɯz
 \ps vt
 \ng caus
 \pdl dir 
@@ -78736,38 +79151,38 @@
 \cf lɯz
 \dt 20/Jul/2014
 
-\lx sɯɣmbɤβ
+\lx _sɯɣmbɤβ
 \cf mbɤβ1
 \dt 06/Sep/2015
 
-\lx sɯɣmbuz
+\lx _sɯɣmbuz
 \cf mbuz
 \dt 06/Sep/2015
 
-\lx sɯɣnɤz
+\lx _sɯɣnɤz
 \cf nɤz
 \dt 31/Aug/2015
 
-\lx sɯɣndɤɣ
+\lx _sɯɣndɤɣ
 \cf ndɤɣ
 \dt 07/Dec/2013
 
-\lx sɯɣndɯl
+\lx _sɯɣndɯl
 \cf ndɯl1
 \dt 26/Aug/2012
 
-\lx sɯɣndzar
+\lx _sɯɣndzar
 \cf ndzar
 \dt 08/Apr/2011
 
-\lx sɯɣndzi
+\lx _sɯɣndzi
 \cf ndzi
 
-\lx sɯɣndzu
+\lx _sɯɣndzu
 \cf ndzu
 \dt 13/Oct/2016
 
-\lx sɯɣndzur
+\lx _sɯɣndzur
 \wav vt-sWGndzur
 \ps vt
 \pdl dir 
@@ -78783,23 +79198,23 @@
 \cf ndzur
 \dt 20/May/2013
 
-\lx sɯɣndzɯr
+\lx _sɯɣndzɯr
 \cf ndzɯr
 \dt 18/Aug/2015
 
-\lx sɯɣndʐi
+\lx _sɯɣndʐi
 \cf ndʐi
 \cf ftʂi
 \dt 13/Apr/2014
 
-\lx sɯɣndʐoʁ
+\lx _sɯɣndʐoʁ
 \cf ndʐoʁ
 \dt 24/Aug/2012
 
-\lx sɯɣɲaʁ
+\lx _sɯɣɲaʁ
 \wav vt-sWGYaR
-\wav8 8_sWGYaR
-\wav8 8_sWGYaR2
+\wav8 sWGYaR
+\wav8 sWGYaR2
 \ps vt
 \sn 1
 \pdl dir 
@@ -78822,7 +79237,7 @@
 \xv ma-pɯ-kɯ-sɯɣɲaʁ-a
 \xn 你不要诬蔑我
 \se ʑɣɤsɯɣɲaʁ
-\wav8 8_ZGAsWGYaR
+\wav8 ZGAsWGYaR
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -78832,7 +79247,7 @@
 \xv tɤ-pɤtso ni tɤɣro kɯ ɲɯ-ʑɣɤsɯɣɲaʁ-ndʑi ʑo
 \xn 小孩子玩着把自己弄黑了
 \se asɯɣɲɯɣɲaʁ
-\wav8 8_asWGYWGYaR
+\wav8 asWGYWGYaR
 \ps vi
 \ng recip
 \ge se noircir les uns les autres
@@ -78840,22 +79255,22 @@
 \xv ɲɤ-k-ɤsɯɴqhɯɴqhi-ndʑi tɕe, ɲɤ-k-ɤsɯɣɲɯɣɲaʁ-ndʑi-ci ʑo
 \xn 他们俩互相弄脏了，互相弄黑了
 \se nɯɣɯsɯɣɲaʁ
-\wav8 8_nWGWsWGYaR
+\wav8 nWGWsWGYaR
 \ps vs
 \ge être facile à noircir
 \gn 容易抹黑
 \cf ɲaʁ
 \dt 29/Nov/2011
 
-\lx sɯɣɲat
+\lx _sɯɣɲat
 \cf ɲat
 \dt 25/Aug/2012
 
-\lx sɯɣɲɟo
+\lx _sɯɣɲɟo
 \cf ɲɟo
 \dt 31/Aug/2011
 
-\lx sɯɣɲo
+\lx _sɯɣɲo
 \wav vt-sWGYo
 \ps vt
 \ng caus
@@ -78873,11 +79288,11 @@
 \sy mɲo
 \dt 26/Mar/2014
 
-\lx sɯɣraʁ
+\lx _sɯɣraʁ
 \cf raʁ1
 \dt 31/Aug/2011
 
-\lx sɯɣri
+\lx _sɯɣri
 \wav vt-sWGri
 \ps vt
 \pdl dir
@@ -78888,21 +79303,21 @@
 \xn 我昨天准备回家，因为某种原因取消了（这种想法）
 \dt 21/Jul/2016
 
-\lx sɯɣrom
+\lx _sɯɣrom
 \cf rom
 \dt 31/Aug/2011
 
-\lx sɯɣru
+\lx _sɯɣru
 \cf ru1
 \dt 04/Oct/2011
 
-\lx sɯɣrum
+\lx _sɯɣrum
 \cf wɣrum
 \dt 05/May/2012
 
-\lx sɯɣʑaʁ
+\lx _sɯɣʑaʁ
 \wav vt-sWGZaR
-\wav8 8_sMGZaR
+\wav8 sMGZaR
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -78918,13 +79333,13 @@
 \xn 他练习走路了
 \dt 10/Sep/2011
 
-\lx sɯɣʑi
+\lx _sɯɣʑi
 \cf ʑi
 \dt 02/Nov/2014
 
-\lx sɯjaʁndzu
+\lx _sɯjaʁndzu
 \wav vt-sWjaRndzu
-\wav8 8_asWjaRndzWRndzu
+\wav8 asWjaRndzWRndzu
 \ps vt
 \pdl dir 
 \pdv kɤ-
@@ -78947,11 +79362,11 @@
 \gn 互相指
 \dt 29/Nov/2011
 
-\lx sɯjɣɤt
+\lx _sɯjɣɤt
 \cf jɣɤt
 \dt 24/Aug/2012
 
-\lx sɯjno
+\lx _sɯjno
 \hm 2
 \wav vi-sWjno
 \ps vi 
@@ -78970,11 +79385,11 @@
 \xn 我们拔了杂草
 \dt 26/Dec/2012
 
-\lx sɯjpɣom
+\lx _sɯjpɣom
 \cf jpɣom
 \dt 01/May/2012
 
-\lx sɯkhɤrma
+\lx _sɯkhɤrma
 \ps vt
 \ge maudire
 \gn 诅咒
@@ -78983,7 +79398,7 @@
 \cf khɤrma 
 \dt 19/Aug/2015
 
-\lx sɯkho
+\lx _sɯkho
 \wav vt-sWkho
 \ps vt
 \ng caus
@@ -79003,15 +79418,15 @@
 \cf kho1
 \dt 29/Dec/2014
 
-\lx sɯkhrɤt
+\lx _sɯkhrɤt
 \cf khrɤt1
 \dt 02/Oct/2013
 
-\lx sɯko
+\lx _sɯko
 \cf ko
 \dt 20/Jul/2016
 
-\lx sɯlaʁrdɤβ
+\lx _sɯlaʁrdɤβ
 \wav vt-sWrlaRrdAB
 \ps vl
 \ng denom
@@ -79028,14 +79443,14 @@
 \cf laʁrdɤβ
 \dt 28/Aug/2011
 
-\lx sɯlɤt
+\lx _sɯlɤt
 \cf lɤt
 
-\lx sɯldʑoʁ
+\lx _sɯldʑoʁ
 \cf ldʑoʁ
 \dt 02/Sep/2015
 
-\lx sɯluj
+\lx _sɯluj
 \wav vt-sWluj
 \ps vt
 \pdl dir 
@@ -79055,15 +79470,7 @@
 \sy ɕɯfkaβ
 \dt 25/Aug/2011
 
-\lx sɯmdʑɯtɕoʁ
-\ps vi
-\pdl dir
-\pdv tɤ-
-\ge s'agenouiller d'une genou
-\gn 半跪
-\dt 08/Jul/2016
-
-\lx sɯmdʑɯtɕoʁ
+\lx _sɯmdʑɯtɕoʁ
 \wav vi-sWmdZWtCoR
 \ps vi
 \pdl dir 
@@ -79077,14 +79484,14 @@
 \xn 她跪下了
 \dt 25/Aug/2011
 
-\lx sɯmɟa
+\lx _sɯmɟa
 \cf mɟa
 \dt 12/Jul/2016
 
-\lx sɯmɲo
+\lx _sɯmɲo
 \cf mɲo1
 
-\lx sɯmɲo
+\lx _sɯmɲo
 \wav vt-sWmYo
 \ps vt
 \sn 1
@@ -79106,11 +79513,11 @@
 \cf mɲo1
 \dt 25/Aug/2011
 
-\lx sɯmoʁ
+\lx _sɯmoʁ
 \cf moʁ
 \dt 06/Sep/2015
 
-\lx sɯmtɕɯr
+\lx _sɯmtɕɯr
 \wav vt-sWmtCWr2
 \ps vt
 \pdl dir 
@@ -79132,11 +79539,11 @@
 \cf mtɕɯr
 \dt 25/Aug/2011
 
-\lx sɯmto
+\lx _sɯmto
 \cf mto
 \dt 04/Oct/2011
 
-\lx sɯmtshɤm
+\lx _sɯmtshɤm
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -79148,7 +79555,7 @@
 \cf mtshɤm
 \dt 24/Aug/2012
 
-\lx sɯmtshɤt
+\lx _sɯmtshɤt
 \wav vt-sWmtshAt
 \ps vt
 \pdl dir 
@@ -79165,32 +79572,32 @@
 \cf mtshɤt
 \dt 30/May/2013
 
-\lx sɯmtshoŋ
+\lx _sɯmtshoŋ
 \cf mtshoŋ
 \dt 25/Aug/2011
 
-\lx sɯmtshɯβ
+\lx _sɯmtshɯβ
 \cf mtshɯβ
 \dt 13/Apr/2014
 
-\lx sɯmtsɯr
+\lx _sɯmtsɯr
 \cf mtsɯr
 \dt 20/Aug/2015
 
-\lx sɯndɤrmbjom
+\lx _sɯndɤrmbjom
 \cf ndɤrmbjom
 \dt 25/Aug/2015
 
-\lx sɯndo
+\lx _sɯndo
 \cf ndo
 \dt 25/Aug/2011
 
-\lx sɯndza
+\lx _sɯndza
 \cf ndza
 \dt 15/Jan/2015
 
-\lx sɯndzɯpe
-\wav8 8_sWndzWpe
+\lx _sɯndzɯpe
+\wav8 sWndzWpe
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -79202,7 +79609,7 @@
 \xn 我坐下了
 \dt 21/May/2014
 
-\lx sɯndʑaʁskɯsko
+\lx _sɯndʑaʁskɯsko
 \a sɯndʑaʁfskɯfsko
 \wav vi-sWndZaRfskWfsko
 \ps vi
@@ -79216,27 +79623,27 @@
 \xn 我舒展了筋骨
 \dt 29/Aug/2015
 
-\lx sɯngrɯβ
+\lx _sɯngrɯβ
 \cf ngrɯβ
 \dt 22/Aug/2015
 
-\lx sɯntɕhɣaʁ
+\lx _sɯntɕhɣaʁ
 \cf ntɕhɣaʁ
 \dt 26/Aug/2012
 
-\lx sɯntshɤβ
+\lx _sɯntshɤβ
 \cf ntshɤβ
 \dt 14/Jul/2016
 
-\lx sɯŋgo
+\lx _sɯŋgo
 \cf ŋgo
 \dt 12/May/2014
 
-\lx sɯɴqhi
+\lx _sɯɴqhi
 \cf ɴqhi
 \dt 23/Oct/2011
 
-\lx sɯpa
+\lx _sɯpa
 \hm 1
 \wav vt-sWpa
 \ps vt
@@ -79262,9 +79669,9 @@
 \lv sɯpa
 \ps vt
 
-\lx sɯphɯt
-\wav8 8_sWphWt
-\wav8 8_sWphWt2
+\lx _sɯphɯt
+\wav8 sWphWt
+\wav8 sWphWt2
 \ps n
 \ge fait de couper du bois
 \gn 砍柴
@@ -79277,11 +79684,11 @@
 \cf ɣɯsɯphɯt
 \dt 02/Oct/2012
 
-\lx sɯprɤt
+\lx _sɯprɤt
 \cf prɤt
 \dt 04/May/2014
 
-\lx sɯqartsɯ
+\lx _sɯqartsɯ
 \wav vi-sWqartsW
 \ps vl
 \pdl dir 
@@ -79297,19 +79704,19 @@
 \cf tɯ-qartsɯ
 \dt 30/Aug/2015
 
-\lx sɯrdɤl
+\lx _sɯrdɤl
 \cf rdɤl
 \dt 28/Apr/2014
 
-\lx sɯrɟɯɣ
+\lx _sɯrɟɯɣ
 \cf rɟɯɣ
 \dt 26/Aug/2015
 
-\lx sɯrku
+\lx _sɯrku
 \cf rku
 \dt 24/Aug/2012
 
-\lx sɯrma
+\lx _sɯrma
 \wav vt-sWrma
 \ps vt
 \pdl dir 
@@ -79329,7 +79736,7 @@
 \sy sɯrʑaʁ
 \dt 02/Jan/2015
 
-\lx sɯrmbɣotɯm
+\lx _sɯrmbɣotɯm
 \ps vi
 \ge s'asseoir en tailleur
 \gn 缠腿坐 
@@ -79337,15 +79744,15 @@
 \sy sɯχcoŋkroŋ
 \dt 29/Aug/2011
 
-\lx sɯrpjɯ
+\lx _sɯrpjɯ
 \cf rpjɯ
 \dt 15/Jul/2016
 
-\lx sɯrtoʁ
+\lx _sɯrtoʁ
 \cf rtoʁ
 \dt 24/Aug/2012
 
-\lx sɯrtsi
+\lx _sɯrtsi
 \wav vt-sWrtsi
 \ps vt
 \pdl dir 
@@ -79361,7 +79768,7 @@
 \cf ɯ-rtsi
 \dt 29/Aug/2011
 
-\lx sɯrʑaʁ
+\lx _sɯrʑaʁ
 \wav vt-sWrZaR
 \ps vt
 \pdl dir 
@@ -79377,11 +79784,11 @@
 \sy sɯrma
 \dt 30/Aug/2011
 
-\lx sɯʁaʁ
+\lx _sɯʁaʁ
 \cf ʁaʁ
 \dt 31/Aug/2011
 
-\lx sɯʁejlu
+\lx _sɯʁejlu
 \wav vi-sWRejlu
 \ps vi 
 \pdl dir 
@@ -79393,7 +79800,7 @@
 \cf ʁejlu
 \dt 04/May/2014
 
-\lx sɯʁjit
+\lx _sɯʁjit
 \wav vt-sWRjit
 \wav vt-sWRjit2
 \ps vt
@@ -79417,8 +79824,8 @@
 \cf ʁjit
 \dt 09/Sep/2014
 
-\lx sɯʁjoʁ
-\wav8 8_sWRjoR
+\lx _sɯʁjoʁ
+\wav8 sWRjoR
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -79430,34 +79837,34 @@
 \cf ɯ-ʁjoʁ
 \dt 15/Jan/2015
 
-\lx sɯʁndzɤr
+\lx _sɯʁndzɤr
 \cf ʁndzɤr
 \dt 20/Apr/2011
 
-\lx sɯʁnɯ
+\lx _sɯʁnɯ
 \cf ʁnɯ
 \dt 29/Apr/2011
 
-\lx sɯsat
+\lx _sɯsat
 \cf sat
 \dt 28/Jan/2013
 
-\lx sɯsaχsɤl
+\lx _sɯsaχsɤl
 \cf saχsɤl1
 \dt 22/Aug/2015
 
-\lx sɯsɤɕqali
+\lx _sɯsɤɕqali
 \cf ɣɤɕqali
 \dt 15/Jul/2016
 
-\lx sɯschɤt
+\lx _sɯschɤt
 \cf schɤt
 \dt 12/Jun/2012
 
-\lx sɯsci
+\lx _sɯsci
 \cf sci
 
-\lx sɯskɯrma
+\lx _sɯskɯrma
 \ps vt
 \pdl dir 
 \pdv _
@@ -79469,22 +79876,22 @@
 \cf skɯrma
 \dt 28/Aug/2012
 
-\lx sɯsloʁ
+\lx _sɯsloʁ
 \cf sloʁ
 \dt 31/Aug/2015
 
-\lx sɯsɲu
+\lx _sɯsɲu
 \cf sɲu
 
-\lx sɯsŋa
+\lx _sɯsŋa
 \cf sŋa
 \dt 10/Jan/2015
 
-\lx sɯsŋaʁ
+\lx _sɯsŋaʁ
 \cf sŋaʁ1
 \dt 26/Aug/2015
 
-\lx sɯso
+\lx _sɯso
 \wav vt-sWso
 \wav nWsWsota
 \ps vt
@@ -79526,15 +79933,15 @@
 \xn 跟我比起来，你倒是长得很高
 \dt 16/Jul/2016
 
-\lx sɯspa
+\lx _sɯspa
 \cf spa
 \dt 02/Aug/2011
 
-\lx sɯsphjaʁ
+\lx _sɯsphjaʁ
 \cf sphjaʁ
 \dt 02/Aug/2011
 
-\lx sɯspoʁ
+\lx _sɯspoʁ
 \wav vt-sWspoR
 \ps vt
 \pdl dir 
@@ -79562,19 +79969,19 @@
 \xn 我用凿子打了洞
 \dt 25/Aug/2012
 
-\lx sɯsta
+\lx _sɯsta
 \cf sta
 \dt 06/Aug/2011
 
-\lx sɯstɤm
+\lx _sɯstɤm
 \cf stɤm
 \dt 13/Apr/2014
 
-\lx sɯstu
+\lx _sɯstu
 \cf stu2
 \dt 19/Aug/2015
 
-\lx sɯsu
+\lx _sɯsu
 \wav vi-sWsu2
 \ps vi
 \pdl dir 
@@ -79584,13 +79991,24 @@
 \hbf 1087 <2> 1396 
 \xv ɯ-kɯ-mɲɤm wuma ʑo pjɤ-thɯ ri, to-sɯsu 
 \xn 他差一点死了，又活过来了
-\dt 18/May/2014
+\se sɯsɯsu
+\ps vt
+\pdl dir 
+\pdv tɤ-
+\ng caus
+\ge faire revivre
+\gn 让……复活
+\dt 03/Jul/2017
 
-\lx sɯsɯspoʁ
+\lx _sɯsɯspoʁ
 \cf sɯspoʁ
 \dt 25/Aug/2012
 
-\lx sɯta
+\lx _sɯsɯsu
+\cf sɯsu
+\dt 03/Jul/2017
+
+\lx _sɯta
 \wav vt-sWta
 \ps vt
 \pdl dir 
@@ -79604,22 +80022,22 @@
 \cf sɯɕlɯɣ
 \dt 14/May/2012
 
-\lx sɯtɕɤt
+\lx _sɯtɕɤt
 \cf tɕɤt
 
-\lx sɯti
+\lx _sɯti
 \cf ti
 \dt 25/Sep/2011
 
-\lx sɯtsu
+\lx _sɯtsu
 \cf tsu
 \dt 11/Mar/2014
 
-\lx sɯtsɯm
+\lx _sɯtsɯm
 \cf tsɯm
 \dt 24/Aug/2012
 
-\lx sɯxcha
+\lx _sɯxcha
 \wav vt-sWGcha
 \ps vt
 \pdl dir 
@@ -79637,18 +80055,18 @@
 \cf cha1
 \dt 30/Aug/2011
 
-\lx sɯxchi
+\lx _sɯxchi
 \cf chi
 \dt 03/Jul/2016
 
-\lx sɯxcɯ
+\lx _sɯxcɯ
 \cf ɯ-lu,cɯ
 \dt 18/Aug/2015
 
-\lx sɯxɕɤt
-\wav8 8_sWxCAt
-\wav8 8_sAsWxCAt
-\wav8 8_sAswxCAt2
+\lx _sɯxɕɤt
+\wav8 sWxCAt
+\wav8 sAsWxCAt
+\wav8 sAswxCAt2
 \ps vt
 \sn 1
 \pdl dir 
@@ -79709,7 +80127,7 @@
 \cf ɕɤt
 \dt 25/Aug/2015
 
-\lx sɯxɕe
+\lx _sɯxɕe
 \wav vt-sWxCe
 \wav vt-sWxCe2
 \ps vt
@@ -79728,15 +80146,15 @@
 \cf ɯ-pa,sɯxɕe
 \dt 31/Aug/2015
 
-\lx sɯxsa
+\lx _sɯxsa
 \cf sa
 \dt 15/Jul/2016
 
-\lx sɯxtar
+\lx _sɯxtar
 \cf tar
 \dt 31/Aug/2011
 
-\lx sɯxtɕhaʁ
+\lx _sɯxtɕhaʁ
 \wav vt-sWGtChaR
 \ps vt
 \pdl dir 
@@ -79765,15 +80183,15 @@
 \xn 钱不会自己变少
 \dt 20/Aug/2015
 
-\lx sɯxtɕhɤt
+\lx _sɯxtɕhɤt
 \cf tɕhɤt1
 \dt 05/Sep/2011
 
-\lx sɯxtɕhɯt
+\lx _sɯxtɕhɯt
 \cf tɕhɯt
 \dt 07/Sep/2011
 
-\lx sɯxtshaʁ
+\lx _sɯxtshaʁ
 \wav vt-sWGtshaR
 \ps vt
 \ng denom
@@ -79792,7 +80210,7 @@
 \cf tshaʁ
 \dt 29/May/2012
 
-\lx sɯxtshoz
+\lx _sɯxtshoz
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -79806,11 +80224,11 @@
 \cf tshoz
 \dt 03/Jan/2015
 
-\lx sɯxtshu
+\lx _sɯxtshu
 \cf tshu
 \dt 26/Aug/2012
 
-\lx sɯxtshwi
+\lx _sɯxtshwi
 \wav vt-sWGtshwi
 \ps vt
 \ng denom
@@ -79829,11 +80247,11 @@
 \cf tshwi
 \dt 27/Apr/2014
 
-\lx sɯxtso
+\lx _sɯxtso
 \cf tso
 \dt 31/Aug/2011
 
-\lx sɯxtsu
+\lx _sɯxtsu
 \hm 2
 \ps vt
 \pdl dir 
@@ -79842,14 +80260,14 @@
 \gn 使发酵
 \cf xtsu
 
-\lx sɯxtsɯɣ
+\lx _sɯxtsɯɣ
 \cf xtsɯɣ
 \dt 29/Aug/2011
 
-\lx sɯxtʂaŋ
+\lx _sɯxtʂaŋ
 \cf tʂaŋ
 
-\lx sɯxtʂɯn
+\lx _sɯxtʂɯn
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -79862,11 +80280,11 @@
 \cf tɯ-tʂɯn
 \dt 24/Aug/2012
 
-\lx sɯxtɯɣ
+\lx _sɯxtɯɣ
 \cf tɯɣ1
 \dt 31/Aug/2015
 
-\lx sɯχcoŋkroŋ
+\lx _sɯχcoŋkroŋ
 \wav vi-sWXcoNkroN
 \ps vi
 \ng denom
@@ -79881,11 +80299,11 @@
 \sy sɯrmbɣotɯm
 \dt 13/Apr/2014
 
-\lx sɯχpjɤt
+\lx _sɯχpjɤt
 \cf χpjɤt
 \dt 09/Jul/2016
 
-\lx sɯχsɤl
+\lx _sɯχsɤl
 \wav vt-sWXsAl
 \ps vt
 \pdl dir 
@@ -79904,13 +80322,13 @@
 \xn 我们俩发现了他
 \dt 25/Feb/2014
 
-\lx sɯχsu
+\lx _sɯχsu
 \cf χsu
 
-\lx sɯχtɯ
+\lx _sɯχtɯ
 \cf χtɯ
 
-\lx sɯz
+\lx _sɯz
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -79924,18 +80342,18 @@
 \cf amɯsɯz
 \dt 07/Sep/2015
 
-\lx sɯzbaʁ
+\lx _sɯzbaʁ
 \cf zbaʁ
 \dt 20/Oct/2011
 
-\lx sɯzdɯɣ
+\lx _sɯzdɯɣ
 \wav vt-sWzdWG
 \ps vt
 \ng caus
 \pdl dir 
-\pdv pɯ-
+\pdv pɯ- 
 \ge causer du souci 
-\gn 令别人受苦
+\gn 让……受苦；让……费心
 \xv jiɕqha nɯ pɯ-sɯzdɯɣ-a
 \xn 我令他受苦了
 \xv pɯ́-wɣ-sɯzdɯɣ-a
@@ -79959,7 +80377,7 @@
 \cf nɯzdɯɣ
 \dt 18/May/2014
 
-\lx sɯzgrɯtɕhɯ
+\lx _sɯzgrɯtɕhɯ
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -79971,7 +80389,7 @@
 \xn 他多嘴了，我给他打了一肘
 \dt 22/Dec/2012
 
-\lx sɯʑŋgrɯt
+\lx _sɯʑŋgrɯt
 \wav vi-sWZNgrWt
 \ps vi
 \pdl dir 
@@ -79982,7 +80400,7 @@
 \xn 他睡了就呻吟
 \dt 30/Aug/2011
 
-\lx ʂa
+\lx _ʂa
 \wav vi-sxa
 \ps vs
 \pdl dir 
@@ -79994,7 +80412,7 @@
 \xn 他是一个很能走路的人
 \dt 21/Oct/2011
 
-\lx ta
+\lx _ta
 \wav vt-ta
 \ps vt
 \sn 1
@@ -80071,7 +80489,7 @@
 
 \se nɯta
 \wav vt-nWta
-\wav8 8_konWta
+\wav8 konWta
 \ps vt
 \pdl dir
 \pdv kɤ-
@@ -80099,8 +80517,8 @@
 \cf atɯta
 \dt 21/Jul/2016
 
-\lx taŋ
-\wav8 8_vi-taN
+\lx _taŋ
+\wav8 vi-taN
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -80114,7 +80532,7 @@
 \xn 纯毛
 \dt 28/Aug/2015
 
-\lx tar
+\lx _tar
 \wav vi-tar-b
 \wav vi-tar-b2
 \ps vi
@@ -80135,7 +80553,7 @@
 \ng caus
 \dt 02/Nov/2013
 
-\lx taʁ
+\lx _taʁ
 \hm 1
 \wav vt-taR
 \wav vl-taR
@@ -80153,10 +80571,10 @@
 \xn 我的母亲织布
 \dt 15/May/2013
 
-\lx taʁ
+\lx _taʁ
 \hm 2
 \wav vi-taR
-\wav8 8_taR
+\wav8 taR
 \ps vs
 \pdl dir 
 \pdv pɯ-
@@ -80194,7 +80612,7 @@
 \xn 要讲得清楚一点就应该说|fv{zdɯxpa}，讲得简单一点就说|fv{dɯxpa}
 \dt 26/Aug/2015
 
-\lx tɤβ
+\lx _tɤβ
 \wav vt-tAB
 \ps vl
 \pdl dir 
@@ -80212,7 +80630,7 @@
 \xn 我把小麦脱了粒
 \dt 27/Apr/2014
 
-\lx tɤlɟɣo,lɤt
+\lx _tɤlɟɣo,lɤt
 \pdl dir 
 \pdv kɤ-
 \ge attraper au collet (cheval, bovidé) 
@@ -80226,7 +80644,7 @@
 \cf lɤt1
 \dt 05/Aug/2014
 
-\lx tɤmtshɤz
+\lx _tɤmtshɤz
 \wav n-tAntshAzkAkWndo
 \pdl dir
 \pdv kɤ-
@@ -80241,8 +80659,8 @@
 \xn 骨折当时没能治好，在骨折的地方会长出胞来，时间一长，劳累了，天气变化了都会很痛。这种病叫骨质增生病。
 \dt 04/Sep/2015
 
-\lx tɤphɯxtsɯ
-\wav8 8_tAphWxtsW
+\lx _tɤphɯxtsɯ
+\wav8 tAphWxtsW
 \ps n
 \ge fait d'écraser les mottes de terre
 \gn 打土巴
@@ -80253,7 +80671,7 @@
 \cf nɤphɯxtsɯ
 \dt 10/Nov/2011
 
-\lx tɤqɤt,lɤt
+\lx _tɤqɤt,lɤt
 \wav n-tAqAt
 \pdl dir 
 \pdv lɤ-
@@ -80271,8 +80689,8 @@
 \cf lɤt1
 \dt 05/Nov/2011
 
-\lx tɤstu
-\wav8 8_kWsAfstWn
+\lx _tɤstu
+\wav8 kWsAfstWn
 \ps vi
 \ge au revoir
 \gn 再见
@@ -80280,7 +80698,7 @@
 \xn 再见，照顾人家
 \dt 27/Aug/2015
 
-\lx tɕa
+\lx _tɕa
 \wav vi-tCa
 \ps vs
 \pdl dir 
@@ -80292,7 +80710,7 @@
 \cf tɕale
 \dt 26/Sep/2012
 
-\lx tɕale
+\lx _tɕale
 \ps vs
 \ge maigre
 \gn 瘦
@@ -80300,7 +80718,7 @@
 \an jpumqa
 \dt 07/Jul/2016
 
-\lx tɕaʁ
+\lx _tɕaʁ
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -80309,7 +80727,7 @@
 \xv qaɕti pjɤ-tɕaʁ
 \xn 桃子成熟了
 
-\lx tɕɤβ
+\lx _tɕɤβ
 \wav vt-tCAB
 \ps vt
 \pdl dir 
@@ -80321,7 +80739,7 @@
 \xv pa-tɕɤβ
 \xn 他烧了
 \se rɤtɕɤβ
-\wav8 8_rAtCAB-def
+\wav8 rAtCAB-def
 \ps vi
 \ng apass
 \pdl dir 
@@ -80333,7 +80751,7 @@
 \cf ɲɟɤβ
 \dt 19/Oct/2012
 
-\lx tɕɤr
+\lx _tɕɤr
 \wav vi-tCAr
 \ps vs
 \pdl dir 
@@ -80347,10 +80765,10 @@
 \cf arɟumtɕɤr
 \dt 23/Oct/2011
 
-\lx tɕɤt
+\lx _tɕɤt
 \ps vt
 \sn 1
-\wav8 8_tWGli_tCAt
+\wav8 tWGli_tCAt
 \pdl dir 
 \pdv _
 \ge retirer de, extraire de 
@@ -80407,7 +80825,7 @@
 \sn 6
 \pdl dir 
 \pdv nɯ-
-\wav8 8_mAkWra
+\wav8 mAkWra
 \ge causatif
 \gn 使
 \xv nɤʑo pjɯ-kɯ-nɯβlu-a mɤ-kɯ-ŋgrɯ ɲɯ-tɕat-a ra
@@ -80464,7 +80882,7 @@
 \ps vt
 \se ɯ-βlu,sɯtɕɤt
 \ng habil
-\wav8 8_sWtCAt
+\wav8 sWtCAt
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -80488,7 +80906,7 @@
 \ps vt
 \dt 22/Jul/2016
 
-\lx tɕɣaʁ
+\lx _tɕɣaʁ
 \wav vt-tCGaR
 \ps vt
 \pdl dir 
@@ -80507,7 +80925,7 @@
 \cf ndʑɣaʁ
 \dt 05/Sep/2011
 
-\lx tɕhaʁ
+\lx _tɕhaʁ
 \wav vi-tChaR
 \wav vi-tChaR2
 \ps vi
@@ -80536,7 +80954,7 @@
 \cf zndɤtɕhaʁ
 \dt 11/Jul/2016
 
-\lx tɕhɤt
+\lx _tɕhɤt
 \hm 1
 \wav vi-tChAt
 \ps vi
@@ -80560,7 +80978,7 @@
 \xn 现在不种亚麻了，连种子都没有
 \sy ɲat
 \se sɯxtɕhɤt
-\wav8 8_sWGtChAt
+\wav8 sWGtChAt
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -80570,8 +80988,8 @@
 \xn 以前我们的白菜很多，但他们把它们拔除了
 \dt 11/Sep/2013
 
-\lx tɕhom
-\wav8 8_tChom
+\lx _tɕhom
+\wav8 tChom
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -80585,7 +81003,7 @@
 \xn 我咳得太多
 \dt 01/May/2012
 
-\lx tɕhɯ
+\lx _tɕhɯ
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -80606,18 +81024,21 @@
 \xv mbala nɯ ɲɯ-ɤtɕhɯtɕhɯ-ndʑi
 \xn 公牛互相顶着
 \se ɯ-tɕhɯ,lɤt
-\ge donner un coup avec de bout de ...
+\ge donner un coup de couteau, de baïonnette
 \gn 用……戳
+\xv ɕɤmɯɣdɯ ɯ-tɕhɯ to-lɤt
+\xn 用刺刀刺伤了他
 
+\cf nɯtɯtɕhɯ
 \dt 30/Aug/2015
 
-\lx tɕhɯra
+\lx _tɕhɯra
 \ps n
 \ge cuve à eau
 \gn 水缸（积累水的缸子）
 \dt 20/Aug/2014
 
-\lx tɕhɯt
+\lx _tɕhɯt
 \a xtɕhɯt
 \wav vi-tChWt
 \ps vs
@@ -80652,11 +81073,11 @@
 \gn 空出……的位子
 \dt 11/May/2014
 
-\lx tɕur
+\lx _tɕur
 \hm 1
 \wav vi-tCur
-\wav8 8_nAxtCur
-\wav8 8_GAtCur
+\wav8 nAxtCur
+\wav8 GAtCur
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -80694,10 +81115,10 @@
 \xn 我觉得很酸
 \dt 17/May/2014
 
-\lx tɕur
+\lx _tɕur
 \hm 2
-\wav8 8_pWtCura
-\wav8 8_chAmdAru_pWtCura
+\wav8 pWtCura
+\wav8 chAmdAru_pWtCura
 \ps vt
 \ge insérer dans
 \gn 插（筷子、吸管、笔）
@@ -80707,7 +81128,7 @@
 \xn 你把吸管插进坛坛酒了
 \sy sɤsta
 
-\lx tɣa
+\lx _tɣa
 \wav vt-tGa
 \ps vi
 \pdl dir 
@@ -80720,9 +81141,9 @@
 \cf tɯtɣa2
 \dt 03/Sep/2011
 
-\lx thaʁ,tɕhot
-\wav8 8_thaRpWtChota
-\wav8 8_thaRnWtChottCi
+\lx _thaʁ,tɕhot
+\wav8 thaRpWtChota
+\wav8 thaRnWtChottCi
 \pdl dir 
 \pdv nɯ-
 \pdl dir 
@@ -80742,7 +81163,7 @@
 \ps vt
 \dt 02/Jun/2013
 
-\lx thɤr
+\lx _thɤr
 \hm 1
 \ps vi
 \pdl dir 
@@ -80755,7 +81176,7 @@
 \xn 他得救了
 \dt 26/Aug/2015
 
-\lx thɤr
+\lx _thɤr
 \hm 2
 \ps vs
 \pdl dir
@@ -80767,9 +81188,9 @@
 \sy mtshɤt
 \dt 26/Aug/2015
 
-\lx thoʁ
+\lx _thoʁ
 \hm 1
-\wav8 8_pWthoRa
+\wav8 pWthoRa
 \ps vt
 \pdl dir
 \pdv pɯ-
@@ -80780,11 +81201,11 @@
 \sy rɤtɕaʁ
 \dt 19/Mar/2014
 
-\lx tho,thɯɣ
+\lx _tho,thɯɣ
 \a thoʁ,thɯɣ
 \wav vi-thWG-b
 \wav vi-thWG-b2
-\wav8 8_thoYWthWG
+\wav8 thoYWthWG
 \pdl dir 
 \pdv tɤ-
 \ge concordant
@@ -80801,7 +81222,7 @@
 \ps vs
 \dt 22/Jul/2014
 
-\lx thu
+\lx _thu
 \wav vt-thu2
 \hm 1
 \ps vt
@@ -80822,7 +81243,7 @@
 \xn 他问了我
 \xv kɯmaʁ ci tu-the-a ŋu
 \xn 我再问一个问题
-\xn tʂu tɤ-thu-t-a 
+\xv tʂu tɤ-thu-t-a 
 \xn 我问了路
 \se rɤthu
 \ps vi
@@ -80836,7 +81257,7 @@
 \cf rɤthuthe
 \dt 02/Sep/2015
 
-\lx thɯ
+\lx _thɯ
 \hm 1
 \wav vt-thW
 \ps vt
@@ -80868,10 +81289,10 @@
 \xn 它留了痕迹
 \cf ndɯ1
 
-\lx thɯ
+\lx _thɯ
 \hm 2
-\wav8 8_thW
-\wav8 8_thW2
+\wav8 thW
+\wav8 thW2
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -80893,7 +81314,7 @@
 \cf nɤxthɯ
 \dt 04/Dec/2012
 
-\lx thɯɣ
+\lx _thɯɣ
 \hm 2
 \ps vi
 \pdl dir 
@@ -80910,10 +81331,10 @@
 \xn 我们在受苦受难
 \dt 14/Jul/2016
 
-\lx ti
-\wav8 8_akAti
-\wav8 8_akAti2
-\wav8 8_WtaR_YWtia
+\lx _ti
+\wav8 akAti
+\wav8 akAti2
+\wav8 WtaR_YWtia
 \ps vt
 \sn 1
 \pdl dir 
@@ -80973,7 +81394,7 @@
 \gn 容易说
 \dt 03/Jul/2016
 
-\lx tsaβ
+\lx _tsaβ
 \ps vs
 \ge fort (alcool)
 \gn 浓度高（酒）
@@ -80984,7 +81405,7 @@
 \an mnu
 \dt 01/Sep/2012
 
-\lx tsɣi
+\lx _tsɣi
 \wav vi-tsGi
 \ps vi
 \pdl dir 
@@ -81011,10 +81432,10 @@
 \xn 我很久没有管这个食物，它就腐烂了
 \dt 12/Oct/2011
 
-\lx tshɤt
+\lx _tshɤt
 \hm 1
 \wav vt-tshAt
-\wav8 8_akAtWtshAt
+\wav8 akAtWtshAt
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -81034,9 +81455,9 @@
 \cf rɤtshɤt
 \dt 24/Aug/2015
 
-\lx tshɤz
-\wav8 8_YWtshAz
-\wav8 8_tshAz_def
+\lx _tshɤz
+\wav8 YWtshAz
+\wav8 tshAz_def
 \ps vs
 \ge frais et tendre
 \gn 新鲜；清脆（吃起来很脆）
@@ -81045,12 +81466,12 @@
 \ev ɲɯ-tshɤz tu-kɯ-ti nɯ tɕe, tú-wɣ-ndza tɕe kɯ-ndoʁ kɯ-fse ɲɯ-ŋu
 \dt 28/Sep/2013
 
-\lx tshi
+\lx _tshi
 \hm 1
 \wav vt-tshi
 \wav vt-tshi-a
-\wav8 8_nWGWtshi
-\wav8 8_tshi
+\wav8 nWGWtshi
+\wav8 tshi
 \ps vt
 \pdl dir 
 \pdv kɤ-
@@ -81076,7 +81497,7 @@
 \xn 这个茶喝着很爽口
 \dt 07/Nov/2014
 
-\lx tshi
+\lx _tshi
 \hm 2
 \wav vt-tshi-b3
 \wav vt-tshi-b2
@@ -81093,7 +81514,7 @@
 \cf ʑɣɤtshi
 \dt 05/Dec/2011
 
-\lx tshi
+\lx _tshi
 \wav vt-tshi-b3
 \wav vt-tshi4
 \hm 3
@@ -81112,7 +81533,7 @@
 \cf nɤtʂɤtshi
 \dt 04/Aug/2016
 
-\lx tshoʁ
+\lx _tshoʁ
 \wav vt-tshoR
 \ps vt
 \sn 1
@@ -81133,7 +81554,7 @@
 \xv ʑɴɢɯloʁ kɯ ɯ-mat ko-tshoʁ
 \xn 核桃结了果
 \se tɯ-χpɯm,tshoʁ
-\wav8 8_aXpWm_pWtshoRa
+\wav8 aXpWm_pWtshoRa
 \pdl dir
 \pdv pɯ-
 \ge s'agenouiller
@@ -81146,7 +81567,7 @@
 \ge faire s'agenouiller
 \gn 使……跪下
 \se khɯna,tshoʁ
-\wav8 8_khWna_tshoR
+\wav8 khWna_tshoR
 \pdl dir
 \pdv thɯ-
 \ge lâcher les chiens
@@ -81167,7 +81588,7 @@
 \cf ndzoʁ
 \dt 30/Aug/2015
 
-\lx tshoz
+\lx _tshoz
 \wav vi-tshoz
 \ps vi
 \pdl dir 
@@ -81190,10 +81611,10 @@
 \cf sɯxtshoz
 \dt 24/Aug/2015
 
-\lx tshu
+\lx _tshu
 \wav vi-tshu
 \wav vi-tshu2
-\wav8 8_WYWtshu
+\wav8 WYWtshu
 \ps vs
 \pdl dir 
 \pdv kɤ-
@@ -81225,7 +81646,7 @@
 \xn 现在年轻女子吃得少，是为了不要令自己变胖
 \dt 14/Jul/2016
 
-\lx tshuxtoʁ
+\lx _tshuxtoʁ
 \ps n
 \ge confiance
 \gn 信用
@@ -81239,7 +81660,7 @@
 \xn 你要讲信用
 \dt 23/Mar/2014
 
-\lx tshɯ
+\lx _tshɯ
 \wav vt-tshW
 \ps vt
 \pdl dir 
@@ -81252,10 +81673,10 @@
 \xn 我没有把自己地方的食物带来，我吃了这里的食物
 \dt 04/Feb/2014
 
-\lx tso
-\wav8 8_akAtso
-\wav8 8_sAtso
-\wav8 8_mAtsonW
+\lx _tso
+\wav8 akAtso
+\wav8 sAtso
+\wav8 mAtsonW
 \ps vi-t
 \pdl dir 
 \pdv kɤ-
@@ -81291,7 +81712,7 @@
 \xv tɯ-rju kɤ-sɯxtso-t-a
 \xn 我令他明白了这句话的意思
 \se ʑɣɤsɯxtso
-\wav8 8_zGAsWGtso
+\wav8 zGAsWGtso
 \ps vi
 \ng refl
 \ng caus
@@ -81302,7 +81723,7 @@
 \xv tɤ-kɤ-tɯt nɯra kɤ-ʑɣɤsɯxtso ma tha nɤ-ɕɯ-kɤ-rɤfɕɤt me
 \xn 你要弄清他所讲的话，不然的话你转述不出来
 \se sɤtso
-\wav8 8_masAtso
+\wav8 masAtso
 \ps vs
 \ng deexp 
 \ge être compréhensible
@@ -81313,7 +81734,7 @@
 \xn 很清楚
 \dt 24/Aug/2015
 
-\lx tsrɤt
+\lx _tsrɤt
 \wav vt-tsrAt
 \ps vt
 \pdl dir 
@@ -81327,9 +81748,9 @@
 \xn 他伸了脖子
 \dt 06/Sep/2011
 
-\lx tsri
+\lx _tsri
 \wav vi-tsri
-\wav8 8_nAtsri
+\wav8 nAtsri
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -81354,9 +81775,9 @@
 \cf ɣɤtsri
 \dt 22/Dec/2013
 
-\lx tsu
+\lx _tsu
 \wav vi-tsu
-\wav8 8_nWtanWzdWG_Zo_pWtsu
+\wav8 nWtanWzdWG_Zo_pWtsu
 \ps vi
 \sn 1
 \ge avoir le temps 
@@ -81392,7 +81813,7 @@
 \cf sɯxtsu1
 \dt 14/Jul/2016
 
-\lx tsɯm
+\lx _tsɯm
 \ps vt
 \pdl dir 
 \pdv _
@@ -81422,7 +81843,7 @@
 \gn 带回家
 \dt 06/May/2014
 
-\lx tʂaβ
+\lx _tʂaβ
 \wav vt-tsxaB
 \wav vt-tsxaB2
 \ps vt
@@ -81455,7 +81876,7 @@
 \gn （故意）倒在地上
 \dt 30/Aug/2015
 
-\lx tʂaŋ
+\lx _tʂaŋ
 \wav vi-tsxaN
 \ps vs
 \pdl dir 
@@ -81485,7 +81906,7 @@
 \xn 如果不能把我们之间的纠纷解决好的话，我不会放过你的
 \dt 18/Jul/2016
 
-\lx tʂaʁ
+\lx _tʂaʁ
 \hm 1
 \ps vs
 \ge avoir de l'effet, aller mieux
@@ -81499,7 +81920,7 @@
 \et drag
 \dt 26/Aug/2015
 
-\lx tʂaʁ
+\lx _tʂaʁ
 \hm 2
 \wav vt-tsxaR
 \ps vt
@@ -81521,7 +81942,7 @@
 \xn 当了领导要会镇住坏人，重用好人
 \dt 13/Jul/2016
 
-\lx tʂɤmtshi
+\lx _tʂɤmtshi
 \wav vt-GWtsxAmtshi
 \ps n
 \ge fait de guider le chemin
@@ -81531,12 +81952,12 @@
 \cf ɣɯtʂɤmtshi
 \dt 10/Nov/2011
 
-\lx tʂhɤt
+\lx _tʂhɤt
 \hm 1
 \wav vi-znAtsxhWtsxhWt
 \wav vi-znAtsxhWtsxhWt2
-\wav8 8_tsxhAt
-\wav8 8_znAtsxhAtsxhAt
+\wav8 tsxhAt
+\wav8 znAtsxhAtsxhAt
 \ps vs
 \ge arrogant
 \gn 傲慢
@@ -81551,7 +81972,7 @@
 \xn 他是个霸道的人
 \dt 27/Apr/2014
 
-\lx tʂhɯɣ
+\lx _tʂhɯɣ
 \wav adv-tsxhWG
 \ps adv
 \ge peut-être
@@ -81562,7 +81983,7 @@
 \xn 大概不是吧
 \dt 06/Sep/2015
 
-\lx tʂo
+\lx _tʂo
 \wav vt-tsxo
 \ps vt
 \pdl dir 
@@ -81577,7 +81998,7 @@
 \cf nɯnŋɤtʂo
 \dt 04/Feb/2014
 
-\lx tʂoʁ
+\lx _tʂoʁ
 \wav vt-tsxoR
 \ps vt
 \pdl dir 
@@ -81595,7 +82016,7 @@
 \xn 他掺了酒
 \dt 06/Sep/2011
 
-\lx tʂot
+\lx _tʂot
 \wav vi-tsxot
 \ps vs
 \pdl dir 
@@ -81606,7 +82027,7 @@
 \xn 路很清晰（因为走的人多，路没有消失）
 \dt 14/Jul/2016
 
-\lx tʂɯβ
+\lx _tʂɯβ
 \wav vt-tsxWB
 \ps vt
 \pdl dir 
@@ -81633,7 +82054,7 @@
 \xn 他缝了
 \dt 20/Oct/2012
 
-\lx tʂɯl
+\lx _tʂɯl
 \wav vt-tsxWl2
 \ps vt
 \pdl dir 
@@ -81653,9 +82074,9 @@
 \sy mphɯr
 \dt 04/Aug/2016
 
-\lx tu
-\wav8 8_CpWtua
-\wav8 8_tAtu
+\lx _tu
+\wav8 CpWtua
+\wav8 tAtu
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -81673,9 +82094,9 @@
 
 \dt 09/Jun/2013
 
-\lx tɯɣ
+\lx _tɯɣ
 \hm 1
-\wav8 8_tWG
+\wav8 tWG
 \ps vi
 \pdl dir 
 \pdv _
@@ -81691,7 +82112,7 @@
 \xn 我把东西推过去，靠到墙上了
 \dt 31/Aug/2015
 
-\lx tɯl
+\lx _tɯl
 \wav vi-tWl
 \ps vi
 \pdl dir 
@@ -81704,7 +82125,7 @@
 \xn 面变味了
 \dt 06/Sep/2011
 
-\lx tɯ-qe,rɤrɕɯβ
+\lx _tɯ-qe,rɤrɕɯβ
 \wav vt-rArCWB
 \pdl dir 
 \pdv thɯ-
@@ -81720,7 +82141,7 @@
 \ps vt
 \dt 09/Jun/2013
 
-\lx tɯr
+\lx _tɯr
 \wav vt-tWr
 \ps vt
 \pdl dir 
@@ -81732,8 +82153,8 @@
 \xn 牲畜在我面前冲过去了
 \dt 06/Sep/2011
 
-\lx tɯ-ʁo,mbi
-\wav8 8_aRomAmbi
+\lx _tɯ-ʁo,mbi
+\wav8 aRomAmbi
 \wav n-tWRo
 \pdl dir 
 \pdv nɯ-
@@ -81754,8 +82175,8 @@
 \ps vi
 \dt 22/Jul/2014
 
-\lx tɯ-ʁo,phi
-\wav8 8_aRoYWphi
+\lx _tɯ-ʁo,phi
+\wav8 aRoYWphi
 \ge décevoir
 \gn 令……失望
 \xv ɯʑo kɯ a-ʁo ɲɯ-phi
@@ -81773,7 +82194,7 @@
 \ps vt
 \dt 01/Sep/2014
 
-\lx tɯt
+\lx _tɯt
 \wav vi-tWt
 \ps vi
 \pdl dir 
@@ -81793,7 +82214,7 @@
 \gn 早熟
 \dt 03/Jul/2016
 
-\lx tɯ-tɕa,nɯjɤt
+\lx _tɯ-tɕa,nɯjɤt
 \ps vt
 \pdl dir
 \pdv nɯ-
@@ -81809,7 +82230,7 @@
 \ps vt
 \dt 27/Aug/2015
 
-\lx tɯ-ʑi,loʁ
+\lx _tɯ-ʑi,loʁ
 \wav vi-loR-tWZi
 \ge avoir la nausée 
 \gn 感到恶心
@@ -81826,7 +82247,8 @@
 \ps vs
 \dt 22/Jul/2014
 
-\lx ɯ-lu,cɯ
+\lx _ɯ-lu,cɯ
+\wav vt-cW-Wlu
 \pdl dir 
 \pdv pɯ-
 \ge perdre conscience
@@ -81855,7 +82277,7 @@
 \ps vt
 \dt 18/Aug/2015
 
-\lx ɯ-ndzɯɣ,maʁ
+\lx _ɯ-ndzɯɣ,maʁ
 \pdl dir 
 \pdv pɯ-
 \ge être terrible 
@@ -81874,7 +82296,7 @@
 \ps vs
 \dt 22/Jul/2014
 
-\lx ɯ-ŋgu,thon
+\lx _ɯ-ŋgu,thon
 \wav vi-WNgu_thon
 \pdl dir 
 \pdv thɯ-
@@ -81896,8 +82318,8 @@
 \ps vs
 \dt 04/Mar/2017
 
-\lx ɯ-qoʁ
-\wav8 8_WqoR_azGWt
+\lx _ɯ-qoʁ
+\wav8 WqoR_azGWt
 \ps np
 \ge un an (enfant)
 \gn 周岁（孩子）
@@ -81905,7 +82327,7 @@
 \xn （你儿子）满周岁了吗？
 \dt 30/Oct/2014
 
-\lx ɯ-rɕa,mŋɤm
+\lx _ɯ-rɕa,mŋɤm
 \ge chérir
 \gn 疼爱
 \xv a-ɣe a-rɕa mŋɤm
@@ -81920,7 +82342,7 @@
 \ps vs
 \dt 30/May/2013
 
-\lx ɯ-rɕa,tsha
+\lx _ɯ-rɕa,tsha
 \ps vi
 \pdl dir
 \pdv kɤ-
@@ -81947,7 +82369,7 @@
 \ps vt
 \dt 04/Jul/2016
 
-\lx ɯ-rɕa,χtɤt
+\lx _ɯ-rɕa,χtɤt
 \ps vt
 \pdl dir
 \pdv kɤ-
@@ -81965,7 +82387,7 @@
 \ps vt
 \dt 26/Aug/2015
 
-\lx ɯ-rka,ŋɤn
+\lx _ɯ-rka,ŋɤn
 \ge être ingrat, mauvais 
 \gn 心底不好，不怀好意
 \xv nɤ-rka ɯ-tɯ-ŋɤn 
@@ -81981,7 +82403,7 @@
 \se ɯ-rka,ɣɤŋɤn
 \xv nɤ-rka ma-tɯ-ɣɤŋɤn
 \xn 不要起坏心
-\wav8 8_matWGANan
+\wav8 matWGANan
 \lf Component 1
 \lv ɯ-rka
 \ps np
@@ -81990,8 +82412,8 @@
 \ps vt
 \dt 20/May/2013
 
-\lx wɣrum
-\wav8 8_thWkWwgrum
+\lx _wɣrum
+\wav8 thWkWwgrum
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -82008,7 +82430,7 @@
 \cf aɣrɤɣrum
 \dt 30/Mar/2015
 
-\lx wum
+\lx _wum
 \ps vt
 \pdl dir 
 \pdv _
@@ -82029,9 +82451,9 @@
 \gn 自己合拢；自然合拢
 \dt 21/Jul/2016
 
-\lx wxti
+\lx _wxti
 \wav vi-wxti
-\wav8 8_GAwxti
+\wav8 GAwxti
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -82058,7 +82480,7 @@
 \an xtɕi
 \dt 31/Aug/2015
 
-\lx xcat
+\lx _xcat
 \wav vi-xcat
 \ps vs
 \pdl dir 
@@ -82079,7 +82501,7 @@
 \xn 下着狂风暴雨
 \dt 18/Mar/2013
 
-\lx xsɯr
+\lx _xsɯr
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -82098,7 +82520,7 @@
 \xn 炒锅（用来炒菜的工具）
 \dt 02/Jul/2016
 
-\lx xtɕɤr
+\lx _xtɕɤr
 \wav vt-xtCAr
 \ps vt
 \pdl dir 
@@ -82116,10 +82538,10 @@
 \cf mthɯxtɕɤr
 \dt 18/May/2014
 
-\lx xtɕi
+\lx _xtɕi
 \wav vi-xtCi
-\wav8 8_GAxtCi
-\wav8 8_pWxtCi2
+\wav8 GAxtCi
+\wav8 pWxtCi2
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -82157,9 +82579,9 @@
 \cf axtɕɯxte
 \dt 23/Jun/2013
 
-\lx xthom
+\lx _xthom
 \wav vt-xthom
-\wav8 8_xthom
+\wav8 xthom
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -82190,7 +82612,7 @@
 \xn 他马上就躺在地上
 \dt 22/Mar/2014
 
-\lx xtshɯm
+\lx _xtshɯm
 \wav vi-xtshWm
 \ps vs
 \pdl dir 
@@ -82211,9 +82633,9 @@
 \an jpum
 \dt 01/Nov/2011
 
-\lx xtsu
+\lx _xtsu
 \wav vi-xtsu
-\wav8 8_rzoNloN_Zo_YWxtsu
+\wav8 rzoNloN_Zo_YWxtsu
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -82230,7 +82652,7 @@
 \xn 忙得不可开交
 \cf sɯxtsu2
 
-\lx xtsɯ
+\lx _xtsɯ
 \wav vt-xtsW
 \ps vt
 \pdl dir 
@@ -82239,16 +82661,16 @@
 \gn 捣碎，砸碎，碾磨
 \hbf 1201 
 \xv tʂha pa-xtsɯ
-\xn 他捣碎了（马茶）
+\xn 他把马茶捣碎了
 \xv ɕom pa-xtsɯ
 \xn 他打了铁
 \xv hajtsu pa-xtsɯ
-\xn 他捣碎了辣椒
+\xn 他把辣椒捣碎了
 \xv mɯzi pa-xtsɯ
-\xn 他捣碎了黑火药
+\xn 他把黑火药捣碎了
 \dt 20/Oct/2011
 
-\lx xtsɯɣ
+\lx _xtsɯɣ
 \wav vt-xtsWG
 \wav vt-xtsWG2
 \wav vt-sWxtsWG
@@ -82262,7 +82684,7 @@
 \xv tɤ-xtsɯɣa
 \xn 我打中了
 \xv (pri) to-xtsɯɣ ri jo-nɯɕe
-\xn 虽然我打中了熊，它回去了（逃走了 )
+\xn 虽然我打中了熊，它却回去了（逃走了 )
 \se sɯxtsɯɣ
 \ps vt
 \ng caus
@@ -82280,11 +82702,11 @@
 \xn 刀很锋利，小心不要割到手
 \dt 18/Aug/2015
 
-\lx xtɯt
+\lx _xtɯt
 \hm 1
 \wav vi-xtWt
-\wav8 8_GAxtWt
-\wav8 8_zGAxtWt
+\wav8 GAxtWt
+\wav8 zGAxtWt
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -82332,7 +82754,7 @@
 \xn 可以把时间缩短
 \dt 05/Aug/2014
 
-\lx χɤβ
+\lx _χɤβ
 \wav vt-XAB
 \ps vt
 \pdl dir 
@@ -82350,7 +82772,7 @@
 \xn 我把酒喝光了
 \dt 10/Jan/2013
 
-\lx χɕaʁ
+\lx _χɕaʁ
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -82359,7 +82781,7 @@
 \et gɕegs
 \dt 24/Aug/2012
 
-\lx χɕɤβ
+\lx _χɕɤβ
 \wav vi-XCAB
 \ps vs
 \pdl dir 
@@ -82387,7 +82809,7 @@
 \cf rɯχɕɯχɕɤβ
 \dt 25/Aug/2015
 
-\lx χɕoʁ
+\lx _χɕoʁ
 \wav vt-XCoR
 \ps vt
 \pdl dir 
@@ -82403,7 +82825,7 @@
 \xn 他把剑抽出来了
 \dt 24/Aug/2012
 
-\lx χɕu
+\lx _χɕu
 \wav vi-XCu
 \ps vs
 \pdl dir 
@@ -82419,7 +82841,7 @@
 \cf χɕuχɕe
 \dt 14/Jul/2016
 
-\lx χɕuχɕe
+\lx _χɕuχɕe
 \ps vs
 \ge fort, robuste
 \gn 身强力壮
@@ -82428,7 +82850,7 @@
 \cf χɕu
 \dt 01/Sep/2015
 
-\lx χɕu,rnaʁ
+\lx _χɕu,rnaʁ
 \ge merci beaucoup 
 \gn 万分感谢 
 \xv pɯ-tɯ-χɕu pɯ-tɯ-rnaʁ 
@@ -82443,7 +82865,7 @@
 \ps vs
 \dt 23/Jul/2015
 
-\lx χɕɯn
+\lx _χɕɯn
 \wav vi-XCin
 \ps vi
 \sn 1
@@ -82464,7 +82886,7 @@
 \xn 工作完了
 \dt 14/Jul/2016
 
-\lx χpa
+\lx _χpa
 \wav vi-Xpa
 \ps vs
 \pdl dir 
@@ -82481,7 +82903,7 @@
 \cf znɤχpɯχpa
 \dt 26/Oct/2011
 
-\lx χpjɤt
+\lx _χpjɤt
 \wav vt-XpjAt
 \ps vt
 \pdl dir 
@@ -82525,7 +82947,7 @@
 \xv ma-tɯ-ɤχpɯχpjɤt-nɯ
 \xn 你们不要互相学坏
 \se ʑɣɤχpjɤt
-\wav8 8_kAnWZGAXpjAt
+\wav8 kAnWZGAXpjAt
 \ps vi
 \pdl dir 
 \pdv kɤ-
@@ -82544,7 +82966,7 @@
 \xn 我征求一下你的意见，买不买这个东西
 \dt 18/Jul/2016
 
-\lx χsɤl
+\lx _χsɤl
 \hm 1
 \wav vt-XsAl
 \ps vt
@@ -82559,10 +82981,10 @@
 \xn 喇嘛吃了
 \dt 17/Apr/2013
 
-\lx χsɤl
+\lx _χsɤl
 \hm 2
-\wav8 8_ataXsAl
-\wav8 8_YWXsAl
+\wav8 ataXsAl
+\wav8 YWXsAl
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -82577,7 +82999,7 @@
 \cf ɣɯχsɤl
 \dt 17/Jul/2016
 
-\lx χsɤr
+\lx _χsɤr
 \hm 1
 \wav vt-XsAr
 \ps vt
@@ -82594,7 +83016,7 @@
 \cf ɯ-χsɤr
 \dt 25/Nov/2014
 
-\lx χsoz
+\lx _χsoz
 \wav vi-Xsoz
 \ps vs
 \sn 1
@@ -82617,7 +83039,7 @@
 \cf naχsoz
 \dt 02/Sep/2015
 
-\lx χsu
+\lx _χsu
 \wav vt-Xsu
 \ps vt
 \pdl dir 
@@ -82652,9 +83074,9 @@
 \sy ngu
 \dt 24/Aug/2012
 
-\lx χtɤr
+\lx _χtɤr
 \wav vt-XtAr
-\wav8 8_XtAr
+\wav8 XtAr
 \ps vt
 \pdl dir 
 \pdv thɯ-
@@ -82676,11 +83098,10 @@
 \cf rɯtɕhɯχtɤr
 \dt 17/Jul/2016
 
-\lx χtɤt
-\wav8 8_XtAt
-\wav8 8_kAnWXtata
-\wav vi-ZGAXtAt
-\wav8 8_ZGAta
+\lx _χtɤt
+\wav8 XtAt
+\wav8 kAnWXtata
+\wav8 ZGAta
 \pdl dir 
 \pdv kɤ-
 \pdl dir 
@@ -82710,6 +83131,7 @@
 \ge se concentrer
 \gn 专心
 \se ʑɣɤχtɤt 
+\wav vi-ZGAXtAt
 \ps vi
 \ng refl
 \ge s'appuyer sur 
@@ -82728,7 +83150,7 @@
 \sy ʑɣɤta
 \dt 20/Jul/2016
 
-\lx χtɕɤz
+\lx _χtɕɤz
 \ps vs
 \pdl dir 
 \pdv pɯ-
@@ -82745,12 +83167,12 @@
 \xn 他父母很宠爱他
 \dt 08/Jul/2016
 
-\lx χtɕi
+\lx _χtɕi
 \wav vt-XtCi
 \wav vt-XtCi2
-\wav8 8_pjAkAnWsWXtCici2
-\wav8 8_pjAkAnWsWXtCici
-\wav8 8_pWnWXtCi
+\wav8 pjAkAnWsWXtCici2
+\wav8 pjAkAnWsWXtCici
+\wav8 pWnWXtCi
 \ps vt
 \sn 1
 \pdl dir 
@@ -82806,18 +83228,20 @@
 \xv jisŋi nɯ-raχtɕi-a
 \xn 今天洗了衣服
 \se ʑɣɤχtɕi
-\wav8 8_ZGAXtCi
+\wav8 ZGAXtCi
 \ps vi
 \ng refl
 \ge se laver
 \gn 洗自己
 \dt 30/Mar/2015
 
-\lx χtsɤβ
+\lx _χtsɤβ
 \wav vt-XtsAB
 \ps vt
 \pdl dir 
 \pdv nɯ-
+\pdl dir 
+\pdv pɯ-
 \ge pétrir, tanner (peau)
 \gn 揉 
 \xv tɯ-ndʐi pa-χtsɤβ
@@ -82831,9 +83255,9 @@
 \ev ɯ-mar kú-wɣ-le tɕe, nɯ kóʁmɯz pjɯ́-wɣ-χtsɤβ ŋu.
 \dt 05/Dec/2012
 
-\lx χtso
+\lx _χtso
 \wav vi-Xtso
-\wav8 8_GAXtso
+\wav8 GAXtso
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -82863,7 +83287,7 @@
 \an ɴqhi
 \dt 18/Aug/2015
 
-\lx χtsur
+\lx _χtsur
 \ps vs
 \ge important
 \gn 重要
@@ -82881,10 +83305,10 @@
 \xn 工作是需要的，但是吃饭也重要
 \dt 21/Jul/2016
 
-\lx χtɯ
-\wav8 8_CtAXtWta
-\wav8 8_beimu_XtW
-\wav8 8_WkWXtW
+\lx _χtɯ
+\wav8 CtAXtWta
+\wav8 beimu_XtW
+\wav8 WkWXtW
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -82900,8 +83324,8 @@
 \xv tɤ-mthɯm ɕ-tɤ-χtɯ-t-a.
 \xn 我去买肉了（已经买回来了）
 \se raχtɯ
-\wav8 8_pWraXtWa
-\wav8 8_tAraXtWa
+\wav8 pWraXtWa
+\wav8 tAraXtWa
 \ps vi
 \ng apass
 \pdl dir 
@@ -82923,9 +83347,9 @@
 \cf raχtɯtsɣe
 \dt 18/Jul/2016
 
-\lx χtɯɣ
-\wav8 8_CtukAXtWG
-\wav8 8_GWtuXtWGa
+\lx _χtɯɣ
+\wav8 CtukAXtWG
+\wav8 GWtuXtWGa
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -82937,7 +83361,7 @@
 \xv nɤ-ɕki ɣɯ-tu-χtɯɣ-a ɲɯ-ɬoʁ
 \xn 我只好来求您了
 
-\lx χuχu
+\lx _χuχu
 \ps idph.2
 \ge qui a une petite ouverture
 \gn 形容洞口很小
@@ -82945,7 +83369,7 @@
 \xn 小孩子的嘴很小
 \dt 13/May/2014
 
-\lx zɤt
+\lx _zɤt
 \wav vi-zAt
 \wav vi-zAt2
 \ps vs
@@ -82971,7 +83395,7 @@
 \xn 令它消失太可惜，希望不会消失
 \dt 20/Jul/2014
 
-\lx zbaʁ
+\lx _zbaʁ
 \wav vi-zbaR
 \wav vi-zbaR2
 \ps vs
@@ -82987,7 +83411,7 @@
 \se sɯzbaʁ
 \wav vt-sWzbaR
 \wav vt-sWzbaR2
-\wav8 8_sWzbaR
+\wav8 sWzbaR
 \ps vt
 \ng caus
 \pdl dir 
@@ -83002,14 +83426,14 @@
 \cf ɣɤzbaʁ
 \dt 20/Oct/2012
 
-\lx zbaʁzbɯ
+\lx _zbaʁzbɯ
 \ps vs
 \ge sec
 \gn 干
 \cf zbaʁ
 \dt 15/May/2014
 
-\lx zbraʁ
+\lx _zbraʁ
 \ps vt
 \pdl dir
 \pdv nɯ-
@@ -83027,7 +83451,7 @@
 \gn 被绑在另外一个物体上
 \dt 02/Sep/2015
 
-\lx zdɤβ
+\lx _zdɤβ
 \wav vt-zdAB
 \ps vt
 \pdl dir 
@@ -83041,7 +83465,7 @@
 \sy ltɤβ
 \dt 10/Sep/2011
 
-\lx zdɯɣ
+\lx _zdɯɣ
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -83053,7 +83477,7 @@
 \xn 他很辛苦
 \dt 24/Aug/2012
 
-\lx zga
+\lx _zga
 \hm 1
 \ps vs
 \pdl dir 
@@ -83064,7 +83488,7 @@
 \xn 脓包成熟了，可以挤了
 \dt 27/Aug/2012
 
-\lx zgɤt
+\lx _zgɤt
 \wav vi-zgAt
 \wav zgAt
 \ps vi.nh
@@ -83081,7 +83505,7 @@
 \sy tʂaŋ
 \dt 23/Dec/2014
 
-\lx zgroʁ
+\lx _zgroʁ
 \hm 1
 \wav vt-zgroR
 \ps vt
@@ -83106,7 +83530,7 @@
 \gn 被绑
 \dt 23/Nov/2014
 
-\lx zgrɯβ
+\lx _zgrɯβ
 \wav vt-zgrWB
 \ps vi
 \pdl dir 
@@ -83118,7 +83542,7 @@
 \xn 修佛法
 \dt 24/Jul/2014
 
-\lx zgrɯl
+\lx _zgrɯl
 \wav vt-zgrWl
 \ps vt
 \pdl dir 
@@ -83135,7 +83559,7 @@
 \cf rɤjɯɣ
 \dt 02/Jan/2015
 
-\lx zgɯt
+\lx _zgɯt
 \wav zgWt-a
 \ps vi
 \pdl dir 
@@ -83147,7 +83571,7 @@
 \xn 我洗了衣服就缩水了
 \dt 05/Sep/2011
 
-\lx zɣa
+\lx _zɣa
 \wav vi-zGa
 \ps vs
 \pdl dir 
@@ -83166,43 +83590,43 @@
 \xn 路莫名其妙地塌下来了
 \dt 19/Feb/2014
 
-\lx zɣɤβlo
+\lx _zɣɤβlo
 \cf ɣɤβlo
 \dt 27/Oct/2011
 
-\lx zɣɤɕɯɴqoʁ
+\lx _zɣɤɕɯɴqoʁ
 \cf ɕɯɴqoʁ
 \dt 24/Nov/2011
 
-\lx zɣɤdi
+\lx _zɣɤdi
 \cf ɣɤdi
 \dt 04/Oct/2011
 
-\lx zɣɤji
+\lx _zɣɤji
 \cf ɣɤji
 \dt 27/Oct/2011
 
-\lx zɣɤngɯt
+\lx _zɣɤngɯt
 \cf ɣɤngɯt
 \dt 30/Aug/2015
 
-\lx zɣɤŋgi
+\lx _zɣɤŋgi
 \cf ɣɤŋgi
 \dt 29/Aug/2015
 
-\lx zɣɤʁre
+\lx _zɣɤʁre
 \cf ɣɤʁre
 \dt 12/Sep/2011
 
-\lx zɣɤtɕa
+\lx _zɣɤtɕa
 \cf ɣɤtɕa
 \dt 29/Aug/2015
 
-\lx zɣɤwu
+\lx _zɣɤwu
 \cf ɣɤwu
 \dt 23/Nov/2011
 
-\lx zɣɯmphrɯmphru
+\lx _zɣɯmphrɯmphru
 \a _zɣɯmphɯmphru
 \wav vt-zGWmphrWmphru
 \wav vt-zGWmphWmphru
@@ -83219,22 +83643,22 @@
 \xn 这里的话，我还不能讲得很流利
 \dt 07/Nov/2014
 
-\lx zɣɯmphɯmphru
+\lx _zɣɯmphɯmphru
 \cf aɣɯmphɯmphru
 \dt 26/Apr/2014
 
-\lx zɣɯrkɯrkɯ
+\lx _zɣɯrkɯrkɯ
 \cf aɣɯrkɯrkɯ
 \dt 19/Jul/2016
 
-\lx zɣɯrni
+\lx _zɣɯrni
 \cf ɣɯrni
 \dt 08/Jun/2011
 
-\lx zɣɯt
+\lx _zɣɯt
 \wav vi-zGWt
-\wav8 8_zGWt
-\wav8 8_zGWt2
+\wav8 zGWt
+\wav8 zGWt2
 \ps vi
 \pdl dir 
 \pdv _
@@ -83262,8 +83686,8 @@
 \gn 安全回家
 \dt 13/Mar/2014
 
-\lx zɣɯtɕɯtɕɤβ
-\wav8 8_zGWtCWtCAB
+\lx _zɣɯtɕɯtɕɤβ
+\wav8 zGWtCWtCAB
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -83275,15 +83699,15 @@
 \xn 生病的时候，最好把工作和休息调理好
 \dt 05/Dec/2012
 
-\lx zmɤŋgɯ
+\lx _zmɤŋgɯ
 \cf mɤŋgɯ
 \dt 20/Dec/2012
 
-\lx zmɤpɕi
+\lx _zmɤpɕi
 \cf mɤpɕi
 \dt 20/Dec/2012
 
-\lx zmɤrɤβ
+\lx _zmɤrɤβ
 \wav vt-zmArAB
 \ps vt
 \pdl dir 
@@ -83294,11 +83718,11 @@
 \xn 我把馍馍和菜和着吃了
 \dt 15/Sep/2011
 
-\lx zmɤrtsaβ
+\lx _zmɤrtsaβ
 \cf mɤrtsaβ
 \dt 25/Sep/2011
 
-\lx zmɯjqha
+\lx _zmɯjqha
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -83309,23 +83733,23 @@
 \cf qha
 \dt 09/Sep/2015
 
-\lx zmɯjrɯ
+\lx _zmɯjrɯ
 \cf mɯjrɯ
 \dt 09/Sep/2015
 
-\lx zmɯnmu
+\lx _zmɯnmu
 \cf mɯnmu
 \dt 15/Sep/2011
 
-\lx zmɯrmbɯ
+\lx _zmɯrmbɯ
 \cf amɯrmbɯ
 \dt 17/Apr/2011
 
-\lx znaʁjɯβ
+\lx _znaʁjɯβ
 \cf naʁjɯβ
 \dt 24/Aug/2015
 
-\lx znaχɕɯχɕu
+\lx _znaχɕɯχɕu
 \ps vi
 \ng refl
 \ng trop
@@ -83337,11 +83761,11 @@
 \cf rɯqhaχɕu
 \dt 30/Aug/2015
 
-\lx znaχtɕɯɣ
+\lx _znaχtɕɯɣ
 \cf naχtɕɯɣ
 \dt 19/Aug/2014
 
-\lx znɤchacha
+\lx _znɤchacha
 \wav vi-znAchacha
 \ps vi
 \pdl dir 
@@ -83355,14 +83779,14 @@
 \cf znɤtʂhɯtʂhɯt
 \dt 24/Aug/2012
 
-\lx znɤɕqa
+\lx _znɤɕqa
 \cf nɤɕqa
 \dt 15/Sep/2011
 
-\lx znɤɕqɯɕqraʁ
+\lx _znɤɕqɯɕqraʁ
 \a znɤɕqraʁɕqraʁ
 \wav vi-znACqraRCqraR
-\wav8 8_znACqraRCqraR
+\wav8 znACqraRCqraR
 \ps vi
 \ng refl
 \ng trop
@@ -83377,7 +83801,7 @@
 \sy rɯχparɤβ
 \dt 15/Sep/2011
 
-\lx znɤftɕɤftɕɤl
+\lx _znɤftɕɤftɕɤl
 \wav vi-znAftCAftCAl
 \ps vi
 \ng refl
@@ -83394,7 +83818,7 @@
 \xn 他是一个自作多情的人
 \dt 27/Apr/2011
 
-\lx znɤja
+\lx _znɤja
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -83405,13 +83829,13 @@
 \cf nɤja
 \dt 24/Aug/2012
 
-\lx znɤjo
+\lx _znɤjo
 \cf nɤjo
 \dt 18/Aug/2015
 
-\lx znɤjpɯjpe
+\lx _znɤjpɯjpe
 \a znɤjpejpe
-\wav8 8_znAjpWjpe
+\wav8 znAjpWjpe
 \ps vs
 \ng refl
 \ng trop
@@ -83427,21 +83851,25 @@
 \xn 他现在觉得自己很好（以前没有这个习惯）
 \dt 09/Mar/2011
 
-\lx znɤkɤro
+\lx _znɤkɤro
 \cf nɤkɤro
 \dt 17/Oct/2011
 
-\lx znɤkhɯ
+\lx _znɤkhɤzŋga
+\cf nɤkhɤzŋga
+\dt 19/Aug/2017
+
+\lx _znɤkhɯ
 \cf nɤkhɯ 
 \dt 29/Aug/2012
 
-\lx znɤkɯt
+\lx _znɤkɯt
 \cf nɤkɯt
 \dt 21/Jul/2016
 
-\lx znɤltɕɤm
+\lx _znɤltɕɤm
 \wav vt-znAltCAm
-\wav8 8_paznAltCAm
+\wav8 paznAltCAm
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -83464,9 +83892,9 @@
 \xn 我们互相盖了
 \dt 23/Feb/2014
 
-\lx znɤlɯli
+\lx _znɤlɯli
 \wav vi-znAlWli
-\wav8 8_znAlWli
+\wav8 znAlWli
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -83478,8 +83906,8 @@
 \xn 我在母亲面前撒娇了
 \dt 24/Aug/2012
 
-\lx znɤmaʁmaʁ
-\wav8 8_matAtWznAmaRmaR
+\lx _znɤmaʁmaʁ
+\wav8 matAtWznAmaRmaR
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -83492,15 +83920,15 @@
 \cf maʁ1
 \dt 30/Aug/2015
 
-\lx znɤmbju
+\lx _znɤmbju
 \cf nɤmbju
 \dt 26/Aug/2015
 
-\lx znɤmɲole
+\lx _znɤmɲole
 \cf nɤmɲole
 \dt 16/Jan/2015
 
-\lx znɤmpɕɤmpɕɤr
+\lx _znɤmpɕɤmpɕɤr
 \wav vi-znAmpCAmpCAr
 \ps vi
 \ng refl
@@ -83515,11 +83943,11 @@
 \cf rɤmpɕɤr
 \dt 27/Apr/2011
 
-\lx znɤmqrɯz
+\lx _znɤmqrɯz
 \cf ɣɤmqrɯz
 \dt 20/Aug/2015
 
-\lx znɤmɯma
+\lx _znɤmɯma
 \wav vt-znAmWma
 \ps vt
 \pdl dir 
@@ -83533,30 +83961,30 @@
 \xn 不管让他做什么都不行
 \dt 07/Aug/2012
 
-\lx znɤndɤɣ
+\lx _znɤndɤɣ
 \cf nɤndɤɣ
 \dt 13/Oct/2013
 
-\lx znɤndɤɣri
+\lx _znɤndɤɣri
 \cf nɤndɤɣri
 \dt 01/Jan/2011
 
-\lx znɤndɤr
+\lx _znɤndɤr
 \cf nɤndɤr
 \dt 15/Sep/2011
 
-\lx znɤndɯndɤt
+\lx _znɤndɯndɤt
 \cf nɤndɯndɤt
 
-\lx znɤngɯt
+\lx _znɤngɯt
 \cf nɤngɯt
 \dt 29/Aug/2014
 
-\lx znɤŋɤβ
+\lx _znɤŋɤβ
 \cf sɤŋɤβ
 \dt 04/Apr/2014
 
-\lx znɤŋgɤr
+\lx _znɤŋgɤr
 \pdl dir 
 \pdv _
 \ge pousser vers un côté (par la foule) 
@@ -83565,11 +83993,11 @@
 \xn 你把我挤到那边去
 \cf ŋgɤr
 
-\lx znɤŋgɯ
+\lx _znɤŋgɯ
 \cf nɤŋgɯ
 \dt 15/Sep/2011
 
-\lx znɤŋɯŋu
+\lx _znɤŋɯŋu
 \ps vs
 \ng refl
 \ng trop
@@ -83578,22 +84006,22 @@
 \cf ŋu
 \dt 01/Sep/2014
 
-\lx znɤphɤtphɤt
+\lx _znɤphɤtphɤt
 \cf nɤphɤtphɤt
 \dt 25/Aug/2015
 
-\lx znɤrɕu
+\lx _znɤrɕu
 \cf nɤrɕu
 \dt 05/Jan/2011
 
-\lx znɤre
+\lx _znɤre
 \cf nɤre
 \dt 02/Sep/2014
 
-\lx znɤrko
+\lx _znɤrko
 \cf nɤrko
 
-\lx znɤʁamɟa
+\lx _znɤʁamɟa
 \wav vi-znArAmJa
 \ps vs
 \pdl dir 
@@ -83611,24 +84039,24 @@
 \cf tɤ-ʁamɟa
 \dt 18/Aug/2015
 
-\lx znɤʁdɤn
+\lx _znɤʁdɤn
 \a znɯʁdɤn
 \cf nɤʁdɤn
 \dt 25/Sep/2011
 
-\lx znɤscɤr
+\lx _znɤscɤr
 \cf nɤscɤr
 \dt 06/Jan/2011
 
-\lx znɤtʂa
+\lx _znɤtʂa
 \cf nɤtʂa
 \dt 17/Oct/2011
 
-\lx znɤtʂhɯtʂhɯt
+\lx _znɤtʂhɯtʂhɯt
 \cf tʂhɤt1
 \dt 08/Dec/2011
 
-\lx znɤtʂɯntʂɯn
+\lx _znɤtʂɯntʂɯn
 \wav vi-znAtsxWntsxWn
 \ps vs
 \ge qui aime se vanter de ses bonnes actions 
@@ -83639,11 +84067,11 @@
 \cf tɯ-tʂɯn
 \dt 26/Oct/2011
 
-\lx znɤtɯɣ
+\lx _znɤtɯɣ
 \cf atɯɣ
 \dt 29/Nov/2011
 
-\lx znɤχpɯχpa
+\lx _znɤχpɯχpa
 \wav vi-znAXpWXpa
 \ps vs
 \pdl dir 
@@ -83655,11 +84083,11 @@
 \cf χpa
 \dt 26/Oct/2011
 
-\lx znɤzraʁ
+\lx _znɤzraʁ
 \cf nɤzraʁ
 \dt 06/Sep/2015
 
-\lx znde
+\lx _znde
 \hm 2
 \wav vt-znde
 \ps vt
@@ -83675,15 +84103,15 @@
 \cf rɤznde
 \dt 15/Jan/2015
 
-\lx znɯβdaʁ
+\lx _znɯβdaʁ
 \cf nɯβdaʁ
 \dt 21/Aug/2015
 
-\lx znɯcaχto
+\lx _znɯcaχto
 \cf nɯcaχto
 \dt 19/Jul/2014
 
-\lx znɯɕkhɤɣ
+\lx _znɯɕkhɤɣ
 \wav vt-znWCkhAG
 \wav vt-znWCkhAG2
 \ps vt
@@ -83697,7 +84125,7 @@
 \xn 虽然下雨，但是我不在乎
 \dt 09/Sep/2015
 
-\lx znɯɕqhɯɕqhu
+\lx _znɯɕqhɯɕqhu
 \wav vt-znWCqhWCqhu
 \ps vt
 \pdl dir 
@@ -83720,13 +84148,13 @@
 \cf nɯɕqhu
 \dt 11/Jul/2016
 
-\lx znɯɕtar
+\lx _znɯɕtar
 \cf nɯɕtar
 \dt 20/Mar/2014
 
-\lx znɯfsoʁspɤt
-\wav8 8_lAznWfsoRspata
-\wav8 8_lAznWfsoRspAti
+\lx _znɯfsoʁspɤt
+\wav8 lAznWfsoRspata
+\wav8 lAznWfsoRspAti
 \ps vt
 \pdl dir
 \pdv lɤ-
@@ -83738,15 +84166,15 @@
 \xn 我们晚上开始工作，一直工作到天亮
 \cf fsoʁ
 
-\lx znɯɣɟɯ
+\lx _znɯɣɟɯ
 \cf nɯɣɟɯ
 \dt 31/Aug/2015
 
-\lx znɯɣmaz
+\lx _znɯɣmaz
 \cf nɯɣmaz
 \dt 26/Aug/2012
 
-\lx znɯjɯn
+\lx _znɯjɯn
 \wav vt-znWjin
 \ps vt
 \pdl dir 
@@ -83762,10 +84190,10 @@
 \sy nɯɴqhu
 \dt 17/Sep/2011
 
-\lx znɯkhrɯm
+\lx _znɯkhrɯm
 \cf nɯkhrɯm
 
-\lx znɯkro
+\lx _znɯkro
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -83780,18 +84208,18 @@
 \cf kro
 \dt 24/Aug/2012
 
-\lx znɯkrɯβ
+\lx _znɯkrɯβ
 \cf nɯkrɯβ
 \dt 17/Jan/2011
 
-\lx znɯkɯlu
+\lx _znɯkɯlu
 \cf nɯkɯlu
 
-\lx znɯmgɯrjɯm
+\lx _znɯmgɯrjɯm
 \a znɯmgɯrjɯβ
 \wav vt-znWmgWrjWm
-\wav8 8_znWmgWrjWB
-\wav8 8_znWmgWrjWB2
+\wav8 znWmgWrjWB
+\wav8 znWmgWrjWB2
 \ps vt
 \pdl dir 
 \pdv kɤ-
@@ -83808,15 +84236,15 @@
 \xn 把馍馍在火塘边烤熟很好吃
 \dt 21/Aug/2015
 
-\lx znɯmkɤqloʁ
+\lx _znɯmkɤqloʁ
 \cf nɯmkɤqloʁ
 \dt 12/Apr/2011
 
-\lx znɯmnɤl
+\lx _znɯmnɤl
 \cf nɯmnɤl
 \dt 28/May/2011
 
-\lx znɯna
+\lx _znɯna
 \ps vt
 \pdl dir 
 \pdv _
@@ -83830,13 +84258,13 @@
 \cf nɯna
 \dt 22/Aug/2015
 
-\lx znɯndzɯ
+\lx _znɯndzɯ
 \cf nɯndzɯ
 \dt 20/Oct/2011
 
-\lx znɯnoʁ
+\lx _znɯnoʁ
 \wav vt-znWnoR
-\wav8 8_znWnoR
+\wav8 znWnoR
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -83851,18 +84279,18 @@
 \cf tɯnoʁ
 \dt 25/Sep/2011
 
-\lx znɯntsho
+\lx _znɯntsho
 \cf nɯntsho
 \dt 02/Apr/2014
 
-\lx znɯntsɯɣ
+\lx _znɯntsɯɣ
 \cf nɯntsɯɣ
 
-\lx znɯɲco
+\lx _znɯɲco
 \cf nɯco
 \dt 23/Aug/2012
 
-\lx znɯŋgɤrkɯ
+\lx _znɯŋgɤrkɯ
 \ps vt
 \pdl dir
 \pdv kɤ-
@@ -83870,11 +84298,11 @@
 \gn 用衣服把婴儿竖着包起来
 \dt 01/Sep/2014
 
-\lx znɯŋgu
+\lx _znɯŋgu
 \cf nɯŋgu
 \dt 20/Oct/2011
 
-\lx znɯɴɢɤt
+\lx _znɯɴɢɤt
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -83886,14 +84314,14 @@
 \cf ɴɢɤt
 \dt 24/Aug/2012
 
-\lx znɯɴqhu
+\lx _znɯɴqhu
 \cf nɯɴqhu
 \dt 06/Nov/2014
 
-\lx znɯpoʁ
+\lx _znɯpoʁ
 \cf nɯpoʁ
 
-\lx znɯqatɯkɯr
+\lx _znɯqatɯkɯr
 \wav vt-znWqatWkWr
 \ps vt
 \pdl dir 
@@ -83909,10 +84337,10 @@
 \xn 他对他进行了反面教育
 \dt 24/Aug/2012
 
-\lx znɯqhɤstɯstu
+\lx _znɯqhɤstɯstu
 \cf nɯqhɤstɯstu
 
-\lx znɯrɤʁaŋ
+\lx _znɯrɤʁaŋ
 \ps vt
 \ge qui a le droit de 
 \gn 有权利……；有资格……
@@ -83921,50 +84349,50 @@
 \cf tɯ-rɤʁaŋ
 \dt 08/Jul/2016
 
-\lx znɯrɯrɯz
+\lx _znɯrɯrɯz
 \cf nɯrɯz
 \dt 03/Sep/2015
 
-\lx znɯsɤlɤɣ
+\lx _znɯsɤlɤɣ
 \cf nɯsɤlɤɣ
 \dt 29/Mar/2011
 
-\lx znɯslɯɣ
+\lx _znɯslɯɣ
 \cf nɯslɯɣ
 \dt 01/Sep/2012
 
-\lx znɯsmɤn
+\lx _znɯsmɤn
 \cf nɯsmɤn
 \dt 28/Oct/2011
 
-\lx znɯstu
+\lx _znɯstu
 \cf nɯstu
 \dt 30/Sep/2011
 
-\lx znɯta
+\lx _znɯta
 \cf ta
 \dt 19/Aug/2015
 
-\lx znɯtɕarloŋ
+\lx _znɯtɕarloŋ
 \cf nɯtɕarloŋ
 \dt 20/Aug/2015
 
-\lx znɯtɕhɤl
+\lx _znɯtɕhɤl
 \cf nɯtɕhɤl
 \dt 19/Mar/2011
 
-\lx znɯtɕhɤtpa
+\lx _znɯtɕhɤtpa
 \ps vt
 \ge punir
 \gn 惩罚
 \cf tɕhɤtpa
 \sy znɯtɕhɤl
 
-\lx znɯtɯfɕɤl
+\lx _znɯtɯfɕɤl
 \cf nɯtɯfɕɤl
 \dt 09/May/2013
 
-\lx znɯxpri
+\lx _znɯxpri
 \ps vt
 \pdl dir
 \pdv nɯ-
@@ -83979,11 +84407,11 @@
 \cf tɯpri
 \dt 02/Sep/2015
 
-\lx znɯχamba
+\lx _znɯχamba
 \cf rɯχamba
 \dt 09/Feb/2015
 
-\lx znɯχcɤl
+\lx _znɯχcɤl
 \wav vt-znWXcAl
 \ps vt
 \pdl dir 
@@ -83998,7 +84426,7 @@
 \cf ɯ-χcɤl
 \dt 17/Sep/2011
 
-\lx znɯχpi
+\lx _znɯχpi
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -84009,11 +84437,11 @@
 \xn 我模仿了我女朋友的字
 \dt 24/Aug/2012
 
-\lx znɯχtɕɯrɯ
+\lx _znɯχtɕɯrɯ
 \cf nɯχtɕɯrɯ
 \dt 26/Apr/2014
 
-\lx znɯzɤz
+\lx _znɯzɤz
 \ps vt
 \pdl dir
 \pdv tɤ-
@@ -84023,19 +84451,19 @@
 \xn 那个领导不会被引诱
 \dt 26/Aug/2015
 
-\lx znɯzdɯɣ
+\lx _znɯzdɯɣ
 \cf nɯzdɯɣ
 \dt 31/Aug/2011
 
-\lx znɯzɟɯ
+\lx _znɯzɟɯ
 \cf nɯzɟɯ
 \dt 10/Jan/2011
 
-\lx znɯʑɣɤʑɣɤt
+\lx _znɯʑɣɤʑɣɤt
 \cf sɤʑɣɤʑɣɤt
 \dt 29/Aug/2015
 
-\lx zɲɟa
+\lx _zɲɟa
 \hm 1
 \wav vi-zYJa
 \ps vs
@@ -84049,7 +84477,7 @@
 \xn 我用夹子拔了胡子，它夹得非常稳
 \dt 24/Aug/2012
 
-\lx zo
+\lx _zo
 \wav vi-zo
 \ps vi
 \pdl dir 
@@ -84062,32 +84490,32 @@
 \xn 蜜蜂停落了
 \dt 17/Sep/2011
 
-\lx zraʁrɯz
+\lx _zraʁrɯz
 \cf raʁrɯz
 \dt 09/Apr/2011
 
-\lx zrɤβraʁ
+\lx _zrɤβraʁ
 \cf rɤβraʁ
 \dt 19/Sep/2011
 
-\lx zrɤɣrɯ
+\lx _zrɤɣrɯ
 \cf rɤɣrɯ
 \dt 29/Apr/2011
 
-\lx zrɤjroʁ
+\lx _zrɤjroʁ
 \cf rɤjroʁ
 \dt 06/May/2014
 
-\lx zrɤkrɯ
+\lx _zrɤkrɯ
 \cf rɤkrɯ
 \dt 01/Oct/2011
 
-\lx zrɤma
+\lx _zrɤma
 \cf rɤma
 \dt 07/Jul/2016
 
-\lx zrɤmgo
-\wav8 8_tArzAmgota
+\lx _zrɤmgo
+\wav8 tArzAmgota
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -84098,35 +84526,38 @@
 \cf tɯ-mgo
 \dt 30/Nov/2013
 
-\lx zrɤmpɕɤr
+\lx _zrɤmpɕɤr
 \cf rɤmpɕɤr
 \dt 30/Aug/2015
 
-\lx zrɤpɯ
+\lx _zrɤndzraʁ
+\cf rɤndzraʁ
+
+\lx _zrɤpɯ
 \cf rɤpɯ
 
-\lx zrɤrɤt
+\lx _zrɤrɤt
 \cf rɤt
 
-\lx zrɤrɟit
+\lx _zrɤrɟit
 \cf rɤrɟit
 
-\lx zrɤrmbɣo
+\lx _zrɤrmbɣo
 \cf rɤrmbɣo
 \dt 30/Dec/2014
 
-\lx zrɤru
+\lx _zrɤru
 \cf rɤru
 \dt 16/Jul/2016
 
-\lx zrɤsta
+\lx _zrɤsta
 \cf rɤsta
 \dt 08/Dec/2012
 
-\lx zrɤtɕha
-\wav8 8_tAzrAtChe
-\wav8 8_arAtCha
-\wav8 8_arAtCha2
+\lx _zrɤtɕha
+\wav8 tAzrAtChe
+\wav8 arAtCha
+\wav8 arAtCha2
 \ps vt
 \ge déterminé à partir de 
 \gn 以……为标准
@@ -84142,11 +84573,11 @@
 \xn 你能不能早到，看你能不能跑步
 \dt 08/Dec/2011
 
-\lx zrɤtshi
+\lx _zrɤtshi
 \cf arɤtshi
 \dt 05/Nov/2012
 
-\lx zrɤʑi
+\lx _zrɤʑi
 \ps vt
 \pdl dir 
 \pdv kɤ-
@@ -84162,7 +84593,7 @@
 \xn 我们把孩子一个人留在家里
 \dt 20/Jul/2014
 
-\lx zri
+\lx _zri
 \ps vs
 \pdl dir 
 \pdv thɯ-
@@ -84173,7 +84604,7 @@
 \an xtɯt
 \dt 28/Apr/2014
 
-\lx zrɯ
+\lx _zrɯ
 \hm 3
 \ps vt
 \pdl dir
@@ -84184,14 +84615,14 @@
 \xn 我占用了这个地方
 \dt 06/Sep/2015
 
-\lx zrɯɕmi
+\lx _zrɯɕmi
 \cf rɯɕmi
 
-\lx zrɯɣnɤn
+\lx _zrɯɣnɤn
 \cf rɯɣnɤn
 \dt 28/May/2011
 
-\lx zrɯɣru
+\lx _zrɯɣru
 \ps n
 \ge épouillage
 \gn 捉虱子
@@ -84200,20 +84631,20 @@
 \cf nɯzrɯɣru
 \dt 10/Nov/2011
 
-\lx zrɯndzɤtshi
+\lx _zrɯndzɤtshi
 \cf rɯndzɤtshi
 \dt 01/Jan/2015
 
-\lx zrɯŋgrɤl
+\lx _zrɯŋgrɤl
 \cf ŋgrɤl
 \dt 03/Sep/2015
 
-\lx zrɯstɯnmɯ
+\lx _zrɯstɯnmɯ
 \cf rɯstɯnmɯ
 
-\lx zrɯxtar
+\lx _zrɯxtar
 \wav vt-zrWGtar
-\wav8 8_zrWGtar
+\wav8 zrWGtar
 \ps vt
 \pdl dir 
 \pdv tɤ-
@@ -84227,7 +84658,7 @@
 \cf sɯxtar
 \dt 30/Sep/2011
 
-\lx zwɤr
+\lx _zwɤr
 \hm 1
 \wav vt-zwAr
 \ps vt
@@ -84246,7 +84677,7 @@
 \cf amɯzwɤr
 \dt 20/Aug/2015
 
-\lx ʑa
+\lx _ʑa
 \hm 1
 \ps vt
 \pdl dir 
@@ -84260,7 +84691,7 @@
 \cf sɤʑa
 \dt 24/Aug/2012
 
-\lx ʑa
+\lx _ʑa
 \hm 2
 \wav vi-Za
 \ps vs
@@ -84274,9 +84705,9 @@
 \xn 他手的肌肉萎缩了
 \dt 14/Jul/2016
 
-\lx ʑɤn
-\wav8 8_kWZAn
-\wav8 8_ZAn
+\lx _ʑɤn
+\wav8 kWZAn
+\wav8 ZAn
 \ps vs
 \ge moins bon
 \gn （比自己）差
@@ -84285,7 +84716,7 @@
 \an mna
 \dt 13/May/2014
 
-\lx ʑɣɤβde
+\lx _ʑɣɤβde
 \ps vi
 \ng refl
 \pdl dir 
@@ -84297,20 +84728,20 @@
 \cf βde
 \dt 19/Feb/2014
 
-\lx ʑɣɤβʁum
+\lx _ʑɣɤβʁum
 \cf βʁum
 \dt 07/May/2014
 
-\lx ʑɣɤβzɟɯr
+\lx _ʑɣɤβzɟɯr
 \cf βzɟɯr
 
-\lx ʑɣɤɕphɣo
+\lx _ʑɣɤɕphɣo
 \cf ɕphɣo
 \dt 26/Aug/2015
 
-\lx ʑɣɤɕthɯz
+\lx _ʑɣɤɕthɯz
 \wav vi-ZGACthWz
-\wav8 8_ZGACthWz
+\wav8 ZGACthWz
 \ps vi
 \ng refl
 \pdl dir 
@@ -84322,83 +84753,83 @@
 \cf ɕthɯz
 \dt 19/Feb/2014
 
-\lx ʑɣɤɕtʂat
+\lx _ʑɣɤɕtʂat
 \cf ɕtʂat
 \dt 26/Aug/2012
 
-\lx ʑɣɤɕɯɣmu
+\lx _ʑɣɤɕɯɣmu
 \cf ɕɯɣmu
 \dt 18/Jul/2014
 
-\lx ʑɣɤɕɯmbɣom
+\lx _ʑɣɤɕɯmbɣom
 \cf ɕɯmbɣom
 \dt 11/Jan/2017
 
-\lx ʑɣɤɕɯnŋo
+\lx _ʑɣɤɕɯnŋo
 \cf ɕɯnŋo
 \dt 28/Dec/2014
 
-\lx ʑɣɤɕɯrga
+\lx _ʑɣɤɕɯrga
 \cf ɕɯrga
 \dt 10/Sep/2011
 
-\lx ʑɣɤfɕɤt
+\lx _ʑɣɤfɕɤt
 \cf fɕɤt1
 \dt 26/Aug/2015
 
-\lx ʑɣɤfsraŋ
+\lx _ʑɣɤfsraŋ
 \cf fsraŋ
 
-\lx ʑɣɤfstɯn
+\lx _ʑɣɤfstɯn
 \cf fstɯn
 \dt 15/Oct/2013
 
-\lx ʑɣɤɣɤβdi
+\lx _ʑɣɤɣɤβdi
 \cf ɣɤβdi
 \dt 08/Dec/2011
 
-\lx ʑɣɤɣɤkhe
+\lx _ʑɣɤɣɤkhe
 \cf khe
 \dt 01/Sep/2015
 
-\lx ʑɣɤɣɤla
+\lx _ʑɣɤɣɤla
 \cf ɣɤla
 \dt 18/Jul/2013
 
-\lx ʑɣɤɣɤme
+\lx _ʑɣɤɣɤme
 \cf ɣɤme
 
-\lx ʑɣɤɣɤntaβ
+\lx _ʑɣɤɣɤntaβ
 \cf ɣɤntaβ
 
-\lx ʑɣɤɣɤŋgi
+\lx _ʑɣɤɣɤŋgi
 \cf ɣɤŋgi
 \dt 29/Aug/2015
 
-\lx ʑɣɤɣɤrndi
+\lx _ʑɣɤɣɤrndi
 \cf ɣɤrndi
 \dt 29/Aug/2015
 
-\lx ʑɣɤɣɤtɕa
+\lx _ʑɣɤɣɤtɕa
 \cf ɣɤtɕa
 \dt 10/Sep/2011
 
-\lx ʑɣɤɣɤtɕɤt
+\lx _ʑɣɤɣɤtɕɤt
 \cf ɣɤtɕɤt
 
-\lx ʑɣɤɣɤʑo
+\lx _ʑɣɤɣɤʑo
 \cf ʑo1
 \dt 26/Oct/2011
 
-\lx ʑɣɤkho
+\lx _ʑɣɤkho
 \cf kho1
 \dt 29/Dec/2014
 
-\lx ʑɣɤkro
+\lx _ʑɣɤkro
 \cf kro
 \dt 21/May/2014
 
-\lx ʑɣɤlɤrko
+\lx _ʑɣɤlɤrko
 \a zɣɤnɤrko
 \wav vi-ZGAlArko
 \ps vi
@@ -84412,107 +84843,107 @@
 \cf nɤrko1
 \dt 14/Aug/2012
 
-\lx ʑɣɤmaŋlo
+\lx _ʑɣɤmaŋlo
 \cf maŋlo
 \dt 17/Mar/2014
 
-\lx ʑɣɤmar
+\lx _ʑɣɤmar
 \cf mar
 \dt 12/Apr/2013
 
-\lx ʑɣɤmdzoz
+\lx _ʑɣɤmdzoz
 \ps vi
-\ge avoir de l'amour propre
+\ge avoir de la dignité, ne pas agir de façon inconsidérée
 \gn 自重，注意自己的言行
 \xv tɯrme sɤtɕha jɤ-kɯ-ɤri tɕe, tɯ-kɯ-ʑɣɤmdzoz ra
 \xn 出远门的时候要会自重
 \cf mdzoz
 \dt 07/Sep/2015
 
-\lx ʑɣɤmgɯ
+\lx _ʑɣɤmgɯ
 \cf mgɯ
 \dt 02/Jul/2014
 
-\lx ʑɣɤmɲo
+\lx _ʑɣɤmɲo
 \cf mɲo1
 \dt 12/Apr/2013
 
-\lx ʑɣɤmphɯr
+\lx _ʑɣɤmphɯr
 \cf mphɯr
 \dt 26/Aug/2012
 
-\lx ʑɣɤmto
+\lx _ʑɣɤmto
 \cf mto
 \dt 04/Oct/2011
 
-\lx ʑɣɤnaχsoz
+\lx _ʑɣɤnaχsoz
 \cf naχsoz
 \dt 19/Aug/2015
 
-\lx ʑɣɤnɤmpɕɤr
+\lx _ʑɣɤnɤmpɕɤr
 \cf nɤmpɕɤr
 \dt 23/Nov/2011
 
-\lx ʑɣɤnɤmqe
+\lx _ʑɣɤnɤmqe
 \cf nɤmqe
 
-\lx ʑɣɤnɤmtshɤr
+\lx _ʑɣɤnɤmtshɤr
 \cf nɤmtshɤr
 \dt 01/Jan/2011
 
-\lx ʑɣɤnɤndʐo
+\lx _ʑɣɤnɤndʐo
 \cf nɤndʐo
 \dt 04/Aug/2012
 
-\lx ʑɣɤnɤrko
+\lx _ʑɣɤnɤrko
 \cf nɤrko1
 \dt 28/Aug/2012
 
-\lx ʑɣɤnɤstu
+\lx _ʑɣɤnɤstu
 \cf nɤstu
 \dt 08/Dec/2011
 
-\lx ʑɣɤnɤtsɯ
+\lx _ʑɣɤnɤtsɯ
 \cf nɤtsɯ
 \dt 24/Aug/2015
 
-\lx ʑɣɤnbaʁ
+\lx _ʑɣɤnbaʁ
 \cf nbaʁ
 \dt 24/Aug/2015
 
-\lx ʑɣɤndzɯ
+\lx _ʑɣɤndzɯ
 \cf ndzɯ
 \dt 13/Jul/2016
 
-\lx ʑɣɤntsɣe
+\lx _ʑɣɤntsɣe
 \cf ntsɣe
 \dt 29/Dec/2014
 
-\lx ʑɣɤnɯβlu
+\lx _ʑɣɤnɯβlu
 \cf nɯβlu
 \dt 24/Aug/2015
 
-\lx ʑɣɤnɯkhramba
+\lx _ʑɣɤnɯkhramba
 \cf nɯkhramba
 \dt 26/Aug/2012
 
-\lx ʑɣɤnɯkon
+\lx _ʑɣɤnɯkon
 \cf nɯkon
 \dt 28/Aug/2015
 
-\lx ʑɣɤnɯmbrɤpɯ
+\lx _ʑɣɤnɯmbrɤpɯ
 \cf nɯmbrɤpɯ
 \dt 02/Sep/2015
 
-\lx ʑɣɤnɯsmɤn
+\lx _ʑɣɤnɯsmɤn
 \cf nɯsmɤn
 \dt 23/Aug/2011
 
-\lx ʑɣɤnɯtʂawku
+\lx _ʑɣɤnɯtʂawku
 \cf nɯtʂawku
 \dt 23/Jun/2013
 
-\lx ʑɣɤpa
+\lx _ʑɣɤpa
 \hm 1
 \wav vi-ZGApa
 \ps vi
@@ -84542,37 +84973,37 @@
 \sy ʑɣɤrtsi
 \dt 20/Jul/2016
 
-\lx ʑɣɤpa
+\lx _ʑɣɤpa
 \hm 2
 \cf pa1
 \dt 20/Aug/2015
 
-\lx ʑɣɤpɣaʁ
+\lx _ʑɣɤpɣaʁ
 \cf pɣaʁ
 \dt 30/Aug/2015
 
-\lx ʑɣɤqɤr
+\lx _ʑɣɤqɤr
 \ps vi
 \pdl dir 
 \pdv nɯ-
-\ge solitaire 
-\gn 孤僻 
+\ge s'isoler
+\gn 独居；跟其他人分开
 \cf qɤr
 \dt 22/Sep/2014
 
-\lx ʑɣɤraχtɕɤz
+\lx _ʑɣɤraχtɕɤz
 \cf raχtɕɤz
 \dt 17/May/2014
 
-\lx ʑɣɤrɤβraʁ
+\lx _ʑɣɤrɤβraʁ
 \cf rɤβraʁ
 \dt 11/Nov/2011
 
-\lx ʑɣɤrɤɕi
+\lx _ʑɣɤrɤɕi
 \cf rɤɕi
 \dt 31/Aug/2015
 
-\lx ʑɣɤrɤphɯ
+\lx _ʑɣɤrɤphɯ
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -84586,32 +85017,32 @@
 \xn 不要说大话，要量力而行
 \dt 19/Feb/2014
 
-\lx ʑɣɤrku
+\lx _ʑɣɤrku
 \cf rku
 \dt 03/Sep/2015
 
-\lx ʑɣɤrpu
+\lx _ʑɣɤrpu
 \cf rpu
 \dt 18/Sep/2014
 
-\lx ʑɣɤrtsi
+\lx _ʑɣɤrtsi
 \cf rtsi
 \dt 20/Jul/2016
 
-\lx ʑɣɤrɯxtuxti
+\lx _ʑɣɤrɯxtuxti
 \cf rɯxtuxti
 \dt 29/Jul/2014
 
-\lx ʑɣɤʁmɯɣ
+\lx _ʑɣɤʁmɯɣ
 \cf ʁmɯɣ
 \dt 26/Aug/2015
 
-\lx ʑɣɤsaʁjɤr
+\lx _ʑɣɤsaʁjɤr
 \cf saʁjɤr
 
-\lx ʑɣɤsɤɕke
+\lx _ʑɣɤsɤɕke
 \wav vi-ZGAsACke
-\wav8 8_ZGAsACke
+\wav8 ZGAsACke
 \ps vi
 \ng refl
 \ge se brûler
@@ -84622,61 +85053,61 @@
 \cf sɤɕke
 \dt 19/Feb/2014
 
-\lx ʑɣɤsɤfɕu
+\lx _ʑɣɤsɤfɕu
 \cf afɕu
 \dt 12/Sep/2011
 
-\lx ʑɣɤsɤjɤr
+\lx _ʑɣɤsɤjɤr
 \cf ajɤr
 \dt 04/Aug/2012
 
-\lx ʑɣɤsɤnbaʁ
+\lx _ʑɣɤsɤnbaʁ
 \cf anbaʁ
 \dt 24/Aug/2015
 
-\lx ʑɣɤsɤɲɟoʁ
+\lx _ʑɣɤsɤɲɟoʁ
 \cf ɲɟoʁ
 \dt 29/Dec/2014
 
-\lx ʑɣɤsɤpɣaʁsci
+\lx _ʑɣɤsɤpɣaʁsci
 \cf apɣaʁsci
 \dt 03/Apr/2011
 
-\lx ʑɣɤsɤri
+\lx _ʑɣɤsɤri
 \cf sɤri
 \dt 12/Sep/2011
 
-\lx ʑɣɤsɤrmbat
+\lx _ʑɣɤsɤrmbat
 \cf armbat
 \dt 12/Sep/2011
 
-\lx ʑɣɤsɤrmi
+\lx _ʑɣɤsɤrmi
 \cf sɤrmi
 \dt 25/Aug/2015
 
-\lx ʑɣɤsɤrqhi
+\lx _ʑɣɤsɤrqhi
 \cf arqhi
 \dt 24/Aug/2015
 
-\lx ʑɣɤsɤrʁɯrʁu
+\lx _ʑɣɤsɤrʁɯrʁu
 \cf arʁɯrʁu
 
-\lx ʑɣɤsɤstɤko
+\lx _ʑɣɤsɤstɤko
 \cf sɤstɤko
 
-\lx ʑɣɤsɤtsa
+\lx _ʑɣɤsɤtsa
 \cf atsa
 \dt 02/Aug/2012
 
-\lx ʑɣɤsɤtɯɣ
+\lx _ʑɣɤsɤtɯɣ
 \cf atɯɣ
 \dt 19/Jan/2015
 
-\lx ʑɣɤsɤzɣɯt
+\lx _ʑɣɤsɤzɣɯt
 \cf sɤzɣɯt
 \dt 03/Sep/2015
 
-\lx ʑɣɤsprɯl
+\lx _ʑɣɤsprɯl
 \ps vi
 \pdl dir 
 \pdv nɯ-
@@ -84688,7 +85119,7 @@
 \et sprul
 \dt 24/Aug/2012
 
-\lx ʑɣɤstu
+\lx _ʑɣɤstu
 \wav vi-ZGAstu
 \ps vi
 \ng refl
@@ -84703,7 +85134,7 @@
 \cf stu
 \dt 19/Feb/2014
 
-\lx ʑɣɤsɯβde
+\lx _ʑɣɤsɯβde
 \wav vi-ZGAsWBde
 \ps vi
 \pdl dir 
@@ -84717,83 +85148,83 @@
 \cf βde
 \dt 14/Jul/2016
 
-\lx ʑɣɤsɯβʁa
+\lx _ʑɣɤsɯβʁa
 \cf βʁa
 \dt 29/Aug/2015
 
-\lx ʑɣɤsɯβzi
+\lx _ʑɣɤsɯβzi
 \cf βzi
 \dt 21/Apr/2013
 
-\lx ʑɣɤsɯɕqhlɤt
+\lx _ʑɣɤsɯɕqhlɤt
 \cf ɕqhlɤt
 \dt 26/Aug/2012
 
-\lx ʑɣɤsɯɕqraʁ
+\lx _ʑɣɤsɯɕqraʁ
 \cf ɕqraʁ
 \dt 02/Sep/2015
 
-\lx ʑɣɤsɯfsaŋ
+\lx _ʑɣɤsɯfsaŋ
 \cf sɯfsaŋ
 \dt 24/Aug/2011
 
-\lx ʑɣɤsɯɣlɯɣ
+\lx _ʑɣɤsɯɣlɯɣ
 \cf lɯɣ
 \dt 31/Aug/2011
 
-\lx ʑɣɤsɯɣɲaʁ
+\lx _ʑɣɤsɯɣɲaʁ
 \cf sɯɣɲaʁ
 \dt 23/Nov/2011
 
-\lx ʑɣɤsɯɣʑi
+\lx _ʑɣɤsɯɣʑi
 \cf ʑi
 \dt 21/Jul/2014
 
-\lx ʑɣɤsɯmphɯr
+\lx _ʑɣɤsɯmphɯr
 \cf mphɯr
 \dt 21/Jul/2014
 
-\lx ʑɣɤsɯmto
+\lx _ʑɣɤsɯmto
 \cf mto
 
-\lx ʑɣɤsɯndo
+\lx _ʑɣɤsɯndo
 \cf ndo
 \dt 15/Jul/2016
 
-\lx ʑɣɤsɯntshɤβ
+\lx _ʑɣɤsɯntshɤβ
 \cf ntshɤβ
 \dt 14/Jul/2016
 
-\lx ʑɣɤsɯrku
+\lx _ʑɣɤsɯrku
 \cf rku
 \dt 11/Mar/2014
 
-\lx ʑɣɤsɯrtoʁ
+\lx _ʑɣɤsɯrtoʁ
 \cf rtoʁ
 \dt 04/Jan/2011
 
-\lx ʑɣɤsɯsat
+\lx _ʑɣɤsɯsat
 \cf sat
 \dt 28/Jan/2013
 
-\lx ʑɣɤsɯsŋaʁ
+\lx _ʑɣɤsɯsŋaʁ
 \cf sŋaʁ1
 \dt 26/Aug/2015
 
-\lx ʑɣɤsɯxɕɤt
+\lx _ʑɣɤsɯxɕɤt
 \cf sɯxɕɤt
 \dt 10/Mar/2011
 
-\lx ʑɣɤsɯxtshu
+\lx _ʑɣɤsɯxtshu
 \cf tshu
 \dt 17/Aug/2012
 
-\lx ʑɣɤsɯxtso
+\lx _ʑɣɤsɯxtso
 \cf tso
 \dt 31/Aug/2011
 
-\lx ʑɣɤsɯxtɯɣ
-\wav8 8_sWxtWG
+\lx _ʑɣɤsɯxtɯɣ
+\wav8 sWxtWG
 \ps vi
 \pdl dir 
 \pdv _
@@ -84805,16 +85236,16 @@
 \sy ʑɣɤχtɤt
 \dt 24/Aug/2012
 
-\lx ʑɣɤsɯχsu
+\lx _ʑɣɤsɯχsu
 \cf χsu
 
-\lx ʑɣɤsɯzdɯɣ
+\lx _ʑɣɤsɯzdɯɣ
 \cf sɯzdɯɣ
 \dt 14/Feb/2013
 
-\lx ʑɣɤta
+\lx _ʑɣɤta
 \wav vi-ZGAta
-\wav8 8_ZGAta
+\wav8 ZGAta
 \ps vi
 \sn 1
 \pdl dir 
@@ -84840,7 +85271,7 @@
 \cf ta
 \dt 19/Feb/2014
 
-\lx ʑɣɤtshi
+\lx _ʑɣɤtshi
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -84853,30 +85284,30 @@
 \cf tshi2
 \dt 12/Sep/2011
 
-\lx ʑɣɤtʂaβ
+\lx _ʑɣɤtʂaβ
 \cf tʂaβ
 \dt 30/Aug/2015
 
-\lx ʑɣɤwum
+\lx _ʑɣɤwum
 \cf wum
 \dt 21/Jul/2016
 
-\lx ʑɣɤxthom
+\lx _ʑɣɤxthom
 \cf xthom
 \dt 22/Mar/2014
 
-\lx ʑɣɤχpjɤt
+\lx _ʑɣɤχpjɤt
 \cf χpjɤt
 
-\lx ʑɣɤχtɕi
+\lx _ʑɣɤχtɕi
 \cf χtɕi
 \dt 08/Dec/2011
 
-\lx ʑɣɤznɯɲɤmkhe
+\lx _ʑɣɤznɯɲɤmkhe
 \cf nɯɲɤmkhe
 \dt 17/Aug/2012
 
-\lx ʑi
+\lx _ʑi
 \wav vi-Zi
 \wav vi-Zi2
 \wav vi-Zi3
@@ -84921,7 +85352,7 @@
 \gn 平静下来
 \dt 02/Nov/2014
 
-\lx ʑmbri
+\lx _ʑmbri
 \hm 1
 \wav vt-Zmbri
 \pdl dir 
@@ -84938,7 +85369,7 @@
 \cf mbri1
 \dt 04/Dec/2010
 
-\lx ʑŋga
+\lx _ʑŋga
 \wav vt-ZNga
 \ps vt
 \sn 1
@@ -84958,7 +85389,7 @@
 \cf ŋga
 \dt 15/Sep/2011
 
-\lx ʑŋgi
+\lx _ʑŋgi
 \wav vi-ZNgi
 \ps vi
 \pdl dir 
@@ -84970,7 +85401,7 @@
 \xn 我去背柴了
 \dt 15/Sep/2011
 
-\lx ʑŋgu
+\lx _ʑŋgu
 \wav vi-ZNgu
 \ps vi
 \pdl dir 
@@ -84986,9 +85417,9 @@
 \xn 船夫
 \dt 17/Jan/2014
 
-\lx ʑɴɢoʁ
+\lx _ʑɴɢoʁ
 \wav vt-ZNGoR
-\wav8 8_sWZNGoR
+\wav8 sWZNGoR
 \ps vt
 \pdl dir 
 \pdv kɤ-
@@ -85017,7 +85448,7 @@
 \xn 牛蒡子的果子钩在一起
 \dt 29/Apr/2014
 
-\lx ʑɴɢu
+\lx _ʑɴɢu
 \wav vt-ZNGu
 \ps vt
 \pdl dir 
@@ -85042,7 +85473,7 @@
 \gn 容易削
 \dt 17/Jan/2014
 
-\lx ʑo
+\lx _ʑo
 \hm 1
 \wav vi-Zo-b
 \ps vs
@@ -85066,7 +85497,7 @@
 \xn 他令自己变得像羽毛一样轻 
 \dt 18/Mar/2015
 
-\lx ʑru
+\lx _ʑru
 \wav vi-Zru
 \ps vs
 \sn 1
@@ -85087,7 +85518,7 @@
 \gn 觉得贵重
 \dt 15/Jul/2016
 
-\lx ʑur
+\lx _ʑur
 \wav vi-Zur
 \ps vs
 \pdl dir 
@@ -85101,7 +85532,7 @@
 \sy rtaʁ
 \dt 01/Nov/2011
 
-\lx ʑɯ
+\lx _ʑɯ
 \hm 1
 \ps vs
 \pdl dir 
@@ -85118,7 +85549,7 @@
 \cf mɤʑɯ
 \dt 04/Jul/2016
 
-\lx ʑɯɣ
+\lx _ʑɯɣ
 \hm 1
 \wav vi-ZWG
 \ps vs
@@ -85131,7 +85562,7 @@
 \sy rɲɯl
 \dt 15/Jul/2016
 
-\lx ʑɯɣ
+\lx _ʑɯɣ
 \hm 2
 \ps vt
 \ge dire bonsoir
@@ -85142,9 +85573,9 @@
 \et bʑugs
 \dt 12/Mar/2014
 
-\lx ʑɯm
+\lx _ʑɯm
 \wav vi-ZWm
-\wav8 8_ZWm
+\wav8 ZWm
 \ps vs
 \pdl dir 
 \pdv nɯ-

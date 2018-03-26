@@ -3,9 +3,22 @@
         MDF Isabelle:
             parent: MDF
             modèles:
-                ligne: ^\\(?P<balise>\w*)\s*(?P<métadonnées><([\w\s]+=[\w\"\s]+)+>)?\s*(?P<données>.*)
-                métadonnées: ([\w]+)=[\"\']?([\w\s]+)[\"\']?
-                style: (?P<ensemble>(?P<style>fl|fv|fn|fr|fe|fs|fi):(?P<texte>[\w,.;:!?/\[\]\(\){}\~‘’'–_*+-]+))|(?P<ensemble>\\|(?P<style>fl|fv|fn|fr|fe|fs|fi){(?P<texte>[\w\s\[\],.;:!?/\[\]\(\){}\~‘’'–_*+-]+)})
+                texte enrichi:
+                    - type: style
+                      origine: (?P<ensemble>(?P<style>fl|fn|fg|fr|fe|fs|fi|ax|vl):(?P<texte>.+?)(?P<fin>[\s\p{Punctuation}]))|(?P<ensemble>\|(?P<style>fl|fn|fg|fr|fe|fs|fi|ax|vl){(?P<texte>.+?)})
+                      but: <style type="\g<style>">\g<texte></style>\g<fin>
+                    - type: lien
+                      origine: (?P<ensemble>fv:/(?P<vedette>.+?)/)|(?P<ensemble>\|fv{/(?P<vedette>.+?)/})
+                      but: <lien cible="\g<cible>">\g<vedette></lien>
+                      défaut: <lien statut="brisé">\g<vedette></lien>
+                      cible: vedette
+                    - type: lien
+                      origine: (?P<ensemble>fv:(?P<vedette>.+?)(?P<fin>[[\s\p{Punctuation}]--[-]]))|(?P<ensemble>\|fv{(?P<vedette>.+?)})
+                      but: <lien cible="\g<cible>">\g<vedette></lien>
+                      défaut: <lien statut="brisé">\g<vedette></lien>
+                      cible: vedette
+                    - type: relation
+                      origine: (?P<ensemble>(?P<vedette>[^\d]+)(?P<numéro_dʼhomonyme>[\d]+)*)
             balises:
                 # Balises principales.
                 is:
@@ -22,6 +35,10 @@
                     abstraction: nom de groupe
                 # Balises liées aux sens.
                 at:
+                    abstraction: glose de relation sémantique
+                ce:
+                    abstraction: glose de relation sémantique
+                st:
                     abstraction: glose de relation sémantique
                 # Balises liées aux définitions.
                 dn:
@@ -41,6 +58,14 @@
                 # Balises liées aux étymologies.
                 ea:
                     abstraction: auteur d’étymologie
+                ng:
+                    abstraction: note grammaticale
+                    caractéristiques:
+                        langue: source 1
+                gt:
+                    abstraction: glose de note grammaticale
+                    caractéristiques:
+                        langue: cible 1
 
     sortie:
         LMF Isabelle:
@@ -112,7 +137,35 @@
                             - groupe        
                     spécial:
                         drapeaux:
-                            - correspondance   
+                            - correspondance
+                bloc note grammaticale:
+                    entité:
+                        nom: note grammaticale
+                    parent:
+                        nom:
+                            - entrée lexicale
+                            - sous-entrée lexicale
+                            - groupe
+                note grammaticale:
+                    entité:
+                        nom: représentation de texte
+                    parent:
+                        nom: note grammaticale
+                    préabstraction:
+                        nom: bloc note grammaticale
+                glose de note grammaticale:
+                    entité:
+                        nom: glose
+                    parent:
+                        nom: note grammaticale
+                morphologie:
+                    entité:
+                        nom: morphologie
+                    parent:
+                        nom:
+                            - entrée lexicale
+                            - sous-entrée lexicale
+                            - groupe
                 # Abstractions directement liées aux sous-entrées.   
                 glose de sous-entrée:
                     entité:
@@ -139,7 +192,12 @@
                     entité:
                         nom: glose
                     parent:
-                        nom: relation sémantique     
+                        nom: relation sémantique  
+                commentaire de relation sémantique:
+                    entité:
+                        nom: commentaire
+                    parent:
+                        nom: relation sémantique
                 # Abstractions directement liées aux étymologies.    
                 auteur d’étymologie:
                     entité:

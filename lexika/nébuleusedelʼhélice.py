@@ -5,6 +5,8 @@ import lexika
 import lexika.outils
 import gettext
 import locale
+import logging
+import pprint
 
 langue_système = locale.getlocale()[0].split("_")[0] if locale.getlocale()[0] else "fr"
 langue_préférée = gettext.translation("messages", localedir="internationalisation", languages=[langue_système], fallback=True)
@@ -29,6 +31,7 @@ class NébuleuseDeLʼHélice:
         self.générer_xml()
         if hasattr(self.configuration, "latex"):
             self.générer_latex()
+        self.afficher_statistiques()
 
     @lexika.outils.Chronométrer(_("génération du fichier XML"))
     def générer_xml(self):
@@ -45,3 +48,12 @@ class NébuleuseDeLʼHélice:
         """
         générateur_latex = lexika.outils.GénérateurLatex(self.configuration, self.créateur.créateur.dictionnaire)
         générateur_latex.obtenir_latex(self.configuration.latex["format"], self.configuration.latex["langue"])
+        
+    def afficher_statistiques(self):
+        """
+        Affiche diverses informations statistiques utiles.
+        """
+        texte_identifiants = "\n".join([f"{clef} : {valeur}" for clef, valeur in self.créateur.créateur.convertisseur_texte_enrichi.source_inverse.items()])
+        logging.info(_(f"Liste des identifiants et de leurs renvois :\n{texte_identifiants}\n"))
+        texte_balises = "\n".join([f"{clef} : {valeur}" for clef, valeur in self.créateur.créateur.balises.items()])
+        logging.info(_(f"Liste des balises et de leurs occurrences :\n{texte_balises}\n"))
