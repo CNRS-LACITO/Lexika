@@ -2,4 +2,4 @@ Lexika, logiciel libre multilingue et multiplateforme (développée en Python 3)
 
 Actuellement en travaux…
 
-Licence libre, mais il est interdit de changer la langue (le français dans sa version « la plus libre » avant les dégradations informatiques).
+Licence libre.
