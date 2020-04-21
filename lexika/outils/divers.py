@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+import lexika
+
 import cchardet
 import colorama
 import contextlib
@@ -8,8 +10,6 @@ import datetime
 import importlib.util
 import logging
 import os
-
-import lexika.outils
 
 
 def importer_module_personnalisé(nom, chemin):
@@ -46,8 +46,8 @@ class OuvrirFichier:
                 self.fichier = open(encoding=self.encodage_préféré, *self.args)
             else:
                 with open(self.chemin_accès, 'rb') as entrée:
-                    buffer = entrée.read()
-                    encodage = cchardet.detect(buffer)
+                    tampon = entrée.read()
+                    encodage = cchardet.detect(tampon)
                     if not encodage["encoding"]:
                         encodage = {"encoding": self.encodage_préféré, "confidence": 1}
                     logging.info(_(f"Ouverture du fichier « {self.chemin_accès.split(os.sep)[-1]} » avec l'encodage « {encodage['encoding']} »."))
@@ -182,7 +182,7 @@ def créer_journalisation(nom_fichier, seuil):
     gestionnaire_console = GestionnaireConsoleAmélioré()
 
     journalisateur.setLevel(10)
-    gestionnaire_fichier.setLevel(20)
+    gestionnaire_fichier.setLevel(50)
     gestionnaire_console.setLevel(seuil)
 
     gestionnaire_fichier.setFormatter(formateur)

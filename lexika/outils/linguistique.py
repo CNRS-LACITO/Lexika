@@ -41,14 +41,12 @@ class Entité:
     """
     Classe majeure qui concentre toutes les informations relatives à une entité linguistique (nom, valeur, caractéristiques, etc.).
     """
-    def __init__(self, nom: str, valeur: str = None, caractéristiques: dict = {}, structure: dict = {}, attribut: str = None, spécial: dict = {}, données: dict = {}):
+    def __init__(self, nom: str, valeur: str = None, caractéristiques: dict = {}, spécial: dict = {}, données: dict = {}):
         self.nom = nom
         self.valeur = valeur
-        self.caractéristiques = caractéristiques
-        self.structure = structure
-        self.attribut = attribut
-        self.spécial = spécial
-        self.données = données
+        self.caractéristiques = copy.deepcopy(caractéristiques)
+        self.spécial = copy.deepcopy(spécial)
+        self.données = copy.deepcopy(données)
         self.nom_classe = convertir_nom_classe(nom)
 
     def __repr__(self):
@@ -130,7 +128,7 @@ class ConvertisseurDeTexteEnrichi:
         Convertit les différents liens en balises XML.
         """
         for modèle in self.modèles_lien:
-            texte = modèle["origine"].sub(lambda bilan, modèle=modèle: self.convertir_lien_intra_expression(bilan, modèle), texte)
+            texte = modèle["origine"].sub(lambda bilan: self.convertir_lien_intra_expression(bilan, modèle), texte)
         return texte
 
     def convertir_styles(self, texte: str) -> str:
@@ -172,13 +170,13 @@ class ConvertisseurDeTexteEnrichi:
                 candidats.append(meilleur_candidat)
         return candidats
 
-    def convertir_lien_intra_expression(self, bilan, modèle: dict):
+    def convertir_lien_intra_expression(self, bilan, modèle: dict) -> str:
         """
         Convertit les liens dans les expressions rationnelles de remplacement.
         """
         cible = self.trouver_cible(bilan.group(modèle["cible"]))
         remplacements = {clef: valeur for clef, valeur in {**bilan.groupdict(), "cible": cible}.items() if valeur}
-        return self.modèle_groupe.sub(lambda bilan, remplacements=remplacements: remplacements.get(bilan.group("clef"), ""), modèle["but"] if cible else modèle["défaut"])
+        return self.modèle_groupe.sub(lambda bilan: remplacements.get(bilan.group("clef"), ""), modèle["but"] if cible else modèle["défaut"])
 
 
 class ConvertisseurDʼAbréviations:

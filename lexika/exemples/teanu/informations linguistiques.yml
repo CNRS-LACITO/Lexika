@@ -1,35 +1,59 @@
-﻿formats:
+formats:
     entrée:
         MDF Alex:
             parent: MDF
             modèles:
                 ligne: ^\\(?P<balise>\w*)\s*(?P<métadonnées><([\w\s]+=[\w\"\s]+)+>)?\s*(?P<données>.*)
                 métadonnées: ([\w]+)=[\"\']?([\w\s]+)[\"\']?
-                style: (?P<ensemble>(?P<style>fl|fv|fn|fr|fe|fs|fi):(?P<texte>[\w,.;:!?/\[\]\(\){}\~‘’'–_*+-]+))|(?P<ensemble>\\|(?P<style>fl|fv|fn|fr|fe|fs|fi){(?P<texte>[\w\s\[\],.;:!?/\[\]\(\){}\~‘’'–_*+-]+)})
+                texte enrichi:
+                    - type: style
+                      origine: (?P<ensemble>(?P<style>fl|fn|fg|fr|fe|fs|fi|ax):(?P<texte>.+?)(?P<fin>[\s\p{Punctuation}]))|(?P<ensemble>\|(?P<style>fl|fn|fg|fr|fe|fs|fi|ax){(?P<texte>.+?)})
+                      but: <style type="\g<style>">\g<texte></style>\g<fin>
+                    - type: lien
+                      origine: (?P<ensemble>(fv|vl):(?P<vedette>.+?)(?P<fin>[[\s\p{Punctuation}]--[-]]))|(?P<ensemble>\|(fv|vl){(?P<vedette>.+?)})
+                      but: <lien cible="\g<cible>">\g<vedette></lien>\g<fin>
+                      défaut: <lien statut="brisé">\g<vedette></lien>\g<fin>
+                      cible: vedette
+                    - type: lien
+                      origine: (?P<ensemble><(?P<type>phrasème(?!.<variante>)|variante)>(?P<vedette>.+?)</(?P=type)>)
+                      but: <\g<type>><lien cible="\g<cible>">\g<vedette></lien></\g<type>>
+                      défaut: <\g<type>><lien statut="brisé">\g<vedette></lien></\g<type>>
+                      cible: vedette
+                    - type: relation
+                      origine: (?P<ensemble>(?P<vedette>[^\d]+)(?P<numéro_dʼhomonyme>[\d]+)*)
+                    - type: floutage de lien
+                      origine: ([\[\]])
             balises:
                 # Balises principales.
                 lf:
                     abstraction: type de relation sémantique
                     drapeaux:
-                        factorisable: lv
+                        factorisation: lv
                 wr:
                     abstraction: nom de groupe
-
                 # Balises liées aux définitions.
                 we:
-                    abstraction: note
-                    caractéristiques:
-                        type: syntaxique
-                        langue: cible 1
-#                    drapeaux:
-#                        antéposition: de
+                    abstractions:
+                        - nom: type d’étiquette
+                          valeur: syntaxe
+                          caractéristiques:
+                              langue: cible 1
+                        - nom: étiquette
+                          caractéristiques:
+                              langue: cible 1
+                    drapeaux:
+                        antéposition: de
                 wn:
-                    abstraction: note
-                    caractéristiques:
-                        type: syntaxique
-                        langue: cible 2
-#                    drapeaux:
-#                        antéposition: dn
+                    abstractions:
+                        - nom: type d’étiquette
+                          valeur: syntaxe
+                          caractéristiques:
+                              langue: cible 2
+                        - nom: étiquette
+                          caractéristiques:
+                              langue: cible 2
+                    drapeaux:
+                        antéposition: dn
                 he:
                     abstraction: étiquette sémantique
                     caractéristiques:
@@ -42,9 +66,40 @@
                         langue: cible 2
 #                    drapeaux:
 #                        antéposition: dn
-
-
-
+                # Balises liées aux tableaux et encadrés.
+                tab:
+                    abstraction: nom de tableau
+                enc:
+                    abstraction: nom d’encadré
+                tiv:
+                    abstraction: titre
+                    caractéristiques:
+                        langue: source 1
+                tie:
+                    abstraction: titre
+                    caractéristiques:
+                        langue: cible 1
+                tin:
+                    abstraction: titre
+                    caractéristiques:
+                        langue: cible 2
+                con:
+                    abstraction: contenu structuré
+                conf:
+                    abstraction: contenu textuel
+                    caractéristiques:
+                        langue: cible 1
+                cona:
+                    abstraction: contenu textuel
+                    caractéristiques:
+                        langue: cible 2
+                rft:
+                    abstraction: référence de tableau
+                # Balises liées aux images.
+                pc:
+                    abstraction: chemin d’accès d’image
+                lg:
+                    abstraction: légende d’image
     sortie:
         LMF Alex:
             parent: LMF
@@ -59,13 +114,20 @@
                     nom: n
                     interjection: intj
                     préfixe: pf
-                    préposition: prep                  
+                    préposition: prep
                     particule: ptc
                     locatif: loc
                 type de relation sémantique:
                     synonyme: [Syn., Syn]
                     antonyme: [Ant., Ant]
                     renvoi: Cf.
+                    emprunt: Empr.
+                    inattestation: †
+                    inattestation sévère: ‡
+                    homonyme: Hom.
+                    classificateur possessif: ClPos
+                    intensificateur: Intsf.
+                    emphase: Emph.
             abstractions:
                 # Abstractions principales.
                 groupe:
@@ -82,8 +144,8 @@
                         nom: groupe
                         voie: impérieuse
                     spécial:
-                        drapeaux: 
-                            - renvoyable
+                        drapeaux:
+                            - identifiant
                 # Abstractions directement liées aux entrées.
                 classe grammaticale:
                     entité:
@@ -92,10 +154,10 @@
                         nom:
                             - entrée lexicale
                             - sous-entrée lexicale
-                            - groupe        
+                            - groupe
                     spécial:
                         drapeaux:
-                            - correspondance                
+                            - correspondance
                 # Abstractions directement liées aux sens.
                 sens:
                     entité:
@@ -108,15 +170,97 @@
                         conditions:
                             entité:
                                 nom: sous-entrée lexicale
-                                état: absent                
-                # Abstractions directement liées aux définitions.
-                note:
+                                état: absent
+                # Abstractions liées aux tableaux et encadrés.
+                tableau:
                     entité:
-                        nom: déclaration
-                        attribut: note
+                        nom: tableau
                     parent:
-                        nom: définition
-                        conditions:
-                            caractéristiques:
-                                égalité:
-                                    - langue
+                        nom:
+                            - entrée lexicale
+                            - sous-entrée lexicale
+                            - groupe
+                encadré:
+                    entité:
+                        nom: encadré
+                    parent:
+                        nom:
+                            - entrée lexicale
+                            - sous-entrée lexicale
+                            - groupe
+                nom de tableau:
+                    entité:
+                        nom: nom
+                    parent:
+                        nom: tableau
+                    préabstraction:
+                        nom: tableau
+                        voie: impérieuse
+                nom d’encadré:
+                    entité:
+                        nom: nom
+                    parent:
+                        nom: encadré
+                    préabstraction:
+                        nom: encadré
+                        voie: impérieuse
+                titre:
+                    entité:
+                        nom: titre
+                    parent:
+                        nom:
+                            - tableau
+                            - encadré
+                contenu structuré:
+                    entité:
+                        nom: contenu
+                        spécial:
+                            drapeaux:
+                                - texte enrichi
+                    parent:
+                        nom: tableau
+                contenu textuel:
+                    entité:
+                        nom: représentation de texte
+                        spécial:
+                            drapeaux:
+                                - texte enrichi
+                    parent:
+                        nom: encadré
+                référence de tableau:
+                    entité:
+                        nom: référence
+                    parent:
+                        nom: tableau
+                image:
+                    entité:
+                        nom: image
+                    parent:
+                        nom: entrée lexicale
+                chemin d’accès d’image:
+                    entité:
+                        nom: chemin d’accès
+                    parent:
+                        nom: image
+                    préabstraction:
+                        nom: image
+                bloc légende d’image:
+                    entité:
+                        nom: légende
+                    parent:
+                        nom: image
+                légende d’image:
+                    entité:
+                        nom: représentation de texte
+                        spécial:
+                            drapeaux:
+                                - texte enrichi
+                    parent:
+                        nom: légende
+                    préabstraction:
+                        nom: bloc légende d’image
+
+
+
+
+

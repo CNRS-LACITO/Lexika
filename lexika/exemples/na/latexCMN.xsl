@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0" xmlns:exslt="http://exslt.org/common" xmlns:regexp="http://exslt.org/regular-expressions">
     <xsl:output method="text" encoding="utf-8" indent="yes"/>
-    
+
     <xsl:variable name="languev">nru</xsl:variable>
     <xsl:variable name="langue1">cmn</xsl:variable>
     <xsl:variable name="langue2">fra</xsl:variable>
     <xsl:variable name="langue3">eng</xsl:variable>
-    
+
     <xsl:variable name="nombres" select="'0123456789'"/>
     <xsl:variable name="indices" select="'₀₁₂₃₄₅₆₇₈₉'"/>
 
@@ -26,8 +26,8 @@
         <langue><xsl:value-of select="$langue1"/></langue>
         <langue><xsl:value-of select="$langue2"/></langue>
         <langue><xsl:value-of select="$langue3"/></langue>
-    </xsl:variable>   
-             
+    </xsl:variable>
+
     <xsl:template match="RessourceLexicale">
         \documentclass[twoside,11pt]{article}
         \title{�titre}
@@ -87,7 +87,7 @@
         \newcommand{\sens}[1]{ \cerclé{#1} }
         \newenvironment{définition}{}{\hspace{5pt}}
         \newenvironment{déclaration}{}{}
-        \newenvironment{exemple}{\pprin{¶} }{\hspace{5pt}}        
+        \newenvironment{exemple}{\pprin{¶} }{\hspace{5pt}}
         \newenvironment{forme-mot}{}{}
         \newcommand{\étiquette}[1]{\pcmn{~【同义词】~\pnru{#1}}}
         \newcommand{\synonyme}[1]{\pcmn{~【同义词】~\pnru{#1}}}
@@ -129,20 +129,20 @@
         \end{multicols}
         \end{document}
     </xsl:template>
-    
+
     <xsl:template match="InformationsGlobales">
     </xsl:template>
 
     <xsl:template name="lettrine">
     </xsl:template>
-        
+
     <xsl:template name="index">
     </xsl:template>
 
     <xsl:template match="Dictionnaire">
         <xsl:for-each select="EntréeLexicale">
-            <xsl:variable name="caractère" select="substring(translate(Lemme/FormeÉcrite, '_^-‐‑*=', ''), 1, 1)"/>
-            <xsl:if test="$caractère != substring(translate(preceding-sibling::EntréeLexicale[1]/Lemme/FormeÉcrite, '_^-‐‑*=', ''), 1, 1)">
+            <xsl:variable name="caractère" select="substring(translate(Lemme/ReprésentationDeForme, '_^-‐‑*=', ''), 1, 1)"/>
+            <xsl:if test="$caractère != substring(translate(preceding-sibling::EntréeLexicale[1]/Lemme/ReprésentationDeForme, '_^-‐‑*=', ''), 1, 1)">
                 <xsl:text>\newpage</xsl:text>
                 <xsl:text>\caractère{</xsl:text>
                 <xsl:value-of select="$caractère"/>
@@ -151,39 +151,39 @@
             </xsl:if>
             <xsl:apply-templates select="."/>
         </xsl:for-each>
-      
+
     </xsl:template>
 
     <xsl:template match="EntréeLexicale">
         <xsl:text>&#10;</xsl:text>
         <xsl:text>\begin{entrée}</xsl:text>
         <xsl:text>{</xsl:text>
-            <xsl:apply-templates select="Lemme/FormeÉcrite"/>
+            <xsl:apply-templates select="Lemme/ReprésentationDeForme"/>
         <xsl:text>}{</xsl:text>
-        <xsl:if test="NuméroDHomonyme">                        
+        <xsl:if test="NuméroDHomonyme">
             <xsl:apply-templates select="NuméroDHomonyme"/>
         </xsl:if>
         <xsl:text>}{</xsl:text>
         <xsl:value-of select="@identifiant"/>
         <xsl:text>}</xsl:text>
-        <xsl:if test="Lemme/FormeDeSurface">                        
+        <xsl:if test="Lemme/FormeDeSurface">
             <xsl:apply-templates select="Lemme/FormeDeSurface"/>
         </xsl:if>
-        <xsl:if test="Lemme/FormePhonétique">                        
+        <xsl:if test="Lemme/FormePhonétique">
             <xsl:apply-templates select="Lemme/FormePhonétique"/>
         </xsl:if>
-        <xsl:if test="Lemme/Orthographe">                        
+        <xsl:if test="Lemme/Orthographe">
             <xsl:apply-templates select="Lemme/Orthographe"/>
         </xsl:if>
         <xsl:text>\newline</xsl:text>
-        <xsl:if test="ClasseGrammaticale">                   
+        <xsl:if test="ClasseGrammaticale">
             <xsl:apply-templates select="ClasseGrammaticale"/>
             <xsl:text>&#10;</xsl:text>
         </xsl:if>
         <xsl:if test="Lemme/Ton">
             <xsl:apply-templates select="Lemme/Ton"/>
         </xsl:if>
-        <xsl:if test="ÉtiquetteDUsage">                   
+        <xsl:if test="ÉtiquetteDUsage">
             <xsl:apply-templates select="ÉtiquetteDUsage"/>
         </xsl:if>
         <xsl:apply-templates select="Sens"/>
@@ -196,19 +196,19 @@
     <xsl:template match="NuméroDHomonyme">
         <xsl:value-of select="translate(., $nombres, $indices)"/>
     </xsl:template>
-    
+
     <xsl:template match="FormeDeSurface">
         <xsl:text>\formedesurface{</xsl:text>
         <xsl:value-of select="."/>
         <xsl:text>}</xsl:text>
     </xsl:template>
-    
+
     <xsl:template match="Orthographe">
         <xsl:text>\orthographe{</xsl:text>
         <xsl:value-of select="."/>
         <xsl:text>}</xsl:text>
     </xsl:template>
-            
+
     <xsl:template match="ClasseGrammaticale">
         <xsl:text>&#10;\classe{</xsl:text>
         <xsl:call-template name="traduction">
@@ -216,7 +216,7 @@
         </xsl:call-template>
         <xsl:text>}</xsl:text>
     </xsl:template>
-        
+
     <xsl:template match="Ton">
         <xsl:text>\ton{</xsl:text>
         <xsl:call-template name="remplacer_grec">
@@ -224,7 +224,7 @@
         </xsl:call-template>
         <xsl:text>}</xsl:text>
     </xsl:template>
-    
+
     <xsl:template match="ÉtiquetteDUsage">
         <xsl:text>&#10;\usage{</xsl:text>
         <xsl:call-template name="traduction">
@@ -232,7 +232,7 @@
         </xsl:call-template>
         <xsl:text>}</xsl:text>
     </xsl:template>
-                    
+
     <xsl:template match="Sens">
         <xsl:if test="NuméroDeSens">
             <xsl:apply-templates select="NuméroDeSens"/>
@@ -242,13 +242,13 @@
         <xsl:apply-templates select="RelationSémantique"/>
         <xsl:apply-templates select="Paradigme"/>
     </xsl:template>
-       
-    <xsl:template match="NuméroDeSens"> 
+
+    <xsl:template match="NuméroDeSens">
         <xsl:text>\sens{</xsl:text>
         <xsl:value-of select="."/>
         <xsl:text>}</xsl:text>
     </xsl:template>
-        
+
     <xsl:template match="Définition">
         <xsl:text>&#10;</xsl:text>
         <xsl:text>\begin{définition}</xsl:text>
@@ -260,7 +260,7 @@
         <xsl:apply-templates select="Déclaration"/>
         <xsl:text>\end{définition}</xsl:text>
     </xsl:template>
-        
+
     <xsl:template match="Exemple">
         <xsl:text>&#10;</xsl:text>
         <xsl:text>\begin{exemple}</xsl:text>
@@ -277,21 +277,21 @@
                 <xsl:text>\hspace{5pt}</xsl:text>
             </xsl:if>
         </xsl:for-each>
-        <xsl:text>\end{exemple}</xsl:text>        
+        <xsl:text>\end{exemple}</xsl:text>
     </xsl:template>
-    
+
     <xsl:template match="CommentaireDExemple">
         <xsl:if test=". = 'PHONO' or . = 'PROVERBE'">
-            <xsl:text>\commentaire{</xsl:text> 
+            <xsl:text>\commentaire{</xsl:text>
             <xsl:call-template name="traduction">
                 <xsl:with-param name="expression" select="."/>
             </xsl:call-template>
             <xsl:text>}</xsl:text>
         </xsl:if>
     </xsl:template>
-        
+
     <xsl:template match="Paradigme">
-        <xsl:text>\paradigme{</xsl:text> 
+        <xsl:text>\paradigme{</xsl:text>
         <xsl:call-template name="traduction">
             <xsl:with-param name="expression" select="CatégorieParadigmatique"/>
         </xsl:call-template>
@@ -299,38 +299,40 @@
             <xsl:value-of select="ReprésentationDeForme"/>
         <xsl:text>}</xsl:text>
     </xsl:template>
-            
+
     <xsl:template match="RelationSémantique">
-        <xsl:text>\relationsémantique{</xsl:text> 
+        <xsl:text>\relationsémantique{</xsl:text>
         <xsl:call-template name="traduction">
             <xsl:with-param name="expression" select="Type"/>
         </xsl:call-template>
+        <xsl:text>}{\lien{</xsl:text>
+        <xsl:value-of select="Cible/@cible"/>
         <xsl:text>}{</xsl:text>
-            <xsl:value-of select="translate(Cible, $nombres, $indices)"/>
-        <xsl:text>}</xsl:text>
+        <xsl:value-of select="translate(Cible, $nombres, $indices)"/>
+        <xsl:text>}}</xsl:text>
     </xsl:template>
-    
+
     <xsl:template match="Étymologie">
-        <xsl:text>\étymologie{</xsl:text> 
+        <xsl:text>\étymologie{</xsl:text>
             <xsl:apply-templates select="Étymon"/>
-        <xsl:text>}</xsl:text> 
+        <xsl:text>}</xsl:text>
     </xsl:template>
 
     <xsl:template match="Étymon">
-        <xsl:apply-templates select="FormeÉcrite"/>
+        <xsl:apply-templates select="ReprésentationDeForme"/>
     </xsl:template>
 
-    <xsl:template match="FormeÉcrite">
+    <xsl:template match="ReprésentationDeForme">
         <xsl:call-template name="remplacer_grec">
             <xsl:with-param name="expression" select="."/>
         </xsl:call-template>
     </xsl:template>
-    
+
     <xsl:template name="remplacer_grec">
         <xsl:param name="expression"/>
         <xsl:value-of select="regexp:replace(regexp:replace(regexp:replace($expression, 'α', 'g', '\\textsubscript{a}'), 'β', 'g', '\\textsubscript{b}'), 'γ', 'g', '\\textsubscript{c}')"/>
     </xsl:template>
-    
+
     <xsl:template match="lien">
         <xsl:text>\lien{</xsl:text>
         <xsl:value-of select="@cible|@target"/>
@@ -346,7 +348,7 @@
         <xsl:value-of select="."/>
         <xsl:text>}</xsl:text>
     </xsl:template>
-        
+
     <xsl:template name="traduction">
         <xsl:param name="expression"/>
         <xsl:choose>
@@ -430,7 +432,4 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
-    
-
-
 </xsl:stylesheet>

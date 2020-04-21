@@ -1,21 +1,20 @@
  #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import lexika.outils
+import lexika
+
 import multiprocessing, multiprocessing.managers
 
 
-class NébuleuseDʼOméga:
+class NébuleuseDʼOméga(lexika.outils.ClasseConfigurée):
     """
     Classe qui permet de préparer la création de dictionnaires avec la gestion du parallélisme.
     """
-    def __init__(self,
-                 configuration: dict,
-                 paralléliser: bool = True):
-        self.configuration = configuration
+    def __init__(self, paralléliser: bool = True):
+        super().__init__()
         self.paralléliser = paralléliser
-        self.lecteur = lexika.outils.Lecteur(self.configuration.base["chemin source"])
-        self.créateur = lexika.NébuleuseDʼOrion(self.configuration)  
+        self.lecteur = lexika.outils.Lecteur(self.configuration.informations["base"]["chemin source"])
+        self.créateur = lexika.NébuleuseDʼOrion()
         self.nombre_cœurs = multiprocessing.cpu_count()
         self.gestionnaire = multiprocessing.Manager()
         self.résultats = self.gestionnaire.dict({"entrées": self.gestionnaire.dict(), "identifiants": self.gestionnaire.dict(), "balises": self.gestionnaire.dict()})
@@ -30,7 +29,7 @@ class NébuleuseDʼOméga:
             self.lecteur.lire_source()
             self.créateur.lire_données(self.lecteur.données)
         else:   
-            balise_bloc = [informations["drapeaux"]["bloc"] for balise, informations in self.configuration.informations_entrée["balises"].items() if "bloc" in informations.get("drapeaux", {})][0]
+            balise_bloc = [informations["drapeaux"]["bloc"] for balise, informations in self.configuration.informations["entrée"]["balises"].items() if "bloc" in informations.get("drapeaux", {})][0]
             self.lecteur.lire_source(balise_bloc)
             self.lecteur.partitionner(nombre_cœurs)
             if "en-tête" in self.lecteur.données:

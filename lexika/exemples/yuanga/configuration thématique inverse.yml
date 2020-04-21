@@ -1,0 +1,482 @@
+configuration:
+  chemin source: ./informations linguistiques.yml
+base:
+  chemin source: ./yuanga.lex
+  format d’entrée: MDF Isabelle
+  format de sortie: LMF Isabelle
+  identifiant: yuanga
+général:
+  nom: Essai d’un dictionnaire yuanga
+  auteur: Isabelle Bril
+  commentaire: LMF-α
+  ordre lexicographique:
+  - [[a, ã], b, bw, [c, ç], ch, d, dr, [e, è, ẽ, ê], f, fh, g, h, [i, î], j, k, kh, l, lh, m, mh, mw, mhw, [ń, n], [ńh, nh], ny, nhy, [o, ò, õ, ô, ö], p, ph, pw, phw, r, rh, s, sh, t, th, tr, thr, [u, û], v, vh, vw, w, wh, x, y, yh, z, zh]
+  ordre lexicographique inverse:
+  - [[a, à, â], b, [c, ç], d, [e, é, è, ê], f, g, h, [i, î], j, k, l, m, n, [o, ô], p, q, r, s, t, [u, û], v, w, x, [y], z]
+  ordre thématique:
+    numérotation:
+      sens: normal
+      séparateur: "."
+    hiérarchie:
+    - valeur: "Le corps : humains et animaux"
+      enfants:
+      - valeur: "Anatomie"
+        enfants:
+        - valeur: "Corps humain"
+          identifiant: corps
+          enfants:
+          - valeur: "Parties du corps humain : doigts, orteil"
+            identifiant: corps_doigt
+        - valeur: "Corps animal"
+          identifiant: corps_animaux
+      - valeur: "Fonctions naturelles"
+        enfants:
+        - valeur: "Fonctions naturelles humaines"
+          identifiant: fonct.nat
+        - valeur: "Fonctions naturelles des animaux"
+          identifiant: fonct.nat.animaux
+      - valeur: "Santé, maladie, médecine"
+        enfants:
+        - valeur: "Santé, maladie"
+          identifiant: santé
+        - valeur: "Remèdes, médecine"
+          identifiant: médecine
+      - valeur: "Vêtements, parure, soins du corps"
+        enfants:
+        - valeur: "Vêtements, parure"
+          identifiant: habillement
+        - valeur: "Soins du corps"
+          identifiant: soin
+      - valeur: "Positions, déplacements, mouvements, actions"
+        enfants:
+        - valeur: "Préfixes et verbes de position"
+          identifiant: position
+        - valeur: "Verbes de déplacement et de mouvement"
+          enfants:
+          - valeur: "Verbes de déplacement et moyens de déplacement"
+            identifiant: déplacement
+          - valeur: "Verbes de mouvement"
+            identifiant: mouvement
+          - valeur: "Moyens de locomotion et chemins"
+            identifiant: déplacement_moyen
+        - valeur: "Verbes d'action (en général)"
+          identifiant: action
+        - valeur: "Portage"
+          identifiant: portage
+        - valeur: "Mouvements ou actions faits avec le corps"
+          identifiant: action_corps
+        - valeur: "Mouvements ou actions avec la tête, les yeux, la bouche"
+          identifiant: action.tête
+        - valeur: "Verbes d'action faite par des animaux"
+          identifiant: action_corps_animaux
+        - valeur: "Interaction avec les animaux"
+          identifiant: interaction_animaux
+        - valeur: "Actions liées aux éléments (liquide, fumée)"
+          identifiant: action eau, liquide, fumée
+        - valeur: "Actions liées aux plantes"
+          identifiant: action.plantes
+        - valeur: "Manière de faire l’action : verbes et adverbes de manière"
+          identifiant: grammaire_manière
+        - valeur: "Actions avec un instrument, un outil"
+          identifiant: action.outils
+    - valeur: "Caractéristiques et propriétés"
+      enfants:
+      - valeur: "Sons, bruits"
+        identifiant: son
+      - valeur: "Couleurs"
+        identifiant: couleur
+      - valeur: "Caractéristiques et propriétés des personnes"
+        identifiant: caract.personne
+      - valeur: "Caractéristiques et propriétés des animaux"
+        identifiant: caract.animal
+      - valeur: "Caractéristiques et propriétés des objets"
+        enfants:
+        - valeur: "Description des objets, formes, consistance, taille"
+          identifiant: caract.objet
+        - valeur: "Configuration des objets"
+          identifiant: configuration
+    - valeur: "Techniques"
+      enfants:
+      - valeur: "Habitat"
+        enfants:
+        - valeur: "Habitat"
+          identifiant: habitat
+        - valeur: "Types de maison, architecture de la maison"
+          identifiant: maison
+        - valeur: "Objets et meubles de la maison"
+          identifiant: maison.objet
+      - valeur: "Cultures, plantations, récoltes, végétation"
+        enfants:
+        - valeur: "Cultures, techniques, boutures"
+          identifiant: cultures
+        - valeur: "Objets, outils"
+          identifiant: cultures_outil
+        - valeur: "Types de champs"
+          identifiant: cultures_champ
+        - valeur: "Végétation"
+          identifiant: végétation
+      - valeur: "Chasse guerre"
+        enfants:
+        - valeur: "Armes"
+          identifiant: armes
+        - valeur: "Chasse"
+          identifiant: chasse
+        - valeur: "Guerre"
+          identifiant: guerre
+      - valeur: "Pêche"
+        identifiant: pêche
+      - valeur: "Navigation"
+        identifiant: navigation
+      - valeur: "Feu : objets et actions liés au feu"
+        identifiant: feu
+      - valeur: "Cuisine, alimentation"
+        enfants:
+        - valeur: "Ustensiles"
+          identifiant: ustensile
+        - valeur: "Préparation des aliments; modes de préparation et de cuisson"
+          identifiant: prép.aliments
+        - valeur: "Aliments, alimentation"
+          identifiant: nourriture
+        - valeur: "Goût des aliments"
+          identifiant: nourriture_goût
+        - valeur: "Tabac, actions liées au tabac"
+          identifiant: nourriture_tabac
+      - valeur: "Tressage (nattes, paniers), cordes, noeuds, paquets"
+        enfants:
+        - valeur: "Tressage"
+          identifiant: tressage
+        - valeur: "Noeuds"
+          identifiant: noeud
+        - valeur: "Nattes"
+          identifiant: natte
+        - valeur: "Paniers"
+          identifiant: paniers
+        - valeur: "Cordes, cordages"
+          identifiant: cordes
+        - valeur: "Couture"
+          identifiant: couture
+      - valeur: "Bois et travail du bois, outils"
+        enfants:
+        - valeur: "Bois"
+          identifiant: bois
+        - valeur: "Travail bois"
+          identifiant: bois_travail
+      - valeur: "Outils, instruments, matériaux, pont"
+        enfants:
+        - valeur: "Outils"
+          identifiant: outils
+        - valeur: "Instruments et ponts"
+          enfants:
+          - valeur: "Instruments"
+            identifiant: instrument
+          - valeur: "Ponts"
+            identifiant: instrument_pont
+    - valeur: "Individu - société"
+      enfants:
+      - valeur: "Cours de la vie"
+        identifiant: étapes.vie
+      - valeur: "Fonctions intellectuelles, sentiments"
+        enfants:
+        - valeur: "Fonctions intellectuelles"
+          identifiant: fonct.intell.
+        - valeur: "Sentiments"
+          identifiant: sentiments
+      - valeur: "Parenté"
+        enfants:
+        - valeur: "Parenté"
+          identifiant: parenté
+        - valeur: "Appellation parenté"
+          identifiant: parenté_appellation
+        - valeur: "Alliance"
+          identifiant: parenté_alliance
+        - valeur: "Couples de parenté"
+          identifiant: parenté_couple
+      - valeur: "Organisation sociale, richesses, dons, échanges"
+        enfants:
+        - valeur: "Société et organisation sociale"
+          enfants:
+          - valeur: "Société"
+            identifiant: société
+          - valeur: "Organisation sociale"
+            identifiant: société_organisation
+        - valeur: "Relations et interaction sociales"
+          identifiant: interaction
+        - valeur: "Richesses, monnaies traditionnelles"
+          identifiant: richesses
+        - valeur: "Dons, échanges, achat et vente, vol"
+          identifiant: échanges
+        - valeur: "Objets coutumiers"
+          identifiant: coutumes_objet
+        - valeur: "Coutumes, dons coutumiers"
+          identifiant: coutumes
+      - valeur: "Religion, représentations religieuses"
+        identifiant: religion
+      - valeur: "Fêtes, danse, chant, jeux"
+        enfants:
+        - valeur: "Danses"
+          identifiant: danse
+        - valeur: "Musique, instruments de musique"
+          identifiant: musique
+        - valeur: "Jeux divers"
+          identifiant: jeu
+      - valeur: "Traditions orales, relations inter-individuelles"
+        enfants:
+        - valeur: "Tradition orale"
+          identifiant: discours_tradition_orale
+        - valeur: "Discours, échanges verbaux"
+          identifiant: discours
+      - valeur: "Découpage du temps, jours, saisons"
+        enfants:
+        - valeur: "Temps"
+          identifiant: temps
+        - valeur: "Adverbes déictiques de temps"
+          identifiant: temps_deixis
+        - valeur: "Découpage du temps"
+          identifiant: temps_découpage
+        - valeur: "Jours"
+          identifiant: temps_jours
+        - valeur: "Saisons"
+          identifiant: temps_saison
+      - valeur: "Orientation, direction, localisation"
+        enfants:
+        - valeur: "Directions"
+          identifiant: grammaire_direction
+        - valeur: "Directionnels"
+          identifiant: grammaire_directionnel
+        - valeur: "Localisation"
+          identifiant: grammaire_locatif
+          enfants:
+          - valeur: "Noms locatifs"
+            identifiant: nom_locatif
+          - valeur: "Verbes locatifs"
+            identifiant: verbe_locatif
+    - valeur: "Nature"
+      enfants:
+      - valeur: "Ciel"
+        enfants:
+        - valeur: "Astres"
+          identifiant: astre
+        - valeur: "Vents"
+          identifiant: vent
+        - valeur: "Phénomènes atmosphériques et naturels"
+          identifiant: temps_atmosphérique
+        - valeur: "Température"
+          identifiant: température
+      - valeur: "Terre; les terrains et leur constitution"
+        enfants:
+        - valeur: "Pierre, roche"
+          identifiant: terrain_pierre
+        - valeur: "Terre"
+          identifiant: terrain_terre
+        - valeur: "Topographie"
+          identifiant: topographie
+      - valeur: "Eau (eau douce, mer)"
+        enfants:
+        - valeur: "Eau"
+          identifiant: eau
+        - valeur: "Marées"
+          identifiant: eau_marée
+        - valeur: "Mer"
+          identifiant: eau_mer
+        - valeur: "Coraux"
+          identifiant: eau_mer_plante
+        - valeur: "Mer : topographie"
+          identifiant: eau_topographie
+      - valeur: "Matière, matériaux"
+        identifiant: matière
+      - valeur: "Lumière et obscurité"
+        identifiant: lumière
+    - valeur: "Zoologie"
+      enfants:
+      - valeur: "Oiseaux"
+        identifiant: oiseau
+      - valeur: "Mammifères"
+        enfants:
+        - valeur: "Mammifères"
+          identifiant: mammifères
+        - valeur: "Mammifères marins"
+          identifiant: mammifères marins
+      - valeur: "Reptiles"
+        enfants:
+        - valeur: "Reptiles"
+          identifiant: reptile
+        - valeur: "Reptiles marins"
+          identifiant: reptile_marin
+      - valeur: "Crustacés, crabes"
+        identifiant: crustacés
+      - valeur: "Echinodermes, céphalopodes"
+        enfants:
+        - valeur: "Echinodermes"
+          identifiant: échinoderme
+        - valeur: "Céphalopodes"
+          identifiant: céphalopode
+      - valeur: "Mollusques"
+        identifiant: mollusque
+      - valeur: "Poissons"
+        identifiant: poisson
+      - valeur: "Anguilles"
+        identifiant: anguille
+      - valeur: "Insectes et vers"
+        identifiant: insecte
+    - valeur: "Botanique"
+      enfants:
+      - valeur: "Arbre"
+        identifiant: arbre
+      - valeur: "Description des végétaux"
+        enfants:
+        - valeur: "Noms des plantes"
+          identifiant: plantes
+        - valeur: "Parties de plantes"
+          identifiant: plantes_partie
+        - valeur: "Processus liés aux plantes"
+          identifiant: plantes_processus
+      - valeur: "Cocotiers"
+        identifiant: arbre_cocotier
+      - valeur: "Ignames"
+        identifiant: igname
+      - valeur: "Taros"
+        identifiant: taro
+      - valeur: "Bananiers et bananes"
+        identifiant: bananier
+      - valeur: "Cucurbitacées"
+        identifiant: cucurbitacée
+      - valeur: "Fruits"
+        identifiant: plantes.fruit
+    - valeur: "Classificateurs"
+      enfants:
+      - valeur: "Préfixes classificateurs sémantiques"
+        identifiant: classificateur sémantique
+      - valeur: "Préfixes classificateurs possessifs"
+        identifiant: classificateur possessif
+      - valeur: "Préfixes classificateurs possessifs de la nourriture"
+        identifiant: classificateur possessif_nourriture
+      - valeur: "Préfixes classificateurs numériques"
+        identifiant: classificateur numérique
+    - valeur: "Numération"
+      enfants:
+      - valeur: "Numéraux cardinaux"
+        identifiant: grammaire_numéral
+      - valeur: "Numéraux ordinaux"
+        identifiant: grammaire_ordinal
+    - valeur: "Quantificateurs et marques de degré"
+      enfants:
+      - valeur: "Quantificateurs"
+        identifiant: grammaire_quantificateur
+      - valeur: "Marques de degré"
+        identifiant: grammaire_quantificateur_degré
+      - valeur: "Distributifs"
+        identifiant: grammaire_distributif
+      - valeur: "Dispersifs"
+        identifiant: grammaire_dispersif
+    - valeur: "Eléments grammaticaux"
+      enfants:
+      - valeur: "Adverbe"
+        identifiant: grammaire_adverbe
+      - valeur: "Agent"
+        identifiant: grammaire_agent
+      - valeur: "Articles"
+        identifiant: grammaire_article
+      - valeur: "Aspect"
+        identifiant: grammaire_aspect
+      - valeur: "Temps"
+        identifiant: grammaire_temps
+      - valeur: "Modalité, verbes modaux"
+        identifiant: grammaire_modalité
+      - valeur: "Marques assertives"
+        identifiant: grammaire_assertif
+      - valeur: "Causatif"
+        identifiant: grammaire_causatif
+      - valeur: "Comparaison"
+        identifiant: grammaire_comparaison
+      - valeur: "Conjonction"
+        identifiant: grammaire_conjonction
+      - valeur: "Contraste"
+        identifiant: grammaire_contraste
+      - valeur: "Démonstratifs"
+        identifiant: grammaire_démonstratif
+      - valeur: "Dérivation"
+        identifiant: grammaire_dérivation
+      - valeur: "Prédicats existentiels"
+        identifiant: grammaire_existentiel
+      - valeur: "Injonction"
+        identifiant: grammaire_injonction
+      - valeur: "Interjection et interpellation"
+        enfants:
+        - valeur: "Interjection"
+          identifiant: discours_interjection
+        - valeur: "Interpellation"
+          identifiant: grammaire_interpellation
+      - valeur: "Interrogatifs"
+        identifiant: grammaire_interrogatif
+      - valeur: "Négation"
+        identifiant: grammaire_négation
+      - valeur: "Négation existentielle"
+        identifiant: grammaire_négation_existentiel
+      - valeur: "Marque de nombre"
+        identifiant: grammaire_nombre
+      - valeur: "Relateurs et relateurs possessifs"
+        identifiant: grammaire_relateur_possessif
+      - valeur: "Affixes dérivationnels"
+        identifiant: grammaire_dérivation
+      - valeur: "Préfixes compositionnels sémantiques"
+        enfants:
+        - valeur: "Préfixes sémantiques divers"
+          identifiant: grammaire_préfixe_sémantique
+        - valeur: "Préfixes sémantiques de position"
+          identifiant: grammaire_préfixe_sémantique_position
+        - valeur: "Préfixes sémantiques d’action"
+          identifiant: grammaire_préfixe_sémantique_action
+        - valeur: "Préfixes sémantiques de déplacement"
+          identifiant: grammaire_préfixe_sémantique_déplacement
+      - valeur: "Prépositions"
+        identifiant: grammaire_préposition
+      - valeur: "Présentatifs"
+        identifiant: grammaire_présentatif
+      - valeur: "Pronoms"
+        identifiant: grammaire_pronom
+      - valeur: "Réciproque"
+        identifiant: grammaire_réciproque
+        enfants:
+        - valeur: "Réciproque collectif"
+          identifiant: grammaire_réciproque_collectif
+      - valeur: "Réfléchi, intensificateur"
+        enfants:
+        - valeur: "Réfléchi"
+          identifiant: grammaire_réfléchi
+        - valeur: "Intensificateur"
+          identifiant: grammaire_réfléchi_intensificateur
+      - valeur: "Marques restrictives"
+        identifiant: grammaire_restrictif
+      - valeur: "Suffixes transitifs"
+        identifiant: grammaire_suff.transitif
+      - valeur: "Structure informationnelle"
+        identifiant: grammaire_IS
+      - valeur: "Vocatifs"
+        identifiant: grammaire_vocatif
+langues:
+- code: nua
+  type de caractères: latin
+  autoglossonyme: yuanga-zuanga
+  glossonyme: yuanga-zuanga
+  statut: source
+- code: fra
+  type de caractères: latin
+  autoglossonyme: français
+  glossonyme: français
+  statut: cible
+- code: eng
+  type de caractères: latin
+  autoglossonyme: English
+  glossonyme: anglais
+  statut: cible
+xml:
+  chemin cible: ./yuanga.xml
+  format: α #αβγ
+  langue: fra
+  XSL: style.xsl
+  tri: normal
+latex:
+  format: standard
+  chemin du gabarit: ./latex thématique inverse.xsl
+  langue: fra
+  chemin cible: ./résultats/yuanga thématique inverse.tex

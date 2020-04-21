@@ -178,8 +178,8 @@
             </li>
             <li class="divider"></li>
             <xsl:for-each select="Dictionnaire/EntréeLexicale">
-                <xsl:variable name="lettrine" select="substring(translate(translate(Lemme/FormeÉcrite, '_^~-([)]', ''), $majuscules, $minuscules), 1, 1)"/>
-                <xsl:if test="$lettrine != substring(translate(translate(preceding-sibling::EntréeLexicale[1]/Lemme/FormeÉcrite, '_^~-([)]', ''), $majuscules, $minuscules), 1, 1)">
+                <xsl:variable name="lettrine" select="substring(translate(translate(Lemme/ReprésentationDeForme, '_^~-([)]', ''), $majuscules, $minuscules), 1, 1)"/>
+                <xsl:if test="$lettrine != substring(translate(translate(preceding-sibling::EntréeLexicale[1]/Lemme/ReprésentationDeForme, '_^~-([)]', ''), $majuscules, $minuscules), 1, 1)">
                     <li>
                         <xsl:element name="a">
                             <xsl:attribute name="class">nav-link</xsl:attribute>
@@ -213,7 +213,7 @@
     <xsl:template name="index">
         <ul id="liste-index" class="nav flex-column nav-pills">
             <xsl:for-each select="Dictionnaire/EntréeLexicale">
-                <xsl:if test="$caractère = '*' or $caractère != '*' and substring(Lemme/FormeÉcrite, 1, 1) = $caractère">
+                <xsl:if test="$caractère = '*' or $caractère != '*' and substring(Lemme/ReprésentationDeForme, 1, 1) = $caractère">
                     <li class="nav-item">
                         <xsl:element name="a">
                             <xsl:attribute name="class">nav-link</xsl:attribute>
@@ -221,7 +221,7 @@
                                 <xsl:text>#</xsl:text>
                                 <xsl:value-of select="@identifiant"/>
                             </xsl:attribute>
-                            <xsl:value-of select="Lemme/FormeÉcrite"/><sub class="homonyme"><xsl:value-of select="NuméroDHomonyme"/></sub><br/>
+                            <xsl:value-of select="Lemme/ReprésentationDeForme"/><sub class="homonyme"><xsl:value-of select="NuméroDHomonyme"/></sub><br/>
                         </xsl:element>
                     </li>
                 </xsl:if>
@@ -234,14 +234,14 @@
     </xsl:template>
 
     <xsl:template match="EntréeLexicale">
-        <xsl:if test="$caractère = '*' or $caractère != '*' and substring(Lemme/FormeÉcrite, 1, 1) = $caractère">
+        <xsl:if test="$caractère = '*' or $caractère != '*' and substring(Lemme/ReprésentationDeForme, 1, 1) = $caractère">
             <div class="entrée">
                 <xsl:attribute name="id">
                     <xsl:value-of select="@identifiant"/>
                 </xsl:attribute>
                 <p class="en-tête_entrée">
                     <span class="vedette">
-                        <xsl:apply-templates select="Lemme/FormeÉcrite"/>
+                        <xsl:apply-templates select="Lemme/ReprésentationDeForme"/>
                     </span>
                     <xsl:if test="NuméroDHomonyme">
                         <xsl:apply-templates select="NuméroDHomonyme"/>
@@ -282,7 +282,7 @@
             </xsl:attribute>
             <p class="en-tête_sous-entrée">
                 <span class="vedette">
-                    <xsl:apply-templates select="Lemme/FormeÉcrite"/>
+                    <xsl:apply-templates select="Lemme/ReprésentationDeForme"/>
                 </span>
                 <xsl:if test="NuméroDHomonyme">
                     <xsl:apply-templates select="NuméroDHomonyme"/>
@@ -403,7 +403,7 @@
         <span class="étymon">
             <xsl:apply-templates select="Langue"/>
             <span class="forme_étymon">
-                <xsl:apply-templates select="FormeÉcrite"/>
+                <xsl:apply-templates select="ReprésentationDeForme"/>
             </span>
             <xsl:apply-templates select="Glose"/>
         </span>
@@ -421,7 +421,7 @@
         </span>
     </xsl:template>
 
-    <xsl:template match="FormeÉcrite">
+    <xsl:template match="ReprésentationDeForme">
         <xsl:value-of select="node()"/>
     </xsl:template>
 

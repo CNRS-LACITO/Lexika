@@ -1,7 +1,7 @@
 configuration:
-  chemin source: exemples/mwotlap/informations linguistiques.yml
+  chemin source: informations linguistiques.yml
 base:
-  chemin source: exemples/mwotlap/mwotlap.lex
+  chemin source: mwotlap.lex
   format d’entrée: MDF Alex
   format de sortie: LMF Alex
   identifiant: mwotlap
@@ -12,28 +12,28 @@ général:
   ordre lexicographique:
       - [a, b, d, e, ē, g, h, i, k, l, m, m̄, n, [̄n, n̄], o, ō, p, q, r, s, t, u, v, w, y]
 langues:
-  mlv:
-      type de caractères: latin
-      autoglossonyme: mwotlap
-      glossonyme: mwotlap
-      statut: source
-  fra:
-      type de caractères: latin
-      autoglossonyme: français
-      glossonyme: français
-      statut: cible
-  eng:
-      type de caractères: latin
-      autoglossonyme: English
-      glossonyme: anglais
-      statut: cible
-  bis:
-      type de caractères: latin
-      autoglossonyme: Bislama
-      glossonyme: bichelamar
-      statut: cible
-XML:
-  chemin cible: exemples/mwotlap/mwotlap.xml
+- code: mlv
+  type de caractères: latin
+  autoglossonyme: mwotlap
+  glossonyme: mwotlap
+  statut: source
+- code: fra
+  type de caractères: latin
+  autoglossonyme: français
+  glossonyme: français
+  statut: cible
+- code: eng
+  type de caractères: latin
+  autoglossonyme: English
+  glossonyme: anglais
+  statut: cible
+- code: bis
+  type de caractères: latin
+  autoglossonyme: Bislama
+  glossonyme: bichelamar
+  statut: cible
+xml:
+  chemin cible: mwotlap.xml
   format: α #αβγ
   langue: fra
   XSL: style.xsl

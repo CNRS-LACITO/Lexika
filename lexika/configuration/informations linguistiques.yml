@@ -15,7 +15,7 @@
                       défaut: <lien statut="brisé">\g<vedette></lien>\g<fin>
                       cible: vedette
                     - type: relation
-                      origine: (?P<ensemble>(?P<vedette>[^\d]+)(?P<numéro_dʼhomonyme>[\d]+)*)            
+                      origine: (?P<ensemble>(?P<vedette>[^\d]+)(?P<numéro_dʼhomonyme>[\d]+)*)
             balises:
                 # Balises générales.
                 _sh:
@@ -24,11 +24,11 @@
                 lx:
                     abstraction: vedette
                     drapeaux:
-                        bloc: \lx       
+                        bloc: \lx
                 se:
                     abstraction: sous-vedette
                 # Balises liées aux entrées.
-                va: 
+                va:
                     abstraction: variante lexicale
                 hm:
                     abstraction: numéro d’homonyme
@@ -50,6 +50,69 @@
                     abstraction: forme paradigmatique
                 mr:
                     abstraction: composant morphologique
+                1s:
+                    abstractions:
+                        - nom: forme de mot
+                        - nom: nombre grammatical
+                          valeur: singulier
+                        - nom: personne grammaticale
+                          valeur: première
+                2s:
+                    abstractions:
+                        - nom: forme de mot
+                        - nom: nombre grammatical
+                          valeur: singulier
+                        - nom: personne grammaticale
+                          valeur: deuxième
+                3s:
+                    abstractions:
+                        - nom: forme de mot
+                        - nom: nombre grammatical
+                          valeur: singulier
+                        - nom: personne grammaticale
+                          valeur: troisième
+                1d:
+                    abstractions:
+                        - nom: forme de mot
+                        - nom: nombre grammatical
+                          valeur: duel
+                        - nom: personne grammaticale
+                          valeur: première
+                2d:
+                    abstractions:
+                        - nom: forme de mot
+                        - nom: nombre grammatical
+                          valeur: duel
+                        - nom: personne grammaticale
+                          valeur: deuxième
+                3d:
+                    abstractions:
+                        - nom: forme de mot
+                        - nom: nombre grammatical
+                          valeur: duel
+                        - nom: personne grammaticale
+                          valeur: troisième
+                1p:
+                    abstractions:
+                        - nom: forme de mot
+                        - nom: nombre grammatical
+                          valeur: pluriel
+                        - nom: personne grammaticale
+                          valeur: première
+                2p:
+                    abstractions:
+                        - nom: forme de mot
+                        - nom: nombre grammatical
+                          valeur: pluriel
+                        - nom: personne grammaticale
+                          valeur: deuxième
+                3p:
+                    abstractions:
+                        - nom: forme de mot
+                        - nom: nombre grammatical
+                          valeur: pluriel
+                        - nom: personne grammaticale
+                          valeur: troisième
                 # Balises liées aux sens.
                 sn:
                     abstraction: numéro de sens
@@ -126,7 +189,7 @@
                 ue:
                     abstraction: étiquette d’usage
                 un:
-                    abstraction: note d’usage                       
+                    abstraction: note d’usage
                 # Balises liées aux exemples.
                 xv:
                     abstraction: exemple
@@ -145,18 +208,26 @@
                     caractéristiques:
                         langue: cible 3
                 nt:
-                    abstraction: note
-                    caractéristiques:
-                        langue: cible 1
+                    abstractions:
+                        - nom: note
+                          caractéristiques:
+                              langue: cible 1
+                        - nom: type de note
+                          valeur: général
                 nd:
-                    abstraction: note
-                    caractéristiques:
-                        langue: cible 2
+                    abstractions:
+                        - nom: note
+                          caractéristiques:
+                              langue: cible 1
+                        - nom: type de note
+                          valeur: discours
                 ng:
-                    abstraction: note
-                    caractéristiques:
-                        type: grammaire
-                        langue: cible 1
+                    abstractions:
+                        - nom: note
+                          caractéristiques:
+                              langue: cible 1
+                        - nom: type de note
+                          valeur: grammaire
                 # Balises liées aux étymologies.
                 et:
                     abstraction: étymon
@@ -164,9 +235,9 @@
                     abstraction: glose d’étymon
                 el:
                     abstraction: langue d’étymon
-                edd: 
+                edd:
                     abstraction: date de début d’étymon
-                edf: 
+                edf:
                     abstraction: date de fin d’étymon
                 bw:
                     abstraction: emprunt
@@ -184,7 +255,7 @@
                 sous-vedette:
                     constante: ⓝ
                     ascendant: sous-entrée lexicale
-                numéro d’homonyme: 
+                numéro d’homonyme:
                     constante: ⓗ
                     ascendant: entrée lexicale
                     type: facultatif
@@ -248,7 +319,7 @@
                 # Abstractions principales.
                 entrée:
                     entité:
-                        nom: entrée lexicale                   
+                        nom: entrée lexicale
                     parent:
                         nom: dictionnaire
                     spécial:
@@ -259,7 +330,7 @@
                     entité:
                         nom: sous-entrée lexicale
                     parent:
-                        nom: 
+                        nom:
                             - sens
                             - entrée lexicale
                         conditions:
@@ -270,9 +341,9 @@
                             - bloc
                 vedette:
                     entité:
-                        nom: forme écrite
+                        nom: représentation de forme
                         spécial:
-                            drapeaux: 
+                            drapeaux:
                                 - renvoyable
                     parent:
                         nom: lemme
@@ -280,13 +351,16 @@
                         nom: lemme
                         voie: impérieuse
                     spécial:
-                        drapeaux: 
+                        drapeaux:
                             - identifiant
+                        tri:
+                            type: lexicographique
+                            entité: entrée lexicale
                 sous-vedette:
                     entité:
-                        nom: forme écrite
+                        nom: représentation de forme
                         spécial:
-                            drapeaux: 
+                            drapeaux:
                                 - renvoyable
                     parent:
                         nom: lemme
@@ -296,6 +370,9 @@
                     spécial:
                         drapeaux:
                             - identifiant
+#                        tri:
+#                            type: lexicographique
+#                            entité: sous-entrée lexicale
                 # Abstractions directement liées aux entrées.
                 lemme:
                     entité:
@@ -324,6 +401,31 @@
                         nom: variante
                     parent:
                         nom: lemme
+                bloc forme de mot:
+                    entité:
+                        nom: forme de mot
+                    parent:
+                        nom:
+                            - entrée lexicale
+                            - sous-entrée_lexicale
+                forme de mot:
+                    entité:
+                        nom: représentation de forme
+                    parent:
+                        nom: forme de mot
+                    préabstraction:
+                        nom: bloc forme de mot
+                        voie: impérieuse
+                personne grammaticale:
+                    entité:
+                        nom: personne
+                    parent:
+                        nom: forme de mot
+                nombre grammatical:
+                    entité:
+                        nom: nombre
+                    parent:
+                        nom: forme de mot
                 variante lexicale:
                     entité:
                         nom: représentation de forme
@@ -344,7 +446,7 @@
                     entité:
                         nom: forme de citation
                         spécial:
-                            drapeaux: 
+                            drapeaux:
                                 - renvoyable
                     parent:
                         nom: lemme
@@ -369,10 +471,10 @@
                         drapeaux:
                             - correspondance
                 paradigme:
-                    entité: 
+                    entité:
                         nom: paradigme
                     parent:
-                        nom: 
+                        nom:
                             - entrée lexicale
                             - sous-entrée lexicale
                 forme paradigmatique:
@@ -393,7 +495,7 @@
                         nom: paradigme
                     spécial:
                         drapeaux:
-                            - correspondance  
+                            - correspondance
                 morphologie:
                     entité:
                         nom: morphologie
@@ -447,9 +549,20 @@
                         nom: note
                         spécial:
                             drapeaux:
-                                - texte enrichi 
+                                - texte enrichi
                     parent:
                         nom: sens
+                domaine sémantique:
+                    entité:
+                        nom: domaine sémantique
+                    parent:
+                        nom: sens
+                    préabstraction:
+                        nom: sens
+                    spécial:
+                        tri:
+                            type: thématique
+                            entité: entrée lexicale
                 relation sémantique:
                     entité:
                         nom: relation sémantique
@@ -499,7 +612,7 @@
                         nom: représentation de texte
                         spécial:
                             drapeaux:
-                                - texte enrichi                      
+                                - texte enrichi
                     parent:
                         nom: définition
                     préabstraction:
@@ -514,7 +627,7 @@
                         nom: sens
                         voie: contextuelle
                 bloc étiquette:
-                    entité: 
+                    entité:
                         nom: étiquette
                     parent:
                         nom: définition
@@ -599,7 +712,7 @@
                         nom: représentation de texte
                         spécial:
                             drapeaux:
-                                - texte enrichi 
+                                - texte enrichi
                     parent:
                         nom: exemple
                     préabstraction:
@@ -610,7 +723,7 @@
                         nom: représentation de texte
                         spécial:
                             drapeaux:
-                                - texte enrichi 
+                                - texte enrichi
                     parent:
                         nom: exemple
                 # Abstractions directement liées aux étymologies.
@@ -634,7 +747,7 @@
                             - bloc
                 étymon:
                     entité:
-                        nom: forme écrite
+                        nom: représentation de forme
                     parent:
                         nom: étymon
                     préabstraction:
@@ -659,7 +772,28 @@
                         nom: emprunt
                     parent:
                         nom: entrée lexicale
-                # Abstractions diverses
+                # Abstractions directement liées aux notes et commentaires.
+                bloc note:
+                    entité:
+                        nom: note
+                    parent:
+                        nom:
+                            - entrée lexicale
+                            - sous-entrée lexicale
+                note:
+                    entité:
+                        nom: représentation de texte
+                    parent:
+                        nom: note
+                    préabstraction:
+                        nom: bloc note
+                        voie: impérieuse
+                type de note:
+                    entité:
+                        nom: type
+                    parent:
+                        nom: note
+                # Abstractions diverses.
                 référence:
                     entité:
                         nom: référence
@@ -667,10 +801,3 @@
                         nom:
                             - exemple
                             - sous-entrée lexicale
-
-
-
-
-
-
-

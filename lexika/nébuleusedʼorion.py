@@ -1,25 +1,30 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import lexika.outils
+import lexika
+
 import logging
 import regex
 
 
-class NébuleuseDʼOrion:
+class NébuleuseDʼOrion(lexika.outils.ClasseConfigurée):
     """
     Classe qui permet de créer des dictionnaires dynamiquement.
     """
-    def __init__(self, configuration: dict):
-        self.configuration = configuration
+    def __init__(self):
+        super().__init__()
 
         self.racine = None
         self.dictionnaire = None
+
+        self.lexique_inverse = None
+
         self.identifiants = {}
 
         self.balises = {}
         self.lignes_mémorisées = {"factorisation": None, "antéposition": []}
 
+        self.entrée_actuelle = None
         self.famille_actuelle = []
         self.ascendance_actuelle = []
         self.informations_entités = {}
@@ -27,12 +32,12 @@ class NébuleuseDʼOrion:
         self.dépôt = {}
         self.appels_dépôt = []
 
-        self.modèle_ligne = regex.compile(self.configuration.informations_entrée["modèles"]["ligne"])
-        self.modèle_métadonnées = regex.compile(self.configuration.informations_entrée["modèles"]["métadonnées"])
-        self.informations_balises = self.configuration.informations_entrée["balises"]
+        self.modèle_ligne = regex.compile(self.configuration.informations["entrée"]["modèles"]["ligne"])
+        self.modèle_métadonnées = regex.compile(self.configuration.informations["entrée"]["modèles"]["métadonnées"])
+        self.informations_balises = self.configuration.informations["entrée"]["balises"]
 
-        self.créateur_abstractions = lexika.outils.CréateurDʼAbstractions(self.configuration.informations_sortie["abstractions"])
-        self.convertisseur_abréviations = lexika.outils.ConvertisseurDʼAbréviations(self.configuration.informations_sortie["abréviations"])
+        self.créateur_abstractions = lexika.outils.CréateurDʼAbstractions(self.configuration.informations["sortie"]["abstractions"])
+        self.convertisseur_abréviations = lexika.outils.ConvertisseurDʼAbréviations(self.configuration.informations["sortie"]["abréviations"])
         self.témoin = lexika.outils.Témoin()
 
     def préparer_dictionnaire(self):
@@ -40,7 +45,7 @@ class NébuleuseDʼOrion:
         Prépare le dictionnaire en créant les entités uniques.
         """
         for élément_spécial in ["racine", "métainformations", "dictionnaire"]:
-            nom, informations = [(abstraction, informations) for abstraction, informations in self.configuration.informations_sortie["abstractions"].items() if élément_spécial in informations.get("spécial", {}).get("drapeaux", {})][0]
+            nom, informations = [(abstraction, informations) for abstraction, informations in self.configuration.informations["sortie"]["abstractions"].items() if élément_spécial in informations.get("spécial", {}).get("drapeaux", {})][0]
             self.analyser_abstraction(self.créateur_abstractions.créer_abstraction(nom))
             if élément_spécial == "métainformations":
                 self.récupérer_métainformations(nom, informations["entité"]["données"])
@@ -51,7 +56,7 @@ class NébuleuseDʼOrion:
         """
         parent = self.trouver_entités(nom_parent)[0]
         if informations["source"] == "configuration":
-            informations = {clef: getattr(self.configuration, clef) for clef in informations["clefs"]}
+            informations = {clef: self.configuration.informations[clef] for clef in informations["clefs"]}
             self.récupérer_métainformation(parent, informations)
 
     def récupérer_métainformation(self, parent: lexika.outils.Entité, informations: dict):
@@ -60,24 +65,18 @@ class NébuleuseDʼOrion:
         """
         if not hasattr(parent, "descendance"):
             setattr(parent, "descendance", [])
-        for nom, valeur in informations.items():
-            if nom == "langues":
+        if isinstance(informations, dict):
+            for nom, élément in informations.items():
                 entité = lexika.outils.Entité(**{"nom": nom})
                 parent.descendance.append(entité)
-                for code_langue, informations_langue in valeur.items():
-                    entité = lexika.outils.Entité(**{"nom": "langue"})
-                    parent.descendance.append(entité)
-                    self.récupérer_métainformation(entité, {**{"code": code_langue}, **informations_langue})
-            elif isinstance(valeur, str):
-                entité = lexika.outils.Entité(**{"nom": nom, "valeur": valeur})
+                self.récupérer_métainformation(entité, élément)
+        elif isinstance(informations, list):
+            for élément in informations:
+                entité = lexika.outils.Entité(**{"nom": "élément"})
                 parent.descendance.append(entité)
-            elif isinstance(valeur, list):
-                entité = lexika.outils.Entité(**{"nom": nom, "valeur": str(valeur).replace("'", "")})
-                parent.descendance.append(entité)
-            else:
-                entité = lexika.outils.Entité(**{"nom": nom})
-                parent.descendance.append(entité)
-                self.récupérer_métainformation(entité, valeur)
+                self.récupérer_métainformation(entité, élément)
+        else:
+            parent.valeur = informations
 
     def lire_données(self, bloc_données: list):
         """
@@ -208,8 +207,13 @@ class NébuleuseDʼOrion:
                     if "dictionnaire" in abstraction.spécial.get("drapeaux", {}):
                         self.dictionnaire = entité
                         self.témoin.information(_(f"Dictionnaire trouvé."))
+                    if "entrée" in abstraction.spécial.get("drapeaux", {}):
+                        self.entrée_actuelle = entité
+                        self.témoin.information(_(f"Nouvelle entrée."))
                     if "identifiant" in abstraction.spécial.get("drapeaux", {}):
                         self.mettre_à_jour_identifiant(abstraction)
+                    if abstraction.spécial.get("tri"):
+                        self.mettre_à_jour_critère_tri(abstraction)
                 # Analyse du dépôt après la création éventuelle des préentités.
                 if abstraction.appelants:
                     if abstraction.nom in self.dépôt:
@@ -230,7 +234,7 @@ class NébuleuseDʼOrion:
         Crée l’entité linguistique d’après son nom et avec ses caractéristiques (ici, la valeur est celle d’une entité, éventuellement accompagnée d’autres caractéristiques).
         Il s'agit de la fonction finale de la triade principale, qui crée des entités linguistiques et met à jour l'architecture interne.
         """
-        # Entité = type(nom_classe, (lexika.outils.Entité,), {})  # Ne fonctionne pas ainsi avec multiprocessing (pas de sérialisation possible pour une classe créée dynamiquement).
+        # Entité = type(nom_classe, (lexika.outils.Entité,), {})  # Ne fonctionne pas ainsi avec le module multiprocessing (pas de sérialisation possible pour une classe créée dynamiquement).
         entité = lexika.outils.Entité(**abstraction.entité)
         setattr(entité, "parent", parent)
         if parent:
@@ -363,7 +367,7 @@ class NébuleuseDʼOrion:
         """
         Crée et met à jour les identifiants de certaines entités.
         """
-        informations_identifiant = self.configuration.informations_sortie["identifiants"][abstraction.nom]
+        informations_identifiant = self.configuration.informations["sortie"]["identifiants"][abstraction.nom]
         entité = self.trouver_entités([informations_identifiant["ascendant"]])[-1]
         parent = [entité for entité in reversed(self.ascendance_actuelle) if entité.caractéristiques.get("identifiant")]
         identifiant_parent = parent[0].caractéristiques["identifiant"] if parent else ""
@@ -375,7 +379,7 @@ class NébuleuseDʼOrion:
         Connecte les liens (cibles avec identifiant).
         """
         self.rapatrier_renvois(self.racine)
-        self.convertisseur_texte_enrichi = lexika.outils.ConvertisseurDeTexteEnrichi(self.configuration.informations_entrée["modèles"]["texte enrichi"], self.configuration.informations_sortie["identifiants"], self.identifiants)
+        self.convertisseur_texte_enrichi = lexika.outils.ConvertisseurDeTexteEnrichi(self.configuration.informations["entrée"]["modèles"]["texte enrichi"], self.configuration.informations["sortie"]["identifiants"], self.identifiants)
         self.connecter_lien(self.racine)
 
     def rapatrier_renvois(self, entité: lexika.outils.Entité, identifiant: str = None):
@@ -406,4 +410,7 @@ class NébuleuseDʼOrion:
         if hasattr(entité, "descendance"):
             for enfant in entité.descendance:
                 self.connecter_lien(enfant)
+
+    def mettre_à_jour_critère_tri(self, abstraction: lexika.outils.Abstraction):
+        self.entrée_actuelle.spécial["tri"] = {**self.entrée_actuelle.spécial.get("tri", {}), **{abstraction.spécial["tri"]["type"]: abstraction.entité["valeur"]}}
 

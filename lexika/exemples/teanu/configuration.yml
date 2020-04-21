@@ -1,7 +1,7 @@
 configuration:
-  chemin source: exemples/teanu/informations linguistiques.yml
+  chemin source: informations linguistiques.yml
 base:
-  chemin source: exemples/teanu/teanu.lex
+  chemin source: teanu.lex
   format d’entrée: MDF Alex
   format de sortie: LMF Alex
   identifiant: teanu
@@ -9,30 +9,31 @@ général:
   nom: Essai d’un dictionnaire
   auteur: Alexandre François
   commentaire: LMF-α
-  ordre lexicographique: [a, b, bw, d, e, g, i, j, k, l, m, mw, n, ng, [̄n, n̄], o, p, pw, r, s, t, u, v, w]
+  ordre lexicographique:
+  - [a, b, bw, d, e, g, i, j, k, l, m, mw, n, ng, [̄n, n̄], o, p, pw, r, s, t, u, v, w]
 langues:
-  tkw:
-      type de caractères: latin
-      autoglossonyme: teanu
-      glossonyme: teanu
-      statut: source
-  fra:
-      type de caractères: latin
-      autoglossonyme: français
-      glossonyme: français
-      statut: cible
-  eng:
-      type de caractères: latin
-      autoglossonyme: English
-      glossonyme: anglais
-      statut: cible
-  bis:
-      type de caractères: latin
-      autoglossonyme: Bislama
-      glossonyme: bichelamar
-      statut: cible
-XML:
-  chemin cible: exemples/teanu/résultat.xml
+- code: tkw
+  type de caractères: latin
+  autoglossonyme: teanu
+  glossonyme: teanu
+  statut: source
+- code: fra
+  type de caractères: latin
+  autoglossonyme: français
+  glossonyme: français
+  statut: cible
+- code: eng
+  type de caractères: latin
+  autoglossonyme: English
+  glossonyme: anglais
+  statut: cible
+- code: bis
+  type de caractères: latin
+  autoglossonyme: Bislama
+  glossonyme: bichelamar
+  statut: cible
+xml:
+  chemin cible: teanu.xml
   format: α #αβγ
   langue: fra
   XSL: style.xsl

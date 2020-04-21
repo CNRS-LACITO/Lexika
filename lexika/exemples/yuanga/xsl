@@ -1,0 +1,99 @@
+ 
+ <?xml version="1.0" encoding="utf-8" ?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0" xmlns:exslt="http://exslt.org/common" xmlns:regexp="http://exslt.org/regular-expressions">
+    <xsl:output method="text" encoding="utf-8" indent="yes"/>
+
+    <xsl:template match="RessourceLexicale">
+        
+        <xsl:apply-templates select="InformationsGlobales"/>
+
+    </xsl:template>
+
+    <xsl:template match="InformationsGlobales">
+        <xsl:apply-templates select="Général/OrdreLexicographique"/>
+    </xsl:template>
+
+    <xsl:template match="OrdreLexicographique">
+        <xsl:apply-templates select="Élément"/>
+    </xsl:template>
+
+    <xsl:template match="Élément/Élément">
+        <xsl:variable name="expression_rationnelle_graphèmes">
+            <xsl:call-template name="créer_expression_rationnelle_graphèmes">
+                <xsl:with-param name="graphèmes" select="."/>
+            </xsl:call-template>
+        </xsl:variable>
+        <xsl:variable name="bloc_entrées">
+            <xsl:apply-templates select="/RessourceLexicale/Dictionnaire/EntréeLexicale[regexp:match(translate(Lemme/ReprésentationDeForme, '-', ''), $expression_rationnelle_graphèmes, 'i')]"/>
+        </xsl:variable>
+        <xsl:if test="$bloc_entrées != ''">
+            <xsl:text>\newpage</xsl:text>
+            <xsl:text>&#10;&#13;</xsl:text>
+            <xsl:text>\lettrine{</xsl:text>
+            <xsl:value-of select="."/>
+            <xsl:call-template name="lettrine_variante">
+                <xsl:with-param name="lettrine" select="."/>
+            </xsl:call-template>
+            <xsl:text>}</xsl:text>
+            <xsl:value-of select="$bloc_entrées"/>
+        </xsl:if>
+    </xsl:template>
+ 
+  
+    <xsl:template name="créer_expression_rationnelle_graphèmes">  <!-- forme : ^(x|y|z) -->
+        <xsl:param name="graphèmes"/>
+        <xsl:text>^</xsl:text>
+        <xsl:call-template name="exclure_graphèmes_chevauchants">
+            <xsl:with-param name="graphèmes" select="$graphèmes"/>
+        </xsl:call-template>
+        <xsl:text>(</xsl:text>
+        <xsl:choose>
+            <xsl:when test="Élément">
+                <xsl:for-each select="$graphèmes/Élément">
+                    <xsl:value-of select="."/>
+                    <xsl:if test="not(position() = last())">
+                        <xsl:text>|</xsl:text>
+                    </xsl:if>
+                </xsl:for-each>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:value-of select="$graphèmes"/>
+            </xsl:otherwise>
+        </xsl:choose>
+        <xsl:text>)</xsl:text>
+    </xsl:template>
+
+    <xsl:template name="exclure_graphèmes_chevauchants">  <!-- forme : ^(?!xz|yz)(x|y) -->
+        <xsl:param name="graphèmes"/>
+        <xsl:variable name="graphèmes_chevauchants">
+            <xsl:call-template name="trouver_graphèmes_chevauchants">
+                <xsl:with-param name="graphèmes" select="$graphèmes"/>
+            </xsl:call-template>
+        </xsl:variable>
+        <xsl:if test="$graphèmes_chevauchants != ''">
+            <xsl:text>(?!</xsl:text>
+            <xsl:for-each select="exslt:node-set($graphèmes_chevauchants)//Graphème">
+                <xsl:value-of select="."/>
+                <xsl:if test="not(position() = last())">
+                    <xsl:text>|</xsl:text>
+                </xsl:if>
+            </xsl:for-each>
+            <xsl:text>)</xsl:text>
+        </xsl:if>
+    </xsl:template>
+
+    <xsl:template name="trouver_graphèmes_chevauchants">  <!-- exemple : x et xz -->
+        <xsl:param name="graphèmes"/>
+        <xsl:element name="Graphèmes">
+            <xsl:for-each select="/RessourceLexicale/InformationsGlobales/Général/OrdreLexicographique//Élément[not(Élément)]">  <!-- chaque graphème utilisé dans l'ordre lexicographique -->
+                <xsl:variable name="graphème_comparé" select="."/>
+                <xsl:for-each select="$graphèmes/Élément|$graphèmes[not(Élément)]">  <!-- chaque graphème formant la lettrine (formant un bloc d'entrées) -->
+                    <xsl:if test="starts-with($graphème_comparé, .) and $graphème_comparé != .">
+                        <Graphème>
+                            <xsl:value-of select="$graphème_comparé"/>
+                        </Graphème>
+                    </xsl:if>
+                </xsl:for-each>
+            </xsl:for-each>
+        </xsl:element>
+    </xsl:template>

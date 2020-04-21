@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-from .cœur import *
-from .trieur import *
-from .divers import *
-from .générateurs import *
-from .entrées_sorties import *
-from .linguistique import *
+from lexika.outils.cœur import *
+from lexika.outils.trieur import *
+from lexika.outils.divers import *
+from lexika.outils.générateurs import *
+from lexika.outils.entrées_sorties import *
+from lexika.outils.linguistique import *

@@ -21,28 +21,39 @@
                       origine: (?P<ensemble>(?P<vedette>[^\d]+)(?P<numéro_dʼhomonyme>[\d]+)*)
             balises:
                 # Balises principales.
+                wr:
+                    abstraction: nom de groupe
+                # Balises liées aux entrées.
                 is:
-                    abstraction: domaine thématique
+                    abstraction: domaine sémantique
                 dialx:
                     abstraction: région
-                ve: 
+                ve:
                     abstraction: région de variante
+                vph:
+                    abstraction: forme phonétique de variante
                 lf:
                     abstraction: type de relation sémantique
                     drapeaux:
                         factorisation: lv
-                wr:
-                    abstraction: nom de groupe
+                mr:
+                    abstraction: morphologie
                 # Balises liées aux sens.
                 at:
                     abstraction: glose de relation sémantique
+                    caractéristiques:
+                        langue: cible 1
                 ce:
                     abstraction: glose de relation sémantique
+                    caractéristiques:
+                        langue: cible 1
                 st:
                     abstraction: glose de relation sémantique
+                    caractéristiques:
+                        langue: cible 1
                 # Balises liées aux définitions.
                 dn:
-                    abstraction: définition
+                    abstraction: note de glose
                     caractéristiques:
                         langue: cible 1
                 # Balises liées aux exemples.
@@ -50,6 +61,7 @@
                     abstraction: traduction d’exemple
                     caractéristiques:
                         langue: cible 1
+                xr:
                 # Balises liées aux sous-entrées.
                 sge:
                     abstraction: glose de sous-entrée
@@ -58,12 +70,8 @@
                 # Balises liées aux étymologies.
                 ea:
                     abstraction: auteur d’étymologie
-                ng:
-                    abstraction: note grammaticale
-                    caractéristiques:
-                        langue: source 1
                 gt:
-                    abstraction: glose de note grammaticale
+                    abstraction: glose de note
                     caractéristiques:
                         langue: cible 1
 
@@ -81,7 +89,7 @@
                     nom: n
                     interjection: intj
                     préfixe: pf
-                    préposition: prep                  
+                    préposition: prep
                     particule: ptc
                     locatif: loc
                 type de relation sémantique:
@@ -104,28 +112,8 @@
                         nom: groupe
                         voie: impérieuse
                     spécial:
-                        drapeaux: 
+                        drapeaux:
                             - renvoyable
-                domaine thématique:
-                    entité:
-                        nom: domaine thématique
-                    parent:
-                        nom:
-                            - entrée lexicale
-                            - sous-entrée lexicale
-                            - groupe     
-                région:
-                    entité: 
-                        nom: région
-                    parent:
-                        nom: 
-                            - lemme
-                            - exemple
-                région de variante:
-                    entité:
-                        nom: région
-                    parent:
-                        nom: variante
                 # Abstractions directement liées aux entrées.
                 classe grammaticale:
                     entité:
@@ -134,30 +122,24 @@
                         nom:
                             - entrée lexicale
                             - sous-entrée lexicale
-                            - groupe        
+                            - groupe
+                            - sens
                     spécial:
                         drapeaux:
                             - correspondance
-                bloc note grammaticale:
+                bloc note:
                     entité:
-                        nom: note grammaticale
+                        nom: note
                     parent:
                         nom:
                             - entrée lexicale
                             - sous-entrée lexicale
                             - groupe
-                note grammaticale:
-                    entité:
-                        nom: représentation de texte
-                    parent:
-                        nom: note grammaticale
-                    préabstraction:
-                        nom: bloc note grammaticale
-                glose de note grammaticale:
+                glose de note:
                     entité:
                         nom: glose
                     parent:
-                        nom: note grammaticale
+                        nom: note
                 morphologie:
                     entité:
                         nom: morphologie
@@ -166,15 +148,52 @@
                             - entrée lexicale
                             - sous-entrée lexicale
                             - groupe
-                # Abstractions directement liées aux sous-entrées.   
+                région:
+                    entité:
+                        nom: région
+                    parent:
+                        nom:
+                            - lemme
+                            - exemple
+                région de variante:
+                    entité:
+                        nom: région
+                    parent:
+                        nom: variante
+                forme phonétique de variante:
+                    entité:
+                        nom: forme phonétique
+                    parent:
+                        nom: variante
+                morphologie:
+                    entité:
+                        nom: morphologie
+                    parent:
+                        nom:
+                            - entrée lexicale
+                            - sous-entrée lexicale
+                # Abstractions directement liées aux sous-entrées.
                 glose de sous-entrée:
                     entité:
                         nom: glose
                     parent:
                         nom: sens
                     préabstraction:
-                        nom: sens      
-                        voie: contextuelle    
+                        nom: sens
+                        voie: contextuelle
+                # Abstractions directement liées aux définitions/gloses.
+                glose:
+                    entité:
+                        nom: glose
+                    parent:
+                        nom: sens
+                    préabstraction:
+                        nom: sens
+                note de glose:
+                    entité:
+                        nom: note
+                    parent:
+                        nom: sens
                 # Abstractions directement liées aux sens.
                 sens:
                     entité:
@@ -187,18 +206,18 @@
                         conditions:
                             entité:
                                 nom: sous-entrée lexicale
-                                état: absent         
+                                état: absent
                 glose de relation sémantique:
                     entité:
                         nom: glose
                     parent:
-                        nom: relation sémantique  
+                        nom: relation sémantique
                 commentaire de relation sémantique:
                     entité:
                         nom: commentaire
                     parent:
                         nom: relation sémantique
-                # Abstractions directement liées aux étymologies.    
+                # Abstractions directement liées aux étymologies.
                 auteur d’étymologie:
                     entité:
                         nom: auteur

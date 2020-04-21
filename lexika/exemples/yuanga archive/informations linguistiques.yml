@@ -1,0 +1,225 @@
+﻿formats:
+    entrée:
+        MDF Isabelle:
+            parent: MDF
+            modèles:
+                texte enrichi:
+                    - type: style
+                      origine: (?P<ensemble>(?P<style>fl|fn|fg|fr|fe|fs|fi|ax|vl):(?P<texte>.+?)(?P<fin>[\s\p{Punctuation}]))|(?P<ensemble>\|(?P<style>fl|fn|fg|fr|fe|fs|fi|ax|vl){(?P<texte>.+?)})
+                      but: <style type="\g<style>">\g<texte></style>\g<fin>
+                    - type: lien
+                      origine: (?P<ensemble>fv:/(?P<vedette>.+?)/)|(?P<ensemble>\|fv{/(?P<vedette>.+?)/})
+                      but: <lien cible="\g<cible>">\g<vedette></lien>
+                      défaut: <lien statut="brisé">\g<vedette></lien>
+                      cible: vedette
+                    - type: lien
+                      origine: (?P<ensemble>fv:(?P<vedette>.+?)(?P<fin>[[\s\p{Punctuation}]--[-]]))|(?P<ensemble>\|fv{(?P<vedette>.+?)})
+                      but: <lien cible="\g<cible>">\g<vedette></lien>
+                      défaut: <lien statut="brisé">\g<vedette></lien>
+                      cible: vedette
+                    - type: relation
+                      origine: (?P<ensemble>(?P<vedette>[^\d]+)(?P<numéro_dʼhomonyme>[\d]+)*)
+            balises:
+                # Balises principales.
+                wr:
+                    abstraction: nom de groupe
+                # Balises liées aux entrées.
+                is:
+                    abstraction: domaine sémantique
+                dialx:
+                    abstraction: région
+                ve:
+                    abstraction: région de variante
+                vph:
+                    abstraction: forme phonétique de variante
+                lf:
+                    abstraction: type de relation sémantique
+                    drapeaux:
+                        factorisation: lv
+                mr:
+                    abstraction: morphologie
+                # Balises liées aux sens.
+                at:
+                    abstraction: glose de relation sémantique
+                    caractéristiques:
+                        langue: cible 1
+                ce:
+                    abstraction: glose de relation sémantique
+                    caractéristiques:
+                        langue: cible 1
+                st:
+                    abstraction: glose de relation sémantique
+                    caractéristiques:
+                        langue: cible 1
+                # Balises liées aux définitions.
+                dn:
+                    abstraction: note de glose
+                    caractéristiques:
+                        langue: cible 1
+                # Balises liées aux exemples.
+                xn:
+                    abstraction: traduction d’exemple
+                    caractéristiques:
+                        langue: cible 1
+                xr:
+                # Balises liées aux sous-entrées.
+                sge:
+                    abstraction: glose de sous-entrée
+                    caractéristiques:
+                        langue: cible 1
+                # Balises liées aux étymologies.
+                ea:
+                    abstraction: auteur d’étymologie
+                gt:
+                    abstraction: glose de note
+                    caractéristiques:
+                        langue: cible 1
+
+    sortie:
+        LMF Isabelle:
+            parent: LMF
+            modèles:
+                renvoi: ^(?P<entrée_lexicale>[\w\s~\[\].,\p{Spacing Modifier Letters}#$-]+?)(?P<numéro_dʼhomonyme>[\d]*)$"
+            identifiants:
+                nom de groupe:
+                    constante: ⓖ
+                    ascendant: groupe
+            abréviations:
+                classe grammaticale:
+                    nom: n
+                    interjection: intj
+                    préfixe: pf
+                    préposition: prep
+                    particule: ptc
+                    locatif: loc
+                type de relation sémantique:
+                    synonyme: [Syn., Syn]
+                    antonyme: [Ant., Ant]
+                    renvoi: Cf.
+            abstractions:
+                # Abstractions principales.
+                groupe:
+                    entité:
+                        nom: groupe
+                    parent:
+                        nom: entrée lexicale
+                nom de groupe:
+                    entité:
+                        nom: nom de groupe
+                    parent:
+                        nom: groupe
+                    préabstraction:
+                        nom: groupe
+                        voie: impérieuse
+                    spécial:
+                        drapeaux:
+                            - renvoyable
+                # Abstractions directement liées aux entrées.
+                classe grammaticale:
+                    entité:
+                        nom: classe grammaticale
+                    parent:
+                        nom:
+                            - entrée lexicale
+                            - sous-entrée lexicale
+                            - groupe
+                            - sens
+                    spécial:
+                        drapeaux:
+                            - correspondance
+                bloc note:
+                    entité:
+                        nom: note
+                    parent:
+                        nom:
+                            - entrée lexicale
+                            - sous-entrée lexicale
+                            - groupe
+                glose de note:
+                    entité:
+                        nom: glose
+                    parent:
+                        nom: note
+                morphologie:
+                    entité:
+                        nom: morphologie
+                    parent:
+                        nom:
+                            - entrée lexicale
+                            - sous-entrée lexicale
+                            - groupe
+                région:
+                    entité:
+                        nom: région
+                    parent:
+                        nom:
+                            - lemme
+                            - exemple
+                région de variante:
+                    entité:
+                        nom: région
+                    parent:
+                        nom: variante
+                forme phonétique de variante:
+                    entité:
+                        nom: forme phonétique
+                    parent:
+                        nom: variante
+                morphologie:
+                    entité:
+                        nom: morphologie
+                    parent:
+                        nom:
+                            - entrée lexicale
+                            - sous-entrée lexicale
+                # Abstractions directement liées aux sous-entrées.
+                glose de sous-entrée:
+                    entité:
+                        nom: glose
+                    parent:
+                        nom: sens
+                    préabstraction:
+                        nom: sens
+                        voie: contextuelle
+                # Abstractions directement liées aux définitions/gloses.
+                glose:
+                    entité:
+                        nom: glose
+                    parent:
+                        nom: sens
+                    préabstraction:
+                        nom: sens
+                note de glose:
+                    entité:
+                        nom: note
+                    parent:
+                        nom: sens
+                # Abstractions directement liées aux sens.
+                sens:
+                    entité:
+                        nom: sens
+                    parent:
+                        nom:
+                            - entrée lexicale
+                            - sous-entrée lexicale
+                            - groupe
+                        conditions:
+                            entité:
+                                nom: sous-entrée lexicale
+                                état: absent
+                glose de relation sémantique:
+                    entité:
+                        nom: glose
+                    parent:
+                        nom: relation sémantique
+                commentaire de relation sémantique:
+                    entité:
+                        nom: commentaire
+                    parent:
+                        nom: relation sémantique
+                # Abstractions directement liées aux étymologies.
+                auteur d’étymologie:
+                    entité:
+                        nom: auteur
+                    parent:
+                        nom: étymon

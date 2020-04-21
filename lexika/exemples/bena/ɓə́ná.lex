@@ -36,11 +36,6 @@
 \sd
 \bw
 \ue informal term of address for male addressees, either singular or plural
-\so
-\nq Find more appropriate translation equivalents? Isn't the initial tone H when used as a term of address??
-\ng
-\np
-\nt
 \dt 26/Jan/2016
 
 \lx ádá
@@ -77,11 +72,6 @@
 \sd space
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt this place án wa᷇, 'in the place' - ɗā ádā
 \dt 29/May/2016
 
 \lx -áɗá
@@ -125,11 +115,6 @@
 \sd
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:5-6
-\nq
-\ng
-\np
-\nt
 \dt 01/Apr/2016
 
 \lx āgə́rgòːsòn
@@ -166,11 +151,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq CONTROL: Tone (M on initial syllable? last syllable should be M as well?) PL? Agreement?
-\ng
-\np
-\nt This may be a neologism invented by Manliura (found in his book and tones added with Bitrus). Litterally He (a) seeks (gər) to go (goo) son -??? nominaliser? We noticed that Sabeta and Daniel actually use the word when speaking Bena..
 \dt 26/Jan/2016
 
 \lx ākórékòri᷇
@@ -207,11 +187,6 @@
 \sd animal ; bird
 \bw
 \ue
-\so
-\nq Morphologically complex, synchronically? PL? Agreement?
-\ng
-\np
-\nt
 \dt 26/Jan/2016
 
 \lx àkú
@@ -249,11 +224,6 @@
 \sd animal ; bird
 \bw Hausa
 \ue
-\so
-\nq
-\ng
-\np
-\nt Sabeta doesn't know this word
 \dt 03/Jan/2016
 
 \lx àlkã̄ː
@@ -291,11 +261,6 @@
 \sd animal ; bird
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Sabeta claims that this bird exists (but that he has never seen it...) Is it appropriate to call it mythical if speakers believe in ts existence?
 \dt 20/Nov/2015
 
 \lx ālwāːrá
@@ -333,11 +298,6 @@
 \sd
 \bw
 \ue this word is used to refer to any big water mass, such as major rivers (Benue, Gongola) or lakes (Kiri dam lake). But according to Daniel you cannot use it for a river, only for seas and lakes
-\so
-\nq
-\ng
-\np
-\nt Borrowing??
 \dt 31/Oct/2014
 
 \lx à(M)
@@ -380,11 +340,6 @@
 \sd space
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 26/Feb/2016
 
 \lx án gúlàːrá
@@ -427,11 +382,6 @@
 \sd space
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 02/Jun/2016
 
 \lx án kã́ː
@@ -469,11 +419,6 @@
 \sd nature
 \bw
 \ue
-\so
-\nq
-\ng compound??
-\np
-\nt Sabeta can't give a plural
 \dt 23/Dec/2015
 
 \lx án káɗá
@@ -511,11 +456,6 @@
 \sd space
 \bw
 \ue
-\so
-\nq
-\ng
-\np According to Bitrus, the variant hándá ~ híndá 'place' (hín ɓa᷇, hán ɓa᷇ 'this place') is another dialectal form - eg. Pa Aw Balla, people from Dərma, ʧinde, Prambe.
-\nt
 \dt 23/Dec/2015
 
 \lx ándá
@@ -556,11 +496,6 @@
 \sd space
 \bw
 \ue
-\so
-\nq Agreement in PL?
-\ng The -da element is probably not a suffix (and the paradigm is / -sa and not -ra / -sa). That d disappears in *-ndsa is normal.
-\np
-\nt this field: án wa᷇. this place án wa᷇, 'in the place' - ɗā ádā. According to Bitrus, the variant hándá ~ híndá 'place' (hín ɓa᷇, hán ɓa᷇ 'this place') is another dialectal form - eg. Pa Aw Balla, people from Dərma, ʧinde, Prambe. Bitrus: án ɓa᷇, but also accepting án wa᷇
 \dt 29/May/2016
 
 \lx ánē
@@ -597,11 +532,6 @@
 \sd human ; social ; kinship
 \bw
 \ue
-\so
-\nq the formal counterpart? *màyā* 'mom' FROM 1SG possessive pronoun?
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx ân(H)
@@ -643,11 +573,6 @@
 \sd
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_DI_03:3
-\nq
-\ng
-\np
-\nt
 \dt 25/May/2016
 
 \lx ánkátá
@@ -685,11 +610,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng Very irregular plural (cf also the tone pattern)
-\np
-\nt Compare to the word for 'place where one stays': (h)án káɗá, literally place of sit.  No reduction of final vowel in singular. 'this chair': ánkátá wa᷇, 'these chairs': ánkàsə̀ wā
 \dt 15/Dec/2015
 
 \lx ánkátá gômbàʧèk
@@ -733,11 +653,6 @@
 \sd plant
 \bw
 \ue
-\so
-\nq PL? Agreement?
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx árá
@@ -774,11 +689,6 @@
 \sd nature
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt doubts about the plural... also about the agreement pattern. DI: It seems to be optionally of ɓa-class and ya-class as well, since it is possible to say ár péŋgâ ~ péŋgô ~ péŋgê 'white light' with the ɓa-class agreement.
 \dt 03/Jan/2016
 
 \lx átə́ bârbártà
@@ -815,11 +725,6 @@
 \sd human ; social
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx átə́ bárè
@@ -856,11 +761,6 @@
 \sd human ; social
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt also term of address. The initial átə́ comes back in a number of similar compounds, but does not exist as a separate lexeme. Sabeta says he does not know the plural:
 \dt 03/Jan/2016
 
 \lx átə́ gúnè
@@ -897,11 +797,6 @@
 \sd human ; social ; kinship
 \bw
 \ue
-\so
-\nq Add plural (or, ifno plural exists, remove the agreement pattern for plural)
-\ng
-\np
-\nt also term of adress
 \dt 23/Dec/2015
 
 \lx átə́ kwáɗān
@@ -938,11 +833,6 @@
 \sd human ; social ; kinship
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt also term of address
 \dt 23/Dec/2015
 
 \lx átə́ ʧe᷇n
@@ -979,11 +869,6 @@
 \sd human ; kinship ; social
 \bw
 \ue
-\so
-\nq CONTROL: Vowel length in ʧe᷇n and to᷇n
-\ng
-\np
-\nt also term of address, note agreement pattern wā NOT accepted in the plural
 \dt 23/Dec/2015
 
 \lx àtwa᷇ŋ(H)
@@ -1020,11 +905,6 @@
 \sd insect
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt !!! This noun must have a floating high tone in the end: 'this grasshopper': àtwa᷇ŋ ya᷇
 \dt 29/Dec/2015
 
 \lx áw bárè
@@ -1061,11 +941,6 @@
 \sd human ; social
 \bw
 \ue
-\so
-\nq check the variants: can both be used to refer, or is one form restricted to use as a term of address?
-\ng
-\np
-\nt TONES CHECKED with Sabeta and Bitrus. BUT UPON RELISTENING, THE TONE ON BA SEEMED FALLING: bârè. *NO S H#H.L* ALSO: surprising that tt should be geminate in plural and variant form of the singular: check... *CHECKED CORRECT!*
 \dt 23/Dec/2015
 
 \lx áw bwálàrê
@@ -1108,11 +983,6 @@
 \sd human ; social ; kinship
 \bw
 \ue
-\so
-\nq Originally translated as 'female counterpart of áw bwáltàrê', but what does that mean exactly? replace 'son' by 'daughter', or also the sex of the intermediate relative? elaborate. CHECK: Can it also be áw bwálàrên? PL: ám bwálàttâ? Agreement?
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx áw bwáltàrê
@@ -1157,11 +1027,6 @@
 \sd human ; social ; kinship
 \bw
 \ue
-\so
-\nq CHECK: Can it also be áw bwáltàrên? PL: ám bwáltàttâ? Agreement?
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx á(w) ɓwẽ̂ː
@@ -1198,11 +1063,6 @@
 \sd human ; social ; kinship
 \bw
 \ue
-\so
-\nq CONTROL: Tone H HL or H HM? (because ɓwẽ̄ː is M on its own)
-\ng
-\np
-\nt ɓwẽː cannot be used on its own, according to David Bulala.
 \dt 23/Dec/2015
 
 \lx áw ɓwẽ᷇ː
@@ -1245,11 +1105,6 @@
 \sd human ; social
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx áw gwâttê
@@ -1292,11 +1147,6 @@
 \sd animal ; bird
 \bw
 \ue
-\so
-\nq tone on last syllable? Falling?
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx áw kã́ːmē
@@ -1335,11 +1185,6 @@
 \sd plant
 \bw
 \ue
-\so
-\nq
-\ng
-\np NOTE the word áwé is B, but the compound is A. NOTE: ɗā kã́ːmə́ áw kã́ːmē (A), while kã́ːmá is B.
-\nt Bitrus
 \dt 23/Dec/2015
 
 \lx áw kólkó
@@ -1377,11 +1222,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq CONTROL: Tone pattern. ADD: áw kólkārê as an entry, but also CONTROL the tone (áw kólkàrê H H.L.HL?)
-\ng
-\np
-\nt ɓa demonstrative not accepted in the plural
 \dt 23/Dec/2015
 
 \lx áw kólmó
@@ -1418,11 +1258,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq CONTROL: Tone pattern
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx áw ku᷇mlá
@@ -1459,11 +1294,6 @@
 \sd tree ; plant
 \bw
 \ue
-\so
-\nq Agreement?
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx áw kwéle᷄
@@ -1500,11 +1330,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx áw na᷇ːrê
@@ -1541,11 +1366,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq CHECK: PL? Agreement? 'Male / female calf' - what are the options: <bàrè áw ...> 'a male of calf'? <áw na᷇ːrê bàr-V̀> 'male calf' (agreement + PL), <áw na᷇ːrê tóːnō, tóːnā, ʧéːnē> - 'female calf' (agreement + PL)
-\ng
-\np
-\nt
 \dt 08/Jan/2016
 
 \lx áw nûː
@@ -1582,11 +1402,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq CHECK: The tone of <áw nûː>! (strange that it is HL at the end) PL? Agreement SG & PL?
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx áw ŋmgbéràttê
@@ -1623,11 +1438,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq Agreement? Is the PL variant <áŋm ŋmgbéràttâ> possible?
-\ng
-\np
-\nt
 \dt 26/Jan/2016
 
 \lx áw pírāttê
@@ -1664,11 +1474,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx áw rùbé
@@ -1711,11 +1516,6 @@
 \sd animal ; bird
 \bw
 \ue
-\so
-\nq CONTROL: Shouldn't it be áw rìbé? (or is it <áw rə̀bé>?) CHECK: PL? Agreement? What's the difference with ríbé 'bird' - DIM or not necessarily?
-\ng
-\np
-\nt
 \dt 29/May/2016
 
 \lx áw tə́mē
@@ -1752,11 +1552,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq CONTROL: The PL was noted by MV as ám témáːsâ (V2)? Agreement?
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx áw ʧéːnē
@@ -1793,11 +1588,6 @@
 \sd human ; social ; kinship
 \bw
 \ue
-\so
-\nq does this literally mean 'child of woman', or only 'small woman'? CONTROL TONE of áw ʧéːnārê
-\ng
-\np
-\nt for '(small) girl' one can say áw tʲéːnārē (i.e. to distinguish from unmarried woman - CONTROL TONE ). Plural: ám tónàtâ
 \dt 23/Dec/2015
 
 \lx áw ʧêré
@@ -1834,11 +1624,6 @@
 \sd social
 \bw
 \ue
-\so
-\nq CHECK: Vowel length
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx áw wíːrâ
@@ -1881,11 +1666,6 @@
 \sd human ; social ; kinship
 \bw
 \ue
-\so
-\nq PL? Agreement?
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx áwé
@@ -1922,11 +1702,6 @@
 \sd human
 \bw
 \ue
-\so
-\nq The class pairing may not be -e / am-, but rather e- / -a
-\ng
-\np
-\nt this child áw ya᷇; THESE CHILDREN ám ɓa᷇. Sabeta pronounces the plural as áβá, no nasal consonant! Bitrus has PL as both ámbá and ábá, and the short form as ám.
 \dt 03/Jan/2016
 
 \lx àyàbà
@@ -1964,11 +1739,6 @@
 \sd food ; plant
 \bw Hausa (?)
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx áy(L)
@@ -2012,11 +1782,6 @@
 \sd
 \bw
 \ue
-\so NB_YUN_2014_03_DI:52
-\nq
-\ng
-\np
-\nt
 \dt 25/May/2016
 
 \lx bàkkè
@@ -2059,11 +1824,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx bàl fĩ́ːrō
@@ -2100,11 +1860,6 @@
 \sd health
 \bw
 \ue
-\so
-\nq Agreement? Meaning of fĩ̄ːrō? CONTROL: Tone of V1 was originally noted as M (or is it mbāl fĩ́ːrō)
-\ng
-\np
-\nt
 \dt 29/Dec/2015
 
 \lx bàl kólóbá
@@ -2147,11 +1902,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq CONTROL: Tone (since bàlo᷇ or bàlô is L.HM or L.HL)
-\ng
-\np NB: the final M of bàlo᷇ is lost in the short form in this phrase
-\nt
 \dt 23/Dec/2015
 
 \lx bàl kwánó
@@ -2188,11 +1938,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: Tone - isn't it bàl kwānō or bàl kwánō?
-\ng
-\np NB two final tones are H.H, whereas the word for 'paying' is H.HL
-\nt
 \dt 23/Dec/2015
 
 \lx bàlà
@@ -2229,11 +1974,6 @@
 \sd
 \bw
 \ue
-\so
-\nq elaborate! Originally, noted as <bàlò> -  isn't this an action noun??, cross reference not in dictionary. CHECK: NMLZ in -yǒ as well?
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx bàlè
@@ -2270,11 +2010,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq PL? Agreement? Elaborate meaning & examples!
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx bàllā
@@ -2311,11 +2046,6 @@
 \sd nature
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt smaller in size than kúlórá 'mountain'
 \dt 15/Nov/2014
 
 \lx bàlo᷇
@@ -2352,11 +2082,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt The dist. pl is a true distributive plural, meaning 'different types of alcoholic drinks' (Western style beer, traditional beer, ...). The normal plural is used to refer to different containers of beer. You cannot say: 'I had balsa yesterday.' THIS BEER bàl wa᷇
 \dt 24/May/2016
 
 \lx bàmà
@@ -2396,11 +2121,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx bàːmà
@@ -2437,11 +2157,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 15/Nov/2014
 
 \lx bàːmà
@@ -2478,11 +2193,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng The final -ma might be a noun class suffix (cf Bantu class 6) for masses/liquids. Compare with words for seed, blood, ...
-\np
-\nt chaff may not be a correct translation
 \dt 22/Mar/2015
 
 \lx bàmbàɗò
@@ -2520,11 +2230,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Sabeta does not know the plural. This noun was first transcribed entirely Mid. In March 2014 corrected to L. Daniel gave the plural.
 \dt 02/Dec/2014
 
 \lx bàmlè
@@ -2562,11 +2267,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 15/Dec/2015
 
 \lx bàŋgā
@@ -2606,11 +2306,6 @@
 \sd tree
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt This is a generic term for palm trees. There are apparently no terms for individual species. According to Sabeta, there are three types: oil palms, the type that gives bàŋrā fruit (a large, sweet fruit) and date palms. The latter are a recent introduction. Note that all three are useful. They may all be imported.
 \dt 02/Nov/2014
 
 \lx bàŋrā
@@ -2648,11 +2343,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt dit is een vrucht met een grote gele pit, die op een palmachtige boom groeit
 \dt 22/Oct/2014
 
 \lx bàrà
@@ -2690,11 +2380,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng this branch - bàrà wā (NOT: bàrə̀ wā)
-\np
-\nt
 \dt 08/Mar/2016
 
 \lx bàːrā
@@ -2717,13 +2402,10 @@
 \rf
 \xv āy báː bāːrá
 \xe He lies.
-\nt general present??
 \xv áy à bàːrā
 \xe He is lying
-\nt present progressive (he is in lie??)
 \xv bàː bàːrā
 \xe lie!, tell a lie!
-\nt bà should be the verb 'lie'...?
 \xv àbáːnə̀ bâːrā
 \xe He told me a lie, He lied to me.
 \sy
@@ -2739,11 +2421,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng Agreement controlled. bàːrə̄ wānō 'my lie (lie that I told)'
-\np
-\nt 'this lie' bàːrə̄ wā
 \dt 25/Nov/2015
 
 \lx bàːrà
@@ -2786,11 +2463,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt this pregnancy bàːrə̀ wā
 \dt 08/Nov/2014
 
 \lx bàràmú
@@ -2828,11 +2500,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx bàrè
@@ -2872,11 +2539,6 @@
 \sd animal ; human
 \bw
 \ue In isolation, this word can only be used as an answer to a selective question: 'Is it a man or a woman?'
-\so
-\nq
-\ng It seems to be an adjective with the final <-e> being due to the controller <été> 'person'. The same for <gùnè> 'senior'. Furthermore, the adjective bàr-V̀ does not seem to have the form of wā class (bàrò). Also a parallel evolution is for the word for 'woman' <ʧēːnē>, which appears to be the lexicalized yā class form of the adjective <tōːnō> 'female'.
-\np In the PL C3 is geminate. Compare <bàràttə̀ nàːsâ> 'males of cows' = 'bulls'
-\nt N.B. a mature, unmarried man is áw ɓwẽ́ẽ̄, literally 'young boyfriend'.
 \dt 08/Jan/2016
 
 \lx bàrè
@@ -2913,11 +2575,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt The distributional "plural" refers to the two types of yeast
 \dt 08/Jan/2016
 
 \lx bàrè
@@ -2957,11 +2614,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq CONTROL: Can it also have -o agreement marker? Is -a agreement marker is always an option with any head noun designating an animal or not?
-\ng NB: Although the DEM agreement is wā, the adjective shows either -e or -a, and not -o, suggesting yā or ɓā agreement. Perhaps, the adjective bàrè is in the process of losing the possibility to agree.
-\np
-\nt
 \dt 08/Jan/2016
 
 \lx bàːre᷇n
@@ -2998,11 +2650,6 @@
 \sd human
 \bw
 \ue
-\so
-\nq
-\ng BI: sg = pl, agreement yā / wā (ɓā)
-\np The final -n cannot be dropped
-\nt
 \dt 25/Nov/2015
 
 \lx bàr(ə̀) bàlo᷇
@@ -3039,11 +2686,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 15/Dec/2015
 
 \lx bàr(ə̀) bìʧê
@@ -3080,11 +2722,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 15/Dec/2015
 
 \lx bàrkīdīŋgó
@@ -3127,11 +2764,6 @@
 \sd animal ; insect
 \bw
 \ue
-\so
-\nq Identify exactly
-\ng Short form: -ŋ(gə́) wa᷇ (DEM), -ŋgə́ hã᷇ː (here), -ŋ wánō (1SG.POSS)
-\np
-\nt Identified as plate 26 in (Boorman 1981:37), "hornet" (any type of big wasp is populary referred to as "hornet", although this is not the strict sense of this word), Polistes sp. Met wespentaille, vrij groot, bouwt een parapluvomrig nest waar ze niet inkruipt. The Hausa name ríːná. NB_YUN_2014_03_DI:30
 \dt 02/Dec/2014
 
 \lx bàsìtà
@@ -3168,11 +2800,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 01/Dec/2015
 
 \lx bàsīyā
@@ -3209,11 +2836,6 @@
 \sd human
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt N.B. 'this friend' zou volgens m'n notities ook bàsìyā moeten zijn..., In normal pronunciation [bàsīā], in slow [bàsīyā]
 \dt 03/Jan/2016
 
 \lx Bàtā
@@ -3250,11 +2872,6 @@
 \sd name ; human ; social
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_03_DI:2
-\nq CHECK: Agreement? In which villages? Primary village?
-\ng
-\np
-\nt
 \dt 07/Mar/2016
 
 \lx bàtā
@@ -3293,11 +2910,6 @@
 \sd plant ; tree ; food
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 29/May/2016
 
 \lx bàtə̀rá
@@ -3336,11 +2948,6 @@
 \sd plant ; tree ; food
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 29/May/2016
 
 \lx bèɓè
@@ -3363,10 +2970,8 @@
 \rf
 \xv ā béɓ nǎn
 \xe He disrespects me
-\nt Answer to: 'Does he / did he disrespect you?'
 \xv ā béɓ nə̀ béɓè
 \xe He disrespected me
-\nt Answer to: 'Why did you slap him?'. This is probably a kind of semelfactive, i.e. 'He showed me (one) disrespect' 
 \lt
 \sy
 \an
@@ -3381,11 +2986,6 @@
 \sd
 \bw
 \ue
-\so Sabeta
-\nq
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx bèɓtō
@@ -3422,11 +3022,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 02/Dec/2014
 
 \lx bẽ̀ːkè
@@ -3463,11 +3058,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt N.B. All three words for wind instruments end in -e... Coincidence? What about other musical instruments
 \dt 27/Nov/2014
 
 \lx bèmrà
@@ -3506,11 +3096,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq CHECK: Tone pattern
-\ng
-\np
-\nt Note: this drink is almost always called by the Hausa name kūnú. Few people know the original Bena word. IN WHAT TYPE OF field to introduce this usage (obsolete). Daniel also volunteers the singular bèmrà for, perhaps, one glass, or a small quantity. Bitrus does not know this word
 \dt 01/Dec/2015
 
 \lx bèrkètò
@@ -3553,11 +3138,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 09/Nov/2014
 
 \lx bə̀llā
@@ -3594,11 +3174,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 27/Nov/2014
 
 \lx bə̀lmàːrà
@@ -3635,11 +3210,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 27/Nov/2014
 
 \lx bə̀m
@@ -3680,11 +3250,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng In attributive, it use requires a DEM
-\np
-\nt Sabeta and Bitrus translated the example as 'he is fat', but it later turned out that the vertical dimension is relevant here, as opposed to the adjective dìŋ
 \dt 09/Dec/2015
 
 \lx bə̀mrà
@@ -3721,11 +3286,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np The r in the singular is a tap *A TAP!*
-\nt YUN-PRA_11-12-15_016.jpg On it its own bə̀mrà is worn on the wrist, while bə̀mrə̀ nētē is worn on the ankle
 \dt 26/Nov/2015
 
 \lx bə́rkə̂mrā
@@ -3762,11 +3322,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq check identification. CONTROL: Difference with ŋmgbòŋrā?
-\ng
-\np This is an exception to the rule that voiced stops are followed by low tones.
-\nt
 \dt 29/Dec/2015
 
 \lx bə̀rwẽ̀ɗɗà
@@ -3803,11 +3358,6 @@
 \sd animal ; bird
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Sabeta and Bitrus did not know this word. They always use the Hausa word àgwàgwā. The R is a trill, that may be syllabic (if there is a preceding schwa, it is very short)
 \dt 01/Dec/2015
 
 \lx bə̀ttā
@@ -3844,11 +3394,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 04/Dec/2015
 
 \lx bìː
@@ -3885,11 +3430,6 @@
 \sd
 \bw
 \ue
-\so Sabeta
-\nq
-\ng There is another NMLZ <bìː> which is used in PROG, but not as a nominal elsewhere. 
-\np
-\nt NB_YUN_2014_03_DI:32. In old notes this was translated as 'choke'. However, Sabeta doesn' know such meaning. SA: bā voor een fishbone die vastzit in de keel; if it is a piece of sweet potatoe you would say mə́rkə́ɗō
 \dt 16/Nov/2015
 
 \lx bīː ?
@@ -3926,11 +3466,6 @@
 \sd
 \bw
 \ue
-\so
-\nq Copied from old field notes without audio verification. CHECK EVERYTHING. Sabeta doesn' know it... bā voor een fishbone die vastzit in de keel; if it is a piece of sweet potatoe you would say mə́rkə́ɗō. Choke on water is són Also CHECKED with SA by DI in NB_YUN-2014-03_DI
-\ng
-\np
-\nt
 \dt 11/Nov/2015
 
 \lx bìdō
@@ -3967,11 +3502,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt !! THIS GRANARY bìn wā, these granaries bìnsə́ wā
 \dt 14/Nov/2014
 
 \lx bìnò
@@ -4012,11 +3542,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 31/Oct/2014
 
 \lx bìnsə̀ tə̄dāːrá
@@ -4055,11 +3580,6 @@
 \sd action ; social ; music
 \bw
 \ue
-\so
-\nq CHECK: Originally noted by MV as <bĩ̀ːnsə̀ tə̄dāːrá> with long nasalized V1
-\ng
-\np
-\nt
 \dt 10/Jan/2016
 
 \lx bìnsi᷇
@@ -4096,11 +3616,6 @@
 \sd animal ; bird
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx bìsò
@@ -4137,11 +3652,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 25/Nov/2014
 
 \lx bìtô
@@ -4160,7 +3670,6 @@
 \sc
 \ee
 \re fresh
-\nq fresh in what sense? green and juicy? Also of a person in the morning, after washing? Clear difference with sense number 2?
 \lt
 \rf
 \xv
@@ -4173,17 +3682,14 @@
 \sn 2
 \de raw, uncooked
 \re raw ; uncooked
-\nq only for vegetables? or also for meat?
 \sn 3
 \de unripe
 \re unripe
-\nq for fruits? also tubers (not ready for harvest)?
 \sn 4
 \de with a bad character
 \re bad (of character) ; character (bad)
 \xv ʧēn bìʧê
 \xe woman with a bad character
-\nq MV: NO THIS IS PROBABLY A DIFFERENT WORD, of the -e/-a class.
 \lf
 \lv
 \le
@@ -4191,11 +3697,6 @@
 \sd
 \bw
 \ue
-\so
-\nq Copied from the old version: CHECK EVERYTHING and VERIFY TONE. USAGE: qualifying? predicative? HOW to say a change of state equivalent, 'cease to be fresh' or 'become stupid'? DERIVATION: MV: cannot be used in isolation, 'fresh' is translated as bìtìbítǐ ~ bìtìbítì?
-\ng In predicative use, it is bìʧìbíʧî
-\np
-\nt
 \dt 09/Dec/2015
 
 \lx bõ̀ː
@@ -4232,11 +3733,6 @@
 \sd
 \bw
 \ue
-\so
-\nq tone checked??
-\ng
-\np
-\nt
 \dt 07/Jan/2016
 
 \lx bõ̀ː bwàːrâ
@@ -4279,11 +3775,6 @@
 \sd space
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx bõ̀ː mbrã́ː
@@ -4320,11 +3811,6 @@
 \sd nature ; space
 \bw
 \ue
-\so
-\nq CONTROL: Would a slow pronunciation be <bõ̀ː mbə̄rã́ː>? CHECK: Meaning (DI: I thought it is also for natural ponds, e.g. where water stays in the rainy season)
-\ng
-\np NB: Tone L H istead of L M.H
-\nt The two plurals have the same meaning. Tonal notation thoroughly checked. Different tone on mbra
 \dt 23/Dec/2015
 
 \lx bõ̀ː wèlê
@@ -4361,11 +3847,6 @@
 \sd health
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx bòɓlòɓrà
@@ -4402,11 +3883,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Give better description (cf notebook twee met lexicon uit Dumne, p8). Bitrus does not know this word
 \dt 01/Dec/2015
 
 \lx bòɓò
@@ -4443,11 +3919,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: NMLZs, valency frame
-\ng
-\np
-\nt MV: SP 'pedir', niet in de betekenis van 'preguntar'! A more polite/indirect way to formulate the imperative is bòp ba᷇ 'please, ask'
 \dt 11/Nov/2015
 
 \lx bòɓrā
@@ -4484,11 +3955,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: Agreement? Is PL possible (many people asking / asking for many things / either?) EXAMPLE? CHECK: Can it be possessed like 'my request' / 'request to me?'
-\ng
-\np
-\nt A NMLZ of bòɓò
 \dt 11/Nov/2015
 
 \lx bòdò
@@ -4526,11 +3992,6 @@
 \sd animal ; snake
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Sabeta does not know the plural. Manliura calls this snake "night adder"
 \dt 02/Nov/2014
 
 \lx bòɗɗà
@@ -4567,11 +4028,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 07/Jan/2016
 
 \lx Bòkdōr
@@ -4608,11 +4064,6 @@
 \sd name ; settlement ; space
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_03_DI:1
-\nq CHECK: Exact location? Agreement?
-\ng
-\np
-\nt Pra Bena village. It is the village of Daniel Ayuba's mother.
 \dt 05/Mar/2016
 
 \lx bòkʧìk
@@ -4649,11 +4100,6 @@
 \sd human
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 25/Nov/2014
 
 \lx bòlkō
@@ -4691,11 +4137,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq what is the generic term for blanket?
-\ng
-\np
-\nt bòlkə̄ wā 'this blanket'
 \dt 02/Nov/2014
 
 \lx bòmò
@@ -4732,11 +4173,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 30/Aug/2015
 
 \lx bõ̀ːrá
@@ -4774,11 +4210,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 03/Nov/2014
 
 \lx bòːrà
@@ -4815,11 +4246,6 @@
 \sd fruit
 \bw
 \ue
-\so Sabeta ; Daniel
-\nq
-\ng
-\np
-\nt NB_YUN_2014_03_DI:39 Identified from Arbonnier (2004:155, 156). The Hausa name of this fruit is góndə̀n dáːʤì
 \dt 28/Nov/2014
 
 \lx bòrò
@@ -4844,7 +4270,6 @@
 \xe He appeared suddenly
 \xv bòr tàːndî
 \xe Come out! / Go out!
-\ng (a) you are inside, I am outside, (b) we are both inside
 \xv ŋgə̀ bòr ɗàː kã́ːmə̄ mə̄na᷄w?
 \xe What is your paternal clan?
 \lt What paternal clan did you come from?
@@ -4861,11 +4286,6 @@
 \sd
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:4
-\nq
-\ng
-\np
-\nt
 \dt 08/Mar/2016
 
 \lx bòːyò
@@ -4902,11 +4322,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt They are worms, look like larva.
 \dt 03/Jan/2016
 
 \lx bũ̀ː
@@ -4929,7 +4344,6 @@
 \rf
 \xv bũ̀ː lèːmú
 \xe to eat an orange
-\nq CONTROL the tones of the example & ADD it to the entry of léːmú
 \lt
 \sy
 \an
@@ -4944,11 +4358,6 @@
 \sd
 \bw
 \ue
-\so
-\nq MV: At another moment I noted bũ̄ː (M tone!), 'suck (e.g. on thumb)', nominalisation bũ̄yo᷅. Is this another verb? If not, what is the correct tonal notation?
-\ng
-\np According to our 2011 notes there is some nasal friction in the vowel (only with pa Awballa or more general?)
-\nt
 \dt 11/Nov/2015
 
 \lx bùɗɗà
@@ -4985,11 +4394,6 @@
 \sd animal ; fish
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 28/Jan/2015
 
 \lx bùkdùl
@@ -5026,11 +4430,6 @@
 \sd
 \bw
 \ue
-\so Sabeta
-\nq
-\ng Predicative: áy bùkdùl. In attributive use the DEM is obligatory. 
-\np
-\nt NB_YUN_2014_03_DI:32 Bitrus does not this word
 \dt 09/Dec/2015
 
 \lx bùkmé
@@ -5073,11 +4472,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np re C2: De consonant in C2 positie lijkt gewoon een realisatie van een velaire stop. C2 lijkt voiced te zijn, maar de voicing kan hier assimilatorisch zijn. Manliura schrijft het als "bukme".
-\nt
 \dt 10/Nov/2014
 
 \lx Bùktà
@@ -5114,11 +4508,6 @@
 \sd name ; human ; social
 \bw
 \ue
-\so
-\nq CHECK: Tone pattern? Agreement? Subclans? In which villages? Primary village?
-\ng
-\np
-\nt It is Sabeta's paternal clan.
 \dt 07/Mar/2016
 
 \lx bùktō
@@ -5155,11 +4544,6 @@
 \sd animal ; bird
 \bw
 \ue
-\so
-\nq
-\ng Short form: -ə̄ wā
-\np The PL form appears to be L.L.HL rather than L.M.HL, see for instance in SA YUN_PRA_141031_DI_02.wav (and confirmed by DA and SA on another occasion)
-\nt
 \dt 28/Nov/2014
 
 \lx bùktò
@@ -5196,11 +4580,6 @@
 \sd
 \bw
 \ue
-\so
-\nq action nominal??
-\ng
-\np
-\nt dit betekent 'eggen', als ik het goed begrijp, de grondklonters kleiner maken na het ploegen
 \dt 23/Dec/2015
 
 \lx bùlē
@@ -5237,11 +4616,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx bùlgə̀nàːrà
@@ -5278,11 +4652,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt the type of soil where this appears, is typically used to cultivate rice. It is called bùt màìlorí
 \dt 14/Nov/2014
 
 \lx bùːrà
@@ -5321,11 +4690,6 @@
 \sd human ; health
 \bw
 \ue
-\so
-\nq CHECK: A floating H? (suggested by the lack of tone spread in <bùːrə̀ été>)
-\ng
-\np The lack of tone spread in <bùːrə̀ été> suggests a floating H
-\nt there does not seem to be a related adjective
 \dt 23/Dec/2015
 
 \lx bùtò
@@ -5366,11 +4730,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt The tone on the second syllable is low-falling. The initial [b] is very voiced. ((implosive??)). The t is dental. The plural simply means 'a lot of ground'
 \dt 15/Nov/2014
 
 \lx bwàː
@@ -5407,11 +4766,6 @@
 \sd tree
 \bw
 \ue
-\so Sabeta ; Daniel
-\nq
-\ng
-\np [bʊ̯̀àː ~ bwàː] seems to be the normal pronunciation, with [bòà] being an optional variant in very slow speech, as there is no difference in pronunciation between the tree name and the verb 'to check' and other words with initial <bwa->. Note that [a] is short and in "ba"-language, this would be [bubua], not [bwabwa] or [bəbwa]. Historically, there must have been V1 /o/ as is suggested by the PL, where the pronunciation with the approximant [bw] is rejected, and especially the related word for the fruit of this tree. Bitrus hums it as 1 syllable.
-\nt NB_YUN_2014_03_DI:39 Identified from Arbonnier (2004:155, 156)
 \dt 10/Feb/2016
 
 \lx bwàdē
@@ -5454,11 +4808,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng diminutive: áw bwádàrê, dim. pl: ám bwádàttâ
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx bwàlē
@@ -5501,11 +4850,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt cf notebook for sg versus pl
 \dt 03/Jan/2016
 
 \lx bwàllā
@@ -5548,11 +4892,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq
-\ng Short form: -ə̄ wā
-\np
-\nt species of tṹː (generic term)
 \dt 28/Nov/2014
 
 \lx bwàltə̀rā
@@ -5589,11 +4928,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 28/Nov/2014
 
 \lx bwàltō
@@ -5633,11 +4967,6 @@
 \sd human ; social
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 28/Nov/2014
 
 \lx bwàrà
@@ -5660,7 +4989,6 @@
 \rf
 \xv tȭːrə̄ bwàrə̀ bí Númàn
 \xe The road splits in Numan.
-\nq CONTROL: Tones, especially on bi
 \lt
 \sy
 \an
@@ -5675,11 +5003,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: NMLZ on -yǒ: bwàryǒ or bwàrə̀yǒ?
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx bwàːrà
@@ -5716,11 +5039,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 28/Jan/2015
 
 \lx bwàːrə́kō
@@ -5757,11 +5075,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_DI_03:3
-\nq
-\ng
-\np
-\nt called "tiger" in Nigerian English. Identified with DA and Kingdon's guide
 \dt 25/May/2016
 
 \lx bwàːrò
@@ -5800,11 +5113,6 @@
 \sd
 \bw
 \ue
-\so
-\nq BI: bwàrò (short V)
-\ng
-\np
-\nt
 \dt 16/Nov/2015
 
 \lx bwàtə́rè
@@ -5841,11 +5149,6 @@
 \sd human
 \bw Hausa bàtúːrè
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 12/Jan/2016
 
 \lx Bwèː
@@ -5883,11 +5186,6 @@
 \sd religion ; health
 \bw
 \ue
-\so
-\nq
-\ng
-\np BI: = 'dog' (V is long)
-\nt
 \dt 07/Feb/2016
 
 \lx bwèɗbwéɗ-ɗà
@@ -5924,11 +5222,6 @@
 \sd
 \bw
 \ue
-\so
-\nq last consonant in sg ɗɗ or dɗ??
-\ng
-\np
-\nt
 \dt 07/Dec/2015
 
 \lx bwèɗè
@@ -5971,11 +5264,6 @@
 \sd
 \bw
 \ue
-\so Sabeta
-\nq
-\ng
-\np
-\nt form in lx is IMP SG. NB_YUN-2013-01:21 = YUN-PRA_13-10-05_DI_03.WAV
 \dt 28/Nov/2014
 
 \lx bwèlẽ̀ːrâ
@@ -6012,11 +5300,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 19/Nov/2014
 
 \lx bwèlò
@@ -6053,11 +5336,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq check the exact extent of this body part, e.g. whether it includes the shoulder.
-\ng
-\np
-\nt
 \dt 28/Jan/2015
 
 \lx bwèːrō
@@ -6098,11 +5376,6 @@
 \sd human
 \bw
 \ue
-\so
-\nq 'this widow' bwèːrə̄ wā
-\ng
-\np
-\nt
 \dt 28/Jan/2015
 
 \lx bwẽ̀ːtò
@@ -6139,11 +5412,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Beer made for sale
 \dt 18/Nov/2015
 
 \lx ɓã́ː
@@ -6185,11 +5453,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: Nasalization & length of V1 in the PL
-\ng
-\np MV: NB V1 is nasal in the singular, not in the plural...
-\nt There is a variant ɓã́ːrá / , but apparently only for the meaning 'metal'. Insert new entry??
 \dt 05/Jan/2016
 
 \lx ɓáːlâ
@@ -6226,11 +5489,6 @@
 \sd clothing
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:6-7
-\nq
-\ng
-\np
-\nt
 \dt 26/Feb/2016
 
 \lx ɓã́ːrá
@@ -6270,11 +5528,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 28/Nov/2014
 
 \lx ɓéːɓé
@@ -6297,7 +5550,6 @@
 \rf
 \xv gènə̀ ɓèːɓé
 \xe The soup is hot
-\nq CONTROL: this predicative example
 \xv gèn ɓèːɓé wa᷇
 \xe hot soup
 \xv gènsə̀ ɓeː̀ɓé wa᷇
@@ -6306,7 +5558,6 @@
 \xe hot water
 \xv mbàɲ ɓèːɓé ya᷇
 \xe hot cassava
-\nt -wa variant not possible here
 \xv ɓúr ɓéːɓé ya᷇ ~ ɓéːɓé wa᷇
 \xe hot porridge
 \xv bōllə̄ ɓēːɓé wa᷇
@@ -6325,11 +5576,6 @@
 \sd
 \bw
 \ue
-\so
-\nq DECIDE: Write the wa / ya separately
-\ng MV: Groundnuts (sg and pl) also take -wa. NOT AGREEMENT If the question is "is X a cool one or a hot one" the answer will contain 'hot' with a -ya ending. Andere contexten: which one should I bring? ook ya. But when you ask: what did he drink? The answer is hot porridge met -wa. Without this wa / ya clitic or suffix, ɓéɓé functions as a predicate 'the soup is hot'
-\np
-\nt MV: You can't say 'hot gomlo': if you cook it, it's soup, if you don't it's not hot. This word cannot mean 'spicy'
 \dt 29/Nov/2015
 
 \lx ɓēlēŋ
@@ -6366,11 +5612,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: Predicative vs Attributive vs Adverbial usage. (Adjust PoS)
-\ng very slim: ɓēlēŋ ɓélēŋ In attributive, it use requires a DEM
-\np
-\nt
 \dt 09/Dec/2015
 
 \lx ɓēŋtə̄rēŋ
@@ -6392,7 +5633,7 @@
 \lt
 \rf
 \xv dã̀wrə́ ɓēŋtə̄rēŋ wā
-\xe skintight piece of clothing ; tight piece of clothing (either comfortable or not) 
+\xe skintight piece of clothing ; tight piece of clothing (either comfortable or not)
 \lt
 \sy
 \an
@@ -6407,11 +5648,6 @@
 \sd
 \bw
 \ue
-\so Sabeta
-\nq
-\ng Predicative use 'it is P'. In attributive use requires a DEM
-\np
-\nt NB_YUN_2014_03_DI:62
 \dt 09/Dec/2015
 
 \lx ɓə́ná
@@ -6448,11 +5684,6 @@
 \sd
 \bw
 \ue
-\so
-\nq check meaning, was this singular or plural?
-\ng
-\np
-\nt
 \dt 20/Feb/2015
 
 \lx ɓə̄nāːrēn
@@ -6489,11 +5720,6 @@
 \sd nature
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 20/Feb/2015
 
 \lx ɓə́ré
@@ -6530,11 +5756,6 @@
 \sd animal ; insect ; ant
 \bw
 \ue
-\so
-\nq not clear whether there is a separate plural form...
-\ng
-\np
-\nt
 \dt 28/Jan/2015
 
 \lx ɓə́rə́ɗɗá
@@ -6571,11 +5792,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 26/Nov/2014
 
 \lx ɓīsã̄ː
@@ -6612,11 +5828,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np V-length confirmed with Bitrus
-\nt
 \dt 20/Nov/2015
 
 \lx ɓōl
@@ -6650,11 +5861,6 @@
 \sd
 \bw
 \ue
-\so student paper
-\nq CHECK: Predicative vs Attributive vs Adverbial usage. (Adjust PoS)
-\ng
-\np
-\nt From student paper: Də́ sə́k gūlārá kpòl Let's redo the work.
 \dt 23/Dec/2015
 
 \lx ɓōllā
@@ -6691,11 +5897,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 26/Nov/2014
 
 \lx ɓōŋɓōŋ
@@ -6732,11 +5933,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng In attributive, it use requires a DEM. 
-\np
-\nt Meaning from Bitrus: somebody who hardly ever makes wrong decisions, who understands things
 \dt 09/Dec/2015
 
 \lx ɓōŋɓōŋtá
@@ -6773,11 +5969,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 14/Nov/2014
 
 \lx ɓót háːtā
@@ -6815,11 +6006,6 @@
 \sd tree
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx ɓót líŋgá
@@ -6856,11 +6042,6 @@
 \sd tree
 \bw
 \ue
-\so
-\nq check tone on second part. líŋgá means Kanakuru person, līŋgā means treetop
-\ng
-\np
-\nt líŋgá is "kàbzè" in Fulani. It is also the name of the Kanakuru, a tribe in Shelleng LGA 
 \dt 23/Dec/2015
 
 \lx ɓót síŋlīŋsâ
@@ -6897,11 +6078,6 @@
 \sd
 \bw
 \ue
-\so
-\nq Blade is probably not the right english term for this. Stukje hout waarop je slaat
-\ng
-\np
-\nt But Daniel first used a singular form of the word for "xylophone": ɓót síŋlīŋgó
 \dt 23/Dec/2015
 
 \lx ɓótá
@@ -6942,11 +6118,6 @@
 \sd tree
 \bw
 \ue
-\so
-\nq
-\ng Two agreement patterns are possible in the singular. Sabeta first only gave the wā option.
-\np
-\nt Kleinewillinghöfer (1996: 85) notes M.M tone (speaker from Dumne). Should be a mistake, according to Sabeta.
 \dt 08/Mar/2016
 
 \lx ɓúkrá
@@ -6978,11 +6149,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng dependency reversal in example??
-\np
-\nt
 \dt 28/Nov/2014
 
 \lx ɓúlkə́náːrá
@@ -7025,11 +6191,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng MV: In the PL example nə́ːnə́ lêːmú ɓúlkə́náːtá, you cannot use the plural form yòː lèːmú. Here two, both orders between 'entire' and 'orange' are possible (DI: I added this possible example)
-\np
-\nt
 \dt 11/Nov/2015
 
 \lx ɓúrá
@@ -7066,11 +6227,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq is the plural a distributive plural (if so, move to field 2d)
-\ng
-\np
-\nt dit is porridge die klaargemaakt is met andere ingredienten, zoals groenten
 \dt 28/Jan/2015
 
 \lx ɓwáː
@@ -7109,11 +6265,6 @@
 \sd instrument ; smithery
 \bw
 \ue
-\so
-\nq Isn't it also the small iron hook used in combination with the razor ɲṍː for body scarifications?
-\ng
-\np
-\nt
 \dt 20/Nov/2015
 
 \lx ɓwáː
@@ -7150,11 +6301,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt e.g. people, work
 \dt 27/Nov/2015
 
 \lx ɓwáɗá
@@ -7191,11 +6337,6 @@
 \sd
 \bw
 \ue
-\so
-\nq NMLZ? CHECK: What's the difference with bwèɗè 'finish'? (more examples) ETYM: Could it be rlated to mbwāɗ 'all'?
-\ng
-\np
-\nt
 \dt 12/Nov/2015
 
 \lx ɓwáːɗá
@@ -7232,11 +6373,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: Is it a single verb stem or a compound with 3SG.ANIM or <ɗa> 'inside'. ADD: NMLZs, Examples
-\ng
-\np
-\nt imperative singular form of the verb, e.g. tuo. This seems to be either the verb <ɓwá> + 3SG.ANIM or the same verb with <ɗa> 'inside'.
 \dt 23/Dec/2015
 
 \lx ɓwã̄ːkā
@@ -7277,11 +6413,6 @@
 \sd
 \bw
 \ue
-\so Sabeta
-\nq
-\ng
-\np
-\nt NB_YUN_2014_03_DI:63
 \dt 28/Nov/2014
 
 \lx ɓwáláŋ
@@ -7320,11 +6451,6 @@
 \sd
 \bw
 \ue
-\so
-\nq ADD: In English, explanation of the difference between 'high, tall, long'
-\ng reduplicated for high degree (very tall) In attributive, it use requires a DEM
-\np
-\nt
 \dt 29/May/2016
 
 \lx ɓwẽ̄ː
@@ -7361,11 +6487,6 @@
 \sd human
 \bw
 \ue
-\so
-\nq TONE? H?
-\ng For the plural demonstrative, Sabeta volunteered the wā-form, when I asked, he also accepted the ɓā form.
-\np
-\nt
 \dt 16/Nov/2015
 
 \lx ɓwẽ̄ ã̄ːnē
@@ -7402,11 +6523,6 @@
 \sd
 \bw
 \ue
-\so
-\nq no vowel length on ɓwe? How to know!? Doesn't this simply mean 'my guy'? How would you say 'her boyfriend' CONTROL: V-length of e and a, and whether a is also nasalized? CONTROL: Is this cross-reference <ánē> appropriate?
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx ɓwēttō
@@ -7443,11 +6559,6 @@
 \sd
 \bw
 \ue
-\so
-\nq Is this a NMLZ? What's the verb then? Other grammatical info. Also ADD examples (including with a suicide by hanging oneself)
-\ng
-\np
-\nt met de strop (bv voor zelfmoord)
 \dt 12/Nov/2015
 
 \lx ɓwíttə́rá
@@ -7484,11 +6595,6 @@
 \sd
 \bw
 \ue
-\so
-\nq Find correct English translation, also to keep up trousers
-\ng
-\np
-\nt
 \dt 06/Dec/2014
 
 \lx dàː
@@ -7521,7 +6627,6 @@
 \re get
 \xv ā dáː gùlàːrə́ bésō
 \xe He got a new job
-\nt CHECK the notation with the recording. According to Sabeta, <bēsō> means 'another' rather than just 'new'.
 \lf Idiom
 \lv dàː X wídó
 \le wound X
@@ -7529,11 +6634,6 @@
 \sd
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_03_DI:2
-\nq
-\ng
-\np
-\nt NB_YUN_2014_03_DI:61
 \dt 01/Apr/2016
 
 \lx dã̀ː wèɗò
@@ -7570,11 +6670,6 @@
 \sd clothing
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx dàɓʧe᷆
@@ -7611,11 +6706,6 @@
 \sd
 \bw
 \ue
-\so
-\nq Only in compounds/phrases? Hapax? CHECK: The phrase 'on the head' suggests the presence of a floating H. Is it there with other nouns? in other constructions?
-\ng
-\np
-\nt
 \dt 15/Jan/2016
 
 \lx dàkàʧĩ́ːtó
@@ -7652,11 +6742,6 @@
 \sd plant
 \bw
 \ue
-\so Sabeta ; Daniel
-\nq Plural?
-\ng Short form: -ə́ wa᷇
-\np [dàkàʧĩ́ːtó] is from Sabeta (not recorded). [dàkʧĩ́ːtó] from Daniel, recorded in YUN_PRA_141125_DI_01.wav
-\nt Identified by DA as Okezie & Agyakwa (1998:402). ADD the variant form as a separate entry.
 \dt 28/Nov/2014
 
 \lx dã̀ːkōlō
@@ -7693,11 +6778,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt species of tṹː (generic term), called 'rat' in S and B's English
 \dt 28/Jan/2015
 
 \lx dàlwàːrà
@@ -7734,11 +6814,6 @@
 \sd animal ; bird
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 28/Jan/2015
 
 \lx dàŋ
@@ -7775,11 +6850,6 @@
 \sd
 \bw
 \ue
-\so Daniel ; Sabeta ; YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_03_DI:1-2
-\nq
-\ng This verb seems to require an animate object, either a pronominal (e.g. ɓá) or nominal (e.g., Sāːɓētá). There is no such IMP form as dàŋà with the meaning 'gossip about it!' There seem to be no other nomilizations, such as <dàŋò, dàŋyǒ>.
-\np
-\nt
 \dt 10/Mar/2016
 
 \lx dàŋgà
@@ -7818,11 +6888,6 @@
 \sd
 \bw
 \ue
-\so Sabeta ; Daniel
-\nq
-\ng
-\np
-\nt
 \dt 11/Nov/2015
 
 \lx dàŋgò
@@ -7859,11 +6924,6 @@
 \sd music ; instrument
 \bw
 \ue
-\so
-\nq Check tone, determine tone scheme
-\ng
-\np
-\nt From Dumne notes: called kàlàŋgú in Hausa. D in plate on p111 of Manliura's Yungur Heritage. He writes (p109-110): this is a variable-tune drum. The drummer uses its elastic strings to regulate tone, by pressing and releasing his armpit grip of the dango, to make differing interesting sounds for rhythmic dance. Skin of water monitor lizard is used to cover the drum surface on a wooden rim. The instrument has only one side for drumming; the rim of the other end is perforated to notch the elastic tone-variability strings.
 \dt 11/Feb/2016
 
 \lx dàŋkálē
@@ -7900,11 +6960,6 @@
 \sd food ; plant
 \bw Hausa: dànkálì
 \ue
-\so
-\nq CHECK: whether nasal is velar.
-\ng
-\np
-\nt For potatoes, the English "Irish potatoe" is used. I think Pa Awballa volunteered the popular etymology 'touch your stomach'...
 \dt 29/May/2016
 
 \lx dàŋrā
@@ -7941,11 +6996,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 28/Jan/2015
 
 \lx dàŋtō
@@ -7982,11 +7032,6 @@
 \sd
 \bw
 \ue
-\so Daniel ; Sabeta
-\nq
-\ng
-\np
-\nt NB_YUN-2014-03_DI:1
 \dt 28/Nov/2014
 
 \lx dã̀ːrà
@@ -8023,11 +7068,6 @@
 \sd body ; clothing
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx dã̀ːrà
@@ -8064,11 +7104,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq Different word from skin??? cf tone scheme supposed to be different
-\ng
-\np
-\nt
 \dt 28/Jan/2015
 
 \lx dàːrà
@@ -8105,11 +7140,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq Check tone and determine tone scheme.
-\ng
-\np
-\nt Image A in the plate on p 111 of Manliura's Yungur Heritage. Manliura writes: this is a type of drum with a long wooden neck attached to a large calabash which has an opening. The calabash gourd amplifies the drumming. Dara is as long as bobla, though the calabash gourdamplifier makes up half of the length. Dara drumming is combined with that of dango, to make traditional rhythm during saoalta or hono dance. BITRUS_Pictures_151116_025.jpg Bitrus: made with monitor lizard skin (hwã̄ːrā). It is used to dance the male initiaion dance wánná (hīːrə̄ wānná, hīːrə̄ hōnō)
 \dt 08/Dec/2015
 
 \lx dàsè
@@ -8146,11 +7176,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt In 2011 we noted this word as M.M, and we also noted a (rare, apparently) singulative form: dāsə̄rā. Sabeta and Bitrus do not know this form
 \dt 03/Jan/2016
 
 \lx dã̀ːsō
@@ -8187,11 +7212,6 @@
 \sd plant
 \bw
 \ue
-\so Daniel ; Sabeta
-\nq Plural?
-\ng Short form: dã̀ːsə̄ wā
-\np YUN_PRA_141125_DI_01.wav
-\nt NB_YUN_2014_03_DI:89. Identified by DA as Okezie & Agyakwa (1998:515), by Sabeta as both Okezie & Agyakwa (1998:515, 517). Dit is vrij hoog gras, waarvan de aar een beetje lijkt op millet (maar veel dunner)
 \dt 28/Nov/2014
 
 \lx dã̀wrâ
@@ -8213,7 +7233,7 @@
 \lt
 \rf
 \xv dã̀wrə́ ɓēŋtə̄rēŋ wā
-\xe skintight piece of clothing ; tight piece of clothing (either comfortable or not) 
+\xe skintight piece of clothing ; tight piece of clothing (either comfortable or not)
 \lt
 \sy
 \an
@@ -8228,11 +7248,6 @@
 \sd
 \bw
 \ue
-\so
-\nq how to note diphtongs?
-\ng
-\np
-\nt
 \dt 11/Nov/2015
 
 \lx dèbèllá
@@ -8271,11 +7286,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 28/Jan/2015
 
 \lx dèlkò
@@ -8312,11 +7322,6 @@
 \sd animal ; bird
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt 'this bird (sp)' dèlkə̀ wā
 \dt 14/Nov/2014
 
 \lx dèllà
@@ -8353,11 +7358,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt NL spijker, FR clou, 
 \dt 28/Nov/2014
 
 \lx dènàːtó
@@ -8394,11 +7394,6 @@
 \sd social
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 30/Mar/2016
 
 \lx dènde᷉n
@@ -8440,11 +7435,6 @@
 \sd
 \bw
 \ue
-\so
-\nq Decide on its part of speech
-\ng
-\np
-\nt When it qualifies the subject, it is preferrable to use it as an adverb. Thus, <ɓétə́ dèndên ɓá wáɗàn> for 'Many people came' is acceptable but sounds strange to Bitrus. NB_YUN_2015_DI_01:27-28
 \dt 08/Mar/2016
 
 \lx dènè
@@ -8469,7 +7459,7 @@
 \xe I don't like you / (intense) I hate you
 \lt You are disliked by me
 \xv nə̀ dènèn
-\xe People don't like me / (intense) People hate me 
+\xe People don't like me / (intense) People hate me
 \sy
 \an
 \cf dènàːtó
@@ -8483,11 +7473,6 @@
 \sd
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_03_DI:2
-\nq CHECK: NMLZ on -yǒ? (I discussed it in 2015 with Bitrus)
-\ng You cannot add a close demonstrative to the noun {dènò} (L.L (A)) bevestigd door Daniel (you can say wū dènò). Apparently, because {dènò} is an action NMLZ 'provoking aversion, dislike, hatred'
-\np
-\nt
 \dt 30/Mar/2016
 
 \lx dèntə́mà
@@ -8524,11 +7509,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: Form ; Meaning (right - correct? right vs left? other uses) Translation of the example (bī 'actually'?) ADD: examples (eg. He is right about that / about him, He is right to do so). Grammatical info: a noun? PL? agreement pattern?
-\ng
-\np
-\nt Used especially (BI) "when you act on some bad thing that somebody did against you". This word does not mean anything on its own, only with preposition ā.
 \dt 22/Nov/2015
 
 \lx də̀bə̌r
@@ -8565,11 +7545,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np NB variant as noted in Dumne notebook, check old recording. (But Sabeta confirms, also the tone)
-\nt plural?? Cf Picture C on the plate p 111 in Manliura's Yungur Heritage. Manliura writes (p110) this is a special wooden drum used during memorial festivals. A cow skin is used to cover the whole wooden surface so that only the rim surface is tanned for drumming. Dabr sizes vary thus, producing different pitches that rhyme when drummed in combination. This is also a special dabr that is used to announce and fight wars refe,rred to as dabr kito (war drum).
 \dt 25/Nov/2014
 
 \lx də̀ɓā
@@ -8606,11 +7581,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 03/Apr/2016
 
 \lx də̀ɓàːrà
@@ -8647,11 +7617,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 03/Apr/2016
 
 \lx də̀ɗò
@@ -8688,11 +7653,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt In Dumne we noted the plural də̀sâ
 \dt 23/Nov/2014
 
 \lx də̀fə̀rdə̀fə̀r
@@ -8729,11 +7689,6 @@
 \sd
 \bw
 \ue
-\so Sabeta ; Bitrus
-\nq CHECK: Any semantic difference with the non-reduplicated form (degree of intensity)?
-\ng Used predicatively. In attributive use requires a DEM. The default form is reduplicated, but a non-reduplicated variant is possible (confirmed by Bitrus as well).
-\np
-\nt NB_YUN_2014_03_DI:63 NOTE: Bitrus meaning: something which is a bit wet and falls apart in smaller chunks but not in crumbles, e.g. if you make cornflakes wet and press them in the hand and then put it on the table they will fall apart in smaller chunks (or about "couscous")
 \dt 30/Mar/2016
 
 \lx də̀krà
@@ -8770,11 +7725,6 @@
 \sd instrument
 \bw
 \ue
-\so Sabeta ; Daniel
-\nq
-\ng
-\np
-\nt SA has də̀krà (YUN_PRA_141031_DI_02.wav), while DA has L.M (YUN_PRA_141024_DI_01.wav)
 \dt 28/Nov/2014
 
 \lx də̀lgbàŋ
@@ -8811,11 +7761,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 01/Dec/2015
 
 \lx də̀lō
@@ -8852,11 +7797,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 28/Jan/2015
 
 \lx də̀mkə̀də̀m
@@ -8893,11 +7833,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 25/Nov/2014
 
 \lx d(ə̀)wà
@@ -8934,11 +7869,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 07/Feb/2016
 
 \lx d(ə̀)wè
@@ -8975,11 +7905,6 @@
 \sd human ; music ; social
 \bw
 \ue
-\so NB_YUN_2014_DI_03:90 ; NB_YUN_2015_DI_01:79
-\nq
-\ng Both Bitrus and Sabeta doubt on what is PL and what is SG of the two forms, while Manliura gave <dwa> as SG. In all probability, the original class pairing is -a/-e but because it is so rare for anything but trees (there is only one other exception, viz. <yámá> 'Libo person'), it becomes regularized to -e/-a pairing.
-\np Found in Manliura's Proverbs books as "champion" <dwa>. SA also translates as "expert". In ba-language (SA), it is dùbùwà, suggesting that it can also have a slow speech variant <dùwà>, next to <də̀wà> (compare words like <sã̀(w)õ̀> 'snake'.
-\nt
 \dt 07/Feb/2016
 
 \lx dìː
@@ -9018,11 +7943,6 @@
 \sd kinship
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx dìkō
@@ -9059,11 +7979,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 21/Nov/2014
 
 \lx dìːnò
@@ -9079,7 +7994,6 @@
 \4d
 \sn 1
 \de grave before it is covered by a gravestone
-\nq deze vertaling moet herzien worden, marginaal en contextueel bepaald, gewoon soort hoe noem je dat, langwerpig heuveltje. DI: Is 'earth mound', 'burrial mound' ok?. CHECK: Meaning (only earth pile?) Examples of use?
 \sc
 \ee
 \re mound (earth _) ; earth mound
@@ -9095,7 +8009,6 @@
 \sn 2
 \de gums (the tissue around the necks of the teeth)
 \re gums
-\nq CONTROL: In the meaning of 'gums' can the SG refer to both the upper & the lower gum? Does the PL refer only to 'gums (of several people). ADD: Examples 'to chew with the gums', 'his gums are bleading / itching'
 \lf
 \lv
 \le
@@ -9103,11 +8016,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq CONTROL: Form (V1 noted short in SG, but long in PL)
-\ng
-\np
-\nt
 \dt 12/Nov/2015
 
 \lx dìŋ
@@ -9146,11 +8054,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng In attributive, it use requires a DEM
-\np
-\nt About things only, not animates (nor humans) vs. gbǎː 'big' (both things and animates). gbǎː can be applied to objects of any type of shape if they are big, while dìŋ can only be used to objects without a salient vertical (or horizontal) dimension (elongated).
 \dt 09/Dec/2015
 
 \lx dìŋgě
@@ -9184,11 +8087,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq CONTROL: Is the PL really <kṹːsâ> or is it just sg = pl and <kṹːsâ> is the PL of a generic term for 'dish' <kwẽ́ː>?
-\ng 'this dinge' - dìŋ ya᷇
-\np
-\nt The plural form, originally noted as kṹːsâ, "also includes metal ones". Dinge is usually used for smaller calabashes, kṹː for bigger ones
 \dt 08/Jan/2016
 
 \lx dìŋsìŋgó
@@ -9226,11 +8124,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq Daniel and Sabeta do not know the plural
-\ng
-\np
-\nt ʤááɓá in Hausa.  long snout, predator, smelly, (categorised as a type of rat). It is said to have a poisonous bite, 'this rat' - dìŋsìŋ wa᷇
 \dt 23/Mar/2015
 
 \lx dìò
@@ -9267,11 +8160,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 01/Dec/2015
 
 \lx dìːrā
@@ -9308,11 +8196,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 12/Nov/2014
 
 \lx dīsĩ̄ːrá
@@ -9349,11 +8232,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: Tone on V1 and V2 - isn't it L? OR it should have a variant with nd-?
-\ng
-\np
-\nt
 \dt 29/Dec/2015
 
 \lx dǒː
@@ -9390,11 +8268,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Identification from Manliura, who adds "common or Grimm's duiker)
 \dt 20/Feb/2015
 
 \lx dòbrà
@@ -9431,11 +8304,6 @@
 \sd nature
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 28/Jan/2015
 
 \lx dòbrə̀ nìːrà
@@ -9472,11 +8340,6 @@
 \sd nature
 \bw
 \ue
-\so
-\nq CONTROL: The tone class of dòːbrə̀ in this phrase, since on its own it is B, not A. BUT MV: 'in the wilderness' - ɗā dóbrə̀ nìːrà. CHECK: the second word in the compound, is it niː́ʧí ̄ 'nothing, emptiness'?? Some kind of agreement? or is there a word nìːrà. Is there  a verb <nì(ː)> 'to loose, get lost'?
-\ng
-\np
-\nt tMV: ypically, people look for firewood here. May better be treated as a sub-entry of dobra
 \dt 12/Nov/2015
 
 \lx dòdòːrà
@@ -9513,11 +8376,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: V1 length!
-\ng
-\np
-\nt Keloid scar?? (cf entry "keloid" in Wikipedia); NL wild vlees in een litteken (niet pijnlijk)
 \dt 03/Apr/2016
 
 \lx dòlā
@@ -9554,11 +8412,6 @@
 \sd tree
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 28/Jan/2015
 
 \lx dòlkè
@@ -9597,11 +8450,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq CONTROL: Tone class B? (see hún dólkə̀tâ 'tripod for cooking pots'). CONTROL: Bitrus says (and showed a picture) that dòlkə̀sà is 'pot with a tripod (it's a ceramic pot with three legs)', each of its legs separately is called dòlkè if these legs break off, then they will be called dòlkè (sg) / dòlkə̀sà (pl). BITRUS later gave dwèlkè (sg) / dwèlkə̀tà (pl).
-\ng
-\np
-\nt NOTE NOVEMBER 2014: in notes dumne also leg of a bed or table
 \dt 27/Dec/2015
 
 \lx dòlkə̀rà
@@ -9638,11 +8486,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 27/Dec/2015
 
 \lx dòlkə̀sà
@@ -9681,11 +8524,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq CONTROL: Tone pattern A/B? Agreement? CHECK: Is hún dólkə̀tâ a synonym = dòlkə̀sà 'ceramic pot with three legs' or/and it is the pot part of the tripod pot? Can it also be <hún dólkə̀tà ~ hún dólkə̀sâ ~ hún dólkə̀sà>?
-\ng
-\np
-\nt
 \dt 27/Dec/2015
 
 \lx dòmlòmrà
@@ -9722,11 +8560,6 @@
 \sd
 \bw
 \ue
-\so
-\nq This is probably a plural..., tone scheme A or B? ADD the variant
-\ng
-\np dòmlòmsà variant from Bitrus
-\nt The top part of the okra pod where it used to connect to the plant is cut off during cooking
 \dt 01/Dec/2015
 
 \lx dòmrà
@@ -9763,11 +8596,6 @@
 \sd body ; health
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 29/Dec/2015
 
 \lx dònó
@@ -9807,11 +8635,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: Form, vowel length, transitivity
-\ng
-\np
-\nt
 \dt 30/Mar/2016
 
 \lx dònò
@@ -9850,11 +8673,6 @@
 \sd human ; social
 \bw
 \ue
-\so
-\nq
-\ng SF: this bride - dòn wā, this is a bride here - ɲāː dònə̀ hã̄ː
-\np
-\nt NB_YUN_2015_DI_01:1
 \dt 16/Nov/2015
 
 \lx dòːrà
@@ -9891,11 +8709,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 01/Dec/2015
 
 \lx dòrmà
@@ -9932,11 +8745,6 @@
 \sd
 \bw
 \ue
-\so
-\nq Agreement in PL? CHECK: The verb 'to draw'
-\ng
-\np
-\nt The verb 'draw' is dòr
 \dt 12/Nov/2015
 
 \lx dòːtà
@@ -9973,11 +8781,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: Tone pattern?
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx dùː
@@ -10016,11 +8819,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Bitrus
 \dt 27/Dec/2015
 
 \lx dùkdúkrà
@@ -10057,11 +8855,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 07/May/2015
 
 \lx dùːmà
@@ -10104,11 +8897,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq CONTROL: The variant <dùmbrã́> looks suspicious - V1, m, nasalisation of V2. Compare <kã́ːmá ~ kã́ːb(ə́)rá> 'paternal clan'. Is it <dùːmb(ə̀)rá ~ dũ̀ːb(ə̀)rá>? Is V1 nasalized <dũ̀ːmà?> CHECK: T2 - L or M?
-\ng The final -ma could be the "Bantu class 6" mass/liquid affix historically
-\np
-\nt
 \dt 01/Jun/2016
 
 \lx dùŋgà
@@ -10145,11 +8933,6 @@
 \sd tree
 \bw
 \ue
-\so
-\nq Identify! Probably *not* iroko.
-\ng
-\np
-\nt The plural is the (folk) etymology of the village name 'Dumne', which would have been characterised by a high concentration of iroko trees. There is a velar nasal in this word!!
 \dt 20/Feb/2015
 
 \lx dùŋkùlùrù
@@ -10186,11 +8969,6 @@
 \sd social
 \bw
 \ue
-\so
-\nq verder beschrijven: soort tontine van landbouwers die om beurten collectief op de farm van één van hen gaan werken. Deze persoon zorgt dan voor bier en een maaltijd 's avonds (meat)
-\ng
-\np
-\nt
 \dt 20/Feb/2015
 
 \lx dùːrā(H)
@@ -10229,11 +9007,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: (1) Does the floating H appear with this word only in the genitive construction? (2) Do other words of M.H class with -ra suffix, such as bàllā, have a floating H after them?
-\ng
-\np The examples of the genitive construction suggest that there is a floating H at the end.
-\nt
 \dt 29/Dec/2015
 
 \lx dwèlkè
@@ -10270,11 +9043,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 27/Dec/2015
 
 \lx dwèlkə̀rà
@@ -10311,11 +9079,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 27/Dec/2015
 
 \lx ɗã́ː
@@ -10352,11 +9115,6 @@
 \sd
 \bw
 \ue
-\so
-\nq MV: I also elicited dĩ́yo᷅ 'licking' (also "licking up" sauce with a piece of bread). Is this another verb? What is its imperative singular form?
-\ng
-\np
-\nt vorm in lx is IMP SG, e.g. fingers after a meal, or a cat/dog drinking
 \dt 14/Nov/2015
 
 \lx ɗā(H)
@@ -10400,11 +9158,6 @@
 \sd space
 \bw
 \ue
-\so
-\nq CONTROL: The tone of ɗâːrā. CONTROL: The tone of this pp seems (DI) sometimes to be L rather than M. NB: Definition to be revised ('on the back') CHECK: In {ŋgə̀ bòr ɗàː kã́ːmə̄ mə̄na᷄w?} Sabeta consistently pronounces {ɗàː} with a long vowel and L tone - is this variant conditioned (after a L tone, after a L toned verb) or free?
-\ng
-\np Examples of long V are YUN_PRA_141031_DI_05_043 and other tokens there. The form <ɗáː> is from Daniel NB_YUN_2014_DI_03:41 <ɗáː máːtə̄mā>. According to Bitrus, both wú ɗà ɗâːrā & wú ɗā ɗâːrā are OK
-\nt
 \dt 03/Apr/2016
 
 \lx ɗáktá
@@ -10442,11 +9195,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx ɗáːrá
@@ -10483,11 +9231,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 20/Feb/2015
 
 \lx ɗâːrā
@@ -10509,7 +9252,6 @@
 \lt
 \rf
 \xv wú ɗà ɗâːrā
-\np According to Bitrus, both wú ɗà ɗâːrā & wú ɗā ɗâːrā are OK
 \va wûn ɗâːrā
 \xe It is inside
 \lt
@@ -10526,11 +9268,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np The lexical tone confirmed with Bitrus
-\nt
 \dt 01/Dec/2015
 
 \lx ɗáːríō
@@ -10567,11 +9304,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 01/Dec/2015
 
 \lx ɗén
@@ -10608,11 +9340,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx ɗẽ́ːrá
@@ -10649,11 +9376,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 21/Nov/2014
 
 \lx ɗə́lmáːrà
@@ -10696,11 +9418,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Daniel pronounces the plural as ɗə́lmáttà
 \dt 03/Apr/2016
 
 \lx ɗə́lmáːtà
@@ -10743,11 +9460,6 @@
 \sd human ; health
 \bw
 \ue
-\so
-\nq Daniel pronounces ɗə́lmáttà. Is this systematic? If not, insert as variant? Is there a plural? A story about three stutterers... Paradigm? Agreement?
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx ɗə̄lwə̄r
@@ -10784,11 +9496,6 @@
 \sd
 \bw
 \ue
-\so Sabeta ; Daniel
-\nq
-\ng In attributive, it use requires a DEM
-\np
-\nt SA and DA reject the form /ɗə̄wə̄r/. an orange is ɗə̄lwə̄r, for instance
 \dt 09/Dec/2015
 
 \lx ɗə̄m
@@ -10827,11 +9534,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng In attributive, it use requires a DEM. Reduplication ɗə̄m ɗə̄m for a higher temperature than singleton ɗə̄m
-\np
-\nt
 \dt 09/Dec/2015
 
 \lx ɗə̄māːrá
@@ -10874,11 +9576,6 @@
 \sd social ; emotion
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 29/Dec/2015
 
 \lx ɗə́mbá
@@ -10919,11 +9616,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq CHECK: Variant <ɗə́bá> (besides <ɗə́fá>) and 'this tooth' <ɗə́b wa᷇>?
-\ng
-\np
-\nt but the singular form has a strange irregularity (...m-ra is perfectly acceptable), in the singular -rə is always optional, you cannot say "dəmbə x", NB this tooth: ɗə́m wa᷇, these teeth ɗə́mtə́ wa᷇
 \dt 02/Jun/2016
 
 \lx ɗə́m(rə́) gwálàŋrâ
@@ -10966,11 +9658,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx ɗə́m(rə́) mbwêː
@@ -11013,11 +9700,6 @@
 \sd
 \bw
 \ue
-\so
-\nq check notation. Initial nasal in 'dog'? CHECK: In the PL the tone on 'dog' should be HL? CHECK: Vowel of 'dog' should be long?
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx ɗə́m(rə́) wírâ
@@ -11060,11 +9742,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt *ɗə́m wítâ is not grammatical in the plural
 \dt 23/Dec/2015
 
 \lx ɗə̄ndā
@@ -11101,11 +9778,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 12/Nov/2014
 
 \lx ɗə̄r
@@ -11142,11 +9814,6 @@
 \sd
 \bw
 \ue
-\so Daniel ; Sabeta
-\nq
-\ng In attributive use, it requires a DEM.
-\np Daniel & Sabeta pronounce it with a short vowel, not long as originally noted, Bitrus as well
-\nt horizontal or vertical surface
 \dt 09/Dec/2015
 
 \lx ɗə́ːrə́
@@ -11183,11 +9850,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: Is there also NMLZ ɗə́ːryǒ? EXAMPLES? Ideophones that go together, like make completely flat, etc?
-\ng
-\np
-\nt
 \dt 14/Nov/2015
 
 \lx ɗə́wáːrá
@@ -11224,11 +9886,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 21/Mar/2015
 
 \lx ɗíkrá
@@ -11265,11 +9922,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 20/Feb/2015
 
 \lx ɗíkrá
@@ -11306,11 +9958,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 20/Feb/2015
 
 \lx ɗīm ɗīm
@@ -11347,11 +9994,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: Can it also be non-reduplicated (any difference in meaning)? CHECK: Meaning & use (Predicative, Attributive, Adverbial). Is it "slightly" = "anot enough" or "slightly"="a bit too much" (in relation to ɗīm)
-\ng
-\np
-\nt
 \dt 02/Mar/2016
 
 \lx ɗímí
@@ -11390,11 +10032,6 @@
 \sd
 \bw
 \ue
-\so Sabeta
-\nq CONTROL the tones of the example <ŋgə̄n ɗím mə̄ dîyāŋgē á kə̄ tó bīẃ?>
-\ng
-\np
-\nt NB_YUN_2014_03_DI:59
 \dt 28/Nov/2014
 
 \lx ɗīmrā
@@ -11431,11 +10068,6 @@
 \sd
 \bw
 \ue
-\so Sabeta
-\nq
-\ng
-\np
-\nt NB_YUN_2014_03_DI:60
 \dt 29/Dec/2015
 
 \lx ɗíːrá
@@ -11478,11 +10110,6 @@
 \sd instrument
 \bw
 \ue
-\so NB_YUN-2013-02:03 = YUN-PRA_13-11-02_DI_01
-\nq
-\ng
-\np
-\nt
 \dt 28/Nov/2014
 
 \lx ɗīːrâ
@@ -11525,11 +10152,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 04/Dec/2015
 
 \lx ɗókómrà
@@ -11572,11 +10194,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 12/Nov/2014
 
 \lx ɗōktō
@@ -11619,11 +10236,6 @@
 \sd
 \bw
 \ue
-\so
-\nq Hoe noem je dit? bij-de-neus-neming. Kidding?
-\ng
-\np
-\nt
 \dt 12/Nov/2014
 
 \lx ɗóːrâ
@@ -11670,11 +10282,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 12/Nov/2014
 
 \lx ɗūkɗūkrá
@@ -11717,11 +10324,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 12/Nov/2014
 
 \lx ɗūkūt ɗūkūt
@@ -11764,11 +10366,6 @@
 \sd
 \bw
 \ue
-\so
-\nq what can it apply to? Only masses (rice, water)? only smoke? or anything (e.g. people in the market)
-\ng
-\np
-\nt ɗūkūt has to be repeated at least once, there is no maximal number of repetitions
 \dt 11/Feb/2016
 
 \lx ɗúːrá
@@ -11792,7 +10389,6 @@
 \xv dàɓʧe᷇ ɗúːrá
 \xe the top of the head
 \lt
-\nq CONTROL: Notation is suspicious: (i) tone HM followed by H with no tone spread? (ii) 'head' is tone B, but here it is still H?
 \xv gbàː ɗùːrá!
 \xe Bend your head!
 \sy
@@ -11814,11 +10410,6 @@
 \sd body
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:5
-\nq also metaphorical uses? Head of department? Top? CONTROL: PL form! (and its paradigm - is it an additional morphological marker -te? or is it a combination of ta+e?)
-\ng
-\np
-\nt
 \dt 04/Feb/2016
 
 \lx ɗũ̄wẽ̄
@@ -11855,11 +10446,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np V1 (schwa or ũ) is always pronounced.
-\nt
 \dt 05/Dec/2015
 
 \lx ẽ́ː
@@ -11899,11 +10485,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt in the mouths ɗāː ẽ́ːmē
 \dt 26/Jan/2016
 
 \lx ẽ́ː kã́ː
@@ -11940,11 +10521,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx ẽ́ː sénē
@@ -11987,11 +10563,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: The tone of the PL form is expected to be <ẽ́ː se᷇nsâ> H HM.HL rather than H HL.HL. CHECK: Is the double PL possible: <ẽ́ːmé sénē> 'banks of (one) river', <ẽ́ːmé se᷇nsâ> 'banks of rivers' / 'banks of (one) river'
-\ng The word river <sēnō> appears to agree with <ẽ́ː>.
-\np NB: The tone of the PL form <ẽ́ː sênsâ> is problematic. Given the singular it should have been <ẽ́ː se᷇nsâ>.
-\nt
 \dt 11/Feb/2016
 
 \lx éké
@@ -12028,11 +10599,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np NB: été is tone B, but ét ké is tone A
-\nt
 \dt 28/Nov/2015
 
 \lx ẽ́ːme᷇n
@@ -12069,11 +10635,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: Is there a final <n> here? It looks otherwise like a typical derivate body part sg > pl = person (such as 'tongues' = 'stammerer'), although the tone is H.HM and not H.H as in the PL (compare derivates on -ren). CHECK: PL? Agreement?
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx èrêː
@@ -12116,11 +10677,6 @@
 \sd
 \bw
 \ue
-\so
-\nq (long final vowel ??) compare with uro ‘yesterday’ for tone and vowel length… ɲā èrêː hā ‘this is … here’  no compound tone simplification ! 
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx ét bárè
@@ -12157,11 +10713,6 @@
 \sd human
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx ét díò
@@ -12204,11 +10755,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: PL? Agreement?
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx ét ké
@@ -12245,11 +10791,6 @@
 \sd human
 \bw
 \ue
-\so
-\nq CHECK: Is there a PL form ɓéká? Meaning: also 'nobody' in NEG?
-\ng
-\np
-\nt
 \dt 05/Jan/2016
 
 \lx ét mbə́kā(H)
@@ -12286,11 +10827,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: Does this noun has a floating H at the end, as the word 'something' itself? CHECK: PL? Agreement? CHECK: give examples (e.g. 'who is the owner of this x?')
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx ét mbrã᷇(H)
@@ -12327,11 +10863,6 @@
 \sd human
 \bw
 \ue archaic?
-\so
-\nq CONTROL: Is there a floating H at the end? (mbrã᷄(ː) 'water' MH). Final V length? Usage: archaic? CHECK: PL, agreement?
-\ng
-\np
-\nt literally: person-water. Sabeta does not know this expression, except, perhaps, with the meaning of water seller
 \dt 11/Feb/2016
 
 \lx ét sẽ̂ːndé
@@ -12374,11 +10905,6 @@
 \sd religion ; human
 \bw
 \ue
-\so
-\nq CHECK: Is there really a NC cluster in <ét sẽ̂ːndé>, since the word for witchcraft was recorded without it
-\ng
-\np
-\nt
 \dt 02/Jun/2016
 
 \lx ét ʧíō
@@ -12415,11 +10941,6 @@
 \sd human
 \bw
 \ue
-\so
-\nq
-\ng
-\np Is C1 released or not? see note on the word for pliers (hatma), where C2 is obligatorily unreleased. Link with morphological boundaries?
-\nt
 \dt 11/Feb/2016
 
 \lx été
@@ -12456,11 +10977,6 @@
 \sd human
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt this person: ét ya᷇, these people ɓét ɓa᷇
 \dt 05/Jan/2016
 
 \lx fẽ́ː
@@ -12497,11 +11013,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq ADD THE VARIANT
-\ng
-\np Variant with the oral vowel is from Bitrus
-\nt
 \dt 30/Nov/2015
 
 \lx fékéféké
@@ -12538,11 +11049,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq
-\ng reduplication
-\np
-\nt NB Sabeta did not know this word.
 \dt 03/Jan/2016
 
 \lx fēːmā
@@ -12584,11 +11090,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq Agreement in PL?
-\ng
-\np
-\nt doubts about the plural...
 \dt 11/Feb/2016
 
 \lx fēːmə̄ nu᷄ː
@@ -12627,11 +11128,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq Agreement SG & PL?
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx fērẽ̄ːrá
@@ -12662,7 +11158,6 @@
 \sn 2
 \de ?
 \re ?
-\nt soort excretie (snotachtig) die uit de ooghoeken komt bij oogproblemen)
 \xv fērēːtə́ nṹsâ
 \xe eye excretion
 \lf
@@ -12672,11 +11167,6 @@
 \sd plant ; body
 \bw
 \ue
-\so
-\nq
-\ng
-\np [fɛ̄rẽ̄ːrá] V1 is [ɛ]
-\nt
 \dt 14/Nov/2015
 
 \lx fə̀kə̀ fə̀kə̀
@@ -12714,11 +11204,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Je kan iets fekefeke weggooien (fling it) (ver?)
 \dt 02/Mar/2016
 
 \lx f(ə̀)là
@@ -12755,11 +11240,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq CONTROL: V2 length in <fə̀làmsè>
-\ng
-\np Tone checked. LL indeed. Historically vela?
-\nt these leopards: fə̀làːsə̀ wā.
 \dt 30/Dec/2015
 
 \lx f(ə́)lé
@@ -12796,11 +11276,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np the first vowel is very short
-\nt
 \dt 03/Jan/2016
 
 \lx fə̀rə̀mə̀
@@ -12837,11 +11312,6 @@
 \sd
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:4
-\nq Is there also a NMLZ <fə̀rə̀myǒ>?
-\ng Short form of the NMLZ = full form <fə̀rə̀mò>
-\np
-\nt
 \dt 04/Feb/2016
 
 \lx fə́tá
@@ -12884,11 +11354,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: tone pattern with other speakers (than BI)
-\ng
-\np
-\nt this horn fə́táː wa᷇ (confirmed with BI), these horns fə́táː-tə́ wa᷇. Nt on the idiom: SA & DA 141027 lit. '' ('horn' refers to 'penis' only in this expression). Is "too much" a good translation in the literal translation, or should it be very much. DI translated the idiom as "He likes to fuck a lot", which may not be of an  appropriate register.
 \dt 05/Feb/2016
 
 \lx fə̄tə̄
@@ -12925,11 +11390,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 04/Feb/2015
 
 \lx fĩ́ː
@@ -12967,11 +11427,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 30/Nov/2015
 
 \lx fĩ̄ː
@@ -13008,11 +11463,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: Tone? NMLZs? EXAMPLES? What does fĩ́ɲó mean? ('There is foam'? e.g. when a brew is ready??)
-\ng
-\np
-\nt
 \dt 30/Nov/2015
 
 \lx fìŋgò
@@ -13049,11 +11499,6 @@
 \sd animal ; insect
 \bw
 \ue
-\so
-\nq identify
-\ng
-\np Bitrus spontaneously pronounced it as <vìŋgò>, with the etymological <v->.
-\nt
 \dt 15/Nov/2015
 
 \lx fíó
@@ -13090,11 +11535,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 23/Nov/2014
 
 \lx fīsō
@@ -13131,11 +11571,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 23/Nov/2014
 
 \lx gǎː
@@ -13183,11 +11618,6 @@
 \sd
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_03_DI:2
-\nq
-\ng The agreement class in the singular can be either wā or ɓā in the meaning 'day', but only wā when the word means 'God' (also confirmed by Bitrus__DI)
-\np NB: For Bitrus, 'day' in isolation is gàː, but it has a floating H, as in ɲāː gàː hã᷇ː
-\nt
 \dt 10/Mar/2016
 
 \lx gàːɓē
@@ -13224,11 +11654,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 23/Nov/2014
 
 \lx gàdà
@@ -13266,11 +11691,6 @@
 \sd body
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:6
-\nq CONTROL: Bitrus in QBT sometimes (eg. QBT:365), writes it as <ŋg->. CONTROL: Given the PL and the short form, there should be a variant <gàndà>. CHECK: Is it always with pp <ɗā> (rather than <à> 'on') or only with the verb <káwá>?
-\ng
-\np
-\nt this back: gàn wā
 \dt 26/Feb/2016
 
 \lx gàkà
@@ -13307,11 +11727,6 @@
 \sd
 \bw
 \ue
-\so Sabeta
-\nq Valency and argument marking?
-\ng
-\np
-\nt NB_YUN_2014_03_DI:63
 \dt 28/Nov/2014
 
 \lx gàlà
@@ -13348,11 +11763,6 @@
 \sd
 \bw
 \ue
-\so Sabeta
-\nq
-\ng
-\np
-\nt NB_YUN_2014_03_DI:63
 \dt 28/Nov/2014
 
 \lx gàːlə́m
@@ -13389,11 +11799,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 25/Nov/2014
 
 \lx gàllà
@@ -13440,11 +11845,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 23/Nov/2014
 
 \lx gàmgám
@@ -13481,11 +11881,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Type wolfijzer. Exist in different sizes. Sabeta does not knwo a generic term for trap.
 \dt 03/Jan/2016
 
 \lx gàmò
@@ -13523,11 +11918,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt No plural?
 \dt 29/Oct/2014
 
 \lx gàn ɗūːtā
@@ -13566,11 +11956,6 @@
 \sd action ; social
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx gànà
@@ -13607,11 +11992,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx gàrmò
@@ -13649,11 +12029,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq
-\ng
-\np Bitrus: only tone A
-\nt BITRUS_Pictures_151116_047.jpg - BITRUS_Pictures_151116_053.jpg
 \dt 08/Dec/2015
 
 \lx gàːsā
@@ -13693,13 +12068,6 @@
 \sd
 \bw
 \ue
-\so NB_YUN-2013-02:04 = YUN-PRA_13-11-02_DI_02
-\nq
-\ng
-\np
-\nt There is no counterpart to pít ("day before the day before yesterday"). This word seems to be cognate with gǎː 'day'.
-\nt ETYM: It seems to be a compound based on gǎː 'day'. Is {sā} a demonstrative, 'that / the other day'?
-\nt Translation: SA & BI are inconsistent and sometimes translate it as 'yesterday', which elsewhere is given as {ùrô}.
 \dt 12/Nov/2014
 
 \lx gàtò
@@ -13737,11 +12105,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt 'this gato' gàt wā
 \dt 01/Dec/2015
 
 \lx gàwrà
@@ -13778,11 +12141,6 @@
 \sd
 \bw
 \ue
-\so
-\nq Sabeta describes it as the sound that people make when they laugh in group. Elaborate. CONTROL: Variation of tone pattern A only, or also B?
-\ng
-\np Bitrus doubts whether tone pattern B is also acceptable.
-\nt
 \dt 01/Dec/2015
 
 \lx gèː
@@ -13819,11 +12177,6 @@
 \sd human
 \bw
 \ue
-\so
-\nq
-\ng For this word, the ɓā form of the demonstrative is not accepted (by Sabeta??). Daniel spontaneously gives it.
-\np
-\nt
 \dt 01/Dec/2015
 
 \lx gèɓà
@@ -13860,11 +12213,6 @@
 \sd human
 \bw
 \ue
-\so
-\nq
-\ng no singular form
-\np
-\nt
 \dt 20/Feb/2015
 
 \lx gèlmó
@@ -13902,11 +12250,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt we hebben hier een foto van, verschillende keren rondgedraaid, om te boogschieten
 \dt 03/Nov/2014
 
 \lx gènò
@@ -13943,11 +12286,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq doesn't it (also) mean 'greens', 'leaves' and/or vegetables? Cf gèn bìtô 'fresh leaves' (e.g. lettuce), gèn dã̄ːrā 'bean leaves' lit 'skin leaves'?), gèn ɓótə́ líŋgā 'leaves of a species of tree that are eaten as a vegetable and that cure hypertension' (N.B. is the last tone of this phase M? If so, does the M also appear on the last syllable of the word for the tree ɓótə́ líŋgá?? see entry for 'tree'; There is also gèn kə́rō 'pumpkin leaves' (but 'pumpkin' is ɓolla), so here kəro in itself already means 'pumpkin leaves'. Can this word be used as such? (it can appear with an adjective like 'fresh' or 'dried') INSERT in database APPARENTLY IT MEANS "COOKED" GREENS, because the word for 'leaves', it seems, is hwã́ːmo (?) check and insert
-\ng
-\np
-\nt 'this gènò - gèn wā
 \dt 14/Nov/2015
 
 \lx gèːrà
@@ -13986,11 +12324,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: Agreement? Is PL possible (many people stealing / stealing of many things / either?) EXAMPLES? CHECK: Can it be possessed like 'my theft (me stealing smth)' / 'smb stealing me?'
-\ng
-\np
-\nt
 \dt 11/Nov/2015
 
 \lx gèsò
@@ -14027,11 +12360,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng gèsə̀ wā - this quiver / these quivers
-\np
-\nt BITRUS_Pictures_151116_018.jpg
 \dt 19/Nov/2015
 
 \lx gə̀bə̄ŋ
@@ -14068,11 +12396,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: Variant <gə̀mbə̄ŋ> or is C2 <ɓ>?
-\ng
-\np
-\nt
 \dt 02/Jun/2016
 
 \lx gə̀bə̀ttó
@@ -14115,11 +12438,6 @@
 \sd human
 \bw
 \ue
-\so YUN-PRA_13-11-02_MV_01 ; YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_DI_03:3
-\nq CONTROL: PL (eg. with a PL subject)? Difference with <ɲóːrá>? More examples? CHECK: Variant <gə̀mbə̀ttó> or is C2 <ɓ>?
-\ng
-\np
-\nt
 \dt 02/Jun/2016
 
 \lx gə̀ɓə̂
@@ -14156,11 +12474,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq Manliura identifies this as 'brown tortoise' check... (NB he writes gibik)
-\ng
-\np
-\nt Sabeta does not know the plural. Maybe yòː gə̀ɓə̂. De uitwerpselen van deze schildpad zouden enorm stinken...
 \dt 20/Feb/2015
 
 \lx gə̄dāːlō
@@ -14197,11 +12510,6 @@
 \sd plant
 \bw
 \ue
-\so
-\nq PL? Agreement in PL?
-\ng
-\np
-\nt this tassle: gə̄dāːlə̄ wā
 \dt 15/Feb/2016
 
 \lx gə̀lkẽ̀ːkrà
@@ -14239,11 +12547,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq
-\ng
-\np There seems to be no variant with a velar nasal <gə̀lkẽ̀ːŋkrà>. For DA the PL form is occasionally, especially in quick pronunciation, is <gə̀lkẽ̀ːttà>
-\nt DA (YUN_PRA_141024_DI_01.wav), SA (YUN_PRA_141031_DI_02.wav)
 \dt 28/Nov/2014
 
 \lx gə̀m
@@ -14293,11 +12596,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CORRECT: It can be an adverb and a vq - maybe, for such type of words, it is better to characterize them as just adverbs? CONTROL: Meaning of CF <gə̀mtô>!
-\ng
-\np
-\nt
 \dt 08/Mar/2016
 
 \lx gə̀mgə᷉m
@@ -14336,11 +12634,6 @@
 \sd social ; human
 \bw
 \ue
-\so
-\nq CONTROL: Originally noted as <gə̀mgə᷇m(H)> but it is probably the same tone as <dènde᷉n>.
-\ng
-\np
-\nt
 \dt 15/Feb/2016
 
 \lx gə̀mrā
@@ -14378,11 +12671,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt The meaning is probably broader than Eng 'lazy', including slow. Parts-of-speech duidelijk niet evident... Elsewhere, I decided to classify a word as a noun due to the morphological class markers -ra / -ta.
 \dt 09/Dec/2015
 
 \lx gə̀mtô
@@ -14419,11 +12707,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: Form (tone & agreement on final V), meaning! TRACK: V-length & tone in the example 'hemp'. CONTROL: It looks like the colour adjectives of the type of <péŋgô>, which may suggest that its first tone is H in isolation, viz. <gə́mtô>? 
-\ng
-\np
-\nt
 \dt 23/May/2016
 
 \lx g(ə̀)ràːgə̀n
@@ -14461,11 +12744,6 @@
 \sd human
 \bw
 \ue
-\so
-\nq
-\ng
-\np Bitrus hums it as 3 syllables. ɗā g(ə́)râːgə̀n - this spurious V1 is not relevant for determining the extension of the H tone spread
-\nt
 \dt 15/Dec/2015
 
 \lx gə̀rkə̀dã̀ːŋgò
@@ -14502,11 +12780,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq Check whether final g of the stem doesn't drop in the plural (there is a rule that predicts this) YES, checked, the g drops in the plural
-\ng
-\np
-\nt 'this basket' - gə̀rkə̀dã̀ːŋ wā
 \dt 14/Nov/2014
 
 \lx gìɗǎ
@@ -14544,11 +12817,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt NB Sabeta did not know the plural of this word, asked many people in Dumne who didn't know either. The Hakimi gave him the plural. Sabeta had no problem giving the agreement pattern on the demonstrative with the plural, though...
 \dt 25/Oct/2014
 
 \lx gìnò
@@ -14588,11 +12856,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt this smoke gìn wā
 \dt 17/Nov/2015
 
 \lx gìːrá
@@ -14630,11 +12893,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt LH tone pattern!!!
 \dt 18/Jun/2014
 
 \lx gìràŋgó
@@ -14672,11 +12930,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt 'this crocodile' gìràŋ wa᷇
 \dt 03/Nov/2014
 
 \lx gìrì
@@ -14715,11 +12968,6 @@
 \sd nature ; action
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_DI_03:3
-\nq CONTROL: NMLZ gìryǒ - possible?
-\ng
-\np
-\nt
 \dt 07/Apr/2016
 
 \lx gòː
@@ -14764,11 +13012,6 @@
 \sd animal ; bird
 \bw
 \ue
-\so
-\nq
-\ng
-\np BI: V is long and the word sounds the same as 'be proud'.
-\nt
 \dt 01/Dec/2015
 
 \lx gòː
@@ -14814,11 +13057,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: Predicative vs Attributive vs Adverbial usage. (Adjust PoS) (proud woman, proud Bena people, he proudly refused the offer of the chief). STATIVE verb or inchoative/change-of-state? check. CHECK: vowel length
-\ng
-\np BI: V is long and the word sounds the same as 'chicken'. There may be a glottal stop at the end, which is why the vowel is short for some speakers. In this respect, note that for <gòːrā> 'pride' the PL is <gòttā>.
-\nt The form in lx is the imperative singular: be proud!
 \dt 30/Mar/2016
 
 \lx gòː bàràttê
@@ -14861,11 +13099,6 @@
 \sd animal ; bird
 \bw
 \ue
-\so
-\nq single or geminate t?? PL? Agreement?
-\ng
-\np
-\nt How productive is this diminutive strategy? If very productive, take out of dictionary, leave only 'cock' and mention derivational operation in grammar. Cf also the entry for chick.
 \dt 11/Feb/2016
 
 \lx gòː bàrò
@@ -14908,11 +13141,6 @@
 \sd animal ; bird
 \bw
 \ue
-\so
-\nq no long o in go?
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx gòː màːʧìò
@@ -14955,11 +13183,6 @@
 \sd animal ; bird
 \bw
 \ue
-\so
-\nq PL (single/double/either - where)?
-\ng
-\np NB: The tone of <máʧí> is L here (compare gwã̀ːrə̀ gùndà)
-\nt
 \dt 11/Feb/2016
 
 \lx gòː tōːnō
@@ -15002,11 +13225,6 @@
 \sd animal ; bird
 \bw
 \ue
-\so
-\nq Is it also possible to say gòː tōːnā? What is the PL? Double PL marking possible? Singleton PL marking on the Head or the Modifier?
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx gòbò
@@ -15044,11 +13262,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt 'this vagina' gòm wā
 \dt 03/Nov/2014
 
 \lx gòbòŋsâ
@@ -15080,11 +13293,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt the leaf is called húːsâ, also used for soup
 \dt 28/Nov/2014
 
 \lx gòːgò(ː)
@@ -15123,11 +13331,6 @@
 \sd
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_03_DI:2
-\nq CHECK: V2-length under negation (i.e. non-pre-pausal). CONTROL: Clarify the meaning? Can it also mean 'decorate oneself, a place'?
-\ng
-\np Pre-pausal shortening? (compare <gòːgóːrà> 'decoration')
-\nt
 \dt 30/Mar/2016
 
 \lx gòːgóːrà
@@ -15167,11 +13370,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: Tones (MV:second tone H or M? DI: it may be L.L.M, since you have <gòːgò 'be vain, checking how well oneself looks>, but there are other words of the same derivation pattern with L.H.L, such as <bwèdbwéd-ɗà>)
-\ng
-\np
-\nt
 \dt 30/Mar/2016
 
 \lx gòːlò
@@ -15209,11 +13407,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt 'this skull' - gòːlə̀ wā
 \dt 25/Oct/2014
 
 \lx gòlóːrā
@@ -15251,11 +13444,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt (piket)
 \dt 01/Dec/2015
 
 \lx gòm sòmmâ
@@ -15292,11 +13480,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt not sure what this gom is in the beginning... related to gùmbē? quite far... Or rather to gò(m)bò 'vagina'? According to Bitrus, gòm here comes from gùm-rā but he says that you cannot say gùm sòmmâ
 \dt 11/Feb/2016
 
 \lx gòmbwàtèk
@@ -15334,11 +13517,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq different plural in 2011 notes (in jo-). Also V2 is e in these notes.
-\ng
-\np
-\nt It has the initial gòm in common with the word for 'frog', but speakers do not recognise this. "the word cannot be cut in two"
 \dt 03/Jan/2016
 
 \lx gòmló
@@ -15376,11 +13554,6 @@
 \sd food ; plant
 \bw source language unknown, resembles French gombo
 \ue
-\so
-\nq
-\ng
-\np
-\nt gòmló wa᷇, these quantities of gomlo: gòmlə́msé wā
 \dt 23/May/2016
 
 \lx gòmʧə̀kô
@@ -15418,11 +13591,6 @@
 \sd
 \bw
 \ue
-\so
-\nq is this the generic word for 'frog', or is it a species of frog?
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx gòndō
@@ -15460,11 +13628,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq check tone on the plural. No M on V2?
-\ng
-\np
-\nt gòndə̄ wā 'this snail'
 \dt 07/Nov/2014
 
 \lx gòŋgàːrá
@@ -15502,11 +13665,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 02/Nov/2014
 
 \lx gòŋgò
@@ -15544,11 +13702,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 09/Dec/2015
 
 \lx gòːrā
@@ -15588,11 +13741,6 @@
 \sd
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_03_DI:2
-\nq CONTROL: Tone? (originally noted by MV as L.L) Agreement? Is PL possible (many people being pround / being proud about many things / either?) EXAMPLE? CHECK: Can it be possessed like 'my pride' / 'smb's pride for me?'
-\ng
-\np ét gôːrā 'man of pride, proud man'
-\nt
 \dt 30/Mar/2016
 
 \lx gòːre᷇n
@@ -15631,11 +13779,6 @@
 \sd human ; emotion
 \bw
 \ue
-\so
-\nq PL ((ám) gòttâ? yòː gòːre᷇n), agreement? CONTROL: Can the final -n be dropped?
-\ng
-\np
-\nt
 \dt 30/Mar/2016
 
 \lx gùbà
@@ -15673,11 +13816,6 @@
 \sd tree
 \bw
 \ue
-\so
-\nq CONTROL: C2 ɓ or b?
-\ng
-\np
-\nt
 \dt 27/Dec/2015
 
 \lx gùɓ sã̀õ̀
@@ -15714,11 +13852,6 @@
 \sd
 \bw
 \ue
-\so
-\nq Agreement?
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx gùɓlá
@@ -15755,11 +13888,6 @@
 \sd plant ; food
 \bw
 \ue
-\so
-\nq Taken from <lóːrə́ gûɓló>. CONTROL: What is the name of the plant <gùɓlá>? PL, AGR. Identify! Describe!
-\ng
-\np
-\nt
 \dt 23/May/2016
 
 \lx gùɓò
@@ -15791,11 +13919,6 @@
 \sd
 \bw
 \ue
-\so
-\nq check tone  again. I always noted it as LL, but it now seems ML (as compared to "other" LL words such as 'soup'), Check notation of subentry
-\ng
-\np
-\nt no schwa between b and s in plural, 'this chief' gùɓ wā
 \dt 14/Nov/2014
 
 \lx gùdu᷇ŋ
@@ -15833,11 +13956,6 @@
 \sd animal ; bird
 \bw
 \ue
-\so
-\nq identify, C2 implosive or plosive? CONTROL: If there is no floating H at the end or the 2 tone is not HLH? CHECK: Variant <gùndu᷇ŋ> (or is V2 <ɗ>)?
-\ng
-\np
-\nt
 \dt 02/Jun/2016
 
 \lx gùlàːrá
@@ -15880,11 +13998,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 11/Nov/2014
 
 \lx gùlàːsà
@@ -15922,11 +14035,6 @@
 \sd
 \bw
 \ue
-\so
-\nq is dit een zaadhuls, of kaf??
-\ng For Bitrus, sg (in one container) = pl (in several containers)
-\np
-\nt
 \dt 01/Dec/2015
 
 \lx gùmbē
@@ -15963,11 +14071,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq CONTROL: The meaning (originally translated as 'bladder' but Bitrus says it is 'heart')
-\ng
-\np
-\nt this bladder gùbē yā. Also a type of calabash
 \dt 02/Dec/2015
 
 \lx gùmrā
@@ -16005,11 +14108,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq what does 'kettle' actually mean as opposed to 'big pot' (tuo)? Always made of iron? NO!! traditionally a type of calabash, now those small plastic gietertjes die ze gebruiken op het toilet. Hierop terugkomen
-\ng
-\np
-\nt
 \dt 12/Nov/2014
 
 \lx gùndā
@@ -16041,11 +14139,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt for instance the lower part of a tree trunk just above the ground where the roots merge into the stem;or the first row of stones of a wall (not the foundation of a house), or the socket (English?) of a statue. DI: ETYM - could be related to gùn-V 'senior, mighty' or gùnô 'deep'?
 \dt 07/Jan/2016
 
 \lx gùndà
@@ -16084,11 +14177,6 @@
 \sd
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_DI_03:3
-\nq CHECK: Does it have a PL?  (ʧíɓ(ə́msé) gùntà, gwã̀ːtə̀ gùntà) Is it indeed an ADJ? CONTROL: Meaning (see entry for <gùnò>) CHECK: Other examples with this attributive use of <gùndà>? CONTROL: It would be good to find examples with N that is H or M to check its lexical tone.
-\ng
-\np
-\nt
 \dt 25/May/2016
 
 \lx gùnò
@@ -16110,7 +14198,6 @@
 \rf
 \xv sēn gùnò
 \xe major river (as opposed to minor rivers flowing in to this major river)
-\ng Bitrus: 'main river' (when there are small rivers flowing into the main river)
 \lt
 \xv Mark áy gùnè à Bítrùs
 \xe Mark is senior to Bitrus
@@ -16129,11 +14216,6 @@
 \sd
 \bw
 \ue
-\so NB_YUN_2014_03_DI:81
-\nq CHECK: Predicative vs Attributive vs Adverbial usage. (Adjust PoS). CHECK: Is it possible to replace <gùnò> in these examples with <gùndà> and vice versa in <ʧíɓ gùndà> 'heavy rain', <gwã̀rə̀ gùndà> 'capital, Yola'? ADD EXAMPLES from NB_YUN_2014_03_DI:81
-\ng MV: PL: mighty rivers sēnsə́ gùnò DI: <gùnè> seems to be an adjective with the final <-e> being due to the controller <été> 'person'. The same for <bàrè> 'male'.
-\np
-\nt
 \dt 25/May/2016
 
 \lx gùnô
@@ -16170,11 +14252,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: Predicative, Attributive use. Agrement, PL? DI: It seems to be a noun of tone pattern (B) in the genetive - CHECK: 'This river is deep', 'Coss this deep river'! MA: not entirely sure of the meaning of this word. It seems that it is a noun used to refer to the deepest part of a river or lake.
-\ng
-\np
-\nt
 \dt 14/Nov/2015
 
 \lx gùràn
@@ -16212,11 +14289,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq Sabeta does not know the plural, translation found in Manliura, check identification
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx gùrò
@@ -16254,11 +14326,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt borrowing from Fulani, says Dmitry
 \dt 02/Nov/2014
 
 \lx gùròmrà
@@ -16296,11 +14363,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt According to Bitrus, this is not the fruit of gùɓà but a type of beads, whereas the fruit is gùm-rà
 \dt 15/Jan/2016
 
 \lx gùsàːmè
@@ -16313,7 +14375,6 @@
 \pl
 \vpl
 \2d gùsàːmèmsè
-\nt distributive plural: different piles of yam
 \4d
 \sn
 \de yam
@@ -16342,11 +14403,6 @@
 \sd food ; plant
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt supposed to be a native word (as opposed to the names for most other crops, which are supposed to be borrowings)
 \dt 03/Jan/2016
 
 \lx gùsàːmè bùtô
@@ -16383,11 +14439,6 @@
 \sd food ; plant
 \bw
 \ue
-\so
-\nq PL? Distributive PL? Agreement?
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx gùsàːmè dòbrâ
@@ -16424,11 +14475,6 @@
 \sd food ; plant
 \bw
 \ue
-\so
-\nq PL? Distributive PL? Agreement? Is gùsàːmè kūlōːrā a synonym or a different species of yam?
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx gùsàːmè kūlōːrā
@@ -16465,11 +14511,6 @@
 \sd food ; plant
 \bw
 \ue
-\so
-\nq PL? Distributive PL? Agreement? Is gùsàːmè dòbrâ a synonym or a different species of yam?
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx gùsò
@@ -16506,11 +14547,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Bitrus does not know the plural form gùsə̀msè
 \dt 01/Dec/2015
 
 \lx gùtòːrá
@@ -16547,11 +14583,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt BITRUS_Pictures_151116_018.jpg Cultural infor from Bitrus
 \dt 19/Nov/2015
 
 \lx gùtùgùtù
@@ -16588,11 +14619,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq
-\ng reduplication
-\np
-\nt Sabeta does not know the plural
 \dt 27/May/2015
 
 \lx gùʧē
@@ -16629,11 +14655,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt gewoon stuk stof, eenmaal omgewikkeld rond de lenden heet het gutsche
 \dt 27/May/2015
 
 \lx gùwā
@@ -16670,11 +14691,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np This noun is clearly bisyllabic (as opposed, e.g. to gwà 'rainbow'). Sabeta claps his hands twice and clearly distinguishes it from monosyllabic, one clap words.
-\nt
 \dt 27/May/2015
 
 \lx gwã̀ː
@@ -16712,19 +14728,12 @@
 \lv ân kálə̄ gwã᷅ː
 \le He is angry.
 \lt He is with a warmed up belly
-\nq CHECK: notation of the example! CONTROL: Tones in <ân kálə́gwã᷅ː> (would rather expect <ân kálə̄ gwã̀ː>) or is <gwã᷅ː> here a kind of participle/NMLZ? --> CHECK
 \lf Idiom
 \lv ā gwã̂ː kālē áy wàɗà
 \le His anger went away.
-\nq CHECK: Translation, rather 'He got angry and went away'? (lit.: He warmed up the belly, he left') CONTROL: Tones. ADD: Literally. CONTROL: If the meaning is indeed 'He got angry and went away', should the idiom be just <ā gwã̂ː kālē>?
 \sd action ; emotion
 \bw
 \ue
-\so
-\nq CONTROL: We had an entry <gwã̀ː kālē> 'anger'. Structurally, <gwã̀ː kālē> can be: (i) a predicative verbal phrase 'warm up (at) the belly', (ii) nominalization with an "object", viz 'warming up (at) the belly', comparable to <kāŋ ɗə̄mtá> 'tooth chiselling / chisel the teeth!'. QU: Can <gwã̀ː kālē> be used as a referring expression? e.g. 'He cannot control his anger') CONTROL: Earlier, there was also a subentry <kālə̄gwã̀ː> 'anger' - Can it really be used as a noun? (e.g. 'He cannot control his anger'). ADD: after checking the idioms, add them to the entry <kālē> 'belly'
-\ng
-\np
-\nt
 \dt 21/Dec/2015
 
 \lx gwàː
@@ -16761,11 +14770,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 21/Dec/2015
 
 \lx gwàː
@@ -16805,11 +14809,6 @@
 \sd nature
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 21/Dec/2015
 
 \lx gwàː
@@ -16846,11 +14845,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 21/Dec/2015
 
 \lx gwàdâŋ
@@ -16887,11 +14881,6 @@
 \sd animal ; bird
 \bw
 \ue
-\so
-\nq CHECK: Variants <gwàndâŋ>, <ŋgw->?
-\ng
-\np
-\nt or is it a a whinchat: Saxicola Rubetra (?)
 \dt 02/Jun/2016
 
 \lx gwã̀ːkè
@@ -16928,11 +14917,6 @@
 \sd
 \bw
 \ue
-\so
-\nq add plural
-\ng
-\np Sabeta does not know the plural
-\nt
 \dt 24/Nov/2014
 
 \lx gwàlàŋrà
@@ -16969,11 +14953,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 24/Mar/2015
 
 \lx gwándà
@@ -17010,11 +14989,6 @@
 \sd
 \bw Hausa
 \ue
-\so
-\nq
-\ng
-\np
-\nt góndà says Sabeta. Check again. Exception to the consonant-tone relation
 \dt 24/Nov/2014
 
 \lx gwã̀ːrà
@@ -17051,11 +15025,6 @@
 \sd space ; settlement
 \bw
 \ue
-\so
-\nq
-\ng
-\np Wrt <gwã̀ːrə̀ gùndà> !! checked, no falling tone on the last syllable of gunda.... YES, but there is a tone change, because in isolation gùndā has a final M tone... Does gunda have another tone pattern "A.A (C)" or is this due to the construction (compounding)? Compare gòː màːʧìò!
-\nt
 \dt 25/May/2016
 
 \lx gwã̀ːtā
@@ -17092,11 +15061,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 14/Nov/2014
 
 \lx gwàːtā
@@ -17133,11 +15097,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq CHECK: Initial <ŋgw->?
-\ng
-\np
-\nt
 \dt 02/Jun/2016
 
 \lx gwẽ̀ːgwẽ̀ːbrá
@@ -17174,11 +15133,6 @@
 \sd insect
 \bw
 \ue
-\so
-\nq identify FOUND IN FIELD GUIDE, but sabeta could not remember the word. CHECK: Can there be a variant with a schwa before -ra? CHECK: Variant <gwẽ̀ːgwẽ̀ːmb(ə̀)rá>? CHECK: Variant with initial <ŋgw->?
-\ng
-\np
-\nt
 \dt 02/Jun/2016
 
 \lx gwẽ̀ːrá
@@ -17215,11 +15169,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt appreciated. Explanation and example from Bitrus
 \dt 09/Dec/2015
 
 \lx gwèrkē
@@ -17256,11 +15205,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq short schwa in between r and k?? CONTROL: PL tone L.L.H rather than L.M.H? V2 in PL (e vs ə)? Agreement in PL?
-\ng
-\np NOTE THE FIRST VOWEL [ɛ], gwɛ̀rkē, very thoroughly checked: [e] and [ə] rejected. It may be an allophone of /e/ in C_rC context. Compare Lala <gwaro ~ kwaro> 'throat'.
-\nt
 \dt 05/Jan/2016
 
 \lx gwéːvà
@@ -17297,11 +15241,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx gbàː
@@ -17344,11 +15283,6 @@
 \sd
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:5
-\nq
-\ng Cognate object?
-\np NO ŋm- possible
-\nt kan ook betekenen 'hoofd op de handen laten rusten'. BE 'bend' (not 'bow')
 \dt 04/Feb/2016
 
 \lx gbǎː
@@ -17387,11 +15321,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np NO ŋm- possible
-\nt a 'bush' cannot be gbǎ, a 'tree' can
 \dt 09/Dec/2015
 
 \lx gbǎː
@@ -17428,11 +15357,6 @@
 \sd
 \bw
 \ue
-\so Sabeta
-\nq
-\ng
-\np
-\nt NB_YUN_2014_03_DI:5
 \dt 16/Nov/2015
 
 \lx gbàdàmrá
@@ -17469,11 +15393,6 @@
 \sd space ; insect ; animal
 \bw
 \ue
-\so
-\nq CHECK: Variant <gbàndàmrá>? (or is V2 <ɗ>?)
-\ng
-\np NO ŋm- possible
-\nt
 \dt 02/Jun/2016
 
 \lx gbàdə̀lūkē
@@ -17510,11 +15429,6 @@
 \sd nature ; space
 \bw
 \ue
-\so
-\nq Sabeta does not know a plural, compound?, ask agreement patterns. CHECK: Variant <gbàndə̀lūkē>?
-\ng
-\np NO ŋm- possible
-\nt
 \dt 02/Jun/2016
 
 \lx gbàɗà
@@ -17551,11 +15465,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np NO ŋm- possible
-\nt lx form is IMP sg. Push away in a single forceful movement and one time contact with the object, as by kicking
 \dt 06/Dec/2015
 
 \lx gbàɗè
@@ -17593,11 +15502,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np NO ŋm- possible (Bitrus). PL Bitrus as <ám gb>, but was initially noted with assimilation as <áŋm gb>. NO B tone variant
-\nt
 \dt 05/Jan/2016
 
 \lx gbã̀ːkìtá
@@ -17634,11 +15538,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Bitrus does not know this word
 \dt 06/Dec/2015
 
 \lx gbàkràkò
@@ -17676,11 +15575,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq
-\ng
-\np Syllabification: gbàk.rà.kò (Bitrus). NO ŋm- possible
-\nt
 \dt 06/Dec/2015
 
 \lx gbàndò
@@ -17723,11 +15617,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq tone pattern A or B?
-\ng
-\np
-\nt New variant (gbàdò) from SA & DA 141027. Bitrus does not know this word
 \dt 01/Dec/2015
 
 \lx gbàtmà
@@ -17764,11 +15653,6 @@
 \sd
 \bw
 \ue
-\so
-\nq identify
-\ng
-\np NO ŋm- possible (Bitrus)
-\nt waterige puistjes die openbarsten en wonden worden vooraleer het kan genezen, het jeukt
 \dt 06/Dec/2015
 
 \lx gbàːtó
@@ -17805,11 +15689,6 @@
 \sd
 \bw
 \ue
-\so
-\nq plural?, exact definition? provide agreement pattern and example.
-\ng
-\np NO ŋm- possible (Bitrus)
-\nt
 \dt 06/Dec/2015
 
 \lx gbàwà
@@ -17846,11 +15725,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np NO ŋm- possible (Bitrus)
-\nt imperative singular form in lx field, e.g. gathering dust on the floor, gathering people or people gathered
 \dt 11/Feb/2016
 
 \lx gbèdè
@@ -17887,11 +15761,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq identify correctly
-\ng
-\np NO ŋm- possible (Bitrus). PL Bitrus as <ám gb>, but was initially noted with assimilation as <áŋm gb>
-\nt
 \dt 03/Jan/2016
 
 \lx gbèràgbèrō
@@ -17928,11 +15797,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq
-\ng
-\np NO ŋm- possible (Bitrus)
-\nt
 \dt 06/Dec/2015
 
 \lx gbèsê
@@ -17969,11 +15833,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np NO ŋm- possible (Bitrus). PL Bitrus as <ám gb>, but was initially noted with assimilation as <áŋm gb> (Bitrus explicitly rejects the assimilated variant)
-\nt
 \dt 03/Jan/2016
 
 \lx gbə̀dē
@@ -18010,11 +15869,6 @@
 \sd animal ; insect
 \bw
 \ue
-\so
-\nq check tone, especially on plural. Identify. Noted with two prenasalised consonants in our old field notes (for C1 only in the singular). Mistake somewhere, of difference in pronunciation between Pa Awballa and SMB/BA?
-\ng
-\np NO ŋm- possible (Bitrus)
-\nt
 \dt 05/Jan/2016
 
 \lx gbòːmō
@@ -18051,11 +15905,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq
-\ng
-\np NO ŋm- possible (Bitrus)
-\nt
 \dt 06/Dec/2015
 
 \lx hã̄
@@ -18092,11 +15941,6 @@
 \sd space
 \bw
 \ue
-\so
-\nq
-\ng
-\np The vowel is often short, irrespective of whether it is followed by a pause or something else
-\nt
 \dt 01/Apr/2016
 
 \lx háː
@@ -18133,11 +15977,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng BI: Not about an animal (see sōː)
-\np
-\nt form in lx field is imperative singular
 \dt 16/Nov/2015
 
 \lx hāː
@@ -18174,11 +16013,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: In <hāː sã̀õ̀>, can you replace <sã̀õ̀> with a specific snake name, such as <ʧébó>, or add a demonstrative <sã̀õ̀ wā>? (if not, make <hāː sã̀õ̀> an idiom!) CHECK: in <hāː hōnō>, I guess there is nothing else that can be an object --> idiom?
-\ng
-\np
-\nt
 \dt 03/Apr/2016
 
 \lx hàɓrā
@@ -18215,11 +16049,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 02/Dec/2014
 
 \lx hál hál
@@ -18257,11 +16086,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt cats walk hál hál when hunting...
 \dt 02/Mar/2016
 
 \lx hálkát hálkát
@@ -18298,11 +16122,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx hāltārá
@@ -18339,11 +16158,6 @@
 \sd social
 \bw
 \ue
-\so
-\nq provide definition. Not sure what this actually refers to.
-\ng
-\np
-\nt
 \dt 14/Nov/2014
 
 \lx hámáhāmō
@@ -18380,11 +16194,6 @@
 \sd animal ; insect
 \bw
 \ue
-\so
-\nq WHAT is the plural (originally noted as: hámáhāmō)?? compare the paradigm field (noted as -o / -sa). lives on men and pigs. Sabeta does not know the Yungur word, neither does Bitrus. CHECK: Agreement?
-\ng reduplication?
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx hándá
@@ -18421,11 +16230,6 @@
 \sd space
 \bw
 \ue
-\so
-\nq Which dialect?
-\ng
-\np
-\nt Should be a dialectal variant
 \dt 29/May/2016
 
 \lx hánhándá
@@ -18462,11 +16266,6 @@
 \sd
 \bw
 \ue
-\so
-\nq Is this a nominalisation in Bena too?
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx hārkāɲó
@@ -18503,11 +16302,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 25/Nov/2014
 
 \lx háːtə́mō
@@ -18544,11 +16338,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt this onion háːtə́m wā
 \dt 25/Nov/2014
 
 \lx hátmá
@@ -18585,11 +16374,6 @@
 \sd instrument ; smithery
 \bw
 \ue
-\so
-\nq
-\ng Bitrus SG=PL, DEM.SG ya ~ wa, DEM.PL wa
-\np C2 has to be unreleased. A released stop is rejected. The stop is clearly alveodental, but it is hard to determine whether it is voiced or voiceless.
-\nt
 \dt 08/Dec/2015
 
 \lx hāːtō
@@ -18627,11 +16411,6 @@
 \sd human ; kinship
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:4
-\nq Short form? How do you ask 'What is your maternal clan?' (Compare this question for parternal clan)
-\ng
-\np
-\nt Your sister's children are hāːtō to your children
 \dt 04/Feb/2016
 
 \lx háttá
@@ -18668,11 +16447,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx hẽ́ː
@@ -18709,11 +16483,6 @@
 \sd
 \bw
 \ue
-\so
-\nq Copied from old field notes without audio verification. CHECK EVERYTHING.
-\ng postposition?
-\np
-\nt
 \dt 16/Nov/2015
 
 \lx hīl hīl
@@ -18751,11 +16520,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 02/Mar/2016
 
 \lx híndá
@@ -18793,11 +16557,6 @@
 \sd plant ; tree
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 29/May/2016
 
 \lx híndá
@@ -18834,11 +16593,6 @@
 \sd space
 \bw
 \ue
-\so
-\nq Which dialect?
-\ng
-\np
-\nt Should be a dialectal variant
 \dt 29/May/2016
 
 \lx híːrá
@@ -18876,11 +16630,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 24/Oct/2014
 
 \lx hīːrā
@@ -18920,11 +16669,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt generic term, names of dances are phrases / compounds dance of X, where x is the name of a festival
 \dt 19/Nov/2015
 
 \lx hírhír
@@ -18961,11 +16705,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng Reduplication is obligatory
-\np
-\nt N.B. when I elicited 'the place of the surprise' in order to determine its tone class, Sabeta translated with a final determiner án hírhír wa᷇. Strange - both positive and negative
 \dt 09/Dec/2015
 
 \lx hírí
@@ -19002,11 +16741,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Bitrus
 \dt 17/Nov/2015
 
 \lx hīt hāː
@@ -19043,11 +16777,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx hītō
@@ -19095,11 +16824,6 @@
 \sd space
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 29/May/2016
 
 \lx hõ̂ː
@@ -19142,11 +16866,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 16/Nov/2015
 
 \lx hóː
@@ -19183,11 +16902,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: Predicative vs Attributive vs Adverbial usage. (Adjust PoS)
-\ng
-\np
-\nt
 \dt 08/Mar/2016
 
 \lx hóː
@@ -19224,11 +16938,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 16/Nov/2015
 
 \lx hōllā
@@ -19266,11 +16975,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 29/Feb/2016
 
 \lx hólô
@@ -19308,11 +17012,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 23/Oct/2014
 
 \lx hōndā
@@ -19350,11 +17049,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng It seems to be usually used in PL rather than SG
-\np first vowel only slightly nasalised
-\nt hōndə̄ wā 'this mud'. hōntā (usually PL) used for constructing buildings or making pots, there is no special name for different types of mud depending on the purpose of use
 \dt 02/Dec/2015
 
 \lx hōnō
@@ -19391,11 +17085,6 @@
 \sd religion ; social
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Bitrus
 \dt 03/Jan/2016
 
 \lx hȭːrā
@@ -19433,11 +17122,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 23/Oct/2014
 
 \lx hóːrá
@@ -19475,11 +17159,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 23/Oct/2014
 
 \lx hóːrá
@@ -19516,11 +17195,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq check plural and translation (isn't it a flea?). In Hausa: káskà
-\ng the plural seems to be marked twice
-\np
-\nt
 \dt 15/Jan/2016
 
 \lx hōːrā
@@ -19558,11 +17232,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt especially a small child, wellicht
 \dt 03/Jan/2016
 
 \lx hũ̄hũ̄ːrá
@@ -19599,11 +17268,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq BUT DANIEL PRONOUNCES hṹːhũ̂ːrá  
-\ng
-\np
-\nt
 \dt 28/Nov/2014
 
 \lx hūhúrēn
@@ -19640,11 +17304,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Sabeta doesn't know of a plural
 \dt 27/Nov/2014
 
 \lx hūlāhúló
@@ -19681,11 +17340,6 @@
 \sd plant
 \bw
 \ue
-\so Daniel
-\nq Plural?
-\ng Short form: hūlāhúló wa᷇.
-\np YUN_PRA_141125_DI_01.wav
-\nt NB_YUN_2014_03_DI:89. Identified by DA as Okezie & Agyakwa (1998:428-429)
 \dt 28/Nov/2014
 
 \lx hún dólkə̀tâ
@@ -19730,11 +17384,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq CHECK: Is hún dólkə̀tâ a synonym of dòlkə̀sà 'ceramic pot with three legs' or it is the pot part of the tripod pot (or either)? Can it also be <hún dólkə̀tà ~ hún dólkə̀sâ ~ hún dólkə̀sà>?
-\ng
-\np
-\nt
 \dt 27/Dec/2015
 
 \lx húndá
@@ -19771,11 +17420,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt IDEM Kleinewillinghöfer (1996:85), who has hún-dá / huntá (speaker from Dumne). 
 \dt 27/May/2015
 
 \lx húnú
@@ -19812,11 +17456,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq specify kind of pot and give other kinds of pots
-\ng
-\np
-\nt Is this also the generic term for pot? or only the specific type used for cooking and keeping water, which is bulbous with a narrow mouth (and a neck?)
 \dt 03/Jan/2016
 
 \lx húrá
@@ -19853,11 +17492,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: The meaning of <hūrāɗā> 'forget him/her'? rather than 'forget (about it)'?
-\ng
-\np
-\nt N.B. húrô can also mean 'blowing, whistling' ('blow': húrú). the form volunteered by Sabeta was hūrāːtā. BI: ét húrāːtā 'smb who forgets easily'
 \dt 17/Nov/2015
 
 \lx hūrāːtā
@@ -19894,11 +17528,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx hūré
@@ -19935,11 +17564,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt These grow bigger. Plural not known.
 \dt 27/May/2015
 
 \lx hūrō
@@ -19979,11 +17603,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 23/Nov/2014
 
 \lx hūrō
@@ -20020,11 +17639,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt this thread hūr wā
 \dt 23/Nov/2014
 
 \lx húrú
@@ -20064,11 +17678,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt MV: māːrə̄ hūrūtá is 'whistling', but BI says it strange and can only mean 'whistled speech'
 \dt 17/Nov/2015
 
 \lx húrútá
@@ -20105,11 +17714,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng No SG or PL
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx húːsâ
@@ -20147,11 +17751,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt yákwà in Hausa
 \dt 12/Jul/2014
 
 \lx húːtô
@@ -20188,11 +17787,6 @@
 \sd animal ; snake
 \bw
 \ue
-\so
-\nq
-\ng
-\np !! This nouns seems to have a voiced glottal fricative. CHECK and compare... Hmm not sure, listen again with other words. NO it seems that both h and ɦ are always acceptable
-\nt 'this viper' húːtə́ wā
 \dt 15/Nov/2015
 
 \lx húttú
@@ -20230,11 +17824,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: Bitrus also volunteered an example smth like <nə̀ huttə gaɗa a ankata> 'I slithered with my back against the chair (because it itched)'
-\ng
-\np
-\nt Bitrus also volunteered an example smth like <nə̀ huttə gaɗa a ankata> 'I slithered with my back against the chair (because it itched)'. NOTE this is not to describe the movement of the snake! For this, the verb is <bòːtò>
 \dt 11/Feb/2016
 
 \lx hũ̄ːtūr
@@ -20271,11 +17860,6 @@
 \sd
 \bw
 \ue
-\so Sabeta
-\nq
-\ng Predicative: áy hũ̄ːtūr. In attributive use the DEM is obligatory. 
-\np
-\nt NB_YUN_2014_03_DI:32
 \dt 09/Dec/2015
 
 \lx hùːtùr
@@ -20312,11 +17896,6 @@
 \sd color
 \bw
 \ue
-\so
-\nq CONTROL: Tone - L or M? ADD Examples
-\ng
-\np
-\nt
 \dt 15/Dec/2015
 
 \lx hwã̄ːkā
@@ -20353,11 +17932,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 19/Nov/2015
 
 \lx hwã́ːmâ
@@ -20394,11 +17968,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 26/Feb/2016
 
 \lx hwã̄ːmā
@@ -20440,11 +18009,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq
-\ng This word probably contains (at least historically) a -ma, suffix (Bantu class 6, liquids and masses). Compare words for blood, seed, chaff...
-\np According to Pa Awballa the correct (older?) pronunciation is hã̄ːmā
-\nt hwã̄mə̄ mbə̀lkẽ́ːtà is probably what they call "pistache" in Cameroon. HOW do you call this in English? pumpkin seed? no, it's not pumpkin, more "cucumber"...
 \dt 22/Mar/2015
 
 \lx hwã̄ːɲō
@@ -20481,11 +18045,6 @@
 \sd plant
 \bw
 \ue
-\so Daniel
-\nq Plural?
-\ng Short form: hwã̄ːɲō wā
-\np [hwã̄ːɲȭ, hwã̄ːỹȭ] YUN_PRA_141125_DI_01.wav
-\nt NB_YUN_2014_03_DI:89. Identified by DA as Okezie & Agyakwa (1998:431) the lower picture
 \dt 28/Nov/2014
 
 \lx hwã̄ːrā
@@ -20523,11 +18082,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 12/Nov/2014
 
 \lx hwã̄ːrā
@@ -20570,11 +18124,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq identify. translation taken from Manliura
-\ng
-\np
-\nt this animal does not hear well, it can hit you with its tail and can run very fast. Very big. The meat is very appreciated. Lives in the water and in the mountains
 \dt 12/Nov/2014
 
 \lx hwáːrá
@@ -20611,11 +18160,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 27/May/2015
 
 \lx ífó
@@ -20653,11 +18197,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt in this stomach ɗā ífə̄ wa᷇
 \dt 21/Nov/2014
 
 \lx íʧê
@@ -20700,11 +18239,6 @@
 \sd kinship ; human
 \bw
 \ue
-\so Sabeta
-\nq Agreement class?
-\ng
-\np
-\nt NB_YUN_2014_03_DI:4. Compound in de zin van 'hof'
 \dt 19/Sep/2015
 
 \lx kã́ː
@@ -20741,11 +18275,6 @@
 \sd plant ; tree
 \bw
 \ue
-\so
-\nq verify translation
-\ng MV: no clear plural
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx káː-
@@ -20784,11 +18313,6 @@
 \sd kinship ; human
 \bw
 \ue
-\so
-\nq tone scheme A or B? Agreement class? Plural?
-\ng
-\np
-\nt N.B. this is a relational noun. The possessor has to be specified: káːʧé 'his grandmother', káːne᷇ 'my grandmother', káːŋge᷇ 'your grandmother'
 \dt 21/Mar/2015
 
 \lx kābə̄lāŋrá
@@ -20825,11 +18349,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq CHECK: Variant <kāmbə̄lāŋrá>?
-\ng
-\np
-\nt
 \dt 02/Jun/2016
 
 \lx kã́ːb(ə́)rá
@@ -20866,11 +18385,6 @@
 \sd
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:4
-\nq
-\ng
-\np
-\nt
 \dt 04/Feb/2016
 
 \lx kàdìn
@@ -20907,11 +18421,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 27/May/2015
 
 \lx kāɗā
@@ -20948,11 +18457,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: Meaning - should also mean 'stay, spend time (somewhere)'? 'live (somewhere)'?
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx kāɗāːtó
@@ -20989,11 +18493,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK Example: tone marking, analysis. (tone & V-length of Daniel)
-\ng
-\np
-\nt kāɗāːtə́ wa᷇ this relation. In NE translated as "lifestyle". As when you ask sb how is their relatio with x. Probably contains the verb kāɗā 'sit'
 \dt 08/Mar/2016
 
 \lx kàːká
@@ -21030,11 +18529,6 @@
 \sd kinship
 \bw
 \ue
-\so
-\nq CONTROL: Part of speech & use. CHECK: What is the descriptive equivalent of this term of address?
-\ng
-\np
-\nt
 \dt 21/Nov/2015
 
 \lx kākāːrá
@@ -21071,11 +18565,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 07/May/2015
 
 \lx káklákrá
@@ -21112,12 +18601,6 @@
 \sd animal ; insect
 \bw
 \ue
-\so
-\nq CONTROL: Confirm identification as "cockroach"
-\ng
-\np
-\nt NB the two last syllables can be pronounced downstepped in isolation (final position).
-\nt examples of insects: cockroach, spider, and many others for which Sabeta does not know the English name. NOT ant, mosquito, bee
 \dt 29/May/2016
 
 \lx kákrá
@@ -21154,11 +18637,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 15/Nov/2014
 
 \lx kâkúmō
@@ -21195,11 +18673,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq CONTROL: PL -msê or -sê?
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx kāl pēŋgê
@@ -21236,11 +18709,6 @@
 \sd emotion
 \bw
 \ue
-\so
-\nq check notation of the example, no velar nasal aŋ?? T??, check tone of entry
-\ng
-\np
-\nt
 \dt 30/Nov/2015
 
 \lx kālē
@@ -21277,11 +18745,6 @@
 \sd
 \bw
 \ue
-\so
-\nq ADD: After checking the idioms with <kālē> in the entry <gwã̀ː> 'warm up', add them to the entry <kālē> 'belly'
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx kállá
@@ -21318,11 +18781,6 @@
 \sd space
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 21/Dec/2015
 
 \lx káló
@@ -21359,11 +18817,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq identify
-\ng
-\np
-\nt Its colour is in between that of a baboon and kuna. Manliura identifies it as tantalus
 \dt 21/Dec/2015
 
 \lx kāltā
@@ -21400,11 +18853,6 @@
 \sd
 \bw
 \ue
-\so
-\nq NEEN: dit is winderigheid en opgeblazen gevoel, bv na het eten van bonen
-\ng
-\np
-\nt
 \dt 25/Nov/2014
 
 \lx kálʧê
@@ -21443,11 +18891,6 @@
 \sd
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:6
-\nq
-\ng
-\np
-\nt
 \dt 08/Mar/2016
 
 \lx kã́ːmá
@@ -21486,11 +18929,6 @@
 \sd plant
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:4
-\nq
-\ng Short form: -ə́ wa᷇
-\np
-\nt
 \dt 04/Feb/2016
 
 \lx kã́ːmá
@@ -21536,11 +18974,6 @@
 \sd human ; kinship
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:4 ; YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_03_DI:2
-\nq CHECK: Variant <kã́ːmbə́rá>? Agreement class in SG & PL? Agreement class of the variant kã́ːbə́rá (SG) and kã́ːbə́tá (PL)? Tonal class (A or B) of the variant kã́ːbə́rá (SG) and kã́ːbə́tá (PL)? CONTROL: Can the PL form <kã́ːbə́tá> be used in the examples with PL reference (both for '(sub)clans' and 'relatives')? CHECK: According to Daniel the same word is used for 'subclan, subdivision of a clan' (Is there no way to specify the term for 'subclan'? Translate "Sõ̀ː and Kóːró are subclans of the Pūllē (clan)"?)
-\ng Short form: -ə́ wa᷇
-\np MV:{Kleinewillinghöfer (1996: 85) does not note nasalisation of the first vowel (speaker from Dumne). He does note vowel length.}
-\nt MV{Your children are not káːmá to your sister's children. Your mother's relatives: hāːtō}
 \dt 02/Jun/2016
 
 \lx kámáːrá
@@ -21577,11 +19010,6 @@
 \sd
 \bw
 \ue
-\so
-\nq determine tone scheme, given that it has a plural, isn't this the word for an epileptic fit?
-\ng
-\np Variant kə́máːrá from Bitrus
-\nt
 \dt 01/Dec/2015
 
 \lx kã̄ːmē
@@ -21620,11 +19048,6 @@
 \sd plant ; food
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt BI, BITRUS_Pictures_151116_001.jpg
 \dt 17/Nov/2015
 
 \lx kámó
@@ -21661,11 +19084,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Sabeta does not know what this animal looks like. Manliura identifies it as "oribi"
 \dt 27/May/2015
 
 \lx kāmpé
@@ -21702,11 +19120,6 @@
 \sd clothing
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Probably a borrowing, but from what?
 \dt 23/Feb/2016
 
 \lx kāmrā
@@ -21743,11 +19156,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 21/Nov/2014
 
 \lx káná
@@ -21784,11 +19192,6 @@
 \sd
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_DI_03:3
-\nq CONTROL: Tone (originally noted as M.M) CHECK: Valency pattern
-\ng
-\np
-\nt
 \dt 07/Apr/2016
 
 \lx káːnə́kōtí
@@ -21825,11 +19228,6 @@
 \sd animal ; fish
 \bw
 \ue
-\so
-\nq
-\ng
-\np t not affricated in last syllable? only example of ti
-\nt
 \dt 27/May/2015
 
 \lx kānō
@@ -21869,11 +19267,6 @@
 \sd plant ; animal
 \bw
 \ue
-\so NB_YUN_2014_DI_03:40
-\nq CONTROL: The PL (NB: Sabeta and Daniel do not know this plural!) (NB: I doubt that it can have PL in the meaning "poison" - separate entry?)
-\ng Sabeta and Daniel do not know the plural <kāntā>!
-\np
-\nt
 \dt 03/Apr/2016
 
 \lx kántù
@@ -21916,11 +19309,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt same word in Hausa and Fulani
 \dt 30/Nov/2015
 
 \lx kāŋ
@@ -21959,11 +19347,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: Is the IMP really without a final vowel?
-\ng
-\np
-\nt MV: can be of teeth, also cut bones of animals to be able to put them in the pot
 \dt 21/Nov/2015
 
 \lx kāŋgə̄rá
@@ -22000,11 +19383,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq what is the correct translation for this?
-\ng
-\np
-\nt
 \dt 20/Feb/2015
 
 \lx káŋgó
@@ -22041,11 +19419,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt no plural
 \dt 20/Feb/2015
 
 \lx káŋgó
@@ -22082,11 +19455,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 20/Feb/2015
 
 \lx káŋrá
@@ -22123,11 +19491,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng THE "synonym" is probably better treated as a variant: same stem other morphological class. Is this a common possibility ra versus o??
-\np
-\nt
 \dt 27/May/2015
 
 \lx káŋrá
@@ -22164,11 +19527,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: tone pattern with other speakers (than BI)
-\ng
-\np
-\nt
 \dt 28/Nov/2015
 
 \lx kàŋtàŋgò
@@ -22205,11 +19563,6 @@
 \sd animal ; snake
 \bw
 \ue
-\so
-\nq plural? Sabeta doesn't know...
-\ng
-\np
-\nt
 \dt 27/May/2015
 
 \lx kárá
@@ -22246,11 +19599,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: Meaning (it was originally translated as 'see', but that's wīrī) & valency pattern
-\ng
-\np
-\nt
 \dt 21/Nov/2015
 
 \lx káːrá
@@ -22294,11 +19642,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Daniel sees a clear semantic link between the two meanings in terms of (uncontrolled) permanence. Noted in Dumne: common meaning = 'something that stays without drying'
 \dt 21/Nov/2014
 
 \lx káré
@@ -22335,11 +19678,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: Agreement & Paradigm
-\ng no known plural
-\np
-\nt
 \dt 21/Nov/2015
 
 \lx kã́ːsâ
@@ -22376,11 +19714,6 @@
 \sd social
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 27/May/2015
 
 \lx kát sáō
@@ -22423,11 +19756,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np pronounced kássáō
-\nt
 \dt 27/Nov/2015
 
 \lx kātārá
@@ -22464,11 +19792,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 27/May/2015
 
 \lx kāta᷄
@@ -22505,11 +19828,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 27/May/2015
 
 \lx kátó
@@ -22546,11 +19864,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np Sabeta also pronounces this as kássâ, and does not perceive a difference beteen both pronunciation
-\nt this axe kát wa᷇
 \dt 27/May/2015
 
 \lx káwá
@@ -22593,11 +19906,6 @@
 \sd action ; body
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:6
-\nq
-\ng No NMLZ on -yo. Cognate object?
-\np
-\nt
 \dt 26/Feb/2016
 
 \lx káwá
@@ -22628,13 +19936,11 @@
 \lf Idiom
 \lv nə̀ kāw kāːnē
 \le I stumbled (and fell)
-\nq CONTROL: <kāːnē> looks like 1SG.POSS of <kāː- ~ káː->. Check in other persons, the lexical tone of kaː-, its possible meaning. Perhaps, add it as a separate entry or as a phrasal entry <káw káːnē>.
 \sn 2
 \de wrestle, struggle to make each other fall to the ground
 \re wrestle ; struggle (sp)
 \xv ɓā káwɓān
 \xe They wrestled
-\nq CONTROL: Tone -ɓa᷄n or -ɓān?
 \cf kāwrā
 \ce wrestling
 \lf
@@ -22644,11 +19950,6 @@
 \sd action
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:6
-\nq NMLZ as in PROG <káwô> or only <kāwrā>? NMLZ on -yǒ? Can it also be <kāwtā> with PL subject <tâː kāwtā>?
-\ng
-\np
-\nt
 \dt 23/Feb/2016
 
 \lx kāwā
@@ -22685,11 +19986,6 @@
 \sd
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:6
-\nq
-\ng
-\np
-\nt break a stick, for instance (not: break a pot)
 \dt 23/Feb/2016
 
 \lx kāwā
@@ -22731,11 +20027,6 @@
 \sd
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:6
-\nq
-\ng
-\np
-\nt
 \dt 23/Feb/2016
 
 \lx káwrá
@@ -22772,11 +20063,6 @@
 \sd
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:6
-\nq CHECK: Sabeta gave a PL -tá: can it also be náà kāwrá, táà kāwtá? Agreement? Is there a verb from which it is derived? CONTROL: tone pattern with other speakers (than BI)
-\ng
-\np
-\nt Zoals arabische vrouwen in vreugdekoren wawawawa
 \dt 23/Feb/2016
 
 \lx kāwrā
@@ -22813,11 +20099,6 @@
 \sd action
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:6
-\nq EXAMPLES! Agreement? Can it also be <kāwtā> with PL subject <tâː kāwtā>? (in the latter case add paradigm & PL)
-\ng
-\np
-\nt
 \dt 22/Feb/2016
 
 \lx kẽ́ː
@@ -22860,12 +20141,6 @@
 \sd
 \bw
 \ue
-\so NB_YUN-2013-02:03 = YUN-PRA_13-11-02_DI_02
-\nq What is the NMLZ?
-\nq CONTROL: It seems to be a quotative verb always followed by the quotative linker {mə́}.
-\ng
-\np
-\nt
 \dt 12/Nov/2014
 
 \lx kéː
@@ -22902,11 +20177,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt the identification "roan antelope" comes from Manliura, but Pa Awbala called it a "wild cow". Apparantly, pámrá flutes are made with the horns of this antelope. In notes Dumne, the plural is kíjâ
 \dt 23/Feb/2016
 
 \lx kéː
@@ -22943,11 +20213,6 @@
 \sd
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:6
-\nq
-\ng
-\np
-\nt
 \dt 26/Feb/2016
 
 \lx kéfó
@@ -22984,11 +20249,6 @@
 \sd instrument ; smithery
 \bw
 \ue
-\so
-\nq CONTROL: Confirm whether it is used to cut iron when it's cold, hot or either
-\ng
-\np
-\nt
 \dt 29/May/2016
 
 \lx kēmā
@@ -23025,11 +20285,6 @@
 \sd tree
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 30/Nov/2015
 
 \lx kẽ́ːrá
@@ -23066,11 +20321,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 27/May/2015
 
 \lx kéːrá
@@ -23107,11 +20357,6 @@
 \sd nature
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Apparently, the meaning of this word is not Harmattan as such, but the DUST that it brings
 \dt 27/May/2015
 
 \lx késákésō
@@ -23148,11 +20393,6 @@
 \sd plant
 \bw
 \ue
-\so Sabeta
-\nq Plural?
-\ng Short form: -ō wā
-\np not recorded
-\nt NB_YUN_2014_03_DI:88. Identified by SA as Okezie & Agyakwa (1998:309). DA identified the same plant as <màːmə̀ tàɓsá>, but SA does not know this word.
 \dt 28/Nov/2014
 
 \lx kété
@@ -23189,11 +20429,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np this is pronounced késsâ
-\nt
 \dt 27/May/2015
 
 \lx kētēmrá
@@ -23231,11 +20466,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 30/Nov/2015
 
 \lx kēwā
@@ -23272,11 +20502,6 @@
 \sd tree
 \bw
 \ue
-\so
-\nq identify
-\ng
-\np
-\nt Sabeta cannot give a description
 \dt 30/Nov/2015
 
 \lx kēwkēw
@@ -23313,11 +20538,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np Bitrus: kēwkēw. Originally, noted by MV as [kyèwkyèw]
-\nt FR: sagaie?
 \dt 15/Dec/2015
 
 \lx kə́fə́
@@ -23362,11 +20582,6 @@
 \sd
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:5
-\nq CONTROL: Two meanings to be distinguished 'eat' and 'chew'? Sure of both?
-\ng
-\np
-\nt
 \dt 04/Feb/2016
 
 \lx kə̄lām
@@ -23408,11 +20623,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng Reduplication does not change the semantics, it seems
-\np
-\nt
 \dt 09/Dec/2015
 
 \lx kə̄lāːrá
@@ -23449,11 +20659,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Probably a borrowing from Chadic or Kanuri (cf. terms for goat in Blench's book on archaeology)
 \dt 15/Feb/2016
 
 \lx kə́lbókrâ
@@ -23490,11 +20695,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 15/Nov/2014
 
 \lx k(ə́)léŋ
@@ -23531,11 +20731,6 @@
 \sd plant ; food
 \bw
 \ue
-\so
-\nq PL? CONTROL: Meaning
-\ng
-\np
-\nt
 \dt 15/Dec/2015
 
 \lx kə́lə́ŋgbóŋgō
@@ -23572,11 +20767,6 @@
 \sd insect
 \bw
 \ue
-\so
-\nq
-\ng
-\np NB: ŋ-gb rather than ŋm-gb
-\nt NB entire stem tone retained in plural, suggesting that the -o may not be a suffix after all??
 \dt 15/Dec/2015
 
 \lx kə̄mkə̄rá
@@ -23613,11 +20803,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 27/May/2015
 
 \lx kə̄mrā
@@ -23654,11 +20839,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt species of tṹː (generic term)
 \dt 27/May/2015
 
 \lx kə́ndá
@@ -23695,11 +20875,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 12/Nov/2014
 
 \lx k(ə́)ré
@@ -23736,11 +20911,6 @@
 \sd kinship ; social
 \bw
 \ue
-\so
-\nq SEE KARE ENTRY. Agreement in PL? CONTROL: V2 in PL ə or e?
-\ng
-\np MV: last syllable downstepped in isolation. DI: Bitrus hums 2 syllables
-\nt
 \dt 15/Dec/2015
 
 \lx k(ə̄)rē
@@ -23778,11 +20948,6 @@
 \sd plant
 \bw
 \ue
-\so
-\nq
-\ng
-\np Bitrus hums 2 syllables
-\nt
 \dt 15/Dec/2015
 
 \lx kə́rkóː
@@ -23819,11 +20984,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: V2 length in SG
-\ng
-\np
-\nt
 \dt 05/Jan/2016
 
 \lx kə̀tə̀rə̀kẽ̀
@@ -23860,11 +21020,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt This is the indigenous (?) term for the fruit, for which apparently the Hausa word gwanda is used more often
 \dt 03/Jan/2016
 
 \lx kí bîtô
@@ -23907,11 +21062,6 @@
 \sd animal ; snake
 \bw
 \ue
-\so
-\nq check tones
-\ng 'green' also as "adjective" (adnominal or predicative use)?
-\np V1 is indeed short
-\nt
 \dt 27/Nov/2015
 
 \lx kībā
@@ -23948,11 +21098,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt variant with nasal C2 = pa Awballa's
 \dt 27/May/2015
 
 \lx kíɗɗá
@@ -23992,11 +21137,6 @@
 \sd
 \bw
 \ue
-\so
-\nq check the meanings
-\ng
-\np
-\nt
 \dt 21/Nov/2014
 
 \lx kíŋké
@@ -24033,11 +21173,6 @@
 \sd human ; kinship
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt N.B. siblings of father are called parents (mother - father), as is sister of mother. Maternal uncle is supposed to take care of a child if the paternal family can't or doesn't, but the child will not inherit from him...
 \dt 03/Jan/2016
 
 \lx kíŋké
@@ -24074,11 +21209,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 27/May/2015
 
 \lx kíó
@@ -24115,11 +21245,6 @@
 \sd plant
 \bw
 \ue
-\so
-\nq Agreement? PL? CHECK: Tones & vowel length in the idiom
-\ng
-\np
-\nt
 \dt 15/Dec/2015
 
 \lx kītīkītī
@@ -24142,7 +21267,6 @@
 \rf
 \xv áy kītīkītī
 \xe He is disorganised.
-\ng About a person, it can also mean somebody who is a liar, have not to sit at one place to reason about things he is doing
 \xv wú kītīkītī
 \xe It is a mess.
 \sy
@@ -24164,11 +21288,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng Reduplication obligatory
-\np
-\nt
 \dt 09/Dec/2015
 
 \lx kító
@@ -24205,11 +21324,6 @@
 \sd action
 \bw
 \ue
-\so
-\nq EXAMPLES of use? Agremeent? Is it a derivation from some verb?
-\ng
-\np
-\nt
 \dt 15/Dec/2015
 
 \lx kíwé
@@ -24246,11 +21360,6 @@
 \sd human ; social ; kinship
 \bw
 \ue
-\so
-\nq CONTROL: The PL form, which MV originally noted as <kyúːmá>, but it looks suspicious. I would rather expect kíwmá or kíwə́má
-\ng
-\np
-\nt NB for women, this cover term exists as well (bwèːrō), but more specific terms exist as well
 \dt 15/Dec/2015
 
 \lx kóː
@@ -24287,11 +21396,6 @@
 \sd
 \bw
 \ue
-\so Sabeta ; Daniel
-\nq
-\ng The verb has irregular IMP/OPT forms, such as ŋgōː 'go! (2SG). It cannot be used in PFV, where the verb wàɗà must be used instead. It also seems to function as a kind of quasi-auxiliary in some constructions. Add the info from NB_YUN_2014_03_DI:61-62
-\np
-\nt NB_YUN_2014_03_DI:61-62
 \dt 28/Nov/2014
 
 \lx kōː
@@ -24328,11 +21432,6 @@
 \sd animal ; animal
 \bw
 \ue
-\so
-\nq Agreement? Tone in the PL: H or MH? CONTROL: What does this mean "in context the plural becomes kwaːsə"?
-\ng ! in context the plural becomes kwaːsə
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx kōː
@@ -24369,11 +21468,6 @@
 \sd space
 \bw
 \ue
-\so
-\nq Agreement? CONTROL: V2 length in PL
-\ng
-\np
-\nt
 \dt 05/Jan/2016
 
 \lx kóbóró
@@ -24410,11 +21504,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 27/Nov/2015
 
 \lx kóɗɗá
@@ -24451,11 +21540,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 27/May/2015
 
 \lx kókól máːʧíó
@@ -24498,11 +21582,6 @@
 \sd animal ; bird
 \bw
 \ue
-\so
-\nq PL (single/double/either - where)?
-\ng
-\np
-\nt Cf entry for quail (gòː màːʧìò), but note the tonal difference
 \dt 31/Oct/2015
 
 \lx kólkó
@@ -24539,11 +21618,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 26/Nov/2014
 
 \lx kólmó
@@ -24580,11 +21654,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq add plural
-\ng
-\np
-\nt
 \dt 27/May/2015
 
 \lx kōlŋgōrá
@@ -24621,11 +21690,6 @@
 \sd animal ; snake
 \bw
 \ue
-\so
-\nq CONTROL: Length of V2. CHECK: A variant <kōlgōrá>?
-\ng
-\np
-\nt Manliura identifies this snake as a royal python
 \dt 02/Jun/2016
 
 \lx kólóbá
@@ -24662,11 +21726,6 @@
 \sd instrument
 \bw Fula
 \ue
-\so
-\nq CHECK: No variant <kólómbá>, 'this bottle' <kólóm wa᷇> acceptable?
-\ng
-\np
-\nt
 \dt 02/Jun/2016
 
 \lx kómá
@@ -24703,11 +21762,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng no singulative and plural singulative forms, historical -ma suffix for masses/liquids?
-\np
-\nt the distributive plural means different types of guinea corn
 \dt 22/Mar/2015
 
 \lx kōmrā
@@ -24758,11 +21812,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 15/Nov/2014
 
 \lx kónkónsà
@@ -24799,11 +21848,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt this handle kónkónsə̀ wā
 \dt 12/Nov/2014
 
 \lx kónó
@@ -24840,11 +21884,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq Verify identification!
-\ng
-\np
-\nt Originally, it was translated as 'alligator', "smaller than crocodiles gìràŋgó". However, later Sabeta translated as 'buffalo', also in Zata's list from Uli it is also 'buffalo'.
 \dt 15/Jan/2016
 
 \lx kōŋsīŋ
@@ -24883,11 +21922,6 @@
 \sd plant ; food
 \bw
 \ue
-\so Daniel ; Sabeta
-\nq Plural? ADD the variant as an entry.
-\ng
-\np YUN_PRA_141124_DI_02.wav The variant <kwāŋsīŋ> and the synonym <páː kóŋsīŋ>is from Daniel, not recorded.
-\nt NB_YUN_2014_03_DI:82. It is both the plant and the seed. It was initially identified by DA & SA as Okezie & Agyakwa (1998:367) Sesamum alatum (gazelle's sesame, wild beasts' sesame), but unlike the latter plant kōŋsīŋ is not a weed, but is cultivated.
 \dt 28/Nov/2014
 
 \lx kōp
@@ -24924,11 +21958,6 @@
 \sd kinship
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 12/Nov/2014
 
 \lx kȭːrā
@@ -24965,12 +21994,6 @@
 \sd
 \bw
 \ue
-\so
-\nq Agreement? (also in PLQ construction - see DI's fieldnotes 2014)
-\ng
-\np
-\nt
-\ng Also used in PLQ construction - ADD EXAMPLES. nə̀ wīr kṍːrā 'I saw an old one' (e.g., only an older model of something). It is a deverbal derivate and there is also a modifying derivate of this verb (see MV's notes 2015)
 \dt 15/Dec/2015
 
 \lx kóːrá
@@ -25007,11 +22030,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq CONTROL: PL? Can it be tone A as well?
-\ng
-\np
-\nt there seems to be a variant pronunciation of the plural form, with a long vowel and a non-geminate t: kóːtá. After discussion Sabeta said that kóːta is the correct pronunciation, "because kotta means something else: 'stains'". Daniel gives kóttá as plural.
 \dt 15/Dec/2015
 
 \lx kóːrá
@@ -25048,11 +22066,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq CONTROL: Is the PL only kóːtá or also kóttá (or only kóttá) = is the PL of 'handle' different form that of 'back of head'? Homonymous to 'back of head' (or is there a semantic link between both?)
-\ng
-\np
-\nt
 \dt 15/Dec/2015
 
 \lx kōrbō
@@ -25095,11 +22108,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 19/Sep/2015
 
 \lx Kóːró
@@ -25136,11 +22144,6 @@
 \sd name ; human ; social
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_03_DI:2
-\nq CHECK: Tone pattern? Agreement? In which villages? Primary village?
-\ng
-\np
-\nt
 \dt 07/Mar/2016
 
 \lx kōːrō
@@ -25177,11 +22180,6 @@
 \sd
 \bw
 \ue
-\so
-\nq find technical term for this, no other meanings? CONTROL: the form of the NMLZ kōːryo᷄ (no schwa, o before yo?)
-\ng
-\np
-\nt
 \dt 13/Dec/2015
 
 \lx kōrōːrá
@@ -25219,11 +22217,6 @@
 \sd nature
 \bw
 \ue
-\so
-\nq DA 141028: V2 is long OK, but also in the plural? DA often has geminate tt, where Sabeta has a long V (for the time being long vowel inserted in the plural without evidence)
-\ng
-\np
-\nt
 \dt 12/Nov/2014
 
 \lx kōsōŋrá
@@ -25260,11 +22253,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Daniel translates as 'human flesh', but that should be nám étē
 \dt 25/Nov/2014
 
 \lx kṹː
@@ -25301,11 +22289,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq PL (also kṹːsâ = "dishes"? kṹːsə́ bàlo᷇? kṹː bâlsa? kṹːsə́ bàlsa?)? Agreement? CONTROL: The meaning: is it really a specialized calabash for bear drinking or is just a type of calabash used as a cup and it is in combination kṹː bâlo᷇ that it refers to a calabash for beer-drinking
-\ng
-\np
-\nt
 \dt 04/Feb/2016
 
 \lx kṹː bálàttê
@@ -25342,11 +22325,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq PL? Agreement?
-\ng This is a DIM derivate of kṹː bâlo᷇ 'beer calabash'
-\np
-\nt
 \dt 15/Dec/2015
 
 \lx kúbá
@@ -25383,11 +22361,6 @@
 \sd tree
 \bw
 \ue
-\so
-\nq PL? (kúbé?) CONTROL: tone pattern with speakers other than BI. IDENTIFY scientific name CHECK: Variant <kúmbá>, 'this tree (sp)' <kúm wa᷇>?
-\ng
-\np
-\nt
 \dt 02/Jun/2016
 
 \lx kúbó
@@ -25424,11 +22397,6 @@
 \sd
 \bw
 \ue
-\so
-\nq PL? Agreement? Can it also have tone pattern B? CHECK: Variant <kúmbó>, 'this flower (sp)' <kúm wa᷇>?
-\ng
-\np
-\nt
 \dt 02/Jun/2016
 
 \lx kūdōːrá
@@ -25465,11 +22433,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: Is the variant <kūndōːrá> also acceptable? (as suggested by Uli's data) - if yes, ADD a cross-reference entry
-\ng
-\np
-\nt Kleinewillinghöfer (1996:85) has kù(n)dùù-rá / kùdùùtá, for a speaker from Dumne. He often has /u/ where we have /o/ (cf 'mountain' and 'meat') and tonal differences are frequent too.
 \dt 15/Dec/2015
 
 \lx kúɗɗá
@@ -25506,11 +22469,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: Tone pattern?
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx kūɗu᷇m
@@ -25547,11 +22505,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq PL? Agreement?
-\ng
-\np
-\nt species of tṹː (generic term)
 \dt 15/Dec/2015
 
 \lx Kúktá
@@ -25588,11 +22541,6 @@
 \sd name ; settlement ; space
 \bw
 \ue
-\so NB_YUN_2014_03_DI:1
-\nq
-\ng
-\np
-\nt A Pra Bena village in Waltandi ward.
 \dt 01/Mar/2016
 
 \lx kūllá
@@ -25629,11 +22577,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 15/Dec/2015
 
 \lx kúlóːrá
@@ -25670,11 +22613,6 @@
 \sd nature
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Kleinewillinghöfer (1996:83) gives kúlúúrá. (Also in the word for 'meat' he has u where we have o, but there we also noted an u-variant in Dumne).
 \dt 27/May/2015
 
 \lx kùltà
@@ -25711,11 +22649,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Sabeta does not know the plural. To be checked...
 \dt 03/Jan/2016
 
 \lx Kūmlá
@@ -25752,13 +22685,7 @@
 \sd name ; human ; social
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_03_DI:2
-\nq CHECK: Agreement? In which villages? Primary village?
-\ng
-\np
-\nt
 \dt 07/Mar/2016
-\nt
 \dt
 
 \lx kūmlá
@@ -25801,11 +22728,6 @@
 \sd tree
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 12/Nov/2014
 
 \lx kūmlāːrá
@@ -25842,11 +22764,6 @@
 \sd tree
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 15/Dec/2015
 
 \lx kūnā
@@ -25884,11 +22801,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq identify
-\ng
-\np
-\nt there seems to be no generic term for 'monkey', verify
 \dt 07/Nov/2014
 
 \lx kūnāːʧīrō
@@ -25931,11 +22843,6 @@
 \sd human ; religion
 \bw
 \ue
-\so
-\nq CONTROL: Vowel length of <i>; Presence of <ə> in the PL form
-\ng
-\np
-\nt
 \dt 15/Dec/2015
 
 \lx kūndōːrá
@@ -25972,11 +22879,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 15/Dec/2015
 
 \lx kūnkūndá
@@ -26013,11 +22915,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq Identify!
-\ng
-\np
-\nt Manliura identifies it as a black tortoise
 \dt 15/Dec/2015
 
 \lx kūnú
@@ -26041,7 +22938,6 @@
 \xv kūnú kẽ́ːtā
 \xe kunu made of guinea corn tuo
 \lt kunu of tuo
-\nq CONTROL: Is it also normal to say <kūnú kẽ́ːrā>? This may be better treated as an idiom, since <kẽ́:rá> is just a general term for tuo, not necessarily of guinea corn. CHECK: Do you also use bàr(ə̀) bìʧê for kũnú kẽ́ːtā?
 \sy
 \an
 \cf kūnú nsáːkí
@@ -26057,11 +22953,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt THIS IS A HAUSA word that is often used in Bena, because many people, including Sabeta, do not know the Bena word. Sabeta asked many people. A number of elderly persons gave him the same word: bèmtà (they also call it kūnú themselves)
 \dt 03/Jan/2016
 
 \lx kūnú nsáːkí
@@ -26104,11 +22995,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq CONTROL: This looks like completely Hausa? What is the difference with kūnú kẽ́ːtā? AGREEMENT?
-\ng
-\np
-\nt
 \dt 15/Dec/2015
 
 \lx kūŋgūnāːrá
@@ -26145,11 +23031,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 19/Nov/2015
 
 \lx kúŋgúrá
@@ -26186,11 +23067,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 19/Nov/2015
 
 \lx kūŋkūnā
@@ -26228,11 +23104,6 @@
 \sd tree ; food
 \bw
 \ue
-\so
-\nq identify
-\ng
-\np
-\nt
 \dt 19/Nov/2015
 
 \lx kūŋkūnāːrá
@@ -26269,11 +23140,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 19/Nov/2015
 
 \lx kúŋkúrá
@@ -26310,11 +23176,6 @@
 \sd
 \bw
 \ue
-\so
-\nq provide definition
-\ng
-\np
-\nt NL pet (niet voor hoeden met een rand). BITRUS_Pictures_151116_018.jpg
 \dt 19/Nov/2015
 
 \lx kúːrá
@@ -26326,7 +23187,6 @@
 \1d wā / wā
 \pl kúttá
 \vpl kúːtá
-\nt PL variant with long vowel and non-geminate t provided by Daniel was not accepted by Sabeta
 \vpl
 \2d
 \4d
@@ -26352,7 +23212,6 @@
 \lv kúːrə́ tə́wá
 \le string trap used for catching fowl
 \lt rope of guinea fowl
-\nq Originally, this trap was noted as <kúɗɗə́ tə́wá> (with the PL: kúttə́ tə́wáːsâ). The variant kúːrə́ tə́wá is deduced. CONTROL if it is indeed OK. CHECK: Tone pattern of the idiom?
 \lf Idiom
 \lv kúːrə́ sə́ksə̀kã̀
 \le spider web
@@ -26360,11 +23219,6 @@
 \sd instrument
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:6-7
-\nq
-\ng
-\np
-\nt
 \dt 26/Feb/2016
 
 \lx kúːrá
@@ -26390,7 +23244,6 @@
 \xv kúːrə́ tóāɗán
 \xe She has entered into labour
 \lt Labour took her
-\nt tóāɗán - this is the form of the verb tóː 'take', viz lit. 'the labour took her'
 
 \sy
 \an
@@ -26405,11 +23258,6 @@
 \sd action
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:6-7
-\nq CONTROL: The notation in the examples!
-\ng
-\np
-\nt
 \dt 26/Feb/2016
 
 \lx kúráːmú
@@ -26446,11 +23294,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq PL? Agreement? Peddle in a boat?
-\ng
-\np
-\nt This is probably a canoe. Sabeta does not know the plural, nor the word for peddle
 \dt 15/Dec/2015
 
 \lx kūrē
@@ -26487,11 +23330,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: Meaning (what's the difference with gǎː and óː)? PL? Agreement?
-\ng
-\np
-\nt
 \dt 15/Dec/2015
 
 \lx kūrō
@@ -26533,11 +23371,6 @@
 \sd animal ; instrument ; mammal
 \bw
 \ue
-\so
-\nq PL? Agreement? Identify!
-\ng
-\np
-\nt Manliura translates as kob, the link between the two meanings would be that you can find the animal in the kind of grass that you make the mat from. The Hausa name for this type of mat is zana (T?)
 \dt 15/Dec/2015
 
 \lx kúróːtá
@@ -26574,11 +23407,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: PL? (the morphological form looks like PL) Bitrus also uses kúróːtá to refer to modern tables - CHECK: Is the word gwàːtā also used for modern tables?
-\ng
-\np
-\nt
 \dt 15/Dec/2015
 
 \lx kũ̄ːsō
@@ -26621,11 +23449,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 09/Nov/2014
 
 \lx kūta᷄
@@ -26662,11 +23485,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt MV: Sabeta refuses the PL form kūtə̄sâ
 \dt 15/Dec/2015
 
 \lx kútúɓō
@@ -26709,11 +23527,6 @@
 \sd clothing
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx kútúɓō bàːrâ
@@ -26756,11 +23569,6 @@
 \sd clothing
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt these kb: kútúɓō bàːrə́ wā
 \dt 23/Dec/2015
 
 \lx kwádíyárá
@@ -26797,11 +23605,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx kwāɗmā
@@ -26838,11 +23641,6 @@
 \sd health ; body ; social
 \bw
 \ue
-\so
-\nq COMPLETE ADD NAME OF THE GAME. PL? Agreement?
-\ng The -ma could be a class suffix historically, compara with kama 'seed' and mutma 'blood'
-\np
-\nt
 \dt 23/Dec/2015
 
 \lx kwāɗō
@@ -26881,11 +23679,6 @@
 \sd health
 \bw
 \ue
-\so
-\nq DI: This word looks like a regular -o NMLZ of a verb which should be <kwāɗā>. There is smth wrong with the tones in the examples (eg., it should be either <áyà kwāɗô> or <áyà kwāɗo᷄>), also <āy kwáɗ kwāɗá>. CONTROL: Meaning, form, NOTATION of the examples
-\ng
-\np
-\nt MV: The example phrase can also mean 'Mark is trying to hook something.'
 \dt 30/May/2016
 
 \lx kwāl
@@ -26907,10 +23700,8 @@
 \rf
 \xv hún wə́ kwālān
 \xe The pot is beautiful
-\nq CONTROL: Is it <wú> 'it is' or <wə́> 'this'?
 \xv ʧēːn yā kwálān
 \xe This woman is beautiful.
-\nq CHECK: This example is suspicious, since the ANIM pronominal is normally obligatory, isn't it <ʧēːn yə̄ ā kwálān>?
 \lt
 \sy
 \an
@@ -26927,11 +23718,6 @@
 \sd
 \bw
 \ue
-\so
-\nq check tonal notation of examples: no tone spread on adjective?
-\ng
-\np
-\nt So far only found used as a predicate, where it is in competition with the (more adjectival?) reduplicated form kwālkwāl
 \dt 30/Mar/2016
 
 \lx kwālkīrá
@@ -26968,11 +23754,6 @@
 \sd body ; food ; animal ; mammal
 \bw
 \ue
-\so
-\nq CONTROL: Is it only about a cow or can also be about a person's calf?
-\ng
-\np
-\nt Possible ETYM: *kālē kwírá > kāl kwī̄rá > kwālkīrá 'belly of the knee', compare Hausa bature nativized in Bena as bwàtə́rè
 \dt 23/Dec/2015
 
 \lx kwālkwāl
@@ -27009,11 +23790,6 @@
 \sd
 \bw
 \ue
-\so
-\nq ADD examples! CHECK: Any semantic difference with the non-reduplicated form (degree of intensity)?
-\ng
-\np
-\nt
 \dt 30/Mar/2016
 
 \lx kwāllārá
@@ -27050,11 +23826,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt also used during binsa: men hold it during dancing. It ends in a hook or a bulb
 \dt 25/Nov/2014
 
 \lx kwáná
@@ -27097,11 +23868,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: NMLZ on -yǒ? CONTROL: There was also an entry <kwánô> 'pain' (this pain kwánô wā), which was deleted because it seems to be a mistake (it looks like a NMLZ kwánô 'paying')
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx kwã̄ːrə̄kwã̄ːrē
@@ -27138,11 +23904,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq check notation of vowel length
-\ng
-\np
-\nt Lexical reduplication. May be a borrowing from Kanuri or some Chadic language - compare Kanuri <koro> 'donkey'
 \dt 07/May/2016
 
 \lx kwẽ́ː
@@ -27179,11 +23940,6 @@
 \sd instrument
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf
-\nq CHECK: Would Bitrus hum kwẽ́ː as 1 or as 2 syllables? CONTROL: what is the relation with <kṹː>? Is the PL of <kṹː> different from that of <kwẽ́ː>? (ADD a cross-reference in <kṹː>).
-\ng
-\np
-\nt SG 'dish where one puts tuo', PL 'any kind of dishes'. NB_YUN_2014_03_DI:4. Folk etymology (Bitrus, NB_YUN_2015_MV_01:2) <kṹː ẽ́ː> 'calabash of the mouth', although given that <ẽ́ː> is tone pattern B, the expected tone would be <kwẽ᷇ː> or <kṹː ẽ᷇ː>
 \dt 04/Feb/2016
 
 \lx kwēdēŋgē
@@ -27220,11 +23976,6 @@
 \sd action
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:5
-\nq CONTROL: Is the meaning of the phrase <nâ kwédēŋgō> (or <nâ kwédēŋgō> 'I'll go and do P') intransitive 'I'm bending (myself)', transitive 'I'm bending (smth)' or both?
-\ng Can be *vt* 'I bent him/it', *vi* 'It bent (like a flower without water)'.
-\np
-\nt NB_YUN-2014-03_DI:5
 \dt 04/Feb/2016
 
 \lx kwēdērêŋ
@@ -27261,11 +24012,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Only about things. About people only derogatory about the deformations, handicap of their organs, like o-legs, curled arm that you cannot stretch or penis.
 \dt 09/Dec/2015
 
 \lx kwéknê
@@ -27308,11 +24054,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np Ocasionally, transcribed with a long final vowel as <kwéknêː>, which is probably its etymological form.
-\nt YUN-PRA_13-11-02_MV_01 ; YUN-PRA_13-11-02_MV_02. The PL is confirmed with DA & SA as kwéknə́sà.
 \dt 16/Jan/2016
 
 \lx kwélké
@@ -27349,11 +24090,6 @@
 \sd body
 \bw
 \ue
-\so Sabeta ; Daniel
-\nq Agreement in PL?
-\ng
-\np
-\nt The 2 bones raising above the surface on two sides of the leg at the ankle. DA (YUN_PRA_141024_DI_01.wav)
 \dt 18/Dec/2015
 
 \lx kwélkwél
@@ -27396,11 +24132,6 @@
 \sd
 \bw
 \ue
-\so
-\nq NOTATION: ɛ not phonological, change in e?? CHECK: Any semantic difference with the non-reduplicated form (degree of intensity)?
-\ng The reduplicated form is default
-\np [kwɛ́lkwɛ́l]
-\nt
 \dt 30/Mar/2016
 
 \lx kwéːnê
@@ -27437,11 +24168,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx kwẽ̄ːrā
@@ -27479,11 +24205,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq provide more accurate definition
-\ng
-\np
-\nt hals, voor en achter
 \dt 12/Jul/2014
 
 \lx kwérkéɗé
@@ -27526,11 +24247,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np kwɛ́rkéɗé: first vowel open
-\nt SA: Russian "kovyrjatjsja (in a hole, ear, nose, etc.)
 \dt 12/Nov/2014
 
 \lx kwîllā
@@ -27568,11 +24284,6 @@
 \sd animal ; fish
 \bw
 \ue
-\so
-\nq identify
-\ng
-\np
-\nt
 \dt 07/Nov/2014
 
 \lx kwīrbīɗɗá
@@ -27609,11 +24320,6 @@
 \sd
 \bw
 \ue
-\so
-\nq schurftworm?? (neen, geen schurft) klein wormpje dat in de huid kruipt en daar bloed zuigt en jeuk veroorzaakt. Je ziet alleen wat voor- en achterkant is als het kruipt. Ze kruipen naar buiten als je nijpt of als je er tiger balm opsmeert. Blijft op één plaats, maakt geen tunnels in de huid.
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx kpāl kpāl
@@ -27651,11 +24357,6 @@
 \sd space
 \bw
 \ue
-\so YUN_PRA_141031_DI_04.eaf ; NB_YUN_2014_03_DI:8
-\nq CONTROL: Can it also be non-reduplicated (any difference in meaning)? CHECK: Meaning & use (Predicative, Attributive, Adverbial). (NOTE: The same questions for the variant!) ADD: Examples!
-\ng
-\np
-\nt SA: e.g. about an empty cup or a field which has been completely eaten up by Fulani cows. DA: visibly widely spread on the surface of roots of a tree or a groundnut plant 
 \dt 03/Mar/2016
 
 \lx kpāːlə̄ kpāːlā
@@ -27692,11 +24393,6 @@
 \sd space
 \bw
 \ue
-\so YUN_PRA_141031_DI_04.eaf ; NB_YUN_2014_03_DI:8
-\nq
-\ng
-\np
-\nt
 \dt 03/Mar/2016
 
 \lx kpáná
@@ -27739,11 +24435,6 @@
 \sd human ; religion
 \bw
 \ue
-\so NB_YUN-2013-02:02 = YUN-PRA_13-11-02_DI_01
-\nq
-\ng
-\np
-\nt
 \dt 02/Mar/2016
 
 \lx Kpāntā
@@ -27782,11 +24473,6 @@
 \sd human ; social ; name ; clan
 \bw
 \ue
-\so YUN_PRA_141031_DI_04.eaf ; NB_YUN_2014_03_DI:7
-\nq CHECK: Agreement? Only in Salasa? Subclans?
-\ng Short form: Kpāntə̄
-\np
-\nt
 \dt 02/Mar/2016
 
 \lx Kpāŋrā
@@ -27823,11 +24509,6 @@
 \sd name ; settlement ; space
 \bw
 \ue
-\so YUN_PRA_141031_DI_04.eaf ; NB_YUN_2014_03_DI:7
-\nq CHECK: Agreement? Exact location
-\ng Short form: Kpāŋrə̄
-\np
-\nt
 \dt 02/Mar/2016
 
 \lx kp(ə́)láŋgò
@@ -27864,11 +24545,6 @@
 \sd instrument
 \bw
 \ue
-\so YUN_PRA_141031_DI_04.eaf ; NB_YUN_2014_03_DI:8
-\nq CHECK: Agreement. ADD: Examples (walk with a stick)
-\ng
-\np
-\nt
 \dt 02/Mar/2016
 
 \lx kpə́ŋrá
@@ -27905,11 +24581,6 @@
 \sd human ; health
 \bw
 \ue
-\so YUN_PRA_141031_DI_04.eaf ; NB_YUN_2014_03_DI:7
-\nq CHECK: Tone pattern? Agreement?
-\ng
-\np
-\nt
 \dt 02/Mar/2016
 
 \lx lǎː
@@ -27948,11 +24619,6 @@
 \sd
 \bw
 \ue
-\so Sabeta
-\nq
-\ng
-\np tóm lâː hã᷇! 'do like this here!'
-\nt NB_YUN_2014_03_DI:89
 \dt 28/Nov/2014
 
 \lx lāɓō
@@ -27989,11 +24655,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq CONTROL: is C2 in SG really ɓ or is it /b/?
-\ng
-\np UKW has recorded with Samuel Garba the variant <lābō>(sg) and <lāmsâ> (pl) suggesting the possibility of <lāmbō>.
-\nt
 \dt 21/Jan/2016
 
 \lx lāɓrā
@@ -28032,11 +24693,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 15/Nov/2014
 
 \lx lāɗō
@@ -28073,11 +24729,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Little balls of this gum are attached at the end of horn resonators in xylophones. Cf the picture in Manliura's Yungur Heritage, p111.
 \dt 25/Nov/2014
 
 \lx lālárēn
@@ -28114,11 +24765,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 26/Jan/2016
 
 \lx làŋgàr
@@ -28141,7 +24787,6 @@
 \rf
 \xv wú làŋgàr
 \xe They (things) are spread out
-\ng wú làŋgàr 'They (things) are spread out, are not compact, are at a certain distance from each other'
 \xv ɓá làŋgàr
 \xe They (people or animals) are spread out
 \xv ɓwád láŋgàr
@@ -28166,11 +24811,6 @@
 \sd
 \bw
 \ue
-\so
-\nq ALSO add reduplicated form: lāŋgə̄lāŋgā ~ lāŋgālāŋgā (vq) 'be very wide (e.g. trousers), very spacious (room - hīt lāŋgālāŋgə̄ wā )'
-\ng In attributive use, a requires a DEM
-\np
-\nt
 \dt 09/Dec/2015
 
 \lx lāŋrā
@@ -28208,11 +24848,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq In notes a statement that contradicts what is in the lemma: general term, all grasshoppers are eaten
-\ng
-\np
-\nt
 \dt 12/Jul/2014
 
 \lx láːrá
@@ -28249,11 +24884,6 @@
 \sd
 \bw
 \ue
-\so Sabeta
-\nq
-\ng
-\np
-\nt NB_YUN_2014_03_DI:89
 \dt 28/Nov/2014
 
 \lx láwrá
@@ -28290,11 +24920,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: tone pattern with other speakers (than BI)
-\ng
-\np
-\nt
 \dt 28/Nov/2015
 
 \lx lébó
@@ -28331,11 +24956,6 @@
 \sd plant
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 17/Mar/2015
 
 \lx lèːmú
@@ -28372,11 +24992,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx lèːsù
@@ -28413,11 +25028,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng PL & agreement from Bitrus
-\np
-\nt
 \dt 22/Nov/2015
 
 \lx lə̄blə̄brá
@@ -28455,11 +25065,6 @@
 \sd nature
 \bw
 \ue
-\so
-\nq
-\ng
-\np the second repetition of /b/ is lenited (bilabial approximant)
-\nt
 \dt 13/Oct/2014
 
 \lx lə́klə́któ
@@ -28496,11 +25101,6 @@
 \sd
 \bw
 \ue
-\so Daniel ; Sabeta
-\nq
-\ng Short form: -ə́ wa᷇
-\np
-\nt DA (YUN_PRA_141024_DI_01.wav), SA (YUN_PRA_141031_DI_02.wav)
 \dt 28/Nov/2014
 
 \lx lə̀ŋtə̀ŋ lə̀ŋtə̀ŋ
@@ -28539,11 +25139,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx líŋgé
@@ -28580,11 +25175,6 @@
 \sd human
 \bw
 \ue
-\so
-\nq MV: TONE?? Daniel pronounces M.M
-\ng
-\np
-\nt
 \dt 15/Dec/2015
 
 \lx līŋgē
@@ -28621,11 +25211,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: The form of the variant: līŋgīʧê or līŋgītʧê? (also is V2 /i/, /e/, /ə/) (ADD the variant as a reference entry)
-\ng
-\np
-\nt Sabeta does not know a plural
 \dt 23/Dec/2015
 
 \lx líwrá
@@ -28664,11 +25249,6 @@
 \sd nature ; space
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt According to Bitrus: líwrá 'sky' & 'God' vs líwtá 'cloud (one or many)'; líúrá 'God' existed before Christianity. If you need to refer to cultures with many gods, you would use wíːsó (SG, tone B), wíːsâ (PL) 'spirit(s)'. BI: Líwrá 'God' (tone A), líwrá 'sky' (tone B), líwtá 'cloud(s)' (tone B) 
 \dt 03/Jan/2016
 
 \lx líwrá
@@ -28707,11 +25287,6 @@
 \sd religion
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt According to Bitrus: líwrá 'sky' & 'God' vs líwtá 'cloud (one or many)'; líúrá 'God' existed before Christianity. If you need to refer to cultures with many gods, you would use wíːsó (SG, tone B), wíːsâ (PL) 'spirit(s)'. BI: Líwrá 'God' (tone A), líwrá 'sky' (tone B), líwtá 'cloud(s)' (tone B) 
 \dt 03/Jan/2016
 
 \lx líwtá
@@ -28748,11 +25323,6 @@
 \sd nature ; space
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt According to Bitrus: líwrá 'sky' & 'God' vs líwtá 'cloud (one or many)'; líúrá 'God' existed before Christianity. If you need to refer to cultures with many gods, you would use wíːsó (SG, tone B), wíːsâ (PL) 'spirit(s)'. BI: Líwrá 'God' (tone A), líwrá 'sky' (tone B), líwtá 'cloud(s)' (tone B) 
 \dt 03/Jan/2016
 
 \lx lóː
@@ -28789,11 +25359,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt imperative
 \dt 16/Nov/2015
 
 \lx lōɓrō
@@ -28830,11 +25395,6 @@
 \sd nature
 \bw
 \ue
-\so
-\nq CONTROL: lōɓrā / lōɓrō? Agreement?
-\ng
-\np
-\nt
 \dt 15/Dec/2015
 
 \lx lóːró
@@ -28882,11 +25442,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq CHECK: For <lóːrə́ páːsâ> - (i) can you also say <lóːrə́ páːsô>? (ii) of het over "soup" gaat, of over de bladeren zelf? CHECK: Can you also say <lóːrə́ bâtā>? CHECK: <lóːrə́ gûɓló> - what is the name of the plant <gùɓlá>? (PL, AGR). CHECK: 'this baobab leaf soup' - <lóːrə́ bâtō (-ə̄) wā>?
-\ng
-\np
-\nt
 \dt 24/May/2016
 
 \lx lóːró
@@ -28923,11 +25478,6 @@
 \sd religion ; health ; body
 \bw
 \ue
-\so
-\nq PL? AGR?
-\ng
-\np
-\nt Zou er een semantische link zijn met slimy food? het feit dat het plakt op de huid?
 \dt 23/May/2016
 
 \lx lósa᷄
@@ -28966,11 +25516,6 @@
 \sd
 \bw
 \ue
-\so Sabeta
-\nq
-\ng
-\np tóm lósə̄ hã᷇ː! 'do like that here!'
-\nt NB_YUN_2014_03_DI:89
 \dt 23/May/2016
 
 \lx lúkó
@@ -29007,11 +25552,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt S does not know the plural. Is this related to lūktō 'shirt'?
 \dt 27/May/2015
 
 \lx lūktō
@@ -29048,11 +25588,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq related to lúkó 'cotton'??
-\ng
-\np
-\nt
 \dt 28/Jan/2015
 
 \lx lùmà
@@ -29092,11 +25627,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt this market lùmà wā (no reduction of final a)
 \dt 12/Nov/2014
 
 \lx máː
@@ -29137,11 +25667,6 @@
 \sd
 \bw
 \ue
-\so
-\nq GET a better English translation for meaning 3 & insert the examples.
-\ng
-\np
-\nt
 \dt 27/Dec/2015
 
 \lx màː
@@ -29178,11 +25703,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 16/Nov/2015
 
 \lx máː máːrā
@@ -29219,11 +25739,6 @@
 \sd
 \bw
 \ue
-\so
-\nq phrasal compound: máː = 'repeat' or 'tell' CONTROL: This seems to be a verbal phrase 'to report' what one witnessed or heard & phrasal nominalization 'reporting of what one witnessed or heard' rather than a result nominalization 'report of X'
-\ng
-\np
-\nt ! in the report ɗā máːrā (or is that 'in the discussion'?)
 \dt 11/Feb/2016
 
 \lx màkábù
@@ -29260,11 +25775,6 @@
 \sd food
 \bw (origin?)
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx mákkâ
@@ -29301,11 +25811,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 30/Nov/2015
 
 \lx màːkwálànyâ
@@ -29342,11 +25847,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq CONTROL: Tones seem to be wrong (as it seems be a phrase with an attributively used vq kwālān 'be beautiful', viz. lit. 'beautiful màː'). Should either be <màː kwálān yā> or <màː kwālān yā>. (After it is controlled, add in the entry of tṹː as cf). CHECK: PL? Agreement?
-\ng
-\np
-\nt species of tṹː (generic term)
 \dt 15/Dec/2015
 
 \lx máːmâ
@@ -29373,8 +25873,6 @@
 \xv máːmə́ sã̀ːrà
 \xe festivity (sp)
 \ee people come together in king's presence to praise or criticize the king by singing. During this festivity, a king's wife can come to a group of young girls that are dancing and give a ring to one of the girls. This girl has to marry the king. However, the king cannot marry the girls from the clan of sàː ʧēwtē. If the king's wife gives a ring to a girl from this clan, the king has to pay a fine to the parents of this girl.
-\nt NB: sã̀ːrà here is not the fork-shaped branch.
-\nq INSERT sã̀ːrà as a separate entry as it can be used on its own. Also info about ɓét daŋsa.
 \xv máːmə́ gùwā
 \xe festivity at the beginning of the dry season
 \an
@@ -29390,11 +25888,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: What exactly was celebrated at <máːmə́ gùwā>. CHECK: Other types of <máːmâ>? INSERT: an entry for máːmə́ sã̀ːrà
-\ng
-\np
-\nt Bitrus
 \dt 03/Jan/2016
 
 \lx màːmà
@@ -29431,11 +25924,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng does this contain the historical -ma suffix (cl6) for liquids and masses?
-\np
-\nt
 \dt 01/Dec/2015
 
 \lx màːmə̀ tàɓsá
@@ -29472,11 +25960,6 @@
 \sd plant
 \bw
 \ue
-\so Daniel
-\nq Plural?
-\ng Short form: -á wa᷇
-\np YUN_PRA_141125_DI_01.wav
-\nt NB_YUN_2014_03_DI:88. Identified by DA as Okezie & Agyakwa (1998:309). SA does not know the word <màːmə̀ tàɓsá> but thinks the plant is called <késákésō>
 \dt 28/Nov/2014
 
 \lx mándə́ wóɗɗā
@@ -29519,11 +26002,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx mántə́páré
@@ -29560,11 +26038,6 @@
 \sd animal ; snake
 \bw
 \ue
-\so Sabeta
-\nq Identify... Is this a compound? (SA does not recognise its parts)
-\ng
-\np Sabeta rejects the variant mántápáré
-\nt
 \dt 28/Nov/2014
 
 \lx māŋgō
@@ -29601,11 +26074,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt This is an interjection. No adnominal use. Enough! It's enough!
 \dt 30/Nov/2015
 
 \lx máŋgòrò
@@ -29642,11 +26110,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx márá
@@ -29683,11 +26146,6 @@
 \sd
 \bw
 \ue
-\so Sabeta
-\nq
-\ng No NMLZ *marra / matta
-\np
-\nt NB_YUN_2014_03_DI:63
 \dt 28/Nov/2014
 
 \lx máːtə́má
@@ -29727,11 +26185,6 @@
 \sd health
 \bw
 \ue
-\so NB_YUN_2014_DI_03:40-41
-\nq
-\ng does this contain the historical liquid/mass suffix -ma?
-\np ɲã̄ː māːtə́m(ə́) hã᷇. Tone pattern B from Daniel NB_YUN_2014_DI_03:41 <ɗáː máːtə̄mā>
-\nt
 \dt 03/Apr/2016
 
 \lx máːʧí
@@ -29768,11 +26221,6 @@
 \sd space
 \bw
 \ue
-\so
-\nq PL? Agreement?
-\ng
-\np
-\nt
 \dt 18/Dec/2015
 
 \lx màyā
@@ -29809,11 +26257,6 @@
 \sd
 \bw
 \ue
-\so
-\nq ADD the descriptive term for 'mother' in the cross-reference field
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx màylòrì
@@ -29850,11 +26293,6 @@
 \sd food
 \bw Fulani (orig. Bambara)
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 05/Dec/2015
 
 \lx mbáɗɗá
@@ -29891,11 +26329,6 @@
 \sd human
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Note the unusual tone scheme. Expected was (B)! (check with other speaker than Sa?)
 \dt 12/Nov/2014
 
 \lx mbáknô
@@ -29932,11 +26365,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt this shoulder mbáknə́ wā
 \dt 25/Nov/2014
 
 \lx mbàɲ
@@ -29973,11 +26401,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq A borrowing from Hausa according to Bitrus and Sabeta, but according to our IDS wordlist, 'cassava' should be rogo in Hausa (no tone marking). Is there a separate word for cassava leaves?? Final N or nasal diphtong?
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx mbēɓ
@@ -30014,11 +26437,6 @@
 \sd
 \bw
 \ue
-\so Sabeta
-\nq CHECK is it a noun (a small piece of something) or adj (small). Can you say: .
-\ng wú mbēɓ 'it is small'. Nə̀ wīr mbúː mbéɓ wā 'I saw a small thing' 
-\np
-\nt NB_YUN_2014_03_DI:32
 \dt 09/Dec/2015
 
 \lx mbékó
@@ -30055,11 +26473,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt No known plural. This trap mbék wa᷇
 \dt 25/Nov/2014
 
 \lx mbéːmá
@@ -30096,11 +26509,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt OK, checked with Daniel
 \dt 27/May/2015
 
 \lx mbə̄ɗɗā
@@ -30137,11 +26545,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK the exact usage of this word. Add an EXAMPLE. For example, 'I collected it / money back from him / Sabeta'. Do you use the PL when you do it several times or / and when the subject is PL?
-\ng
-\np
-\nt NB_YUN_2014_03_DI:63
 \dt 28/Nov/2014
 
 \lx mbə́ɗə́
@@ -30178,11 +26581,6 @@
 \sd
 \bw
 \ue
-\so Sabeta
-\nq
-\ng
-\np
-\nt NB_YUN_2014_03_DI:63
 \dt 28/Nov/2014
 
 \lx mbə́kā(H)
@@ -30219,11 +26617,6 @@
 \sd
 \bw
 \ue
-\so Sabeta
-\nq CONTROL tone: can this word have a rising MH final contour in isolation?
-\ng
-\np + see NB_YUN_2013_03_DI:45-47 <nə̀ kə̄p mbə́kā> which shows that the initial tone is H. Historically, this must be from *<mbúː kǎ> 'thing some'.
-\nt NB_YUN_2014_03_DI:32
 \dt 13/Jan/2016
 
 \lx mbə́lèːmʧém
@@ -30260,11 +26653,6 @@
 \sd animal ; bird
 \bw
 \ue
-\so
-\nq
-\ng
-\np noted with and without initial nasal
-\nt
 \dt 30/Nov/2015
 
 \lx mbə̀lə̀m úrá
@@ -30307,11 +26695,6 @@
 \sd
 \bw
 \ue
-\so
-\nq mbelem is probably a hapax. Can it also be used in isolation/elsewhere? probably not.
-\ng
-\np NB: No L-tone spread on <úrá>, probably because it is a compound with a hapax as the first part.
-\nt
 \dt 11/Feb/2016
 
 \lx mbə́lkẽ́ːrà
@@ -30348,11 +26731,6 @@
 \sd plant ; food
 \bw
 \ue
-\so
-\nq also the name of another "fruit" from the cucurbitae family? ADD identification (done with SA and/or BI) & varieties (done in 2015 with BI)
-\ng
-\np
-\nt
 \dt 29/May/2016
 
 \lx mbə́lkẽ́ːrə̀ sèmrà
@@ -30389,11 +26767,6 @@
 \sd plant ; food
 \bw
 \ue
-\so
-\nq PL? ADD identification (done with SA and/or BI) & varieties (done in 2015 with BI)
-\ng
-\np
-\nt
 \dt 29/May/2016
 
 \lx mbə̄llā
@@ -30436,11 +26809,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq CONTROL: Meaning (BI: mbə̄llā= lower arm, starting from the elbow, vs. némé = arm/hand)
-\ng
-\np
-\nt
 \dt 22/Nov/2015
 
 \lx mbə̄rã̄ sĩ́ːsà
@@ -30483,11 +26851,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq CONTROL: V-length of <ã̄> in the variants!
-\ng
-\np
-\nt sĩ̀ːsə̀ wā 'this honey'. In the honey is ɗā sĩ́ːsà or ɗā sĩ̂ːsâ
 \dt 11/Feb/2016
 
 \lx mb(ə̄)rã᷄
@@ -30524,11 +26887,6 @@
 \sd
 \bw
 \ue
-\so
-\nq Decide about V-length!
-\ng
-\np Bitrus hums 2 syllables, with an optional schwa V1 in very slow speech. The length status of the final vowel in the form without the schwa is not clear. It might be that the length of the final vowel is dependent on the realization of the schwa, being short when the schwa is present and long when it is absent. NB: This word can have a final /-m/ in genetive phrases, such as 'honey' <mbrã̄ː(m) sĩ́ːsà ; mbə̄rã̄m sĩ́ːsà>
-\nt
 \dt 11/Feb/2016
 
 \lx mbə̀rwẽ̀ɗɗà
@@ -30565,11 +26923,6 @@
 \sd body ; health
 \bw
 \ue
-\so
-\nq CHECK: Tone pattern A/B?
-\ng
-\np
-\nt MV: also twisted legs. There is also a tonal variant mbə̄rwẽ̂ɗɗá. Not sure what it means...  DI: (Bitrus) usually, it is o-legs or x-legs (but can also be about twisted/handicapped hands, arms)
 \dt 30/Dec/2015
 
 \lx mbə́táːmú
@@ -30606,11 +26959,6 @@
 \sd smithery
 \bw
 \ue
-\so
-\nq CHECK: PL? Agreement?
-\ng
-\np
-\nt Couldn't the <mbə́-> part be from the word for 'thing'? (compare also Baa <mbe> 'iron' from Uli's notes). The second part is a borrowing from Hausa which has <támáː> 'iron ore'.
 \dt 04/Mar/2016
 
 \lx mbīː
@@ -30647,11 +26995,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: No obligatory -ẃ Question mark at the end in the example 'What is this?'?
-\ng
-\np
-\nt
 \dt 07/Jan/2016
 
 \lx mbíró
@@ -30688,11 +27031,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq CONTROL: Only human body? or also animals?
-\ng
-\np
-\nt
 \dt 18/Dec/2015
 
 \lx mbōllā
@@ -30729,11 +27067,6 @@
 \sd plant
 \bw
 \ue
-\so Sabeta
-\nq BI: bwàrò (short V)
-\ng Short form: -ə̄ wā
-\np
-\nt NB_YUN_2014_05_DI:1
 \dt 16/Nov/2015
 
 \lx mbōrmō
@@ -30770,11 +27103,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq CONTROL (with speakers other than BI): do they accept different SG and PL forms?
-\ng
-\np
-\ng Bitrus knows only <mbōrmā> as SG=PL
 \dt 18/Dec/2015
 
 \lx mbú
@@ -30813,11 +27141,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: Tone pattern A or B? Agreement in PL?
-\ng
-\np In SG and PL, V1 is short (NB_YUN_2015_DI_01:16, NB_YUN_2013_02_DI:59)
-\nt irregular noun. The root of the plural comes back in the singular when modified, see also the tone patterns in the examples... BI: this word <mbú> is actually not used on its own, only in combination with something, or you should rather use mbə́kā(H) 'something'
 \dt 12/Jan/2016
 
 \lx mbû hītō
@@ -30854,11 +27177,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq CONTROL: V-length of mbûː CHECK: PL, Agreement?
-\ng
-\np
-\nt
 \dt 13/Jan/2016
 
 \lx mbú kə́fā
@@ -30895,11 +27213,6 @@
 \sd
 \bw
 \ue
-\so
-\nq is the literal translation accurate? Which kind of nominalisation do we have here? CONTROL: V-length of mbúː CHECK: Agreement (should be ɓā in the SG, but is it actually?)
-\ng
-\np
-\nt Note the irregular tonal difference between SG and PL - The PL appears to be doubly marked mbûː (by tone) and the suffix -sa. CHECK, mbúː ɓa᷇ 'this thing'
 \dt 13/Jan/2016
 
 \lx mbú kúːrā
@@ -30935,11 +27248,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq CONTROL: V-length of mbúː. QU: 'thing of rope'? CHECK: Can the PL be also <mbû kūttā>?
-\ng
-\np
-\nt
 \dt 13/Jan/2016
 
 \lx mbúkúɓ mbúkúɓ
@@ -30977,11 +27285,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt e.g. the bread in Ilorin (ongesneden)
 \dt 10/Dec/2015
 
 \lx mbūl
@@ -31018,11 +27321,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 18/Dec/2015
 
 \lx mbúlkó
@@ -31059,11 +27357,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq QUESTION: is mbúlkó a type of ʧēːlō? Agreement? Is B tone pattern also acceptable?
-\ng
-\np
-\nt
 \dt 18/Dec/2015
 
 \lx mbwāɗ
@@ -31100,11 +27393,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng It is not an adjective, it is rather an adverb or a separate category, like a quantifier
-\np
-\nt
 \dt 09/Dec/2015
 
 \lx mbwāllā
@@ -31121,7 +27409,7 @@
 \sn
 \de animal (sp)
 \sc
-\ee animal resembling wild cat, but is a bit smaller, does not have stripes or spots 
+\ee animal resembling wild cat, but is a bit smaller, does not have stripes or spots
 \re animal (sp)
 \lt
 \rf
@@ -31141,11 +27429,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so Sabeta
-\nq Identify
-\ng Short form: -ə̄ wā
-\np
-\nt
 \dt 28/Nov/2014
 
 \lx mbwārē
@@ -31182,11 +27465,6 @@
 \sd snake
 \bw
 \ue
-\so
-\nq PL+Agreement?
-\ng
-\np
-\nt
 \dt 18/Dec/2015
 
 \lx mbwèː
@@ -31223,11 +27501,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq CHECK: the initial NC- cluster (especially in a genitive construction after a vowel). CONTROL: Vowel length & syllabicity of -w-.
-\ng
-\np The "-ba-" word game that Sabeta mentioned sems to suggest that this word is bisyllabic. BI: ɗə́mrə́ bwêː 'dog's tooth' (PL: ɗə́mtə́ bwêː), ɗə́mrə́ ám bwàː 'canine tooth' (PL: ɗə́mtə́ ám bwàː)
-\nt
 \dt 07/Feb/2016
 
 \lx mbwēɗē
@@ -31270,11 +27543,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 12/Nov/2014
 
 \lx mbwēm
@@ -31311,11 +27579,6 @@
 \sd animal
 \bw
 \ue
-\so Daniel ; Sabeta
-\nq
-\ng
-\np
-\nt NB_YUN_2014_03_DI:58
 \dt 28/Nov/2014
 
 \lx mēːmā
@@ -31352,11 +27615,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng Historical -ma suffix (liquids, masses)
-\np
-\nt
 \dt 22/Mar/2015
 
 \lx mēːrē
@@ -31393,11 +27651,6 @@
 \sd plant
 \bw
 \ue
-\so Daniel
-\nq Plural?
-\ng Short form: mēːrē yā
-\np YUN_PRA_141125_DI_01.wav
-\nt Identified by DA as Okezie & Agyakwa (1998:406-407)
 \dt 28/Nov/2014
 
 \lx mə̀l mə̀l
@@ -31436,11 +27689,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt The vowel can be lengthened, as many repetitions as wanted
 \dt 02/Mar/2016
 
 \lx mə̄nā
@@ -31480,11 +27728,6 @@
 \sd
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:5
-\nq CONTROL: Tone & meaning! (ADJUST: translation & meanings) TRACK: Tones of <Daniel>
-\ng
-\np
-\nt
 \dt 08/Mar/2016
 
 \lx móːrá
@@ -31523,11 +27766,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 04/Dec/2015
 
 \lx mōːtō
@@ -31564,11 +27802,6 @@
 \sd food
 \bw
 \ue
-\so Sabeta
-\nq
-\ng Short form: -ə̄ wā
-\np The first vowel is nasalized, but it seems that vowels in this context /mVː-/ are always nasalized. That is, the question is whether we write the nasalisation mark here or leave it out.
-\nt
 \dt 28/Nov/2014
 
 \lx mûː ɗūːrā
@@ -31605,11 +27838,6 @@
 \sd health
 \bw
 \ue
-\so
-\nq Agreement? Does <mûː> means smth on its own?
-\ng
-\np
-\nt This is definitely a compound, cf ɗúːrá 'head'
 \dt 23/Dec/2015
 
 \lx mūda᷄(ː)
@@ -31652,11 +27880,6 @@
 \sd action
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_03_DI:2
-\nq
-\ng
-\np Pre-pausal shortening!
-\nt
 \dt 30/Mar/2016
 
 \lx mūkā
@@ -31693,11 +27916,6 @@
 \sd time
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_DI_03:3
-\nq
-\ng
-\np
-\nt
 \dt 25/May/2016
 
 \lx mūlā
@@ -31734,11 +27952,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt this millet mūlā wā (no reduction of final vowel)
 \dt 12/Nov/2014
 
 \lx mūndā
@@ -31776,11 +27989,6 @@
 \sd action
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 18/Dec/2015
 
 \lx mūnmə̄ hūtmá
@@ -31817,11 +28025,6 @@
 \sd health ; body
 \bw
 \ue
-\so
-\nq CONTROL: A typo *mūnmə̄...? mūtmə̄...? (since in nt "blood of smth" and 'blood' is mūtmā
-\ng
-\np
-\nt Litt blood of smth (hapax?), makes Sabeta think of hùthūt in ə̄n  sĩ́ː hùthūt 'It smells strange'
 \dt 24/Apr/2016
 
 \lx músé
@@ -31858,11 +28061,6 @@
 \sd human ; kinship
 \bw
 \ue
-\so
-\nq only male or also female?
-\ng
-\np
-\nt This can be used as an adress term across genders. If a man wants to call a male in-law he will use the adress term áw ɓwẽ́ː mùsé. These in-laws: mús ɓa᷇ (wā-demonstrative not accepted in plural)
 \dt 08/Jan/2016
 
 \lx mūtmā
@@ -31899,11 +28097,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng !! as soon as you specify whose blood, the form of the noun changes: mūnmə̄ na᷄ 'cow blood', mūnmə̄ ētē 'human blood'. This word contains the "class 6" suffix -ma, at least historically.
-\np
-\nt
 \dt 23/Mar/2015
 
 \lx mūtwã́
@@ -31940,11 +28133,6 @@
 \sd plant ; food
 \bw
 \ue
-\so
-\nq PL? Agreement?
-\ng
-\np
-\nt
 \dt 08/Jan/2016
 
 \lx mwán
@@ -31981,11 +28169,6 @@
 \sd
 \bw
 \ue
-\so Sabeta
-\nq
-\ng
-\np
-\nt NB_YUN_2014_03_DI:60
 \dt 18/Dec/2015
 
 \lx mwēɗsâ
@@ -32022,11 +28205,6 @@
 \sd
 \bw
 \ue
-\so
-\nq Agreement?
-\ng
-\np Nasal V1 [ẽ]. The ɗ is very slightly articulated and difficult to heare
-\nt
 \dt 08/Jan/2016
 
 \lx mwēːrā
@@ -32063,11 +28241,6 @@
 \sd
 \bw
 \ue
-\so
-\nq Examples! (this year, last year, next year, etc)
-\ng
-\np Nasal V1 [ẽ]
-\nt
 \dt 08/Jan/2016
 
 \lx mwēːtā
@@ -32104,11 +28277,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 08/Jan/2016
 
 \lx náː
@@ -32161,11 +28329,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq CONTROL: <náː bár-V̀> 'male cow' - are really only -e and -a agreement patterns possible? 'female cow' - are really all 3 agreement patterns possible? PL of 'female cows'? (especially pay attention to the tone) CHECK: For 'female cow', is it also possible to say smth like <ʧēːn nāː>? (if yes, what's the PL and agreement?)
-\ng NB: Although the DEM agreement is wā, the adjective shows either -e or -a, and not -o, suggesting yā or ɓā agreement. Perhaps, the adjective bàrè is in the process of losing the possibility to agree. NB: In the 'female cow', all three agreement patterns are possible
-\np NOTE: In the PL form <náː bàrsà> there is no H-spread from náː, comparable to some other PLs with -sà, such as <án kàɗsà>, <mbúː kə̀bsà>, etc.
-\nt MV: note the agreement pattern on the demonstrative
 \dt 15/Feb/2016
 
 \lx nám dôbrâ
@@ -32202,11 +28365,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 18/Dec/2015
 
 \lx námó
@@ -32243,11 +28401,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt In dumne, we noted that námú means 'meat' and námó 'animal', but Sabeta only knows námó, with the meaning of 'meat. Kleinewillinghöfer (1996: 83) gives námú, pl. námsà (Dumne dialect). Distributive plural means different types or different piles/packets.
 \dt 28/Jan/2015
 
 \lx nāːso᷇
@@ -32284,11 +28437,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: Predicative vs Attributive vs Adverbial usage. (Adjust PoS).
-\ng
-\np
-\nt ETYM: this looks like a phrase 'X that'.
 \dt 26/Jan/2016
 
 \lx náwá
@@ -32325,11 +28473,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt tighten - eg. a rope
 \dt 27/Nov/2015
 
 \lx nāwrā
@@ -32366,11 +28509,6 @@
 \sd nature
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 04/Dec/2015
 
 \lx nāwrén
@@ -32407,11 +28545,6 @@
 \sd animal ; bird
 \bw
 \ue
-\so
-\nq Identify! PL? Agreement?
-\ng
-\np
-\nt
 \dt 14/Jan/2016
 
 \lx ndāŋlāŋgé
@@ -32448,11 +28581,6 @@
 \sd space ; nature
 \bw
 \ue
-\so
-\nq Agreement? Examples? Are there cliffs with a proper name?
-\ng
-\np MV: Thomas Samari writes this word with an initial n, which I do not hear.
-\nt
 \dt 25/Jan/2016
 
 \lx ndã̄ːrō
@@ -32489,11 +28617,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq identify species. Identification comes form Manliura.
-\ng
-\np Vowel nasal in first syllable, not in second - Confirmed with Sabeta
-\nt Sabeta has never seen the animal, only the meat.
 \dt 14/Jan/2016
 
 \lx ndāwā
@@ -32530,11 +28653,6 @@
 \sd
 \bw
 \ue
-\so
-\nq sg = pl OR no pl? Examples!
-\ng
-\np
-\nt Sabeta gaf het woord na een brul van een baby...
 \dt 03/Feb/2016
 
 \lx ndéllá
@@ -32578,11 +28696,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq ADD the variant
-\ng
-\np NOTE that ndélé is only B
-\nt Compare Masa (Chadic, Cameroon) (Guitang 2016(MA):16) <dél> 'vagina' (with the specifier <dél-lá>.
 \dt 07/May/2016
 
 \lx ndə́rkə̂mtā
@@ -32619,11 +28732,6 @@
 \sd human ; kinship
 \bw
 \ue
-\so
-\nq is it really impossible to refer to one of the twins by using a singular (if it is, the paradigm assignment may have to be reconsidered)?
-\ng
-\np
-\nt
 \dt 29/May/2016
 
 \lx ndīːrā
@@ -32660,11 +28768,6 @@
 \sd space
 \bw
 \ue
-\so
-\nq Agreement? Examples of use to clarify the meaning? (better definition in English)
-\ng
-\np
-\nt NL achterkant
 \dt 26/Jan/2016
 
 \lx ndīːtô
@@ -32702,11 +28805,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq
-\ng ndīːtə̂ wā - this potash liquid
-\np
-\nt This word refers to the water in which salt coming from potash is dissolved. Potash is put in one container put on top of another one. Water is poured in from above and leaks into the lower pot. This water is ndito.
 \dt 05/Dec/2015
 
 \lx ndóllá
@@ -32743,11 +28841,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 14/Jan/2016
 
 \lx ndúkúɓ ndúkúɓ
@@ -32785,11 +28878,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt als een matras, compresseerbaar, maar resilient??
 \dt 18/Dec/2015
 
 \lx néknék
@@ -32826,11 +28914,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng Reduplication is obligatory
-\np
-\nt MV: or something very sweet
 \dt 08/Jan/2016
 
 \lx némé
@@ -32868,11 +28951,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: NMLZ on -yǒ: némyǒ or némə́yǒ or némóyǒ? (since gàmà > gàmə̀yǒ, gàmòyǒ)
-\ng This is the imperative form of 'spit out', viz. 'spit (it) out!'
-\np
-\nt
 \dt 18/Dec/2015
 
 \lx némé
@@ -32915,11 +28993,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq CONTROL: Meaning (BI: némé = arm & hand)
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx némé
@@ -32957,11 +29030,6 @@
 \sd human ; social
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt also used as term of address, ɓa-form not accepted with plural form
 \dt 31/Oct/2014
 
 \lx néːrá
@@ -33004,11 +29072,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 04/Dec/2015
 
 \lx nété
@@ -33047,11 +29110,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 07/Jan/2016
 
 \lx níɲá
@@ -33089,11 +29147,6 @@
 \sd tree
 \bw
 \ue
-\so
-\nq Check whether there is a glide in between the two stem vowels. Ask the plural (should be in -e)
-\ng
-\np
-\nt
 \dt 04/Dec/2015
 
 \lx nóːnó
@@ -33131,11 +29184,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq plural
-\ng
-\np
-\nt
 \dt 02/Nov/2014
 
 \lx núː
@@ -33174,11 +29222,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq FOLLOW UP: The tone of <áw nûː>!
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx núː
@@ -33216,11 +29259,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng imperative singular form of the verb
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx núː
@@ -33258,11 +29296,6 @@
 \sd
 \bw
 \ue
-\so
-\nq EXAMPLES of use. Another translation was: prepare food in such a way that it can be eaten with a spoon (as opposed to pounded finger-food?)
-\ng
-\np V is long (BI).
-\nt must be transitive
 \dt 11/Feb/2016
 
 \lx núm ɓã́ːrā
@@ -33305,11 +29338,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng NOTE the PL is formed by pluralizing the modifier as though the phrase functioned as one word, instead of smth like numumse ɓãːra.
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx núm ɗíːrā
@@ -33352,11 +29380,6 @@
 \sd instrument
 \bw
 \ue
-\so Bitrus
-\nq CONTROL whether this word exists, since it was rejected by Sabeta and Daniel. Plural? (expected to be smth like <núm ɗíːtā>)
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx núm kúdōːrá
@@ -33399,11 +29422,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq Where does the falling tone on <nûm> comes from?
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx númú
@@ -33446,11 +29464,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng Short form: nūm wa᷇
-\np
-\nt NB_YUN-2013-02:05 = YUN-PRA_13-11-02_DI_02
 \dt 28/Nov/2014
 
 \lx nūːrā
@@ -33488,11 +29501,6 @@
 \sd nature
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 02/Nov/2014
 
 \lx ɲáː
@@ -33529,11 +29537,6 @@
 \sd
 \bw
 \ue
-\so Sabeta
-\nq There was a translation 'wave': clarify in which contexts it can be translated thus, if any.
-\ng
-\np
-\nt
 \dt 28/Nov/2014
 
 \lx ɲāː
@@ -33570,11 +29573,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng Seems to function like a nominal. It is not a modifier.
-\np
-\nt
 \dt 28/Nov/2014
 
 \lx ɲāːkīrá
@@ -33611,11 +29609,6 @@
 \sd food ; plant
 \bw
 \ue
-\so
-\nq
-\ng Short form: -ə́ wa᷇
-\np Initial segment [j̃ ~ ɲ]. The long vowel is nasalised automatically.
-\nt
 \dt 28/Nov/2014
 
 \lx ɲóː
@@ -33652,11 +29645,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 04/Dec/2015
 
 \lx ɲóː
@@ -33693,11 +29681,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx ɲóːrá
@@ -33734,11 +29717,6 @@
 \sd human
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_DI_03:3
-\nq CHECK: Tone pattern? PL (eg. if the subject is PL)? Meaning (difference with gə̀bə̀ttó)? Other examples?
-\ng
-\np
-\nt
 \dt 25/May/2016
 
 \lx ɲóːtá
@@ -33775,11 +29753,6 @@
 \sd nature
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_DI_03:3
-\nq CONTROL: tone pattern with other speakers (than BI)
-\ng
-\np
-\nt NL 'motregen'
 \dt 25/May/2016
 
 \lx ŋgàŋgà
@@ -33824,11 +29797,6 @@
 \sd action
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:5-6
-\nq
-\ng
-\np The <ŋg-> option from Bitrus
-\nt
 \dt 25/May/2016
 
 \lx ŋgàŋgə̀wòl
@@ -33865,11 +29833,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np The <ŋg-> from Bitrus.
-\nt The agreement pattern suggests that this is a compound/phrase. The first element is probably gaŋgo 'leaf of the banga tree' - according to Bitrus the parts of this compound do not make sens on its own, have nothing to do with 'leaf of baŋga palm'. QU: It may be from Fulani?
 \dt 05/Dec/2015
 
 \lx ŋgàŋgò
@@ -33908,11 +29871,6 @@
 \sd
 \bw
 \ue
-\so Sabeta ; Bitrus
-\nq CONTROL: PL (Sabeta was not sure; Bitrus did not know the PL) 
-\ng
-\np The <ŋg-> variant is from Bitrus
-\nt NB_YUN-2014-03_DI:6
 \dt 05/Dec/2015
 
 \lx ŋgã̀ːrā
@@ -33950,11 +29908,6 @@
 \sd
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:5
-\nq ADD as an example of the adverbial use to <gbǎː>
-\ng
-\np The variant with <ŋg-> from Bitrus
-\nt
 \dt 04/Feb/2016
 
 \lx ŋgèlèpâ
@@ -33997,11 +29950,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx ŋg(ə̄)lã̄ːtó
@@ -34039,11 +29987,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq identify
-\ng
-\np
-\nt These shellfish used to be eaten (raw). Have they dissapeared? Their shells were used to scrape out calabashes. this mussel: glã̄ːtə́ wa᷇. Bitrus refuses the PL ŋglã̄ːsâ.
 \dt 15/Dec/2015
 
 \lx ŋgə̀lə̀ŋrā
@@ -34086,11 +30029,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 07/Nov/2014
 
 \lx ŋgə̄rə̄
@@ -34127,11 +30065,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 07/Jan/2016
 
 \lx ŋgōːmō
@@ -34168,11 +30101,6 @@
 \sd action
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:5
-\nq
-\ng No NMLZ on -yo
-\np
-\nt Meaning: reduce smth (paper, can of beer) in size by squeezing
 \dt 04/Feb/2016
 
 \lx ŋgòrkì
@@ -34215,11 +30143,6 @@
 \sd animal ; bird
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt the first form of the plural is Pa Awballa's. Is the variant an example of analogcal levelling in younger speakers?
 
 
 \dt 03/Jan/2016
@@ -34259,11 +30182,6 @@
 \sd human
 \bw
 \ue
-\so
-\nq check plural of this word, possible interference with word for ambush / adultery
-\ng note the irregular plural
-\np Variant with <ŋg-> from Bitrus
-\nt gùːrə́ wa᷇ 'this hunchback'. Daniel often pronounces the plural with a short stem vowel, but no geminate t... I sometimes heard gùntó (i.e. with an n), but when I repeated this, it was rejected. ɓa-demonstrative not accepted in the plural...
 \dt 05/Dec/2015
 
 \lx ŋgũ̀ːrù
@@ -34280,14 +30198,11 @@
 \sn 1
 \de crawl
 \re crawl
-\ng move your hands and knees on the ground, not on the belly, not about snakes, but only humans
 \sn 2
 \de have sex with somebody's wife
 \sc
 \ee
 \re
-\nq FIND better English translation
-\ng "overspel doen": (1) have sex with somebody's wife, (2) proberen om een vrouw tot overspel aan te zetten (e.g., by sneaking in her room and trying to convince her to have sex with you). It is not rape
 \rf
 \xv ŋgũ̀ːrə̀ ʧēn ētē
 \xe sleep with somebody's wife
@@ -34301,11 +30216,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np Variant with <ŋg-> from Bitrus
-\nt
 \dt 06/Dec/2015
 
 \lx ŋgũ̀ːtó
@@ -34336,7 +30246,6 @@
 \sn 2
 \de adultery, fornication
 \re adultery ; fornication
-\ng Bitrus: having sex with someone in an illegal way
 \lf
 \lv
 \le
@@ -34350,11 +30259,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 20/Jan/2016
 
 \lx ŋgwẽ́ː
@@ -34395,11 +30299,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq CONTROL: Agreement in PL, not yā?
-\ng
-\np
-\nt
 \dt 07/Jan/2016
 
 \lx ŋgwẽ́ː pámé
@@ -34436,11 +30335,6 @@
 \sd health
 \bw
 \ue
-\so
-\nq IDENTIFY, otorrhea. CONTROL: V1 length of <pámé>. Agreement?  CONTROL: <pámé> looks like an agreeing modifier - other examples with pám-V modifier? Is this modifier derived from smth else? (it can't be a verb, because of the final H tone)
-\ng
-\np
-\nt involves pus coming out of the ear??
 \dt 11/Feb/2016
 
 \lx ŋgwẽ́ː púkkê
@@ -34479,11 +30373,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx ŋmgbāɗā
@@ -34520,11 +30409,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 07/Jan/2016
 
 \lx ŋmgbã̀ːgē
@@ -34561,11 +30445,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq
-\ng
-\np ŋm- variant from Bitrus
-\nt ADD a cross-reference to 'goat'. NB_YUN_2014_03_DI:62.
 \dt 05/Jan/2016
 
 \lx ŋmgbālē
@@ -34602,11 +30481,6 @@
 \sd instrument ; music
 \bw
 \ue
-\so
-\nq CONTROL: PL with other spearkers: sg = pl, ŋm gbálā
-\ng In Dumne we noted âm gbālā as the plural, Sabeta said that singular and plural are identical and Daniel volunteered yòː ŋmgbālē...
-\np
-\nt Cf picture M on the plate p 111 in Manliura's Yungur heritage. Manliura describes it as a flute made of bamboo, with four holes, three at the front, one at the back. But Sabeta had described it as a flute made of iron.
 \dt 14/Jan/2016
 
 \lx ŋmgbállá
@@ -34643,11 +30517,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq Is it normally used with <ẽ́ː>? Can it be used with any other reference besides the body part?
-\ng
-\np
-\nt
 \dt 26/Jan/2016
 
 \lx ŋmgbáŋ
@@ -34670,7 +30539,6 @@
 \rf
 \xv nə́ ŋmgba᷄ŋ
 \xe I live close.
-\nq CHECK: tonal notation
 \xv án ŋmgbáŋ wa᷇
 \xe close place
 \sy
@@ -34686,11 +30554,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 10/Jan/2016
 
 \lx ŋmgbáŋ
@@ -34713,7 +30576,6 @@
 \rf
 \xv nə́ bə̀nə́ ŋmgba᷄ŋ
 \xe I live close.
-\nq CONTROL: check notation (e.g. tone on subject pronoun) - Notation confirmed with Bitrus. CHECK: Does this example really contain a verb? (or is at copula - CLARIFY its structure) Add smth like 'Come near!'
 \lt
 \sy
 \an
@@ -34728,11 +30590,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 10/Jan/2016
 
 \lx ŋmgbàŋgō
@@ -34775,11 +30632,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq
-\ng
-\np Variant with ŋmgb- from Bitrus
-\nt this lizard - gbàŋ wā, NB g falls out in plural, also before demonstrative...
 \dt 06/Dec/2015
 
 \lx ŋmgbērē
@@ -34818,11 +30670,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 26/Jan/2016
 
 \lx ŋmgbə̄mə̄
@@ -34859,11 +30706,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: NMLZ in -yǒ? ADD: examples?
-\ng
-\np
-\nt
 \dt 15/Jan/2016
 
 \lx ŋmgbə̀rã̄
@@ -34900,11 +30742,6 @@
 \sd animal ; snake
 \bw
 \ue
-\so
-\nq
-\ng
-\np Variant with ŋm- (Bitrus). The length status of the final vowel in the form without the schwa is not clear. It might be that the length of the final vowel is dependent on the realization of the schwa, being short when the schwa is present and long when it is absent
-\nt ADD the variant as a separate entry. NB_YUN_2014_03_DI:26. Identified by Sabeta as the snake from (Chippaux p.158, p.38).
 \dt 15/Feb/2016
 
 \lx ŋmgbòŋrā
@@ -34941,11 +30778,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq identify CONTROL: Difference with bə́rkə̂mrā?
-\ng
-\np The variant with ŋm- from Bitrus.
-\nt
 \dt 15/Feb/2016
 
 \lx ȭː
@@ -34982,11 +30814,6 @@
 \sd
 \bw
 \ue
-\so
-\nq definitie bijwerken, ook voor mais en een paar andere crops, geen omheining, alleen beplant in regenseizoen CONTROL: Agreement (sg/pl)?
-\ng
-\np
-\nt
 \dt 07/Jan/2016
 
 \lx ófá
@@ -35032,11 +30859,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt this moon óp wa᷇
 \dt 27/Dec/2015
 
 \lx ȭːk(ə̄)rá
@@ -35073,11 +30895,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 15/Dec/2015
 
 \lx ȭːrā
@@ -35114,11 +30931,6 @@
 \sd human ; health ; religion
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 15/Feb/2016
 
 \lx óːtá
@@ -35161,11 +30973,6 @@
 \sd
 \bw
 \ue
-\so
-\nq DI: CONTROL: in the faces: ɗā óːtə̄msê OR ɗā óːtə́msê?
-\ng
-\np NOTE: In the PL, óːtə́msê, the PL marker msê appears to behave like a clitic with the tone pattern B on the stem, viz. n the faces: ɗā óːtə̄msê
-\nt this face óːtə́ wa᷇ ,  these faces: óːtə́msé yā, in the faces: ɗā óːtə̄msê
 \dt 27/Dec/2015
 
 \lx pã́ː
@@ -35204,11 +31011,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt The nominalisation has a variant pã̂
 \dt 15/Feb/2016
 
 \lx pàː
@@ -35246,11 +31048,6 @@
 \sd human ; kinship
 \bw
 \ue
-\so
-\nq CONTROL: Tone in <yòː pàː ɓáʧé> - isn't it L.H on the pronominal? CHECK: Can it be used non-relationaly? Can it have classificatory meaning as in 'his fathers' (= his father and his brothers? his other male relatives?°
-\ng
-\np Note that this is the only word with /p/ and L tone
-\nt
 \dt 26/Jan/2016
 
 \lx páː pèŋgô
@@ -35289,11 +31086,6 @@
 \sd plant ; food
 \bw
 \ue
-\so
-\nq
-\ng
-\np As suggested by <páː pèŋgô, páː pèŋsà>, the tone of the form without the suffix <-sa> is <pâː> HL.
-\nt
 \dt 23/May/2016
 
 \lx páː pèŋsà
@@ -35330,11 +31122,6 @@
 \sd plant ; food
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 23/May/2016
 
 \lx páː ʧèɓô
@@ -35377,11 +31164,6 @@
 \sd plant ; food
 \bw
 \ue
-\so Daniel ; Sabeta
-\nq Plural? DA rejects the variant páː ʧèɓsa. The term refers to both the plant and the seed.
-\ng Short form: -ô wā
-\np YUN_PRA_141125_DI_01.wav
-\nt Identified by DA as Okezie & Agyakwa (1998:368). It is both the plant and the seed.
 \dt 23/May/2016
 
 \lx pāɗā
@@ -35418,11 +31200,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt for instance break a pot, a cup or a car
 \dt 14/Jan/2016
 
 \lx pámrá
@@ -35459,11 +31236,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: tone pattern with other speakers (than BI)
-\ng
-\np
-\nt used to alert/mobilise/call for help (e.g. by a hunter in danger). Awballa also mentioned this as a bigger horn than pape. Used during binsa.
 \dt 28/Nov/2015
 
 \lx pāŋlāŋgā
@@ -35500,11 +31272,6 @@
 \sd tree ; plant
 \bw
 \ue
-\so
-\nq CONTROL: Check the tonal notation of the word for the tree versus that for the fruit. Usually the two have the same tone pattern. CONTROL: Agreement. Identify!
-\ng
-\np
-\nt
 \dt 26/Jan/2016
 
 \lx pāŋlāŋrá
@@ -35541,11 +31308,6 @@
 \sd tree ; plant
 \bw
 \ue
-\so
-\nq CONTROL: Check the tonal notation of the word for the tree versus that for the fruit. Usually the two have the same tone pattern. ADD the identification info later.
-\ng
-\np
-\nt
 \dt 26/Jan/2016
 
 \lx pāpāɓlībó
@@ -35582,11 +31344,6 @@
 \sd animal ; insect
 \bw
 \ue
-\so
-\nq CONTROL: Is it <pāpāɓlībó> or <pāɓpāɓlībó>? because this would be a more regular reduplication + the PL was originally noted as pāɓpāɓlībsâ. CHECK: Agreement?
-\ng
-\np
-\nt
 \dt 29/May/2016
 
 \lx pāpē
@@ -35623,11 +31380,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt noted as pāmbē in Dumne, plural âm pāmbā. The description Manliura gives, corresponds to what Daniel calls pámrá, a bigger, louder horn, used to alert/mobilise/call for help (e.g. by a hunter in danger)
 \dt 25/Nov/2014
 
 \lx pã̄ːrā
@@ -35666,11 +31418,6 @@
 \sd social ; human
 \bw
 \ue
-\so
-\nq males or females??
-\ng
-\np
-\nt
 \dt 15/Feb/2016
 
 \lx páːrá
@@ -35707,11 +31454,6 @@
 \sd animal ; insect ; space
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 15/Feb/2016
 
 \lx páːrə́ némē
@@ -35750,11 +31492,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq CHECK: PL? Agreement?
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx páːrə́ nétē
@@ -35793,11 +31530,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: PL? Agreement?
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx páːsâ
@@ -35842,11 +31574,6 @@
 \sd plant ; food
 \bw
 \ue
-\so
-\nq CHECK: Does the form without the suffix exist on its own, viz. <pâː>? How do you say '(one) benni seed', '(one) benni seed plant'?
-\ng
-\np As suggested by <páː pèŋgô, páː pèŋsà>, the tone of the form without the suffix <-sa> is <pâː> HL.
-\nt
 \dt 25/May/2016
 
 \lx páːtúrū
@@ -35883,11 +31610,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq CONTROL: T2 of the variant form <páːtúr> - not HM? CHECK: Agreement in PL? CONTROL: The tone of the example. Is it a verb <lōŋlōŋ>, <lōŋgō> (its tone, meaning) or is it an adverbial? ADD it to the dictionary.
-\ng 'this cat' páːtúr yā. Bitrus does not know the PL páːtu᷇rsâ, he prefers yòː pàːtúrū or just PL=SG
-\np
-\nt This word must be a borrowing. Compare Masa (Chadic, Cameroon) (Guitang 2016(MA):18) <paturu> 'cat'.
 \dt 07/May/2016
 
 \lx pàyā
@@ -35924,11 +31646,6 @@
 \sd human ; kinship
 \bw
 \ue
-\so
-\nq
-\ng
-\np V1 & V2 are short - checked.
-\nt
 \dt 26/Jan/2016
 
 \lx pàⱱàɗ
@@ -35965,11 +31682,6 @@
 \sd
 \bw
 \ue
-\so
-\nq FILM THE pronunciation of /ⱱ/ and find more words with it.
-\ng
-\np
-\nt
 \dt 11/Nov/2015
 
 \lx Péllá
@@ -36006,11 +31718,6 @@
 \sd name ; settlement ; space
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_03_DI:1
-\nq
-\ng
-\np
-\nt Pra Bena village north of Dumne. DA comes from there originally - it is his father's village.
 \dt 05/Mar/2016
 
 \lx péŋgô
@@ -36048,11 +31755,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: Look like possible mistakes: dìò pèŋgê, ár péŋgê?
-\ng
-\np
-\nt péŋgV̂ is an attributive derivation (vs. the attributive use of the vq dã̀ːrə̀ pēŋpēŋ wā 'white skin'). hīt pēŋgô 'white room'
 \dt 26/Jan/2016
 
 \lx pēŋpēŋ
@@ -36091,11 +31793,6 @@
 \sd color
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 26/Jan/2016
 
 \lx pērō
@@ -36132,11 +31829,6 @@
 \sd nature
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt this cave pērə̄ wā
 \dt 11/Feb/2016
 
 \lx pə́ː
@@ -36174,11 +31866,6 @@
 \sd
 \bw
 \ue
-\so
-\nq the tones would be different on the compound/idiom than on the phrase with the literal meaning 'chase away the woman'. CHECK
-\ng the tones would be different on the compound/idiom than on the phrase with the literal meaning 'chase away the woman'. CHECK
-\np NB: BI <pə́ː>, <nə̀ pə̄(ː)n>
-\nt
 \dt 30/Nov/2015
 
 \lx pə́ː wíːrâ
@@ -36221,11 +31908,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: This is a verbal construction? (not a noun)
-\ng
-\np
-\nt
 \dt 26/Jan/2016
 
 \lx p(ə̄)lā
@@ -36262,11 +31944,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt for birds or flying insects
 \dt 27/May/2015
 
 \lx pə́lâmrā
@@ -36303,12 +31980,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: English description of the incense ceremony.
-\ng
-\np
-\nt dũ̀ːyǒ 'smoldering; burning of the incense', IMP dũ̀ː. gìnə̀ dũ̀ːn 'the smoke appeared'. yárô, yáryǒ 'sniffing, inhaling', IMP yárá
-\nt BITRUS_Pictures_151116_005.jpg
 \dt 17/Nov/2015
 
 \lx pīɗ
@@ -36345,11 +32016,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 15/Feb/2016
 
 \lx pīr ɓã̄ː
@@ -36386,11 +32052,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: PL (Bitrus doubts about pīrsə̂ ɓã̄ː)
-\ng
-\np
-\nt According to Bitrus, it is not from 'horse', but from pīrā 'walking stick'
 \dt 11/Feb/2016
 
 \lx píːrá
@@ -36427,11 +32088,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 27/May/2015
 
 \lx pīrā
@@ -36468,11 +32124,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 28/Nov/2014
 
 \lx pīːrā
@@ -36509,11 +32160,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx pīrō
@@ -36550,11 +32196,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq
-\ng
-\np can also be pronounced with a schwa as V2
-\nt
 \dt 13/Nov/2014
 
 \lx pōtōːrá
@@ -36591,11 +32232,6 @@
 \sd human
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 13/Nov/2014
 
 \lx pūkāːpūkó
@@ -36632,11 +32268,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 13/Nov/2014
 
 \lx pùkkō
@@ -36673,11 +32304,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt similar to hwara, NOTE: exception to Consonant-Tone relation.
 \dt 27/May/2015
 
 \lx púkkû
@@ -36714,11 +32340,6 @@
 \sd
 \bw
 \ue
-\so
-\nq NMLZ on -yo?
-\ng
-\np
-\nt
 \dt 07/Jan/2016
 
 \lx Pūllē
@@ -36757,11 +32378,6 @@
 \sd name ; human ; social
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_03_DI:1
-\nq CHECK: Agreement? Subclans? In which villages? Primary village?
-\ng
-\np
-\nt It is Daniel Ayuba's paternal clan.
 \dt 07/Mar/2016
 
 \lx púlómrà
@@ -36804,12 +32420,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt NB this word previously transcribed as H.HL.M, also Bitrus prounounces it H.HL.M and rejects H.H.L. DA 141028: (i) different tone, (ii) phonetically, C3 is optionally a geminate [púlómːrà], PL [púlómːtà] - he tends to pronounce it long but accepts both a short and a geminate pronunciation. SA pronounces it only short. For a word such as /bə̀m-rà/ they both pronounce it short and long pronunciation sounds
-\nt BITRUS_Pictures_151116_003.jpg, BITRUS_Pictures_151116_071.jpg
 \dt 08/Dec/2015
 
 \lx pútóːrá
@@ -36847,11 +32457,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt BITRUS_Pictures_151116_135.jpg
 \dt 08/Dec/2015
 
 \lx pwéː
@@ -36889,11 +32494,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np V-length from BI
-\nt
 \dt 03/Jan/2016
 
 \lx rã́ː
@@ -36932,11 +32532,6 @@
 \sd animal ; insect
 \bw
 \ue
-\so
-\nq CHECK: Tone pattern? AGR?
-\ng
-\np
-\nt
 \dt 29/May/2016
 
 \lx ráː
@@ -36973,11 +32568,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq CHECK: Is there also PROG NMLZ râː? ADD examples?
-\ng
-\np
-\nt
 \dt 26/Jan/2016
 
 \lx rã́ː ráŋgō
@@ -37014,11 +32604,6 @@
 \sd animal ; insect ; agriculture
 \bw
 \ue
-\so
-\nq AGR? CONTROL: Tone in the PL looks suspicious! This is probably a phrasal compound: "rango" caterpillar --> insert in the entry for caterpillar
-\ng
-\np But second vowel is <o> in old notes.
-\nt soort rupsachtige die onder de grond leeft en de wortels van groundnuts opvreet. wit lichaam met kleine rode of bruine kop
 \dt 29/May/2016
 
 \lx rã́ɗɗà
@@ -37056,11 +32641,6 @@
 \sd animal ; fish
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt INITIAL TRILL, note the tonality in the frame phrase this is a catfish here (cf recording YUN-PRA_13-10-26_MV_06.WAV minute 24:16)
 \dt 03/Jan/2016
 
 \lx rã̀ːrã́ːɗɗá
@@ -37098,11 +32678,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx rẽ́ː
@@ -37139,11 +32714,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq IDENTIFY: It was originally translated as "fox", but (DI:) It seems that I discovered that it is not a fox, but some kind of small 'biche', but can't find it back. Is the stem rĩ́ (with stem vowel replaced by -e in singular, but keeping its nasality?) Long vowel in SG short in plural??
-\ng
-\np initial consonant is a tap
-\nt
 \dt 07/Feb/2016
 
 \lx rèːké
@@ -37180,11 +32750,6 @@
 \sd food
 \bw Hausa
 \ue
-\so
-\nq What is the exact meaning of the plural here? 'sugar cane stalks' or 'bundles of sugar cane stalks'?
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx rə́fé
@@ -37221,11 +32786,6 @@
 \sd human ; kinship
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 08/Jan/2016
 
 \lx r(ə́)wá
@@ -37272,11 +32832,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np Bitrus hums it as 2 syllables and gives <rə́wá>, whereas it was originally written down as <rwá>. Compare <tə́wá> 'guinea fowl' originaly written down as <twá>. Also words with initial sw- are actually s(ə)w-
-\nt The Hausa name should be ítàcén dórâwà (tree dorawa)
 \dt 15/Dec/2015
 
 \lx ríbé
@@ -37313,11 +32868,6 @@
 \sd animal ; bird
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 29/May/2016
 
 \lx rímbé
@@ -37354,11 +32904,6 @@
 \sd animal ; bird
 \bw
 \ue
-\so
-\nq AGR? FOLLOW UP: V2 of <áw rùbé> CONTROL: PL of 'nest' - hīt ám rīmbá? hītsə́ rìmbé? hītsə̂ ám rīmbá?
-\ng
-\np
-\nt Sabeta doubts about the plural, which is rather irregular cf the missing m). Kleinewillinghöfer (1992/unpublished) mentions a plural variant containing word for 'children' for Mboi as well.
 \dt 29/May/2016
 
 \lx rĩ́ːrĩ́
@@ -37396,11 +32941,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 10/Dec/2015
 
 \lx rĩ́ːyê
@@ -37440,11 +32980,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: Can V2 mark agreement with the noun?
-\ng
-\np
-\nt ét rĩ́ːyê 'black person (naturally)', dìò rĩ̀ːyê, hīt rĩ̄ːyê - Attributive derivate in the meaning of black - rĩ́ːyê (tV2 is always ê according to Bitrus) (meaning is exactly the same as ʧeɓv̂)
 \dt 10/Dec/2015
 
 \lx róː
@@ -37487,11 +33022,6 @@
 \sd
 \bw
 \ue typically used, sometimes reduplicated, as an example of yellow colour, together with ɗāːrə̄ sə̄bōːrá 'egg yolk'
-\so
-\nq
-\ng
-\np
-\nt no known plural
 \dt 09/Nov/2014
 
 \lx rōː
@@ -37528,11 +33058,6 @@
 \sd
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_DI_03:3
-\nq CHECK: Meaning - literal in this example (other similar examples) & elsewhere (I remember this verb being used as 'pinch' - róːnán "it pinched me (het droogrek waar een stuk van mijn vel tussen gekomen was)").
-\ng
-\np
-\nt
 \dt 24/May/2016
 
 \lx róːtə́má
@@ -37569,11 +33094,6 @@
 \sd
 \bw
 \ue
-\so
-\nq Examples? PL?
-\ng
-\np
-\nt
 \dt 29/Dec/2015
 
 \lx rúkú
@@ -37610,11 +33130,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 10/Dec/2015
 
 \lx rūːkū
@@ -37651,11 +33166,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt stir a liquid with particles that tend to settle down on the bottom otherwise, like corn juice (kūnū) or sugar in tea
 \dt 30/Nov/2015
 
 \lx rūmtō
@@ -37692,11 +33202,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng The guys did not volunteer a plural. How should this be treated? As an example of sg-pl or as an instance of absence of a plural because it is a mass noun (but a distributive could be possible here)
-\np
-\nt
 \dt 27/Jan/2015
 
 \lx rúŋgô
@@ -37733,11 +33238,6 @@
 \sd color
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 26/Jan/2016
 
 \lx rúŋrúŋ
@@ -37774,11 +33274,6 @@
 \sd color
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 26/Jan/2016
 
 \lx sã́ː
@@ -37815,11 +33310,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 28/Jan/2015
 
 \lx sã́ː
@@ -37857,11 +33347,6 @@
 \sd action ; food
 \bw
 \ue
-\so
-\nq What is/are the exact meaning(s): 'prepare food'? Obligatorily transitive?
-\ng
-\np
-\nt
 \dt 29/Feb/2016
 
 \lx sã̄ː
@@ -37898,11 +33383,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 28/Jan/2015
 
 \lx Sã̀ː
@@ -37939,11 +33419,6 @@
 \sd name ; human ; social
 \bw
 \ue
-\so
-\nq CHECK: Tone pattern? Agreement? Subclans? In which villages? Primary village?
-\ng
-\np
-\nt It is Bitrus's paternal clan.
 \dt 08/Mar/2016
 
 \lx sāː
@@ -37980,11 +33455,6 @@
 \sd body ; religion
 \bw
 \ue
-\so
-\nq CHECK: PL? Agreement? ADD: Examples? ('make scarification', etc)
-\ng
-\np
-\nt This is a generic term. There are different names according to the place on the body, which Sabeta forgot.
 \dt 15/Jan/2016
 
 \lx sàbā
@@ -38017,11 +33487,6 @@
 \sd tree ; plant
 \bw
 \ue
-\so
-\nq CHECK: There should be a variant with -mb- given the cPa Awballa's variant sàmbrá of the word for tamarind's fruit.
-\ng MV: The tonality of the word for tamarind fruit is not expected (DI: I think it is as expected, actually). MV: The tonal notation of the word for tamarind fruit was thoroughly checked. 
-\np
-\nt
 \dt 03/Feb/2016
 
 \lx sàbə̀r kə́dāŋrá
@@ -38058,11 +33523,6 @@
 \sd tree ; plant ; food
 \bw
 \ue
-\so NB_YUN_2014_03_DI:48
-\nq CONTROL: Tonality (in NB_YUN_2014_03_DI:48) the original notation by MV <sābə̄r kə̄dàŋrá> is suspicious! The variant with -mb-, given the possibility of <sàmbə̀rá>. CHECK: Plural? (sg=pl, no pl, -ta) Agreement? ADD: Examples
-\ng
-\np Tonality, given the word for fruit <sàb(ə̀)rá> and tree <sàbā>, the original notation <sābə̄r kə̄dàŋrá> is suspicious! The variant with -mb- is hypothesized given the possibility of <sàmbrá>.
-\nt Although this is clearly a compound, containing the word for tamarind fruit. Sabeta insists that it is one word. Probably, because its second component is not used elsewhere.
 \dt 07/Feb/2016
 
 \lx sàb(ə̀)rá
@@ -38096,14 +33556,9 @@
 \lv
 \le
 \lt
-\sd tree ; plant ; food 
+\sd tree ; plant ; food
 \bw
 \ue
-\so NB_YUN_2014_03_DI:48
-\nq
-\ng
-\np F. Awballa sometimes says sàmbrá.
-\nt
 \dt 07/Feb/2016
 
 \lx sāɓāk
@@ -38140,11 +33595,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx sākāɗ
@@ -38181,11 +33631,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: Tones in the example <ŋgàw sākāɗ>!
-\ng
-\np
-\nt
 \dt 15/Feb/2016
 
 \lx sākāɗ
@@ -38222,11 +33667,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt As a vq only about things, not animals nor people - wú sākāɗ. <wāːtə̄rə́ sákāɗ wā> 'a quick journey'
 \dt 10/Feb/2016
 
 \lx sākītá
@@ -38263,11 +33703,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng NOTE: Although morphologically it is a plural, a singulative rather than a pluractional verb will be used with it: tóː sákītə́ wa᷇ 'take this sākītá', hāː sākītə́ wa᷇ 'take these sākītá'
-\np
-\nt BITRUS_Pictures_151116_018.jpg
 \dt 03/Jan/2016
 
 \lx sālárēn
@@ -38304,11 +33739,6 @@
 \sd
 \bw
 \ue
-\so
-\nq PL? Agreement? Examples! It looks like a derivation from something - what?
-\ng
-\np
-\nt glijbaan
 \dt 14/Jan/2016
 
 \lx sámá
@@ -38345,11 +33775,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: NMLZ in -yǒ? What's the difference with <tómó> and <sə̀kə̀>? ADD: Examples
-\ng
-\np
-\nt
 \dt 15/Jan/2016
 
 \lx sáːmá
@@ -38386,11 +33811,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 28/Jan/2015
 
 \lx sàmrā
@@ -38427,11 +33847,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx sànò
@@ -38470,11 +33885,6 @@
 \sd body ; health
 \bw
 \ue
-\so
-\nq Is this a NMLZ? (if yes, control the verb) Is this the resulting state / the action / the sound? AGR? PL?
-\ng
-\np
-\nt rommelen van de buik, ook blokkering van een gewricht (knie, elleboog)
 \dt 29/May/2016
 
 \lx sã̀ːɲó
@@ -38511,11 +33921,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq PL? Agreement? Examples
-\ng
-\np
-\nt compound? Word for 'snake' in it?? Sabeta does not know a plural
 \dt 15/Feb/2016
 
 \lx sã̀ːŋgà
@@ -38552,11 +33957,6 @@
 \sd tree
 \bw
 \ue
-\so
-\nq Identify! Names for fruit & whether it is used for something?
-\ng
-\np Bitrus: confirmed the velar
-\nt
 \dt 23/May/2016
 
 \lx sāŋlō
@@ -38593,11 +33993,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 23/Mar/2015
 
 \lx sã̀õ̀
@@ -38650,11 +34045,6 @@
 \sd animal ; snake
 \bw
 \ue
-\so
-\nq TRACK: the question on <hāː sã̀õ̀> in <hāː>
-\ng
-\np In slower pronunciation there is a /w/ between V1 and V2 and in the short form it is <sã̀w>. So, the PL should probably be written as <sã̀wsà>
-\nt
 \dt 03/Apr/2016
 
 \lx sã̀õ̀
@@ -38691,11 +34081,6 @@
 \sd social
 \bw
 \ue
-\so
-\nq ADJUST: Meaning & form, examples - checked with BI in 2015 - it is a verb/NMLZ provide for your wife.
-\ng You cannot say 'the place of the marriage' using this word (wel met kaasa)
-\np
-\nt Originally translated as "marriage"
 \dt 29/May/2016
 
 \lx sã̀ːrà
@@ -38732,11 +34117,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Originally noted as for making "tents".
 \dt 15/Feb/2016
 
 \lx sã́ːsâ
@@ -38773,11 +34153,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx sã̀w bə̄ttō
@@ -38814,11 +34189,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt this is a species of cobra that spits poison, as opposed to ʧébó
 \dt 11/Feb/2016
 
 \lx sã̀w gùnò
@@ -38855,11 +34225,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx sã̀wã̀
@@ -38896,11 +34261,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: NMLZ on -yǒ? (sã̀wyǒ)
-\ng
-\np
-\nt
 \dt 18/Jan/2016
 
 \lx sàwā
@@ -38937,11 +34297,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq CHECK: Only skin wrinkle or also other surfaces (like dress, shirt)? Agreement? Examples? 'make/become wrinkled'? Don't wrinkle your dress.?
-\ng
-\np
-\nt
 \dt 15/Feb/2016
 
 \lx sẽ́ː
@@ -38978,11 +34333,6 @@
 \sd animal ; fish
 \bw
 \ue
-\so
-\nq
-\ng
-\np PL in very slow pronunciation is [sĩ́j̃ã́]
-\nt
 \dt 29/Feb/2016
 
 \lx sẽ̀ː kōmā
@@ -39021,11 +34371,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt BI: you can also say just <sḕː> without <kōmā>.
 \dt 11/Feb/2016
 
 \lx sẽ̀ːdò
@@ -39068,11 +34413,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: Also a variant with <-nd->? 'this witchcraft' <sẽ̀ːn wā ~ sẽ̀ːdə̀ wā>? (Compare <ét sẽ̂ːndé> 'witch')
-\ng
-\np
-\nt
 \dt 02/Jun/2016
 
 \lx sẽ̀ːkē
@@ -39109,11 +34449,6 @@
 \sd instrument ; music
 \bw
 \ue
-\so
-\nq CHECK: Agreement? ADD: Examples (play on the flute)
-\ng
-\np
-\nt cf picture F in the plate on p111 of Manliura's Yungur heritage
 \dt 29/Feb/2016
 
 \lx sèkî
@@ -39150,11 +34485,6 @@
 \sd animal ; fish
 \bw
 \ue
-\so
-\nq CHECK: PL? Agreement? Identify!
-\ng
-\np
-\nt
 \dt 29/Feb/2016
 
 \lx sēlēːrá
@@ -39191,11 +34521,6 @@
 \sd nature ; space
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 29/May/2016
 
 \lx sēlēːrá
@@ -39234,11 +34559,6 @@
 \sd plant ; tree ; food
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 29/May/2016
 
 \lx séló
@@ -39275,11 +34595,6 @@
 \sd animal ; bird
 \bw
 \ue
-\so
-\nq CONTROL: tone pattern with other speakers (than BI)
-\ng
-\np
-\nt Sabeta and Bitrus thought it may be a great sparrowhawk (accipiter melanoleucus), based on a drawing of this bird in our field guide. But Adamawa state isn't really the habitat of this bird...
 \dt 28/Nov/2015
 
 \lx sẽ̄ːmbé
@@ -39316,11 +34631,6 @@
 \sd plant ; food
 \bw
 \ue
-\so
-\nq CHECK: Variant <sẽ̄ːbé>, 'this X' <sẽ̄ːmbə́~é ~ sẽ̄ːm ya᷇>?
-\ng
-\np
-\nt
 \dt 02/Jun/2016
 
 \lx sémô
@@ -39359,11 +34669,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq
-\ng sémv̂ is an attributive derivation of <sēmsēm> 'be sweet'
-\np
-\nt
 \dt 29/May/2016
 
 \lx sēmō
@@ -39400,11 +34705,6 @@
 \sd
 \bw
 \ue
-\so
-\nq PL? AGR? Is this a NMLZ?
-\ng
-\np
-\nt
 \dt 29/May/2016
 
 \lx sēmrā
@@ -39443,11 +34743,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq NB: <sèmrà> in <mbə́lkẽ́ːrə̀ sèmrà> 'sweet melon'. CONTROL: Tone & meaning of <sēmrā> 'sweet thing' (compare to <gə̀mrā> 'lazy person')
-\ng
-\np
-\nt
 \dt 29/May/2016
 
 \lx sēmsēm
@@ -39486,11 +34781,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq What's the exact relation with the derivate <sèmrà> in <mbə́lkẽ́ːrə̀ sèmrà> 'sweet melon'? CONTROL: Tone & meaning of <sēmrā> 'sweet thing' (compare to <gə̀mrā> 'lazy person')
-\ng In attributive use, it requires a DEM. The attributive derivate is sémv̂
-\np
-\nt
 \dt 29/May/2016
 
 \lx Sēn Gòːrā
@@ -39531,11 +34821,6 @@
 \sd name ; river ; space
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_03_DI:2
-\nq CHECK: Agreement? The official name of the river (was said by Daniel to be "Loko")
-\ng
-\np
-\nt
 \dt 30/Mar/2016
 
 \lx sēːndā
@@ -39575,11 +34860,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: V1 length + possibility of <sē(ː)dā>
-\ng
-\np BI: V1 is short sēndā. The lengthening here might be only phonetic.
-\nt
 \dt 01/Jun/2016
 
 \lx séné
@@ -39616,11 +34896,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt verbal noun; N.B. 'flow' and 'river' do not have the same tone...
 \dt 11/Feb/2016
 
 \lx sēnō
@@ -39657,11 +34932,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt This word is only used for smaller rivers, big rivers such as Gongola are referred to as alwara 'sea', but this was later contradicted
 \dt 29/May/2016
 
 \lx séŋgó
@@ -39698,11 +34968,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 14/Nov/2014
 
 \lx sẽ̀ːrà
@@ -39739,11 +35004,6 @@
 \sd nature
 \bw
 \ue
-\so
-\nq check notation (cf nt field), difference between sẽ̀ẽ̀ɽà and sẽ̀ẽ̀tà?
-\ng
-\np
-\nt second tone is low falling. The first vowel seems to be long, but Thomas Samari writes it short (check!). Hammawi in Hombo gave it with the plural suffix -ta: sẽ̀ẽ̀tà
 \dt 14/Nov/2014
 
 \lx sērā
@@ -39780,11 +35040,6 @@
 \sd space
 \bw
 \ue
-\so
-\nq PL? AGR? Is there a difference with <sə́ŋgáːrà> translated as "boundary between plots of land, border between countries"? (Can <sērā> also be applied to countries?)
-\ng
-\np
-\nt Sabeta does not know the plural (rejects seta)
 \dt 30/May/2016
 
 \lx sèːrē
@@ -39822,11 +35077,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq identify
-\ng
-\np
-\nt species of tṹː (generic term)
 \dt 12/Jul/2014
 
 \lx sẽ̀ːsẽ̂
@@ -39869,11 +35119,6 @@
 \sd
 \bw
 \ue
-\so
-\nq identified with DIMA insert correct identification
-\ng
-\np
-\nt this cricket sẽ̀ːsẽ́ yā
 \dt 11/Feb/2016
 
 \lx sẽ̄w
@@ -39910,11 +35155,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 30/Mar/2016
 
 \lx séwó
@@ -39955,11 +35195,6 @@
 \sd action
 \bw
 \ue
-\so
-\nq CHECK: There is something wrong with the tones in this word (if a NMLZ, it should be <séwô> or <sēwō>) and in the examples. CONTROL: What is the verb exactly? (tone and final vowel) Is it indeed obligatory to take a cognate object?
-\ng MV: Verbal noun. The corresponding verb is necessarily transitive, cannot be used in isolation, but at least takes a cognate object
-\np
-\nt
 \dt 30/May/2016
 
 \lx sẽ̄wsẽ̄w
@@ -39996,11 +35231,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Bitrus: sẽ̄w sẽ̄w = silent normally, like Samuel, our gatesman, whereas singleton sẽ̄w = somebody who is silent now, but it is not necessarily his natural state
 \dt 30/Mar/2016
 
 \lx sə̀bòŋrá
@@ -40037,11 +35267,6 @@
 \sd plant
 \bw
 \ue
-\so
-\nq CONTROL: Is there a variant <sə̀mbòŋrá> or <sùmbòŋrá>?
-\ng
-\np
-\nt this plant looks very similar to the plant that gives tiger nuts
 \dt 30/May/2016
 
 \lx sə̄bōːrá
@@ -40078,11 +35303,6 @@
 \sd animal ; bird ; food
 \bw
 \ue
-\so
-\nq CONTROL: What is V1 in the variant <sūmbōːrá>: /u/ or /ə/, or either?
-\ng
-\np
-\nt Kleinewillinghöfer (1996: 85) has sūmbōōrá (speaker from Dumne), this is also how Pa awballa pronounces it, as well as Sabeta's mother (who is from Dumne)
 \dt 01/Jun/2016
 
 \lx sə̀ɓə̀g
@@ -40119,11 +35339,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Bitrus: 'weak (not strong normally, not because of illness)' = sóŋsóŋ
 \dt 10/Dec/2015
 
 \lx sə̄kāɗ
@@ -40162,11 +35377,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: Tones in the example <ŋgàw sə́kāɗ>! CHECK: Predicative vs Attributive vs Adverbial usage. (Adjust PoS)
-\ng
-\np
-\nt
 \dt 15/Feb/2016
 
 \lx sə̀ksə̀kã̀
@@ -40203,11 +35413,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt According to DA, this is a generic term. DA (YUN_PRA_141024_DI_01.wav), SA (YUN_PRA_141031_DI_02.wav)
 \dt 15/Dec/2015
 
 \lx sə́lkã̂ːtō
@@ -40244,11 +35449,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 06/May/2015
 
 \lx sə̄mā
@@ -40285,11 +35485,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Manliura identifies it as a tree/rock hyrax, this sema: sə̄māː wā (with long final vowel on the noun)
 \dt 06/May/2015
 
 \lx sə̀màː
@@ -40332,11 +35527,6 @@
 \sd human ; social
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt ask tone pattern, this sə̀mà: sə̀màː wā
 \dt 09/Nov/2014
 
 \lx sə̄mə̄
@@ -40373,11 +35563,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: NMLZ on -yǒ? ADD: Examples (valency pattern)
-\ng
-\np
-\nt
 \dt 15/Jan/2016
 
 \lx sə̀msə̀màːrà
@@ -40414,11 +35599,6 @@
 \sd nature ; space
 \bw
 \ue
-\so
-\nq CHECK: Anything like 'falling star', 'morning star'? Are there names for any specific stars?
-\ng
-\np
-\nt
 \dt 07/Jun/2016
 
 \lx sə̀nə̀
@@ -40455,11 +35635,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: NMLZ <sə̀nyǒ>. DECIDE: Remove the example 'He is groaning'?
-\ng
-\np
-\nt
 \dt 29/Feb/2016
 
 \lx sə́ŋgáːrà
@@ -40496,11 +35671,6 @@
 \sd space
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 30/May/2016
 
 \lx sə̄ŋgə̄
@@ -40537,11 +35707,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: Tones in the example and the V2 in -yǒ NMLZ
-\ng
-\np
-\nt
 \dt 02/Dec/2015
 
 \lx sə́ŋgṍːrà
@@ -40579,11 +35744,6 @@
 \sd fish
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 03/Nov/2014
 
 \lx sə́ŋgṍːrà
@@ -40620,11 +35780,6 @@
 \sd animal ; fish
 \bw
 \ue
-\so
-\nq CHECK: In old field notes (without audio verification) it is kóngórà. Identify!
-\ng
-\np
-\nt
 \dt 30/May/2016
 
 \lx sə́rə́
@@ -40661,11 +35816,6 @@
 \sd
 \bw
 \ue
-\so
-\nq Clarify the meaning and use! Only with <sómmâ> 'urine' or not? CHECK: Are the constructed NMLZs ok?
-\ng
-\np
-\nt
 \dt 05/Feb/2016
 
 \lx sə̀ttò
@@ -40702,11 +35852,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq BI rejects <sə̀tò> - CHECK.
-\ng BI rejects <sə̀tò>
-\np
-\nt MV: (meestal) monosyllbisch uitgesproken
 \dt 17/Nov/2015
 
 \lx s(ə̀)wàːnò
@@ -40743,11 +35888,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so Sabeta ; Daniel
-\nq
-\ng
-\np NB: All the words with swV-, Bitrus says that slowly you can insert a schwa səw-
-\nt NB_YUN_2014_03_DI:58, Plural in -sà from Sabeta, in yòː from Daniel.
 \dt 04/Dec/2015
 
 \lx s(ə́)wátá
@@ -40784,11 +35924,6 @@
 \sd plant ; tree
 \bw
 \ue
-\so
-\nq AGR? CONTROL: Identification. CONTROL: <s(ə)wáttá>? CHECK: The name of its fruit?
-\ng
-\np
-\nt
 \dt 30/May/2016
 
 \lx s(ə̀)wã̀ːtō
@@ -40826,11 +35961,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 04/Dec/2015
 
 \lx s(ə̀)wẽ̀ː
@@ -40867,11 +35997,6 @@
 \sd human
 \bw
 \ue
-\so
-\nq
-\ng According to Bitrus, s(ə̀)wã̀ː is both sg & pl, he does not know s(ə̀)wẽ̀ː.
-\np
-\nt
 \dt 04/Dec/2015
 
 \lx Sìbà
@@ -40908,11 +36033,6 @@
 \sd name ; settlement ; space
 \bw
 \ue
-\so Sabeta
-\nq ADD a separate entry for the variant form.
-\ng
-\np
-\nt If you go from Dumne to Siba, you pass first through Dərma and then Chide.
 \dt 01/Mar/2016
 
 \lx sìːbà
@@ -40925,9 +36045,6 @@
 \xv ɗā sîːbâ
 \xe in the pocket
 
-\so
-\nq CHECK: Does it also have a variant <sìːmbà>, e.g. also <sìːm wā ~ sìːbə̀ wā> 'this pocket'?
-\nt
 \dt 30/May/2016
 
 \lx sìbō
@@ -40970,11 +36087,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt this sibo: sìm wā ~ sìbə̄ wā
 \dt 18/Nov/2015
 
 \lx sìbò
@@ -40986,9 +36098,6 @@
 \pl sìmsâ
 
 
-\nt sìm wā ~ sìbə̀ wā  'this orchard'. MV: type of wild bush where you can find some useful (fruit bearing) trees, as opposed to dòbrə̀ nìːrà. Een goede vertaling is misschien 'boomgaard': verzameling aangeplante fruitbomen, vrij dicht bij elkaar, vlakbij het dorp. A wet place: swampy or close to a river. FENCED. individually owned
-\nq Sure of the tone on the class marker in the plural? In all other cases -sa is low if the noun is entirely low in the singular
-\nt the tones in singular and plural were thoroughly checked...
 \dt 30/May/2016
 
 \lx sífé
@@ -41025,11 +36134,6 @@
 \sd human ; health ; religion
 \bw
 \ue
-\so
-\nq check tone also of sīptō mystical healing: one MM the other HH??
-\ng ɓa-demonstrative not accepted in the plural
-\np The second vowel in the plural is phonologically clearly an ORAL VOWEL, but it is slightly nasalised, probably due to the preceding nasal consonant. It seems as if the second tone here is also slightly "released", i.e. slightly lower than the first. Is this the reason why I noted it MM until recently?
-\nt
 \dt 08/Jan/2016
 
 \lx síkê
@@ -41066,11 +36170,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt No plural, according to Sabeta, this leg síké yā
 \dt 14/Nov/2014
 
 \lx sìlbō
@@ -41108,11 +36207,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 02/Nov/2014
 
 \lx sīŋlīŋsâ
@@ -41149,11 +36243,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Cf drawing and explanation in Manliura's Yungur Heritage p111-112
 \dt 23/Nov/2014
 
 \lx sĩ́ṍ
@@ -41190,10 +36279,6 @@
 \sd animal ; insect
 \bw
 \ue
-\so
-\nq CONTROL: 'this grasshopper' <sĩ́ː ~ sĩ́ə̃́ ~ sĩ́ṍ wa᷇>?
-\ng sĩ́ːsə́ wā 'these grasshoppers'
-\np Vowel length checked with BI, the word is also bisyllabic. BI hums it as two syllables. In very slow pronunciation syllable-by-syllable it is [sĩ́.j̃ṍ]
 \dt 01/Jun/2016
 
 \lx sĩ̀õ̀
@@ -41230,11 +36315,6 @@
 \sd insect
 \bw
 \ue
-\so
-\nq
-\nt Short form in SG (Bitrus): sĩ̀ː ~ sĩ̀õ̀ wā 'this bee'
-\np MV: In the plural, the tone pattern can be either
-\nt
 \dt 13/Dec/2015
 
 \lx sĩ́ṍ dûːmā
@@ -41271,10 +36351,6 @@
 \sd animal ; insect
 \bw
 \ue
-\so
-\nq Identify! AGR? CONTROL: Final T - M or L? Does <dùːmā> mean smth? Is it = <dùːmà> 'salt'?
-\ng
-\np
 \dt 01/Jun/2016
 
 \lx sīptō
@@ -41288,8 +36364,6 @@
 \cf sífé
 \ce herbalist
 
-\nt
-\nq How to note a homonym number in the CF field??
 \mr M.M
 \dt 23/Nov/2014
 
@@ -41327,11 +36401,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: Meaning: smth you smell, the sense of smelling? PL? (originally, it was given as "n.a.") Agreement? ADD: CF to the verb <sĩ̀ː> 'to smell' (tone?) (add in the notes on derivation!) ADD: Examples!
-\ng
-\np
-\nt
 \dt 29/Feb/2016
 
 \lx sítmâ
@@ -41345,8 +36414,6 @@
 \pl sítmə́msè
 
 
-\nq What is the name of the fruit in Bena??
-\nt The name of the fruit in Hausa is ʤínín káːfə̀rī. N.B. The fnal falling tone is not reduced to H in ɲāː sítmâ hã̄
 \dt 24/Jan/2014
 
 \lx sìwrà
@@ -41383,11 +36450,6 @@
 \sd animal ; insect
 \bw
 \ue
-\so
-\nq CONTROL: Tone pattern - also B? CHECK: Do the Bena eat them? ADD: Examples (if they are edible: catch the termites, types of traps, etc.)
-\ng
-\np 'the place of the termite' is án síwrà, not án sí(w)ùrà
-\nt
 \dt 29/Feb/2016
 
 \lx sìwrà
@@ -41424,11 +36486,6 @@
 \sd animal ; bird
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 29/Feb/2016
 
 \lx Sõ̀ː
@@ -41465,11 +36522,6 @@
 \sd name ; human ; social
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_03_DI:1
-\nq CHECK: Tone pattern? Agreement? In which villages? Primary village?
-\ng
-\np
-\nt It is Daniel Ayuba's paternal clan subdivision
 \dt 07/Mar/2016
 
 \lx sõ̀ː
@@ -41506,11 +36558,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: PL form (sõ̀msê - sõ̀ːmsê? swã̀ːmé?)
-\ng VarPL <swã̀ːmé> from Bitrus, who hums it as 2 syllables with a long V1
-\np
-\nt
 \dt 29/May/2016
 
 \lx sóktó
@@ -41548,11 +36595,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 28/Jan/2015
 
 \lx sóktó
@@ -41568,7 +36610,6 @@
 \ce grasshopper
 
 
-\nt
 \dt 27/Nov/2013
 
 \lx sōkūrkṹːrá
@@ -41579,8 +36620,6 @@
 \pd -ra / -ta
 \pl sōkūrkṹːtá
 
-\so
-\nt
 \dt 23/Jan/2014
 
 \lx sōllā
@@ -41621,11 +36660,6 @@
 \sd food ; body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt any piece of meat, any part of meat cut off
 \dt 21/Nov/2014
 
 \lx sómmâ
@@ -41664,11 +36698,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng this contains the class 6 suffix ma, as most other liquids and some mass nouns
-\np
-\nt
 \dt 23/Mar/2015
 
 \lx sónó
@@ -41691,8 +36720,6 @@
 \rf
 \xv kə᷇ŋ sónó
 \xe It will suffocate you / It will make you choke
-\nt dit is een "mise en garde": watch out, you will suffocate
-\nq check tonal notation of example, no M tone on kəŋ??
 \sy
 \an
 \cf
@@ -41706,11 +36733,6 @@
 \sd body ; health
 \bw
 \ue
-\so
-\nq ADD other examples (from DI 2013-2014 NB)
-\ng
-\np
-\nt
 \dt 15/Jan/2016
 
 \lx sōŋrā
@@ -41747,11 +36769,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt The plural refers to different types of cold (e.g. morning cold, cold of the fridge, ...)
 \dt 27/May/2015
 
 \lx sóŋsóŋ
@@ -41790,11 +36807,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: it seems to be vq, and in the meaning 'slowly' it is an adv
-\ng
-\np
-\nt
 \dt 10/Dec/2015
 
 \lx sõ̀ːrà
@@ -41809,7 +36821,7 @@
 \2d
 \4d
 \sn
-\de type of drum 
+\de type of drum
 \sc
 \ee
 \re drum (sp)
@@ -41831,11 +36843,6 @@
 \sd
 \bw
 \ue
-\so
-\nq elaborate definition with data in nt field, which are correct
-\ng
-\np
-\nt Set of drums, according to Manliura's Yungur Heritage p112, who writes: this is a set of three drums made by sealing an animal skin (usually goat's skin) over rims of trimmed or broken pots. The set comprises of a ɓota (medium rim) ma larger rim and awe (smaller rim). Bota is drummed by an individual while the remaining two are drummed by another person, in every attempt to make dance rhythm. ɓota drummer is the first to start in order to dictate the tone.
 \dt 10/Dec/2015
 
 \lx sōːrō
@@ -41872,11 +36879,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt this trap sōrō wā, this is a trap here ɲā sōrō hā
 \dt 11/Jan/2016
 
 \lx sõ̀ːtà
@@ -41913,11 +36915,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 10/Dec/2015
 
 \lx sòtò
@@ -41954,11 +36951,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq identify
-\ng
-\np
-\nt described by Sabeta as similar to rats but much bigger. The translation 'cane rat' was found in Manliura. BI: looks like a rat, but is very big and lives in swampy places, where there is a lot of water, they feed on grass
 \dt 17/Nov/2015
 
 \lx sũ̄ː
@@ -42001,11 +36993,6 @@
 \sd
 \bw
 \ue
-\so NB_YUN-2013-02:03-04 = YUN-PRA_13-11-02_DI_01 ; YUN-PRA_13-11-02_DI_02
-\nq
-\ng
-\np The phonological form may rather be /suw̃/.
-\nt The paradigm is in NB_YUN-2013-02:03-04
 \dt 28/Nov/2014
 
 \lx sùbā
@@ -42042,11 +37029,6 @@
 \sd instrument
 \bw
 \ue
-\so
-\nq CONTROL: Is the variant <sùmbā> acceptable? PL (of <sùbā ~ ? sùmbā>? AGR?
-\ng
-\np
-\nt
 \dt 23/May/2016
 
 \lx súɓrâ
@@ -42059,8 +37041,6 @@
 \xv nə̄n búk sùɓrâ
 \xe I am threshing súɓrâ
 
-\so
-\nt
 \dt 10/Dec/2015
 
 \lx súkẽ̂
@@ -42097,11 +37077,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: V2 length
-\ng
-\np
-\nt
 \dt 10/Dec/2015
 
 \lx sùkẽ̄ː
@@ -42144,11 +37119,6 @@
 \sd food ; plant
 \bw
 \ue
-\so
-\nq ADD also the alternative forms as entries with a cross-reference to the main form
-\ng
-\np
-\nt
 \dt 03/Jan/2016
 
 \lx sùkẽ̄ː
@@ -42162,7 +37132,6 @@
 \pl
 
 
-\nt
 \mr L.M
 \dt 27/Oct/2013
 
@@ -42200,11 +37169,6 @@
 \sd animal ; insect
 \bw
 \ue
-\so
-\nq
-\ng
-\np Final V is short, as this word sounds exactly as <sùkò> 'putting it down'
-\nt
 \dt 22/Nov/2015
 
 \lx sùm
@@ -42241,11 +37205,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: With speakers other than Bitrus, whethter the predicative use is possible for the singleton form! If confirmed, DECIDE: How to indicate the information on the difference between the singleton/doubleton use!
-\ng NOTE: (Bitrus) A singleton (non-reduplicated) version is only acceptable in attributive use, as in <án sûm wā ~ án súmsùm wā>, but not in the predicative use.
-\np
-\nt duister, je kan nog een beetje zien.
 \dt 30/Mar/2016
 
 \lx sūmrā
@@ -42282,11 +37241,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 23/May/2016
 
 \lx sùmrà
@@ -42298,8 +37252,6 @@
 \pd -ra / -ta
 \pl sùmtà
 
-\so
-\nt
 \dt 27/Nov/2013
 
 \lx sùmsùm
@@ -42339,11 +37291,6 @@
 \sd
 \bw
 \ue
-\so
-\nq SEE Questions in <sùm>
-\ng NOTE: (Bitrus) A singleton (non-reduplicated) version is only acceptable in attributive use, as in <án sûm wā ~ án súmsùm wā>, but not in the predicative use.
-\np
-\nt duister, je kan nog een beetje zien.
 \dt 30/Mar/2016
 
 \lx sūrō
@@ -42354,8 +37301,6 @@
 \pd
 \pl
 
-\so
-\nt
 \dt 23/Jan/2014
 
 \lx ʃã́ːrá
@@ -42369,7 +37314,6 @@
 \pl ʃã́ːtá
 
 
-\nt the variant form is Pa Awballa's pronunciation (but tone there??)
 \dt 27/Nov/2013
 
 \lx tã̄ː
@@ -42406,11 +37350,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 16/Nov/2015
 
 \lx tāː
@@ -42422,9 +37361,7 @@
 \pl tāːsâ
 
 
-\nt
 \mr M
-\nt these shoes: tāːsə́ wā
 \dt 24/Mar/2014
 
 \lx tàbā
@@ -42463,11 +37400,6 @@
 \sd food ; plant
 \bw
 \ue
-\so
-\nq CONTROL: V1-length! Tone on V2 in PL <tàbə̀msê>! TRACK: Tones in CF & examples! (IF changed later, change also in the examples in the related entries)
-\ng
-\np
-\nt
 \dt 29/Feb/2016
 
 \lx tàbə̀ gə̀mtô
@@ -42504,11 +37436,6 @@
 \sd plant ; food
 \bw
 \ue
-\so
-\nq CONTROL: Tones & V1-length! CHECK: Agreement? PL?
-\ng
-\np
-\nt
 \dt 29/Feb/2016
 
 \lx tàbə̄ ʧīmrā
@@ -42545,11 +37472,6 @@
 \sd food ; plant
 \bw
 \ue
-\so
-\nq CONTROL: Tones & V1-length! CHECK: Agreement? PL? ADD: Example (tabak snuiven)
-\ng
-\np
-\nt
 \dt 29/Feb/2016
 
 \lx tàɓsá
@@ -42586,11 +37508,6 @@
 \sd plant ; food
 \bw
 \ue
-\so Sabeta ; Daniel
-\nq
-\ng Short form: -á ya᷇
-\np Same word in Hausa... "Exception" to the tendency that words ending in a take agreement pattern wā. Because it is a borrowing?
-\nt NB_YUN_2014_03_DI:79. Identified by DA & SA as Okezie & Agyakwa (1998:306). 
 \dt 28/Nov/2014
 
 \lx tālē
@@ -42602,8 +37519,6 @@
 \pd
 \pl
 
-\so
-\nt Sabeta doesn't know the plural
 \dt 18/Nov/2013
 
 \lx támrá
@@ -42614,8 +37529,6 @@
 \pd -ra / -ta
 \pl támtá
 
-\so
-\nq this is the scrotum, according to Daniel,
 \dt 21/Nov/2014
 
 \lx táːndî
@@ -42627,17 +37540,11 @@
 \pl
 \xv bòr tàːndî
 \xe Come out! / Go out!
-\ng (a) you are inside, I am outside, (b) we are both inside
 \xv ŋgōː tāːndî
 \xe Go out!
-\ng (just telling somebody to check things outside)
 \xv wàɗ tàːndî
 \xe Go out! Leave!
-\ng (chasing somebody away)
 
-\so
-\nq CHECK: Is there a variant <táːdî>? CONTROL: The final tone in the variant <táːndíō> - isn't it L? ETYM: can this <dì, dìō> be related to <dìò> 'house'?
-\nt
 \dt 02/Jun/2016
 
 \lx táːŋgə́rà
@@ -42648,9 +37555,6 @@
 \pd -ra / -ta
 \pl táːŋgə́tà
 
-\so
-\nq CHECK: Is there a variant <táːgə́rà>?
-\nt alleen voor gedroogd gras? Hiermee worden sùbā gemaakt (vogelval)
 \dt 01/Jun/2016
 
 \lx tāŋlīŋgó
@@ -42663,8 +37567,6 @@
 \pl tāŋlīŋsâ
 
 
-\nt
-\nq identify: Guinea worm?
 \dt 27/Dec/2015
 
 \lx tã̄ːrā
@@ -42677,8 +37579,6 @@
 \cf tã̄ːtə̄sô
 \ce blindness
 
-\so
-\nt
 \dt 06/Nov/2013
 
 \lx tárá
@@ -42715,11 +37615,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 27/May/2015
 
 \lx tárká
@@ -42733,7 +37628,6 @@
 \xe they line up here
 
 
-\nt check...
 \dt 27/Dec/2015
 
 \lx tàsàw
@@ -42770,11 +37664,6 @@
 \sd
 \bw
 \ue
-\so
-\nq check whether the plural versus distributive forms have not been switched
-\ng
-\np
-\nt múdù in Hausa
 \dt 27/May/2015
 
 \lx tã̄ːtā
@@ -42786,8 +37675,6 @@
 \pd
 \pl
 
-\so
-\nt voorzichtig water scheppen (bv om sediment niet te beroeren)
 \dt 27/Dec/2015
 
 \lx tã̄ːtə̄sô
@@ -42824,11 +37711,6 @@
 \sd
 \bw
 \ue
-\so
-\nq Examples! Agreement!
-\ng
-\np
-\nt
 \dt 10/Dec/2015
 
 \lx tāwā
@@ -42840,8 +37722,6 @@
 \pd
 \pl
 
-\so
-\nt imperative singular form
 \dt 23/Nov/2013
 
 \lx tə̄dāːrá
@@ -42878,11 +37758,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 10/Jan/2016
 
 \lx tə́fá
@@ -42921,11 +37796,6 @@
 \sd
 \bw
 \ue
-\so
-\nq isn't the f geminate in the singular??  *NO* the first vowel is very short. And the tone pattern seems to be "released", i.e. wtih a lowered H2 (as opposed to ɓə́ná°)??s
-\ng
-\np
-\nt N.B. In Saul Samuel's notation, the f is geminate, and 'bone' and 'thorn' are not homonymous/two senses of the same word: 'bone' is HH and 'thorn' MM... this bone tə́p wa᷇, Kleinewillinghöfer (1996:85) notes tɐ̄ə̄fá/tɐ̄ə̄fá (speaker from Dumne).
 \dt 08/Mar/2016
 
 \lx tə́má
@@ -42964,11 +37834,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq CHECK: The tone class of the SG, since in áw tə́mē it appears to be B rather than A. CHECK: The tone class of the PL. CONTROL: Derivate 'ram' is expected to be bàr(ə̀) tə̄mā or bàr(ə̀) tə̀má. Its PL is expected to be bàràttə̀ tə̀máːsâ
-\ng
-\np
-\nt
 \dt 11/Nov/2015
 
 \lx tə̄mtə̄mrá
@@ -42979,8 +37844,6 @@
 \pd -ra / -ta
 \pl tə̄mtə̄mtá
 
-\so
-\nt
 \dt 24/Nov/2013
 
 \lx tə̀ndò
@@ -42994,8 +37857,6 @@
 \pl tə̀nsà
 
 
-\nt L.L "released", the second L is lower than the first
-\nq is C2 prenasalised in the singular?
 \dt 10/Dec/2015
 
 \lx tə̄ŋgə̄
@@ -43032,11 +37893,6 @@
 \sd
 \bw
 \ue
-\so Sabeta
-\nq
-\ng No NMLZ *tə̄ŋrā
-\np
-\nt NB_YUN_2014_03_DI:63
 \dt 28/Nov/2014
 
 \lx tə̄rāːrā
@@ -43049,8 +37905,6 @@
 \pd
 \pl
 
-\so
-\nt No plural according to Sabeta, 'threat' in de betekenis dat iemand dreigt met een sanctie (niet meer in het algemeen een potentieel gevaar)
 \dt 28/Mar/2014
 
 \lx tə̄rāːtō
@@ -43087,11 +37941,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np the final t in the plural is hardly audible
-\nt
 \dt 21/Mar/2015
 
 \lx tə́rə́
@@ -43128,10 +37977,6 @@
 \sd
 \bw
 \ue
-\so
-\ng
-\np
-\nt
 \dt 10/Dec/2015
 
 \lx tə́rə́mrà
@@ -43168,11 +38013,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt ALSO add the rim of a cup, glass, pot (eg. tə́rə́mrə̀ hùnú 'of a pot')
 \dt 02/Dec/2015
 
 \lx tə́ró
@@ -43209,11 +38049,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 10/Dec/2015
 
 \lx t(ə́)wá
@@ -43247,15 +38082,9 @@
 \lv kúːrə́ tə́wá
 \le string trap used for catching fowl
 \lt rope of guinea fowl
-\nq SEE QUESTIONS in the entry for kúːrá 'rope'
 \sd bird
 \bw
 \ue
-\so
-\nq
-\ng
-\np In SG the schwa is latent but in PL it must be always pronounced
-\nt
 \dt 15/Dec/2015
 
 \lx tóː
@@ -43293,11 +38122,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt <kúːrə́ tóāɗán> 'She has entered into labour' (labour took her)
 \dt 26/Feb/2016
 
 \lx tóː
@@ -43334,11 +38158,6 @@
 \sd
 \bw
 \ue
-\so
-\nq Agreement in PL?
-\ng
-\np
-\nt used to mix the flour with water (N.B. fermentation takes place in a telo)
 \dt 08/Jan/2016
 
 \lx tóː ʧéːnē
@@ -43349,8 +38168,6 @@
 \pl
 
 
-\nt compound: marry-woman
-\ng compound
 \dt 12/Nov/2014
 
 \lx tóːbòlā
@@ -43361,9 +38178,6 @@
 \pd
 \pl ?
 
-\so
-\nq check notation and correct. (cf nt)
-\nt compound? borrowing? DANIEL pronounces tōɓōllá. Bitrus pronounces tóːbâllā and thinks it is from Hausa.
 \dt 05/Dec/2015
 
 \lx tóɗó
@@ -43400,11 +38214,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt NB_YUN_2013_02_DI:68
 \dt 12/Jan/2016
 
 \lx tófá
@@ -43441,11 +38250,6 @@
 \sd plant
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt BI
 \dt 17/Nov/2015
 
 \lx tōlō
@@ -43458,8 +38262,6 @@
 \pl tōlə̄sê
 \va tōlsâ
 
-\so
-\nt
 \dt 23/Jan/2014
 
 \lx tómó
@@ -43502,11 +38304,6 @@
 \sd
 \bw
 \ue
-\so NB_YUN-2013-02:02 = YUN-PRA_13-11-02_DI_01
-\nq CONTROL: How do we represent nominalisations in the dictionary?,  Tone of V1 is not certain, as the form was in <ɲã̄ː tōmô hã̄ː> construction
-\ng
-\np
-\nt
 \dt 12/Nov/2014
 
 \lx tōːnō
@@ -43534,7 +38331,6 @@
 \xe female lizard
 \xv gbàŋ tōːnə̄sâ
 \xe female lizards
-\nt se toont adjectivisch gebruik
 \sy
 \an
 \cf
@@ -43548,11 +38344,6 @@
 \sd animal ; human
 \bw
 \ue
-\so
-\nq CONTROL: female cow' - are really all 3 agreement patterns possible? PL of 'female cows'? (especially pay attention to the tone). 'female lizard' - iz -e agreement also possible?
-\ng
-\np
-\nt
 \dt 08/Jan/2016
 
 \lx tōŋlō
@@ -43595,11 +38386,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt dit is blijkbaar een dodelijke plaats als je daar geraakt wordt
 \dt 12/Nov/2014
 
 \lx tȭːrā
@@ -43642,11 +38428,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 12/Nov/2014
 
 \lx tȭːrə̄ mūtmā
@@ -43683,11 +38464,6 @@
 \sd body
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx tòrî
@@ -43724,11 +38500,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so Sabeta ; Daniel
-\nq
-\ng
-\np
-\nt species of tṹː (generic term)
 \dt 28/Nov/2014
 
 \lx tóːtá
@@ -43771,11 +38542,6 @@
 \sd
 \bw
 \ue
-\so
-\nq check gloss and definition
-\ng
-\np
-\nt
 \dt 12/Nov/2014
 
 \lx tṹː
@@ -43818,11 +38584,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 03/Apr/2016
 
 \lx tũ̄ː
@@ -43865,11 +38626,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt e.g. if you want to make porridge out of tuo, you add water and you knead
 \dt 16/Nov/2015
 
 \lx túː
@@ -43906,11 +38662,6 @@
 \sd
 \bw
 \ue
-\so
-\nq check again
-\ng
-\np
-\nt type of "powder" used to feed animals? Fulani give it to their cows.
 \dt 21/Mar/2015
 
 \lx túbê
@@ -43948,11 +38699,6 @@
 \sd animal
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Manliura translates as 'scrub hare'
 \dt 03/Jan/2016
 
 \lx túbûllā
@@ -43990,11 +38736,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt skin is used to make bags (especially for herbalists), long V1??
 \dt 07/Nov/2014
 
 \lx tūktūkrá
@@ -44032,11 +38773,6 @@
 \sd human
 \bw
 \ue
-\so
-\nq aanvullen
-\ng
-\np
-\nt
 \dt 31/Oct/2014
 
 \lx túkwẽ́ːrà
@@ -44079,11 +38815,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 18/Nov/2015
 
 \lx tūllā
@@ -44121,11 +38852,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 25/Oct/2014
 
 \lx tūndō
@@ -44136,7 +38862,6 @@
 \pl tūnsâ
 
 
-\nt
 \mr M.M
 \dt 03/Jan/2016
 
@@ -44149,7 +38874,6 @@
 \pl túːtá
 
 
-\nt
 \dt 27/Nov/2013
 
 \lx tūrā
@@ -44163,8 +38887,6 @@
 \pl
 \cf dùŋkùlùrù
 
-\so
-\nt Beter definiëren. Hier moet een woord voor zijn. Collega's vragen in Llacan.
 \dt 28/Mar/2014
 
 \lx túrú
@@ -44187,7 +38909,6 @@
 \rf
 \xv túrə́ kómā
 \xe transplant guinea corn
-\nq CONTROL: Is it <túrə́ kómā> or <túr kómā>?
 \sy
 \an
 \cf
@@ -44201,11 +38922,6 @@
 \sd plant ; agriculture
 \bw
 \ue
-\so
-\nq CONTROL: NMLZ on -yǒ?
-\ng
-\np
-\nt verplanten, zaailingen bv
 \dt 15/Jan/2016
 
 \lx tūrūrá
@@ -44220,8 +38936,6 @@
 \cf bòɗɗà
 \ce trace
 
-\so
-\nt
 \dt 07/Jan/2016
 
 \lx twáː
@@ -44258,11 +38972,6 @@
 \sd
 \bw
 \ue
-\so
-\nq SEE the questions in <twáːtwá(ː)>!
-\ng
-\np
-\nt
 \dt 30/Mar/2016
 
 \lx twã̀ːtá
@@ -44274,9 +38983,6 @@
 \1d wā / yā
 \pl twã̀ːtə́msê
 
-\so
-\np No latent schwa (Bitrus)
-\nt
 \dt 05/Dec/2015
 
 \lx twáːtwá(ː)
@@ -44313,11 +39019,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: Is the non-reduplicated form also a vq or is it a verb, like gòː 'be proud' (<āy twáː> (verb) or <áy twǎː> (vq))? (maybe add the singleton form as an entry) CONTROL: V2 length in non-prepausal context, e.g. under negation.
-\ng
-\np No latent schwa (Bitrus). Pre-pausal shortening?
-\nt NB: According to Bitrus, twáːtwá is 'wider' than just twáː
 \dt 30/Mar/2016
 
 \lx ʧã́ːrá
@@ -44330,7 +39031,6 @@
 \se ʧã́ː-rə́ bwâːrâ
 \sn large intestin
 
-\nt
 \dt 02/Nov/2014
 
 \lx ʧébó
@@ -44373,11 +39073,6 @@
 \sd animal ; snake
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt this cobra ʧém wa᷇
 \dt 05/Nov/2014
 
 \lx ʧēɓē
@@ -44414,11 +39109,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 19/Nov/2015
 
 \lx ʧéɓéːrà
@@ -44431,7 +39121,6 @@
 \pl ʧéɓeː́tà
 
 
-\nt
 \dt 06/Nov/2014
 
 \lx ʧéɓô
@@ -44456,7 +39145,6 @@
 \xe black man
 \xv ɓét ʧéɓâ
 \xe black men
-\ng According to Bitrus, <ét ʧéɓʧēɓ yā> variant will be preferred to <ét ʧéɓê> in the following situation: there are two people with a computer, X asks 'which one', Y answers 'the black person'. The variant <ét ʧéɓê> is preferrable when there is no contrast, just 'black person'
 \lt
 \sy rĩ́ːyê
 \an
@@ -44471,11 +39159,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 10/Dec/2015
 
 \lx ʧēɓʧēɓ
@@ -44498,10 +39181,8 @@
 \rf
 \xv ét ʧéɓʧēɓ yā
 \xe black man
-\ng According to Bitrus, <ét ʧéɓʧēɓ yā> variant will be preferred to <ét ʧéɓê> in the following situation: there are two people with a computer, X asks 'which one', Y answers 'the black person'. The variant <ét ʧéɓê> is preferrable when there is no contrast, just 'black person'
 \xv ɓét ʧéɓʧēɓ wā
 \xe black men
-\ng NB: Bitrus rejects the PL agreement with ɓa in 'black men'
 \xv ét ya᷇ áy ʧēɓʧēɓ
 \xe This man is black.
 \xv ɓét ɓa᷇ ɓá ʧēɓʧēɓ
@@ -44522,11 +39203,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng Attributive derivate is ʧéɓV̂ (tone 2 is falling and V2 is agreement)
-\np
-\nt
 \dt 26/Jan/2016
 
 \lx ʧēlēŋrá
@@ -44563,11 +39239,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 15/Nov/2014
 
 \lx ʧēːlō
@@ -44610,11 +39281,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: Is there indeed ə in the PL form: ʧēːlə̄sâ?
-\ng
-\np released MM
-\nt apparently the form is more important than the function in distinguishing telo from hunu. Hunu pots have a 'neck', a smaller opening, whereas telo is as large at the opening as at the base. Big ʧelo are also used in beer making (for fermentation). These are also called mbúlkó
 \dt 18/Dec/2015
 
 \lx ʧém kúlōːrā
@@ -44657,11 +39323,6 @@
 \sd animal ; snake
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt tone marking should be correct... HHH becomes HMM on 'mountain'
 \dt 11/Feb/2016
 
 \lx ʧém ʧwérkē
@@ -44704,11 +39365,6 @@
 \sd animal ; snake
 \bw
 \ue
-\so
-\nq identify (Sabeta has never seen it)
-\ng
-\np
-\nt ʧwērkē is a species of tree
 \dt 11/Feb/2016
 
 \lx ʧên wōːrā
@@ -44745,11 +39401,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: Length of V1?
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx ʧēːnē
@@ -44788,11 +39439,6 @@
 \sd human ; kinship
 \bw
 \ue
-\so
-\nq CONTROL: Is <dònò> really a synonym? CONTROL: V length in the short form <ʧēːn yā>. CHECK: PL of smth like <ʧēn Pūllē> - is it <tōn Pūllē>?
-\ng this woman: ʧēːn yā (the ɓā form is not accepted in the plural).
-\np NOTE: in <ʧēn Kpāntā>, <ʧēn Pūllē> the vowel is short, unlike in <ʧēːn yā>. Compare also <ʧên wōːrā> 'widow'
-\nt The variant forms <tēʔénē / tōʔónā> are from Pa Awballa
 \dt 08/Mar/2016
 
 \lx ʧíɓô(L)
@@ -44852,11 +39498,6 @@
 \sd nature
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_DI_03:3
-\nq ADD examples (DI collected some in 2013 - 2014). CONTROL: The tones and literal meaning of <ʧíɓô wa᷆ːrō(yo᷄)> CONTROL: The literal meaning of <ʧíɓô rǒːn> CONTROL: Length of V2 (DA did occasionally pronounced it longer and he always kept it HL irrespective of the right context)
-\ng
-\np The tonal behaviour of the final HL is strange: (i) it does not simplify before the following L to H, (ii) it does spread on the H of <róːn>. Furthermore,  the final vowel may be occasionally long (in DA's pronunciation), especially in <ʧíɓô rǒːn>. Two analyses are possible: (i) there is a floating L at the end, (ii) the final vowel is long H.L (comparable to words like <mūda᷄> that may have long final vowel in non-prepausal positions). Pre-pausal shortening?
-\nt
 \dt 25/May/2016
 
 \lx ʧímrá
@@ -44867,9 +39508,7 @@
 \pd -ra / -ta
 \pl ʧímtá
 
-\nq
 
-\nt
 \dt 27/Nov/2013
 
 \lx ʧīŋgīɗʧīŋgīɗ
@@ -44879,8 +39518,6 @@
 \pd
 \pl
 
-\so
-\nt Bitrus doesn't know this word
 \dt 05/Dec/2015
 
 \lx ʧīrī
@@ -44894,7 +39531,6 @@
 \pl
 
 
-\nt
 \dt 24/Dec/2013
 
 \lx ʧwākâ
@@ -44908,7 +39544,6 @@
 \pl
 
 
-\nt
 \dt 24/Dec/2013
 
 \lx ʧwēɗē
@@ -44948,11 +39583,6 @@
 \sd
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_DI_03:3
-\nq CONTROL: Tones & meaning in <ā ʧwéɗ nə́ ʧwéɗē> 
-\ng
-\np
-\nt
 \dt 07/Apr/2016
 
 \lx ʧwērkẽ̄
@@ -44963,9 +39593,6 @@
 \re tree (sp)
 \pd
 \pl
-\nt see the entry for 'cobra'. Sabeta does not know a plural... But this looks like a plural form, the expected sinular form is ʧwērkā. And note the surprising initial consonant... NO this is apparently the singular
-\np Initially noted as [ʧwɛ̄rkē].
-\nt Daniel Ayuba: singular ʧīrkē, pl ʧīrkā. BITRUS: ʧīrkã̄ (sg), ʧīrkẽ̄ (pl). The fruit is edible, but it has a lot of fiber, sometimes a bit sweet. Identified by Bitrus as Gardenia erubescens (Trees & Shrubs p.448)
 \mr M.M
 \dt 05/Dec/2015
 
@@ -44977,8 +39604,6 @@
 \re season (rainy_) ; rainy season
 \pd
 \pl
-\so
-\nt
 \dt 28/Nov/2014
 
 \lx ùrô
@@ -44993,9 +39618,6 @@
 \cf gàːsā
 \ce day before yesterday
 
-\so
-\nq CHECK: Predicative vs Attributive vs Adverbial usage. (Adjust PoS)
-\nt
 \dt 01/Dec/2015
 
 \lx wã́ː
@@ -45009,7 +39631,6 @@
 \xe to roast groundnuts
 
 
-\nt
 \dt 27/Nov/2015
 
 \lx wáː
@@ -45046,11 +39667,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt imperative sg form of the verb
 \dt 27/Nov/2015
 
 \lx wáː
@@ -45087,11 +39703,6 @@
 \sd
 \bw
 \ue
-\so
-\nq is there a more technical term for this?
-\ng
-\np
-\nt
 \dt 01/Dec/2015
 
 \lx wàɗà
@@ -45128,11 +39739,6 @@
 \sd
 \bw
 \ue
-\so Sabeta ; Daniel
-\nq
-\ng This verb does not seem to be used in the imperative with an indication of the direction or purpuse. Thus, 'go to the guards!' or 'Go eat the food' allows only kóː (ŋgōː à X ni), not wàɗà. But 'go away!' allows both verbs. However, since kóː cannot be used in the PFV, wàɗà has to be used for directed motion then. 'He left Pella to Bokdor, He went from Pella to Bokdor' = ā bór à Pēllā, áy wâɗ / kóː à Bòkdōr (kóː was first rejected but then the example was provided, apparently because the form here is not PFV but some kind of Subjunctive), but in Future, both kóː & wàɗà are possible. 
-\np
-\nt
 \dt 28/Nov/2014
 
 \lx wã́ːndéŋrā
@@ -45170,11 +39776,6 @@
 \sd animal ; mammal
 \bw
 \ue
-\so
-\nq CHECK: Variant <wã́ːdéŋrā>?
-\ng
-\np
-\nt The Bena call this animal "stupid" in English BITRUS_Pictures_151116_016.jpg, BITRUS_Pictures_151116_017.jpg
 \dt 02/Jun/2016
 
 \lx wáné
@@ -45190,7 +39791,6 @@
 \cf némé
 
 
-\nt also term of address, demonstrative wā not possible in the plural
 \dt 07/Nov/2014
 
 \lx wánná
@@ -45227,11 +39827,6 @@
 \sd religion ; social
 \bw
 \ue
-\so
-\nq RECORD SOUND
-\ng
-\np
-\nt BITRUS_Pictures_151116_018.jpg
 \dt 03/Jan/2016
 
 \lx wàŋgà
@@ -45247,8 +39842,6 @@
 \xe sell guinea corn
 
 
-\nt
-\nq initial vowel or w?
 \dt 13/Dec/2015
 
 \lx wã̀ːrā
@@ -45286,11 +39879,6 @@
 \sd food
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 30/Nov/2015
 
 \lx wāːtə̄rá
@@ -45327,11 +39915,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 11/Feb/2016
 
 \lx wã᷅ː
@@ -45369,11 +39952,6 @@
 \sd tree
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 30/Nov/2015
 
 \lx wa᷆ːrā
@@ -45410,12 +39988,6 @@
 \sd
 \bw
 \ue
-\so
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_DI_03:3
-\nq CHECK: TONE (also the whole paradigm, if the tone pattern is indeed ML.M) & meaning (in other contexts) - 'travel?'!
-\ng
-\np
-\nt May be related to <wāːtə̄rá> 'journey'?
 \dt 24/May/2016
 
 \lx wéː
@@ -45452,11 +40024,6 @@
 \sd
 \bw
 \ue
-\so
-\nq Examples of use? Compare <wén> with a similar meaning that appears in NB_YUN_2015_DI_01:52
-\ng
-\np
-\nt
 \dt 29/Feb/2016
 
 \lx wéː
@@ -45488,11 +40055,6 @@
 \sd action ; food
 \bw
 \ue
-\so
-\nq CONTROL: Tone & V-length in the example <wéː tâbā>
-\ng
-\np
-\nt
 \dt 29/Feb/2016
 
 \lx wéː
@@ -45531,11 +40093,6 @@
 \sd action
 \bw
 \ue
-\so
-\nq CONTROL: V1-length in <wé(ː)áɗá> - is it normally short and only in slow pronunciation optionally long?
-\ng
-\np
-\nt
 \dt
 
 \lx wéː
@@ -45573,11 +40130,6 @@
 \sd human
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 29/Feb/2016
 
 \lx wẽ̂ːɗ
@@ -45614,11 +40166,6 @@
 \sd insect
 \bw
 \ue
-\so
-\nq PL, Agreement?
-\ng
-\np Bitrus gives a short oral vowel <wêɗ>
-\nt Bitrus does not provide PL
 \dt 05/Dec/2015
 
 \lx wêɗ
@@ -45634,10 +40181,6 @@
 \re grasshopper (sp)
 \cf wẽ̂ːɗ
 \ce grasshopper (sp)
-\nq
-\ng
-\np
-\nt
 \dt 13/Dec/2015
 
 \lx wēɗɗa᷆
@@ -45674,11 +40217,6 @@
 \sd animal ;  fish
 \bw
 \ue
-\so
-\nq notation of plural??! M or H on first syllable?
-\ng
-\np
-\nt
 \dt 23/Mar/2015
 
 \lx wēɗē
@@ -45715,11 +40253,6 @@
 \sd nature ; action
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_DI_03:3
-\nq CHECK: NMLZ on -yǒ - possible? CHECK: 'The lightning struck a tree, killed the man', 'The tree was struck by lightning', 'The man was killed by lightning' CHECK: Example of 'flashing' not related to 'lightning' (smth like "The flashing of the lamp kept me awake", "The lamp was flashing", "The fire suddenly flashed", "He flashed the lights of the car")
-\ng
-\np
-\nt
 \dt 07/Apr/2016
 
 \lx wèɗè
@@ -45756,11 +40289,6 @@
 \sd
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:6
-\nq
-\ng
-\np
-\nt
 \dt 26/Feb/2016
 
 \lx wēɗō
@@ -45799,11 +40327,6 @@
 \sd nature ; action
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_DI_03:3
-\nq PL?
-\ng
-\np
-\nt
 \dt 07/Apr/2016
 
 \lx wēlēɓnáːwēlēɓ
@@ -45840,11 +40363,6 @@
 \sd insect
 \bw
 \ue
-\so
-\nq PL, Agreement?
-\ng Lexicalized reduplication
-\np
-\nt
 \dt 13/Dec/2015
 
 \lx wēlēːrá
@@ -45881,11 +40399,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt derived from "adjective" wèlè 'red'; It seems that Awballa sometimes pronounces it entirely high. Tone in isolation checked with Bitrus, should be OK.
 \dt 23/Mar/2015
 
 \lx wélô
@@ -45908,7 +40421,6 @@
 \rf
 \xv ár wélô / wélâ
 \xe red light
-\nq Copied from old field notes without audio verification. CHECK EVERYTHING.
 \lt
 \sy
 \an
@@ -45923,11 +40435,6 @@
 \sd
 \bw
 \ue
-\so
-\nq Is this the word that also means 'ripe'?? Ask examples: A ripe banana, a red tissue, ... SPECIFY: the range of colours it can refer to, smth like warm colours, which exactly?
-\ng DI: like some other colour terms the vq form is wélwél, the attributive derivate is - wélv̂ (agreement of V2). The citation form in the entry is of class wā
-\np
-\nt
 \dt 10/Dec/2015
 
 \lx wélwél
@@ -45964,11 +40471,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: The example <yāː wélwél ya᷇> = something red. Copied from old field notes without audio verification. DI: What is this <yàː> (probably M, but originally noted as L) here?
-\ng
-\np
-\nt
 \dt 10/Dec/2015
 
 \lx wēn
@@ -45986,8 +40488,6 @@
 \cf kōp
 \ce younger same-sex sibling
 
-\so
-\nt zowel paternal als maternal uncles and aunts
 \dt 03/Jan/2016
 
 \lx wér
@@ -46005,9 +40505,6 @@
 \cf kōp
 \ce younger same-sex sibling
 
-\so
-\nt
-\nq final r trill or tap???
 \dt 12/Nov/2014
 
 \lx wēːrâ
@@ -46026,8 +40523,6 @@
 \xv ét we᷇ːrâ
 \xe honest man
 
-\so
-\nt MV: The adverb seems to be the plural form of the noun. DI (Bitrus): the plural form seems to be interchangeable with the singular and does not seem to be an adverb
 \dt 09/Dec/2015
 
 \lx wēːtâ
@@ -46046,8 +40541,6 @@
 \xv ét we᷇ːtâ
 \xe honest man
 
-\so
-\nt
 \dt 09/Dec/2015
 
 \lx wídó
@@ -46085,11 +40578,6 @@
 \sd body ; health
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_03_DI:2
-\nq
-\ng
-\np
-\nt this wound wín wa᷇
 \dt 01/Apr/2016
 
 \lx wíɗɗâ
@@ -46126,11 +40614,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 27/Nov/2014
 
 \lx wīlī
@@ -46167,11 +40650,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 09/Dec/2015
 
 \lx wílímrà
@@ -46208,11 +40686,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 27/Jan/2015
 
 \lx wílímrə̀ nǔː
@@ -46249,11 +40722,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: Tone
-\ng
-\np
-\nt "mythical" space in the eye where insects go that get trapped in the eye
 \dt 11/Feb/2016
 
 \lx wĩ̄ɲō
@@ -46265,8 +40733,6 @@
 \pl wĩ̄ːsâ
 
 
-\nt wĩ̄ɲ(ō) wā - this mosquito
-\nq MV: check notation (ŋwĩ̄yȭ), later transcribed without initial nasal
 \mr M.M
 \dt 04/Dec/2015
 
@@ -46284,8 +40750,6 @@
 \sn 2
 \de forward
 \re forward
-\nt
-\nq Initial glide noted as labiopalatal, rather than labiovelar. Probably due to assimilation. Check, also in comparable contexts, and add to description
 \mr H.HL
 \dt 03/Jan/2016
 
@@ -46323,11 +40787,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 23/Mar/2015
 
 \lx wīrī
@@ -46364,11 +40823,6 @@
 \sd
 \bw
 \ue
-\so Bitrus ; Sabeta
-\nq CONTROL tone
-\ng
-\np
-\nt NB_YUN_2013_03_DI:45-47
 \dt 09/Dec/2015
 
 \lx wíːsó
@@ -46416,11 +40870,6 @@
 \sd religion ; instrument
 \bw
 \ue
-\so
-\nq
-\ng In the sense of traditional religion, this word seems to be mostly used in PL as wíːsâ
-\np
-\nt Cf Berns p536. If you need to refer to cultures with many gods, you would use wíːsó (SG, tone B), wíːsâ (PL) 'spirit(s)'
 \dt 21/Dec/2015
 
 \lx wòɗwòɗɗá
@@ -46463,11 +40912,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 04/Dec/2015
 
 \lx wóːr báːrà
@@ -46506,11 +40950,6 @@
 \sd
 \bw
 \ue
-\so
-\nq is dit wat ze funerailles noemen? wat is de ENgelse term voor dit gebruik SEE NB_YUN_2015_DI_01:10-11 for description and examples
-\ng
-\np
-\nt
 \dt 13/Dec/2015
 
 \lx wóːr to᷇ntá
@@ -46547,11 +40986,6 @@
 \sd
 \bw
 \ue
-\so
-\nq Find correct English term for this type of funerailles. SEE NB_YUN_2015_DI_01:11-12 for description and examples
-\ng
-\np NB: MV originally noted it as <wór tôndá> with -dá rather than -tá
-\nt This is morphologically a PL form
 \dt 29/May/2016
 
 \lx wóːrá
@@ -46587,11 +41021,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: Can it has the meaning 'death'? And if yes, can it also have the plural in -ta?
-\ng
-\np
-\nt Originally, the translation noted by MV is 'death'
 \dt 08/Jan/2016
 
 \lx wótə́wó
@@ -46628,11 +41057,6 @@
 \sd time ; nature
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_DI_03:3
-\nq CHECK: Agreement? PL?
-\ng
-\np
-\nt
 \dt 25/May/2016
 
 \lx wú(L)
@@ -46679,11 +41103,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 08/Mar/2016
 
 \lx wùmō
@@ -46726,11 +41145,6 @@
 \sd animal ; bird
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Is this a species of owl (West African wood owl, perhaps??) or the generic term for owl??
 \dt 07/Nov/2014
 
 \lx wûn(H)
@@ -46767,11 +41181,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 08/Mar/2016
 
 \lx wúró
@@ -46808,11 +41217,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt this world wúr wa᷇
 \dt 23/Mar/2015
 
 \lx wùːtùr
@@ -46835,11 +41239,6 @@
 \sd color
 \bw
 \ue
-\so
-\nq CONTROL: Tone - L or M?
-\ng
-\np
-\nt
 \dt 15/Dec/2015
 
 \lx yáː gûnè
@@ -46882,11 +41281,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: The HL on gû- looks suspicious. Simply H? (The HL tone here can be an option, but the normal pronunciation is expected to be the default pronunciation)
-\ng
-\np
-\nt also term of address for any person older than ego.  NB my parent: yáː gûn yānē
 \dt 03/Jan/2016
 
 \lx yādēnē
@@ -46894,7 +41288,7 @@
 \mr M.M.M
 \va
 \ps n
-\pd -e / -a 
+\pd -e / -a
 \1d yā / wā
 \pl yádéná
 \vpl
@@ -46923,11 +41317,6 @@
 \sd insect ; animal
 \bw
 \ue
-\so
-\nq
-\ng
-\np ATTENTION the plural does not have the same tone as the singular, it seems. Both were initially noted entirely M. Check whether this tonal difference exists for similar nouns too...
-\nt
 \dt 23/Mar/2015
 
 \lx yámá
@@ -46964,11 +41353,6 @@
 \sd
 \bw
 \ue
-\so
-\nq Provide encyclopedic information. Some live in Demsa local government (their LGA), some also in ɓoroŋ and some in the villages pɔkno and bɛ̄lɛ̄ŋgá
-\ng
-\np
-\nt
 \dt 21/Nov/2014
 
 \lx yáŋ
@@ -47005,11 +41389,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK EVERYTHING.
-\ng
-\np
-\nt In Mundang the ideophone ʔyáŋ means 'sans faire bruit'
 \dt 13/Dec/2015
 
 \lx yárá
@@ -47046,11 +41425,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt Bitrus
 \dt 17/Nov/2015
 
 \lx yāːrā
@@ -47087,11 +41461,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt
 \dt 27/Nov/2015
 
 \lx Yārə̄kú
@@ -47128,11 +41497,6 @@
 \sd name ; human ; social
 \bw
 \ue
-\so YUN_PRA_141029_DI_03.eaf ; NB_YUN_2014_03_DI:2
-\nq CHECK: Agreement? In which villages? Primary village?
-\ng
-\np
-\nt
 \dt 07/Mar/2016
 
 \lx yáró
@@ -47180,11 +41544,6 @@
 \sd
 \bw
 \ue
-\so
-\nq
-\ng this oil: yár wa᷇
-\np
-\nt Identify the "melons" in yár mbə́lkẽ́ːtà. It's "guna" in Hausa.
 \dt 04/Feb/2015
 
 \lx yáwá
@@ -47221,11 +41580,6 @@
 \sd
 \bw
 \ue
-\so YUN_PRA_141031_DI_05.eaf ; NB_YUN_2014_03_DI:5
-\nq CHECK: NMLZ yáwyǒ?
-\ng
-\np
-\nt
 \dt 04/Feb/2016
 
 \lx yáwsě
@@ -47262,11 +41616,6 @@
 \sd human
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt ɲāː yáwsè hã᷇ː. This friend: yáwsè ya᷇ 
 \dt 03/Jan/2016
 
 \lx yóː
@@ -47303,11 +41652,6 @@
 \sd action ; food
 \bw
 \ue
-\so
-\nq
-\ng
-\np
-\nt niet voor 'soup'
 \dt 29/Feb/2016
 
 \lx yóŋgó
@@ -47344,11 +41688,6 @@
 \sd
 \bw
 \ue
-\so
-\nq CONTROL: the meaning of the derivate <yōŋmā> and add the right gloss in the ce field
-\ng
-\np
-\nt
 \dt 13/Dec/2015
 
 \lx yōŋmā
@@ -47385,9 +41724,4 @@
 \sd
 \bw
 \ue
-\so
-\nq CHECK: the meaning of <yōŋmā> (+Examples, PL, Agreement) and its relation to the regular nominalized forms of this verb <yóŋgô, yóŋyǒ>; add the right gloss in the ce field in the entry <yóŋgó>
-\ng
-\np
-\nt
 \dt 13/Dec/2015

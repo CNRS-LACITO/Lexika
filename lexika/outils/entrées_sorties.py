@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import lexika.outils
+import lexika
+
+import logging
 import os
 import math
 
@@ -15,7 +17,8 @@ class Lecteur:
         self.données = []
         self.positions_blocs = []
         if not os.path.isfile(self.chemin_accès):
-            raise Exception("Chemin d'entrée non valide")
+            logging.critical(_(f"Chemin d'entrée « {self.chemin_accès} » non valide."))
+            raise
 
     def lire_source(self, balise_bloc: str = None):
         """

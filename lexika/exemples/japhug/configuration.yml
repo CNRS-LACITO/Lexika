@@ -1,7 +1,7 @@
 configuration:
-  chemin source: exemples/japhug/informations linguistiques.yml
+  chemin source: informations linguistiques.yml
 base:
-  chemin source: exemples/japhug/japhug.lex
+  chemin source: japhug.lex
   format d’entrée: MDF Guillaume
   format de sortie: LMF Guillaume
   identifiant: japhug
@@ -12,33 +12,31 @@ général:
   ordre lexicographique: 
       - [a, ɤ, b, β, c, ɕ, d, e, f, g, ɣ, ɢ, h, i, j, ɟ, k, l, ɬ, m, n, ɲ, ŋ, ɴ, o, p, q, r, ʁ, s, ʂ, t, ɯ, w, x, χ, z, ʑ, ʐ]
 langues:
-  jya:
-      type de caractères: latin
-      autoglossonyme: japhug
-      glossonyme: japhug
-      statut: source
-  fra:
-      type de caractères: latin
-      autoglossonyme: français
-      glossonyme: français
-      statut: cible
-  cmn:
-      type de caractères: hanzi
-      autoglossonyme: 普通话
-      glossonyme: chinois
-      statut: cible
-XML:
-  chemin cible: exemples/japhug/japhug.xml
+- code: jya
+  type de caractères: latin
+  glossonyme: japhug
+  statut: source
+- code: fra
+  type de caractères: latin
+  glossonyme: français
+  statut: cible
+- code: cmn
+  type de caractères: hanzi
+  autoglossonyme: 普通话
+  glossonyme: chinois
+  statut: cible
+xml:
+  chemin cible: japhug.xml
   format: α #αβγ
   langue: fra
   XSL: style.xsl
   tri: normal
-Latex:
+latex:
   format: standard
-  gabarit: exemples/japhug/latex.xsl
+  chemin du gabarit: latex.xsl
   langue: fra
-  chemin cible: exemples/japhug/résultats/japhug.tex
+  chemin cible: résultats/japhug.tex
   fichiers annexes:
-    introduction: exemples/japhug/introduction.tex
+    introduction: introduction.tex
 
 

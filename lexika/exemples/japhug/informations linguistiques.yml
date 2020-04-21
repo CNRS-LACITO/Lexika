@@ -1,0 +1,129 @@
+﻿formats:
+    entrée:
+        MDF Guillaume:
+            parent: MDF
+            modèles:
+                texte enrichi:
+                    - type: style
+                      origine: (?P<ensemble>(?P<style>fl|fn|fg|fr|fe|fs|fi|ax|vl):(?P<texte>.+?)(?P<fin>[\s\p{Punctuation}]))|(?P<ensemble>\|(?P<style>fl|fn|fg|fr|fe|fs|fi|ax|vl){(?P<texte>.+?)})
+                      but: <style type="\g<style>">\g<texte></style>\g<fin>
+                    - type: lien
+                      origine: (?P<ensemble>fv:/(?P<vedette>.+?)/)|(?P<ensemble>\|fv{/(?P<vedette>.+?)/})
+                      but: <lien cible="\g<cible>">\g<vedette></lien>
+                      défaut: <lien statut="brisé">\g<vedette></lien>
+                      cible: vedette
+                    - type: lien
+                      origine: (?P<ensemble>fv:(?P<vedette>.+?)(?P<fin>[[\s\p{Punctuation}]--[-]]))|(?P<ensemble>\|fv{(?P<vedette>.+?)})
+                      but: <lien cible="\g<cible>">\g<vedette></lien>
+                      défaut: <lien statut="brisé">\g<vedette></lien>
+                      cible: vedette
+                    - type: relation
+                      origine: (?P<ensemble>(?P<vedette>[^\d]+)(?P<numéro_dʼhomonyme>[\d]+)*)
+                    - type: floutage de lien
+                      origine: ([_])
+            balises:
+                # Balises liée à l'entrée.
+                a:
+                    abstraction: variante lexicale
+                # Balises liées aux définitions.
+                ge:
+                    abstraction: définition
+                    caractéristiques:
+                        langue: cible 1
+                gn:
+                    abstraction: définition
+                    caractéristiques:
+                        langue: cible 2
+                ev:
+                    abstraction: information encyclopédique
+                    caractéristiques:
+                        langue: source 1
+                en:
+                    abstraction: information encyclopédique
+                    caractéristiques:
+                        langue: cible 2
+                # Balises liées aux médias.
+                wav:
+                    abstractions:
+                        - nom: chemin d’accès d’audio
+                        - nom: qualité audio
+                          valeur: élevée
+                wav8:
+                    abstractions:
+                        - nom: chemin d’accès d’audio
+                        - nom: qualité audio
+                          valeur: faible
+    sortie:
+        LMF Guillaume:
+            parent: LMF
+            modèles:
+                renvoi: ^(?P<entrée_lexicale>[\w\s~\[\].,\p{Spacing Modifier Letters}#$-]+?)(?P<numéro_dʼhomonyme>[\d]*)$"
+            abstractions:
+                # Abstractions directement liées aux sens.
+                relation sémantique:
+                    entité:
+                        nom: relation sémantique
+                    parent:
+                        nom: sens
+                    préabstraction:
+                        nom: sens
+                    spécial:
+                        drapeaux:
+                            - bloc
+                paradigme:
+                    entité:
+                        nom: paradigme
+                    parent:
+                        nom: sens
+                    préabstraction:
+                        nom: sens
+                bloc forme de mot:
+                    entité:
+                        nom: forme de mot
+                    parent:
+                        nom: sens
+                bloc information encyclopédique:
+                    entité:
+                        nom: information encyclopédique
+                    parent:
+                        nom: sens
+                information encyclopédique:
+                    entité:
+                        nom: représentation de texte
+                        spécial:
+                            drapeaux:
+                                - texte enrichi
+                    parent:
+                        nom: information encyclopédique
+                    préabstraction:
+                        nom: bloc information encyclopédique
+                # Abstractions directement liées aux définitions.
+                note d’usage:
+                    entité:
+                        nom: note d’usage
+                        spécial:
+                            drapeaux:
+                                - texte enrichi
+                    parent:
+                        nom: définition
+                # Abstractions directement liées aux médias.
+                audio:
+                    entité:
+                        nom: audio
+                    parent:
+                        nom:
+                            - entrée lexicale
+                            - sous-entrée lexicale
+                chemin d’accès d’audio:
+                    entité:
+                        nom: chemin d’accès
+                    parent:
+                        nom: audio
+                    préabstraction:
+                        nom: audio
+                        voie: impérieuse
+                qualité audio:
+                    entité:
+                        nom: qualité
+                    parent:
+                        nom: audio
