@@ -1,6 +1,7 @@
+.*
+venv
 *.aux
 *.gz
 *.out
 *.log
 *.pyc
-
